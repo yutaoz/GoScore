@@ -1,55 +1,55 @@
-Thu Nov 1 1956,Minneapolis Lakers,Rochester Royals,97,88,Cambria County War Memorial Arena,0,/boxscores/195611010MNL.html"
-Sat Nov 3 1956,Boston Celtics,New York Knicks,107,113,Boston Garden,0,/boxscores/195611030BOS.html"
-Sat Nov 3 1956,St. Louis Hawks,Syracuse Nationals,73,75,Buffalo Memorial Auditorium,0,/boxscores/195611030STL.html"
-Sat Nov 3 1956,Philadelphia Warriors,Fort Wayne Pistons,116,81,Convention Hall,0,/boxscores/195611030PHW.html"
-Sat Nov 3 1956,Rochester Royals,Minneapolis Lakers,85,95,Rochester Community War Memorial,0,/boxscores/195611030ROC.html"
-Sun Nov 4 1956,Fort Wayne Pistons,New York Knicks,83,96,War Memorial Coliseum,0,/boxscores/195611040FTW.html"
-Sun Nov 4 1956,Minneapolis Lakers,Rochester Royals,88,87,Minneapolis Auditorium,0,/boxscores/195611040MNL.html"
-Sun Nov 4 1956,Syracuse Nationals,St. Louis Hawks,76,78,Onondaga War Memorial,0,/boxscores/195611040SYR.html"
-Wed Nov 7 1956,Rochester Royals,Philadelphia Warriors,81,80,Rochester Community War Memorial,0,/boxscores/195611070ROC.html"
-Wed Nov 7 1956,St. Louis Hawks,New York Knicks,107,101,Kiel Auditorium,0,/boxscores/195611070STL.html"
-Fri Nov 9 1956,Philadelphia Warriors,Rochester Royals,93,95,Lincoln High School,0,/boxscores/195611090PHW.html"
-Sat Nov 10 1956,Boston Celtics,Minneapolis Lakers,117,110,Boston Garden,0,/boxscores/195611100BOS.html"
-Sat Nov 10 1956,Philadelphia Warriors,New York Knicks,83,81,Convention Hall,0,/boxscores/195611100PHW.html"
-Sat Nov 10 1956,Rochester Royals,Syracuse Nationals,90,76,Rochester Community War Memorial,0,/boxscores/195611100ROC.html"
-Sat Nov 10 1956,St. Louis Hawks,Fort Wayne Pistons,86,79,Kiel Auditorium,0,/boxscores/195611100STL.html"
-Sun Nov 11 1956,Fort Wayne Pistons,St. Louis Hawks,96,81,War Memorial Coliseum,0,/boxscores/195611110FTW.html"
-Sun Nov 11 1956,Syracuse Nationals,Boston Celtics,83,94,Onondaga War Memorial,0,/boxscores/195611110SYR.html"
-Sun Nov 11 1956,New York Knicks,Philadelphia Warriors,106,95,Madison Square Garden (III),0,/boxscores/195611110NYK.html"
-Sun Nov 11 1956,Minneapolis Lakers,Rochester Royals,82,94,Madison Square Garden (III),0,/boxscores/195611110MNL.html"
-Tue Nov 13 1956,St. Louis Hawks,Rochester Royals,118,105,Kiel Auditorium,0,/boxscores/195611130STL.html"
-Wed Nov 14 1956,Boston Celtics,Minneapolis Lakers,97,113,Rochester Community War Memorial,0,/boxscores/195611140BOS.html"
-Wed Nov 14 1956,Rochester Royals,New York Knicks,90,87,Rochester Community War Memorial,0,/boxscores/195611140ROC.html"
-Thu Nov 15 1956,Fort Wayne Pistons,Boston Celtics,98,95,War Memorial Coliseum,0,/boxscores/195611150FTW.html"
-Thu Nov 15 1956,Philadelphia Warriors,Rochester Royals,92,83,Hershey Sports Arena,0,/boxscores/195611150PHW.html"
-Thu Nov 15 1956,Syracuse Nationals,Minneapolis Lakers,96,103,Onondaga War Memorial,0,/boxscores/195611150SYR.html"
-Fri Nov 16 1956,Philadelphia Warriors,Minneapolis Lakers,123,97,Convention Hall,0,/boxscores/195611160PHW.html"
-Sat Nov 17 1956,St. Louis Hawks,Fort Wayne Pistons,92,87,Kiel Auditorium,0,/boxscores/195611170STL.html"
-Sat Nov 17 1956,Philadelphia Warriors,Syracuse Nationals,109,96,Camden Convention Hall,0,/boxscores/195611170PHW.html"
-Sat Nov 17 1956,Boston Celtics,Rochester Royals,108,86,Boston Garden,0,/boxscores/195611170BOS.html"
-Sun Nov 18 1956,Minneapolis Lakers,Fort Wayne Pistons,107,111,Minneapolis Auditorium,0,/boxscores/195611180MNL.html"
-Sun Nov 18 1956,New York Knicks,St. Louis Hawks,102,69,Madison Square Garden (III),0,/boxscores/195611180NYK.html"
-Sun Nov 18 1956,Rochester Royals,Boston Celtics,87,101,Rochester Community War Memorial,0,/boxscores/195611180ROC.html"
-Sun Nov 18 1956,Syracuse Nationals,Philadelphia Warriors,99,97,Onondaga War Memorial,0,/boxscores/195611180SYR.html"
-Tue Nov 20 1956,St. Louis Hawks,Syracuse Nationals,104,81,Kiel Auditorium,0,/boxscores/195611200STL.html"
-Wed Nov 21 1956,Boston Celtics,Philadelphia Warriors,95,83,Boston Garden,0,/boxscores/195611210BOS.html"
-Wed Nov 21 1956,Fort Wayne Pistons,New York Knicks,104,103,Boston Garden,0,/boxscores/195611210FTW.html"
-Wed Nov 21 1956,Rochester Royals,St. Louis Hawks,85,76,Rochester Community War Memorial,0,/boxscores/195611210ROC.html"
-Thu Nov 22 1956,Fort Wayne Pistons,Rochester Royals,104,102,War Memorial Coliseum,0,/boxscores/195611220FTW.html"
-Thu Nov 22 1956,Minneapolis Lakers,Syracuse Nationals,111,78,Minneapolis Auditorium,0,/boxscores/195611220MNL.html"
-Thu Nov 22 1956,Philadelphia Warriors,Boston Celtics,78,101,Convention Hall,0,/boxscores/195611220PHW.html"
-Sat Nov 24 1956,New York Knicks,Rochester Royals,87,96,Madison Square Garden (III),0,/boxscores/195611240NYK.html"
-Sat Nov 24 1956,St. Louis Hawks,Minneapolis Lakers,102,104,Kiel Auditorium,0,/boxscores/195611240STL.html"
-Sat Nov 24 1956,Philadelphia Warriors,Fort Wayne Pistons,98,88,Convention Hall,0,/boxscores/195611240PHW.html"
-Sat Nov 24 1956,Boston Celtics,Syracuse Nationals,114,99,Boston Garden,0,/boxscores/195611240BOS.html"
-Sun Nov 25 1956,Fort Wayne Pistons,Philadelphia Warriors,112,88,War Memorial Coliseum,0,/boxscores/195611250FTW.html"
-Sun Nov 25 1956,Minneapolis Lakers,St. Louis Hawks,94,95,Minneapolis Auditorium,0,/boxscores/195611250MNL.html"
-Sun Nov 25 1956,Rochester Royals,New York Knicks,95,93,Rochester Community War Memorial,0,/boxscores/195611250ROC.html"
-Tue Nov 27 1956,Minneapolis Lakers,Philadelphia Warriors,113,98,Kiel Auditorium,0,/boxscores/195611270MNL.html"
-Tue Nov 27 1956,New York Knicks,Fort Wayne Pistons,105,98,Madison Square Garden (III),0,/boxscores/195611270NYK.html"
-Tue Nov 27 1956,Rochester Royals,Syracuse Nationals,90,82,Madison Square Garden (III),0,/boxscores/195611270ROC.html"
-Tue Nov 27 1956,St. Louis Hawks,Boston Celtics,90,102,Kiel Auditorium,0,/boxscores/195611270STL.html"
-Wed Nov 28 1956,Boston Celtics,Minneapolis Lakers,105,93,Kentucky State Fairgrounds,0,/boxscores/195611280BOS.html"
-Thu Nov 29 1956,Syracuse Nationals,Fort Wayne Pistons,87,92,Onondaga War Memorial,0,/boxscores/195611290SYR.html"
-Fri Nov 30 1956,Boston Celtics,Fort Wayne Pistons,104,102,Convention Hall,0,/boxscores/195611300BOS.html"
-Fri Nov 30 1956,Philadelphia Warriors,New York Knicks,110,99,Convention Hall,0,/boxscores/195611300PHW.html"
+Thu Nov 1 1956,Minneapolis Lakers,Rochester Royals,97,88,Cambria County War Memorial Arena,0,/boxscores/195611010MNL.html
+Sat Nov 3 1956,Boston Celtics,New York Knicks,107,113,Boston Garden,0,/boxscores/195611030BOS.html
+Sat Nov 3 1956,St. Louis Hawks,Syracuse Nationals,73,75,Buffalo Memorial Auditorium,0,/boxscores/195611030STL.html
+Sat Nov 3 1956,Philadelphia Warriors,Fort Wayne Pistons,116,81,Convention Hall,0,/boxscores/195611030PHW.html
+Sat Nov 3 1956,Rochester Royals,Minneapolis Lakers,85,95,Rochester Community War Memorial,0,/boxscores/195611030ROC.html
+Sun Nov 4 1956,Fort Wayne Pistons,New York Knicks,83,96,War Memorial Coliseum,0,/boxscores/195611040FTW.html
+Sun Nov 4 1956,Minneapolis Lakers,Rochester Royals,88,87,Minneapolis Auditorium,0,/boxscores/195611040MNL.html
+Sun Nov 4 1956,Syracuse Nationals,St. Louis Hawks,76,78,Onondaga War Memorial,0,/boxscores/195611040SYR.html
+Wed Nov 7 1956,Rochester Royals,Philadelphia Warriors,81,80,Rochester Community War Memorial,0,/boxscores/195611070ROC.html
+Wed Nov 7 1956,St. Louis Hawks,New York Knicks,107,101,Kiel Auditorium,0,/boxscores/195611070STL.html
+Fri Nov 9 1956,Philadelphia Warriors,Rochester Royals,93,95,Lincoln High School,0,/boxscores/195611090PHW.html
+Sat Nov 10 1956,Boston Celtics,Minneapolis Lakers,117,110,Boston Garden,0,/boxscores/195611100BOS.html
+Sat Nov 10 1956,Philadelphia Warriors,New York Knicks,83,81,Convention Hall,0,/boxscores/195611100PHW.html
+Sat Nov 10 1956,Rochester Royals,Syracuse Nationals,90,76,Rochester Community War Memorial,0,/boxscores/195611100ROC.html
+Sat Nov 10 1956,St. Louis Hawks,Fort Wayne Pistons,86,79,Kiel Auditorium,0,/boxscores/195611100STL.html
+Sun Nov 11 1956,Fort Wayne Pistons,St. Louis Hawks,96,81,War Memorial Coliseum,0,/boxscores/195611110FTW.html
+Sun Nov 11 1956,Syracuse Nationals,Boston Celtics,83,94,Onondaga War Memorial,0,/boxscores/195611110SYR.html
+Sun Nov 11 1956,New York Knicks,Philadelphia Warriors,106,95,Madison Square Garden (III),0,/boxscores/195611110NYK.html
+Sun Nov 11 1956,Minneapolis Lakers,Rochester Royals,82,94,Madison Square Garden (III),0,/boxscores/195611110MNL.html
+Tue Nov 13 1956,St. Louis Hawks,Rochester Royals,118,105,Kiel Auditorium,0,/boxscores/195611130STL.html
+Wed Nov 14 1956,Boston Celtics,Minneapolis Lakers,97,113,Rochester Community War Memorial,0,/boxscores/195611140BOS.html
+Wed Nov 14 1956,Rochester Royals,New York Knicks,90,87,Rochester Community War Memorial,0,/boxscores/195611140ROC.html
+Thu Nov 15 1956,Fort Wayne Pistons,Boston Celtics,98,95,War Memorial Coliseum,0,/boxscores/195611150FTW.html
+Thu Nov 15 1956,Philadelphia Warriors,Rochester Royals,92,83,Hershey Sports Arena,0,/boxscores/195611150PHW.html
+Thu Nov 15 1956,Syracuse Nationals,Minneapolis Lakers,96,103,Onondaga War Memorial,0,/boxscores/195611150SYR.html
+Fri Nov 16 1956,Philadelphia Warriors,Minneapolis Lakers,123,97,Convention Hall,0,/boxscores/195611160PHW.html
+Sat Nov 17 1956,St. Louis Hawks,Fort Wayne Pistons,92,87,Kiel Auditorium,0,/boxscores/195611170STL.html
+Sat Nov 17 1956,Philadelphia Warriors,Syracuse Nationals,109,96,Camden Convention Hall,0,/boxscores/195611170PHW.html
+Sat Nov 17 1956,Boston Celtics,Rochester Royals,108,86,Boston Garden,0,/boxscores/195611170BOS.html
+Sun Nov 18 1956,Minneapolis Lakers,Fort Wayne Pistons,107,111,Minneapolis Auditorium,0,/boxscores/195611180MNL.html
+Sun Nov 18 1956,New York Knicks,St. Louis Hawks,102,69,Madison Square Garden (III),0,/boxscores/195611180NYK.html
+Sun Nov 18 1956,Rochester Royals,Boston Celtics,87,101,Rochester Community War Memorial,0,/boxscores/195611180ROC.html
+Sun Nov 18 1956,Syracuse Nationals,Philadelphia Warriors,99,97,Onondaga War Memorial,0,/boxscores/195611180SYR.html
+Tue Nov 20 1956,St. Louis Hawks,Syracuse Nationals,104,81,Kiel Auditorium,0,/boxscores/195611200STL.html
+Wed Nov 21 1956,Boston Celtics,Philadelphia Warriors,95,83,Boston Garden,0,/boxscores/195611210BOS.html
+Wed Nov 21 1956,Fort Wayne Pistons,New York Knicks,104,103,Boston Garden,0,/boxscores/195611210FTW.html
+Wed Nov 21 1956,Rochester Royals,St. Louis Hawks,85,76,Rochester Community War Memorial,0,/boxscores/195611210ROC.html
+Thu Nov 22 1956,Fort Wayne Pistons,Rochester Royals,104,102,War Memorial Coliseum,0,/boxscores/195611220FTW.html
+Thu Nov 22 1956,Minneapolis Lakers,Syracuse Nationals,111,78,Minneapolis Auditorium,0,/boxscores/195611220MNL.html
+Thu Nov 22 1956,Philadelphia Warriors,Boston Celtics,78,101,Convention Hall,0,/boxscores/195611220PHW.html
+Sat Nov 24 1956,New York Knicks,Rochester Royals,87,96,Madison Square Garden (III),0,/boxscores/195611240NYK.html
+Sat Nov 24 1956,St. Louis Hawks,Minneapolis Lakers,102,104,Kiel Auditorium,0,/boxscores/195611240STL.html
+Sat Nov 24 1956,Philadelphia Warriors,Fort Wayne Pistons,98,88,Convention Hall,0,/boxscores/195611240PHW.html
+Sat Nov 24 1956,Boston Celtics,Syracuse Nationals,114,99,Boston Garden,0,/boxscores/195611240BOS.html
+Sun Nov 25 1956,Fort Wayne Pistons,Philadelphia Warriors,112,88,War Memorial Coliseum,0,/boxscores/195611250FTW.html
+Sun Nov 25 1956,Minneapolis Lakers,St. Louis Hawks,94,95,Minneapolis Auditorium,0,/boxscores/195611250MNL.html
+Sun Nov 25 1956,Rochester Royals,New York Knicks,95,93,Rochester Community War Memorial,0,/boxscores/195611250ROC.html
+Tue Nov 27 1956,Minneapolis Lakers,Philadelphia Warriors,113,98,Kiel Auditorium,0,/boxscores/195611270MNL.html
+Tue Nov 27 1956,New York Knicks,Fort Wayne Pistons,105,98,Madison Square Garden (III),0,/boxscores/195611270NYK.html
+Tue Nov 27 1956,Rochester Royals,Syracuse Nationals,90,82,Madison Square Garden (III),0,/boxscores/195611270ROC.html
+Tue Nov 27 1956,St. Louis Hawks,Boston Celtics,90,102,Kiel Auditorium,0,/boxscores/195611270STL.html
+Wed Nov 28 1956,Boston Celtics,Minneapolis Lakers,105,93,Kentucky State Fairgrounds,0,/boxscores/195611280BOS.html
+Thu Nov 29 1956,Syracuse Nationals,Fort Wayne Pistons,87,92,Onondaga War Memorial,0,/boxscores/195611290SYR.html
+Fri Nov 30 1956,Boston Celtics,Fort Wayne Pistons,104,102,Convention Hall,0,/boxscores/195611300BOS.html
+Fri Nov 30 1956,Philadelphia Warriors,New York Knicks,110,99,Convention Hall,0,/boxscores/195611300PHW.html

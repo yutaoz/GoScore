@@ -1,70 +1,70 @@
-Tue Jan 1 1957,Rochester Royals,St. Louis Hawks,102,101,Rochester Community War Memorial,0,/boxscores/195701010ROC.html"
-Tue Jan 1 1957,Boston Celtics,Philadelphia Warriors,100,87,Onondaga War Memorial,0,/boxscores/195701010BOS.html"
-Tue Jan 1 1957,Syracuse Nationals,New York Knicks,106,102,Onondaga War Memorial,0,/boxscores/195701010SYR.html"
-Thu Jan 3 1957,Fort Wayne Pistons,Minneapolis Lakers,104,102,War Memorial Coliseum,0,/boxscores/195701030FTW.html"
-Thu Jan 3 1957,New York Knicks,Syracuse Nationals,126,111,Madison Square Garden (III),0,/boxscores/195701030NYK.html"
-Thu Jan 3 1957,Philadelphia Warriors,St. Louis Hawks,82,81,Madison Square Garden (III),0,/boxscores/195701030PHW.html"
-Fri Jan 4 1957,Boston Celtics,Syracuse Nationals,106,116,Convention Hall,0,/boxscores/195701040BOS.html"
-Fri Jan 4 1957,Philadelphia Warriors,St. Louis Hawks,96,92,Convention Hall,0,/boxscores/195701040PHW.html"
-Sat Jan 5 1957,Fort Wayne Pistons,New York Knicks,109,96,War Memorial Coliseum,0,/boxscores/195701050FTW.html"
-Sat Jan 5 1957,Rochester Royals,Philadelphia Warriors,78,81,Rochester Community War Memorial,0,/boxscores/195701050ROC.html"
-Sun Jan 6 1957,Minneapolis Lakers,New York Knicks,101,111,Minneapolis Auditorium,0,/boxscores/195701060MNL.html"
-Sun Jan 6 1957,Syracuse Nationals,Philadelphia Warriors,128,123,Onondaga War Memorial,0,/boxscores/195701060SYR.html"
-Sun Jan 6 1957,St. Louis Hawks,Rochester Royals,86,93,Kiel Auditorium,0,/boxscores/195701060STL.html"
-Sun Jan 6 1957,Boston Celtics,Fort Wayne Pistons,118,92,Boston Garden,0,/boxscores/195701060BOS.html"
-Tue Jan 8 1957,Fort Wayne Pistons,Minneapolis Lakers,87,86,Winnipeg Arena,0,/boxscores/195701080FTW.html"
-Tue Jan 8 1957,New York Knicks,Boston Celtics,113,102,Madison Square Garden (III),0,/boxscores/195701080NYK.html"
-Tue Jan 8 1957,Philadelphia Warriors,Rochester Royals,94,95,Madison Square Garden (III),0,/boxscores/195701080PHW.html"
-Wed Jan 9 1957,Minneapolis Lakers,Syracuse Nationals,93,86,Concordia Fieldhouse,0,/boxscores/195701090MNL.html"
-Thu Jan 10 1957,Fort Wayne Pistons,Boston Celtics,81,98,War Memorial Coliseum,0,/boxscores/195701100FTW.html"
-Thu Jan 10 1957,Syracuse Nationals,Minneapolis Lakers,110,118,Onondaga War Memorial,0,/boxscores/195701100SYR.html"
-Thu Jan 10 1957,Philadelphia Warriors,Rochester Royals,112,93,Convention Hall,0,/boxscores/195701100PHW.html"
-Thu Jan 10 1957,New York Knicks,St. Louis Hawks,89,84,Convention Hall,0,/boxscores/195701100NYK.html"
-Sat Jan 12 1957,Fort Wayne Pistons,Minneapolis Lakers,87,105,St. Louis Arena,0,/boxscores/195701120FTW.html"
-Sat Jan 12 1957,Philadelphia Warriors,New York Knicks,116,82,Convention Hall,0,/boxscores/195701120PHW.html"
-Sat Jan 12 1957,Rochester Royals,Syracuse Nationals,88,97,Rochester Community War Memorial,0,/boxscores/195701120ROC.html"
-Sat Jan 12 1957,St. Louis Hawks,Boston Celtics,100,98,St. Louis Arena,0,/boxscores/195701120STL.html"
-Sun Jan 13 1957,Fort Wayne Pistons,St. Louis Hawks,91,89,War Memorial Coliseum,0,/boxscores/195701130FTW.html"
-Sun Jan 13 1957,Minneapolis Lakers,Boston Celtics,104,87,Minneapolis Auditorium,0,/boxscores/195701130MNL.html"
-Sun Jan 13 1957,New York Knicks,Philadelphia Warriors,101,90,Madison Square Garden (III),0,/boxscores/195701130NYK.html"
-Sun Jan 13 1957,Syracuse Nationals,Rochester Royals,91,85,Onondaga War Memorial,0,/boxscores/195701130SYR.html"
-Wed Jan 16 1957,Rochester Royals,St. Louis Hawks,106,108,Rochester Community War Memorial,0,/boxscores/195701160ROC.html"
-Thu Jan 17 1957,Fort Wayne Pistons,St. Louis Hawks,82,106,Convention Hall,0,/boxscores/195701170FTW.html"
-Thu Jan 17 1957,Minneapolis Lakers,New York Knicks,93,94,Mary E. Sawyer Auditorium,0,/boxscores/195701170MNL.html"
-Thu Jan 17 1957,Philadelphia Warriors,Syracuse Nationals,103,108,Convention Hall,0,/boxscores/195701170PHW.html"
-Fri Jan 18 1957,Philadelphia Warriors,Syracuse Nationals,96,94,Boston Garden,0,/boxscores/195701180PHW.html"
-Fri Jan 18 1957,Boston Celtics,St. Louis Hawks,126,117,Boston Garden,0,/boxscores/195701180BOS.html"
-Sat Jan 19 1957,New York Knicks,Fort Wayne Pistons,102,100,Madison Square Garden (III),0,/boxscores/195701190NYK.html"
-Sat Jan 19 1957,Syracuse Nationals,St. Louis Hawks,96,104,Onondaga War Memorial,0,/boxscores/195701190SYR.html"
-Sat Jan 19 1957,Rochester Royals,Boston Celtics,83,97,Rochester Community War Memorial,0,/boxscores/195701190ROC.html"
-Sun Jan 20 1957,Boston Celtics,New York Knicks,114,78,Boston Garden,0,/boxscores/195701200BOS.html"
-Sun Jan 20 1957,Minneapolis Lakers,Rochester Royals,114,107,Minneapolis Auditorium,0,/boxscores/195701200MNL.html"
-Sun Jan 20 1957,St. Louis Hawks,Philadelphia Warriors,104,102,Kiel Auditorium,0,/boxscores/195701200STL.html"
-Sun Jan 20 1957,Syracuse Nationals,Fort Wayne Pistons,101,98,Onondaga War Memorial,0,/boxscores/195701200SYR.html"
-Tue Jan 22 1957,Fort Wayne Pistons,St. Louis Hawks,97,87,War Memorial Coliseum,0,/boxscores/195701220FTW.html"
-Tue Jan 22 1957,New York Knicks,Syracuse Nationals,90,88,69th Regiment Armory,0,/boxscores/195701220NYK.html"
-Wed Jan 23 1957,Boston Celtics,Syracuse Nationals,140,108,Boston Garden,0,/boxscores/195701230BOS.html"
-Wed Jan 23 1957,Fort Wayne Pistons,St. Louis Hawks,78,101,Charlotte Coliseum,0,/boxscores/195701230FTW.html"
-Wed Jan 23 1957,Minneapolis Lakers,Rochester Royals,107,99,Kentucky State Fairgrounds,0,/boxscores/195701230MNL.html"
-Wed Jan 23 1957,New York Knicks,Philadelphia Warriors,93,99,Boston Garden,0,/boxscores/195701230NYK.html"
-Thu Jan 24 1957,Philadelphia Warriors,St. Louis Hawks,107,96,Philadelphia Arena,0,/boxscores/195701240PHW.html"
-Thu Jan 24 1957,Syracuse Nationals,New York Knicks,115,97,Onondaga War Memorial,0,/boxscores/195701240SYR.html"
-Fri Jan 25 1957,Rochester Royals,St. Louis Hawks,99,100,Boston Garden,0,/boxscores/195701250ROC.html"
-Fri Jan 25 1957,Boston Celtics,Minneapolis Lakers,115,106,Boston Garden,0,/boxscores/195701250BOS.html"
-Sat Jan 26 1957,Fort Wayne Pistons,Philadelphia Warriors,101,98,War Memorial Coliseum,0,/boxscores/195701260FTW.html"
-Sat Jan 26 1957,New York Knicks,Minneapolis Lakers,122,107,69th Regiment Armory,0,/boxscores/195701260NYK.html"
-Sat Jan 26 1957,Rochester Royals,Syracuse Nationals,95,99,Rochester Community War Memorial,0,/boxscores/195701260ROC.html"
-Sun Jan 27 1957,Fort Wayne Pistons,New York Knicks,103,102,War Memorial Coliseum,0,/boxscores/195701270FTW.html"
-Sun Jan 27 1957,Philadelphia Warriors,Boston Celtics,87,107,Convention Hall,0,/boxscores/195701270PHW.html"
-Sun Jan 27 1957,St. Louis Hawks,Rochester Royals,107,83,Kiel Auditorium,0,/boxscores/195701270STL.html"
-Sun Jan 27 1957,Syracuse Nationals,Minneapolis Lakers,94,93,Onondaga War Memorial,0,/boxscores/195701270SYR.html"
-Mon Jan 28 1957,Minneapolis Lakers,Syracuse Nationals,96,112,Boston Garden,0,/boxscores/195701280MNL.html"
-Mon Jan 28 1957,Boston Celtics,Philadelphia Warriors,105,95,Boston Garden,0,/boxscores/195701280BOS.html"
-Tue Jan 29 1957,Boston Celtics,Minneapolis Lakers,103,91,Madison Square Garden (III),0,/boxscores/195701290BOS.html"
-Tue Jan 29 1957,New York Knicks,Philadelphia Warriors,114,110,Madison Square Garden (III),0,/boxscores/195701290NYK.html"
-Tue Jan 29 1957,St. Louis Hawks,Fort Wayne Pistons,85,91,Kiel Auditorium,0,/boxscores/195701290STL.html"
-Wed Jan 30 1957,Boston Celtics,Syracuse Nationals,116,119,Boston Garden,0,/boxscores/195701300BOS.html"
-Wed Jan 30 1957,New York Knicks,Rochester Royals,92,80,Boston Garden,0,/boxscores/195701300NYK.html"
-Thu Jan 31 1957,Minneapolis Lakers,Fort Wayne Pistons,107,111,Minneapolis Auditorium,0,/boxscores/195701310MNL.html"
-Thu Jan 31 1957,New York Knicks,Philadelphia Warriors,102,106,Onondaga War Memorial,0,/boxscores/195701310NYK.html"
-Thu Jan 31 1957,Syracuse Nationals,Boston Celtics,105,104,Onondaga War Memorial,0,/boxscores/195701310SYR.html"
+Tue Jan 1 1957,Rochester Royals,St. Louis Hawks,102,101,Rochester Community War Memorial,0,/boxscores/195701010ROC.html
+Tue Jan 1 1957,Boston Celtics,Philadelphia Warriors,100,87,Onondaga War Memorial,0,/boxscores/195701010BOS.html
+Tue Jan 1 1957,Syracuse Nationals,New York Knicks,106,102,Onondaga War Memorial,0,/boxscores/195701010SYR.html
+Thu Jan 3 1957,Fort Wayne Pistons,Minneapolis Lakers,104,102,War Memorial Coliseum,0,/boxscores/195701030FTW.html
+Thu Jan 3 1957,New York Knicks,Syracuse Nationals,126,111,Madison Square Garden (III),0,/boxscores/195701030NYK.html
+Thu Jan 3 1957,Philadelphia Warriors,St. Louis Hawks,82,81,Madison Square Garden (III),0,/boxscores/195701030PHW.html
+Fri Jan 4 1957,Boston Celtics,Syracuse Nationals,106,116,Convention Hall,0,/boxscores/195701040BOS.html
+Fri Jan 4 1957,Philadelphia Warriors,St. Louis Hawks,96,92,Convention Hall,0,/boxscores/195701040PHW.html
+Sat Jan 5 1957,Fort Wayne Pistons,New York Knicks,109,96,War Memorial Coliseum,0,/boxscores/195701050FTW.html
+Sat Jan 5 1957,Rochester Royals,Philadelphia Warriors,78,81,Rochester Community War Memorial,0,/boxscores/195701050ROC.html
+Sun Jan 6 1957,Minneapolis Lakers,New York Knicks,101,111,Minneapolis Auditorium,0,/boxscores/195701060MNL.html
+Sun Jan 6 1957,Syracuse Nationals,Philadelphia Warriors,128,123,Onondaga War Memorial,0,/boxscores/195701060SYR.html
+Sun Jan 6 1957,St. Louis Hawks,Rochester Royals,86,93,Kiel Auditorium,0,/boxscores/195701060STL.html
+Sun Jan 6 1957,Boston Celtics,Fort Wayne Pistons,118,92,Boston Garden,0,/boxscores/195701060BOS.html
+Tue Jan 8 1957,Fort Wayne Pistons,Minneapolis Lakers,87,86,Winnipeg Arena,0,/boxscores/195701080FTW.html
+Tue Jan 8 1957,New York Knicks,Boston Celtics,113,102,Madison Square Garden (III),0,/boxscores/195701080NYK.html
+Tue Jan 8 1957,Philadelphia Warriors,Rochester Royals,94,95,Madison Square Garden (III),0,/boxscores/195701080PHW.html
+Wed Jan 9 1957,Minneapolis Lakers,Syracuse Nationals,93,86,Concordia Fieldhouse,0,/boxscores/195701090MNL.html
+Thu Jan 10 1957,Fort Wayne Pistons,Boston Celtics,81,98,War Memorial Coliseum,0,/boxscores/195701100FTW.html
+Thu Jan 10 1957,Syracuse Nationals,Minneapolis Lakers,110,118,Onondaga War Memorial,0,/boxscores/195701100SYR.html
+Thu Jan 10 1957,Philadelphia Warriors,Rochester Royals,112,93,Convention Hall,0,/boxscores/195701100PHW.html
+Thu Jan 10 1957,New York Knicks,St. Louis Hawks,89,84,Convention Hall,0,/boxscores/195701100NYK.html
+Sat Jan 12 1957,Fort Wayne Pistons,Minneapolis Lakers,87,105,St. Louis Arena,0,/boxscores/195701120FTW.html
+Sat Jan 12 1957,Philadelphia Warriors,New York Knicks,116,82,Convention Hall,0,/boxscores/195701120PHW.html
+Sat Jan 12 1957,Rochester Royals,Syracuse Nationals,88,97,Rochester Community War Memorial,0,/boxscores/195701120ROC.html
+Sat Jan 12 1957,St. Louis Hawks,Boston Celtics,100,98,St. Louis Arena,0,/boxscores/195701120STL.html
+Sun Jan 13 1957,Fort Wayne Pistons,St. Louis Hawks,91,89,War Memorial Coliseum,0,/boxscores/195701130FTW.html
+Sun Jan 13 1957,Minneapolis Lakers,Boston Celtics,104,87,Minneapolis Auditorium,0,/boxscores/195701130MNL.html
+Sun Jan 13 1957,New York Knicks,Philadelphia Warriors,101,90,Madison Square Garden (III),0,/boxscores/195701130NYK.html
+Sun Jan 13 1957,Syracuse Nationals,Rochester Royals,91,85,Onondaga War Memorial,0,/boxscores/195701130SYR.html
+Wed Jan 16 1957,Rochester Royals,St. Louis Hawks,106,108,Rochester Community War Memorial,0,/boxscores/195701160ROC.html
+Thu Jan 17 1957,Fort Wayne Pistons,St. Louis Hawks,82,106,Convention Hall,0,/boxscores/195701170FTW.html
+Thu Jan 17 1957,Minneapolis Lakers,New York Knicks,93,94,Mary E. Sawyer Auditorium,0,/boxscores/195701170MNL.html
+Thu Jan 17 1957,Philadelphia Warriors,Syracuse Nationals,103,108,Convention Hall,0,/boxscores/195701170PHW.html
+Fri Jan 18 1957,Philadelphia Warriors,Syracuse Nationals,96,94,Boston Garden,0,/boxscores/195701180PHW.html
+Fri Jan 18 1957,Boston Celtics,St. Louis Hawks,126,117,Boston Garden,0,/boxscores/195701180BOS.html
+Sat Jan 19 1957,New York Knicks,Fort Wayne Pistons,102,100,Madison Square Garden (III),0,/boxscores/195701190NYK.html
+Sat Jan 19 1957,Syracuse Nationals,St. Louis Hawks,96,104,Onondaga War Memorial,0,/boxscores/195701190SYR.html
+Sat Jan 19 1957,Rochester Royals,Boston Celtics,83,97,Rochester Community War Memorial,0,/boxscores/195701190ROC.html
+Sun Jan 20 1957,Boston Celtics,New York Knicks,114,78,Boston Garden,0,/boxscores/195701200BOS.html
+Sun Jan 20 1957,Minneapolis Lakers,Rochester Royals,114,107,Minneapolis Auditorium,0,/boxscores/195701200MNL.html
+Sun Jan 20 1957,St. Louis Hawks,Philadelphia Warriors,104,102,Kiel Auditorium,0,/boxscores/195701200STL.html
+Sun Jan 20 1957,Syracuse Nationals,Fort Wayne Pistons,101,98,Onondaga War Memorial,0,/boxscores/195701200SYR.html
+Tue Jan 22 1957,Fort Wayne Pistons,St. Louis Hawks,97,87,War Memorial Coliseum,0,/boxscores/195701220FTW.html
+Tue Jan 22 1957,New York Knicks,Syracuse Nationals,90,88,69th Regiment Armory,0,/boxscores/195701220NYK.html
+Wed Jan 23 1957,Boston Celtics,Syracuse Nationals,140,108,Boston Garden,0,/boxscores/195701230BOS.html
+Wed Jan 23 1957,Fort Wayne Pistons,St. Louis Hawks,78,101,Charlotte Coliseum,0,/boxscores/195701230FTW.html
+Wed Jan 23 1957,Minneapolis Lakers,Rochester Royals,107,99,Kentucky State Fairgrounds,0,/boxscores/195701230MNL.html
+Wed Jan 23 1957,New York Knicks,Philadelphia Warriors,93,99,Boston Garden,0,/boxscores/195701230NYK.html
+Thu Jan 24 1957,Philadelphia Warriors,St. Louis Hawks,107,96,Philadelphia Arena,0,/boxscores/195701240PHW.html
+Thu Jan 24 1957,Syracuse Nationals,New York Knicks,115,97,Onondaga War Memorial,0,/boxscores/195701240SYR.html
+Fri Jan 25 1957,Rochester Royals,St. Louis Hawks,99,100,Boston Garden,0,/boxscores/195701250ROC.html
+Fri Jan 25 1957,Boston Celtics,Minneapolis Lakers,115,106,Boston Garden,0,/boxscores/195701250BOS.html
+Sat Jan 26 1957,Fort Wayne Pistons,Philadelphia Warriors,101,98,War Memorial Coliseum,0,/boxscores/195701260FTW.html
+Sat Jan 26 1957,New York Knicks,Minneapolis Lakers,122,107,69th Regiment Armory,0,/boxscores/195701260NYK.html
+Sat Jan 26 1957,Rochester Royals,Syracuse Nationals,95,99,Rochester Community War Memorial,0,/boxscores/195701260ROC.html
+Sun Jan 27 1957,Fort Wayne Pistons,New York Knicks,103,102,War Memorial Coliseum,0,/boxscores/195701270FTW.html
+Sun Jan 27 1957,Philadelphia Warriors,Boston Celtics,87,107,Convention Hall,0,/boxscores/195701270PHW.html
+Sun Jan 27 1957,St. Louis Hawks,Rochester Royals,107,83,Kiel Auditorium,0,/boxscores/195701270STL.html
+Sun Jan 27 1957,Syracuse Nationals,Minneapolis Lakers,94,93,Onondaga War Memorial,0,/boxscores/195701270SYR.html
+Mon Jan 28 1957,Minneapolis Lakers,Syracuse Nationals,96,112,Boston Garden,0,/boxscores/195701280MNL.html
+Mon Jan 28 1957,Boston Celtics,Philadelphia Warriors,105,95,Boston Garden,0,/boxscores/195701280BOS.html
+Tue Jan 29 1957,Boston Celtics,Minneapolis Lakers,103,91,Madison Square Garden (III),0,/boxscores/195701290BOS.html
+Tue Jan 29 1957,New York Knicks,Philadelphia Warriors,114,110,Madison Square Garden (III),0,/boxscores/195701290NYK.html
+Tue Jan 29 1957,St. Louis Hawks,Fort Wayne Pistons,85,91,Kiel Auditorium,0,/boxscores/195701290STL.html
+Wed Jan 30 1957,Boston Celtics,Syracuse Nationals,116,119,Boston Garden,0,/boxscores/195701300BOS.html
+Wed Jan 30 1957,New York Knicks,Rochester Royals,92,80,Boston Garden,0,/boxscores/195701300NYK.html
+Thu Jan 31 1957,Minneapolis Lakers,Fort Wayne Pistons,107,111,Minneapolis Auditorium,0,/boxscores/195701310MNL.html
+Thu Jan 31 1957,New York Knicks,Philadelphia Warriors,102,106,Onondaga War Memorial,0,/boxscores/195701310NYK.html
+Thu Jan 31 1957,Syracuse Nationals,Boston Celtics,105,104,Onondaga War Memorial,0,/boxscores/195701310SYR.html

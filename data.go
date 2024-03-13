@@ -8,6 +8,7 @@ import (
 	"path/filepath"
 	"strconv"
 	"strings"
+	"time"
 )
 
 type Game struct {
@@ -168,7 +169,7 @@ func parseInfo(game string) Game {
 	sIndex += bScoreIndex
 	eIndex = strings.Index(game[sIndex:], ">")
 	eIndex += sIndex
-	bscoreurl := game[sIndex+len("href=\"") : eIndex]
+	bscoreurl := game[sIndex+len("href=\"") : eIndex-1]
 	//fmt.Println(bscoreurl)
 
 	return Game{home, visitor, arena, homePts, visitorPts, s, bscoreurl, day}
@@ -194,7 +195,7 @@ func writeData(data []string, month int, year int) {
 func main() {
 	//rawdata := getData()
 	//writeData(rawdata, 11, 1984)
-	for i := 1958; i <= 2023; i++ {
+	for i := 1955; i <= 2024; i++ {
 		url := "https://www.basketball-reference.com/leagues/NBA_" + strconv.Itoa(i) + "_games.html"
 		ms := getMonths(url)
 		month := 1
@@ -230,6 +231,9 @@ func main() {
 
 			writeData(rawdata, month, year)
 		}
+		fmt.Println("Sleeping...")
+		time.Sleep(60 * time.Second)
+		fmt.Println("Awake!")
 	}
 
 }

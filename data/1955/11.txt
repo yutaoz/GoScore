@@ -1,40 +1,40 @@
-Tue Nov 2 1954,Milwaukee Hawks,New York Knicks,84,91,Milwaukee Arena,0,/boxscores/195411020MLH.html"
-Sat Nov 6 1954,Boston Celtics,Syracuse Nationals,107,84,Boston Garden,0,/boxscores/195411060BOS.html"
-Sat Nov 6 1954,Fort Wayne Pistons,New York Knicks,90,83,War Memorial Coliseum,0,/boxscores/195411060FTW.html"
-Sat Nov 6 1954,Milwaukee Hawks,Minneapolis Lakers,67,79,Buffalo Memorial Auditorium,0,/boxscores/195411060MLH.html"
-Sun Nov 7 1954,Fort Wayne Pistons,Rochester Royals,109,84,War Memorial Coliseum,0,/boxscores/195411070FTW.html"
-Sun Nov 7 1954,Minneapolis Lakers,New York Knicks,93,103,Minneapolis Auditorium,0,/boxscores/195411070MNL.html"
-Sun Nov 7 1954,Syracuse Nationals,Milwaukee Hawks,97,80,Onondaga War Memorial,0,/boxscores/195411070SYR.html"
-Wed Nov 10 1954,Rochester Royals,Milwaukee Hawks,90,86,Edgerton Park Arena,0,/boxscores/195411100ROC.html"
-Thu Nov 11 1954,Boston Celtics,Milwaukee Hawks,85,95,Madison Square Garden (III),0,/boxscores/195411110BOS.html"
-Thu Nov 11 1954,Fort Wayne Pistons,Syracuse Nationals,86,88,War Memorial Coliseum,0,/boxscores/195411110FTW.html"
-Thu Nov 11 1954,New York Knicks,Rochester Royals,79,78,Madison Square Garden (III),0,/boxscores/195411110NYK.html"
-Sat Nov 13 1954,Milwaukee Hawks,Syracuse Nationals,85,72,Milwaukee Arena,0,/boxscores/195411130MLH.html"
-Sat Nov 13 1954,Rochester Royals,Fort Wayne Pistons,98,103,Edgerton Park Arena,0,/boxscores/195411130ROC.html"
-Sat Nov 13 1954,Philadelphia Warriors,New York Knicks,87,86,Convention Hall,0,/boxscores/195411130PHW.html"
-Sun Nov 14 1954,Fort Wayne Pistons,Milwaukee Hawks,93,91,War Memorial Coliseum,0,/boxscores/195411140FTW.html"
-Sun Nov 14 1954,Minneapolis Lakers,Syracuse Nationals,99,92,Minneapolis Auditorium,0,/boxscores/195411140MNL.html"
-Tue Nov 16 1954,Boston Celtics,Rochester Royals,99,98,Boston Garden,0,/boxscores/195411160BOS.html"
-Tue Nov 16 1954,Philadelphia Warriors,Syracuse Nationals,85,86,Madison Square Garden (III),0,/boxscores/195411160PHW.html"
-Thu Nov 18 1954,New York Knicks,Philadelphia Warriors,96,94,Onondaga War Memorial,0,/boxscores/195411180NYK.html"
-Thu Nov 18 1954,Syracuse Nationals,Fort Wayne Pistons,91,82,Onondaga War Memorial,0,/boxscores/195411180SYR.html"
-Sat Nov 20 1954,New York Knicks,Boston Celtics,98,117,Madison Square Garden (III),0,/boxscores/195411200NYK.html"
-Sat Nov 20 1954,Rochester Royals,Syracuse Nationals,79,80,Edgerton Park Arena,0,/boxscores/195411200ROC.html"
-Sat Nov 20 1954,Philadelphia Warriors,Fort Wayne Pistons,99,82,Convention Hall,0,/boxscores/195411200PHW.html"
-Sun Nov 21 1954,Fort Wayne Pistons,Rochester Royals,89,78,War Memorial Coliseum,0,/boxscores/195411210FTW.html"
-Sun Nov 21 1954,Syracuse Nationals,Boston Celtics,110,104,Onondaga War Memorial,0,/boxscores/195411210SYR.html"
-Wed Nov 24 1954,Boston Celtics,New York Knicks,108,103,Boston Garden,0,/boxscores/195411240BOS.html"
-Wed Nov 24 1954,Fort Wayne Pistons,Philadelphia Warriors,87,91,Hershey Sports Arena,0,/boxscores/195411240FTW.html"
-Wed Nov 24 1954,Milwaukee Hawks,Rochester Royals,87,90,Milwaukee Arena,0,/boxscores/195411240MLH.html"
-Thu Nov 25 1954,Minneapolis Lakers,Rochester Royals,95,84,Minneapolis Auditorium,0,/boxscores/195411250MNL.html"
-Thu Nov 25 1954,Philadelphia Warriors,Boston Celtics,103,98,Convention Hall,0,/boxscores/195411250PHW.html"
-Thu Nov 25 1954,Syracuse Nationals,Milwaukee Hawks,91,85,Onondaga War Memorial,0,/boxscores/195411250SYR.html"
-Sat Nov 27 1954,Fort Wayne Pistons,Minneapolis Lakers,97,81,War Memorial Coliseum,0,/boxscores/195411270FTW.html"
-Sat Nov 27 1954,Rochester Royals,Boston Celtics,107,101,Edgerton Park Arena,0,/boxscores/195411270ROC.html"
-Sat Nov 27 1954,New York Knicks,Syracuse Nationals,74,80,Madison Square Garden (III),0,/boxscores/195411270NYK.html"
-Sun Nov 28 1954,Fort Wayne Pistons,Milwaukee Hawks,96,81,War Memorial Coliseum,0,/boxscores/195411280FTW.html"
-Sun Nov 28 1954,Minneapolis Lakers,Boston Celtics,115,108,Minneapolis Auditorium,0,/boxscores/195411280MNL.html"
-Sun Nov 28 1954,Syracuse Nationals,New York Knicks,79,77,Onondaga War Memorial,0,/boxscores/195411280SYR.html"
-Tue Nov 30 1954,Fort Wayne Pistons,Minneapolis Lakers,92,90,Madison Square Garden (III),0,/boxscores/195411300FTW.html"
-Tue Nov 30 1954,Milwaukee Hawks,Boston Celtics,99,118,Milwaukee Arena,0,/boxscores/195411300MLH.html"
-Tue Nov 30 1954,New York Knicks,Philadelphia Warriors,95,91,Madison Square Garden (III),0,/boxscores/195411300NYK.html"
+Tue Nov 2 1954,Milwaukee Hawks,New York Knicks,84,91,Milwaukee Arena,0,/boxscores/195411020MLH.html
+Sat Nov 6 1954,Boston Celtics,Syracuse Nationals,107,84,Boston Garden,0,/boxscores/195411060BOS.html
+Sat Nov 6 1954,Fort Wayne Pistons,New York Knicks,90,83,War Memorial Coliseum,0,/boxscores/195411060FTW.html
+Sat Nov 6 1954,Milwaukee Hawks,Minneapolis Lakers,67,79,Buffalo Memorial Auditorium,0,/boxscores/195411060MLH.html
+Sun Nov 7 1954,Fort Wayne Pistons,Rochester Royals,109,84,War Memorial Coliseum,0,/boxscores/195411070FTW.html
+Sun Nov 7 1954,Minneapolis Lakers,New York Knicks,93,103,Minneapolis Auditorium,0,/boxscores/195411070MNL.html
+Sun Nov 7 1954,Syracuse Nationals,Milwaukee Hawks,97,80,Onondaga War Memorial,0,/boxscores/195411070SYR.html
+Wed Nov 10 1954,Rochester Royals,Milwaukee Hawks,90,86,Edgerton Park Arena,0,/boxscores/195411100ROC.html
+Thu Nov 11 1954,Boston Celtics,Milwaukee Hawks,85,95,Madison Square Garden (III),0,/boxscores/195411110BOS.html
+Thu Nov 11 1954,Fort Wayne Pistons,Syracuse Nationals,86,88,War Memorial Coliseum,0,/boxscores/195411110FTW.html
+Thu Nov 11 1954,New York Knicks,Rochester Royals,79,78,Madison Square Garden (III),0,/boxscores/195411110NYK.html
+Sat Nov 13 1954,Milwaukee Hawks,Syracuse Nationals,85,72,Milwaukee Arena,0,/boxscores/195411130MLH.html
+Sat Nov 13 1954,Rochester Royals,Fort Wayne Pistons,98,103,Edgerton Park Arena,0,/boxscores/195411130ROC.html
+Sat Nov 13 1954,Philadelphia Warriors,New York Knicks,87,86,Convention Hall,0,/boxscores/195411130PHW.html
+Sun Nov 14 1954,Fort Wayne Pistons,Milwaukee Hawks,93,91,War Memorial Coliseum,0,/boxscores/195411140FTW.html
+Sun Nov 14 1954,Minneapolis Lakers,Syracuse Nationals,99,92,Minneapolis Auditorium,0,/boxscores/195411140MNL.html
+Tue Nov 16 1954,Boston Celtics,Rochester Royals,99,98,Boston Garden,0,/boxscores/195411160BOS.html
+Tue Nov 16 1954,Philadelphia Warriors,Syracuse Nationals,85,86,Madison Square Garden (III),0,/boxscores/195411160PHW.html
+Thu Nov 18 1954,New York Knicks,Philadelphia Warriors,96,94,Onondaga War Memorial,0,/boxscores/195411180NYK.html
+Thu Nov 18 1954,Syracuse Nationals,Fort Wayne Pistons,91,82,Onondaga War Memorial,0,/boxscores/195411180SYR.html
+Sat Nov 20 1954,New York Knicks,Boston Celtics,98,117,Madison Square Garden (III),0,/boxscores/195411200NYK.html
+Sat Nov 20 1954,Rochester Royals,Syracuse Nationals,79,80,Edgerton Park Arena,0,/boxscores/195411200ROC.html
+Sat Nov 20 1954,Philadelphia Warriors,Fort Wayne Pistons,99,82,Convention Hall,0,/boxscores/195411200PHW.html
+Sun Nov 21 1954,Fort Wayne Pistons,Rochester Royals,89,78,War Memorial Coliseum,0,/boxscores/195411210FTW.html
+Sun Nov 21 1954,Syracuse Nationals,Boston Celtics,110,104,Onondaga War Memorial,0,/boxscores/195411210SYR.html
+Wed Nov 24 1954,Boston Celtics,New York Knicks,108,103,Boston Garden,0,/boxscores/195411240BOS.html
+Wed Nov 24 1954,Fort Wayne Pistons,Philadelphia Warriors,87,91,Hershey Sports Arena,0,/boxscores/195411240FTW.html
+Wed Nov 24 1954,Milwaukee Hawks,Rochester Royals,87,90,Milwaukee Arena,0,/boxscores/195411240MLH.html
+Thu Nov 25 1954,Minneapolis Lakers,Rochester Royals,95,84,Minneapolis Auditorium,0,/boxscores/195411250MNL.html
+Thu Nov 25 1954,Philadelphia Warriors,Boston Celtics,103,98,Convention Hall,0,/boxscores/195411250PHW.html
+Thu Nov 25 1954,Syracuse Nationals,Milwaukee Hawks,91,85,Onondaga War Memorial,0,/boxscores/195411250SYR.html
+Sat Nov 27 1954,Fort Wayne Pistons,Minneapolis Lakers,97,81,War Memorial Coliseum,0,/boxscores/195411270FTW.html
+Sat Nov 27 1954,Rochester Royals,Boston Celtics,107,101,Edgerton Park Arena,0,/boxscores/195411270ROC.html
+Sat Nov 27 1954,New York Knicks,Syracuse Nationals,74,80,Madison Square Garden (III),0,/boxscores/195411270NYK.html
+Sun Nov 28 1954,Fort Wayne Pistons,Milwaukee Hawks,96,81,War Memorial Coliseum,0,/boxscores/195411280FTW.html
+Sun Nov 28 1954,Minneapolis Lakers,Boston Celtics,115,108,Minneapolis Auditorium,0,/boxscores/195411280MNL.html
+Sun Nov 28 1954,Syracuse Nationals,New York Knicks,79,77,Onondaga War Memorial,0,/boxscores/195411280SYR.html
+Tue Nov 30 1954,Fort Wayne Pistons,Minneapolis Lakers,92,90,Madison Square Garden (III),0,/boxscores/195411300FTW.html
+Tue Nov 30 1954,Milwaukee Hawks,Boston Celtics,99,118,Milwaukee Arena,0,/boxscores/195411300MLH.html
+Tue Nov 30 1954,New York Knicks,Philadelphia Warriors,95,91,Madison Square Garden (III),0,/boxscores/195411300NYK.html
