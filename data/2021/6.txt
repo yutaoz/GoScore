@@ -1,0 +1,45 @@
+Tue Jun 1 2021,Brooklyn Nets,Boston Celtics,123,109,Barclays Center,14993,/boxscores/202106010BRK.html
+Tue Jun 1 2021,Denver Nuggets,Portland Trail Blazers,147,140,Ball Arena,10463,/boxscores/202106010DEN.html
+Tue Jun 1 2021,Phoenix Suns,Los Angeles Lakers,115,85,Phoenix Suns Arena,16163,/boxscores/202106010PHO.html
+Wed Jun 2 2021,Philadelphia 76ers,Washington Wizards,129,112,Wells Fargo Center,15523,/boxscores/202106020PHI.html
+Wed Jun 2 2021,New York Knicks,Atlanta Hawks,89,103,Madison Square Garden (IV),16512,/boxscores/202106020NYK.html
+Wed Jun 2 2021,Utah Jazz,Memphis Grizzlies,126,110,Vivint Smart Home Arena,14250,/boxscores/202106020UTA.html
+Wed Jun 2 2021,Los Angeles Clippers,Dallas Mavericks,100,105,STAPLES Center,7428,/boxscores/202106020LAC.html
+Thu Jun 3 2021,Portland Trail Blazers,Denver Nuggets,115,126,Moda Center,10022,/boxscores/202106030POR.html
+Thu Jun 3 2021,Los Angeles Lakers,Phoenix Suns,100,113,STAPLES Center,8550,/boxscores/202106030LAL.html
+Fri Jun 4 2021,Dallas Mavericks,Los Angeles Clippers,97,104,American Airlines Center,18324,/boxscores/202106040DAL.html
+Sat Jun 5 2021,Brooklyn Nets,Milwaukee Bucks,115,107,Barclays Center,15750,/boxscores/202106050BRK.html
+Sun Jun 6 2021,Philadelphia 76ers,Atlanta Hawks,124,128,Wells Fargo Center,18624,/boxscores/202106060PHI.html
+Sun Jun 6 2021,Los Angeles Clippers,Dallas Mavericks,126,111,STAPLES Center,7342,/boxscores/202106060LAC.html
+Mon Jun 7 2021,Brooklyn Nets,Milwaukee Bucks,125,86,Barclays Center,15776,/boxscores/202106070BRK.html
+Mon Jun 7 2021,Phoenix Suns,Denver Nuggets,122,105,Phoenix Suns Arena,16219,/boxscores/202106070PHO.html
+Tue Jun 8 2021,Philadelphia 76ers,Atlanta Hawks,118,102,Wells Fargo Center,18624,/boxscores/202106080PHI.html
+Tue Jun 8 2021,Utah Jazz,Los Angeles Clippers,112,109,Vivint Smart Home Arena,18007,/boxscores/202106080UTA.html
+Wed Jun 9 2021,Phoenix Suns,Denver Nuggets,123,98,Phoenix Suns Arena,16529,/boxscores/202106090PHO.html
+Thu Jun 10 2021,Milwaukee Bucks,Brooklyn Nets,86,83,Fiserv Forum,16310,/boxscores/202106100MIL.html
+Thu Jun 10 2021,Utah Jazz,Los Angeles Clippers,117,111,Vivint Smart Home Arena,18007,/boxscores/202106100UTA.html
+Fri Jun 11 2021,Atlanta Hawks,Philadelphia 76ers,111,127,State Farm Arena,16432,/boxscores/202106110ATL.html
+Fri Jun 11 2021,Denver Nuggets,Phoenix Suns,102,116,Ball Arena,18277,/boxscores/202106110DEN.html
+Sat Jun 12 2021,Los Angeles Clippers,Utah Jazz,132,106,STAPLES Center,8185,/boxscores/202106120LAC.html
+Sun Jun 13 2021,Milwaukee Bucks,Brooklyn Nets,107,96,Fiserv Forum,16310,/boxscores/202106130MIL.html
+Sun Jun 13 2021,Denver Nuggets,Phoenix Suns,118,125,Ball Arena,18290,/boxscores/202106130DEN.html
+Mon Jun 14 2021,Atlanta Hawks,Philadelphia 76ers,103,100,State Farm Arena,16502,/boxscores/202106140ATL.html
+Mon Jun 14 2021,Los Angeles Clippers,Utah Jazz,118,104,STAPLES Center,8474,/boxscores/202106140LAC.html
+Tue Jun 15 2021,Brooklyn Nets,Milwaukee Bucks,114,108,Barclays Center,16067,/boxscores/202106150BRK.html
+Wed Jun 16 2021,Philadelphia 76ers,Atlanta Hawks,106,109,Wells Fargo Center,18624,/boxscores/202106160PHI.html
+Wed Jun 16 2021,Utah Jazz,Los Angeles Clippers,111,119,Vivint Smart Home Arena,18007,/boxscores/202106160UTA.html
+Thu Jun 17 2021,Milwaukee Bucks,Brooklyn Nets,104,89,Fiserv Forum,16310,/boxscores/202106170MIL.html
+Fri Jun 18 2021,Atlanta Hawks,Philadelphia 76ers,99,104,State Farm Arena,16610,/boxscores/202106180ATL.html
+Fri Jun 18 2021,Los Angeles Clippers,Utah Jazz,131,119,STAPLES Center,17105,/boxscores/202106180LAC.html
+Sat Jun 19 2021,Brooklyn Nets,Milwaukee Bucks,111,115,Barclays Center,16287,/boxscores/202106190BRK.html
+Sun Jun 20 2021,Phoenix Suns,Los Angeles Clippers,120,114,Phoenix Suns Arena,16583,/boxscores/202106200PHO.html
+Sun Jun 20 2021,Philadelphia 76ers,Atlanta Hawks,96,103,Wells Fargo Center,18624,/boxscores/202106200PHI.html
+Tue Jun 22 2021,Phoenix Suns,Los Angeles Clippers,104,103,Phoenix Suns Arena,16645,/boxscores/202106220PHO.html
+Wed Jun 23 2021,Milwaukee Bucks,Atlanta Hawks,113,116,Fiserv Forum,16310,/boxscores/202106230MIL.html
+Thu Jun 24 2021,Los Angeles Clippers,Phoenix Suns,106,92,STAPLES Center,17222,/boxscores/202106240LAC.html
+Fri Jun 25 2021,Milwaukee Bucks,Atlanta Hawks,125,91,Fiserv Forum,16422,/boxscores/202106250MIL.html
+Sat Jun 26 2021,Los Angeles Clippers,Phoenix Suns,80,84,STAPLES Center,18222,/boxscores/202106260LAC.html
+Sun Jun 27 2021,Atlanta Hawks,Milwaukee Bucks,102,113,State Farm Arena,16650,/boxscores/202106270ATL.html
+Mon Jun 28 2021,Phoenix Suns,Los Angeles Clippers,102,116,Phoenix Suns Arena,16664,/boxscores/202106280PHO.html
+Tue Jun 29 2021,Atlanta Hawks,Milwaukee Bucks,110,88,State Farm Arena,16478,/boxscores/202106290ATL.html
+Wed Jun 30 2021,Los Angeles Clippers,Phoenix Suns,103,130,STAPLES Center,18495,/boxscores/202106300LAC.html

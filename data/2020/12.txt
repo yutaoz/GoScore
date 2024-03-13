@@ -1,0 +1,220 @@
+Sun Dec 1 2019,Brooklyn Nets,Miami Heat,106,109,Barclays Center,17026,/boxscores/201912010BRK.html
+Sun Dec 1 2019,Minnesota Timberwolves,Memphis Grizzlies,107,115,Target Center,12276,/boxscores/201912010MIN.html
+Sun Dec 1 2019,New York Knicks,Boston Celtics,104,113,Madison Square Garden (IV),18005,/boxscores/201912010NYK.html
+Sun Dec 1 2019,Los Angeles Lakers,Dallas Mavericks,100,114,STAPLES Center,18997,/boxscores/201912010LAL.html
+Sun Dec 1 2019,Detroit Pistons,San Antonio Spurs,132,98,Little Caesars Arena,14270,/boxscores/201912010DET.html
+Sun Dec 1 2019,New Orleans Pelicans,Oklahoma City Thunder,104,107,Smoothie King Center,15427,/boxscores/201912010NOP.html
+Sun Dec 1 2019,Orlando Magic,Golden State Warriors,100,96,Amway Center,15052,/boxscores/201912010ORL.html
+Sun Dec 1 2019,Toronto Raptors,Utah Jazz,130,110,Scotiabank Arena,18132,/boxscores/201912010TOR.html
+Sun Dec 1 2019,Los Angeles Clippers,Washington Wizards,150,125,STAPLES Center,19068,/boxscores/201912010LAC.html
+Mon Dec 2 2019,Charlotte Hornets,Phoenix Suns,104,109,Spectrum Center,11221,/boxscores/201912020CHO.html
+Mon Dec 2 2019,Philadelphia 76ers,Utah Jazz,103,94,Wells Fargo Center,20208,/boxscores/201912020PHI.html
+Mon Dec 2 2019,Atlanta Hawks,Golden State Warriors,104,79,State Farm Arena,14278,/boxscores/201912020ATL.html
+Mon Dec 2 2019,Memphis Grizzlies,Indiana Pacers,104,117,FedEx Forum,11919,/boxscores/201912020MEM.html
+Mon Dec 2 2019,Milwaukee Bucks,New York Knicks,132,88,Fiserv Forum,17385,/boxscores/201912020MIL.html
+Mon Dec 2 2019,Sacramento Kings,Chicago Bulls,106,113,Golden 1 Center,17257,/boxscores/201912020SAC.html
+Tue Dec 3 2019,Cleveland Cavaliers,Detroit Pistons,94,127,Rocket Mortgage Fieldhouse,17504,/boxscores/201912030CLE.html
+Tue Dec 3 2019,Washington Wizards,Orlando Magic,120,127,Capital One Arena,13159,/boxscores/201912030WAS.html
+Tue Dec 3 2019,New Orleans Pelicans,Dallas Mavericks,97,118,Smoothie King Center,14664,/boxscores/201912030NOP.html
+Tue Dec 3 2019,Toronto Raptors,Miami Heat,110,121,Scotiabank Arena,19800,/boxscores/201912030TOR.html
+Tue Dec 3 2019,San Antonio Spurs,Houston Rockets,135,133,AT&T Center,18354,/boxscores/201912030SAS.html
+Tue Dec 3 2019,Denver Nuggets,Los Angeles Lakers,96,105,Pepsi Center,19658,/boxscores/201912030DEN.html
+Tue Dec 3 2019,Los Angeles Clippers,Portland Trail Blazers,117,97,STAPLES Center,19068,/boxscores/201912030LAC.html
+Wed Dec 4 2019,Charlotte Hornets,Golden State Warriors,106,91,Spectrum Center,14355,/boxscores/201912040CHO.html
+Wed Dec 4 2019,Detroit Pistons,Milwaukee Bucks,103,127,Little Caesars Arena,15742,/boxscores/201912040DET.html
+Wed Dec 4 2019,Orlando Magic,Phoenix Suns,128,114,Amway Center,15176,/boxscores/201912040ORL.html
+Wed Dec 4 2019,Atlanta Hawks,Brooklyn Nets,118,130,State Farm Arena,15694,/boxscores/201912040ATL.html
+Wed Dec 4 2019,Boston Celtics,Miami Heat,112,93,TD Garden,19156,/boxscores/201912040BOS.html
+Wed Dec 4 2019,Chicago Bulls,Memphis Grizzlies,106,99,United Center,15017,/boxscores/201912040CHI.html
+Wed Dec 4 2019,Oklahoma City Thunder,Indiana Pacers,100,107,Chesapeake Energy Arena,18203,/boxscores/201912040OKC.html
+Wed Dec 4 2019,Dallas Mavericks,Minnesota Timberwolves,121,114,American Airlines Center,19671,/boxscores/201912040DAL.html
+Wed Dec 4 2019,Utah Jazz,Los Angeles Lakers,96,121,Vivint Smart Home Arena,18306,/boxscores/201912040UTA.html
+Wed Dec 4 2019,Portland Trail Blazers,Sacramento Kings,127,116,Moda Center,19393,/boxscores/201912040POR.html
+Thu Dec 5 2019,Washington Wizards,Philadelphia 76ers,119,113,Capital One Arena,16554,/boxscores/201912050WAS.html
+Thu Dec 5 2019,New York Knicks,Denver Nuggets,92,129,Madison Square Garden (IV),18171,/boxscores/201912050NYK.html
+Thu Dec 5 2019,Toronto Raptors,Houston Rockets,109,119,Scotiabank Arena,19800,/boxscores/201912050TOR.html
+Thu Dec 5 2019,New Orleans Pelicans,Phoenix Suns,132,139,Smoothie King Center,15607,/boxscores/201912050NOP.html
+Fri Dec 6 2019,Charlotte Hornets,Brooklyn Nets,104,111,Spectrum Center,15075,/boxscores/201912060CHO.html
+Fri Dec 6 2019,Cleveland Cavaliers,Orlando Magic,87,93,Rocket Mortgage Fieldhouse,18446,/boxscores/201912060CLE.html
+Fri Dec 6 2019,Detroit Pistons,Indiana Pacers,108,101,Little Caesars Arena,14894,/boxscores/201912060DET.html
+Fri Dec 6 2019,Boston Celtics,Denver Nuggets,108,95,TD Garden,19156,/boxscores/201912060BOS.html
+Fri Dec 6 2019,Chicago Bulls,Golden State Warriors,98,100,United Center,18841,/boxscores/201912060CHI.html
+Fri Dec 6 2019,Miami Heat,Washington Wizards,112,103,AmericanAirlines Arena,19600,/boxscores/201912060MIA.html
+Fri Dec 6 2019,Oklahoma City Thunder,Minnesota Timberwolves,139,127,Chesapeake Energy Arena,18203,/boxscores/201912060OKC.html
+Fri Dec 6 2019,Milwaukee Bucks,Los Angeles Clippers,119,91,Fiserv Forum,17732,/boxscores/201912060MIL.html
+Fri Dec 6 2019,San Antonio Spurs,Sacramento Kings,105,104,AT&T Center,18354,/boxscores/201912060SAS.html
+Fri Dec 6 2019,Portland Trail Blazers,Los Angeles Lakers,113,136,Moda Center,19912,/boxscores/201912060POR.html
+Sat Dec 7 2019,Dallas Mavericks,New Orleans Pelicans,130,84,American Airlines Center,19456,/boxscores/201912070DAL.html
+Sat Dec 7 2019,New York Knicks,Indiana Pacers,103,104,Madison Square Garden (IV),19110,/boxscores/201912070NYK.html
+Sat Dec 7 2019,Philadelphia 76ers,Cleveland Cavaliers,141,94,Wells Fargo Center,20844,/boxscores/201912070PHI.html
+Sat Dec 7 2019,Houston Rockets,Phoenix Suns,115,109,Toyota Center,18055,/boxscores/201912070HOU.html
+Sat Dec 7 2019,Utah Jazz,Memphis Grizzlies,126,112,Vivint Smart Home Arena,18306,/boxscores/201912070UTA.html
+Sun Dec 8 2019,Brooklyn Nets,Denver Nuggets,105,102,Barclays Center,16679,/boxscores/201912080BRK.html
+Sun Dec 8 2019,Charlotte Hornets,Atlanta Hawks,107,122,Spectrum Center,15489,/boxscores/201912080CHO.html
+Sun Dec 8 2019,Miami Heat,Chicago Bulls,110,105,AmericanAirlines Arena,19600,/boxscores/201912080MIA.html
+Sun Dec 8 2019,Philadelphia 76ers,Toronto Raptors,110,104,Wells Fargo Center,20313,/boxscores/201912080PHI.html
+Sun Dec 8 2019,Washington Wizards,Los Angeles Clippers,119,135,Capital One Arena,15946,/boxscores/201912080WAS.html
+Sun Dec 8 2019,Dallas Mavericks,Sacramento Kings,106,110,American Airlines Center,19566,/boxscores/201912080DAL.html
+Sun Dec 8 2019,Portland Trail Blazers,Oklahoma City Thunder,96,108,Moda Center,19393,/boxscores/201912080POR.html
+Sun Dec 8 2019,Los Angeles Lakers,Minnesota Timberwolves,142,125,STAPLES Center,18997,/boxscores/201912080LAL.html
+Mon Dec 9 2019,Indiana Pacers,Los Angeles Clippers,99,110,Bankers Life Fieldhouse,14644,/boxscores/201912090IND.html
+Mon Dec 9 2019,Boston Celtics,Cleveland Cavaliers,110,88,TD Garden,19156,/boxscores/201912090BOS.html
+Mon Dec 9 2019,Chicago Bulls,Toronto Raptors,92,93,United Center,14775,/boxscores/201912090CHI.html
+Mon Dec 9 2019,Houston Rockets,Sacramento Kings,118,119,Toyota Center,18055,/boxscores/201912090HOU.html
+Mon Dec 9 2019,Milwaukee Bucks,Orlando Magic,110,101,Fiserv Forum,17385,/boxscores/201912090MIL.html
+Mon Dec 9 2019,New Orleans Pelicans,Detroit Pistons,103,105,Smoothie King Center,13694,/boxscores/201912090NOP.html
+Mon Dec 9 2019,Phoenix Suns,Minnesota Timberwolves,125,109,Talking Stick Resort Arena,13230,/boxscores/201912090PHO.html
+Mon Dec 9 2019,Utah Jazz,Oklahoma City Thunder,90,104,Vivint Smart Home Arena,18306,/boxscores/201912090UTA.html
+Mon Dec 9 2019,Golden State Warriors,Memphis Grizzlies,102,110,Chase Center,18064,/boxscores/201912090GSW.html
+Tue Dec 10 2019,Charlotte Hornets,Washington Wizards,114,107,Spectrum Center,10626,/boxscores/201912100CHO.html
+Tue Dec 10 2019,Miami Heat,Atlanta Hawks,135,121,AmericanAirlines Arena,19600,/boxscores/201912100MIA.html
+Tue Dec 10 2019,Philadelphia 76ers,Denver Nuggets,97,92,Wells Fargo Center,20591,/boxscores/201912100PHI.html
+Tue Dec 10 2019,Portland Trail Blazers,New York Knicks,115,87,Moda Center,19393,/boxscores/201912100POR.html
+Wed Dec 11 2019,Cleveland Cavaliers,Houston Rockets,110,116,Rocket Mortgage Fieldhouse,17122,/boxscores/201912110CLE.html
+Wed Dec 11 2019,Indiana Pacers,Boston Celtics,122,117,Bankers Life Fieldhouse,15637,/boxscores/201912110IND.html
+Wed Dec 11 2019,Orlando Magic,Los Angeles Lakers,87,96,Amway Center,18846,/boxscores/201912110ORL.html
+Wed Dec 11 2019,Toronto Raptors,Los Angeles Clippers,92,112,Scotiabank Arena,20144,/boxscores/201912110TOR.html
+Wed Dec 11 2019,Brooklyn Nets,Charlotte Hornets,108,113,Barclays Center,15631,/boxscores/201912110BRK.html
+Wed Dec 11 2019,Chicago Bulls,Atlanta Hawks,136,102,United Center,15084,/boxscores/201912110CHI.html
+Wed Dec 11 2019,Minnesota Timberwolves,Utah Jazz,116,127,Target Center,12369,/boxscores/201912110MIN.html
+Wed Dec 11 2019,Phoenix Suns,Memphis Grizzlies,108,115,Talking Stick Resort Arena,12254,/boxscores/201912110PHO.html
+Wed Dec 11 2019,Milwaukee Bucks,New Orleans Pelicans,127,112,Fiserv Forum,17385,/boxscores/201912110MIL.html
+Wed Dec 11 2019,Sacramento Kings,Oklahoma City Thunder,94,93,Golden 1 Center,16723,/boxscores/201912110SAC.html
+Wed Dec 11 2019,Golden State Warriors,New York Knicks,122,124,Chase Center,18064,/boxscores/201912110GSW.html
+Thu Dec 12 2019,Boston Celtics,Philadelphia 76ers,109,115,TD Garden,19156,/boxscores/201912120BOS.html
+Thu Dec 12 2019,San Antonio Spurs,Cleveland Cavaliers,109,117,AT&T Center,18354,/boxscores/201912120SAS.html
+Thu Dec 12 2019,Detroit Pistons,Dallas Mavericks,111,122,Mexico City Arena,20064,/boxscores/201912120DET.html
+Thu Dec 12 2019,Denver Nuggets,Portland Trail Blazers,114,99,Pepsi Center,18828,/boxscores/201912120DEN.html
+Fri Dec 13 2019,Miami Heat,Los Angeles Lakers,110,113,AmericanAirlines Arena,20013,/boxscores/201912130MIA.html
+Fri Dec 13 2019,Orlando Magic,Houston Rockets,107,130,Amway Center,16335,/boxscores/201912130ORL.html
+Fri Dec 13 2019,Philadelphia 76ers,New Orleans Pelicans,116,109,Wells Fargo Center,20620,/boxscores/201912130PHI.html
+Fri Dec 13 2019,Atlanta Hawks,Indiana Pacers,100,110,State Farm Arena,15121,/boxscores/201912130ATL.html
+Fri Dec 13 2019,Chicago Bulls,Charlotte Hornets,73,83,United Center,18377,/boxscores/201912130CHI.html
+Fri Dec 13 2019,Memphis Grizzlies,Milwaukee Bucks,114,127,FedEx Forum,16109,/boxscores/201912130MEM.html
+Fri Dec 13 2019,Utah Jazz,Golden State Warriors,114,106,Vivint Smart Home Arena,18306,/boxscores/201912130UTA.html
+Fri Dec 13 2019,Minnesota Timberwolves,Los Angeles Clippers,117,124,Target Center,17585,/boxscores/201912130MIN.html
+Fri Dec 13 2019,Sacramento Kings,New York Knicks,101,103,Golden 1 Center,17583,/boxscores/201912130SAC.html
+Sat Dec 14 2019,Phoenix Suns,San Antonio Spurs,119,121,Mexico City Arena,20013,/boxscores/201912140PHO.html
+Sat Dec 14 2019,Toronto Raptors,Brooklyn Nets,110,102,Scotiabank Arena,19800,/boxscores/201912140TOR.html
+Sat Dec 14 2019,Chicago Bulls,Los Angeles Clippers,109,106,United Center,18426,/boxscores/201912140CHI.html
+Sat Dec 14 2019,Memphis Grizzlies,Washington Wizards,128,111,FedEx Forum,15631,/boxscores/201912140MEM.html
+Sat Dec 14 2019,Dallas Mavericks,Miami Heat,118,122,American Airlines Center,20333,/boxscores/201912140DAL.html
+Sat Dec 14 2019,Milwaukee Bucks,Cleveland Cavaliers,125,108,Fiserv Forum,17481,/boxscores/201912140MIL.html
+Sat Dec 14 2019,Denver Nuggets,Oklahoma City Thunder,110,102,Pepsi Center,19520,/boxscores/201912140DEN.html
+Sat Dec 14 2019,Houston Rockets,Detroit Pistons,107,115,Toyota Center,18055,/boxscores/201912140HOU.html
+Sun Dec 15 2019,New Orleans Pelicans,Orlando Magic,119,130,Smoothie King Center,15388,/boxscores/201912150NOP.html
+Sun Dec 15 2019,Indiana Pacers,Charlotte Hornets,107,85,Bankers Life Fieldhouse,16061,/boxscores/201912150IND.html
+Sun Dec 15 2019,Atlanta Hawks,Los Angeles Lakers,96,101,State Farm Arena,16962,/boxscores/201912150ATL.html
+Sun Dec 15 2019,Brooklyn Nets,Philadelphia 76ers,109,89,Barclays Center,17732,/boxscores/201912150BRK.html
+Sun Dec 15 2019,Denver Nuggets,New York Knicks,111,105,Pepsi Center,18867,/boxscores/201912150DEN.html
+Sun Dec 15 2019,Golden State Warriors,Sacramento Kings,79,100,Chase Center,18064,/boxscores/201912150GSW.html
+Mon Dec 16 2019,Detroit Pistons,Washington Wizards,119,133,Little Caesars Arena,14632,/boxscores/201912160DET.html
+Mon Dec 16 2019,Toronto Raptors,Cleveland Cavaliers,133,113,Scotiabank Arena,19800,/boxscores/201912160TOR.html
+Mon Dec 16 2019,Houston Rockets,San Antonio Spurs,109,107,Toyota Center,18055,/boxscores/201912160HOU.html
+Mon Dec 16 2019,Memphis Grizzlies,Miami Heat,118,111,FedEx Forum,14021,/boxscores/201912160MEM.html
+Mon Dec 16 2019,Milwaukee Bucks,Dallas Mavericks,116,120,Fiserv Forum,17727,/boxscores/201912160MIL.html
+Mon Dec 16 2019,Oklahoma City Thunder,Chicago Bulls,109,106,Chesapeake Energy Arena,18203,/boxscores/201912160OKC.html
+Mon Dec 16 2019,Phoenix Suns,Portland Trail Blazers,110,111,Talking Stick Resort Arena,14193,/boxscores/201912160PHO.html
+Tue Dec 17 2019,Charlotte Hornets,Sacramento Kings,110,102,Spectrum Center,13229,/boxscores/201912170CHO.html
+Tue Dec 17 2019,Indiana Pacers,Los Angeles Lakers,105,102,Bankers Life Fieldhouse,17923,/boxscores/201912170IND.html
+Tue Dec 17 2019,New York Knicks,Atlanta Hawks,143,120,Madison Square Garden (IV),18268,/boxscores/201912170NYK.html
+Tue Dec 17 2019,New Orleans Pelicans,Brooklyn Nets,101,108,Smoothie King Center,15177,/boxscores/201912170NOP.html
+Tue Dec 17 2019,Utah Jazz,Orlando Magic,109,102,Vivint Smart Home Arena,18306,/boxscores/201912170UTA.html
+Tue Dec 17 2019,Los Angeles Clippers,Phoenix Suns,120,99,STAPLES Center,19068,/boxscores/201912170LAC.html
+Wed Dec 18 2019,Cleveland Cavaliers,Charlotte Hornets,100,98,Rocket Mortgage Fieldhouse,17023,/boxscores/201912180CLE.html
+Wed Dec 18 2019,Detroit Pistons,Toronto Raptors,99,112,Little Caesars Arena,15319,/boxscores/201912180DET.html
+Wed Dec 18 2019,Philadelphia 76ers,Miami Heat,104,108,Wells Fargo Center,20715,/boxscores/201912180PHI.html
+Wed Dec 18 2019,Washington Wizards,Chicago Bulls,109,110,Capital One Arena,14987,/boxscores/201912180WAS.html
+Wed Dec 18 2019,Minnesota Timberwolves,New Orleans Pelicans,99,107,Target Center,12490,/boxscores/201912180MIN.html
+Wed Dec 18 2019,Oklahoma City Thunder,Memphis Grizzlies,126,122,Chesapeake Energy Arena,18203,/boxscores/201912180OKC.html
+Wed Dec 18 2019,Denver Nuggets,Orlando Magic,113,104,Pepsi Center,18182,/boxscores/201912180DEN.html
+Wed Dec 18 2019,Dallas Mavericks,Boston Celtics,103,109,American Airlines Center,20181,/boxscores/201912180DAL.html
+Wed Dec 18 2019,Portland Trail Blazers,Golden State Warriors,122,112,Moda Center,19393,/boxscores/201912180POR.html
+Thu Dec 19 2019,Atlanta Hawks,Utah Jazz,106,111,State Farm Arena,16739,/boxscores/201912190ATL.html
+Thu Dec 19 2019,Milwaukee Bucks,Los Angeles Lakers,111,104,Fiserv Forum,18051,/boxscores/201912190MIL.html
+Thu Dec 19 2019,San Antonio Spurs,Brooklyn Nets,118,105,AT&T Center,18354,/boxscores/201912190SAS.html
+Thu Dec 19 2019,Los Angeles Clippers,Houston Rockets,117,122,STAPLES Center,19068,/boxscores/201912190LAC.html
+Fri Dec 20 2019,Cleveland Cavaliers,Memphis Grizzlies,114,107,Rocket Mortgage Fieldhouse,19432,/boxscores/201912200CLE.html
+Fri Dec 20 2019,Indiana Pacers,Sacramento Kings,119,105,Bankers Life Fieldhouse,14649,/boxscores/201912200IND.html
+Fri Dec 20 2019,Boston Celtics,Detroit Pistons,114,93,TD Garden,19156,/boxscores/201912200BOS.html
+Fri Dec 20 2019,Toronto Raptors,Washington Wizards,122,118,Scotiabank Arena,19800,/boxscores/201912200TOR.html
+Fri Dec 20 2019,Miami Heat,New York Knicks,129,114,AmericanAirlines Arena,19704,/boxscores/201912200MIA.html
+Fri Dec 20 2019,Oklahoma City Thunder,Phoenix Suns,126,108,Chesapeake Energy Arena,18203,/boxscores/201912200OKC.html
+Fri Dec 20 2019,Philadelphia 76ers,Dallas Mavericks,98,117,Wells Fargo Center,20778,/boxscores/201912200PHI.html
+Fri Dec 20 2019,Denver Nuggets,Minnesota Timberwolves,109,100,Pepsi Center,19520,/boxscores/201912200DEN.html
+Fri Dec 20 2019,Portland Trail Blazers,Orlando Magic,118,103,Moda Center,19393,/boxscores/201912200POR.html
+Fri Dec 20 2019,Golden State Warriors,New Orleans Pelicans,106,102,Chase Center,18064,/boxscores/201912200GSW.html
+Sat Dec 21 2019,Charlotte Hornets,Utah Jazz,107,114,Spectrum Center,16187,/boxscores/201912210CHO.html
+Sat Dec 21 2019,Brooklyn Nets,Atlanta Hawks,122,112,Barclays Center,16496,/boxscores/201912210BRK.html
+Sat Dec 21 2019,Detroit Pistons,Chicago Bulls,107,119,Little Caesars Arena,15948,/boxscores/201912210DET.html
+Sat Dec 21 2019,Philadelphia 76ers,Washington Wizards,125,108,Wells Fargo Center,20529,/boxscores/201912210PHI.html
+Sat Dec 21 2019,New York Knicks,Milwaukee Bucks,102,123,Madison Square Garden (IV),18124,/boxscores/201912210NYK.html
+Sat Dec 21 2019,Memphis Grizzlies,Sacramento Kings,119,115,FedEx Forum,15603,/boxscores/201912210MEM.html
+Sat Dec 21 2019,San Antonio Spurs,Los Angeles Clippers,109,134,AT&T Center,18354,/boxscores/201912210SAS.html
+Sat Dec 21 2019,Phoenix Suns,Houston Rockets,125,139,Talking Stick Resort Arena,16061,/boxscores/201912210PHO.html
+Sat Dec 21 2019,Portland Trail Blazers,Minnesota Timberwolves,113,106,Moda Center,19393,/boxscores/201912210POR.html
+Sun Dec 22 2019,Toronto Raptors,Dallas Mavericks,110,107,Scotiabank Arena,19800,/boxscores/201912220TOR.html
+Sun Dec 22 2019,Boston Celtics,Charlotte Hornets,119,93,TD Garden,19156,/boxscores/201912220BOS.html
+Sun Dec 22 2019,Milwaukee Bucks,Indiana Pacers,117,89,Fiserv Forum,18029,/boxscores/201912220MIL.html
+Sun Dec 22 2019,Oklahoma City Thunder,Los Angeles Clippers,118,112,Chesapeake Energy Arena,18203,/boxscores/201912220OKC.html
+Sun Dec 22 2019,Los Angeles Lakers,Denver Nuggets,104,128,STAPLES Center,18997,/boxscores/201912220LAL.html
+Mon Dec 23 2019,Cleveland Cavaliers,Atlanta Hawks,121,118,Rocket Mortgage Fieldhouse,18007,/boxscores/201912230CLE.html
+Mon Dec 23 2019,Detroit Pistons,Philadelphia 76ers,109,125,Little Caesars Arena,16476,/boxscores/201912230DET.html
+Mon Dec 23 2019,Indiana Pacers,Toronto Raptors,120,115,Bankers Life Fieldhouse,17164,/boxscores/201912230IND.html
+Mon Dec 23 2019,New York Knicks,Washington Wizards,115,121,Madison Square Garden (IV),19413,/boxscores/201912230NYK.html
+Mon Dec 23 2019,Orlando Magic,Chicago Bulls,103,95,Amway Center,18846,/boxscores/201912230ORL.html
+Mon Dec 23 2019,Miami Heat,Utah Jazz,107,104,AmericanAirlines Arena,19890,/boxscores/201912230MIA.html
+Mon Dec 23 2019,Memphis Grizzlies,San Antonio Spurs,115,145,FedEx Forum,16776,/boxscores/201912230MEM.html
+Mon Dec 23 2019,Phoenix Suns,Denver Nuggets,111,113,Talking Stick Resort Arena,16041,/boxscores/201912230PHO.html
+Mon Dec 23 2019,Portland Trail Blazers,New Orleans Pelicans,94,102,Moda Center,19499,/boxscores/201912230POR.html
+Mon Dec 23 2019,Sacramento Kings,Houston Rockets,104,113,Golden 1 Center,17583,/boxscores/201912230SAC.html
+Mon Dec 23 2019,Golden State Warriors,Minnesota Timberwolves,113,104,Chase Center,18064,/boxscores/201912230GSW.html
+Wed Dec 25 2019,Toronto Raptors,Boston Celtics,102,118,Scotiabank Arena,19800,/boxscores/201912250TOR.html
+Wed Dec 25 2019,Philadelphia 76ers,Milwaukee Bucks,121,109,Wells Fargo Center,21028,/boxscores/201912250PHI.html
+Wed Dec 25 2019,Golden State Warriors,Houston Rockets,116,104,Chase Center,18064,/boxscores/201912250GSW.html
+Wed Dec 25 2019,Los Angeles Lakers,Los Angeles Clippers,106,111,STAPLES Center,18997,/boxscores/201912250LAL.html
+Wed Dec 25 2019,Denver Nuggets,New Orleans Pelicans,100,112,Pepsi Center,19520,/boxscores/201912250DEN.html
+Thu Dec 26 2019,Detroit Pistons,Washington Wizards,132,102,Little Caesars Arena,17188,/boxscores/201912260DET.html
+Thu Dec 26 2019,Brooklyn Nets,New York Knicks,82,94,Barclays Center,17732,/boxscores/201912260BRK.html
+Thu Dec 26 2019,Dallas Mavericks,San Antonio Spurs,102,98,American Airlines Center,20427,/boxscores/201912260DAL.html
+Thu Dec 26 2019,Oklahoma City Thunder,Memphis Grizzlies,97,110,Chesapeake Energy Arena,18203,/boxscores/201912260OKC.html
+Thu Dec 26 2019,Sacramento Kings,Minnesota Timberwolves,104,105,Golden 1 Center,17583,/boxscores/201912260SAC.html
+Thu Dec 26 2019,Utah Jazz,Portland Trail Blazers,121,115,Vivint Smart Home Arena,18306,/boxscores/201912260UTA.html
+Fri Dec 27 2019,Boston Celtics,Cleveland Cavaliers,129,117,TD Garden,19156,/boxscores/201912270BOS.html
+Fri Dec 27 2019,Charlotte Hornets,Oklahoma City Thunder,102,104,Spectrum Center,18418,/boxscores/201912270CHO.html
+Fri Dec 27 2019,Orlando Magic,Philadelphia 76ers,98,97,Amway Center,17311,/boxscores/201912270ORL.html
+Fri Dec 27 2019,Atlanta Hawks,Milwaukee Bucks,86,112,State Farm Arena,17358,/boxscores/201912270ATL.html
+Fri Dec 27 2019,Miami Heat,Indiana Pacers,113,112,AmericanAirlines Arena,19767,/boxscores/201912270MIA.html
+Fri Dec 27 2019,Golden State Warriors,Phoenix Suns,105,96,Chase Center,18064,/boxscores/201912270GSW.html
+Sat Dec 28 2019,Denver Nuggets,Memphis Grizzlies,119,110,Pepsi Center,19697,/boxscores/201912280DEN.html
+Sat Dec 28 2019,Boston Celtics,Toronto Raptors,97,113,TD Garden,19156,/boxscores/201912280BOS.html
+Sat Dec 28 2019,New Orleans Pelicans,Indiana Pacers,120,98,Smoothie King Center,15391,/boxscores/201912280NOP.html
+Sat Dec 28 2019,Chicago Bulls,Atlanta Hawks,116,81,United Center,21496,/boxscores/201912280CHI.html
+Sat Dec 28 2019,Houston Rockets,Brooklyn Nets,108,98,Toyota Center,18306,/boxscores/201912280HOU.html
+Sat Dec 28 2019,Miami Heat,Philadelphia 76ers,117,116,AmericanAirlines Arena,19865,/boxscores/201912280MIA.html
+Sat Dec 28 2019,Minnesota Timberwolves,Cleveland Cavaliers,88,94,Target Center,15411,/boxscores/201912280MIN.html
+Sat Dec 28 2019,Washington Wizards,New York Knicks,100,107,Capital One Arena,19033,/boxscores/201912280WAS.html
+Sat Dec 28 2019,Golden State Warriors,Dallas Mavericks,121,141,Chase Center,18064,/boxscores/201912280GSW.html
+Sat Dec 28 2019,Milwaukee Bucks,Orlando Magic,111,100,Fiserv Forum,17920,/boxscores/201912280MIL.html
+Sat Dec 28 2019,San Antonio Spurs,Detroit Pistons,136,109,AT&T Center,18524,/boxscores/201912280SAS.html
+Sat Dec 28 2019,Sacramento Kings,Phoenix Suns,110,112,Golden 1 Center,17583,/boxscores/201912280SAC.html
+Sat Dec 28 2019,Portland Trail Blazers,Los Angeles Lakers,120,128,Moda Center,19960,/boxscores/201912280POR.html
+Sat Dec 28 2019,Los Angeles Clippers,Utah Jazz,107,120,STAPLES Center,19068,/boxscores/201912280LAC.html
+Sun Dec 29 2019,Toronto Raptors,Oklahoma City Thunder,97,98,Scotiabank Arena,19800,/boxscores/201912290TOR.html
+Sun Dec 29 2019,Denver Nuggets,Sacramento Kings,120,115,Pepsi Center,19520,/boxscores/201912290DEN.html
+Sun Dec 29 2019,Memphis Grizzlies,Charlotte Hornets,117,104,FedEx Forum,16842,/boxscores/201912290MEM.html
+Sun Dec 29 2019,New Orleans Pelicans,Houston Rockets,127,112,Smoothie King Center,17712,/boxscores/201912290NOP.html
+Sun Dec 29 2019,Los Angeles Lakers,Dallas Mavericks,108,95,STAPLES Center,18997,/boxscores/201912290LAL.html
+Mon Dec 30 2019,Orlando Magic,Atlanta Hawks,93,101,Amway Center,17784,/boxscores/201912300ORL.html
+Mon Dec 30 2019,Washington Wizards,Miami Heat,123,105,Capital One Arena,20476,/boxscores/201912300WAS.html
+Mon Dec 30 2019,Chicago Bulls,Milwaukee Bucks,102,123,United Center,21954,/boxscores/201912300CHI.html
+Mon Dec 30 2019,Minnesota Timberwolves,Brooklyn Nets,122,115,Target Center,15824,/boxscores/201912300MIN.html
+Mon Dec 30 2019,Utah Jazz,Detroit Pistons,104,81,Vivint Smart Home Arena,18306,/boxscores/201912300UTA.html
+Mon Dec 30 2019,Portland Trail Blazers,Phoenix Suns,116,122,Moda Center,19896,/boxscores/201912300POR.html
+Tue Dec 31 2019,Charlotte Hornets,Boston Celtics,92,109,Spectrum Center,19216,/boxscores/201912310CHO.html
+Tue Dec 31 2019,Indiana Pacers,Philadelphia 76ers,115,97,Bankers Life Fieldhouse,17923,/boxscores/201912310IND.html
+Tue Dec 31 2019,Sacramento Kings,Los Angeles Clippers,87,105,Golden 1 Center,16231,/boxscores/201912310SAC.html
+Tue Dec 31 2019,Houston Rockets,Denver Nuggets,130,104,Toyota Center,18055,/boxscores/201912310HOU.html
+Tue Dec 31 2019,San Antonio Spurs,Golden State Warriors,117,113,AT&T Center,18354,/boxscores/201912310SAS.html
+Tue Dec 31 2019,Toronto Raptors,Cleveland Cavaliers,117,97,Scotiabank Arena,19800,/boxscores/201912310TOR.html
+Tue Dec 31 2019,Oklahoma City Thunder,Dallas Mavericks,106,101,Chesapeake Energy Arena,18203,/boxscores/201912310OKC.html

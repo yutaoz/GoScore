@@ -1,0 +1,220 @@
+Thu Nov 1 2012,San Antonio Spurs,Oklahoma City Thunder,86,84,AT&T Center,18581,/boxscores/201211010SAS.html
+Fri Nov 2 2012,Charlotte Bobcats,Indiana Pacers,90,89,Time Warner Cable Arena,19124,/boxscores/201211020CHA.html
+Fri Nov 2 2012,Orlando Magic,Denver Nuggets,102,89,Amway Center,18846,/boxscores/201211020ORL.html
+Fri Nov 2 2012,Atlanta Hawks,Houston Rockets,102,109,Philips Arena,18238,/boxscores/201211020ATL.html
+Fri Nov 2 2012,Boston Celtics,Milwaukee Bucks,88,99,TD Garden,18624,/boxscores/201211020BOS.html
+Fri Nov 2 2012,Cleveland Cavaliers,Chicago Bulls,86,115,Quicken Loans Arena,20562,/boxscores/201211020CLE.html
+Fri Nov 2 2012,Minnesota Timberwolves,Sacramento Kings,92,80,Target Center,19356,/boxscores/201211020MIN.html
+Fri Nov 2 2012,New Orleans Hornets,Utah Jazz,88,86,New Orleans Arena,14147,/boxscores/201211020NOH.html
+Fri Nov 2 2012,New York Knicks,Miami Heat,104,84,Madison Square Garden (IV),19033,/boxscores/201211020NYK.html
+Fri Nov 2 2012,Oklahoma City Thunder,Portland Trail Blazers,106,92,Chesapeake Energy Arena,18203,/boxscores/201211020OKC.html
+Fri Nov 2 2012,Phoenix Suns,Detroit Pistons,92,89,US Airways Center,15107,/boxscores/201211020PHO.html
+Fri Nov 2 2012,Golden State Warriors,Memphis Grizzlies,94,104,Oracle Arena,19596,/boxscores/201211020GSW.html
+Fri Nov 2 2012,Los Angeles Lakers,Los Angeles Clippers,95,105,STAPLES Center,18997,/boxscores/201211020LAL.html
+Sat Nov 3 2012,Indiana Pacers,Sacramento Kings,106,98,Bankers Life Fieldhouse,18165,/boxscores/201211030IND.html
+Sat Nov 3 2012,Washington Wizards,Boston Celtics,86,89,Verizon Center,20308,/boxscores/201211030WAS.html
+Sat Nov 3 2012,Brooklyn Nets,Toronto Raptors,107,100,Barclays Center,17732,/boxscores/201211030BRK.html
+Sat Nov 3 2012,Miami Heat,Denver Nuggets,119,116,AmericanAirlines Arena,20104,/boxscores/201211030MIA.html
+Sat Nov 3 2012,Chicago Bulls,New Orleans Hornets,82,89,United Center,21758,/boxscores/201211030CHI.html
+Sat Nov 3 2012,Houston Rockets,Portland Trail Blazers,85,95,Toyota Center,18140,/boxscores/201211030HOU.html
+Sat Nov 3 2012,Dallas Mavericks,Charlotte Bobcats,126,99,American Airlines Center,19490,/boxscores/201211030DAL.html
+Sat Nov 3 2012,Milwaukee Bucks,Cleveland Cavaliers,105,102,BMO Harris Bradley Center,17086,/boxscores/201211030MIL.html
+Sat Nov 3 2012,San Antonio Spurs,Utah Jazz,110,100,AT&T Center,18581,/boxscores/201211030SAS.html
+Sat Nov 3 2012,Los Angeles Clippers,Golden State Warriors,110,114,STAPLES Center,19060,/boxscores/201211030LAC.html
+Sun Nov 4 2012,New York Knicks,Philadelphia 76ers,100,84,Madison Square Garden (IV),19033,/boxscores/201211040NYK.html
+Sun Nov 4 2012,Orlando Magic,Phoenix Suns,115,94,Amway Center,17022,/boxscores/201211040ORL.html
+Sun Nov 4 2012,Toronto Raptors,Minnesota Timberwolves,105,86,Air Canada Centre,16754,/boxscores/201211040TOR.html
+Sun Nov 4 2012,Oklahoma City Thunder,Atlanta Hawks,95,104,Chesapeake Energy Arena,18203,/boxscores/201211040OKC.html
+Sun Nov 4 2012,Los Angeles Lakers,Detroit Pistons,108,79,STAPLES Center,18997,/boxscores/201211040LAL.html
+Mon Nov 5 2012,Philadelphia 76ers,New York Knicks,88,110,Wells Fargo Center,15783,/boxscores/201211050PHI.html
+Mon Nov 5 2012,Brooklyn Nets,Minnesota Timberwolves,96,107,Barclays Center,14017,/boxscores/201211050BRK.html
+Mon Nov 5 2012,Miami Heat,Phoenix Suns,124,99,AmericanAirlines Arena,19600,/boxscores/201211050MIA.html
+Mon Nov 5 2012,Memphis Grizzlies,Utah Jazz,103,94,FedEx Forum,17401,/boxscores/201211050MEM.html
+Mon Nov 5 2012,Dallas Mavericks,Portland Trail Blazers,114,91,American Airlines Center,19521,/boxscores/201211050DAL.html
+Mon Nov 5 2012,San Antonio Spurs,Indiana Pacers,101,79,AT&T Center,17158,/boxscores/201211050SAS.html
+Mon Nov 5 2012,Sacramento Kings,Golden State Warriors,94,92,Sleep Train Arena,17317,/boxscores/201211050SAC.html
+Mon Nov 5 2012,Los Angeles Clippers,Cleveland Cavaliers,101,108,STAPLES Center,19060,/boxscores/201211050LAC.html
+Tue Nov 6 2012,Chicago Bulls,Orlando Magic,99,93,United Center,21216,/boxscores/201211060CHI.html
+Tue Nov 6 2012,Oklahoma City Thunder,Toronto Raptors,108,88,Chesapeake Energy Arena,18203,/boxscores/201211060OKC.html
+Tue Nov 6 2012,Denver Nuggets,Detroit Pistons,109,97,Pepsi Center,19155,/boxscores/201211060DEN.html
+Wed Nov 7 2012,Charlotte Bobcats,Phoenix Suns,110,117,Time Warner Cable Arena,13905,/boxscores/201211070CHA.html
+Wed Nov 7 2012,Atlanta Hawks,Indiana Pacers,89,86,Philips Arena,10684,/boxscores/201211070ATL.html
+Wed Nov 7 2012,Boston Celtics,Washington Wizards,100,94,TD Garden,18624,/boxscores/201211070BOS.html
+Wed Nov 7 2012,Miami Heat,Brooklyn Nets,103,73,AmericanAirlines Arena,19627,/boxscores/201211070MIA.html
+Wed Nov 7 2012,Houston Rockets,Denver Nuggets,87,93,Toyota Center,13372,/boxscores/201211070HOU.html
+Wed Nov 7 2012,Milwaukee Bucks,Memphis Grizzlies,90,108,BMO Harris Bradley Center,11465,/boxscores/201211070MIL.html
+Wed Nov 7 2012,Minnesota Timberwolves,Orlando Magic,90,75,Target Center,17121,/boxscores/201211070MIN.html
+Wed Nov 7 2012,New Orleans Hornets,Philadelphia 76ers,62,77,New Orleans Arena,12988,/boxscores/201211070NOH.html
+Wed Nov 7 2012,Dallas Mavericks,Toronto Raptors,109,104,American Airlines Center,19763,/boxscores/201211070DAL.html
+Wed Nov 7 2012,Utah Jazz,Los Angeles Lakers,95,86,EnergySolutions Arena,19911,/boxscores/201211070UTA.html
+Wed Nov 7 2012,Sacramento Kings,Detroit Pistons,105,103,Sleep Train Arena,10185,/boxscores/201211070SAC.html
+Wed Nov 7 2012,Golden State Warriors,Cleveland Cavaliers,106,96,Oracle Arena,18124,/boxscores/201211070GSW.html
+Wed Nov 7 2012,Los Angeles Clippers,San Antonio Spurs,106,84,STAPLES Center,19060,/boxscores/201211070LAC.html
+Thu Nov 8 2012,Chicago Bulls,Oklahoma City Thunder,91,97,United Center,21737,/boxscores/201211080CHI.html
+Thu Nov 8 2012,Portland Trail Blazers,Los Angeles Clippers,90,103,Rose Garden Arena,20425,/boxscores/201211080POR.html
+Fri Nov 9 2012,Orlando Magic,Brooklyn Nets,68,107,Amway Center,17532,/boxscores/201211090ORL.html
+Fri Nov 9 2012,Washington Wizards,Milwaukee Bucks,91,101,Verizon Center,14531,/boxscores/201211090WAS.html
+Fri Nov 9 2012,Atlanta Hawks,Miami Heat,89,95,Philips Arena,16785,/boxscores/201211090ATL.html
+Fri Nov 9 2012,Boston Celtics,Philadelphia 76ers,100,106,TD Garden,18624,/boxscores/201211090BOS.html
+Fri Nov 9 2012,New York Knicks,Dallas Mavericks,104,94,Madison Square Garden (IV),19033,/boxscores/201211090NYK.html
+Fri Nov 9 2012,Memphis Grizzlies,Houston Rockets,93,85,FedEx Forum,16087,/boxscores/201211090MEM.html
+Fri Nov 9 2012,Minnesota Timberwolves,Indiana Pacers,96,94,Target Center,18222,/boxscores/201211090MIN.html
+Fri Nov 9 2012,New Orleans Hornets,Charlotte Bobcats,107,99,New Orleans Arena,12668,/boxscores/201211090NOH.html
+Fri Nov 9 2012,Oklahoma City Thunder,Detroit Pistons,105,94,Chesapeake Energy Arena,18203,/boxscores/201211090OKC.html
+Fri Nov 9 2012,Phoenix Suns,Cleveland Cavaliers,107,105,US Airways Center,15236,/boxscores/201211090PHO.html
+Fri Nov 9 2012,Sacramento Kings,San Antonio Spurs,86,97,Sleep Train Arena,13505,/boxscores/201211090SAC.html
+Fri Nov 9 2012,Denver Nuggets,Utah Jazz,104,84,Pepsi Center,15523,/boxscores/201211090DEN.html
+Fri Nov 9 2012,Los Angeles Lakers,Golden State Warriors,101,77,STAPLES Center,18997,/boxscores/201211090LAL.html
+Sat Nov 10 2012,Indiana Pacers,Washington Wizards,89,85,Bankers Life Fieldhouse,12036,/boxscores/201211100IND.html
+Sat Nov 10 2012,Toronto Raptors,Philadelphia 76ers,83,93,Air Canada Centre,19800,/boxscores/201211100TOR.html
+Sat Nov 10 2012,Charlotte Bobcats,Dallas Mavericks,101,97,Time Warner Cable Arena,15763,/boxscores/201211100CHA.html
+Sat Nov 10 2012,Chicago Bulls,Minnesota Timberwolves,87,80,United Center,21974,/boxscores/201211100CHI.html
+Sat Nov 10 2012,Houston Rockets,Detroit Pistons,96,82,Toyota Center,15037,/boxscores/201211100HOU.html
+Sat Nov 10 2012,Milwaukee Bucks,Boston Celtics,92,96,BMO Harris Bradley Center,14589,/boxscores/201211100MIL.html
+Sat Nov 10 2012,Utah Jazz,Phoenix Suns,94,81,EnergySolutions Arena,19100,/boxscores/201211100UTA.html
+Sat Nov 10 2012,Portland Trail Blazers,San Antonio Spurs,109,112,Rose Garden Arena,20447,/boxscores/201211100POR.html
+Sat Nov 10 2012,Golden State Warriors,Denver Nuggets,101,107,Oracle Arena,19596,/boxscores/201211100GSW.html
+Sun Nov 11 2012,Brooklyn Nets,Orlando Magic,82,74,Barclays Center,16523,/boxscores/201211110BRK.html
+Sun Nov 11 2012,Los Angeles Clippers,Atlanta Hawks,89,76,STAPLES Center,19060,/boxscores/201211110LAC.html
+Sun Nov 11 2012,Memphis Grizzlies,Miami Heat,104,86,FedEx Forum,18119,/boxscores/201211110MEM.html
+Sun Nov 11 2012,Oklahoma City Thunder,Cleveland Cavaliers,106,91,Chesapeake Energy Arena,18203,/boxscores/201211110OKC.html
+Sun Nov 11 2012,Los Angeles Lakers,Sacramento Kings,103,90,STAPLES Center,18997,/boxscores/201211110LAL.html
+Mon Nov 12 2012,Philadelphia 76ers,Milwaukee Bucks,96,105,Wells Fargo Center,15086,/boxscores/201211120PHI.html
+Mon Nov 12 2012,Toronto Raptors,Utah Jazz,133,140,Air Canada Centre,18230,/boxscores/201211120TOR.html
+Mon Nov 12 2012,Detroit Pistons,Oklahoma City Thunder,90,92,The Palace of Auburn Hills,12784,/boxscores/201211120DET.html
+Mon Nov 12 2012,Chicago Bulls,Boston Celtics,95,101,United Center,21712,/boxscores/201211120CHI.html
+Mon Nov 12 2012,Houston Rockets,Miami Heat,110,113,Toyota Center,18041,/boxscores/201211120HOU.html
+Mon Nov 12 2012,Dallas Mavericks,Minnesota Timberwolves,82,90,American Airlines Center,19322,/boxscores/201211120DAL.html
+Mon Nov 12 2012,Phoenix Suns,Denver Nuggets,110,100,US Airways Center,14060,/boxscores/201211120PHO.html
+Mon Nov 12 2012,Portland Trail Blazers,Atlanta Hawks,87,95,Rose Garden Arena,19095,/boxscores/201211120POR.html
+Tue Nov 13 2012,Charlotte Bobcats,Washington Wizards,92,76,Time Warner Cable Arena,11139,/boxscores/201211130CHA.html
+Tue Nov 13 2012,Indiana Pacers,Toronto Raptors,72,74,Bankers Life Fieldhouse,11947,/boxscores/201211130IND.html
+Tue Nov 13 2012,Orlando Magic,New York Knicks,89,99,Amway Center,18846,/boxscores/201211130ORL.html
+Tue Nov 13 2012,Brooklyn Nets,Cleveland Cavaliers,114,101,Barclays Center,17032,/boxscores/201211130BRK.html
+Tue Nov 13 2012,Sacramento Kings,Portland Trail Blazers,86,103,Sleep Train Arena,10153,/boxscores/201211130SAC.html
+Tue Nov 13 2012,Los Angeles Lakers,San Antonio Spurs,82,84,STAPLES Center,18997,/boxscores/201211130LAL.html
+Wed Nov 14 2012,Philadelphia 76ers,Detroit Pistons,76,94,Wells Fargo Center,11879,/boxscores/201211140PHI.html
+Wed Nov 14 2012,Boston Celtics,Utah Jazz,98,93,TD Garden,18624,/boxscores/201211140BOS.html
+Wed Nov 14 2012,Houston Rockets,New Orleans Hornets,100,96,Toyota Center,14535,/boxscores/201211140HOU.html
+Wed Nov 14 2012,Milwaukee Bucks,Indiana Pacers,99,85,BMO Harris Bradley Center,11573,/boxscores/201211140MIL.html
+Wed Nov 14 2012,Minnesota Timberwolves,Charlotte Bobcats,87,89,Target Center,13272,/boxscores/201211140MIN.html
+Wed Nov 14 2012,Oklahoma City Thunder,Memphis Grizzlies,97,107,Chesapeake Energy Arena,18203,/boxscores/201211140OKC.html
+Wed Nov 14 2012,Dallas Mavericks,Washington Wizards,107,101,American Airlines Center,19560,/boxscores/201211140DAL.html
+Wed Nov 14 2012,Phoenix Suns,Chicago Bulls,106,112,US Airways Center,15305,/boxscores/201211140PHO.html
+Wed Nov 14 2012,Golden State Warriors,Atlanta Hawks,92,88,Oracle Arena,18107,/boxscores/201211140GSW.html
+Wed Nov 14 2012,Los Angeles Clippers,Miami Heat,107,100,STAPLES Center,19146,/boxscores/201211140LAC.html
+Thu Nov 15 2012,Brooklyn Nets,Boston Celtics,102,97,Barclays Center,17732,/boxscores/201211150BRK.html
+Thu Nov 15 2012,San Antonio Spurs,New York Knicks,100,104,AT&T Center,18581,/boxscores/201211150SAS.html
+Thu Nov 15 2012,Denver Nuggets,Miami Heat,93,98,Pepsi Center,19155,/boxscores/201211150DEN.html
+Fri Nov 16 2012,Indiana Pacers,Dallas Mavericks,103,83,Bankers Life Fieldhouse,15110,/boxscores/201211160IND.html
+Fri Nov 16 2012,Philadelphia 76ers,Utah Jazz,99,93,Wells Fargo Center,15851,/boxscores/201211160PHI.html
+Fri Nov 16 2012,Detroit Pistons,Orlando Magic,106,110,The Palace of Auburn Hills,11594,/boxscores/201211160DET.html
+Fri Nov 16 2012,Minnesota Timberwolves,Golden State Warriors,98,106,Target Center,16013,/boxscores/201211160MIN.html
+Fri Nov 16 2012,New Orleans Hornets,Oklahoma City Thunder,95,110,New Orleans Arena,15458,/boxscores/201211160NOH.html
+Fri Nov 16 2012,Memphis Grizzlies,New York Knicks,105,95,FedEx Forum,17516,/boxscores/201211160MEM.html
+Fri Nov 16 2012,Portland Trail Blazers,Houston Rockets,119,117,Rose Garden Arena,20382,/boxscores/201211160POR.html
+Fri Nov 16 2012,Sacramento Kings,Atlanta Hawks,96,112,Sleep Train Arena,11814,/boxscores/201211160SAC.html
+Fri Nov 16 2012,Los Angeles Lakers,Phoenix Suns,114,102,STAPLES Center,18997,/boxscores/201211160LAL.html
+Sat Nov 17 2012,Boston Celtics,Toronto Raptors,107,89,TD Garden,18624,/boxscores/201211170BOS.html
+Sat Nov 17 2012,Washington Wizards,Utah Jazz,76,83,Verizon Center,16210,/boxscores/201211170WAS.html
+Sat Nov 17 2012,Charlotte Bobcats,Memphis Grizzlies,87,94,Time Warner Cable Arena,16541,/boxscores/201211170CHA.html
+Sat Nov 17 2012,Cleveland Cavaliers,Dallas Mavericks,95,103,Quicken Loans Arena,18633,/boxscores/201211170CLE.html
+Sat Nov 17 2012,Milwaukee Bucks,New Orleans Hornets,117,113,BMO Harris Bradley Center,14731,/boxscores/201211170MIL.html
+Sat Nov 17 2012,San Antonio Spurs,Denver Nuggets,126,100,AT&T Center,18581,/boxscores/201211170SAS.html
+Sat Nov 17 2012,Los Angeles Clippers,Chicago Bulls,101,80,STAPLES Center,19060,/boxscores/201211170LAC.html
+Sat Nov 17 2012,Phoenix Suns,Miami Heat,88,97,US Airways Center,16840,/boxscores/201211170PHO.html
+Sun Nov 18 2012,New York Knicks,Indiana Pacers,88,76,Madison Square Garden (IV),19033,/boxscores/201211180NYK.html
+Sun Nov 18 2012,Toronto Raptors,Orlando Magic,97,86,Air Canada Centre,18702,/boxscores/201211180TOR.html
+Sun Nov 18 2012,Philadelphia 76ers,Cleveland Cavaliers,86,79,Wells Fargo Center,15021,/boxscores/201211180PHI.html
+Sun Nov 18 2012,Sacramento Kings,Brooklyn Nets,90,99,Sleep Train Arena,11965,/boxscores/201211180SAC.html
+Sun Nov 18 2012,Oklahoma City Thunder,Golden State Warriors,119,109,Chesapeake Energy Arena,18203,/boxscores/201211180OKC.html
+Sun Nov 18 2012,Detroit Pistons,Boston Celtics,103,83,The Palace of Auburn Hills,12214,/boxscores/201211180DET.html
+Sun Nov 18 2012,Portland Trail Blazers,Chicago Bulls,102,94,Rose Garden Arena,20242,/boxscores/201211180POR.html
+Sun Nov 18 2012,Los Angeles Lakers,Houston Rockets,119,108,STAPLES Center,18997,/boxscores/201211180LAL.html
+Mon Nov 19 2012,Charlotte Bobcats,Milwaukee Bucks,102,98,Time Warner Cable Arena,11248,/boxscores/201211190CHA.html
+Mon Nov 19 2012,Washington Wizards,Indiana Pacers,89,96,Verizon Center,14426,/boxscores/201211190WAS.html
+Mon Nov 19 2012,Atlanta Hawks,Orlando Magic,81,72,Philips Arena,15066,/boxscores/201211190ATL.html
+Mon Nov 19 2012,Memphis Grizzlies,Denver Nuggets,92,97,FedEx Forum,15111,/boxscores/201211190MEM.html
+Mon Nov 19 2012,Dallas Mavericks,Golden State Warriors,101,105,American Airlines Center,20034,/boxscores/201211190DAL.html
+Mon Nov 19 2012,San Antonio Spurs,Los Angeles Clippers,87,92,AT&T Center,17920,/boxscores/201211190SAS.html
+Mon Nov 19 2012,Utah Jazz,Houston Rockets,102,91,EnergySolutions Arena,19197,/boxscores/201211190UTA.html
+Tue Nov 20 2012,Philadelphia 76ers,Toronto Raptors,106,98,Wells Fargo Center,13965,/boxscores/201211200PHI.html
+Tue Nov 20 2012,New Orleans Hornets,New York Knicks,80,102,New Orleans Arena,13705,/boxscores/201211200NOH.html
+Tue Nov 20 2012,Los Angeles Lakers,Brooklyn Nets,95,90,STAPLES Center,18997,/boxscores/201211200LAL.html
+Wed Nov 21 2012,Charlotte Bobcats,Toronto Raptors,98,97,Time Warner Cable Arena,15240,/boxscores/201211210CHA.html
+Wed Nov 21 2012,Cleveland Cavaliers,Philadelphia 76ers,92,83,Quicken Loans Arena,16743,/boxscores/201211210CLE.html
+Wed Nov 21 2012,Indiana Pacers,New Orleans Hornets,115,107,Bankers Life Fieldhouse,12633,/boxscores/201211210IND.html
+Wed Nov 21 2012,Orlando Magic,Detroit Pistons,90,74,Amway Center,17199,/boxscores/201211210ORL.html
+Wed Nov 21 2012,Atlanta Hawks,Washington Wizards,101,100,Philips Arena,11338,/boxscores/201211210ATL.html
+Wed Nov 21 2012,Boston Celtics,San Antonio Spurs,100,112,TD Garden,18624,/boxscores/201211210BOS.html
+Wed Nov 21 2012,Miami Heat,Milwaukee Bucks,113,106,AmericanAirlines Arena,19971,/boxscores/201211210MIA.html
+Wed Nov 21 2012,Oklahoma City Thunder,Los Angeles Clippers,117,111,Chesapeake Energy Arena,18203,/boxscores/201211210OKC.html
+Wed Nov 21 2012,Houston Rockets,Chicago Bulls,93,89,Toyota Center,15950,/boxscores/201211210HOU.html
+Wed Nov 21 2012,Minnesota Timberwolves,Denver Nuggets,94,101,Target Center,16879,/boxscores/201211210MIN.html
+Wed Nov 21 2012,Dallas Mavericks,New York Knicks,114,111,American Airlines Center,20157,/boxscores/201211210DAL.html
+Wed Nov 21 2012,Phoenix Suns,Portland Trail Blazers,114,87,US Airways Center,14263,/boxscores/201211210PHO.html
+Wed Nov 21 2012,Sacramento Kings,Los Angeles Lakers,113,97,Sleep Train Arena,15249,/boxscores/201211210SAC.html
+Wed Nov 21 2012,Golden State Warriors,Brooklyn Nets,102,93,Oracle Arena,18374,/boxscores/201211210GSW.html
+Fri Nov 23 2012,Charlotte Bobcats,Atlanta Hawks,91,101,Time Warner Cable Arena,17868,/boxscores/201211230CHA.html
+Fri Nov 23 2012,Orlando Magic,Cleveland Cavaliers,108,104,Amway Center,17334,/boxscores/201211230ORL.html
+Fri Nov 23 2012,Boston Celtics,Oklahoma City Thunder,108,100,TD Garden,18624,/boxscores/201211230BOS.html
+Fri Nov 23 2012,Brooklyn Nets,Los Angeles Clippers,86,76,Barclays Center,17732,/boxscores/201211230BRK.html
+Fri Nov 23 2012,Detroit Pistons,Toronto Raptors,91,90,The Palace of Auburn Hills,12778,/boxscores/201211230DET.html
+Fri Nov 23 2012,Houston Rockets,New York Knicks,131,103,Toyota Center,18038,/boxscores/201211230HOU.html
+Fri Nov 23 2012,Indiana Pacers,San Antonio Spurs,97,104,Bankers Life Fieldhouse,17082,/boxscores/201211230IND.html
+Fri Nov 23 2012,Memphis Grizzlies,Los Angeles Lakers,106,98,FedEx Forum,18119,/boxscores/201211230MEM.html
+Fri Nov 23 2012,Denver Nuggets,Golden State Warriors,102,91,Pepsi Center,18523,/boxscores/201211230DEN.html
+Fri Nov 23 2012,Phoenix Suns,New Orleans Hornets,111,108,US Airways Center,14020,/boxscores/201211230PHO.html
+Fri Nov 23 2012,Utah Jazz,Sacramento Kings,104,102,EnergySolutions Arena,18000,/boxscores/201211230UTA.html
+Fri Nov 23 2012,Portland Trail Blazers,Minnesota Timberwolves,103,95,Rose Garden Arena,20555,/boxscores/201211230POR.html
+Sat Nov 24 2012,Atlanta Hawks,Los Angeles Clippers,104,93,Philips Arena,16024,/boxscores/201211240ATL.html
+Sat Nov 24 2012,Philadelphia 76ers,Oklahoma City Thunder,109,116,Wells Fargo Center,19611,/boxscores/201211240PHI.html
+Sat Nov 24 2012,Washington Wizards,Charlotte Bobcats,106,108,Verizon Center,13077,/boxscores/201211240WAS.html
+Sat Nov 24 2012,Miami Heat,Cleveland Cavaliers,110,108,AmericanAirlines Arena,20064,/boxscores/201211240MIA.html
+Sat Nov 24 2012,Dallas Mavericks,Los Angeles Lakers,89,115,American Airlines Center,20423,/boxscores/201211240DAL.html
+Sat Nov 24 2012,Milwaukee Bucks,Chicago Bulls,86,93,BMO Harris Bradley Center,14812,/boxscores/201211240MIL.html
+Sat Nov 24 2012,Sacramento Kings,Utah Jazz,108,97,Sleep Train Arena,12239,/boxscores/201211240SAC.html
+Sat Nov 24 2012,Golden State Warriors,Minnesota Timberwolves,96,85,Oracle Arena,19084,/boxscores/201211240GSW.html
+Sun Nov 25 2012,New York Knicks,Detroit Pistons,121,100,Madison Square Garden (IV),19033,/boxscores/201211250NYK.html
+Sun Nov 25 2012,Toronto Raptors,San Antonio Spurs,106,111,Air Canada Centre,19800,/boxscores/201211250TOR.html
+Sun Nov 25 2012,Brooklyn Nets,Portland Trail Blazers,98,85,Barclays Center,16542,/boxscores/201211250BRK.html
+Sun Nov 25 2012,Orlando Magic,Boston Celtics,110,116,Amway Center,17037,/boxscores/201211250ORL.html
+Sun Nov 25 2012,Philadelphia 76ers,Phoenix Suns,104,101,Wells Fargo Center,14518,/boxscores/201211250PHI.html
+Sun Nov 25 2012,Denver Nuggets,New Orleans Hornets,102,84,Pepsi Center,15402,/boxscores/201211250DEN.html
+Mon Nov 26 2012,Brooklyn Nets,New York Knicks,96,89,Barclays Center,17732,/boxscores/201211260BRK.html
+Mon Nov 26 2012,Washington Wizards,San Antonio Spurs,92,118,Verizon Center,13879,/boxscores/201211260WAS.html
+Mon Nov 26 2012,Detroit Pistons,Portland Trail Blazers,108,101,The Palace of Auburn Hills,10212,/boxscores/201211260DET.html
+Mon Nov 26 2012,Chicago Bulls,Milwaukee Bucks,92,93,United Center,21485,/boxscores/201211260CHI.html
+Mon Nov 26 2012,Memphis Grizzlies,Cleveland Cavaliers,84,78,FedEx Forum,13485,/boxscores/201211260MEM.html
+Mon Nov 26 2012,Oklahoma City Thunder,Charlotte Bobcats,114,69,Chesapeake Energy Arena,18203,/boxscores/201211260OKC.html
+Mon Nov 26 2012,Utah Jazz,Denver Nuggets,105,103,EnergySolutions Arena,18776,/boxscores/201211260UTA.html
+Mon Nov 26 2012,Los Angeles Clippers,New Orleans Hornets,98,105,STAPLES Center,19060,/boxscores/201211260LAC.html
+Tue Nov 27 2012,Cleveland Cavaliers,Phoenix Suns,78,91,Quicken Loans Arena,13687,/boxscores/201211270CLE.html
+Tue Nov 27 2012,Philadelphia 76ers,Dallas Mavericks,100,98,Wells Fargo Center,15107,/boxscores/201211270PHI.html
+Tue Nov 27 2012,Houston Rockets,Toronto Raptors,117,101,Toyota Center,12907,/boxscores/201211270HOU.html
+Tue Nov 27 2012,Sacramento Kings,Minnesota Timberwolves,89,97,Sleep Train Arena,10741,/boxscores/201211270SAC.html
+Tue Nov 27 2012,Los Angeles Lakers,Indiana Pacers,77,79,STAPLES Center,18997,/boxscores/201211270LAL.html
+Wed Nov 28 2012,Orlando Magic,San Antonio Spurs,89,110,Amway Center,17271,/boxscores/201211280ORL.html
+Wed Nov 28 2012,Washington Wizards,Portland Trail Blazers,84,82,Verizon Center,14114,/boxscores/201211280WAS.html
+Wed Nov 28 2012,Atlanta Hawks,Charlotte Bobcats,94,91,Philips Arena,10162,/boxscores/201211280ATL.html
+Wed Nov 28 2012,Boston Celtics,Brooklyn Nets,83,95,TD Garden,18624,/boxscores/201211280BOS.html
+Wed Nov 28 2012,Detroit Pistons,Phoenix Suns,117,77,The Palace of Auburn Hills,10517,/boxscores/201211280DET.html
+Wed Nov 28 2012,Chicago Bulls,Dallas Mavericks,101,78,United Center,21575,/boxscores/201211280CHI.html
+Wed Nov 28 2012,Memphis Grizzlies,Toronto Raptors,103,82,FedEx Forum,14603,/boxscores/201211280MEM.html
+Wed Nov 28 2012,Milwaukee Bucks,New York Knicks,88,102,BMO Harris Bradley Center,11439,/boxscores/201211280MIL.html
+Wed Nov 28 2012,New Orleans Hornets,Utah Jazz,84,96,New Orleans Arena,10693,/boxscores/201211280NOH.html
+Wed Nov 28 2012,Oklahoma City Thunder,Houston Rockets,120,98,Chesapeake Energy Arena,18203,/boxscores/201211280OKC.html
+Wed Nov 28 2012,Los Angeles Clippers,Minnesota Timberwolves,101,95,STAPLES Center,19060,/boxscores/201211280LAC.html
+Thu Nov 29 2012,Miami Heat,San Antonio Spurs,105,100,AmericanAirlines Arena,19703,/boxscores/201211290MIA.html
+Thu Nov 29 2012,Golden State Warriors,Denver Nuggets,106,105,Oracle Arena,17627,/boxscores/201211290GSW.html
+Fri Nov 30 2012,Charlotte Bobcats,Philadelphia 76ers,98,104,Time Warner Cable Arena,13202,/boxscores/201211300CHA.html
+Fri Nov 30 2012,Orlando Magic,Brooklyn Nets,86,98,Amway Center,17103,/boxscores/201211300ORL.html
+Fri Nov 30 2012,Toronto Raptors,Phoenix Suns,101,97,Air Canada Centre,18246,/boxscores/201211300TOR.html
+Fri Nov 30 2012,Atlanta Hawks,Cleveland Cavaliers,111,113,Philips Arena,13094,/boxscores/201211300ATL.html
+Fri Nov 30 2012,Boston Celtics,Portland Trail Blazers,96,78,TD Garden,18624,/boxscores/201211300BOS.html
+Fri Nov 30 2012,New York Knicks,Washington Wizards,108,87,Madison Square Garden (IV),19033,/boxscores/201211300NYK.html
+Fri Nov 30 2012,Memphis Grizzlies,Detroit Pistons,90,78,FedEx Forum,16732,/boxscores/201211300MEM.html
+Fri Nov 30 2012,Minnesota Timberwolves,Milwaukee Bucks,95,85,Target Center,16418,/boxscores/201211300MIN.html
+Fri Nov 30 2012,Oklahoma City Thunder,Utah Jazz,106,94,Chesapeake Energy Arena,18203,/boxscores/201211300OKC.html
+Fri Nov 30 2012,Sacramento Kings,Indiana Pacers,92,97,Sleep Train Arena,12544,/boxscores/201211300SAC.html
+Fri Nov 30 2012,Los Angeles Lakers,Denver Nuggets,122,103,STAPLES Center,18997,/boxscores/201211300LAL.html

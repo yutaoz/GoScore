@@ -1,0 +1,236 @@
+Wed Mar 1 2006,Cleveland Cavaliers,Sacramento Kings,90,97,Gund Arena,17363,/boxscores/200603010CLE.html
+Wed Mar 1 2006,Toronto Raptors,Atlanta Hawks,111,113,Air Canada Centre,15137,/boxscores/200603010TOR.html
+Wed Mar 1 2006,Washington Wizards,Indiana Pacers,93,99,MCI Center,13411,/boxscores/200603010WAS.html
+Wed Mar 1 2006,Boston Celtics,Miami Heat,96,103,TD Banknorth Garden,18624,/boxscores/200603010BOS.html
+Wed Mar 1 2006,Memphis Grizzlies,New York Knicks,101,99,FedEx Forum,14678,/boxscores/200603010MEM.html
+Wed Mar 1 2006,Minnesota Timberwolves,New Jersey Nets,100,90,Target Center,15369,/boxscores/200603010MIN.html
+Wed Mar 1 2006,Denver Nuggets,Detroit Pistons,98,87,Pepsi Center,19099,/boxscores/200603010DEN.html
+Wed Mar 1 2006,Houston Rockets,Philadelphia 76ers,101,106,Toyota Center,15027,/boxscores/200603010HOU.html
+Wed Mar 1 2006,Phoenix Suns,Milwaukee Bucks,123,110,America West Arena,17701,/boxscores/200603010PHO.html
+Wed Mar 1 2006,Utah Jazz,Charlotte Bobcats,89,104,Delta Center,18177,/boxscores/200603010UTA.html
+Wed Mar 1 2006,Portland Trail Blazers,Los Angeles Lakers,99,93,Rose Garden Arena,19454,/boxscores/200603010POR.html
+Wed Mar 1 2006,Golden State Warriors,Orlando Magic,98,94,Oakland Arena,17064,/boxscores/200603010GSW.html
+Wed Mar 1 2006,Los Angeles Clippers,New Orleans/Oklahoma City Hornets,89,67,STAPLES Center,16157,/boxscores/200603010LAC.html
+Thu Mar 2 2006,Chicago Bulls,Cleveland Cavaliers,91,92,United Center,20726,/boxscores/200603020CHI.html
+Thu Mar 2 2006,San Antonio Spurs,Dallas Mavericks,98,89,SBC Center,18797,/boxscores/200603020SAS.html
+Fri Mar 3 2006,Atlanta Hawks,Sacramento Kings,93,102,Philips Arena,15200,/boxscores/200603030ATL.html
+Fri Mar 3 2006,Boston Celtics,Indiana Pacers,99,98,TD Banknorth Garden,18624,/boxscores/200603030BOS.html
+Fri Mar 3 2006,New York Knicks,Chicago Bulls,101,108,Madison Square Garden (IV),19763,/boxscores/200603030NYK.html
+Fri Mar 3 2006,Philadelphia 76ers,Washington Wizards,119,113,Wachovia Center,14832,/boxscores/200603030PHI.html
+Fri Mar 3 2006,Dallas Mavericks,Charlotte Bobcats,90,76,American Airlines Center,20075,/boxscores/200603030DAL.html
+Fri Mar 3 2006,Houston Rockets,Denver Nuggets,89,78,Toyota Center,14727,/boxscores/200603030HOU.html
+Fri Mar 3 2006,Phoenix Suns,Orlando Magic,123,118,America West Arena,18422,/boxscores/200603030PHO.html
+Fri Mar 3 2006,Utah Jazz,Los Angeles Clippers,105,103,Delta Center,19911,/boxscores/200603030UTA.html
+Fri Mar 3 2006,Golden State Warriors,Los Angeles Lakers,94,106,Oakland Arena,20375,/boxscores/200603030GSW.html
+Fri Mar 3 2006,Seattle SuperSonics,Detroit Pistons,96,98,KeyArena at Seattle Center,17072,/boxscores/200603030SEA.html
+Sat Mar 4 2006,New Jersey Nets,Toronto Raptors,105,100,Continental Airlines Arena,16215,/boxscores/200603040NJN.html
+Sat Mar 4 2006,Miami Heat,Atlanta Hawks,95,93,AmericanAirlines Arena,20023,/boxscores/200603040MIA.html
+Sat Mar 4 2006,Milwaukee Bucks,New York Knicks,98,103,Bradley Center,17936,/boxscores/200603040MIL.html
+Sat Mar 4 2006,San Antonio Spurs,Portland Trail Blazers,101,81,SBC Center,18797,/boxscores/200603040SAS.html
+Sat Mar 4 2006,Denver Nuggets,Orlando Magic,110,94,Pepsi Center,19509,/boxscores/200603040DEN.html
+Sat Mar 4 2006,Los Angeles Lakers,Detroit Pistons,105,94,STAPLES Center,18997,/boxscores/200603040LAL.html
+Sun Mar 5 2006,Philadelphia 76ers,Indiana Pacers,93,94,Wachovia Center,20177,/boxscores/200603050PHI.html
+Sun Mar 5 2006,Washington Wizards,Sacramento Kings,117,107,MCI Center,19612,/boxscores/200603050WAS.html
+Sun Mar 5 2006,Dallas Mavericks,Phoenix Suns,107,115,American Airlines Center,20340,/boxscores/200603050DAL.html
+Sun Mar 5 2006,Minnesota Timberwolves,Golden State Warriors,103,90,Target Center,15797,/boxscores/200603050MIN.html
+Sun Mar 5 2006,Toronto Raptors,Boston Celtics,111,105,Air Canada Centre,16623,/boxscores/200603050TOR.html
+Sun Mar 5 2006,Cleveland Cavaliers,Chicago Bulls,91,72,Gund Arena,20562,/boxscores/200603050CLE.html
+Sun Mar 5 2006,Houston Rockets,Portland Trail Blazers,102,84,Toyota Center,14046,/boxscores/200603050HOU.html
+Sun Mar 5 2006,Los Angeles Clippers,Memphis Grizzlies,86,102,STAPLES Center,16796,/boxscores/200603050LAC.html
+Sun Mar 5 2006,Seattle SuperSonics,Utah Jazz,113,81,KeyArena at Seattle Center,15493,/boxscores/200603050SEA.html
+Mon Mar 6 2006,Charlotte Bobcats,Miami Heat,105,106,Charlotte Bobcats Arena,17165,/boxscores/200603060CHA.html
+Mon Mar 6 2006,New Jersey Nets,Sacramento Kings,84,109,Continental Airlines Arena,15749,/boxscores/200603060NJN.html
+Mon Mar 6 2006,New Orleans/Oklahoma City Hornets,Phoenix Suns,88,101,Ford Center,19207,/boxscores/200603060NOK.html
+Mon Mar 6 2006,Denver Nuggets,Memphis Grizzlies,115,101,Pepsi Center,15242,/boxscores/200603060DEN.html
+Mon Mar 6 2006,Utah Jazz,Orlando Magic,90,85,Delta Center,17272,/boxscores/200603060UTA.html
+Mon Mar 6 2006,Los Angeles Lakers,San Antonio Spurs,96,103,STAPLES Center,18997,/boxscores/200603060LAL.html
+Tue Mar 7 2006,Atlanta Hawks,Golden State Warriors,113,106,Philips Arena,13569,/boxscores/200603070ATL.html
+Tue Mar 7 2006,Cleveland Cavaliers,Toronto Raptors,106,99,Gund Arena,18077,/boxscores/200603070CLE.html
+Tue Mar 7 2006,Indiana Pacers,New York Knicks,92,107,Conseco Fieldhouse,14801,/boxscores/200603070IND.html
+Tue Mar 7 2006,Washington Wizards,Boston Celtics,115,116,MCI Center,14250,/boxscores/200603070WAS.html
+Tue Mar 7 2006,Minnesota Timberwolves,Houston Rockets,87,93,Target Center,16588,/boxscores/200603070MIN.html
+Tue Mar 7 2006,Chicago Bulls,New Jersey Nets,95,87,United Center,20837,/boxscores/200603070CHI.html
+Tue Mar 7 2006,Dallas Mavericks,Portland Trail Blazers,93,87,American Airlines Center,20216,/boxscores/200603070DAL.html
+Tue Mar 7 2006,Los Angeles Clippers,San Antonio Spurs,98,85,STAPLES Center,18409,/boxscores/200603070LAC.html
+Wed Mar 8 2006,Toronto Raptors,Cleveland Cavaliers,97,98,Air Canada Centre,19800,/boxscores/200603080TOR.html
+Wed Mar 8 2006,Boston Celtics,Philadelphia 76ers,104,101,TD Banknorth Garden,18624,/boxscores/200603080BOS.html
+Wed Mar 8 2006,Charlotte Bobcats,Golden State Warriors,104,101,Charlotte Bobcats Arena,14039,/boxscores/200603080CHA.html
+Wed Mar 8 2006,Detroit Pistons,Chicago Bulls,106,101,The Palace of Auburn Hills,22076,/boxscores/200603080DET.html
+Wed Mar 8 2006,Miami Heat,Washington Wizards,118,112,AmericanAirlines Arena,19600,/boxscores/200603080MIA.html
+Wed Mar 8 2006,Milwaukee Bucks,Sacramento Kings,116,123,Bradley Center,14024,/boxscores/200603080MIL.html
+Wed Mar 8 2006,New Orleans/Oklahoma City Hornets,Los Angeles Lakers,107,113,New Orleans Arena,17744,/boxscores/200603080NOK.html
+Wed Mar 8 2006,Houston Rockets,Indiana Pacers,103,99,Toyota Center,13098,/boxscores/200603080HOU.html
+Wed Mar 8 2006,Utah Jazz,Minnesota Timberwolves,96,93,Delta Center,17490,/boxscores/200603080UTA.html
+Wed Mar 8 2006,Seattle SuperSonics,Memphis Grizzlies,74,99,KeyArena at Seattle Center,15521,/boxscores/200603080SEA.html
+Thu Mar 9 2006,Philadelphia 76ers,Denver Nuggets,93,97,Wachovia Center,18194,/boxscores/200603090PHI.html
+Thu Mar 9 2006,Portland Trail Blazers,Dallas Mavericks,92,109,Rose Garden Arena,15433,/boxscores/200603090POR.html
+Thu Mar 9 2006,Phoenix Suns,San Antonio Spurs,93,117,America West Arena,18422,/boxscores/200603090PHO.html
+Fri Mar 10 2006,Orlando Magic,Cleveland Cavaliers,102,73,TD Waterhouse Centre,17283,/boxscores/200603100ORL.html
+Fri Mar 10 2006,Toronto Raptors,Denver Nuggets,97,108,Air Canada Centre,17806,/boxscores/200603100TOR.html
+Fri Mar 10 2006,Boston Celtics,Milwaukee Bucks,86,92,TD Banknorth Garden,18624,/boxscores/200603100BOS.html
+Fri Mar 10 2006,Miami Heat,Golden State Warriors,106,111,AmericanAirlines Arena,19600,/boxscores/200603100MIA.html
+Fri Mar 10 2006,New Orleans/Oklahoma City Hornets,Indiana Pacers,90,92,Ford Center,18506,/boxscores/200603100NOK.html
+Fri Mar 10 2006,Chicago Bulls,Los Angeles Clippers,96,107,United Center,21975,/boxscores/200603100CHI.html
+Fri Mar 10 2006,San Antonio Spurs,Los Angeles Lakers,92,100,SBC Center,18797,/boxscores/200603100SAS.html
+Fri Mar 10 2006,Sacramento Kings,Memphis Grizzlies,105,93,ARCO Arena (II),17317,/boxscores/200603100SAC.html
+Fri Mar 10 2006,Seattle SuperSonics,Minnesota Timberwolves,107,96,KeyArena at Seattle Center,16713,/boxscores/200603100SEA.html
+Sat Mar 11 2006,Atlanta Hawks,Chicago Bulls,90,95,Philips Arena,15301,/boxscores/200603110ATL.html
+Sat Mar 11 2006,Orlando Magic,Golden State Warriors,103,92,TD Waterhouse Centre,15102,/boxscores/200603110ORL.html
+Sat Mar 11 2006,Washington Wizards,Detroit Pistons,110,92,MCI Center,20173,/boxscores/200603110WAS.html
+Sat Mar 11 2006,Charlotte Bobcats,New York Knicks,116,109,Charlotte Bobcats Arena,19026,/boxscores/200603110CHA.html
+Sat Mar 11 2006,Milwaukee Bucks,Los Angeles Clippers,98,106,Bradley Center,18482,/boxscores/200603110MIL.html
+Sat Mar 11 2006,Phoenix Suns,Minnesota Timberwolves,110,102,America West Arena,18422,/boxscores/200603110PHO.html
+Sat Mar 11 2006,Utah Jazz,Dallas Mavericks,87,90,Delta Center,19790,/boxscores/200603110UTA.html
+Sun Mar 12 2006,Miami Heat,Cleveland Cavaliers,98,92,AmericanAirlines Arena,20268,/boxscores/200603120MIA.html
+Sun Mar 12 2006,Los Angeles Lakers,Seattle SuperSonics,113,120,STAPLES Center,18997,/boxscores/200603120LAL.html
+Sun Mar 12 2006,San Antonio Spurs,Houston Rockets,88,81,SBC Center,18797,/boxscores/200603120SAS.html
+Sun Mar 12 2006,Memphis Grizzlies,Philadelphia 76ers,91,94,FedEx Forum,17776,/boxscores/200603120MEM.html
+Sun Mar 12 2006,Boston Celtics,Denver Nuggets,106,101,TD Banknorth Garden,18624,/boxscores/200603120BOS.html
+Sun Mar 12 2006,Detroit Pistons,Charlotte Bobcats,94,78,The Palace of Auburn Hills,22076,/boxscores/200603120DET.html
+Sun Mar 12 2006,Toronto Raptors,Indiana Pacers,93,89,Air Canada Centre,17573,/boxscores/200603120TOR.html
+Sun Mar 12 2006,New Orleans/Oklahoma City Hornets,New Jersey Nets,84,95,Ford Center,19198,/boxscores/200603120NOK.html
+Sun Mar 12 2006,Portland Trail Blazers,Phoenix Suns,111,101,Rose Garden Arena,18896,/boxscores/200603120POR.html
+Sun Mar 12 2006,Sacramento Kings,Dallas Mavericks,85,80,ARCO Arena (II),17317,/boxscores/200603120SAC.html
+Mon Mar 13 2006,Indiana Pacers,Orlando Magic,97,83,Conseco Fieldhouse,14109,/boxscores/200603130IND.html
+Mon Mar 13 2006,New York Knicks,Denver Nuggets,96,108,Madison Square Garden (IV),19763,/boxscores/200603130NYK.html
+Mon Mar 13 2006,Milwaukee Bucks,Atlanta Hawks,88,87,Bradley Center,13189,/boxscores/200603130MIL.html
+Mon Mar 13 2006,Houston Rockets,New Jersey Nets,77,90,Toyota Center,16047,/boxscores/200603130HOU.html
+Mon Mar 13 2006,Los Angeles Clippers,Minnesota Timberwolves,95,87,STAPLES Center,17258,/boxscores/200603130LAC.html
+Tue Mar 14 2006,Philadelphia 76ers,Toronto Raptors,97,111,Wachovia Center,14917,/boxscores/200603140PHI.html
+Tue Mar 14 2006,Charlotte Bobcats,Washington Wizards,114,119,Charlotte Bobcats Arena,13721,/boxscores/200603140CHA.html
+Tue Mar 14 2006,Miami Heat,Utah Jazz,121,83,AmericanAirlines Arena,19600,/boxscores/200603140MIA.html
+Tue Mar 14 2006,Memphis Grizzlies,Boston Celtics,93,76,FedEx Forum,14271,/boxscores/200603140MEM.html
+Tue Mar 14 2006,Chicago Bulls,Portland Trail Blazers,95,66,United Center,20604,/boxscores/200603140CHI.html
+Tue Mar 14 2006,Dallas Mavericks,Cleveland Cavaliers,91,87,American Airlines Center,20425,/boxscores/200603140DAL.html
+Tue Mar 14 2006,San Antonio Spurs,New Orleans/Oklahoma City Hornets,96,81,SBC Center,18797,/boxscores/200603140SAS.html
+Tue Mar 14 2006,Sacramento Kings,Los Angeles Lakers,114,98,ARCO Arena (II),17317,/boxscores/200603140SAC.html
+Tue Mar 14 2006,Seattle SuperSonics,Phoenix Suns,120,129,KeyArena at Seattle Center,16841,/boxscores/200603140SEA.html
+Wed Mar 15 2006,Indiana Pacers,Denver Nuggets,99,101,Conseco Fieldhouse,14826,/boxscores/200603150IND.html
+Wed Mar 15 2006,Orlando Magic,Utah Jazz,114,108,TD Waterhouse Centre,15693,/boxscores/200603150ORL.html
+Wed Mar 15 2006,Toronto Raptors,Detroit Pistons,98,105,Air Canada Centre,19800,/boxscores/200603150TOR.html
+Wed Mar 15 2006,Washington Wizards,Charlotte Bobcats,107,99,MCI Center,13841,/boxscores/200603150WAS.html
+Wed Mar 15 2006,New Jersey Nets,Portland Trail Blazers,78,65,Continental Airlines Arena,16115,/boxscores/200603150NJN.html
+Wed Mar 15 2006,New York Knicks,Atlanta Hawks,121,117,Madison Square Garden (IV),18902,/boxscores/200603150NYK.html
+Wed Mar 15 2006,Milwaukee Bucks,Chicago Bulls,104,88,Bradley Center,14879,/boxscores/200603150MIL.html
+Wed Mar 15 2006,Houston Rockets,Dallas Mavericks,81,95,Toyota Center,18222,/boxscores/200603150HOU.html
+Wed Mar 15 2006,Phoenix Suns,Los Angeles Clippers,126,95,America West Arena,18422,/boxscores/200603150PHO.html
+Wed Mar 15 2006,Los Angeles Lakers,Minnesota Timberwolves,92,89,STAPLES Center,18997,/boxscores/200603150LAL.html
+Thu Mar 16 2006,Miami Heat,Boston Celtics,107,104,AmericanAirlines Arena,20188,/boxscores/200603160MIA.html
+Thu Mar 16 2006,Seattle SuperSonics,Philadelphia 76ers,102,98,KeyArena at Seattle Center,16781,/boxscores/200603160SEA.html
+Thu Mar 16 2006,Golden State Warriors,Minnesota Timberwolves,105,97,Oakland Arena,17526,/boxscores/200603160GSW.html
+Fri Mar 17 2006,Atlanta Hawks,Utah Jazz,101,111,Philips Arena,17442,/boxscores/200603170ATL.html
+Fri Mar 17 2006,Indiana Pacers,Sacramento Kings,98,93,Conseco Fieldhouse,18345,/boxscores/200603170IND.html
+Fri Mar 17 2006,Orlando Magic,Boston Celtics,84,77,TD Waterhouse Centre,15702,/boxscores/200603170ORL.html
+Fri Mar 17 2006,Toronto Raptors,Milwaukee Bucks,97,96,Air Canada Centre,17273,/boxscores/200603170TOR.html
+Fri Mar 17 2006,Washington Wizards,Dallas Mavericks,94,104,MCI Center,18954,/boxscores/200603170WAS.html
+Fri Mar 17 2006,Cleveland Cavaliers,Portland Trail Blazers,99,84,Gund Arena,20562,/boxscores/200603170CLE.html
+Fri Mar 17 2006,New Jersey Nets,Los Angeles Lakers,92,89,Continental Airlines Arena,20098,/boxscores/200603170NJN.html
+Fri Mar 17 2006,New York Knicks,Detroit Pistons,105,103,Madison Square Garden (IV),19763,/boxscores/200603170NYK.html
+Fri Mar 17 2006,Memphis Grizzlies,Denver Nuggets,116,102,FedEx Forum,17222,/boxscores/200603170MEM.html
+Fri Mar 17 2006,San Antonio Spurs,Phoenix Suns,108,102,SBC Center,18797,/boxscores/200603170SAS.html
+Fri Mar 17 2006,Los Angeles Clippers,Philadelphia 76ers,99,89,STAPLES Center,19186,/boxscores/200603170LAC.html
+Sat Mar 18 2006,Chicago Bulls,Miami Heat,84,85,United Center,22439,/boxscores/200603180CHI.html
+Sat Mar 18 2006,Charlotte Bobcats,Detroit Pistons,103,108,Charlotte Bobcats Arena,19026,/boxscores/200603180CHA.html
+Sat Mar 18 2006,New Orleans/Oklahoma City Hornets,Denver Nuggets,94,109,New Orleans Arena,17912,/boxscores/200603180NOK.html
+Sat Mar 18 2006,Houston Rockets,San Antonio Spurs,77,92,Toyota Center,18234,/boxscores/200603180HOU.html
+Sat Mar 18 2006,Milwaukee Bucks,Portland Trail Blazers,97,93,Bradley Center,17674,/boxscores/200603180MIL.html
+Sun Mar 19 2006,Cleveland Cavaliers,Los Angeles Lakers,96,95,Gund Arena,20562,/boxscores/200603190CLE.html
+Sun Mar 19 2006,New Jersey Nets,Dallas Mavericks,100,89,Continental Airlines Arena,18883,/boxscores/200603190NJN.html
+Sun Mar 19 2006,Atlanta Hawks,Orlando Magic,108,107,Philips Arena,14614,/boxscores/200603190ATL.html
+Sun Mar 19 2006,Indiana Pacers,Boston Celtics,88,103,Conseco Fieldhouse,18345,/boxscores/200603190IND.html
+Sun Mar 19 2006,Minnesota Timberwolves,Sacramento Kings,95,89,Target Center,18207,/boxscores/200603190MIN.html
+Sun Mar 19 2006,Washington Wizards,Chicago Bulls,113,104,MCI Center,15319,/boxscores/200603190WAS.html
+Sun Mar 19 2006,Golden State Warriors,Philadelphia 76ers,98,89,Oakland Arena,19596,/boxscores/200603190GSW.html
+Sun Mar 19 2006,Memphis Grizzlies,Utah Jazz,90,84,FedEx Forum,14116,/boxscores/200603190MEM.html
+Sun Mar 19 2006,New York Knicks,Miami Heat,100,111,Madison Square Garden (IV),19763,/boxscores/200603190NYK.html
+Mon Mar 20 2006,Boston Celtics,Los Angeles Lakers,97,105,TD Banknorth Garden,18624,/boxscores/200603200BOS.html
+Mon Mar 20 2006,Detroit Pistons,Atlanta Hawks,91,84,The Palace of Auburn Hills,22076,/boxscores/200603200DET.html
+Mon Mar 20 2006,Houston Rockets,Los Angeles Clippers,91,99,Toyota Center,12395,/boxscores/200603200HOU.html
+Mon Mar 20 2006,Portland Trail Blazers,Milwaukee Bucks,93,100,Rose Garden Arena,12589,/boxscores/200603200POR.html
+Tue Mar 21 2006,Washington Wizards,New Jersey Nets,100,112,MCI Center,14887,/boxscores/200603210WAS.html
+Tue Mar 21 2006,Charlotte Bobcats,Orlando Magic,108,102,Charlotte Bobcats Arena,15613,/boxscores/200603210CHA.html
+Tue Mar 21 2006,New York Knicks,Toronto Raptors,109,114,Madison Square Garden (IV),18131,/boxscores/200603210NYK.html
+Tue Mar 21 2006,Dallas Mavericks,Houston Rockets,88,72,American Airlines Center,20283,/boxscores/200603210DAL.html
+Tue Mar 21 2006,Memphis Grizzlies,Indiana Pacers,105,75,FedEx Forum,14063,/boxscores/200603210MEM.html
+Tue Mar 21 2006,Minnesota Timberwolves,Miami Heat,100,96,Target Center,17927,/boxscores/200603210MIN.html
+Tue Mar 21 2006,New Orleans/Oklahoma City Hornets,Los Angeles Clippers,120,108,New Orleans Arena,16799,/boxscores/200603210NOK.html
+Tue Mar 21 2006,San Antonio Spurs,Golden State Warriors,107,96,SBC Center,18797,/boxscores/200603210SAS.html
+Tue Mar 21 2006,Sacramento Kings,Seattle SuperSonics,105,96,ARCO Arena (II),17317,/boxscores/200603210SAC.html
+Tue Mar 21 2006,Utah Jazz,Phoenix Suns,107,99,Delta Center,18948,/boxscores/200603210UTA.html
+Wed Mar 22 2006,Cleveland Cavaliers,Charlotte Bobcats,120,118,Gund Arena,18550,/boxscores/200603220CLE.html
+Wed Mar 22 2006,Indiana Pacers,Chicago Bulls,95,85,Conseco Fieldhouse,14632,/boxscores/200603220IND.html
+Wed Mar 22 2006,Orlando Magic,New York Knicks,111,87,TD Waterhouse Centre,15819,/boxscores/200603220ORL.html
+Wed Mar 22 2006,Philadelphia 76ers,Atlanta Hawks,115,106,Wachovia Center,15009,/boxscores/200603220PHI.html
+Wed Mar 22 2006,Boston Celtics,Toronto Raptors,110,96,TD Banknorth Garden,18624,/boxscores/200603220BOS.html
+Wed Mar 22 2006,Detroit Pistons,Miami Heat,82,73,The Palace of Auburn Hills,22076,/boxscores/200603220DET.html
+Wed Mar 22 2006,Seattle SuperSonics,Milwaukee Bucks,114,105,KeyArena at Seattle Center,15231,/boxscores/200603220SEA.html
+Wed Mar 22 2006,Denver Nuggets,San Antonio Spurs,104,92,Pepsi Center,17455,/boxscores/200603220DEN.html
+Wed Mar 22 2006,Los Angeles Lakers,Sacramento Kings,87,80,STAPLES Center,18997,/boxscores/200603220LAL.html
+Thu Mar 23 2006,New Jersey Nets,Minnesota Timberwolves,86,82,Continental Airlines Arena,15952,/boxscores/200603230NJN.html
+Thu Mar 23 2006,Memphis Grizzlies,Los Angeles Clippers,95,85,FedEx Forum,13872,/boxscores/200603230MEM.html
+Thu Mar 23 2006,New Orleans/Oklahoma City Hornets,Houston Rockets,92,93,Ford Center,19163,/boxscores/200603230NOK.html
+Thu Mar 23 2006,Dallas Mavericks,Golden State Warriors,121,122,American Airlines Center,20165,/boxscores/200603230DAL.html
+Thu Mar 23 2006,Phoenix Suns,Portland Trail Blazers,125,108,America West Arena,18422,/boxscores/200603230PHO.html
+Thu Mar 23 2006,Utah Jazz,Washington Wizards,97,109,Delta Center,19911,/boxscores/200603230UTA.html
+Fri Mar 24 2006,Indiana Pacers,Detroit Pistons,72,75,Conseco Fieldhouse,18345,/boxscores/200603240IND.html
+Fri Mar 24 2006,Philadelphia 76ers,Orlando Magic,86,102,Wachovia Center,20315,/boxscores/200603240PHI.html
+Fri Mar 24 2006,Toronto Raptors,Minnesota Timberwolves,97,77,Air Canada Centre,17493,/boxscores/200603240TOR.html
+Fri Mar 24 2006,Cleveland Cavaliers,Boston Celtics,94,82,Gund Arena,20562,/boxscores/200603240CLE.html
+Fri Mar 24 2006,Miami Heat,Charlotte Bobcats,114,93,AmericanAirlines Arena,20146,/boxscores/200603240MIA.html
+Fri Mar 24 2006,New York Knicks,Memphis Grizzlies,75,91,Madison Square Garden (IV),19763,/boxscores/200603240NYK.html
+Fri Mar 24 2006,Chicago Bulls,New Orleans/Oklahoma City Hornets,96,82,United Center,21793,/boxscores/200603240CHI.html
+Fri Mar 24 2006,Denver Nuggets,Seattle SuperSonics,117,104,Pepsi Center,19099,/boxscores/200603240DEN.html
+Fri Mar 24 2006,Portland Trail Blazers,San Antonio Spurs,79,98,Rose Garden Arena,17018,/boxscores/200603240POR.html
+Fri Mar 24 2006,Los Angeles Lakers,Milwaukee Bucks,101,96,STAPLES Center,18745,/boxscores/200603240LAL.html
+Sat Mar 25 2006,Los Angeles Clippers,Washington Wizards,116,101,STAPLES Center,17655,/boxscores/200603250LAC.html
+Sat Mar 25 2006,Atlanta Hawks,Dallas Mavericks,83,98,Philips Arena,18729,/boxscores/200603250ATL.html
+Sat Mar 25 2006,Phoenix Suns,Denver Nuggets,107,96,America West Arena,18422,/boxscores/200603250PHO.html
+Sat Mar 25 2006,Utah Jazz,Sacramento Kings,89,91,Delta Center,17867,/boxscores/200603250UTA.html
+Sun Mar 26 2006,Indiana Pacers,Philadelphia 76ers,92,79,Conseco Fieldhouse,17513,/boxscores/200603260IND.html
+Sun Mar 26 2006,Milwaukee Bucks,Toronto Raptors,125,116,Bradley Center,16317,/boxscores/200603260MIL.html
+Sun Mar 26 2006,Minnesota Timberwolves,New York Knicks,98,94,Target Center,16201,/boxscores/200603260MIN.html
+Sun Mar 26 2006,Boston Celtics,Chicago Bulls,97,101,TD Banknorth Garden,18624,/boxscores/200603260BOS.html
+Sun Mar 26 2006,Houston Rockets,Cleveland Cavaliers,102,104,Toyota Center,16839,/boxscores/200603260HOU.html
+Sun Mar 26 2006,Memphis Grizzlies,Charlotte Bobcats,102,95,FedEx Forum,17328,/boxscores/200603260MEM.html
+Sun Mar 26 2006,Orlando Magic,Atlanta Hawks,108,101,TD Waterhouse Centre,16191,/boxscores/200603260ORL.html
+Sun Mar 26 2006,Detroit Pistons,New Jersey Nets,74,79,The Palace of Auburn Hills,22076,/boxscores/200603260DET.html
+Sun Mar 26 2006,Portland Trail Blazers,Los Angeles Clippers,83,97,Rose Garden Arena,15345,/boxscores/200603260POR.html
+Sun Mar 26 2006,Sacramento Kings,Golden State Warriors,83,90,ARCO Arena (II),17317,/boxscores/200603260SAC.html
+Sun Mar 26 2006,Seattle SuperSonics,San Antonio Spurs,106,102,KeyArena at Seattle Center,16861,/boxscores/200603260SEA.html
+Sun Mar 26 2006,Los Angeles Lakers,New Orleans/Oklahoma City Hornets,105,94,STAPLES Center,18997,/boxscores/200603260LAL.html
+Mon Mar 27 2006,Miami Heat,Indiana Pacers,96,91,AmericanAirlines Arena,20204,/boxscores/200603270MIA.html
+Mon Mar 27 2006,New Jersey Nets,Phoenix Suns,110,72,Continental Airlines Arena,18467,/boxscores/200603270NJN.html
+Mon Mar 27 2006,Utah Jazz,New Orleans/Oklahoma City Hornets,104,80,Delta Center,17437,/boxscores/200603270UTA.html
+Mon Mar 27 2006,Golden State Warriors,Washington Wizards,98,116,Oakland Arena,17158,/boxscores/200603270GSW.html
+Tue Mar 28 2006,Charlotte Bobcats,Atlanta Hawks,125,117,Charlotte Bobcats Arena,14762,/boxscores/200603280CHA.html
+Tue Mar 28 2006,Detroit Pistons,Dallas Mavericks,97,90,The Palace of Auburn Hills,22076,/boxscores/200603280DET.html
+Tue Mar 28 2006,Memphis Grizzlies,Seattle SuperSonics,97,98,FedEx Forum,14691,/boxscores/200603280MEM.html
+Tue Mar 28 2006,Milwaukee Bucks,Phoenix Suns,132,110,Bradley Center,15573,/boxscores/200603280MIL.html
+Tue Mar 28 2006,Chicago Bulls,Orlando Magic,93,97,United Center,21838,/boxscores/200603280CHI.html
+Tue Mar 28 2006,Sacramento Kings,Washington Wizards,84,97,ARCO Arena (II),17317,/boxscores/200603280SAC.html
+Tue Mar 28 2006,Los Angeles Clippers,San Antonio Spurs,87,98,STAPLES Center,17978,/boxscores/200603280LAC.html
+Wed Mar 29 2006,Atlanta Hawks,Indiana Pacers,94,93,Philips Arena,13955,/boxscores/200603290ATL.html
+Wed Mar 29 2006,Cleveland Cavaliers,Dallas Mavericks,107,94,Gund Arena,19401,/boxscores/200603290CLE.html
+Wed Mar 29 2006,Toronto Raptors,Miami Heat,94,98,Air Canada Centre,19973,/boxscores/200603290TOR.html
+Wed Mar 29 2006,New Jersey Nets,Memphis Grizzlies,86,74,Continental Airlines Arena,16455,/boxscores/200603290NJN.html
+Wed Mar 29 2006,New York Knicks,Boston Celtics,98,123,Madison Square Garden (IV),19763,/boxscores/200603290NYK.html
+Wed Mar 29 2006,Philadelphia 76ers,Detroit Pistons,91,101,Wachovia Center,18022,/boxscores/200603290PHI.html
+Wed Mar 29 2006,Minnesota Timberwolves,Orlando Magic,103,91,Target Center,15142,/boxscores/200603290MIN.html
+Wed Mar 29 2006,Houston Rockets,Seattle SuperSonics,115,87,Toyota Center,13180,/boxscores/200603290HOU.html
+Wed Mar 29 2006,Denver Nuggets,Utah Jazz,104,115,Pepsi Center,16476,/boxscores/200603290DEN.html
+Wed Mar 29 2006,Portland Trail Blazers,Sacramento Kings,90,106,Rose Garden Arena,15167,/boxscores/200603290POR.html
+Wed Mar 29 2006,Golden State Warriors,New Orleans/Oklahoma City Hornets,85,86,Oakland Arena,16885,/boxscores/200603290GSW.html
+Thu Mar 30 2006,Indiana Pacers,Phoenix Suns,104,114,Conseco Fieldhouse,18345,/boxscores/200603300IND.html
+Thu Mar 30 2006,Los Angeles Lakers,San Antonio Spurs,85,96,STAPLES Center,18997,/boxscores/200603300LAL.html
+Fri Mar 31 2006,Atlanta Hawks,New Jersey Nets,88,91,Philips Arena,17403,/boxscores/200603310ATL.html
+Fri Mar 31 2006,Orlando Magic,Dallas Mavericks,108,99,TD Waterhouse Centre,17283,/boxscores/200603310ORL.html
+Fri Mar 31 2006,Toronto Raptors,Phoenix Suns,126,140,Air Canada Centre,19800,/boxscores/200603310TOR.html
+Fri Mar 31 2006,Charlotte Bobcats,Chicago Bulls,107,113,Charlotte Bobcats Arena,16607,/boxscores/200603310CHA.html
+Fri Mar 31 2006,New York Knicks,Philadelphia 76ers,112,117,Madison Square Garden (IV),19763,/boxscores/200603310NYK.html
+Fri Mar 31 2006,Detroit Pistons,Milwaukee Bucks,112,105,The Palace of Auburn Hills,22076,/boxscores/200603310DET.html
+Fri Mar 31 2006,New Orleans/Oklahoma City Hornets,Memphis Grizzlies,107,102,Ford Center,18817,/boxscores/200603310NOK.html
+Fri Mar 31 2006,Houston Rockets,Washington Wizards,105,103,Toyota Center,16993,/boxscores/200603310HOU.html
+Fri Mar 31 2006,Denver Nuggets,Minnesota Timberwolves,106,94,Pepsi Center,19497,/boxscores/200603310DEN.html
+Fri Mar 31 2006,Golden State Warriors,Sacramento Kings,93,96,Oakland Arena,20011,/boxscores/200603310GSW.html
+Fri Mar 31 2006,Los Angeles Clippers,Utah Jazz,106,91,STAPLES Center,17322,/boxscores/200603310LAC.html
+Fri Mar 31 2006,Seattle SuperSonics,Los Angeles Lakers,93,106,KeyArena at Seattle Center,17072,/boxscores/200603310SEA.html

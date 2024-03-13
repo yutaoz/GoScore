@@ -1,0 +1,250 @@
+Mon Mar 1 1999,Boston Celtics,New Jersey Nets,97,99,FleetCenter,17747,/boxscores/199903010BOS.html
+Mon Mar 1 1999,Charlotte Hornets,Toronto Raptors,91,88,Charlotte Coliseum,18039,/boxscores/199903010CHH.html
+Mon Mar 1 1999,New York Knicks,Cleveland Cavaliers,85,78,Madison Square Garden (IV),19763,/boxscores/199903010NYK.html
+Mon Mar 1 1999,Orlando Magic,Atlanta Hawks,70,67,Orlando Arena,15359,/boxscores/199903010ORL.html
+Mon Mar 1 1999,Phoenix Suns,Los Angeles Lakers,91,97,America West Arena,19023,/boxscores/199903010PHO.html
+Mon Mar 1 1999,Sacramento Kings,Seattle SuperSonics,102,105,ARCO Arena (II),16786,/boxscores/199903010SAC.html
+Mon Mar 1 1999,Washington Wizards,Philadelphia 76ers,91,104,MCI Center,13814,/boxscores/199903010WAS.html
+Tue Mar 2 1999,Atlanta Hawks,Washington Wizards,77,97,Alexander Memorial Coliseum at McDonald's Center,8139,/boxscores/199903020ATL.html
+Tue Mar 2 1999,Chicago Bulls,Detroit Pistons,78,108,United Center,22432,/boxscores/199903020CHI.html
+Tue Mar 2 1999,Cleveland Cavaliers,Boston Celtics,116,99,Gund Arena,12906,/boxscores/199903020CLE.html
+Tue Mar 2 1999,Dallas Mavericks,Los Angeles Clippers,112,99,Reunion Arena,13492,/boxscores/199903020DAL.html
+Tue Mar 2 1999,Houston Rockets,San Antonio Spurs,82,99,Compaq Center,16285,/boxscores/199903020HOU.html
+Tue Mar 2 1999,Indiana Pacers,Denver Nuggets,88,81,Market Square Arena,14530,/boxscores/199903020IND.html
+Tue Mar 2 1999,Miami Heat,New York Knicks,85,84,Miami Arena,15200,/boxscores/199903020MIA.html
+Tue Mar 2 1999,Minnesota Timberwolves,Golden State Warriors,89,78,Target Center,14776,/boxscores/199903020MIN.html
+Tue Mar 2 1999,New Jersey Nets,Milwaukee Bucks,86,94,Continental Airlines Arena,15180,/boxscores/199903020NJN.html
+Tue Mar 2 1999,Portland Trail Blazers,Utah Jazz,102,100,Rose Garden Arena,19980,/boxscores/199903020POR.html
+Tue Mar 2 1999,Vancouver Grizzlies,Sacramento Kings,101,111,General Motors Place,13252,/boxscores/199903020VAN.html
+Wed Mar 3 1999,Los Angeles Lakers,Phoenix Suns,101,95,Great Western Forum,17505,/boxscores/199903030LAL.html
+Wed Mar 3 1999,Milwaukee Bucks,Golden State Warriors,106,78,Bradley Center,12136,/boxscores/199903030MIL.html
+Wed Mar 3 1999,Orlando Magic,Charlotte Hornets,93,76,Orlando Arena,15421,/boxscores/199903030ORL.html
+Wed Mar 3 1999,Philadelphia 76ers,Chicago Bulls,102,86,First Union Center,11510,/boxscores/199903030PHI.html
+Wed Mar 3 1999,Sacramento Kings,Portland Trail Blazers,93,97,ARCO Arena (II),15160,/boxscores/199903030SAC.html
+Wed Mar 3 1999,Utah Jazz,Vancouver Grizzlies,109,86,Delta Center,18556,/boxscores/199903030UTA.html
+Wed Mar 3 1999,Washington Wizards,Indiana Pacers,95,106,MCI Center,12912,/boxscores/199903030WAS.html
+Thu Mar 4 1999,Atlanta Hawks,Toronto Raptors,77,86,Alexander Memorial Coliseum at McDonald's Center,7877,/boxscores/199903040ATL.html
+Thu Mar 4 1999,Cleveland Cavaliers,Detroit Pistons,84,99,Gund Arena,13248,/boxscores/199903040CLE.html
+Thu Mar 4 1999,Dallas Mavericks,San Antonio Spurs,79,95,Reunion Arena,14719,/boxscores/199903040DAL.html
+Thu Mar 4 1999,Houston Rockets,Los Angeles Clippers,96,77,Compaq Center,16285,/boxscores/199903040HOU.html
+Thu Mar 4 1999,Miami Heat,Denver Nuggets,95,87,Miami Arena,14834,/boxscores/199903040MIA.html
+Thu Mar 4 1999,New Jersey Nets,Charlotte Hornets,82,96,Continental Airlines Arena,14728,/boxscores/199903040NJN.html
+Thu Mar 4 1999,Seattle SuperSonics,Phoenix Suns,93,101,KeyArena at Seattle Center,17072,/boxscores/199903040SEA.html
+Thu Mar 4 1999,Vancouver Grizzlies,Minnesota Timberwolves,93,102,General Motors Place,13329,/boxscores/199903040VAN.html
+Fri Mar 5 1999,Boston Celtics,Denver Nuggets,102,94,FleetCenter,18624,/boxscores/199903050BOS.html
+Fri Mar 5 1999,Indiana Pacers,Golden State Warriors,83,102,Market Square Arena,16184,/boxscores/199903050IND.html
+Fri Mar 5 1999,Los Angeles Lakers,Seattle SuperSonics,103,100,Great Western Forum,17505,/boxscores/199903050LAL.html
+Fri Mar 5 1999,Milwaukee Bucks,New York Knicks,88,87,Bradley Center,16843,/boxscores/199903050MIL.html
+Fri Mar 5 1999,Philadelphia 76ers,Miami Heat,78,89,First Union Center,19949,/boxscores/199903050PHI.html
+Fri Mar 5 1999,Portland Trail Blazers,Minnesota Timberwolves,97,85,Rose Garden Arena,19264,/boxscores/199903050POR.html
+Fri Mar 5 1999,Toronto Raptors,Orlando Magic,84,89,Air Canada Centre,15601,/boxscores/199903050TOR.html
+Fri Mar 5 1999,Utah Jazz,Dallas Mavericks,106,95,Delta Center,19539,/boxscores/199903050UTA.html
+Fri Mar 5 1999,Washington Wizards,Charlotte Hornets,86,85,MCI Center,15703,/boxscores/199903050WAS.html
+Sat Mar 6 1999,Cleveland Cavaliers,Golden State Warriors,97,80,Gund Arena,12894,/boxscores/199903060CLE.html
+Sat Mar 6 1999,Orlando Magic,Detroit Pistons,87,82,Orlando Arena,17248,/boxscores/199903060ORL.html
+Sat Mar 6 1999,Phoenix Suns,Sacramento Kings,99,111,America West Arena,19023,/boxscores/199903060PHO.html
+Sat Mar 6 1999,San Antonio Spurs,Los Angeles Clippers,114,85,Alamodome,18394,/boxscores/199903060SAS.html
+Sat Mar 6 1999,Vancouver Grizzlies,Houston Rockets,92,107,General Motors Place,19193,/boxscores/199903060VAN.html
+Sun Mar 7 1999,Denver Nuggets,San Antonio Spurs,96,106,McNichols Sports Arena,12037,/boxscores/199903070DEN.html
+Sun Mar 7 1999,Indiana Pacers,Miami Heat,85,72,Market Square Arena,16703,/boxscores/199903070IND.html
+Sun Mar 7 1999,New York Knicks,New Jersey Nets,97,86,Madison Square Garden (IV),19763,/boxscores/199903070NYK.html
+Sun Mar 7 1999,Philadelphia 76ers,Washington Wizards,95,103,First Union Center,16797,/boxscores/199903070PHI.html
+Sun Mar 7 1999,Portland Trail Blazers,Houston Rockets,111,71,Rose Garden Arena,20062,/boxscores/199903070POR.html
+Sun Mar 7 1999,Sacramento Kings,Dallas Mavericks,94,89,ARCO Arena (II),14715,/boxscores/199903070SAC.html
+Sun Mar 7 1999,Seattle SuperSonics,Minnesota Timberwolves,77,88,KeyArena at Seattle Center,17072,/boxscores/199903070SEA.html
+Sun Mar 7 1999,Toronto Raptors,Boston Celtics,105,92,Air Canada Centre,16635,/boxscores/199903070TOR.html
+Sun Mar 7 1999,Utah Jazz,Los Angeles Lakers,89,97,Delta Center,19911,/boxscores/199903070UTA.html
+Mon Mar 8 1999,Detroit Pistons,Washington Wizards,75,71,The Palace of Auburn Hills,15022,/boxscores/199903080DET.html
+Mon Mar 8 1999,Miami Heat,Philadelphia 76ers,91,89,Miami Arena,15200,/boxscores/199903080MIA.html
+Mon Mar 8 1999,Milwaukee Bucks,Chicago Bulls,81,76,Bradley Center,12085,/boxscores/199903080MIL.html
+Mon Mar 8 1999,Orlando Magic,Atlanta Hawks,110,114,Orlando Arena,15637,/boxscores/199903080ORL.html
+Mon Mar 8 1999,Vancouver Grizzlies,Portland Trail Blazers,73,92,General Motors Place,13552,/boxscores/199903080VAN.html
+Tue Mar 9 1999,Charlotte Hornets,Boston Celtics,105,87,Charlotte Coliseum,18342,/boxscores/199903090CHH.html
+Tue Mar 9 1999,Chicago Bulls,New Jersey Nets,103,87,United Center,22207,/boxscores/199903090CHI.html
+Tue Mar 9 1999,Dallas Mavericks,Phoenix Suns,91,103,Reunion Arena,12714,/boxscores/199903090DAL.html
+Tue Mar 9 1999,Golden State Warriors,Vancouver Grizzlies,92,82,The Arena in Oakland,10043,/boxscores/199903090GSW.html
+Tue Mar 9 1999,Houston Rockets,Denver Nuggets,84,75,Compaq Center,16285,/boxscores/199903090HOU.html
+Tue Mar 9 1999,Los Angeles Clippers,Los Angeles Lakers,99,103,Los Angeles Memorial Sports Arena,13380,/boxscores/199903090LAC.html
+Tue Mar 9 1999,Minnesota Timberwolves,Seattle SuperSonics,85,84,Target Center,17237,/boxscores/199903090MIN.html
+Tue Mar 9 1999,New York Knicks,Milwaukee Bucks,86,87,Madison Square Garden (IV),19763,/boxscores/199903090NYK.html
+Tue Mar 9 1999,Portland Trail Blazers,Sacramento Kings,103,98,Rose Garden Arena,18147,/boxscores/199903090POR.html
+Tue Mar 9 1999,Utah Jazz,Cleveland Cavaliers,88,75,Delta Center,18753,/boxscores/199903090UTA.html
+Wed Mar 10 1999,Indiana Pacers,New Jersey Nets,93,82,Market Square Arena,14925,/boxscores/199903100IND.html
+Wed Mar 10 1999,Los Angeles Lakers,Los Angeles Clippers,94,75,Great Western Forum,17505,/boxscores/199903100LAL.html
+Wed Mar 10 1999,Miami Heat,Atlanta Hawks,88,78,Miami Arena,15200,/boxscores/199903100MIA.html
+Wed Mar 10 1999,Milwaukee Bucks,Seattle SuperSonics,101,97,Bradley Center,15692,/boxscores/199903100MIL.html
+Wed Mar 10 1999,Philadelphia 76ers,Charlotte Hornets,85,70,First Union Center,14590,/boxscores/199903100PHI.html
+Wed Mar 10 1999,Phoenix Suns,Cleveland Cavaliers,73,86,America West Arena,18567,/boxscores/199903100PHO.html
+Wed Mar 10 1999,San Antonio Spurs,Orlando Magic,81,79,Alamodome,17954,/boxscores/199903100SAS.html
+Wed Mar 10 1999,Washington Wizards,Detroit Pistons,97,87,MCI Center,16316,/boxscores/199903100WAS.html
+Thu Mar 11 1999,Atlanta Hawks,Boston Celtics,99,85,Alexander Memorial Coliseum at McDonald's Center,8518,/boxscores/199903110ATL.html
+Thu Mar 11 1999,Chicago Bulls,Seattle SuperSonics,83,92,United Center,22391,/boxscores/199903110CHI.html
+Thu Mar 11 1999,Dallas Mavericks,Orlando Magic,93,76,Reunion Arena,14553,/boxscores/199903110DAL.html
+Thu Mar 11 1999,Golden State Warriors,Minnesota Timberwolves,89,82,The Arena in Oakland,11150,/boxscores/199903110GSW.html
+Thu Mar 11 1999,Houston Rockets,Vancouver Grizzlies,102,91,Compaq Center,16285,/boxscores/199903110HOU.html
+Thu Mar 11 1999,Los Angeles Clippers,Sacramento Kings,106,92,Los Angeles Memorial Sports Arena,7884,/boxscores/199903110LAC.html
+Thu Mar 11 1999,Miami Heat,Toronto Raptors,83,73,Miami Arena,14911,/boxscores/199903110MIA.html
+Thu Mar 11 1999,New York Knicks,Washington Wizards,98,86,Madison Square Garden (IV),19763,/boxscores/199903110NYK.html
+Thu Mar 11 1999,Utah Jazz,Denver Nuggets,94,89,Delta Center,19911,/boxscores/199903110UTA.html
+Fri Mar 12 1999,Chicago Bulls,New York Knicks,76,63,United Center,23079,/boxscores/199903120CHI.html
+Fri Mar 12 1999,Detroit Pistons,Boston Celtics,93,83,The Palace of Auburn Hills,19644,/boxscores/199903120DET.html
+Fri Mar 12 1999,Indiana Pacers,Milwaukee Bucks,109,104,Market Square Arena,16580,/boxscores/199903120IND.html
+Fri Mar 12 1999,Los Angeles Lakers,Golden State Warriors,89,78,Great Western Forum,17505,/boxscores/199903120LAL.html
+Fri Mar 12 1999,Philadelphia 76ers,New Jersey Nets,100,93,First Union Center,19818,/boxscores/199903120PHI.html
+Fri Mar 12 1999,Phoenix Suns,San Antonio Spurs,97,99,America West Arena,19023,/boxscores/199903120PHO.html
+Fri Mar 12 1999,Portland Trail Blazers,Utah Jazz,77,91,Rose Garden Arena,20668,/boxscores/199903120POR.html
+Fri Mar 12 1999,Sacramento Kings,Minnesota Timberwolves,95,101,ARCO Arena (II),17317,/boxscores/199903120SAC.html
+Fri Mar 12 1999,Washington Wizards,Charlotte Hornets,83,92,MCI Center,16343,/boxscores/199903120WAS.html
+Sat Mar 13 1999,Atlanta Hawks,Toronto Raptors,86,75,Alexander Memorial Coliseum at McDonald's Center,8456,/boxscores/199903130ATL.html
+Sat Mar 13 1999,Dallas Mavericks,Vancouver Grizzlies,91,74,Reunion Arena,14184,/boxscores/199903130DAL.html
+Sat Mar 13 1999,Golden State Warriors,Orlando Magic,74,87,The Arena in Oakland,14177,/boxscores/199903130GSW.html
+Sat Mar 13 1999,Houston Rockets,Cleveland Cavaliers,100,89,Compaq Center,16285,/boxscores/199903130HOU.html
+Sat Mar 13 1999,Los Angeles Clippers,Portland Trail Blazers,96,106,Los Angeles Memorial Sports Arena,9484,/boxscores/199903130LAC.html
+Sat Mar 13 1999,San Antonio Spurs,Denver Nuggets,92,61,Alamodome,32982,/boxscores/199903130SAS.html
+Sat Mar 13 1999,Utah Jazz,Minnesota Timberwolves,99,72,Delta Center,19911,/boxscores/199903130UTA.html
+Sun Mar 14 1999,Detroit Pistons,Atlanta Hawks,72,85,The Palace of Auburn Hills,14834,/boxscores/199903140DET.html
+Sun Mar 14 1999,Indiana Pacers,Boston Celtics,99,96,Market Square Arena,16664,/boxscores/199903140IND.html
+Sun Mar 14 1999,Miami Heat,New Jersey Nets,102,76,Miami Arena,15036,/boxscores/199903140MIA.html
+Sun Mar 14 1999,New York Knicks,Charlotte Hornets,94,86,Madison Square Garden (IV),19763,/boxscores/199903140NYK.html
+Sun Mar 14 1999,Phoenix Suns,Houston Rockets,104,90,America West Arena,19023,/boxscores/199903140PHO.html
+Sun Mar 14 1999,Sacramento Kings,Los Angeles Lakers,105,101,ARCO Arena (II),17317,/boxscores/199903140SAC.html
+Sun Mar 14 1999,Seattle SuperSonics,Los Angeles Clippers,108,89,KeyArena at Seattle Center,17072,/boxscores/199903140SEA.html
+Sun Mar 14 1999,Washington Wizards,Milwaukee Bucks,98,86,MCI Center,14353,/boxscores/199903140WAS.html
+Mon Mar 15 1999,Chicago Bulls,Cleveland Cavaliers,85,89,United Center,22456,/boxscores/199903150CHI.html
+Mon Mar 15 1999,Dallas Mavericks,Portland Trail Blazers,91,106,Reunion Arena,14046,/boxscores/199903150DAL.html
+Mon Mar 15 1999,Denver Nuggets,Vancouver Grizzlies,110,84,McNichols Sports Arena,8251,/boxscores/199903150DEN.html
+Mon Mar 15 1999,Golden State Warriors,Sacramento Kings,105,111,The Arena in Oakland,15084,/boxscores/199903150GSW.html
+Mon Mar 15 1999,Milwaukee Bucks,New York Knicks,102,108,Bradley Center,14738,/boxscores/199903150MIL.html
+Mon Mar 15 1999,Minnesota Timberwolves,Utah Jazz,83,90,Target Center,18447,/boxscores/199903150MIN.html
+Mon Mar 15 1999,Orlando Magic,Philadelphia 76ers,74,73,Orlando Arena,16555,/boxscores/199903150ORL.html
+Mon Mar 15 1999,Toronto Raptors,Charlotte Hornets,89,82,Air Canada Centre,15329,/boxscores/199903150TOR.html
+Tue Mar 16 1999,Cleveland Cavaliers,Detroit Pistons,86,82,Gund Arena,12928,/boxscores/199903160CLE.html
+Tue Mar 16 1999,Houston Rockets,Portland Trail Blazers,101,93,Compaq Center,16285,/boxscores/199903160HOU.html
+Tue Mar 16 1999,Indiana Pacers,Atlanta Hawks,79,85,Market Square Arena,15848,/boxscores/199903160IND.html
+Tue Mar 16 1999,Miami Heat,Washington Wizards,94,85,Miami Arena,15200,/boxscores/199903160MIA.html
+Tue Mar 16 1999,Milwaukee Bucks,Phoenix Suns,92,110,Bradley Center,13316,/boxscores/199903160MIL.html
+Tue Mar 16 1999,Minnesota Timberwolves,Los Angeles Lakers,101,107,Target Center,19006,/boxscores/199903160MIN.html
+Tue Mar 16 1999,New York Knicks,Los Angeles Clippers,113,89,Madison Square Garden (IV),19763,/boxscores/199903160NYK.html
+Tue Mar 16 1999,Sacramento Kings,San Antonio Spurs,109,121,ARCO Arena (II),14570,/boxscores/199903160SAC.html
+Tue Mar 16 1999,Seattle SuperSonics,Vancouver Grizzlies,87,85,KeyArena at Seattle Center,17072,/boxscores/199903160SEA.html
+Tue Mar 16 1999,Toronto Raptors,New Jersey Nets,100,85,Air Canada Centre,15731,/boxscores/199903160TOR.html
+Wed Mar 17 1999,Atlanta Hawks,Miami Heat,85,86,Georgia Dome,16117,/boxscores/199903170ATL.html
+Wed Mar 17 1999,Boston Celtics,Los Angeles Clippers,118,84,FleetCenter,18263,/boxscores/199903170BOS.html
+Wed Mar 17 1999,Charlotte Hornets,Phoenix Suns,119,111,Charlotte Coliseum,17837,/boxscores/199903170CHH.html
+Wed Mar 17 1999,Denver Nuggets,Houston Rockets,109,114,McNichols Sports Arena,14217,/boxscores/199903170DEN.html
+Wed Mar 17 1999,Detroit Pistons,Toronto Raptors,101,103,The Palace of Auburn Hills,14981,/boxscores/199903170DET.html
+Wed Mar 17 1999,Golden State Warriors,San Antonio Spurs,78,82,The Arena in Oakland,10257,/boxscores/199903170GSW.html
+Wed Mar 17 1999,New Jersey Nets,Dallas Mavericks,88,87,Continental Airlines Arena,14976,/boxscores/199903170NJN.html
+Wed Mar 17 1999,Orlando Magic,Chicago Bulls,103,94,Orlando Arena,15823,/boxscores/199903170ORL.html
+Wed Mar 17 1999,Philadelphia 76ers,Indiana Pacers,114,110,First Union Center,16588,/boxscores/199903170PHI.html
+Thu Mar 18 1999,Chicago Bulls,New Jersey Nets,104,95,United Center,22211,/boxscores/199903180CHI.html
+Thu Mar 18 1999,Cleveland Cavaliers,Los Angeles Lakers,100,93,Gund Arena,20562,/boxscores/199903180CLE.html
+Thu Mar 18 1999,Milwaukee Bucks,Boston Celtics,99,83,Bradley Center,13724,/boxscores/199903180MIL.html
+Thu Mar 18 1999,New York Knicks,Orlando Magic,78,86,Madison Square Garden (IV),19763,/boxscores/199903180NYK.html
+Thu Mar 18 1999,Sacramento Kings,Portland Trail Blazers,78,88,ARCO Arena (II),14397,/boxscores/199903180SAC.html
+Thu Mar 18 1999,Vancouver Grizzlies,Minnesota Timberwolves,86,81,General Motors Place,17466,/boxscores/199903180VAN.html
+Thu Mar 18 1999,Washington Wizards,Utah Jazz,87,95,MCI Center,16121,/boxscores/199903180WAS.html
+Fri Mar 19 1999,Atlanta Hawks,Phoenix Suns,93,85,Georgia Dome,17190,/boxscores/199903190ATL.html
+Fri Mar 19 1999,Charlotte Hornets,Utah Jazz,83,82,Charlotte Coliseum,22989,/boxscores/199903190CHH.html
+Fri Mar 19 1999,Denver Nuggets,Minnesota Timberwolves,101,105,McNichols Sports Arena,14219,/boxscores/199903190DEN.html
+Fri Mar 19 1999,Detroit Pistons,Dallas Mavericks,94,87,The Palace of Auburn Hills,18152,/boxscores/199903190DET.html
+Fri Mar 19 1999,Golden State Warriors,Seattle SuperSonics,90,78,The Arena in Oakland,15253,/boxscores/199903190GSW.html
+Fri Mar 19 1999,Indiana Pacers,Chicago Bulls,96,87,Market Square Arena,16570,/boxscores/199903190IND.html
+Fri Mar 19 1999,Philadelphia 76ers,Los Angeles Lakers,105,90,First Union Center,20644,/boxscores/199903190PHI.html
+Fri Mar 19 1999,Portland Trail Blazers,San Antonio Spurs,90,85,Rose Garden Arena,20041,/boxscores/199903190POR.html
+Fri Mar 19 1999,Toronto Raptors,Los Angeles Clippers,93,82,Air Canada Centre,18839,/boxscores/199903190TOR.html
+Sat Mar 20 1999,Atlanta Hawks,Milwaukee Bucks,77,83,Georgia Dome,12225,/boxscores/199903200ATL.html
+Sat Mar 20 1999,Dallas Mavericks,Sacramento Kings,104,90,Reunion Arena,16161,/boxscores/199903200DAL.html
+Sat Mar 20 1999,Houston Rockets,Phoenix Suns,103,93,Compaq Center,16285,/boxscores/199903200HOU.html
+Sat Mar 20 1999,Miami Heat,Indiana Pacers,89,94,Miami Arena,15200,/boxscores/199903200MIA.html
+Sat Mar 20 1999,New York Knicks,Boston Celtics,96,78,Madison Square Garden (IV),19763,/boxscores/199903200NYK.html
+Sat Mar 20 1999,Vancouver Grizzlies,San Antonio Spurs,88,92,General Motors Place,19193,/boxscores/199903200VAN.html
+Sat Mar 20 1999,Washington Wizards,Cleveland Cavaliers,113,83,MCI Center,19209,/boxscores/199903200WAS.html
+Sun Mar 21 1999,Boston Celtics,Chicago Bulls,92,95,FleetCenter,18624,/boxscores/199903210BOS.html
+Sun Mar 21 1999,Cleveland Cavaliers,New Jersey Nets,88,85,Gund Arena,13806,/boxscores/199903210CLE.html
+Sun Mar 21 1999,Denver Nuggets,Seattle SuperSonics,102,98,McNichols Sports Arena,10221,/boxscores/199903210DEN.html
+Sun Mar 21 1999,Detroit Pistons,Utah Jazz,104,101,The Palace of Auburn Hills,19098,/boxscores/199903210DET.html
+Sun Mar 21 1999,Milwaukee Bucks,Charlotte Hornets,87,94,Bradley Center,13974,/boxscores/199903210MIL.html
+Sun Mar 21 1999,Minnesota Timberwolves,Los Angeles Clippers,85,100,Target Center,15371,/boxscores/199903210MIN.html
+Sun Mar 21 1999,Orlando Magic,Los Angeles Lakers,104,115,Orlando Arena,17248,/boxscores/199903210ORL.html
+Sun Mar 21 1999,Portland Trail Blazers,Philadelphia 76ers,91,75,Rose Garden Arena,19980,/boxscores/199903210POR.html
+Sun Mar 21 1999,Toronto Raptors,New York Knicks,85,81,Air Canada Centre,19266,/boxscores/199903210TOR.html
+Mon Mar 22 1999,Dallas Mavericks,Los Angeles Lakers,93,96,Reunion Arena,18121,/boxscores/199903220DAL.html
+Mon Mar 22 1999,Houston Rockets,Sacramento Kings,110,100,Compaq Center,16285,/boxscores/199903220HOU.html
+Mon Mar 22 1999,Indiana Pacers,Washington Wizards,90,86,Market Square Arena,15386,/boxscores/199903220IND.html
+Mon Mar 22 1999,Milwaukee Bucks,Detroit Pistons,115,86,Bradley Center,13187,/boxscores/199903220MIL.html
+Mon Mar 22 1999,New Jersey Nets,Toronto Raptors,106,87,Continental Airlines Arena,14697,/boxscores/199903220NJN.html
+Mon Mar 22 1999,New York Knicks,Atlanta Hawks,71,80,Madison Square Garden (IV),19763,/boxscores/199903220NYK.html
+Mon Mar 22 1999,Phoenix Suns,Vancouver Grizzlies,89,84,America West Arena,18855,/boxscores/199903220PHO.html
+Mon Mar 22 1999,Seattle SuperSonics,Philadelphia 76ers,92,76,KeyArena at Seattle Center,17072,/boxscores/199903220SEA.html
+Tue Mar 23 1999,Chicago Bulls,Toronto Raptors,90,113,United Center,22236,/boxscores/199903230CHI.html
+Tue Mar 23 1999,Cleveland Cavaliers,Boston Celtics,113,86,Gund Arena,15810,/boxscores/199903230CLE.html
+Tue Mar 23 1999,Orlando Magic,Charlotte Hornets,86,78,Orlando Arena,16405,/boxscores/199903230ORL.html
+Tue Mar 23 1999,Portland Trail Blazers,Golden State Warriors,79,72,Rose Garden Arena,18731,/boxscores/199903230POR.html
+Tue Mar 23 1999,San Antonio Spurs,Denver Nuggets,112,82,Alamodome,16501,/boxscores/199903230SAS.html
+Tue Mar 23 1999,Utah Jazz,Miami Heat,84,81,Delta Center,19911,/boxscores/199903230UTA.html
+Wed Mar 24 1999,Atlanta Hawks,Indiana Pacers,103,102,Georgia Dome,12612,/boxscores/199903240ATL.html
+Wed Mar 24 1999,Boston Celtics,Minnesota Timberwolves,68,87,FleetCenter,18128,/boxscores/199903240BOS.html
+Wed Mar 24 1999,Charlotte Hornets,Chicago Bulls,110,81,Charlotte Coliseum,17857,/boxscores/199903240CHH.html
+Wed Mar 24 1999,Dallas Mavericks,Houston Rockets,78,88,Reunion Arena,15111,/boxscores/199903240DAL.html
+Wed Mar 24 1999,Los Angeles Clippers,Golden State Warriors,80,92,Los Angeles Memorial Sports Arena,6180,/boxscores/199903240LAC.html
+Wed Mar 24 1999,Los Angeles Lakers,Phoenix Suns,101,106,Great Western Forum,17505,/boxscores/199903240LAL.html
+Wed Mar 24 1999,Milwaukee Bucks,Miami Heat,76,84,Bradley Center,17126,/boxscores/199903240MIL.html
+Wed Mar 24 1999,New Jersey Nets,Detroit Pistons,71,84,Continental Airlines Arena,16896,/boxscores/199903240NJN.html
+Wed Mar 24 1999,Sacramento Kings,New York Knicks,92,91,ARCO Arena (II),17023,/boxscores/199903240SAC.html
+Wed Mar 24 1999,Seattle SuperSonics,Washington Wizards,92,96,KeyArena at Seattle Center,17072,/boxscores/199903240SEA.html
+Wed Mar 24 1999,Vancouver Grizzlies,Philadelphia 76ers,90,95,General Motors Place,16615,/boxscores/199903240VAN.html
+Thu Mar 25 1999,Denver Nuggets,San Antonio Spurs,65,86,McNichols Sports Arena,10695,/boxscores/199903250DEN.html
+Thu Mar 25 1999,Houston Rockets,Toronto Raptors,113,104,Compaq Center,16285,/boxscores/199903250HOU.html
+Thu Mar 25 1999,Orlando Magic,Cleveland Cavaliers,96,86,Orlando Arena,15578,/boxscores/199903250ORL.html
+Thu Mar 25 1999,Portland Trail Blazers,Phoenix Suns,97,84,Rose Garden Arena,20328,/boxscores/199903250POR.html
+Fri Mar 26 1999,Atlanta Hawks,Chicago Bulls,93,81,Georgia Dome,10878,/boxscores/199903260ATL.html
+Fri Mar 26 1999,Charlotte Hornets,Orlando Magic,90,82,Charlotte Coliseum,21698,/boxscores/199903260CHH.html
+Fri Mar 26 1999,Dallas Mavericks,Denver Nuggets,98,79,Reunion Arena,13096,/boxscores/199903260DAL.html
+Fri Mar 26 1999,Detroit Pistons,Milwaukee Bucks,90,85,The Palace of Auburn Hills,18873,/boxscores/199903260DET.html
+Fri Mar 26 1999,Golden State Warriors,Washington Wizards,100,96,The Arena in Oakland,12025,/boxscores/199903260GSW.html
+Fri Mar 26 1999,Los Angeles Lakers,Sacramento Kings,109,111,Great Western Forum,17505,/boxscores/199903260LAL.html
+Fri Mar 26 1999,Minnesota Timberwolves,Miami Heat,100,93,Target Center,19006,/boxscores/199903260MIN.html
+Fri Mar 26 1999,New Jersey Nets,Indiana Pacers,91,100,Continental Airlines Arena,18732,/boxscores/199903260NJN.html
+Fri Mar 26 1999,Philadelphia 76ers,Boston Celtics,84,90,First Union Center,20627,/boxscores/199903260PHI.html
+Fri Mar 26 1999,Phoenix Suns,New York Knicks,87,94,America West Arena,19023,/boxscores/199903260PHO.html
+Fri Mar 26 1999,San Antonio Spurs,Toronto Raptors,91,93,Alamodome,16290,/boxscores/199903260SAS.html
+Fri Mar 26 1999,Seattle SuperSonics,Los Angeles Clippers,104,98,KeyArena at Seattle Center,17072,/boxscores/199903260SEA.html
+Fri Mar 26 1999,Vancouver Grizzlies,Utah Jazz,80,85,General Motors Place,19193,/boxscores/199903260VAN.html
+Sat Mar 27 1999,Atlanta Hawks,Philadelphia 76ers,103,99,Georgia Dome,21823,/boxscores/199903270ATL.html
+Sat Mar 27 1999,Denver Nuggets,Washington Wizards,100,112,McNichols Sports Arena,10987,/boxscores/199903270DEN.html
+Sat Mar 27 1999,Golden State Warriors,Houston Rockets,86,87,The Arena in Oakland,18256,/boxscores/199903270GSW.html
+Sat Mar 27 1999,Los Angeles Clippers,Utah Jazz,103,77,Arrowhead Pond,14293,/boxscores/199903270LAC.html
+Sat Mar 27 1999,New Jersey Nets,Cleveland Cavaliers,99,109,Continental Airlines Arena,18541,/boxscores/199903270NJN.html
+Sat Mar 27 1999,San Antonio Spurs,Dallas Mavericks,99,77,Alamodome,25921,/boxscores/199903270SAS.html
+Sun Mar 28 1999,Boston Celtics,Indiana Pacers,93,101,FleetCenter,18624,/boxscores/199903280BOS.html
+Sun Mar 28 1999,Charlotte Hornets,Cleveland Cavaliers,105,84,Charlotte Coliseum,18490,/boxscores/199903280CHH.html
+Sun Mar 28 1999,Detroit Pistons,Seattle SuperSonics,104,87,The Palace of Auburn Hills,16626,/boxscores/199903280DET.html
+Sun Mar 28 1999,Los Angeles Lakers,New York Knicks,99,91,Great Western Forum,17505,/boxscores/199903280LAL.html
+Sun Mar 28 1999,Minnesota Timberwolves,Milwaukee Bucks,85,94,Target Center,18449,/boxscores/199903280MIN.html
+Sun Mar 28 1999,Orlando Magic,Miami Heat,94,87,Orlando Arena,17248,/boxscores/199903280ORL.html
+Sun Mar 28 1999,Phoenix Suns,Portland Trail Blazers,86,88,America West Arena,19023,/boxscores/199903280PHO.html
+Sun Mar 28 1999,Sacramento Kings,Houston Rockets,93,107,ARCO Arena (II),17317,/boxscores/199903280SAC.html
+Sun Mar 28 1999,Toronto Raptors,Chicago Bulls,91,78,Air Canada Centre,18461,/boxscores/199903280TOR.html
+Mon Mar 29 1999,Dallas Mavericks,Seattle SuperSonics,101,109,Reunion Arena,13311,/boxscores/199903290DAL.html
+Mon Mar 29 1999,Denver Nuggets,Los Angeles Clippers,100,88,McNichols Sports Arena,7829,/boxscores/199903290DEN.html
+Mon Mar 29 1999,Indiana Pacers,Atlanta Hawks,82,83,Market Square Arena,16669,/boxscores/199903290IND.html
+Mon Mar 29 1999,Los Angeles Lakers,Vancouver Grizzlies,116,98,Great Western Forum,17312,/boxscores/199903290LAL.html
+Tue Mar 30 1999,Atlanta Hawks,Detroit Pistons,77,93,Georgia Dome,14764,/boxscores/199903300ATL.html
+Tue Mar 30 1999,Charlotte Hornets,Boston Celtics,99,109,Charlotte Coliseum,18102,/boxscores/199903300CHH.html
+Tue Mar 30 1999,Chicago Bulls,Philadelphia 76ers,91,81,United Center,22209,/boxscores/199903300CHI.html
+Tue Mar 30 1999,Cleveland Cavaliers,Toronto Raptors,91,101,Gund Arena,14209,/boxscores/199903300CLE.html
+Tue Mar 30 1999,Golden State Warriors,Portland Trail Blazers,93,90,The Arena in Oakland,12670,/boxscores/199903300GSW.html
+Tue Mar 30 1999,Los Angeles Clippers,Houston Rockets,95,104,Los Angeles Memorial Sports Arena,9188,/boxscores/199903300LAC.html
+Tue Mar 30 1999,Milwaukee Bucks,Washington Wizards,107,105,Bradley Center,15196,/boxscores/199903300MIL.html
+Tue Mar 30 1999,Minnesota Timberwolves,Dallas Mavericks,98,78,Target Center,15609,/boxscores/199903300MIN.html
+Tue Mar 30 1999,New York Knicks,Indiana Pacers,94,93,Madison Square Garden (IV),19763,/boxscores/199903300NYK.html
+Tue Mar 30 1999,Orlando Magic,New Jersey Nets,100,98,Orlando Arena,16226,/boxscores/199903300ORL.html
+Tue Mar 30 1999,Sacramento Kings,Utah Jazz,104,101,ARCO Arena (II),17317,/boxscores/199903300SAC.html
+Tue Mar 30 1999,San Antonio Spurs,Seattle SuperSonics,95,87,Alamodome,16565,/boxscores/199903300SAS.html
+Tue Mar 30 1999,Vancouver Grizzlies,Denver Nuggets,101,87,General Motors Place,15018,/boxscores/199903300VAN.html
+Wed Mar 31 1999,Boston Celtics,Detroit Pistons,72,87,FleetCenter,16915,/boxscores/199903310BOS.html
+Wed Mar 31 1999,Charlotte Hornets,Milwaukee Bucks,94,102,Charlotte Coliseum,17552,/boxscores/199903310CHH.html
+Wed Mar 31 1999,Phoenix Suns,Golden State Warriors,93,78,America West Arena,18674,/boxscores/199903310PHO.html
+Wed Mar 31 1999,Portland Trail Blazers,Sacramento Kings,100,86,Rose Garden Arena,18468,/boxscores/199903310POR.html
+Wed Mar 31 1999,Washington Wizards,Orlando Magic,84,73,MCI Center,20674,/boxscores/199903310WAS.html

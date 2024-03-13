@@ -1,0 +1,38 @@
+Wed May 1 2002,Philadelphia 76ers,Boston Celtics,83,81,First Union Center,20904,/boxscores/200205010PHI.html
+Wed May 1 2002,Seattle SuperSonics,San Antonio Spurs,91,79,KeyArena at Seattle Center,17072,/boxscores/200205010SEA.html
+Thu May 2 2002,New Jersey Nets,Indiana Pacers,120,109,Continental Airlines Arena,20049,/boxscores/200205020NJN.html
+Thu May 2 2002,Detroit Pistons,Toronto Raptors,85,82,The Palace of Auburn Hills,22076,/boxscores/200205020DET.html
+Fri May 3 2002,Boston Celtics,Philadelphia 76ers,120,87,FleetCenter,18624,/boxscores/200205030BOS.html
+Fri May 3 2002,San Antonio Spurs,Seattle SuperSonics,101,78,Alamodome,23369,/boxscores/200205030SAS.html
+Sat May 4 2002,Sacramento Kings,Dallas Mavericks,108,91,ARCO Arena (II),17317,/boxscores/200205040SAC.html
+Sun May 5 2002,New Jersey Nets,Charlotte Hornets,99,93,Continental Airlines Arena,19071,/boxscores/200205050NJN.html
+Sun May 5 2002,Detroit Pistons,Boston Celtics,96,84,The Palace of Auburn Hills,20252,/boxscores/200205050DET.html
+Sun May 5 2002,Los Angeles Lakers,San Antonio Spurs,86,80,STAPLES Center,18997,/boxscores/200205050LAL.html
+Mon May 6 2002,Sacramento Kings,Dallas Mavericks,102,110,ARCO Arena (II),17317,/boxscores/200205060SAC.html
+Tue May 7 2002,New Jersey Nets,Charlotte Hornets,102,88,Continental Airlines Arena,20049,/boxscores/200205070NJN.html
+Tue May 7 2002,Los Angeles Lakers,San Antonio Spurs,85,88,STAPLES Center,18997,/boxscores/200205070LAL.html
+Wed May 8 2002,Detroit Pistons,Boston Celtics,77,85,The Palace of Auburn Hills,22076,/boxscores/200205080DET.html
+Thu May 9 2002,Charlotte Hornets,New Jersey Nets,115,97,Charlotte Coliseum,11363,/boxscores/200205090CHH.html
+Thu May 9 2002,Dallas Mavericks,Sacramento Kings,119,125,American Airlines Center,20265,/boxscores/200205090DAL.html
+Fri May 10 2002,Boston Celtics,Detroit Pistons,66,64,FleetCenter,18624,/boxscores/200205100BOS.html
+Fri May 10 2002,San Antonio Spurs,Los Angeles Lakers,89,99,Alamodome,35520,/boxscores/200205100SAS.html
+Sat May 11 2002,Dallas Mavericks,Sacramento Kings,113,115,American Airlines Center,20274,/boxscores/200205110DAL.html
+Sun May 12 2002,Charlotte Hornets,New Jersey Nets,79,89,Charlotte Coliseum,13864,/boxscores/200205120CHH.html
+Sun May 12 2002,Boston Celtics,Detroit Pistons,90,79,FleetCenter,18624,/boxscores/200205120BOS.html
+Sun May 12 2002,San Antonio Spurs,Los Angeles Lakers,85,87,Alamodome,32342,/boxscores/200205120SAS.html
+Mon May 13 2002,Sacramento Kings,Dallas Mavericks,114,101,ARCO Arena (II),17317,/boxscores/200205130SAC.html
+Tue May 14 2002,Detroit Pistons,Boston Celtics,81,90,The Palace of Auburn Hills,22076,/boxscores/200205140DET.html
+Tue May 14 2002,Los Angeles Lakers,San Antonio Spurs,93,87,STAPLES Center,18997,/boxscores/200205140LAL.html
+Wed May 15 2002,New Jersey Nets,Charlotte Hornets,103,95,Continental Airlines Arena,20049,/boxscores/200205150NJN.html
+Sat May 18 2002,Sacramento Kings,Los Angeles Lakers,99,106,ARCO Arena (II),17317,/boxscores/200205180SAC.html
+Sun May 19 2002,New Jersey Nets,Boston Celtics,104,97,Continental Airlines Arena,20049,/boxscores/200205190NJN.html
+Mon May 20 2002,Sacramento Kings,Los Angeles Lakers,96,90,ARCO Arena (II),17317,/boxscores/200205200SAC.html
+Tue May 21 2002,New Jersey Nets,Boston Celtics,86,93,Continental Airlines Arena,19850,/boxscores/200205210NJN.html
+Fri May 24 2002,Los Angeles Lakers,Sacramento Kings,90,103,STAPLES Center,18997,/boxscores/200205240LAL.html
+Sat May 25 2002,Boston Celtics,New Jersey Nets,94,90,FleetCenter,18624,/boxscores/200205250BOS.html
+Sun May 26 2002,Los Angeles Lakers,Sacramento Kings,100,99,STAPLES Center,18997,/boxscores/200205260LAL.html
+Mon May 27 2002,Boston Celtics,New Jersey Nets,92,94,FleetCenter,18624,/boxscores/200205270BOS.html
+Tue May 28 2002,Sacramento Kings,Los Angeles Lakers,92,91,ARCO Arena (II),17317,/boxscores/200205280SAC.html
+Wed May 29 2002,New Jersey Nets,Boston Celtics,103,92,Continental Airlines Arena,19850,/boxscores/200205290NJN.html
+Fri May 31 2002,Boston Celtics,New Jersey Nets,88,96,FleetCenter,18624,/boxscores/200205310BOS.html
+Fri May 31 2002,Los Angeles Lakers,Sacramento Kings,106,102,STAPLES Center,18997,/boxscores/200205310LAL.html

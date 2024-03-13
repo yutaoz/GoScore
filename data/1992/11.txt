@@ -1,0 +1,205 @@
+Fri Nov 1 1991,Boston Celtics,Charlotte Hornets,111,108,Boston Garden,14890,/boxscores/199111010BOS.html
+Fri Nov 1 1991,Chicago Bulls,Philadelphia 76ers,110,90,Chicago Stadium,18676,/boxscores/199111010CHI.html
+Fri Nov 1 1991,Denver Nuggets,Golden State Warriors,105,108,McNichols Sports Arena,11713,/boxscores/199111010DEN.html
+Fri Nov 1 1991,Detroit Pistons,Milwaukee Bucks,99,109,The Palace of Auburn Hills,21454,/boxscores/199111010DET.html
+Fri Nov 1 1991,Houston Rockets,Los Angeles Lakers,126,121,The Summit,16611,/boxscores/199111010HOU.html
+Fri Nov 1 1991,Indiana Pacers,Washington Bullets,103,109,Market Square Arena,13407,/boxscores/199111010IND.html
+Fri Nov 1 1991,Minnesota Timberwolves,Utah Jazz,97,112,Target Center,19006,/boxscores/199111010MIN.html
+Fri Nov 1 1991,Orlando Magic,New York Knicks,106,96,Orlando Arena,15151,/boxscores/199111010ORL.html
+Fri Nov 1 1991,Portland Trail Blazers,Cleveland Cavaliers,117,106,Memorial Coliseum,12888,/boxscores/199111010POR.html
+Fri Nov 1 1991,Sacramento Kings,Los Angeles Clippers,94,90,ARCO Arena (II),17014,/boxscores/199111010SAC.html
+Fri Nov 1 1991,San Antonio Spurs,Dallas Mavericks,140,99,HemisFair Arena,16057,/boxscores/199111010SAS.html
+Fri Nov 1 1991,Seattle SuperSonics,Phoenix Suns,95,99,Seattle Center Coliseum,12863,/boxscores/199111010SEA.html
+Sat Nov 2 1991,Atlanta Hawks,Detroit Pistons,87,89,Omni Coliseum,16435,/boxscores/199111020ATL.html
+Sat Nov 2 1991,Charlotte Hornets,New Jersey Nets,108,116,Charlotte Coliseum,23698,/boxscores/199111020CHH.html
+Sat Nov 2 1991,Dallas Mavericks,Los Angeles Lakers,113,114,Reunion Arena,17502,/boxscores/199111020DAL.html
+Sat Nov 2 1991,Denver Nuggets,Houston Rockets,109,101,McNichols Sports Arena,7692,/boxscores/199111020DEN.html
+Sat Nov 2 1991,Golden State Warriors,Sacramento Kings,153,91,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199111020GSW.html
+Sat Nov 2 1991,Indiana Pacers,Utah Jazz,127,112,Market Square Arena,12842,/boxscores/199111020IND.html
+Sat Nov 2 1991,Los Angeles Clippers,Cleveland Cavaliers,106,105,Los Angeles Memorial Sports Arena,10533,/boxscores/199111020LAC.html
+Sat Nov 2 1991,Miami Heat,New York Knicks,107,93,Miami Arena,15008,/boxscores/199111020MIA.html
+Sat Nov 2 1991,Milwaukee Bucks,Chicago Bulls,109,107,Bradley Center,18633,/boxscores/199111020MIL.html
+Sat Nov 2 1991,Philadelphia 76ers,Orlando Magic,115,122,The Spectrum,13170,/boxscores/199111020PHI.html
+Sat Nov 2 1991,Portland Trail Blazers,Phoenix Suns,76,100,Memorial Coliseum,12888,/boxscores/199111020POR.html
+Sat Nov 2 1991,Washington Bullets,Boston Celtics,126,118,Capital Centre,18756,/boxscores/199111020WSB.html
+Sun Nov 3 1991,Seattle SuperSonics,San Antonio Spurs,98,106,Seattle Center Coliseum,12863,/boxscores/199111030SEA.html
+Tue Nov 5 1991,Atlanta Hawks,Utah Jazz,98,94,Omni Coliseum,10952,/boxscores/199111050ATL.html
+Tue Nov 5 1991,Chicago Bulls,Golden State Warriors,110,118,Chicago Stadium,18136,/boxscores/199111050CHI.html
+Tue Nov 5 1991,Dallas Mavericks,Cleveland Cavaliers,101,112,Reunion Arena,14019,/boxscores/199111050DAL.html
+Tue Nov 5 1991,Denver Nuggets,San Antonio Spurs,97,96,McNichols Sports Arena,13976,/boxscores/199111050DEN.html
+Tue Nov 5 1991,Detroit Pistons,Charlotte Hornets,117,93,The Palace of Auburn Hills,21454,/boxscores/199111050DET.html
+Tue Nov 5 1991,Houston Rockets,Portland Trail Blazers,106,99,The Summit,12814,/boxscores/199111050HOU.html
+Tue Nov 5 1991,Los Angeles Lakers,Los Angeles Clippers,109,114,Great Western Forum,16618,/boxscores/199111050LAL.html
+Tue Nov 5 1991,Miami Heat,Boston Celtics,89,93,Miami Arena,15008,/boxscores/199111050MIA.html
+Tue Nov 5 1991,New York Knicks,Milwaukee Bucks,113,85,Madison Square Garden (IV),15768,/boxscores/199111050NYK.html
+Tue Nov 5 1991,Phoenix Suns,Indiana Pacers,105,111,Arizona Veterans Memorial Coliseum,14487,/boxscores/199111050PHO.html
+Tue Nov 5 1991,Seattle SuperSonics,Sacramento Kings,98,87,Seattle Center Coliseum,9343,/boxscores/199111050SEA.html
+Tue Nov 5 1991,Washington Bullets,Philadelphia 76ers,106,107,Capital Centre,11730,/boxscores/199111050WSB.html
+Wed Nov 6 1991,Boston Celtics,Chicago Bulls,113,132,Boston Garden,14890,/boxscores/199111060BOS.html
+Wed Nov 6 1991,Charlotte Hornets,Atlanta Hawks,114,104,Charlotte Coliseum,23698,/boxscores/199111060CHH.html
+Wed Nov 6 1991,Los Angeles Clippers,Phoenix Suns,111,87,Los Angeles Memorial Sports Arena,9383,/boxscores/199111060LAC.html
+Wed Nov 6 1991,Milwaukee Bucks,Golden State Warriors,114,120,Bradley Center,14591,/boxscores/199111060MIL.html
+Wed Nov 6 1991,Minnesota Timberwolves,Dallas Mavericks,94,97,Target Center,19006,/boxscores/199111060MIN.html
+Wed Nov 6 1991,Orlando Magic,Washington Bullets,105,88,Orlando Arena,15151,/boxscores/199111060ORL.html
+Wed Nov 6 1991,Philadelphia 76ers,New Jersey Nets,107,105,The Spectrum,10166,/boxscores/199111060PHI.html
+Wed Nov 6 1991,Sacramento Kings,Indiana Pacers,112,102,ARCO Arena (II),17014,/boxscores/199111060SAC.html
+Wed Nov 6 1991,San Antonio Spurs,Portland Trail Blazers,119,93,HemisFair Arena,16057,/boxscores/199111060SAS.html
+Thu Nov 7 1991,Denver Nuggets,Minnesota Timberwolves,88,77,McNichols Sports Arena,9837,/boxscores/199111070DEN.html
+Thu Nov 7 1991,Houston Rockets,Cleveland Cavaliers,105,86,The Summit,13011,/boxscores/199111070HOU.html
+Thu Nov 7 1991,New Jersey Nets,Miami Heat,89,111,Brendan Byrne Arena,11643,/boxscores/199111070NJN.html
+Thu Nov 7 1991,New York Knicks,Orlando Magic,128,100,Madison Square Garden (IV),11429,/boxscores/199111070NYK.html
+Thu Nov 7 1991,Utah Jazz,Seattle SuperSonics,95,103,Delta Center,18700,/boxscores/199111070UTA.html
+Fri Nov 8 1991,Boston Celtics,Atlanta Hawks,95,100,Boston Garden,14890,/boxscores/199111080BOS.html
+Fri Nov 8 1991,Charlotte Hornets,Milwaukee Bucks,122,125,Charlotte Coliseum,23698,/boxscores/199111080CHH.html
+Fri Nov 8 1991,Chicago Bulls,Dallas Mavericks,108,92,Chicago Stadium,18120,/boxscores/199111080CHI.html
+Fri Nov 8 1991,Los Angeles Clippers,Denver Nuggets,106,82,Los Angeles Memorial Sports Arena,8957,/boxscores/199111080LAC.html
+Fri Nov 8 1991,Philadelphia 76ers,Golden State Warriors,126,116,The Spectrum,14338,/boxscores/199111080PHI.html
+Fri Nov 8 1991,Phoenix Suns,Los Angeles Lakers,113,85,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111080PHO.html
+Fri Nov 8 1991,Portland Trail Blazers,Indiana Pacers,121,96,Memorial Coliseum,12888,/boxscores/199111080POR.html
+Fri Nov 8 1991,San Antonio Spurs,Cleveland Cavaliers,107,101,HemisFair Arena,16057,/boxscores/199111080SAS.html
+Sat Nov 9 1991,Atlanta Hawks,Miami Heat,97,93,Omni Coliseum,10236,/boxscores/199111090ATL.html
+Sat Nov 9 1991,Chicago Bulls,Orlando Magic,107,76,Chicago Stadium,18131,/boxscores/199111090CHI.html
+Sat Nov 9 1991,Houston Rockets,Phoenix Suns,96,95,The Summit,15506,/boxscores/199111090HOU.html
+Sat Nov 9 1991,Milwaukee Bucks,Dallas Mavericks,111,95,Bradley Center,15175,/boxscores/199111090MIL.html
+Sat Nov 9 1991,New Jersey Nets,Detroit Pistons,100,110,Brendan Byrne Arena,14591,/boxscores/199111090NJN.html
+Sat Nov 9 1991,New York Knicks,Charlotte Hornets,118,113,Madison Square Garden (IV),16362,/boxscores/199111090NYK.html
+Sat Nov 9 1991,Sacramento Kings,Minnesota Timberwolves,80,84,ARCO Arena (II),17014,/boxscores/199111090SAC.html
+Sat Nov 9 1991,Seattle SuperSonics,Indiana Pacers,118,111,Seattle Center Coliseum,11930,/boxscores/199111090SEA.html
+Sat Nov 9 1991,Utah Jazz,Los Angeles Clippers,101,84,Delta Center,18700,/boxscores/199111090UTA.html
+Sat Nov 9 1991,Washington Bullets,Golden State Warriors,119,127,Capital Centre,10711,/boxscores/199111090WSB.html
+Sun Nov 10 1991,Detroit Pistons,Washington Bullets,85,79,The Palace of Auburn Hills,21454,/boxscores/199111100DET.html
+Sun Nov 10 1991,Los Angeles Lakers,Minnesota Timberwolves,96,86,Great Western Forum,16833,/boxscores/199111100LAL.html
+Sun Nov 10 1991,Portland Trail Blazers,Boston Celtics,116,90,Memorial Coliseum,12888,/boxscores/199111100POR.html
+Mon Nov 11 1991,Los Angeles Clippers,Indiana Pacers,106,97,Los Angeles Memorial Sports Arena,7905,/boxscores/199111110LAC.html
+Mon Nov 11 1991,Philadelphia 76ers,Milwaukee Bucks,102,99,The Spectrum,12132,/boxscores/199111110PHI.html
+Mon Nov 11 1991,Utah Jazz,Sacramento Kings,106,90,Delta Center,18700,/boxscores/199111110UTA.html
+Tue Nov 12 1991,Atlanta Hawks,Charlotte Hornets,118,100,Omni Coliseum,9131,/boxscores/199111120ATL.html
+Tue Nov 12 1991,Chicago Bulls,Detroit Pistons,110,93,Chicago Stadium,18676,/boxscores/199111120CHI.html
+Tue Nov 12 1991,Cleveland Cavaliers,Milwaukee Bucks,119,113,Coliseum at Richfield,14267,/boxscores/199111120CLE.html
+Tue Nov 12 1991,Dallas Mavericks,Houston Rockets,92,98,Reunion Arena,14658,/boxscores/199111120DAL.html
+Tue Nov 12 1991,Golden State Warriors,Phoenix Suns,119,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199111120GSW.html
+Tue Nov 12 1991,New York Knicks,New Jersey Nets,98,96,Madison Square Garden (IV),14556,/boxscores/199111120NYK.html
+Tue Nov 12 1991,Portland Trail Blazers,Denver Nuggets,120,82,Memorial Coliseum,12888,/boxscores/199111120POR.html
+Tue Nov 12 1991,Sacramento Kings,Boston Celtics,103,126,ARCO Arena (II),17014,/boxscores/199111120SAC.html
+Tue Nov 12 1991,Washington Bullets,Orlando Magic,82,95,Capital Centre,6165,/boxscores/199111120WSB.html
+Wed Nov 13 1991,Charlotte Hornets,Chicago Bulls,95,117,Charlotte Coliseum,23698,/boxscores/199111130CHH.html
+Wed Nov 13 1991,Indiana Pacers,New York Knicks,110,107,Market Square Arena,10580,/boxscores/199111130IND.html
+Wed Nov 13 1991,Miami Heat,Detroit Pistons,107,102,Miami Arena,15008,/boxscores/199111130MIA.html
+Wed Nov 13 1991,Minnesota Timberwolves,Washington Bullets,114,119,Target Center,19006,/boxscores/199111130MIN.html
+Wed Nov 13 1991,New Jersey Nets,Utah Jazz,92,98,Brendan Byrne Arena,8828,/boxscores/199111130NJN.html
+Wed Nov 13 1991,Orlando Magic,Philadelphia 76ers,100,121,Orlando Arena,15151,/boxscores/199111130ORL.html
+Wed Nov 13 1991,Phoenix Suns,Boston Celtics,111,117,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111130PHO.html
+Wed Nov 13 1991,San Antonio Spurs,Los Angeles Clippers,107,93,HemisFair Arena,16057,/boxscores/199111130SAS.html
+Thu Nov 14 1991,Cleveland Cavaliers,Seattle SuperSonics,115,109,Coliseum at Richfield,10838,/boxscores/199111140CLE.html
+Thu Nov 14 1991,Dallas Mavericks,Los Angeles Clippers,95,88,Reunion Arena,14168,/boxscores/199111140DAL.html
+Thu Nov 14 1991,Golden State Warriors,Los Angeles Lakers,112,115,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199111140GSW.html
+Thu Nov 14 1991,Sacramento Kings,Atlanta Hawks,98,96,ARCO Arena (II),17014,/boxscores/199111140SAC.html
+Fri Nov 15 1991,Boston Celtics,Philadelphia 76ers,122,97,Boston Garden,14890,/boxscores/199111150BOS.html
+Fri Nov 15 1991,Chicago Bulls,Milwaukee Bucks,114,101,Chicago Stadium,18686,/boxscores/199111150CHI.html
+Fri Nov 15 1991,Detroit Pistons,Utah Jazz,123,115,The Palace of Auburn Hills,21454,/boxscores/199111150DET.html
+Fri Nov 15 1991,Indiana Pacers,Seattle SuperSonics,108,124,Market Square Arena,10877,/boxscores/199111150IND.html
+Fri Nov 15 1991,Los Angeles Lakers,Houston Rockets,86,74,Great Western Forum,16956,/boxscores/199111150LAL.html
+Fri Nov 15 1991,Miami Heat,Charlotte Hornets,120,105,Miami Arena,15008,/boxscores/199111150MIA.html
+Fri Nov 15 1991,Minnesota Timberwolves,Portland Trail Blazers,102,107,Target Center,19006,/boxscores/199111150MIN.html
+Fri Nov 15 1991,New Jersey Nets,Washington Bullets,111,116,Brendan Byrne Arena,10301,/boxscores/199111150NJN.html
+Fri Nov 15 1991,Phoenix Suns,Atlanta Hawks,115,119,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111150PHO.html
+Sat Nov 16 1991,Charlotte Hornets,Boston Celtics,118,109,Charlotte Coliseum,23698,/boxscores/199111160CHH.html
+Sat Nov 16 1991,Cleveland Cavaliers,Indiana Pacers,127,117,Coliseum at Richfield,17298,/boxscores/199111160CLE.html
+Sat Nov 16 1991,Dallas Mavericks,Phoenix Suns,91,88,Reunion Arena,17364,/boxscores/199111160DAL.html
+Sat Nov 16 1991,Denver Nuggets,Portland Trail Blazers,122,111,McNichols Sports Arena,13448,/boxscores/199111160DEN.html
+Sat Nov 16 1991,Detroit Pistons,Philadelphia 76ers,86,89,The Palace of Auburn Hills,21454,/boxscores/199111160DET.html
+Sat Nov 16 1991,Los Angeles Clippers,Golden State Warriors,105,123,Los Angeles Memorial Sports Arena,11485,/boxscores/199111160LAC.html
+Sat Nov 16 1991,Milwaukee Bucks,Miami Heat,116,120,Bradley Center,15621,/boxscores/199111160MIL.html
+Sat Nov 16 1991,Orlando Magic,New Jersey Nets,102,100,Orlando Arena,15151,/boxscores/199111160ORL.html
+Sat Nov 16 1991,Sacramento Kings,Houston Rockets,93,102,ARCO Arena (II),17014,/boxscores/199111160SAC.html
+Sat Nov 16 1991,San Antonio Spurs,New York Knicks,106,89,HemisFair Arena,16057,/boxscores/199111160SAS.html
+Sat Nov 16 1991,Washington Bullets,Utah Jazz,98,107,Capital Centre,10642,/boxscores/199111160WSB.html
+Sun Nov 17 1991,Los Angeles Lakers,Atlanta Hawks,111,89,Great Western Forum,16750,/boxscores/199111170LAL.html
+Sun Nov 17 1991,Minnesota Timberwolves,Seattle SuperSonics,91,101,Target Center,19006,/boxscores/199111170MIN.html
+Mon Nov 18 1991,Indiana Pacers,Detroit Pistons,118,101,Market Square Arena,11767,/boxscores/199111180IND.html
+Tue Nov 19 1991,Denver Nuggets,Dallas Mavericks,93,96,McNichols Sports Arena,7382,/boxscores/199111190DEN.html
+Tue Nov 19 1991,Houston Rockets,New York Knicks,90,79,The Summit,15021,/boxscores/199111190HOU.html
+Tue Nov 19 1991,Los Angeles Lakers,Phoenix Suns,103,95,Great Western Forum,16558,/boxscores/199111190LAL.html
+Tue Nov 19 1991,Miami Heat,Utah Jazz,111,91,Miami Arena,15008,/boxscores/199111190MIA.html
+Tue Nov 19 1991,Milwaukee Bucks,Charlotte Hornets,127,104,Bradley Center,14182,/boxscores/199111190MIL.html
+Tue Nov 19 1991,New Jersey Nets,Sacramento Kings,122,118,Brendan Byrne Arena,6612,/boxscores/199111190NJN.html
+Tue Nov 19 1991,Portland Trail Blazers,Los Angeles Clippers,132,112,Memorial Coliseum,12888,/boxscores/199111190POR.html
+Tue Nov 19 1991,Washington Bullets,Seattle SuperSonics,106,113,Capital Centre,7015,/boxscores/199111190WSB.html
+Wed Nov 20 1991,Atlanta Hawks,Sacramento Kings,116,104,Omni Coliseum,8808,/boxscores/199111200ATL.html
+Wed Nov 20 1991,Boston Celtics,Indiana Pacers,116,101,Boston Garden,14890,/boxscores/199111200BOS.html
+Wed Nov 20 1991,Charlotte Hornets,Cleveland Cavaliers,109,108,Charlotte Coliseum,23698,/boxscores/199111200CHH.html
+Wed Nov 20 1991,Dallas Mavericks,New York Knicks,89,92,Reunion Arena,15608,/boxscores/199111200DAL.html
+Wed Nov 20 1991,Detroit Pistons,Seattle SuperSonics,86,91,The Palace of Auburn Hills,21454,/boxscores/199111200DET.html
+Wed Nov 20 1991,Golden State Warriors,Chicago Bulls,108,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199111200GSW.html
+Wed Nov 20 1991,Orlando Magic,Utah Jazz,102,107,Orlando Arena,15151,/boxscores/199111200ORL.html
+Wed Nov 20 1991,Philadelphia 76ers,Miami Heat,114,107,The Spectrum,10683,/boxscores/199111200PHI.html
+Wed Nov 20 1991,Phoenix Suns,Denver Nuggets,113,97,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111200PHO.html
+Wed Nov 20 1991,San Antonio Spurs,Minnesota Timberwolves,113,106,HemisFair Arena,16057,/boxscores/199111200SAS.html
+Thu Nov 21 1991,Cleveland Cavaliers,New Jersey Nets,116,112,Coliseum at Richfield,10181,/boxscores/199111210CLE.html
+Thu Nov 21 1991,Houston Rockets,Minnesota Timberwolves,106,102,The Summit,12902,/boxscores/199111210HOU.html
+Thu Nov 21 1991,Los Angeles Clippers,Portland Trail Blazers,91,106,Los Angeles Memorial Sports Arena,10559,/boxscores/199111210LAC.html
+Thu Nov 21 1991,Milwaukee Bucks,Washington Bullets,112,87,Bradley Center,14671,/boxscores/199111210MIL.html
+Fri Nov 22 1991,Charlotte Hornets,Indiana Pacers,112,110,Charlotte Coliseum,23698,/boxscores/199111220CHH.html
+Fri Nov 22 1991,Detroit Pistons,New York Knicks,90,99,The Palace of Auburn Hills,21454,/boxscores/199111220DET.html
+Fri Nov 22 1991,Los Angeles Lakers,San Antonio Spurs,98,96,Great Western Forum,17505,/boxscores/199111220LAL.html
+Fri Nov 22 1991,Miami Heat,Sacramento Kings,118,112,Miami Arena,15008,/boxscores/199111220MIA.html
+Fri Nov 22 1991,Philadelphia 76ers,Atlanta Hawks,92,99,The Spectrum,18168,/boxscores/199111220PHI.html
+Fri Nov 22 1991,Phoenix Suns,Los Angeles Clippers,105,97,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111220PHO.html
+Fri Nov 22 1991,Portland Trail Blazers,Golden State Warriors,112,116,Memorial Coliseum,12888,/boxscores/199111220POR.html
+Fri Nov 22 1991,Seattle SuperSonics,Chicago Bulls,109,112,Seattle Kingdome,38067,/boxscores/199111220SEA.html
+Fri Nov 22 1991,Utah Jazz,Denver Nuggets,121,96,Delta Center,18700,/boxscores/199111220UTA.html
+Sat Nov 23 1991,Cleveland Cavaliers,Detroit Pistons,96,89,Coliseum at Richfield,17462,/boxscores/199111230CLE.html
+Sat Nov 23 1991,Dallas Mavericks,Utah Jazz,121,109,Reunion Arena,17333,/boxscores/199111230DAL.html
+Sat Nov 23 1991,Denver Nuggets,Chicago Bulls,100,107,McNichols Sports Arena,17022,/boxscores/199111230DEN.html
+Sat Nov 23 1991,Golden State Warriors,Milwaukee Bucks,120,115,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199111230GSW.html
+Sat Nov 23 1991,Indiana Pacers,Miami Heat,119,83,Market Square Arena,11961,/boxscores/199111230IND.html
+Sat Nov 23 1991,Minnesota Timberwolves,Houston Rockets,102,89,Target Center,19006,/boxscores/199111230MIN.html
+Sat Nov 23 1991,New Jersey Nets,Boston Celtics,107,125,Brendan Byrne Arena,18155,/boxscores/199111230NJN.html
+Sat Nov 23 1991,New York Knicks,Philadelphia 76ers,100,92,Madison Square Garden (IV),19941,/boxscores/199111230NYK.html
+Sat Nov 23 1991,Orlando Magic,Sacramento Kings,93,95,Orlando Arena,15151,/boxscores/199111230ORL.html
+Sat Nov 23 1991,Washington Bullets,Atlanta Hawks,126,115,Capital Centre,10137,/boxscores/199111230WSB.html
+Sun Nov 24 1991,Los Angeles Clippers,Seattle SuperSonics,89,86,Los Angeles Memorial Sports Arena,9196,/boxscores/199111240LAC.html
+Sun Nov 24 1991,Los Angeles Lakers,Milwaukee Bucks,102,97,Great Western Forum,16820,/boxscores/199111240LAL.html
+Sun Nov 24 1991,Portland Trail Blazers,San Antonio Spurs,116,111,Memorial Coliseum,12888,/boxscores/199111240POR.html
+Mon Nov 25 1991,Boston Celtics,Washington Bullets,121,108,Hartford Civic Center,14678,/boxscores/199111250BOS.html
+Tue Nov 26 1991,Atlanta Hawks,Detroit Pistons,93,103,Omni Coliseum,11323,/boxscores/199111260ATL.html
+Tue Nov 26 1991,Denver Nuggets,Charlotte Hornets,103,97,McNichols Sports Arena,8721,/boxscores/199111260DEN.html
+Tue Nov 26 1991,Houston Rockets,New Jersey Nets,118,109,The Summit,14006,/boxscores/199111260HOU.html
+Tue Nov 26 1991,Los Angeles Clippers,Chicago Bulls,79,116,Los Angeles Memorial Sports Arena,15800,/boxscores/199111260LAC.html
+Tue Nov 26 1991,New York Knicks,Miami Heat,98,81,Madison Square Garden (IV),15711,/boxscores/199111260NYK.html
+Tue Nov 26 1991,Orlando Magic,Los Angeles Lakers,87,98,Orlando Arena,15151,/boxscores/199111260ORL.html
+Tue Nov 26 1991,Philadelphia 76ers,Cleveland Cavaliers,91,95,The Spectrum,10721,/boxscores/199111260PHI.html
+Tue Nov 26 1991,Portland Trail Blazers,Milwaukee Bucks,107,98,Memorial Coliseum,12888,/boxscores/199111260POR.html
+Tue Nov 26 1991,Sacramento Kings,Phoenix Suns,104,89,ARCO Arena (II),17014,/boxscores/199111260SAC.html
+Tue Nov 26 1991,Seattle SuperSonics,Golden State Warriors,136,130,Seattle Center Coliseum,11743,/boxscores/199111260SEA.html
+Wed Nov 27 1991,Boston Celtics,Orlando Magic,101,92,Boston Garden,14890,/boxscores/199111270BOS.html
+Wed Nov 27 1991,Cleveland Cavaliers,Philadelphia 76ers,107,97,Coliseum at Richfield,13737,/boxscores/199111270CLE.html
+Wed Nov 27 1991,Dallas Mavericks,Indiana Pacers,113,106,Reunion Arena,14713,/boxscores/199111270DAL.html
+Wed Nov 27 1991,Detroit Pistons,Atlanta Hawks,100,91,The Palace of Auburn Hills,21454,/boxscores/199111270DET.html
+Wed Nov 27 1991,Miami Heat,Los Angeles Lakers,87,89,Miami Arena,15008,/boxscores/199111270MIA.html
+Wed Nov 27 1991,Minnesota Timberwolves,Denver Nuggets,101,92,Target Center,19006,/boxscores/199111270MIN.html
+Wed Nov 27 1991,Phoenix Suns,Sacramento Kings,141,100,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111270PHO.html
+Wed Nov 27 1991,San Antonio Spurs,New Jersey Nets,106,100,HemisFair Arena,16057,/boxscores/199111270SAS.html
+Wed Nov 27 1991,Utah Jazz,Charlotte Hornets,113,107,Delta Center,18700,/boxscores/199111270UTA.html
+Fri Nov 29 1991,Atlanta Hawks,San Antonio Spurs,85,88,Omni Coliseum,14630,/boxscores/199111290ATL.html
+Fri Nov 29 1991,Boston Celtics,Los Angeles Lakers,114,91,Boston Garden,14890,/boxscores/199111290BOS.html
+Fri Nov 29 1991,Cleveland Cavaliers,Orlando Magic,115,104,Coliseum at Richfield,17279,/boxscores/199111290CLE.html
+Fri Nov 29 1991,Dallas Mavericks,New Jersey Nets,91,97,Reunion Arena,16121,/boxscores/199111290DAL.html
+Fri Nov 29 1991,Denver Nuggets,Seattle SuperSonics,101,90,McNichols Sports Arena,10613,/boxscores/199111290DEN.html
+Fri Nov 29 1991,Indiana Pacers,Houston Rockets,141,121,Market Square Arena,15308,/boxscores/199111290IND.html
+Fri Nov 29 1991,Los Angeles Clippers,Washington Bullets,94,101,Los Angeles Memorial Sports Arena,9083,/boxscores/199111290LAC.html
+Fri Nov 29 1991,Miami Heat,Philadelphia 76ers,95,92,Miami Arena,15008,/boxscores/199111290MIA.html
+Fri Nov 29 1991,Phoenix Suns,Charlotte Hornets,131,111,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111290PHO.html
+Fri Nov 29 1991,Portland Trail Blazers,Chicago Bulls,114,116,Memorial Coliseum,12888,/boxscores/199111290POR.html
+Fri Nov 29 1991,Utah Jazz,Golden State Warriors,135,108,Delta Center,18700,/boxscores/199111290UTA.html
+Sat Nov 30 1991,Atlanta Hawks,Boston Celtics,129,102,Omni Coliseum,16345,/boxscores/199111300ATL.html
+Sat Nov 30 1991,Dallas Mavericks,Minnesota Timberwolves,79,78,Reunion Arena,16155,/boxscores/199111300DAL.html
+Sat Nov 30 1991,Denver Nuggets,New Jersey Nets,107,97,McNichols Sports Arena,9597,/boxscores/199111300DEN.html
+Sat Nov 30 1991,Los Angeles Clippers,Charlotte Hornets,130,112,Los Angeles Memorial Sports Arena,9560,/boxscores/199111300LAC.html
+Sat Nov 30 1991,Milwaukee Bucks,Indiana Pacers,137,119,Bradley Center,14623,/boxscores/199111300MIL.html
+Sat Nov 30 1991,New York Knicks,Detroit Pistons,103,96,Madison Square Garden (IV),19763,/boxscores/199111300NYK.html
+Sat Nov 30 1991,Orlando Magic,Miami Heat,105,99,Orlando Arena,15151,/boxscores/199111300ORL.html
+Sat Nov 30 1991,Philadelphia 76ers,Los Angeles Lakers,91,93,The Spectrum,18168,/boxscores/199111300PHI.html
+Sat Nov 30 1991,Phoenix Suns,Utah Jazz,134,125,Arizona Veterans Memorial Coliseum,14496,/boxscores/199111300PHO.html
+Sat Nov 30 1991,Sacramento Kings,Chicago Bulls,102,118,ARCO Arena (II),17014,/boxscores/199111300SAC.html
+Sat Nov 30 1991,San Antonio Spurs,Seattle SuperSonics,119,101,HemisFair Arena,16057,/boxscores/199111300SAS.html

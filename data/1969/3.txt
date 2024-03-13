@@ -1,0 +1,100 @@
+Sat Mar 1 1969,San Diego Rockets,Los Angeles Lakers,113,119,San Diego Sports Arena,0,/boxscores/196903010SDR.html
+Sat Mar 1 1969,Seattle SuperSonics,Cincinnati Royals,134,122,Seattle Center Coliseum,0,/boxscores/196903010SEA.html
+Sat Mar 1 1969,San Francisco Warriors,Phoenix Suns,118,119,Cow Palace,0,/boxscores/196903010SFW.html
+Sat Mar 1 1969,New York Knicks,Boston Celtics,115,96,Madison Square Garden (IV),0,/boxscores/196903010NYK.html
+Sun Mar 2 1969,Atlanta Hawks,Milwaukee Bucks,112,108,Alexander Memorial Coliseum,0,/boxscores/196903020ATL.html
+Sun Mar 2 1969,Boston Celtics,Chicago Bulls,99,92,Boston Garden,0,/boxscores/196903020BOS.html
+Sun Mar 2 1969,Detroit Pistons,Philadelphia 76ers,112,126,Cobo Arena,0,/boxscores/196903020DET.html
+Sun Mar 2 1969,Los Angeles Lakers,San Francisco Warriors,107,92,The Forum,0,/boxscores/196903020LAL.html
+Mon Mar 3 1969,Milwaukee Bucks,Philadelphia 76ers,132,143,Milwaukee Arena,0,/boxscores/196903030MIL.html
+Mon Mar 3 1969,Seattle SuperSonics,Cincinnati Royals,107,113,Seattle Center Coliseum,0,/boxscores/196903030SEA.html
+Tue Mar 4 1969,New York Knicks,Detroit Pistons,102,99,Madison Square Garden (IV),0,/boxscores/196903040NYK.html
+Tue Mar 4 1969,San Francisco Warriors,Boston Celtics,99,95,Oakland-Alameda County Coliseum Arena,0,/boxscores/196903040SFW.html
+Tue Mar 4 1969,Seattle SuperSonics,San Diego Rockets,130,116,Seattle Center Coliseum,0,/boxscores/196903040SEA.html
+Tue Mar 4 1969,Phoenix Suns,Cincinnati Royals,122,141,Arizona Veterans Memorial Coliseum,0,/boxscores/196903040PHO.html
+Tue Mar 4 1969,Los Angeles Lakers,Baltimore Bullets,108,116,The Forum,0,/boxscores/196903040LAL.html
+Tue Mar 4 1969,Chicago Bulls,Philadelphia 76ers,114,113,Chicago Stadium,0,/boxscores/196903040CHI.html
+Wed Mar 5 1969,Detroit Pistons,New York Knicks,128,120,Cobo Arena,0,/boxscores/196903050DET.html
+Wed Mar 5 1969,Milwaukee Bucks,Chicago Bulls,108,124,Milwaukee Arena,0,/boxscores/196903050MIL.html
+Wed Mar 5 1969,San Francisco Warriors,Baltimore Bullets,114,107,Cow Palace,0,/boxscores/196903050SFW.html
+Thu Mar 6 1969,Atlanta Hawks,Philadelphia 76ers,138,99,Alexander Memorial Coliseum,0,/boxscores/196903060ATL.html
+Thu Mar 6 1969,Chicago Bulls,Phoenix Suns,125,117,SIU Arena,0,/boxscores/196903060CHI.html
+Thu Mar 6 1969,Milwaukee Bucks,Cincinnati Royals,110,112,Milwaukee Arena,0,/boxscores/196903060MIL.html
+Thu Mar 6 1969,San Diego Rockets,Boston Celtics,110,97,San Diego Sports Arena,0,/boxscores/196903060SDR.html
+Fri Mar 7 1969,Philadelphia 76ers,Chicago Bulls,131,113,The Spectrum,0,/boxscores/196903070PHI.html
+Fri Mar 7 1969,San Francisco Warriors,Baltimore Bullets,135,130,Cow Palace,0,/boxscores/196903070SFW.html
+Fri Mar 7 1969,New York Knicks,Phoenix Suns,119,87,The Spectrum,0,/boxscores/196903070NYK.html
+Fri Mar 7 1969,Detroit Pistons,Cincinnati Royals,114,105,Cobo Arena,0,/boxscores/196903070DET.html
+Fri Mar 7 1969,Los Angeles Lakers,Boston Celtics,105,99,The Forum,0,/boxscores/196903070LAL.html
+Sat Mar 8 1969,Seattle SuperSonics,Baltimore Bullets,138,117,Seattle Center Coliseum,0,/boxscores/196903080SEA.html
+Sun Mar 9 1969,Atlanta Hawks,Cincinnati Royals,134,107,Alexander Memorial Coliseum,0,/boxscores/196903090ATL.html
+Sun Mar 9 1969,Boston Celtics,San Francisco Warriors,138,89,Boston Garden,0,/boxscores/196903090BOS.html
+Sun Mar 9 1969,Detroit Pistons,Milwaukee Bucks,121,126,Cobo Arena,0,/boxscores/196903090DET.html
+Sun Mar 9 1969,Los Angeles Lakers,Baltimore Bullets,120,109,The Forum,0,/boxscores/196903090LAL.html
+Sun Mar 9 1969,Philadelphia 76ers,New York Knicks,110,101,The Spectrum,0,/boxscores/196903090PHI.html
+Sun Mar 9 1969,Phoenix Suns,San Diego Rockets,146,133,Arizona Veterans Memorial Coliseum,0,/boxscores/196903090PHO.html
+Mon Mar 10 1969,Milwaukee Bucks,San Francisco Warriors,106,123,Milwaukee Arena,0,/boxscores/196903100MIL.html
+Mon Mar 10 1969,Phoenix Suns,Baltimore Bullets,121,140,Arizona Veterans Memorial Coliseum,0,/boxscores/196903100PHO.html
+Tue Mar 11 1969,New York Knicks,Philadelphia 76ers,121,101,Madison Square Garden (IV),0,/boxscores/196903110NYK.html
+Tue Mar 11 1969,San Diego Rockets,Phoenix Suns,116,106,San Diego Sports Arena,0,/boxscores/196903110SDR.html
+Tue Mar 11 1969,Los Angeles Lakers,Detroit Pistons,137,101,The Forum,0,/boxscores/196903110LAL.html
+Tue Mar 11 1969,Chicago Bulls,Atlanta Hawks,102,90,Chicago Stadium,0,/boxscores/196903110CHI.html
+Wed Mar 12 1969,Atlanta Hawks,Chicago Bulls,109,90,Alexander Memorial Coliseum,0,/boxscores/196903120ATL.html
+Wed Mar 12 1969,Baltimore Bullets,New York Knicks,111,110,Baltimore Civic Center,0,/boxscores/196903120BAL.html
+Wed Mar 12 1969,Philadelphia 76ers,Boston Celtics,117,126,The Spectrum,0,/boxscores/196903120PHI.html
+Wed Mar 12 1969,San Diego Rockets,Seattle SuperSonics,112,125,Pacific Coliseum,0,/boxscores/196903120SDR.html
+Wed Mar 12 1969,San Francisco Warriors,Los Angeles Lakers,97,85,Cow Palace,0,/boxscores/196903120SFW.html
+Thu Mar 13 1969,Chicago Bulls,Philadelphia 76ers,106,113,Chicago Stadium,0,/boxscores/196903130CHI.html
+Thu Mar 13 1969,Cincinnati Royals,Boston Celtics,120,110,Cincinnati Gardens,0,/boxscores/196903130CIN.html
+Thu Mar 13 1969,Milwaukee Bucks,Seattle SuperSonics,118,141,Brown County Veterans Memorial Arena,0,/boxscores/196903130MIL.html
+Thu Mar 13 1969,San Diego Rockets,Detroit Pistons,120,105,San Diego Sports Arena,0,/boxscores/196903130SDR.html
+Fri Mar 14 1969,San Francisco Warriors,Detroit Pistons,114,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/196903140SFW.html
+Fri Mar 14 1969,Baltimore Bullets,Cincinnati Royals,130,128,Cleveland Arena,0,/boxscores/196903140BAL.html
+Fri Mar 14 1969,Los Angeles Lakers,Milwaukee Bucks,111,103,The Forum,0,/boxscores/196903140LAL.html
+Sat Mar 15 1969,Baltimore Bullets,Boston Celtics,99,98,Baltimore Civic Center,0,/boxscores/196903150BAL.html
+Sat Mar 15 1969,Chicago Bulls,Seattle SuperSonics,101,83,Chicago Stadium,0,/boxscores/196903150CHI.html
+Sat Mar 15 1969,New York Knicks,Cincinnati Royals,121,108,Madison Square Garden (IV),0,/boxscores/196903150NYK.html
+Sat Mar 15 1969,Philadelphia 76ers,Atlanta Hawks,122,120,The Spectrum,0,/boxscores/196903150PHI.html
+Sat Mar 15 1969,Phoenix Suns,San Diego Rockets,124,141,Catalina High School Gym,0,/boxscores/196903150PHO.html
+Sun Mar 16 1969,Atlanta Hawks,Seattle SuperSonics,131,127,Alexander Memorial Coliseum,0,/boxscores/196903160ATL.html
+Sun Mar 16 1969,Boston Celtics,Los Angeles Lakers,73,108,Boston Garden,0,/boxscores/196903160BOS.html
+Sun Mar 16 1969,San Diego Rockets,Detroit Pistons,120,111,San Diego Sports Arena,0,/boxscores/196903160SDR.html
+Mon Mar 17 1969,Phoenix Suns,Detroit Pistons,95,119,Arizona Veterans Memorial Coliseum,0,/boxscores/196903170PHO.html
+Tue Mar 18 1969,Chicago Bulls,Los Angeles Lakers,92,93,Chicago Stadium,0,/boxscores/196903180CHI.html
+Tue Mar 18 1969,San Francisco Warriors,Atlanta Hawks,115,128,Cow Palace,0,/boxscores/196903180SFW.html
+Tue Mar 18 1969,San Diego Rockets,Milwaukee Bucks,128,108,San Diego Sports Arena,0,/boxscores/196903180SDR.html
+Tue Mar 18 1969,Baltimore Bullets,Seattle SuperSonics,130,120,Baltimore Civic Center,0,/boxscores/196903180BAL.html
+Wed Mar 19 1969,Boston Celtics,Chicago Bulls,104,92,Boston Garden,0,/boxscores/196903190BOS.html
+Wed Mar 19 1969,Cincinnati Royals,Los Angeles Lakers,136,128,Cincinnati Gardens,0,/boxscores/196903190CIN.html
+Wed Mar 19 1969,New York Knicks,Baltimore Bullets,104,100,Madison Square Garden (IV),0,/boxscores/196903190NYK.html
+Wed Mar 19 1969,Philadelphia 76ers,Seattle SuperSonics,136,115,The Spectrum,0,/boxscores/196903190PHI.html
+Wed Mar 19 1969,Phoenix Suns,Milwaukee Bucks,110,117,Arizona Veterans Memorial Coliseum,0,/boxscores/196903190PHO.html
+Thu Mar 20 1969,San Diego Rockets,Atlanta Hawks,115,97,San Diego Sports Arena,0,/boxscores/196903200SDR.html
+Fri Mar 21 1969,Phoenix Suns,New York Knicks,104,139,Arizona Veterans Memorial Coliseum,0,/boxscores/196903210PHO.html
+Fri Mar 21 1969,San Francisco Warriors,Milwaukee Bucks,103,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/196903210SFW.html
+Fri Mar 21 1969,Los Angeles Lakers,Atlanta Hawks,116,103,The Forum,0,/boxscores/196903210LAL.html
+Fri Mar 21 1969,Chicago Bulls,Baltimore Bullets,103,115,Chicago Stadium,0,/boxscores/196903210CHI.html
+Fri Mar 21 1969,Boston Celtics,Cincinnati Royals,145,119,Cleveland Arena,0,/boxscores/196903210BOS.html
+Fri Mar 21 1969,Detroit Pistons,Seattle SuperSonics,110,104,Cobo Arena,0,/boxscores/196903210DET.html
+Sat Mar 22 1969,Baltimore Bullets,Philadelphia 76ers,108,116,Baltimore Civic Center,0,/boxscores/196903220BAL.html
+Sat Mar 22 1969,Cincinnati Royals,Seattle SuperSonics,134,127,Cincinnati Gardens,0,/boxscores/196903220CIN.html
+Sat Mar 22 1969,San Diego Rockets,Milwaukee Bucks,106,120,San Diego Sports Arena,0,/boxscores/196903220SDR.html
+Sat Mar 22 1969,San Francisco Warriors,New York Knicks,90,117,Cow Palace,0,/boxscores/196903220SFW.html
+Sun Mar 23 1969,Boston Celtics,Baltimore Bullets,126,98,Boston Garden,0,/boxscores/196903230BOS.html
+Sun Mar 23 1969,Detroit Pistons,Chicago Bulls,158,114,Cobo Arena,0,/boxscores/196903230DET.html
+Sun Mar 23 1969,Los Angeles Lakers,New York Knicks,128,111,The Forum,0,/boxscores/196903230LAL.html
+Sun Mar 23 1969,Phoenix Suns,Milwaukee Bucks,118,128,Arizona Veterans Memorial Coliseum,0,/boxscores/196903230PHO.html
+Sun Mar 23 1969,San Diego Rockets,Atlanta Hawks,128,121,San Diego Sports Arena,0,/boxscores/196903230SDR.html
+Mon Mar 24 1969,Boston Celtics,San Diego Rockets,111,107,The Spectrum,0,/boxscores/196903240BOS.html
+Mon Mar 24 1969,Philadelphia 76ers,Cincinnati Royals,119,125,The Spectrum,0,/boxscores/196903240PHI.html
+Wed Mar 26 1969,Los Angeles Lakers,San Francisco Warriors,94,99,The Forum,0,/boxscores/196903260LAL.html
+Wed Mar 26 1969,Philadelphia 76ers,Boston Celtics,100,114,The Spectrum,0,/boxscores/196903260PHI.html
+Thu Mar 27 1969,Atlanta Hawks,San Diego Rockets,107,98,Alexander Memorial Coliseum,0,/boxscores/196903270ATL.html
+Thu Mar 27 1969,Baltimore Bullets,New York Knicks,101,113,Baltimore Civic Center,0,/boxscores/196903270BAL.html
+Fri Mar 28 1969,Boston Celtics,Philadelphia 76ers,134,103,Boston Garden,0,/boxscores/196903280BOS.html
+Fri Mar 28 1969,Los Angeles Lakers,San Francisco Warriors,101,107,The Forum,0,/boxscores/196903280LAL.html
+Sat Mar 29 1969,Atlanta Hawks,San Diego Rockets,116,114,Alexander Memorial Coliseum,0,/boxscores/196903290ATL.html
+Sat Mar 29 1969,New York Knicks,Baltimore Bullets,107,91,Madison Square Garden (IV),0,/boxscores/196903290NYK.html
+Sun Mar 30 1969,Baltimore Bullets,New York Knicks,116,119,Baltimore Civic Center,0,/boxscores/196903300BAL.html
+Sun Mar 30 1969,Philadelphia 76ers,Boston Celtics,118,125,The Spectrum,0,/boxscores/196903300PHI.html
+Mon Mar 31 1969,San Francisco Warriors,Los Angeles Lakers,98,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/196903310SFW.html

@@ -1,0 +1,25 @@
+Tue Apr 1 1969,San Diego Rockets,Atlanta Hawks,104,97,San Diego Sports Arena,0,/boxscores/196904010SDR.html
+Tue Apr 1 1969,Boston Celtics,Philadelphia 76ers,116,119,Boston Garden,0,/boxscores/196904010BOS.html
+Wed Apr 2 1969,New York Knicks,Baltimore Bullets,115,108,Madison Square Garden (IV),0,/boxscores/196904020NYK.html
+Wed Apr 2 1969,San Francisco Warriors,Los Angeles Lakers,88,103,Cow Palace,0,/boxscores/196904020SFW.html
+Fri Apr 4 1969,Los Angeles Lakers,San Francisco Warriors,103,98,The Forum,0,/boxscores/196904040LAL.html
+Fri Apr 4 1969,Philadelphia 76ers,Boston Celtics,90,93,The Spectrum,0,/boxscores/196904040PHI.html
+Fri Apr 4 1969,San Diego Rockets,Atlanta Hawks,114,112,San Diego Sports Arena,0,/boxscores/196904040SDR.html
+Sat Apr 5 1969,San Francisco Warriors,Los Angeles Lakers,78,118,Cow Palace,0,/boxscores/196904050SFW.html
+Sun Apr 6 1969,Atlanta Hawks,San Diego Rockets,112,101,Alexander Memorial Coliseum,0,/boxscores/196904060ATL.html
+Sun Apr 6 1969,New York Knicks,Boston Celtics,100,108,Madison Square Garden (IV),0,/boxscores/196904060NYK.html
+Mon Apr 7 1969,San Diego Rockets,Atlanta Hawks,106,108,San Diego Sports Arena,0,/boxscores/196904070SDR.html
+Wed Apr 9 1969,Boston Celtics,New York Knicks,112,97,Boston Garden,0,/boxscores/196904090BOS.html
+Thu Apr 10 1969,New York Knicks,Boston Celtics,101,91,Madison Square Garden (IV),0,/boxscores/196904100NYK.html
+Fri Apr 11 1969,Los Angeles Lakers,Atlanta Hawks,95,93,The Forum,0,/boxscores/196904110LAL.html
+Sun Apr 13 1969,Boston Celtics,New York Knicks,97,96,Boston Garden,0,/boxscores/196904130BOS.html
+Sun Apr 13 1969,Los Angeles Lakers,Atlanta Hawks,104,102,The Forum,0,/boxscores/196904130LAL.html
+Mon Apr 14 1969,New York Knicks,Boston Celtics,112,104,Madison Square Garden (IV),0,/boxscores/196904140NYK.html
+Tue Apr 15 1969,Atlanta Hawks,Los Angeles Lakers,99,86,Alexander Memorial Coliseum,0,/boxscores/196904150ATL.html
+Thu Apr 17 1969,Atlanta Hawks,Los Angeles Lakers,85,100,Alexander Memorial Coliseum,0,/boxscores/196904170ATL.html
+Fri Apr 18 1969,Boston Celtics,New York Knicks,106,105,Boston Garden,0,/boxscores/196904180BOS.html
+Sun Apr 20 1969,Los Angeles Lakers,Atlanta Hawks,104,96,The Forum,0,/boxscores/196904200LAL.html
+Wed Apr 23 1969,Los Angeles Lakers,Boston Celtics,120,118,The Forum,17554,/boxscores/196904230LAL.html
+Fri Apr 25 1969,Los Angeles Lakers,Boston Celtics,118,112,The Forum,17559,/boxscores/196904250LAL.html
+Sun Apr 27 1969,Boston Celtics,Los Angeles Lakers,111,105,Boston Garden,14037,/boxscores/196904270BOS.html
+Tue Apr 29 1969,Boston Celtics,Los Angeles Lakers,89,88,Boston Garden,15128,/boxscores/196904290BOS.html

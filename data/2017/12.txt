@@ -1,0 +1,232 @@
+Thu Dec 1 2016,Charlotte Hornets,Dallas Mavericks,97,87,Spectrum Center,14471,/boxscores/201612010CHO.html
+Thu Dec 1 2016,Brooklyn Nets,Milwaukee Bucks,93,111,Barclays Center,12675,/boxscores/201612010BRK.html
+Thu Dec 1 2016,Cleveland Cavaliers,Los Angeles Clippers,94,113,Quicken Loans Arena,20562,/boxscores/201612010CLE.html
+Thu Dec 1 2016,Memphis Grizzlies,Orlando Magic,95,94,FedEx Forum,13344,/boxscores/201612010MEM.html
+Thu Dec 1 2016,Utah Jazz,Miami Heat,110,111,Vivint Smart Home Arena,19073,/boxscores/201612010UTA.html
+Thu Dec 1 2016,Golden State Warriors,Houston Rockets,127,132,Oracle Arena,19596,/boxscores/201612010GSW.html
+Fri Dec 2 2016,Philadelphia 76ers,Orlando Magic,88,105,Wells Fargo Center,13711,/boxscores/201612020PHI.html
+Fri Dec 2 2016,Boston Celtics,Sacramento Kings,97,92,TD Garden,18624,/boxscores/201612020BOS.html
+Fri Dec 2 2016,New York Knicks,Minnesota Timberwolves,118,114,Madison Square Garden (IV),19812,/boxscores/201612020NYK.html
+Fri Dec 2 2016,Toronto Raptors,Los Angeles Lakers,113,80,Air Canada Centre,19800,/boxscores/201612020TOR.html
+Fri Dec 2 2016,Atlanta Hawks,Detroit Pistons,85,121,Philips Arena,15500,/boxscores/201612020ATL.html
+Fri Dec 2 2016,Chicago Bulls,Cleveland Cavaliers,111,105,United Center,21775,/boxscores/201612020CHI.html
+Fri Dec 2 2016,New Orleans Pelicans,Los Angeles Clippers,96,114,Smoothie King Center,16538,/boxscores/201612020NOP.html
+Fri Dec 2 2016,San Antonio Spurs,Washington Wizards,107,105,AT&T Center,18418,/boxscores/201612020SAS.html
+Fri Dec 2 2016,Denver Nuggets,Houston Rockets,110,128,Pepsi Center,15549,/boxscores/201612020DEN.html
+Sat Dec 3 2016,Milwaukee Bucks,Brooklyn Nets,112,103,BMO Harris Bradley Center,15565,/boxscores/201612030MIL.html
+Sat Dec 3 2016,Charlotte Hornets,Minnesota Timberwolves,120,125,Spectrum Center,16982,/boxscores/201612030CHO.html
+Sat Dec 3 2016,Philadelphia 76ers,Boston Celtics,106,107,Wells Fargo Center,17063,/boxscores/201612030PHI.html
+Sat Dec 3 2016,Toronto Raptors,Atlanta Hawks,128,84,Air Canada Centre,19800,/boxscores/201612030TOR.html
+Sat Dec 3 2016,Memphis Grizzlies,Los Angeles Lakers,103,100,FedEx Forum,17017,/boxscores/201612030MEM.html
+Sat Dec 3 2016,Dallas Mavericks,Chicago Bulls,107,82,American Airlines Center,19857,/boxscores/201612030DAL.html
+Sat Dec 3 2016,Utah Jazz,Denver Nuggets,105,98,Vivint Smart Home Arena,19911,/boxscores/201612030UTA.html
+Sat Dec 3 2016,Portland Trail Blazers,Miami Heat,99,92,Moda Center,19393,/boxscores/201612030POR.html
+Sat Dec 3 2016,Golden State Warriors,Phoenix Suns,138,109,Oracle Arena,19596,/boxscores/201612030GSW.html
+Sun Dec 4 2016,Detroit Pistons,Orlando Magic,92,98,The Palace of Auburn Hills,15206,/boxscores/201612040DET.html
+Sun Dec 4 2016,Oklahoma City Thunder,New Orleans Pelicans,101,92,Chesapeake Energy Arena,18203,/boxscores/201612040OKC.html
+Sun Dec 4 2016,New York Knicks,Sacramento Kings,106,98,Madison Square Garden (IV),19812,/boxscores/201612040NYK.html
+Sun Dec 4 2016,Los Angeles Clippers,Indiana Pacers,102,111,STAPLES Center,19060,/boxscores/201612040LAC.html
+Mon Dec 5 2016,Philadelphia 76ers,Denver Nuggets,98,106,Wells Fargo Center,11815,/boxscores/201612050PHI.html
+Mon Dec 5 2016,Atlanta Hawks,Oklahoma City Thunder,99,102,Philips Arena,14654,/boxscores/201612050ATL.html
+Mon Dec 5 2016,Brooklyn Nets,Washington Wizards,113,118,Barclays Center,12529,/boxscores/201612050BRK.html
+Mon Dec 5 2016,Toronto Raptors,Cleveland Cavaliers,112,116,Air Canada Centre,19800,/boxscores/201612050TOR.html
+Mon Dec 5 2016,Chicago Bulls,Portland Trail Blazers,110,112,United Center,21351,/boxscores/201612050CHI.html
+Mon Dec 5 2016,Houston Rockets,Boston Celtics,107,106,Toyota Center,15730,/boxscores/201612050HOU.html
+Mon Dec 5 2016,Milwaukee Bucks,San Antonio Spurs,96,97,BMO Harris Bradley Center,14256,/boxscores/201612050MIL.html
+Mon Dec 5 2016,New Orleans Pelicans,Memphis Grizzlies,108,110,Smoothie King Center,13795,/boxscores/201612050NOP.html
+Mon Dec 5 2016,Dallas Mavericks,Charlotte Hornets,101,109,American Airlines Center,19228,/boxscores/201612050DAL.html
+Mon Dec 5 2016,Golden State Warriors,Indiana Pacers,142,106,Oracle Arena,19596,/boxscores/201612050GSW.html
+Mon Dec 5 2016,Los Angeles Lakers,Utah Jazz,101,107,STAPLES Center,18279,/boxscores/201612050LAL.html
+Tue Dec 6 2016,Washington Wizards,Orlando Magic,116,124,Verizon Center,12116,/boxscores/201612060WAS.html
+Tue Dec 6 2016,Detroit Pistons,Chicago Bulls,102,91,The Palace of Auburn Hills,14305,/boxscores/201612060DET.html
+Tue Dec 6 2016,Miami Heat,New York Knicks,103,114,AmericanAirlines Arena,19610,/boxscores/201612060MIA.html
+Tue Dec 6 2016,Memphis Grizzlies,Philadelphia 76ers,96,91,FedEx Forum,13521,/boxscores/201612060MEM.html
+Tue Dec 6 2016,Minnesota Timberwolves,San Antonio Spurs,91,105,Target Center,12585,/boxscores/201612060MIN.html
+Tue Dec 6 2016,Utah Jazz,Phoenix Suns,112,105,Vivint Smart Home Arena,18997,/boxscores/201612060UTA.html
+Wed Dec 7 2016,Charlotte Hornets,Detroit Pistons,87,77,Spectrum Center,15141,/boxscores/201612070CHO.html
+Wed Dec 7 2016,Orlando Magic,Boston Celtics,87,117,Amway Center,17009,/boxscores/201612070ORL.html
+Wed Dec 7 2016,Atlanta Hawks,Miami Heat,103,95,Philips Arena,11326,/boxscores/201612070ATL.html
+Wed Dec 7 2016,Brooklyn Nets,Denver Nuggets,116,111,Barclays Center,14159,/boxscores/201612070BRK.html
+Wed Dec 7 2016,Houston Rockets,Los Angeles Lakers,134,95,Toyota Center,16141,/boxscores/201612070HOU.html
+Wed Dec 7 2016,Milwaukee Bucks,Portland Trail Blazers,115,107,BMO Harris Bradley Center,14033,/boxscores/201612070MIL.html
+Wed Dec 7 2016,New York Knicks,Cleveland Cavaliers,94,126,Madison Square Garden (IV),19812,/boxscores/201612070NYK.html
+Wed Dec 7 2016,Dallas Mavericks,Sacramento Kings,89,120,American Airlines Center,19711,/boxscores/201612070DAL.html
+Wed Dec 7 2016,Phoenix Suns,Indiana Pacers,94,109,Talking Stick Resort Arena,17452,/boxscores/201612070PHO.html
+Wed Dec 7 2016,Los Angeles Clippers,Golden State Warriors,98,115,STAPLES Center,19239,/boxscores/201612070LAC.html
+Thu Dec 8 2016,Toronto Raptors,Minnesota Timberwolves,124,110,Air Canada Centre,19800,/boxscores/201612080TOR.html
+Thu Dec 8 2016,Washington Wizards,Denver Nuggets,92,85,Verizon Center,12645,/boxscores/201612080WAS.html
+Thu Dec 8 2016,Memphis Grizzlies,Portland Trail Blazers,88,86,FedEx Forum,14317,/boxscores/201612080MEM.html
+Thu Dec 8 2016,New Orleans Pelicans,Philadelphia 76ers,88,99,Smoothie King Center,14158,/boxscores/201612080NOP.html
+Thu Dec 8 2016,Utah Jazz,Golden State Warriors,99,106,Vivint Smart Home Arena,19911,/boxscores/201612080UTA.html
+Thu Dec 8 2016,Chicago Bulls,San Antonio Spurs,95,91,United Center,21489,/boxscores/201612080CHI.html
+Fri Dec 9 2016,Charlotte Hornets,Orlando Magic,109,88,Spectrum Center,15707,/boxscores/201612090CHO.html
+Fri Dec 9 2016,Boston Celtics,Toronto Raptors,94,101,TD Garden,18624,/boxscores/201612090BOS.html
+Fri Dec 9 2016,Cleveland Cavaliers,Miami Heat,114,84,Quicken Loans Arena,20562,/boxscores/201612090CLE.html
+Fri Dec 9 2016,Milwaukee Bucks,Atlanta Hawks,110,114,BMO Harris Bradley Center,16289,/boxscores/201612090MIL.html
+Fri Dec 9 2016,Minnesota Timberwolves,Detroit Pistons,90,117,Target Center,14109,/boxscores/201612090MIN.html
+Fri Dec 9 2016,Oklahoma City Thunder,Houston Rockets,99,102,Chesapeake Energy Arena,18203,/boxscores/201612090OKC.html
+Fri Dec 9 2016,Dallas Mavericks,Indiana Pacers,111,103,American Airlines Center,19486,/boxscores/201612090DAL.html
+Fri Dec 9 2016,Los Angeles Lakers,Phoenix Suns,115,119,STAPLES Center,18997,/boxscores/201612090LAL.html
+Fri Dec 9 2016,Sacramento Kings,New York Knicks,100,103,Golden 1 Center,17608,/boxscores/201612090SAC.html
+Sat Dec 10 2016,Indiana Pacers,Portland Trail Blazers,118,111,Bankers Life Fieldhouse,16211,/boxscores/201612100IND.html
+Sat Dec 10 2016,Orlando Magic,Denver Nuggets,113,121,Amway Center,17010,/boxscores/201612100ORL.html
+Sat Dec 10 2016,Washington Wizards,Milwaukee Bucks,110,105,Verizon Center,14816,/boxscores/201612100WAS.html
+Sat Dec 10 2016,Cleveland Cavaliers,Charlotte Hornets,116,105,Quicken Loans Arena,20562,/boxscores/201612100CLE.html
+Sat Dec 10 2016,Chicago Bulls,Miami Heat,105,100,United Center,21450,/boxscores/201612100CHI.html
+Sat Dec 10 2016,Houston Rockets,Dallas Mavericks,109,87,Toyota Center,15761,/boxscores/201612100HOU.html
+Sat Dec 10 2016,Memphis Grizzlies,Golden State Warriors,110,89,FedEx Forum,18119,/boxscores/201612100MEM.html
+Sat Dec 10 2016,San Antonio Spurs,Brooklyn Nets,130,101,AT&T Center,18418,/boxscores/201612100SAS.html
+Sat Dec 10 2016,Utah Jazz,Sacramento Kings,104,84,Vivint Smart Home Arena,19331,/boxscores/201612100UTA.html
+Sat Dec 10 2016,Los Angeles Clippers,New Orleans Pelicans,133,105,STAPLES Center,19060,/boxscores/201612100LAC.html
+Sun Dec 11 2016,Detroit Pistons,Philadelphia 76ers,79,97,The Palace of Auburn Hills,7244,/boxscores/201612110DET.html
+Sun Dec 11 2016,Minnesota Timberwolves,Golden State Warriors,108,116,Target Center,18452,/boxscores/201612110MIN.html
+Sun Dec 11 2016,Oklahoma City Thunder,Boston Celtics,99,96,Chesapeake Energy Arena,18203,/boxscores/201612110OKC.html
+Sun Dec 11 2016,Phoenix Suns,New Orleans Pelicans,119,120,Talking Stick Resort Arena,16949,/boxscores/201612110PHO.html
+Sun Dec 11 2016,Los Angeles Lakers,New York Knicks,112,118,STAPLES Center,18997,/boxscores/201612110LAL.html
+Mon Dec 12 2016,Indiana Pacers,Charlotte Hornets,110,94,Bankers Life Fieldhouse,14138,/boxscores/201612120IND.html
+Mon Dec 12 2016,Miami Heat,Washington Wizards,112,101,AmericanAirlines Arena,19600,/boxscores/201612120MIA.html
+Mon Dec 12 2016,Toronto Raptors,Milwaukee Bucks,122,100,Air Canada Centre,19800,/boxscores/201612120TOR.html
+Mon Dec 12 2016,Houston Rockets,Brooklyn Nets,122,118,Toyota Center,13619,/boxscores/201612120HOU.html
+Mon Dec 12 2016,Dallas Mavericks,Denver Nuggets,112,92,American Airlines Center,19425,/boxscores/201612120DAL.html
+Mon Dec 12 2016,Los Angeles Clippers,Portland Trail Blazers,121,120,STAPLES Center,19060,/boxscores/201612120LAC.html
+Mon Dec 12 2016,Sacramento Kings,Los Angeles Lakers,116,92,Golden 1 Center,17608,/boxscores/201612120SAC.html
+Tue Dec 13 2016,Cleveland Cavaliers,Memphis Grizzlies,103,86,Quicken Loans Arena,20562,/boxscores/201612130CLE.html
+Tue Dec 13 2016,Atlanta Hawks,Orlando Magic,120,131,Philips Arena,13585,/boxscores/201612130ATL.html
+Tue Dec 13 2016,Chicago Bulls,Minnesota Timberwolves,94,99,United Center,21146,/boxscores/201612130CHI.html
+Tue Dec 13 2016,New Orleans Pelicans,Golden State Warriors,109,113,Smoothie King Center,17789,/boxscores/201612130NOP.html
+Tue Dec 13 2016,Phoenix Suns,New York Knicks,113,111,Talking Stick Resort Arena,16429,/boxscores/201612130PHO.html
+Tue Dec 13 2016,Portland Trail Blazers,Oklahoma City Thunder,114,95,Moda Center,19505,/boxscores/201612130POR.html
+Wed Dec 14 2016,Miami Heat,Indiana Pacers,95,89,AmericanAirlines Arena,19600,/boxscores/201612140MIA.html
+Wed Dec 14 2016,Orlando Magic,Los Angeles Clippers,108,113,Amway Center,18846,/boxscores/201612140ORL.html
+Wed Dec 14 2016,Philadelphia 76ers,Toronto Raptors,114,123,Wells Fargo Center,16192,/boxscores/201612140PHI.html
+Wed Dec 14 2016,Washington Wizards,Charlotte Hornets,109,106,Verizon Center,13447,/boxscores/201612140WAS.html
+Wed Dec 14 2016,Brooklyn Nets,Los Angeles Lakers,107,97,Barclays Center,17732,/boxscores/201612140BRK.html
+Wed Dec 14 2016,Houston Rockets,Sacramento Kings,132,98,Toyota Center,15039,/boxscores/201612140HOU.html
+Wed Dec 14 2016,Memphis Grizzlies,Cleveland Cavaliers,93,85,FedEx Forum,17449,/boxscores/201612140MEM.html
+Wed Dec 14 2016,Dallas Mavericks,Detroit Pistons,85,95,American Airlines Center,19687,/boxscores/201612140DAL.html
+Wed Dec 14 2016,Utah Jazz,Oklahoma City Thunder,109,89,Vivint Smart Home Arena,19911,/boxscores/201612140UTA.html
+Wed Dec 14 2016,San Antonio Spurs,Boston Celtics,108,101,AT&T Center,18418,/boxscores/201612140SAS.html
+Thu Dec 15 2016,Milwaukee Bucks,Chicago Bulls,108,97,BMO Harris Bradley Center,16704,/boxscores/201612150MIL.html
+Thu Dec 15 2016,New Orleans Pelicans,Indiana Pacers,102,95,Smoothie King Center,15472,/boxscores/201612150NOP.html
+Thu Dec 15 2016,Denver Nuggets,Portland Trail Blazers,132,120,Pepsi Center,10022,/boxscores/201612150DEN.html
+Thu Dec 15 2016,Phoenix Suns,San Antonio Spurs,92,107,Talking Stick Resort Arena,17165,/boxscores/201612150PHO.html
+Thu Dec 15 2016,Golden State Warriors,New York Knicks,103,90,Oracle Arena,19596,/boxscores/201612150GSW.html
+Fri Dec 16 2016,Orlando Magic,Brooklyn Nets,118,111,Amway Center,17668,/boxscores/201612160ORL.html
+Fri Dec 16 2016,Washington Wizards,Detroit Pistons,122,108,Verizon Center,15573,/boxscores/201612160WAS.html
+Fri Dec 16 2016,Boston Celtics,Charlotte Hornets,96,88,TD Garden,18624,/boxscores/201612160BOS.html
+Fri Dec 16 2016,Toronto Raptors,Atlanta Hawks,121,125,Air Canada Centre,19800,/boxscores/201612160TOR.html
+Fri Dec 16 2016,Chicago Bulls,Milwaukee Bucks,69,95,United Center,21324,/boxscores/201612160CHI.html
+Fri Dec 16 2016,Houston Rockets,New Orleans Pelicans,122,100,Toyota Center,16728,/boxscores/201612160HOU.html
+Fri Dec 16 2016,Memphis Grizzlies,Sacramento Kings,92,96,FedEx Forum,15987,/boxscores/201612160MEM.html
+Fri Dec 16 2016,Miami Heat,Los Angeles Clippers,98,102,AmericanAirlines Arena,19600,/boxscores/201612160MIA.html
+Fri Dec 16 2016,Philadelphia 76ers,Los Angeles Lakers,89,100,Wells Fargo Center,20491,/boxscores/201612160PHI.html
+Fri Dec 16 2016,Utah Jazz,Dallas Mavericks,103,100,Vivint Smart Home Arena,18721,/boxscores/201612160UTA.html
+Sat Dec 17 2016,Oklahoma City Thunder,Phoenix Suns,114,101,Chesapeake Energy Arena,18203,/boxscores/201612170OKC.html
+Sat Dec 17 2016,Detroit Pistons,Indiana Pacers,90,105,The Palace of Auburn Hills,15231,/boxscores/201612170DET.html
+Sat Dec 17 2016,Atlanta Hawks,Charlotte Hornets,99,107,Philips Arena,17918,/boxscores/201612170ATL.html
+Sat Dec 17 2016,Cleveland Cavaliers,Los Angeles Lakers,119,108,Quicken Loans Arena,20562,/boxscores/201612170CLE.html
+Sat Dec 17 2016,Minnesota Timberwolves,Houston Rockets,109,111,Target Center,14689,/boxscores/201612170MIN.html
+Sat Dec 17 2016,Denver Nuggets,New York Knicks,127,114,Pepsi Center,12042,/boxscores/201612170DEN.html
+Sat Dec 17 2016,Golden State Warriors,Portland Trail Blazers,135,90,Oracle Arena,19596,/boxscores/201612170GSW.html
+Sun Dec 18 2016,Washington Wizards,Los Angeles Clippers,117,110,Verizon Center,17380,/boxscores/201612180WAS.html
+Sun Dec 18 2016,Dallas Mavericks,Sacramento Kings,99,79,American Airlines Center,19504,/boxscores/201612180DAL.html
+Sun Dec 18 2016,Memphis Grizzlies,Utah Jazz,73,82,FedEx Forum,15862,/boxscores/201612180MEM.html
+Sun Dec 18 2016,Miami Heat,Boston Celtics,95,105,AmericanAirlines Arena,19600,/boxscores/201612180MIA.html
+Sun Dec 18 2016,Orlando Magic,Toronto Raptors,79,109,Amway Center,17251,/boxscores/201612180ORL.html
+Sun Dec 18 2016,Philadelphia 76ers,Brooklyn Nets,108,107,Wells Fargo Center,16460,/boxscores/201612180PHI.html
+Sun Dec 18 2016,San Antonio Spurs,New Orleans Pelicans,113,100,AT&T Center,18615,/boxscores/201612180SAS.html
+Mon Dec 19 2016,Indiana Pacers,Washington Wizards,107,105,Bankers Life Fieldhouse,17686,/boxscores/201612190IND.html
+Mon Dec 19 2016,Chicago Bulls,Detroit Pistons,113,82,United Center,21400,/boxscores/201612190CHI.html
+Mon Dec 19 2016,Minnesota Timberwolves,Phoenix Suns,115,108,Target Center,12008,/boxscores/201612190MIN.html
+Mon Dec 19 2016,Oklahoma City Thunder,Atlanta Hawks,108,110,Chesapeake Energy Arena,18203,/boxscores/201612190OKC.html
+Mon Dec 19 2016,Denver Nuggets,Dallas Mavericks,117,107,Pepsi Center,12581,/boxscores/201612190DEN.html
+Tue Dec 20 2016,Charlotte Hornets,Los Angeles Lakers,117,113,Spectrum Center,19093,/boxscores/201612200CHO.html
+Tue Dec 20 2016,Philadelphia 76ers,New Orleans Pelicans,93,108,Wells Fargo Center,16322,/boxscores/201612200PHI.html
+Tue Dec 20 2016,Miami Heat,Orlando Magic,130,136,AmericanAirlines Arena,19600,/boxscores/201612200MIA.html
+Tue Dec 20 2016,New York Knicks,Indiana Pacers,118,111,Madison Square Garden (IV),19812,/boxscores/201612200NYK.html
+Tue Dec 20 2016,Toronto Raptors,Brooklyn Nets,116,104,Air Canada Centre,19800,/boxscores/201612200TOR.html
+Tue Dec 20 2016,Houston Rockets,San Antonio Spurs,100,102,Toyota Center,18055,/boxscores/201612200HOU.html
+Tue Dec 20 2016,Memphis Grizzlies,Boston Celtics,109,112,FedEx Forum,16519,/boxscores/201612200MEM.html
+Tue Dec 20 2016,Milwaukee Bucks,Cleveland Cavaliers,108,114,BMO Harris Bradley Center,17053,/boxscores/201612200MIL.html
+Tue Dec 20 2016,Golden State Warriors,Utah Jazz,104,74,Oracle Arena,19596,/boxscores/201612200GSW.html
+Tue Dec 20 2016,Los Angeles Clippers,Denver Nuggets,119,102,STAPLES Center,19060,/boxscores/201612200LAC.html
+Tue Dec 20 2016,Sacramento Kings,Portland Trail Blazers,126,121,Golden 1 Center,17608,/boxscores/201612200SAC.html
+Wed Dec 21 2016,Cleveland Cavaliers,Milwaukee Bucks,113,102,Quicken Loans Arena,20562,/boxscores/201612210CLE.html
+Wed Dec 21 2016,Atlanta Hawks,Minnesota Timberwolves,84,92,Philips Arena,17578,/boxscores/201612210ATL.html
+Wed Dec 21 2016,Detroit Pistons,Memphis Grizzlies,86,98,The Palace of Auburn Hills,16033,/boxscores/201612210DET.html
+Wed Dec 21 2016,Chicago Bulls,Washington Wizards,97,107,United Center,21358,/boxscores/201612210CHI.html
+Wed Dec 21 2016,New Orleans Pelicans,Oklahoma City Thunder,110,121,Smoothie King Center,16375,/boxscores/201612210NOP.html
+Wed Dec 21 2016,Phoenix Suns,Houston Rockets,111,125,Talking Stick Resort Arena,18055,/boxscores/201612210PHO.html
+Wed Dec 21 2016,Utah Jazz,Sacramento Kings,93,94,Vivint Smart Home Arena,19195,/boxscores/201612210UTA.html
+Wed Dec 21 2016,Portland Trail Blazers,Dallas Mavericks,95,96,Moda Center,19393,/boxscores/201612210POR.html
+Thu Dec 22 2016,Indiana Pacers,Boston Celtics,102,109,Bankers Life Fieldhouse,17577,/boxscores/201612220IND.html
+Thu Dec 22 2016,Brooklyn Nets,Golden State Warriors,101,117,Barclays Center,17732,/boxscores/201612220BRK.html
+Thu Dec 22 2016,New York Knicks,Orlando Magic,106,95,Madison Square Garden (IV),19812,/boxscores/201612220NYK.html
+Thu Dec 22 2016,Miami Heat,Los Angeles Lakers,115,107,AmericanAirlines Arena,19712,/boxscores/201612220MIA.html
+Thu Dec 22 2016,Los Angeles Clippers,San Antonio Spurs,106,101,STAPLES Center,19060,/boxscores/201612220LAC.html
+Fri Dec 23 2016,Charlotte Hornets,Chicago Bulls,103,91,Spectrum Center,19249,/boxscores/201612230CHO.html
+Fri Dec 23 2016,Orlando Magic,Los Angeles Lakers,109,90,Amway Center,18846,/boxscores/201612230ORL.html
+Fri Dec 23 2016,Boston Celtics,Oklahoma City Thunder,112,117,TD Garden,18624,/boxscores/201612230BOS.html
+Fri Dec 23 2016,Cleveland Cavaliers,Brooklyn Nets,119,99,Quicken Loans Arena,20562,/boxscores/201612230CLE.html
+Fri Dec 23 2016,Detroit Pistons,Golden State Warriors,113,119,The Palace of Auburn Hills,21012,/boxscores/201612230DET.html
+Fri Dec 23 2016,Memphis Grizzlies,Houston Rockets,115,109,FedEx Forum,17454,/boxscores/201612230MEM.html
+Fri Dec 23 2016,Milwaukee Bucks,Washington Wizards,123,96,BMO Harris Bradley Center,15921,/boxscores/201612230MIL.html
+Fri Dec 23 2016,Minnesota Timberwolves,Sacramento Kings,105,109,Target Center,13288,/boxscores/201612230MIN.html
+Fri Dec 23 2016,New Orleans Pelicans,Miami Heat,91,87,Smoothie King Center,16322,/boxscores/201612230NOP.html
+Fri Dec 23 2016,Denver Nuggets,Atlanta Hawks,108,109,Pepsi Center,13823,/boxscores/201612230DEN.html
+Fri Dec 23 2016,Phoenix Suns,Philadelphia 76ers,123,116,Talking Stick Resort Arena,16535,/boxscores/201612230PHO.html
+Fri Dec 23 2016,Utah Jazz,Toronto Raptors,98,104,Vivint Smart Home Arena,19911,/boxscores/201612230UTA.html
+Fri Dec 23 2016,Portland Trail Blazers,San Antonio Spurs,90,110,Moda Center,19393,/boxscores/201612230POR.html
+Fri Dec 23 2016,Los Angeles Clippers,Dallas Mavericks,88,90,STAPLES Center,19060,/boxscores/201612230LAC.html
+Sun Dec 25 2016,New York Knicks,Boston Celtics,114,119,Madison Square Garden (IV),19812,/boxscores/201612250NYK.html
+Sun Dec 25 2016,Cleveland Cavaliers,Golden State Warriors,109,108,Quicken Loans Arena,20562,/boxscores/201612250CLE.html
+Sun Dec 25 2016,San Antonio Spurs,Chicago Bulls,119,100,AT&T Center,18428,/boxscores/201612250SAS.html
+Sun Dec 25 2016,Oklahoma City Thunder,Minnesota Timberwolves,112,100,Chesapeake Energy Arena,18203,/boxscores/201612250OKC.html
+Sun Dec 25 2016,Los Angeles Lakers,Los Angeles Clippers,111,102,STAPLES Center,18997,/boxscores/201612250LAL.html
+Mon Dec 26 2016,Orlando Magic,Memphis Grizzlies,112,102,Amway Center,17104,/boxscores/201612260ORL.html
+Mon Dec 26 2016,Washington Wizards,Milwaukee Bucks,107,102,Verizon Center,15773,/boxscores/201612260WAS.html
+Mon Dec 26 2016,Brooklyn Nets,Charlotte Hornets,120,118,Barclays Center,17732,/boxscores/201612260BRK.html
+Mon Dec 26 2016,Detroit Pistons,Cleveland Cavaliers,106,90,The Palace of Auburn Hills,18123,/boxscores/201612260DET.html
+Mon Dec 26 2016,Chicago Bulls,Indiana Pacers,90,85,United Center,21922,/boxscores/201612260CHI.html
+Mon Dec 26 2016,Houston Rockets,Phoenix Suns,131,115,Toyota Center,18055,/boxscores/201612260HOU.html
+Mon Dec 26 2016,Minnesota Timberwolves,Atlanta Hawks,104,90,Target Center,15617,/boxscores/201612260MIN.html
+Mon Dec 26 2016,New Orleans Pelicans,Dallas Mavericks,111,104,Smoothie King Center,15764,/boxscores/201612260NOP.html
+Mon Dec 26 2016,Portland Trail Blazers,Toronto Raptors,91,95,Moda Center,19393,/boxscores/201612260POR.html
+Mon Dec 26 2016,Los Angeles Clippers,Denver Nuggets,102,106,STAPLES Center,19060,/boxscores/201612260LAC.html
+Mon Dec 26 2016,Sacramento Kings,Philadelphia 76ers,102,100,Golden 1 Center,17608,/boxscores/201612260SAC.html
+Tue Dec 27 2016,Boston Celtics,Memphis Grizzlies,113,103,TD Garden,18624,/boxscores/201612270BOS.html
+Tue Dec 27 2016,Miami Heat,Oklahoma City Thunder,94,106,AmericanAirlines Arena,19977,/boxscores/201612270MIA.html
+Tue Dec 27 2016,Dallas Mavericks,Houston Rockets,107,123,American Airlines Center,20425,/boxscores/201612270DAL.html
+Tue Dec 27 2016,Los Angeles Lakers,Utah Jazz,100,102,STAPLES Center,18997,/boxscores/201612270LAL.html
+Wed Dec 28 2016,Orlando Magic,Charlotte Hornets,101,120,Amway Center,18273,/boxscores/201612280ORL.html
+Wed Dec 28 2016,Washington Wizards,Indiana Pacers,111,105,Verizon Center,16172,/boxscores/201612280WAS.html
+Wed Dec 28 2016,Atlanta Hawks,New York Knicks,102,98,Philips Arena,19066,/boxscores/201612280ATL.html
+Wed Dec 28 2016,Detroit Pistons,Milwaukee Bucks,94,119,The Palace of Auburn Hills,17222,/boxscores/201612280DET.html
+Wed Dec 28 2016,Chicago Bulls,Brooklyn Nets,101,99,United Center,21957,/boxscores/201612280CHI.html
+Wed Dec 28 2016,New Orleans Pelicans,Los Angeles Clippers,102,98,Smoothie King Center,16647,/boxscores/201612280NOP.html
+Wed Dec 28 2016,San Antonio Spurs,Phoenix Suns,119,98,AT&T Center,18418,/boxscores/201612280SAS.html
+Wed Dec 28 2016,Denver Nuggets,Minnesota Timberwolves,105,103,Pepsi Center,15093,/boxscores/201612280DEN.html
+Wed Dec 28 2016,Portland Trail Blazers,Sacramento Kings,102,89,Moda Center,19665,/boxscores/201612280POR.html
+Wed Dec 28 2016,Golden State Warriors,Toronto Raptors,121,111,Oracle Arena,19596,/boxscores/201612280GSW.html
+Thu Dec 29 2016,Charlotte Hornets,Miami Heat,91,82,Spectrum Center,19471,/boxscores/201612290CHO.html
+Thu Dec 29 2016,Cleveland Cavaliers,Boston Celtics,124,118,Quicken Loans Arena,20562,/boxscores/201612290CLE.html
+Thu Dec 29 2016,Memphis Grizzlies,Oklahoma City Thunder,114,80,FedEx Forum,18119,/boxscores/201612290MEM.html
+Thu Dec 29 2016,Phoenix Suns,Toronto Raptors,99,91,Talking Stick Resort Arena,18055,/boxscores/201612290PHO.html
+Thu Dec 29 2016,Utah Jazz,Philadelphia 76ers,100,83,Vivint Smart Home Arena,19911,/boxscores/201612290UTA.html
+Thu Dec 29 2016,Los Angeles Lakers,Dallas Mavericks,89,101,STAPLES Center,18997,/boxscores/201612290LAL.html
+Fri Dec 30 2016,Indiana Pacers,Chicago Bulls,111,101,Bankers Life Fieldhouse,17923,/boxscores/201612300IND.html
+Fri Dec 30 2016,Washington Wizards,Brooklyn Nets,118,95,Verizon Center,16461,/boxscores/201612300WAS.html
+Fri Dec 30 2016,Boston Celtics,Miami Heat,117,114,TD Garden,18624,/boxscores/201612300BOS.html
+Fri Dec 30 2016,Atlanta Hawks,Detroit Pistons,105,98,Philips Arena,19009,/boxscores/201612300ATL.html
+Fri Dec 30 2016,Houston Rockets,Los Angeles Clippers,140,116,Toyota Center,18055,/boxscores/201612300HOU.html
+Fri Dec 30 2016,Minnesota Timberwolves,Milwaukee Bucks,116,99,Target Center,17779,/boxscores/201612300MIN.html
+Fri Dec 30 2016,New Orleans Pelicans,New York Knicks,104,92,Smoothie King Center,18124,/boxscores/201612300NOP.html
+Fri Dec 30 2016,San Antonio Spurs,Portland Trail Blazers,110,94,AT&T Center,18418,/boxscores/201612300SAS.html
+Fri Dec 30 2016,Denver Nuggets,Philadelphia 76ers,122,124,Pepsi Center,13619,/boxscores/201612300DEN.html
+Fri Dec 30 2016,Golden State Warriors,Dallas Mavericks,108,99,Oracle Arena,19596,/boxscores/201612300GSW.html
+Sat Dec 31 2016,Sacramento Kings,Memphis Grizzlies,98,112,Golden 1 Center,17608,/boxscores/201612310SAC.html
+Sat Dec 31 2016,Chicago Bulls,Milwaukee Bucks,96,116,United Center,21838,/boxscores/201612310CHI.html
+Sat Dec 31 2016,Charlotte Hornets,Cleveland Cavaliers,109,121,Spectrum Center,19519,/boxscores/201612310CHO.html
+Sat Dec 31 2016,Houston Rockets,New York Knicks,129,122,Toyota Center,18055,/boxscores/201612310HOU.html
+Sat Dec 31 2016,Oklahoma City Thunder,Los Angeles Clippers,114,88,Chesapeake Energy Arena,18203,/boxscores/201612310OKC.html
+Sat Dec 31 2016,Utah Jazz,Phoenix Suns,91,86,Vivint Smart Home Arena,19911,/boxscores/201612310UTA.html

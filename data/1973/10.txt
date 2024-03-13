@@ -1,0 +1,77 @@
+Tue Oct 10 1972,Chicago Bulls,Philadelphia 76ers,95,89,Chicago Stadium,0,/boxscores/197210100CHI.html
+Tue Oct 10 1972,Buffalo Braves,Atlanta Hawks,109,120,Buffalo Memorial Auditorium,0,/boxscores/197210100BUF.html
+Tue Oct 10 1972,New York Knicks,Seattle SuperSonics,113,89,Madison Square Garden (IV),0,/boxscores/197210100NYK.html
+Tue Oct 10 1972,Cleveland Cavaliers,Baltimore Bullets,90,102,Cleveland Arena,0,/boxscores/197210100CLE.html
+Wed Oct 11 1972,Detroit Pistons,Boston Celtics,108,121,Cobo Arena,0,/boxscores/197210110DET.html
+Wed Oct 11 1972,Philadelphia 76ers,Seattle SuperSonics,100,105,The Spectrum,0,/boxscores/197210110PHI.html
+Wed Oct 11 1972,Kansas City-Omaha Kings,Los Angeles Lakers,94,129,Omaha Civic Auditorium,0,/boxscores/197210110KCO.html
+Fri Oct 13 1972,Baltimore Bullets,Atlanta Hawks,115,98,Baltimore Civic Center,0,/boxscores/197210130BAL.html
+Fri Oct 13 1972,Boston Celtics,Los Angeles Lakers,112,104,Boston Garden,0,/boxscores/197210130BOS.html
+Fri Oct 13 1972,Cleveland Cavaliers,Houston Rockets,108,109,Cleveland Arena,0,/boxscores/197210130CLE.html
+Fri Oct 13 1972,Detroit Pistons,Chicago Bulls,100,91,Cobo Arena,0,/boxscores/197210130DET.html
+Fri Oct 13 1972,Philadelphia 76ers,Buffalo Braves,101,104,The Spectrum,0,/boxscores/197210130PHI.html
+Fri Oct 13 1972,Phoenix Suns,Milwaukee Bucks,105,117,Arizona Veterans Memorial Coliseum,0,/boxscores/197210130PHO.html
+Fri Oct 13 1972,Portland Trail Blazers,Seattle SuperSonics,84,92,Memorial Coliseum,0,/boxscores/197210130POR.html
+Sat Oct 14 1972,Buffalo Braves,Houston Rockets,113,121,Buffalo Memorial Auditorium,0,/boxscores/197210140BUF.html
+Sat Oct 14 1972,Chicago Bulls,Boston Celtics,88,96,Chicago Stadium,0,/boxscores/197210140CHI.html
+Sat Oct 14 1972,Golden State Warriors,Milwaukee Bucks,77,81,Oakland-Alameda County Coliseum Arena,0,/boxscores/197210140GSW.html
+Sat Oct 14 1972,Kansas City-Omaha Kings,Detroit Pistons,113,101,Municipal Auditorium,0,/boxscores/197210140KCO.html
+Sat Oct 14 1972,New York Knicks,Los Angeles Lakers,125,100,Madison Square Garden (IV),0,/boxscores/197210140NYK.html
+Sat Oct 14 1972,Portland Trail Blazers,Phoenix Suns,120,124,Memorial Coliseum,0,/boxscores/197210140POR.html
+Sun Oct 15 1972,Phoenix Suns,Baltimore Bullets,107,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197210150PHO.html
+Sun Oct 15 1972,Cleveland Cavaliers,Los Angeles Lakers,83,95,Cleveland Arena,0,/boxscores/197210150CLE.html
+Sun Oct 15 1972,Atlanta Hawks,New York Knicks,109,101,Omni Coliseum,0,/boxscores/197210150ATL.html
+Mon Oct 16 1972,Golden State Warriors,Baltimore Bullets,97,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197210160GSW.html
+Tue Oct 17 1972,Atlanta Hawks,Boston Celtics,115,119,Omni Coliseum,0,/boxscores/197210170ATL.html
+Tue Oct 17 1972,Buffalo Braves,Philadelphia 76ers,122,114,Buffalo Memorial Auditorium,0,/boxscores/197210170BUF.html
+Tue Oct 17 1972,New York Knicks,Houston Rockets,103,95,Madison Square Garden (IV),0,/boxscores/197210170NYK.html
+Tue Oct 17 1972,Portland Trail Blazers,Milwaukee Bucks,111,108,Memorial Coliseum,0,/boxscores/197210170POR.html
+Thu Oct 19 1972,Kansas City-Omaha Kings,Baltimore Bullets,83,94,Municipal Auditorium,0,/boxscores/197210190KCO.html
+Fri Oct 20 1972,Cleveland Cavaliers,New York Knicks,89,92,Cleveland Arena,0,/boxscores/197210200CLE.html
+Fri Oct 20 1972,Seattle SuperSonics,Golden State Warriors,92,101,Seattle Center Coliseum,0,/boxscores/197210200SEA.html
+Fri Oct 20 1972,Milwaukee Bucks,Detroit Pistons,109,86,Milwaukee Arena,0,/boxscores/197210200MIL.html
+Fri Oct 20 1972,Los Angeles Lakers,Portland Trail Blazers,126,104,The Forum,0,/boxscores/197210200LAL.html
+Fri Oct 20 1972,Houston Rockets,Atlanta Hawks,120,108,Hofheinz Pavilion,0,/boxscores/197210200HOU.html
+Fri Oct 20 1972,Boston Celtics,Buffalo Braves,126,118,Boston Garden,0,/boxscores/197210200BOS.html
+Sat Oct 21 1972,Portland Trail Blazers,Golden State Warriors,97,104,Memorial Coliseum,0,/boxscores/197210210POR.html
+Sat Oct 21 1972,Phoenix Suns,Seattle SuperSonics,129,117,Arizona Veterans Memorial Coliseum,0,/boxscores/197210210PHO.html
+Sat Oct 21 1972,New York Knicks,Philadelphia 76ers,111,88,Madison Square Garden (IV),0,/boxscores/197210210NYK.html
+Sat Oct 21 1972,Houston Rockets,Chicago Bulls,97,130,Hofheinz Pavilion,0,/boxscores/197210210HOU.html
+Sat Oct 21 1972,Detroit Pistons,Cleveland Cavaliers,103,96,Cobo Arena,0,/boxscores/197210210DET.html
+Sat Oct 21 1972,Kansas City-Omaha Kings,Atlanta Hawks,108,101,Municipal Auditorium,0,/boxscores/197210210KCO.html
+Sat Oct 21 1972,Baltimore Bullets,Boston Celtics,101,104,Baltimore Civic Center,0,/boxscores/197210210BAL.html
+Sat Oct 21 1972,Buffalo Braves,Milwaukee Bucks,63,91,Buffalo Memorial Auditorium,0,/boxscores/197210210BUF.html
+Sun Oct 22 1972,Cleveland Cavaliers,Milwaukee Bucks,84,104,Cleveland Arena,0,/boxscores/197210220CLE.html
+Sun Oct 22 1972,Los Angeles Lakers,Chicago Bulls,104,99,The Forum,0,/boxscores/197210220LAL.html
+Sun Oct 22 1972,Seattle SuperSonics,Portland Trail Blazers,120,119,Seattle Center Coliseum,0,/boxscores/197210220SEA.html
+Mon Oct 23 1972,Boston Celtics,Philadelphia 76ers,105,85,Boston Garden,0,/boxscores/197210230BOS.html
+Tue Oct 24 1972,Buffalo Braves,Boston Celtics,97,105,Buffalo Memorial Auditorium,0,/boxscores/197210240BUF.html
+Tue Oct 24 1972,Kansas City-Omaha Kings,Los Angeles Lakers,94,114,Municipal Auditorium,0,/boxscores/197210240KCO.html
+Tue Oct 24 1972,New York Knicks,Cleveland Cavaliers,123,90,Madison Square Garden (IV),0,/boxscores/197210240NYK.html
+Tue Oct 24 1972,Phoenix Suns,Chicago Bulls,106,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197210240PHO.html
+Tue Oct 24 1972,Portland Trail Blazers,Atlanta Hawks,110,118,Memorial Coliseum,0,/boxscores/197210240POR.html
+Wed Oct 25 1972,Detroit Pistons,Baltimore Bullets,105,115,Cobo Arena,0,/boxscores/197210250DET.html
+Wed Oct 25 1972,Houston Rockets,Los Angeles Lakers,107,112,HemisFair Arena,0,/boxscores/197210250HOU.html
+Wed Oct 25 1972,Milwaukee Bucks,Buffalo Braves,109,92,Milwaukee Arena,0,/boxscores/197210250MIL.html
+Wed Oct 25 1972,Philadelphia 76ers,Cleveland Cavaliers,108,113,The Spectrum,0,/boxscores/197210250PHI.html
+Wed Oct 25 1972,Seattle SuperSonics,Atlanta Hawks,115,118,Seattle Center Coliseum,0,/boxscores/197210250SEA.html
+Thu Oct 26 1972,Kansas City-Omaha Kings,Milwaukee Bucks,107,114,Municipal Auditorium,0,/boxscores/197210260KCO.html
+Thu Oct 26 1972,Golden State Warriors,Chicago Bulls,93,94,Oakland-Alameda County Coliseum Arena,0,/boxscores/197210260GSW.html
+Fri Oct 27 1972,Baltimore Bullets,New York Knicks,88,92,Baltimore Civic Center,0,/boxscores/197210270BAL.html
+Fri Oct 27 1972,Boston Celtics,Cleveland Cavaliers,123,97,Boston Garden,0,/boxscores/197210270BOS.html
+Fri Oct 27 1972,Houston Rockets,Detroit Pistons,130,118,Hofheinz Pavilion,0,/boxscores/197210270HOU.html
+Fri Oct 27 1972,Los Angeles Lakers,Golden State Warriors,91,119,The Forum,0,/boxscores/197210270LAL.html
+Fri Oct 27 1972,Portland Trail Blazers,Chicago Bulls,95,118,Memorial Coliseum,0,/boxscores/197210270POR.html
+Fri Oct 27 1972,Seattle SuperSonics,Phoenix Suns,120,115,Seattle Center Coliseum,0,/boxscores/197210270SEA.html
+Sat Oct 28 1972,New York Knicks,Baltimore Bullets,94,90,Madison Square Garden (IV),0,/boxscores/197210280NYK.html
+Sat Oct 28 1972,Philadelphia 76ers,Milwaukee Bucks,92,96,The Spectrum,0,/boxscores/197210280PHI.html
+Sat Oct 28 1972,Golden State Warriors,Atlanta Hawks,122,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197210280GSW.html
+Sat Oct 28 1972,Buffalo Braves,Kansas City-Omaha Kings,102,113,Buffalo Memorial Auditorium,0,/boxscores/197210280BUF.html
+Sun Oct 29 1972,Cleveland Cavaliers,Kansas City-Omaha Kings,115,97,Cleveland Arena,0,/boxscores/197210290CLE.html
+Sun Oct 29 1972,Los Angeles Lakers,Phoenix Suns,133,123,The Forum,0,/boxscores/197210290LAL.html
+Sun Oct 29 1972,Portland Trail Blazers,Detroit Pistons,111,119,Memorial Coliseum,0,/boxscores/197210290POR.html
+Sun Oct 29 1972,Seattle SuperSonics,Chicago Bulls,94,95,Seattle Center Coliseum,0,/boxscores/197210290SEA.html
+Tue Oct 31 1972,Atlanta Hawks,Houston Rockets,105,106,Omni Coliseum,0,/boxscores/197210310ATL.html
+Tue Oct 31 1972,Chicago Bulls,Kansas City-Omaha Kings,104,95,Chicago Stadium,0,/boxscores/197210310CHI.html
+Tue Oct 31 1972,Cleveland Cavaliers,Philadelphia 76ers,126,116,Cleveland Arena,0,/boxscores/197210310CLE.html
+Tue Oct 31 1972,Golden State Warriors,Detroit Pistons,112,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197210310GSW.html

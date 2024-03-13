@@ -1,0 +1,36 @@
+Tue Sep 1 2020,Toronto Raptors,Boston Celtics,99,102,HP Field House,0,/boxscores/202009010TOR.html
+Tue Sep 1 2020,Denver Nuggets,Utah Jazz,80,78,The Arena,0,/boxscores/202009010DEN.html
+Wed Sep 2 2020,Milwaukee Bucks,Miami Heat,114,116,HP Field House,0,/boxscores/202009020MIL.html
+Wed Sep 2 2020,Houston Rockets,Oklahoma City Thunder,104,102,The Arena,0,/boxscores/202009020HOU.html
+Thu Sep 3 2020,Boston Celtics,Toronto Raptors,103,104,HP Field House,0,/boxscores/202009030BOS.html
+Thu Sep 3 2020,Los Angeles Clippers,Denver Nuggets,120,97,The Arena,0,/boxscores/202009030LAC.html
+Fri Sep 4 2020,Miami Heat,Milwaukee Bucks,115,100,HP Field House,0,/boxscores/202009040MIA.html
+Fri Sep 4 2020,Los Angeles Lakers,Houston Rockets,97,112,The Arena,0,/boxscores/202009040LAL.html
+Sat Sep 5 2020,Boston Celtics,Toronto Raptors,93,100,HP Field House,0,/boxscores/202009050BOS.html
+Sat Sep 5 2020,Los Angeles Clippers,Denver Nuggets,101,110,The Arena,0,/boxscores/202009050LAC.html
+Sun Sep 6 2020,Miami Heat,Milwaukee Bucks,115,118,The Arena,0,/boxscores/202009060MIA.html
+Sun Sep 6 2020,Los Angeles Lakers,Houston Rockets,117,109,The Arena,0,/boxscores/202009060LAL.html
+Mon Sep 7 2020,Toronto Raptors,Boston Celtics,89,111,HP Field House,0,/boxscores/202009070TOR.html
+Mon Sep 7 2020,Denver Nuggets,Los Angeles Clippers,107,113,The Arena,0,/boxscores/202009070DEN.html
+Tue Sep 8 2020,Milwaukee Bucks,Miami Heat,94,103,HP Field House,0,/boxscores/202009080MIL.html
+Tue Sep 8 2020,Houston Rockets,Los Angeles Lakers,102,112,The Arena,0,/boxscores/202009080HOU.html
+Wed Sep 9 2020,Boston Celtics,Toronto Raptors,122,125,HP Field House,0,/boxscores/202009090BOS.html
+Wed Sep 9 2020,Denver Nuggets,Los Angeles Clippers,85,96,The Arena,0,/boxscores/202009090DEN.html
+Thu Sep 10 2020,Houston Rockets,Los Angeles Lakers,100,110,The Arena,0,/boxscores/202009100HOU.html
+Fri Sep 11 2020,Los Angeles Clippers,Denver Nuggets,105,111,HP Field House,0,/boxscores/202009110LAC.html
+Fri Sep 11 2020,Toronto Raptors,Boston Celtics,87,92,The Arena,0,/boxscores/202009110TOR.html
+Sat Sep 12 2020,Los Angeles Lakers,Houston Rockets,119,96,The Arena,0,/boxscores/202009120LAL.html
+Sun Sep 13 2020,Denver Nuggets,Los Angeles Clippers,111,98,The Arena,0,/boxscores/202009130DEN.html
+Tue Sep 15 2020,Boston Celtics,Miami Heat,114,117,HP Field House,0,/boxscores/202009150BOS.html
+Tue Sep 15 2020,Los Angeles Clippers,Denver Nuggets,89,104,The Arena,0,/boxscores/202009150LAC.html
+Thu Sep 17 2020,Boston Celtics,Miami Heat,101,106,The Arena,0,/boxscores/202009170BOS.html
+Fri Sep 18 2020,Los Angeles Lakers,Denver Nuggets,126,114,The Arena,0,/boxscores/202009180LAL.html
+Sat Sep 19 2020,Miami Heat,Boston Celtics,106,117,The Arena,0,/boxscores/202009190MIA.html
+Sun Sep 20 2020,Los Angeles Lakers,Denver Nuggets,105,103,The Arena,0,/boxscores/202009200LAL.html
+Tue Sep 22 2020,Denver Nuggets,Los Angeles Lakers,114,106,The Arena,0,/boxscores/202009220DEN.html
+Wed Sep 23 2020,Miami Heat,Boston Celtics,112,109,The Arena,0,/boxscores/202009230MIA.html
+Thu Sep 24 2020,Denver Nuggets,Los Angeles Lakers,108,114,The Arena,0,/boxscores/202009240DEN.html
+Fri Sep 25 2020,Boston Celtics,Miami Heat,121,108,The Arena,0,/boxscores/202009250BOS.html
+Sat Sep 26 2020,Los Angeles Lakers,Denver Nuggets,117,107,The Arena,0,/boxscores/202009260LAL.html
+Sun Sep 27 2020,Miami Heat,Boston Celtics,125,113,The Arena,0,/boxscores/202009270MIA.html
+Wed Sep 30 2020,Los Angeles Lakers,Miami Heat,116,98,The Arena,0,/boxscores/202009300LAL.html

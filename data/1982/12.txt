@@ -1,0 +1,165 @@
+Tue Dec 1 1981,Atlanta Hawks,Philadelphia 76ers,98,107,Omni Coliseum,11411,/boxscores/198112010ATL.html
+Tue Dec 1 1981,Cleveland Cavaliers,Milwaukee Bucks,110,126,Coliseum at Richfield,4076,/boxscores/198112010CLE.html
+Tue Dec 1 1981,Denver Nuggets,Portland Trail Blazers,113,121,McNichols Sports Arena,6791,/boxscores/198112010DEN.html
+Tue Dec 1 1981,Houston Rockets,Kansas City Kings,104,106,The Summit,10127,/boxscores/198112010HOU.html
+Tue Dec 1 1981,Indiana Pacers,Boston Celtics,90,87,Market Square Arena,12634,/boxscores/198112010IND.html
+Tue Dec 1 1981,Los Angeles Lakers,Utah Jazz,117,86,The Forum,11384,/boxscores/198112010LAL.html
+Tue Dec 1 1981,New York Knicks,Detroit Pistons,112,100,Madison Square Garden (IV),9578,/boxscores/198112010NYK.html
+Tue Dec 1 1981,Phoenix Suns,San Diego Clippers,117,94,Arizona Veterans Memorial Coliseum,10087,/boxscores/198112010PHO.html
+Tue Dec 1 1981,Seattle SuperSonics,Chicago Bulls,103,87,Seattle Kingdome,10472,/boxscores/198112010SEA.html
+Tue Dec 1 1981,Washington Bullets,San Antonio Spurs,99,110,Capital Centre,5583,/boxscores/198112010WSB.html
+Wed Dec 2 1981,Boston Celtics,Detroit Pistons,115,114,Boston Garden,15320,/boxscores/198112020BOS.html
+Wed Dec 2 1981,Golden State Warriors,Chicago Bulls,120,119,Oakland-Alameda County Coliseum Arena,8202,/boxscores/198112020GSW.html
+Wed Dec 2 1981,Kansas City Kings,Portland Trail Blazers,107,112,Kemper Arena,8385,/boxscores/198112020KCK.html
+Wed Dec 2 1981,New Jersey Nets,Cleveland Cavaliers,125,106,Brendan Byrne Arena,12261,/boxscores/198112020NJN.html
+Wed Dec 2 1981,Philadelphia 76ers,San Antonio Spurs,101,106,The Spectrum,15016,/boxscores/198112020PHI.html
+Wed Dec 2 1981,Seattle SuperSonics,Los Angeles Lakers,104,96,Seattle Kingdome,20021,/boxscores/198112020SEA.html
+Wed Dec 2 1981,Utah Jazz,Dallas Mavericks,114,103,Salt Palace,5257,/boxscores/198112020UTA.html
+Thu Dec 3 1981,New York Knicks,Washington Bullets,88,114,Madison Square Garden (IV),8350,/boxscores/198112030NYK.html
+Thu Dec 3 1981,Phoenix Suns,Denver Nuggets,137,109,Arizona Veterans Memorial Coliseum,10165,/boxscores/198112030PHO.html
+Thu Dec 3 1981,San Diego Clippers,Dallas Mavericks,113,111,San Diego Sports Arena,3293,/boxscores/198112030SDC.html
+Fri Dec 4 1981,Boston Celtics,Philadelphia 76ers,111,103,Boston Garden,15320,/boxscores/198112040BOS.html
+Fri Dec 4 1981,Denver Nuggets,Los Angeles Lakers,117,126,McNichols Sports Arena,14562,/boxscores/198112040DEN.html
+Fri Dec 4 1981,Indiana Pacers,Detroit Pistons,105,95,Market Square Arena,15410,/boxscores/198112040IND.html
+Fri Dec 4 1981,Kansas City Kings,Seattle SuperSonics,112,109,Kemper Arena,7128,/boxscores/198112040KCK.html
+Fri Dec 4 1981,Milwaukee Bucks,Atlanta Hawks,97,80,MECCA Arena,10302,/boxscores/198112040MIL.html
+Fri Dec 4 1981,San Antonio Spurs,Portland Trail Blazers,127,111,HemisFair Arena,10472,/boxscores/198112040SAS.html
+Fri Dec 4 1981,Utah Jazz,Chicago Bulls,101,105,Salt Palace,5480,/boxscores/198112040UTA.html
+Sat Dec 5 1981,Atlanta Hawks,Seattle SuperSonics,85,92,Omni Coliseum,6213,/boxscores/198112050ATL.html
+Sat Dec 5 1981,Dallas Mavericks,Denver Nuggets,109,105,Reunion Arena,7620,/boxscores/198112050DAL.html
+Sat Dec 5 1981,Detroit Pistons,Milwaukee Bucks,108,111,Pontiac Silverdome,15289,/boxscores/198112050DET.html
+Sat Dec 5 1981,Golden State Warriors,San Diego Clippers,138,113,Oakland-Alameda County Coliseum Arena,8503,/boxscores/198112050GSW.html
+Sat Dec 5 1981,Houston Rockets,Portland Trail Blazers,110,98,The Summit,10067,/boxscores/198112050HOU.html
+Sat Dec 5 1981,New Jersey Nets,Philadelphia 76ers,105,114,Brendan Byrne Arena,15826,/boxscores/198112050NJN.html
+Sat Dec 5 1981,New York Knicks,Boston Celtics,103,83,Madison Square Garden (IV),18891,/boxscores/198112050NYK.html
+Sat Dec 5 1981,Phoenix Suns,Utah Jazz,101,99,Arizona Veterans Memorial Coliseum,10550,/boxscores/198112050PHO.html
+Sat Dec 5 1981,Washington Bullets,Cleveland Cavaliers,94,87,Capital Centre,5798,/boxscores/198112050WSB.html
+Sun Dec 6 1981,Los Angeles Lakers,Kansas City Kings,119,106,The Forum,15321,/boxscores/198112060LAL.html
+Tue Dec 8 1981,Atlanta Hawks,New Jersey Nets,88,98,Omni Coliseum,4805,/boxscores/198112080ATL.html
+Tue Dec 8 1981,Chicago Bulls,Indiana Pacers,118,116,Chicago Stadium,6676,/boxscores/198112080CHI.html
+Tue Dec 8 1981,Dallas Mavericks,Utah Jazz,128,103,Reunion Arena,6895,/boxscores/198112080DAL.html
+Tue Dec 8 1981,Houston Rockets,Seattle SuperSonics,96,107,The Summit,9166,/boxscores/198112080HOU.html
+Tue Dec 8 1981,Los Angeles Lakers,Washington Bullets,102,98,The Forum,10459,/boxscores/198112080LAL.html
+Tue Dec 8 1981,New York Knicks,Denver Nuggets,135,122,Madison Square Garden (IV),9299,/boxscores/198112080NYK.html
+Tue Dec 8 1981,Portland Trail Blazers,Golden State Warriors,108,122,Memorial Coliseum,12666,/boxscores/198112080POR.html
+Tue Dec 8 1981,San Diego Clippers,Phoenix Suns,121,110,San Diego Sports Arena,4459,/boxscores/198112080SDC.html
+Wed Dec 9 1981,Boston Celtics,New Jersey Nets,109,100,Boston Garden,15320,/boxscores/198112090BOS.html
+Wed Dec 9 1981,Cleveland Cavaliers,Atlanta Hawks,112,108,Coliseum at Richfield,3144,/boxscores/198112090CLE.html
+Wed Dec 9 1981,Golden State Warriors,Phoenix Suns,134,127,Oakland-Alameda County Coliseum Arena,8785,/boxscores/198112090GSW.html
+Wed Dec 9 1981,Indiana Pacers,Utah Jazz,113,77,Market Square Arena,5511,/boxscores/198112090IND.html
+Wed Dec 9 1981,Kansas City Kings,Dallas Mavericks,113,109,Kemper Arena,6564,/boxscores/198112090KCK.html
+Wed Dec 9 1981,Milwaukee Bucks,Houston Rockets,89,83,MECCA Arena,10960,/boxscores/198112090MIL.html
+Wed Dec 9 1981,Philadelphia 76ers,Denver Nuggets,137,109,The Spectrum,10896,/boxscores/198112090PHI.html
+Wed Dec 9 1981,San Antonio Spurs,Seattle SuperSonics,110,99,HemisFair Arena,8334,/boxscores/198112090SAS.html
+Thu Dec 10 1981,Detroit Pistons,New York Knicks,101,106,Pontiac Silverdome,5084,/boxscores/198112100DET.html
+Thu Dec 10 1981,Phoenix Suns,Portland Trail Blazers,117,110,Arizona Veterans Memorial Coliseum,10842,/boxscores/198112100PHO.html
+Fri Dec 11 1981,Boston Celtics,Atlanta Hawks,94,86,Hartford Civic Center,13369,/boxscores/198112110BOS.html
+Fri Dec 11 1981,Chicago Bulls,Houston Rockets,118,105,Chicago Stadium,8584,/boxscores/198112110CHI.html
+Fri Dec 11 1981,Dallas Mavericks,San Antonio Spurs,99,101,Reunion Arena,7788,/boxscores/198112110DAL.html
+Fri Dec 11 1981,Los Angeles Lakers,Portland Trail Blazers,124,116,The Forum,15658,/boxscores/198112110LAL.html
+Fri Dec 11 1981,Milwaukee Bucks,Indiana Pacers,103,100,MECCA Arena,10782,/boxscores/198112110MIL.html
+Fri Dec 11 1981,New Jersey Nets,Denver Nuggets,131,123,Brendan Byrne Arena,13421,/boxscores/198112110NJN.html
+Fri Dec 11 1981,Philadelphia 76ers,Cleveland Cavaliers,131,113,The Spectrum,10365,/boxscores/198112110PHI.html
+Fri Dec 11 1981,San Diego Clippers,Washington Bullets,102,106,San Diego Sports Arena,5157,/boxscores/198112110SDC.html
+Fri Dec 11 1981,Utah Jazz,Kansas City Kings,122,102,Salt Palace,6336,/boxscores/198112110UTA.html
+Sat Dec 12 1981,Atlanta Hawks,Boston Celtics,108,97,Omni Coliseum,9621,/boxscores/198112120ATL.html
+Sat Dec 12 1981,Chicago Bulls,Philadelphia 76ers,114,117,Chicago Stadium,18849,/boxscores/198112120CHI.html
+Sat Dec 12 1981,Cleveland Cavaliers,Denver Nuggets,115,120,Coliseum at Richfield,6549,/boxscores/198112120CLE.html
+Sat Dec 12 1981,Golden State Warriors,Kansas City Kings,98,96,Oakland-Alameda County Coliseum Arena,8973,/boxscores/198112120GSW.html
+Sat Dec 12 1981,Houston Rockets,Dallas Mavericks,101,97,The Summit,8139,/boxscores/198112120HOU.html
+Sat Dec 12 1981,Indiana Pacers,New Jersey Nets,101,88,Market Square Arena,6669,/boxscores/198112120IND.html
+Sat Dec 12 1981,New York Knicks,Milwaukee Bucks,86,104,Madison Square Garden (IV),17608,/boxscores/198112120NYK.html
+Sat Dec 12 1981,Phoenix Suns,Washington Bullets,98,105,Arizona Veterans Memorial Coliseum,10482,/boxscores/198112120PHO.html
+Sat Dec 12 1981,San Antonio Spurs,Utah Jazz,111,97,HemisFair Arena,9842,/boxscores/198112120SAS.html
+Sat Dec 12 1981,Seattle SuperSonics,Detroit Pistons,117,111,Seattle Kingdome,13880,/boxscores/198112120SEA.html
+Sun Dec 13 1981,Los Angeles Lakers,Golden State Warriors,122,118,The Forum,13103,/boxscores/198112130LAL.html
+Sun Dec 13 1981,Milwaukee Bucks,Philadelphia 76ers,127,108,MECCA Arena,11052,/boxscores/198112130MIL.html
+Sun Dec 13 1981,Portland Trail Blazers,Detroit Pistons,105,99,Memorial Coliseum,12666,/boxscores/198112130POR.html
+Sun Dec 13 1981,Seattle SuperSonics,San Diego Clippers,98,74,Seattle Kingdome,11036,/boxscores/198112130SEA.html
+Tue Dec 15 1981,Atlanta Hawks,New York Knicks,111,98,Omni Coliseum,5401,/boxscores/198112150ATL.html
+Tue Dec 15 1981,Chicago Bulls,Cleveland Cavaliers,98,89,Chicago Stadium,5887,/boxscores/198112150CHI.html
+Tue Dec 15 1981,Denver Nuggets,Seattle SuperSonics,120,126,McNichols Sports Arena,0,/boxscores/198112150DEN.html
+Tue Dec 15 1981,Golden State Warriors,Detroit Pistons,104,108,Oakland-Alameda County Coliseum Arena,6568,/boxscores/198112150GSW.html
+Tue Dec 15 1981,Houston Rockets,Phoenix Suns,99,95,The Summit,9213,/boxscores/198112150HOU.html
+Tue Dec 15 1981,Indiana Pacers,Milwaukee Bucks,96,104,Market Square Arena,6722,/boxscores/198112150IND.html
+Tue Dec 15 1981,Portland Trail Blazers,San Diego Clippers,118,101,Memorial Coliseum,12666,/boxscores/198112150POR.html
+Tue Dec 15 1981,Utah Jazz,San Antonio Spurs,108,103,Salt Palace,0,/boxscores/198112150UTA.html
+Tue Dec 15 1981,Washington Bullets,Dallas Mavericks,102,107,Capital Centre,3618,/boxscores/198112150WSB.html
+Wed Dec 16 1981,Boston Celtics,Dallas Mavericks,109,92,Boston Garden,15320,/boxscores/198112160BOS.html
+Wed Dec 16 1981,Cleveland Cavaliers,Washington Bullets,102,106,Coliseum at Richfield,4357,/boxscores/198112160CLE.html
+Wed Dec 16 1981,Kansas City Kings,Phoenix Suns,97,81,Kemper Arena,6899,/boxscores/198112160KCK.html
+Wed Dec 16 1981,New Jersey Nets,Chicago Bulls,97,98,Brendan Byrne Arena,11221,/boxscores/198112160NJN.html
+Wed Dec 16 1981,Philadelphia 76ers,New York Knicks,115,117,The Spectrum,10288,/boxscores/198112160PHI.html
+Thu Dec 17 1981,Denver Nuggets,Atlanta Hawks,138,103,McNichols Sports Arena,7198,/boxscores/198112170DEN.html
+Thu Dec 17 1981,Detroit Pistons,Indiana Pacers,96,100,Pontiac Silverdome,3542,/boxscores/198112170DET.html
+Thu Dec 17 1981,Golden State Warriors,Los Angeles Lakers,120,115,Oakland-Alameda County Coliseum Arena,13239,/boxscores/198112170GSW.html
+Thu Dec 17 1981,San Diego Clippers,Seattle SuperSonics,92,106,San Diego Sports Arena,3912,/boxscores/198112170SDC.html
+Fri Dec 18 1981,Dallas Mavericks,Houston Rockets,93,112,Reunion Arena,7232,/boxscores/198112180DAL.html
+Fri Dec 18 1981,Indiana Pacers,Cleveland Cavaliers,109,73,Market Square Arena,4942,/boxscores/198112180IND.html
+Fri Dec 18 1981,Kansas City Kings,Utah Jazz,100,95,Kemper Arena,9914,/boxscores/198112180KCK.html
+Fri Dec 18 1981,Milwaukee Bucks,New Jersey Nets,88,100,MECCA Arena,10006,/boxscores/198112180MIL.html
+Fri Dec 18 1981,New York Knicks,Chicago Bulls,121,106,Madison Square Garden (IV),10848,/boxscores/198112180NYK.html
+Fri Dec 18 1981,San Antonio Spurs,Phoenix Suns,104,108,HemisFair Arena,10805,/boxscores/198112180SAS.html
+Fri Dec 18 1981,Washington Bullets,Boston Celtics,98,99,Capital Centre,11413,/boxscores/198112180WSB.html
+Sat Dec 19 1981,Cleveland Cavaliers,New Jersey Nets,107,119,Coliseum at Richfield,2767,/boxscores/198112190CLE.html
+Sat Dec 19 1981,Dallas Mavericks,Portland Trail Blazers,102,95,Reunion Arena,6564,/boxscores/198112190DAL.html
+Sat Dec 19 1981,Denver Nuggets,San Antonio Spurs,138,125,McNichols Sports Arena,7391,/boxscores/198112190DEN.html
+Sat Dec 19 1981,Detroit Pistons,New York Knicks,132,104,Pontiac Silverdome,5679,/boxscores/198112190DET.html
+Sat Dec 19 1981,Golden State Warriors,Atlanta Hawks,126,109,Oakland-Alameda County Coliseum Arena,6870,/boxscores/198112190GSW.html
+Sat Dec 19 1981,Houston Rockets,Chicago Bulls,102,95,The Summit,8754,/boxscores/198112190HOU.html
+Sat Dec 19 1981,Philadelphia 76ers,Boston Celtics,123,118,The Spectrum,18364,/boxscores/198112190PHI.html
+Sat Dec 19 1981,Phoenix Suns,Kansas City Kings,95,87,Arizona Veterans Memorial Coliseum,11257,/boxscores/198112190PHO.html
+Sat Dec 19 1981,San Diego Clippers,Los Angeles Lakers,100,106,San Diego Sports Arena,6563,/boxscores/198112190SDC.html
+Sat Dec 19 1981,Utah Jazz,Seattle SuperSonics,103,115,Salt Palace,8728,/boxscores/198112190UTA.html
+Sun Dec 20 1981,Los Angeles Lakers,Atlanta Hawks,112,94,The Forum,12460,/boxscores/198112200LAL.html
+Tue Dec 22 1981,Boston Celtics,Cleveland Cavaliers,120,116,Boston Garden,15320,/boxscores/198112220BOS.html
+Tue Dec 22 1981,Chicago Bulls,Washington Bullets,92,90,Chicago Stadium,8784,/boxscores/198112220CHI.html
+Tue Dec 22 1981,Dallas Mavericks,Detroit Pistons,98,106,Reunion Arena,7978,/boxscores/198112220DAL.html
+Tue Dec 22 1981,Houston Rockets,Denver Nuggets,109,121,The Summit,9579,/boxscores/198112220HOU.html
+Tue Dec 22 1981,Indiana Pacers,Atlanta Hawks,92,88,Market Square Arena,5882,/boxscores/198112220IND.html
+Tue Dec 22 1981,Milwaukee Bucks,Kansas City Kings,101,106,MECCA Arena,10988,/boxscores/198112220MIL.html
+Tue Dec 22 1981,New York Knicks,Philadelphia 76ers,105,112,Madison Square Garden (IV),15958,/boxscores/198112220NYK.html
+Tue Dec 22 1981,Portland Trail Blazers,Los Angeles Lakers,110,124,Memorial Coliseum,12666,/boxscores/198112220POR.html
+Wed Dec 23 1981,Cleveland Cavaliers,Kansas City Kings,114,95,Coliseum at Richfield,2843,/boxscores/198112230CLE.html
+Wed Dec 23 1981,Denver Nuggets,Detroit Pistons,119,124,McNichols Sports Arena,11340,/boxscores/198112230DEN.html
+Wed Dec 23 1981,New Jersey Nets,New York Knicks,115,99,Brendan Byrne Arena,14823,/boxscores/198112230NJN.html
+Wed Dec 23 1981,Phoenix Suns,Golden State Warriors,118,103,Arizona Veterans Memorial Coliseum,10623,/boxscores/198112230PHO.html
+Wed Dec 23 1981,San Diego Clippers,San Antonio Spurs,109,114,San Diego Sports Arena,4072,/boxscores/198112230SDC.html
+Wed Dec 23 1981,Seattle SuperSonics,Utah Jazz,113,99,Seattle Kingdome,13741,/boxscores/198112230SEA.html
+Fri Dec 25 1981,New York Knicks,New Jersey Nets,95,96,Madison Square Garden (IV),10701,/boxscores/198112250NYK.html
+Fri Dec 25 1981,Phoenix Suns,Los Angeles Lakers,101,104,Arizona Veterans Memorial Coliseum,14056,/boxscores/198112250PHO.html
+Fri Dec 25 1981,Portland Trail Blazers,Seattle SuperSonics,99,94,Memorial Coliseum,12666,/boxscores/198112250POR.html
+Fri Dec 25 1981,Washington Bullets,Indiana Pacers,115,98,Capital Centre,8489,/boxscores/198112250WSB.html
+Sat Dec 26 1981,Cleveland Cavaliers,Milwaukee Bucks,102,109,Coliseum at Richfield,6126,/boxscores/198112260CLE.html
+Sat Dec 26 1981,Dallas Mavericks,Denver Nuggets,117,124,Reunion Arena,9580,/boxscores/198112260DAL.html
+Sat Dec 26 1981,Detroit Pistons,Chicago Bulls,96,94,Pontiac Silverdome,10092,/boxscores/198112260DET.html
+Sat Dec 26 1981,Golden State Warriors,Phoenix Suns,112,96,Oakland-Alameda County Coliseum Arena,11203,/boxscores/198112260GSW.html
+Sat Dec 26 1981,Indiana Pacers,New York Knicks,106,112,Market Square Arena,7271,/boxscores/198112260IND.html
+Sat Dec 26 1981,Kansas City Kings,Boston Celtics,119,124,Kemper Arena,14599,/boxscores/198112260KCK.html
+Sat Dec 26 1981,New Jersey Nets,Washington Bullets,90,105,Brendan Byrne Arena,11251,/boxscores/198112260NJN.html
+Sat Dec 26 1981,San Antonio Spurs,Atlanta Hawks,97,105,HemisFair Arena,12257,/boxscores/198112260SAS.html
+Sat Dec 26 1981,San Diego Clippers,Portland Trail Blazers,116,128,San Diego Sports Arena,3483,/boxscores/198112260SDC.html
+Sat Dec 26 1981,Utah Jazz,Houston Rockets,104,115,Salt Palace,9013,/boxscores/198112260UTA.html
+Sun Dec 27 1981,Los Angeles Lakers,San Diego Clippers,139,117,The Forum,14951,/boxscores/198112270LAL.html
+Sun Dec 27 1981,Milwaukee Bucks,Chicago Bulls,108,96,MECCA Arena,11052,/boxscores/198112270MIL.html
+Sun Dec 27 1981,Phoenix Suns,Philadelphia 76ers,99,96,Arizona Veterans Memorial Coliseum,14660,/boxscores/198112270PHO.html
+Mon Dec 28 1981,New Jersey Nets,Indiana Pacers,95,103,Brendan Byrne Arena,11306,/boxscores/198112280NJN.html
+Mon Dec 28 1981,Seattle SuperSonics,Golden State Warriors,104,100,Seattle Kingdome,19563,/boxscores/198112280SEA.html
+Tue Dec 29 1981,Chicago Bulls,New York Knicks,108,111,Chicago Stadium,9347,/boxscores/198112290CHI.html
+Tue Dec 29 1981,Dallas Mavericks,Kansas City Kings,104,92,Reunion Arena,9231,/boxscores/198112290DAL.html
+Tue Dec 29 1981,Denver Nuggets,Boston Celtics,128,123,McNichols Sports Arena,17668,/boxscores/198112290DEN.html
+Tue Dec 29 1981,Golden State Warriors,Philadelphia 76ers,135,142,Oakland-Alameda County Coliseum Arena,13329,/boxscores/198112290GSW.html
+Tue Dec 29 1981,Houston Rockets,Atlanta Hawks,93,102,The Summit,12640,/boxscores/198112290HOU.html
+Tue Dec 29 1981,Indiana Pacers,Milwaukee Bucks,96,107,Market Square Arena,9106,/boxscores/198112290IND.html
+Tue Dec 29 1981,Los Angeles Lakers,Utah Jazz,121,114,The Forum,14392,/boxscores/198112290LAL.html
+Tue Dec 29 1981,San Antonio Spurs,San Diego Clippers,119,107,HemisFair Arena,9843,/boxscores/198112290SAS.html
+Tue Dec 29 1981,Washington Bullets,Detroit Pistons,129,125,Capital Centre,8843,/boxscores/198112290WSB.html
+Wed Dec 30 1981,Atlanta Hawks,San Diego Clippers,91,94,Omni Coliseum,7344,/boxscores/198112300ATL.html
+Wed Dec 30 1981,Cleveland Cavaliers,New York Knicks,108,110,Coliseum at Richfield,5569,/boxscores/198112300CLE.html
+Wed Dec 30 1981,Kansas City Kings,Denver Nuggets,120,116,Kemper Arena,8359,/boxscores/198112300KCK.html
+Wed Dec 30 1981,Milwaukee Bucks,Washington Bullets,107,103,MECCA Arena,10918,/boxscores/198112300MIL.html
+Wed Dec 30 1981,New Jersey Nets,Detroit Pistons,130,119,Brendan Byrne Arena,14981,/boxscores/198112300NJN.html
+Wed Dec 30 1981,Phoenix Suns,Portland Trail Blazers,113,112,Arizona Veterans Memorial Coliseum,12438,/boxscores/198112300PHO.html
+Wed Dec 30 1981,San Antonio Spurs,Houston Rockets,109,104,HemisFair Arena,11246,/boxscores/198112300SAS.html
+Wed Dec 30 1981,Seattle SuperSonics,Philadelphia 76ers,99,102,Seattle Kingdome,20034,/boxscores/198112300SEA.html
+Wed Dec 30 1981,Utah Jazz,Boston Celtics,110,121,Salt Palace,12493,/boxscores/198112300UTA.html

@@ -1,0 +1,165 @@
+Wed Feb 1 2017,Cleveland Cavaliers,Minnesota Timberwolves,125,97,Quicken Loans Arena,20562,/boxscores/201702010CLE.html
+Wed Feb 1 2017,Orlando Magic,Indiana Pacers,88,98,Amway Center,16662,/boxscores/201702010ORL.html
+Wed Feb 1 2017,Boston Celtics,Toronto Raptors,109,104,TD Garden,18624,/boxscores/201702010BOS.html
+Wed Feb 1 2017,Brooklyn Nets,New York Knicks,90,95,Barclays Center,17732,/boxscores/201702010BRK.html
+Wed Feb 1 2017,Detroit Pistons,New Orleans Pelicans,118,98,The Palace of Auburn Hills,14262,/boxscores/201702010DET.html
+Wed Feb 1 2017,Miami Heat,Atlanta Hawks,116,93,AmericanAirlines Arena,19600,/boxscores/201702010MIA.html
+Wed Feb 1 2017,Dallas Mavericks,Philadelphia 76ers,113,95,American Airlines Center,19263,/boxscores/201702010DAL.html
+Wed Feb 1 2017,Denver Nuggets,Memphis Grizzlies,99,119,Pepsi Center,12020,/boxscores/201702010DEN.html
+Wed Feb 1 2017,Phoenix Suns,Los Angeles Clippers,114,124,Talking Stick Resort Arena,16191,/boxscores/201702010PHO.html
+Wed Feb 1 2017,Utah Jazz,Milwaukee Bucks,104,88,Vivint Smart Home Arena,19694,/boxscores/201702010UTA.html
+Wed Feb 1 2017,Oklahoma City Thunder,Chicago Bulls,100,128,Chesapeake Energy Arena,18203,/boxscores/201702010OKC.html
+Wed Feb 1 2017,Golden State Warriors,Charlotte Hornets,126,111,Oracle Arena,19596,/boxscores/201702010GSW.html
+Thu Feb 2 2017,Washington Wizards,Los Angeles Lakers,116,108,Verizon Center,16473,/boxscores/201702020WAS.html
+Thu Feb 2 2017,Houston Rockets,Atlanta Hawks,108,113,Toyota Center,15602,/boxscores/201702020HOU.html
+Thu Feb 2 2017,San Antonio Spurs,Philadelphia 76ers,102,86,AT&T Center,18418,/boxscores/201702020SAS.html
+Thu Feb 2 2017,Los Angeles Clippers,Golden State Warriors,120,133,STAPLES Center,19385,/boxscores/201702020LAC.html
+Fri Feb 3 2017,Orlando Magic,Toronto Raptors,102,94,Amway Center,17141,/boxscores/201702030ORL.html
+Fri Feb 3 2017,Brooklyn Nets,Indiana Pacers,97,106,Barclays Center,14557,/boxscores/201702030BRK.html
+Fri Feb 3 2017,Detroit Pistons,Minnesota Timberwolves,116,108,The Palace of Auburn Hills,16934,/boxscores/201702030DET.html
+Fri Feb 3 2017,Boston Celtics,Los Angeles Lakers,113,107,TD Garden,18624,/boxscores/201702030BOS.html
+Fri Feb 3 2017,Houston Rockets,Chicago Bulls,121,117,Toyota Center,18055,/boxscores/201702030HOU.html
+Fri Feb 3 2017,Oklahoma City Thunder,Memphis Grizzlies,114,102,Chesapeake Energy Arena,18203,/boxscores/201702030OKC.html
+Fri Feb 3 2017,Denver Nuggets,Milwaukee Bucks,121,117,Pepsi Center,18792,/boxscores/201702030DEN.html
+Fri Feb 3 2017,Portland Trail Blazers,Dallas Mavericks,104,108,Moda Center,19393,/boxscores/201702030POR.html
+Fri Feb 3 2017,Sacramento Kings,Phoenix Suns,103,105,Golden 1 Center,17608,/boxscores/201702030SAC.html
+Sat Feb 4 2017,Atlanta Hawks,Orlando Magic,113,86,Philips Arena,16691,/boxscores/201702040ATL.html
+Sat Feb 4 2017,Indiana Pacers,Detroit Pistons,105,84,Bankers Life Fieldhouse,17660,/boxscores/201702040IND.html
+Sat Feb 4 2017,Washington Wizards,New Orleans Pelicans,105,91,Verizon Center,19651,/boxscores/201702040WAS.html
+Sat Feb 4 2017,Miami Heat,Philadelphia 76ers,125,102,AmericanAirlines Arena,19754,/boxscores/201702040MIA.html
+Sat Feb 4 2017,New York Knicks,Cleveland Cavaliers,104,111,Madison Square Garden (IV),19812,/boxscores/201702040NYK.html
+Sat Feb 4 2017,Minnesota Timberwolves,Memphis Grizzlies,99,107,Target Center,15081,/boxscores/201702040MIN.html
+Sat Feb 4 2017,Phoenix Suns,Milwaukee Bucks,112,137,Talking Stick Resort Arena,17192,/boxscores/201702040PHO.html
+Sat Feb 4 2017,San Antonio Spurs,Denver Nuggets,121,97,AT&T Center,18418,/boxscores/201702040SAS.html
+Sat Feb 4 2017,Utah Jazz,Charlotte Hornets,105,98,Vivint Smart Home Arena,19911,/boxscores/201702040UTA.html
+Sat Feb 4 2017,Sacramento Kings,Golden State Warriors,109,106,Golden 1 Center,17608,/boxscores/201702040SAC.html
+Sun Feb 5 2017,Brooklyn Nets,Toronto Raptors,95,103,Barclays Center,14245,/boxscores/201702050BRK.html
+Sun Feb 5 2017,Boston Celtics,Los Angeles Clippers,107,102,TD Garden,18624,/boxscores/201702050BOS.html
+Sun Feb 5 2017,Oklahoma City Thunder,Portland Trail Blazers,105,99,Chesapeake Energy Arena,18203,/boxscores/201702050OKC.html
+Mon Feb 6 2017,Indiana Pacers,Oklahoma City Thunder,93,90,Bankers Life Fieldhouse,16123,/boxscores/201702060IND.html
+Mon Feb 6 2017,New York Knicks,Los Angeles Lakers,107,121,Madison Square Garden (IV),19812,/boxscores/201702060NYK.html
+Mon Feb 6 2017,Washington Wizards,Cleveland Cavaliers,135,140,Verizon Center,20356,/boxscores/201702060WAS.html
+Mon Feb 6 2017,Atlanta Hawks,Utah Jazz,95,120,Philips Arena,13126,/boxscores/201702060ATL.html
+Mon Feb 6 2017,Detroit Pistons,Philadelphia 76ers,113,96,The Palace of Auburn Hills,14731,/boxscores/201702060DET.html
+Mon Feb 6 2017,Toronto Raptors,Los Angeles Clippers,118,109,Air Canada Centre,19800,/boxscores/201702060TOR.html
+Mon Feb 6 2017,Minnesota Timberwolves,Miami Heat,113,115,Target Center,12502,/boxscores/201702060MIN.html
+Mon Feb 6 2017,New Orleans Pelicans,Phoenix Suns,111,106,Smoothie King Center,15888,/boxscores/201702060NOP.html
+Mon Feb 6 2017,Denver Nuggets,Dallas Mavericks,110,87,Pepsi Center,13047,/boxscores/201702060DEN.html
+Mon Feb 6 2017,Memphis Grizzlies,San Antonio Spurs,89,74,FedEx Forum,16708,/boxscores/201702060MEM.html
+Mon Feb 6 2017,Sacramento Kings,Chicago Bulls,107,112,Golden 1 Center,17608,/boxscores/201702060SAC.html
+Tue Feb 7 2017,Charlotte Hornets,Brooklyn Nets,111,107,Spectrum Center,15322,/boxscores/201702070CHO.html
+Tue Feb 7 2017,Houston Rockets,Orlando Magic,128,104,Toyota Center,15514,/boxscores/201702070HOU.html
+Tue Feb 7 2017,Dallas Mavericks,Portland Trail Blazers,113,114,American Airlines Center,19326,/boxscores/201702070DAL.html
+Wed Feb 8 2017,Indiana Pacers,Cleveland Cavaliers,117,132,Bankers Life Fieldhouse,17580,/boxscores/201702080IND.html
+Wed Feb 8 2017,Philadelphia 76ers,San Antonio Spurs,103,111,Wells Fargo Center,19233,/boxscores/201702080PHI.html
+Wed Feb 8 2017,Atlanta Hawks,Denver Nuggets,117,106,Philips Arena,14222,/boxscores/201702080ATL.html
+Wed Feb 8 2017,Brooklyn Nets,Washington Wizards,110,114,Barclays Center,13179,/boxscores/201702080BRK.html
+Wed Feb 8 2017,Detroit Pistons,Los Angeles Lakers,121,102,The Palace of Auburn Hills,15121,/boxscores/201702080DET.html
+Wed Feb 8 2017,Memphis Grizzlies,Phoenix Suns,110,91,FedEx Forum,16044,/boxscores/201702080MEM.html
+Wed Feb 8 2017,Milwaukee Bucks,Miami Heat,88,106,BMO Harris Bradley Center,14211,/boxscores/201702080MIL.html
+Wed Feb 8 2017,Minnesota Timberwolves,Toronto Raptors,112,109,Target Center,13832,/boxscores/201702080MIN.html
+Wed Feb 8 2017,New Orleans Pelicans,Utah Jazz,94,127,Smoothie King Center,14508,/boxscores/201702080NOP.html
+Wed Feb 8 2017,New York Knicks,Los Angeles Clippers,115,119,Madison Square Garden (IV),19812,/boxscores/201702080NYK.html
+Wed Feb 8 2017,Golden State Warriors,Chicago Bulls,123,92,Oracle Arena,19596,/boxscores/201702080GSW.html
+Wed Feb 8 2017,Sacramento Kings,Boston Celtics,108,92,Golden 1 Center,17608,/boxscores/201702080SAC.html
+Thu Feb 9 2017,Charlotte Hornets,Houston Rockets,95,107,Spectrum Center,16270,/boxscores/201702090CHO.html
+Thu Feb 9 2017,Orlando Magic,Philadelphia 76ers,111,112,Amway Center,17829,/boxscores/201702090ORL.html
+Thu Feb 9 2017,Oklahoma City Thunder,Cleveland Cavaliers,118,109,Chesapeake Energy Arena,18203,/boxscores/201702090OKC.html
+Thu Feb 9 2017,Dallas Mavericks,Utah Jazz,112,105,American Airlines Center,19883,/boxscores/201702090DAL.html
+Thu Feb 9 2017,Portland Trail Blazers,Boston Celtics,111,120,Moda Center,19393,/boxscores/201702090POR.html
+Fri Feb 10 2017,Brooklyn Nets,Miami Heat,99,108,Barclays Center,15382,/boxscores/201702100BRK.html
+Fri Feb 10 2017,Detroit Pistons,San Antonio Spurs,92,103,The Palace of Auburn Hills,17222,/boxscores/201702100DET.html
+Fri Feb 10 2017,New York Knicks,Denver Nuggets,123,131,Madison Square Garden (IV),19812,/boxscores/201702100NYK.html
+Fri Feb 10 2017,Memphis Grizzlies,Golden State Warriors,107,122,FedEx Forum,18119,/boxscores/201702100MEM.html
+Fri Feb 10 2017,Milwaukee Bucks,Los Angeles Lakers,114,122,BMO Harris Bradley Center,16380,/boxscores/201702100MIL.html
+Fri Feb 10 2017,Minnesota Timberwolves,New Orleans Pelicans,106,122,Target Center,16093,/boxscores/201702100MIN.html
+Fri Feb 10 2017,Washington Wizards,Indiana Pacers,112,107,Verizon Center,19503,/boxscores/201702100WAS.html
+Fri Feb 10 2017,Phoenix Suns,Chicago Bulls,115,97,Talking Stick Resort Arena,18055,/boxscores/201702100PHO.html
+Fri Feb 10 2017,Sacramento Kings,Atlanta Hawks,108,107,Golden 1 Center,17608,/boxscores/201702100SAC.html
+Sat Feb 11 2017,Charlotte Hornets,Los Angeles Clippers,102,107,Spectrum Center,19483,/boxscores/201702110CHO.html
+Sat Feb 11 2017,Indiana Pacers,Milwaukee Bucks,100,116,Bankers Life Fieldhouse,17923,/boxscores/201702110IND.html
+Sat Feb 11 2017,Cleveland Cavaliers,Denver Nuggets,125,109,Quicken Loans Arena,20562,/boxscores/201702110CLE.html
+Sat Feb 11 2017,Philadelphia 76ers,Miami Heat,117,109,Wells Fargo Center,20698,/boxscores/201702110PHI.html
+Sat Feb 11 2017,Oklahoma City Thunder,Golden State Warriors,114,130,Chesapeake Energy Arena,18203,/boxscores/201702110OKC.html
+Sat Feb 11 2017,Dallas Mavericks,Orlando Magic,112,80,American Airlines Center,20052,/boxscores/201702110DAL.html
+Sat Feb 11 2017,Houston Rockets,Phoenix Suns,133,102,Toyota Center,18055,/boxscores/201702110HOU.html
+Sat Feb 11 2017,Utah Jazz,Boston Celtics,104,112,Vivint Smart Home Arena,19911,/boxscores/201702110UTA.html
+Sun Feb 12 2017,Minnesota Timberwolves,Chicago Bulls,117,89,Target Center,19356,/boxscores/201702120MIN.html
+Sun Feb 12 2017,New York Knicks,San Antonio Spurs,94,90,Madison Square Garden (IV),19812,/boxscores/201702120NYK.html
+Sun Feb 12 2017,Toronto Raptors,Detroit Pistons,101,102,Air Canada Centre,19800,/boxscores/201702120TOR.html
+Sun Feb 12 2017,Sacramento Kings,New Orleans Pelicans,105,99,Golden 1 Center,17608,/boxscores/201702120SAC.html
+Mon Feb 13 2017,Charlotte Hornets,Philadelphia 76ers,99,105,Spectrum Center,15775,/boxscores/201702130CHO.html
+Mon Feb 13 2017,Indiana Pacers,San Antonio Spurs,106,110,Bankers Life Fieldhouse,15203,/boxscores/201702130IND.html
+Mon Feb 13 2017,Brooklyn Nets,Memphis Grizzlies,103,112,Barclays Center,13597,/boxscores/201702130BRK.html
+Mon Feb 13 2017,Miami Heat,Orlando Magic,107,116,AmericanAirlines Arena,19600,/boxscores/201702130MIA.html
+Mon Feb 13 2017,Milwaukee Bucks,Detroit Pistons,102,89,BMO Harris Bradley Center,13397,/boxscores/201702130MIL.html
+Mon Feb 13 2017,Washington Wizards,Oklahoma City Thunder,120,98,Verizon Center,20356,/boxscores/201702130WAS.html
+Mon Feb 13 2017,Dallas Mavericks,Boston Celtics,98,111,American Airlines Center,20159,/boxscores/201702130DAL.html
+Mon Feb 13 2017,Denver Nuggets,Golden State Warriors,132,110,Pepsi Center,19941,/boxscores/201702130DEN.html
+Mon Feb 13 2017,Phoenix Suns,New Orleans Pelicans,108,110,Talking Stick Resort Arena,16321,/boxscores/201702130PHO.html
+Mon Feb 13 2017,Utah Jazz,Los Angeles Clippers,72,88,Vivint Smart Home Arena,19521,/boxscores/201702130UTA.html
+Mon Feb 13 2017,Portland Trail Blazers,Atlanta Hawks,104,109,Moda Center,19475,/boxscores/201702130POR.html
+Tue Feb 14 2017,Chicago Bulls,Toronto Raptors,105,94,United Center,21220,/boxscores/201702140CHI.html
+Tue Feb 14 2017,Minnesota Timberwolves,Cleveland Cavaliers,108,116,Target Center,17738,/boxscores/201702140MIN.html
+Tue Feb 14 2017,Los Angeles Lakers,Sacramento Kings,96,97,STAPLES Center,19997,/boxscores/201702140LAL.html
+Wed Feb 15 2017,Cleveland Cavaliers,Indiana Pacers,113,104,Quicken Loans Arena,20562,/boxscores/201702150CLE.html
+Wed Feb 15 2017,Orlando Magic,San Antonio Spurs,79,107,Amway Center,17101,/boxscores/201702150ORL.html
+Wed Feb 15 2017,Boston Celtics,Philadelphia 76ers,116,108,TD Garden,18624,/boxscores/201702150BOS.html
+Wed Feb 15 2017,Brooklyn Nets,Milwaukee Bucks,125,129,Barclays Center,16182,/boxscores/201702150BRK.html
+Wed Feb 15 2017,Detroit Pistons,Dallas Mavericks,98,91,The Palace of Auburn Hills,13549,/boxscores/201702150DET.html
+Wed Feb 15 2017,Toronto Raptors,Charlotte Hornets,90,85,Air Canada Centre,19800,/boxscores/201702150TOR.html
+Wed Feb 15 2017,Houston Rockets,Miami Heat,109,117,Toyota Center,16967,/boxscores/201702150HOU.html
+Wed Feb 15 2017,Memphis Grizzlies,New Orleans Pelicans,91,95,FedEx Forum,16145,/boxscores/201702150MEM.html
+Wed Feb 15 2017,Denver Nuggets,Minnesota Timberwolves,99,112,Pepsi Center,13924,/boxscores/201702150DEN.html
+Wed Feb 15 2017,Phoenix Suns,Los Angeles Lakers,137,101,Talking Stick Resort Arena,18055,/boxscores/201702150PHO.html
+Wed Feb 15 2017,Utah Jazz,Portland Trail Blazers,111,88,Vivint Smart Home Arena,19590,/boxscores/201702150UTA.html
+Wed Feb 15 2017,Oklahoma City Thunder,New York Knicks,116,105,Chesapeake Energy Arena,18203,/boxscores/201702150OKC.html
+Wed Feb 15 2017,Golden State Warriors,Sacramento Kings,109,86,Oracle Arena,19596,/boxscores/201702150GSW.html
+Wed Feb 15 2017,Los Angeles Clippers,Atlanta Hawks,99,84,STAPLES Center,19060,/boxscores/201702150LAC.html
+Thu Feb 16 2017,Indiana Pacers,Washington Wizards,98,111,Bankers Life Fieldhouse,17233,/boxscores/201702160IND.html
+Thu Feb 16 2017,Chicago Bulls,Boston Celtics,104,103,United Center,21866,/boxscores/201702160CHI.html
+Thu Feb 23 2017,Orlando Magic,Portland Trail Blazers,103,112,Amway Center,17487,/boxscores/201702230ORL.html
+Thu Feb 23 2017,Detroit Pistons,Charlotte Hornets,114,108,The Palace of Auburn Hills,14913,/boxscores/201702230DET.html
+Thu Feb 23 2017,Cleveland Cavaliers,New York Knicks,119,104,Quicken Loans Arena,20562,/boxscores/201702230CLE.html
+Thu Feb 23 2017,New Orleans Pelicans,Houston Rockets,99,129,Smoothie King Center,18470,/boxscores/201702230NOP.html
+Thu Feb 23 2017,Golden State Warriors,Los Angeles Clippers,123,113,Oracle Arena,19596,/boxscores/201702230GSW.html
+Thu Feb 23 2017,Sacramento Kings,Denver Nuggets,116,100,Golden 1 Center,17608,/boxscores/201702230SAC.html
+Fri Feb 24 2017,Indiana Pacers,Memphis Grizzlies,102,92,Bankers Life Fieldhouse,17923,/boxscores/201702240IND.html
+Fri Feb 24 2017,Philadelphia 76ers,Washington Wizards,120,112,Wells Fargo Center,19277,/boxscores/201702240PHI.html
+Fri Feb 24 2017,Atlanta Hawks,Miami Heat,90,108,Philips Arena,18122,/boxscores/201702240ATL.html
+Fri Feb 24 2017,Chicago Bulls,Phoenix Suns,128,121,United Center,21641,/boxscores/201702240CHI.html
+Fri Feb 24 2017,Milwaukee Bucks,Utah Jazz,95,109,BMO Harris Bradley Center,16064,/boxscores/201702240MIL.html
+Fri Feb 24 2017,Minnesota Timberwolves,Dallas Mavericks,97,84,Target Center,15948,/boxscores/201702240MIN.html
+Fri Feb 24 2017,Oklahoma City Thunder,Los Angeles Lakers,110,93,Chesapeake Energy Arena,18203,/boxscores/201702240OKC.html
+Fri Feb 24 2017,Toronto Raptors,Boston Celtics,107,97,Air Canada Centre,19800,/boxscores/201702240TOR.html
+Fri Feb 24 2017,Denver Nuggets,Brooklyn Nets,129,109,Pepsi Center,17143,/boxscores/201702240DEN.html
+Fri Feb 24 2017,Los Angeles Clippers,San Antonio Spurs,97,105,STAPLES Center,19060,/boxscores/201702240LAC.html
+Sat Feb 25 2017,Sacramento Kings,Charlotte Hornets,85,99,Golden 1 Center,17608,/boxscores/201702250SAC.html
+Sat Feb 25 2017,Orlando Magic,Atlanta Hawks,105,86,Amway Center,18498,/boxscores/201702250ORL.html
+Sat Feb 25 2017,New York Knicks,Philadelphia 76ers,110,109,Madison Square Garden (IV),19812,/boxscores/201702250NYK.html
+Sat Feb 25 2017,Miami Heat,Indiana Pacers,113,95,AmericanAirlines Arena,19600,/boxscores/201702250MIA.html
+Sat Feb 25 2017,Cleveland Cavaliers,Chicago Bulls,99,117,Quicken Loans Arena,20562,/boxscores/201702250CLE.html
+Sat Feb 25 2017,Dallas Mavericks,New Orleans Pelicans,96,83,American Airlines Center,20411,/boxscores/201702250DAL.html
+Sat Feb 25 2017,Houston Rockets,Minnesota Timberwolves,142,130,Toyota Center,18055,/boxscores/201702250HOU.html
+Sat Feb 25 2017,Golden State Warriors,Brooklyn Nets,112,95,Oracle Arena,19596,/boxscores/201702250GSW.html
+Sun Feb 26 2017,Los Angeles Lakers,San Antonio Spurs,98,119,STAPLES Center,18997,/boxscores/201702260LAL.html
+Sun Feb 26 2017,Milwaukee Bucks,Phoenix Suns,100,96,BMO Harris Bradley Center,16051,/boxscores/201702260MIL.html
+Sun Feb 26 2017,Denver Nuggets,Memphis Grizzlies,98,105,Pepsi Center,18024,/boxscores/201702260DEN.html
+Sun Feb 26 2017,Washington Wizards,Utah Jazz,92,102,Verizon Center,19648,/boxscores/201702260WAS.html
+Sun Feb 26 2017,Detroit Pistons,Boston Celtics,98,104,The Palace of Auburn Hills,20141,/boxscores/201702260DET.html
+Sun Feb 26 2017,Toronto Raptors,Portland Trail Blazers,112,106,Air Canada Centre,19800,/boxscores/201702260TOR.html
+Sun Feb 26 2017,Oklahoma City Thunder,New Orleans Pelicans,118,110,Chesapeake Energy Arena,18203,/boxscores/201702260OKC.html
+Sun Feb 26 2017,Los Angeles Clippers,Charlotte Hornets,124,121,STAPLES Center,19060,/boxscores/201702260LAC.html
+Mon Feb 27 2017,Cleveland Cavaliers,Milwaukee Bucks,102,95,Quicken Loans Arena,20562,/boxscores/201702270CLE.html
+Mon Feb 27 2017,New York Knicks,Toronto Raptors,91,92,Madison Square Garden (IV),19812,/boxscores/201702270NYK.html
+Mon Feb 27 2017,Philadelphia 76ers,Golden State Warriors,108,119,Wells Fargo Center,20585,/boxscores/201702270PHI.html
+Mon Feb 27 2017,Boston Celtics,Atlanta Hawks,98,114,TD Garden,18624,/boxscores/201702270BOS.html
+Mon Feb 27 2017,Dallas Mavericks,Miami Heat,96,89,American Airlines Center,19539,/boxscores/201702270DAL.html
+Mon Feb 27 2017,Houston Rockets,Indiana Pacers,108,117,Toyota Center,18055,/boxscores/201702270HOU.html
+Mon Feb 27 2017,Sacramento Kings,Minnesota Timberwolves,88,102,Golden 1 Center,17608,/boxscores/201702270SAC.html
+Tue Feb 28 2017,Washington Wizards,Golden State Warriors,112,108,Verizon Center,20356,/boxscores/201702280WAS.html
+Tue Feb 28 2017,Detroit Pistons,Portland Trail Blazers,120,113,The Palace of Auburn Hills,13502,/boxscores/201702280DET.html
+Tue Feb 28 2017,Chicago Bulls,Denver Nuggets,107,125,United Center,21015,/boxscores/201702280CHI.html
+Tue Feb 28 2017,Memphis Grizzlies,Phoenix Suns,130,112,FedEx Forum,15871,/boxscores/201702280MEM.html
+Tue Feb 28 2017,Oklahoma City Thunder,Utah Jazz,109,106,Chesapeake Energy Arena,18203,/boxscores/201702280OKC.html
+Tue Feb 28 2017,Los Angeles Lakers,Charlotte Hornets,104,109,STAPLES Center,18997,/boxscores/201702280LAL.html

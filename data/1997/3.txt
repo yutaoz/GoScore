@@ -1,0 +1,218 @@
+Sat Mar 1 1997,Cleveland Cavaliers,Boston Celtics,99,81,Gund Arena,19157,/boxscores/199703010CLE.html
+Sat Mar 1 1997,Houston Rockets,Dallas Mavericks,89,80,The Summit,16285,/boxscores/199703010HOU.html
+Sat Mar 1 1997,Milwaukee Bucks,Sacramento Kings,92,103,Bradley Center,16987,/boxscores/199703010MIL.html
+Sat Mar 1 1997,Washington Bullets,Golden State Warriors,118,108,US Airways Arena,18756,/boxscores/199703010WSB.html
+Sun Mar 2 1997,Dallas Mavericks,Phoenix Suns,108,109,Reunion Arena,14832,/boxscores/199703020DAL.html
+Sun Mar 2 1997,Denver Nuggets,Los Angeles Clippers,109,107,McNichols Sports Arena,7802,/boxscores/199703020DEN.html
+Sun Mar 2 1997,Detroit Pistons,Atlanta Hawks,82,75,The Palace of Auburn Hills,21454,/boxscores/199703020DET.html
+Sun Mar 2 1997,Indiana Pacers,Los Angeles Lakers,101,85,Market Square Arena,16711,/boxscores/199703020IND.html
+Sun Mar 2 1997,Miami Heat,San Antonio Spurs,79,72,Miami Arena,15200,/boxscores/199703020MIA.html
+Sun Mar 2 1997,Minnesota Timberwolves,Charlotte Hornets,96,108,Target Center,19006,/boxscores/199703020MIN.html
+Sun Mar 2 1997,New York Knicks,Cleveland Cavaliers,90,82,Madison Square Garden (IV),19763,/boxscores/199703020NYK.html
+Sun Mar 2 1997,Orlando Magic,Seattle SuperSonics,101,109,Orlando Arena,17248,/boxscores/199703020ORL.html
+Sun Mar 2 1997,Portland Trail Blazers,Philadelphia 76ers,112,95,Rose Garden Arena,21317,/boxscores/199703020POR.html
+Sun Mar 2 1997,Vancouver Grizzlies,Utah Jazz,86,93,General Motors Place,16415,/boxscores/199703020VAN.html
+Mon Mar 3 1997,Chicago Bulls,Milwaukee Bucks,108,90,United Center,23894,/boxscores/199703030CHI.html
+Mon Mar 3 1997,Golden State Warriors,Utah Jazz,104,111,San Jose Arena,16334,/boxscores/199703030GSW.html
+Mon Mar 3 1997,Sacramento Kings,New Jersey Nets,108,95,ARCO Arena (II),17317,/boxscores/199703030SAC.html
+Mon Mar 3 1997,Toronto Raptors,Boston Celtics,103,107,SkyDome,15385,/boxscores/199703030TOR.html
+Tue Mar 4 1997,Atlanta Hawks,Cleveland Cavaliers,93,88,Omni Coliseum,15404,/boxscores/199703040ATL.html
+Tue Mar 4 1997,Charlotte Hornets,San Antonio Spurs,105,98,Charlotte Coliseum,24042,/boxscores/199703040CHH.html
+Tue Mar 4 1997,Dallas Mavericks,Los Angeles Lakers,92,102,Reunion Arena,15809,/boxscores/199703040DAL.html
+Tue Mar 4 1997,Detroit Pistons,Miami Heat,99,108,The Palace of Auburn Hills,21454,/boxscores/199703040DET.html
+Tue Mar 4 1997,Indiana Pacers,Boston Celtics,98,95,Market Square Arena,14288,/boxscores/199703040IND.html
+Tue Mar 4 1997,Los Angeles Clippers,Houston Rockets,109,113,Los Angeles Memorial Sports Arena,10893,/boxscores/199703040LAC.html
+Tue Mar 4 1997,New York Knicks,Milwaukee Bucks,93,86,Madison Square Garden (IV),19763,/boxscores/199703040NYK.html
+Tue Mar 4 1997,Philadelphia 76ers,Washington Bullets,106,107,CoreStates Center,13063,/boxscores/199703040PHI.html
+Tue Mar 4 1997,Portland Trail Blazers,New Jersey Nets,123,118,Rose Garden Arena,21120,/boxscores/199703040POR.html
+Tue Mar 4 1997,Seattle SuperSonics,Orlando Magic,89,101,KeyArena at Seattle Center,17072,/boxscores/199703040SEA.html
+Wed Mar 5 1997,Chicago Bulls,San Antonio Spurs,111,69,United Center,23841,/boxscores/199703050CHI.html
+Wed Mar 5 1997,Cleveland Cavaliers,Indiana Pacers,85,78,Gund Arena,17097,/boxscores/199703050CLE.html
+Wed Mar 5 1997,Golden State Warriors,Houston Rockets,85,90,San Jose Arena,17105,/boxscores/199703050GSW.html
+Wed Mar 5 1997,Minnesota Timberwolves,Detroit Pistons,88,92,Target Center,17003,/boxscores/199703050MIN.html
+Wed Mar 5 1997,Phoenix Suns,Portland Trail Blazers,99,121,America West Arena,19023,/boxscores/199703050PHO.html
+Wed Mar 5 1997,Sacramento Kings,Denver Nuggets,105,100,ARCO Arena (II),17317,/boxscores/199703050SAC.html
+Wed Mar 5 1997,Toronto Raptors,New York Knicks,94,100,SkyDome,18319,/boxscores/199703050TOR.html
+Wed Mar 5 1997,Utah Jazz,Dallas Mavericks,96,65,Delta Center,19911,/boxscores/199703050UTA.html
+Thu Mar 6 1997,Charlotte Hornets,Boston Celtics,122,121,Charlotte Coliseum,24042,/boxscores/199703060CHH.html
+Thu Mar 6 1997,Los Angeles Clippers,Orlando Magic,93,94,Arrowhead Pond,14916,/boxscores/199703060LAC.html
+Thu Mar 6 1997,Miami Heat,Washington Bullets,95,99,Miami Arena,14879,/boxscores/199703060MIA.html
+Thu Mar 6 1997,Philadelphia 76ers,Atlanta Hawks,104,117,CoreStates Center,13802,/boxscores/199703060PHI.html
+Thu Mar 6 1997,Vancouver Grizzlies,New Jersey Nets,96,102,General Motors Place,16673,/boxscores/199703060VAN.html
+Fri Mar 7 1997,Atlanta Hawks,Milwaukee Bucks,90,80,Omni Coliseum,14906,/boxscores/199703070ATL.html
+Fri Mar 7 1997,Boston Celtics,New York Knicks,102,113,FleetCenter,18624,/boxscores/199703070BOS.html
+Fri Mar 7 1997,Chicago Bulls,Indiana Pacers,104,96,United Center,23902,/boxscores/199703070CHI.html
+Fri Mar 7 1997,Golden State Warriors,Orlando Magic,108,101,San Jose Arena,17027,/boxscores/199703070GSW.html
+Fri Mar 7 1997,Los Angeles Lakers,Houston Rockets,90,111,Great Western Forum,17505,/boxscores/199703070LAL.html
+Fri Mar 7 1997,Minnesota Timberwolves,Denver Nuggets,96,83,Target Center,18522,/boxscores/199703070MIN.html
+Fri Mar 7 1997,Phoenix Suns,Sacramento Kings,104,87,America West Arena,19023,/boxscores/199703070PHO.html
+Fri Mar 7 1997,Portland Trail Blazers,Dallas Mavericks,80,69,Rose Garden Arena,21243,/boxscores/199703070POR.html
+Fri Mar 7 1997,Seattle SuperSonics,New Jersey Nets,109,90,KeyArena at Seattle Center,17072,/boxscores/199703070SEA.html
+Fri Mar 7 1997,Toronto Raptors,San Antonio Spurs,103,106,SkyDome,16178,/boxscores/199703070TOR.html
+Fri Mar 7 1997,Utah Jazz,Detroit Pistons,95,88,Delta Center,19911,/boxscores/199703070UTA.html
+Fri Mar 7 1997,Washington Bullets,Miami Heat,105,108,US Airways Arena,18756,/boxscores/199703070WSB.html
+Sat Mar 8 1997,Cleveland Cavaliers,Milwaukee Bucks,82,90,Gund Arena,17906,/boxscores/199703080CLE.html
+Sat Mar 8 1997,Indiana Pacers,San Antonio Spurs,98,102,Market Square Arena,16621,/boxscores/199703080IND.html
+Sat Mar 8 1997,Los Angeles Clippers,Detroit Pistons,85,91,Los Angeles Memorial Sports Arena,16021,/boxscores/199703080LAC.html
+Sun Mar 9 1997,Boston Celtics,Atlanta Hawks,90,114,FleetCenter,16931,/boxscores/199703090BOS.html
+Sun Mar 9 1997,Charlotte Hornets,Miami Heat,82,76,Charlotte Coliseum,24042,/boxscores/199703090CHH.html
+Sun Mar 9 1997,Dallas Mavericks,Houston Rockets,83,88,Reunion Arena,18502,/boxscores/199703090DAL.html
+Sun Mar 9 1997,Golden State Warriors,Sacramento Kings,102,98,San Jose Arena,16242,/boxscores/199703090GSW.html
+Sun Mar 9 1997,Los Angeles Lakers,New Jersey Nets,115,105,Great Western Forum,17103,/boxscores/199703090LAL.html
+Sun Mar 9 1997,Minnesota Timberwolves,Utah Jazz,106,115,Target Center,19006,/boxscores/199703090MIN.html
+Sun Mar 9 1997,New York Knicks,Chicago Bulls,97,93,Madison Square Garden (IV),19763,/boxscores/199703090NYK.html
+Sun Mar 9 1997,Phoenix Suns,Orlando Magic,121,85,America West Arena,19023,/boxscores/199703090PHO.html
+Sun Mar 9 1997,Portland Trail Blazers,Seattle SuperSonics,103,93,Rose Garden Arena,21538,/boxscores/199703090POR.html
+Sun Mar 9 1997,Toronto Raptors,Vancouver Grizzlies,81,77,SkyDome,19186,/boxscores/199703090TOR.html
+Sun Mar 9 1997,Washington Bullets,Philadelphia 76ers,93,99,US Airways Arena,18756,/boxscores/199703090WSB.html
+Mon Mar 10 1997,Los Angeles Clippers,Golden State Warriors,112,106,Los Angeles Memorial Sports Arena,6260,/boxscores/199703100LAC.html
+Tue Mar 11 1997,Atlanta Hawks,Utah Jazz,106,99,Omni Coliseum,14475,/boxscores/199703110ATL.html
+Tue Mar 11 1997,Boston Celtics,Chicago Bulls,106,117,FleetCenter,18624,/boxscores/199703110BOS.html
+Tue Mar 11 1997,Charlotte Hornets,Vancouver Grizzlies,98,92,Charlotte Coliseum,24042,/boxscores/199703110CHH.html
+Tue Mar 11 1997,Dallas Mavericks,New York Knicks,91,83,Reunion Arena,15792,/boxscores/199703110DAL.html
+Tue Mar 11 1997,Denver Nuggets,Orlando Magic,91,96,McNichols Sports Arena,10211,/boxscores/199703110DEN.html
+Tue Mar 11 1997,Milwaukee Bucks,Miami Heat,93,108,Bradley Center,14989,/boxscores/199703110MIL.html
+Tue Mar 11 1997,Minnesota Timberwolves,Philadelphia 76ers,104,100,Target Center,15527,/boxscores/199703110MIN.html
+Tue Mar 11 1997,Phoenix Suns,Toronto Raptors,101,105,America West Arena,19023,/boxscores/199703110PHO.html
+Tue Mar 11 1997,Portland Trail Blazers,Los Angeles Clippers,109,105,Rose Garden Arena,21340,/boxscores/199703110POR.html
+Tue Mar 11 1997,Sacramento Kings,Cleveland Cavaliers,85,88,ARCO Arena (II),17317,/boxscores/199703110SAC.html
+Tue Mar 11 1997,San Antonio Spurs,Houston Rockets,79,103,Alamodome,27855,/boxscores/199703110SAS.html
+Tue Mar 11 1997,Seattle SuperSonics,Detroit Pistons,93,80,KeyArena at Seattle Center,17072,/boxscores/199703110SEA.html
+Wed Mar 12 1997,Houston Rockets,Orlando Magic,95,96,The Summit,16285,/boxscores/199703120HOU.html
+Wed Mar 12 1997,Indiana Pacers,Atlanta Hawks,92,82,Market Square Arena,14824,/boxscores/199703120IND.html
+Wed Mar 12 1997,Los Angeles Lakers,Golden State Warriors,109,101,Great Western Forum,17009,/boxscores/199703120LAL.html
+Wed Mar 12 1997,New Jersey Nets,Utah Jazz,102,117,Continental Airlines Arena,13150,/boxscores/199703120NJN.html
+Wed Mar 12 1997,Philadelphia 76ers,Chicago Bulls,104,108,CoreStates Center,21061,/boxscores/199703120PHI.html
+Wed Mar 12 1997,Washington Bullets,Vancouver Grizzlies,104,82,US Airways Arena,11007,/boxscores/199703120WSB.html
+Thu Mar 13 1997,Dallas Mavericks,Boston Celtics,109,107,Reunion Arena,15581,/boxscores/199703130DAL.html
+Thu Mar 13 1997,Denver Nuggets,Detroit Pistons,82,102,McNichols Sports Arena,13813,/boxscores/199703130DEN.html
+Thu Mar 13 1997,Golden State Warriors,Cleveland Cavaliers,101,95,San Jose Arena,13608,/boxscores/199703130GSW.html
+Thu Mar 13 1997,Los Angeles Clippers,Phoenix Suns,96,112,Los Angeles Memorial Sports Arena,7018,/boxscores/199703130LAC.html
+Thu Mar 13 1997,Minnesota Timberwolves,Seattle SuperSonics,92,108,Target Center,17979,/boxscores/199703130MIN.html
+Thu Mar 13 1997,Sacramento Kings,Toronto Raptors,96,103,ARCO Arena (II),17317,/boxscores/199703130SAC.html
+Fri Mar 14 1997,Atlanta Hawks,Seattle SuperSonics,91,97,Omni Coliseum,16378,/boxscores/199703140ATL.html
+Fri Mar 14 1997,Indiana Pacers,Utah Jazz,96,105,Market Square Arena,16618,/boxscores/199703140IND.html
+Fri Mar 14 1997,Los Angeles Lakers,Los Angeles Clippers,95,97,Great Western Forum,17505,/boxscores/199703140LAL.html
+Fri Mar 14 1997,Miami Heat,Vancouver Grizzlies,88,82,Miami Arena,14728,/boxscores/199703140MIA.html
+Fri Mar 14 1997,Milwaukee Bucks,Washington Bullets,96,105,Bradley Center,16652,/boxscores/199703140MIL.html
+Fri Mar 14 1997,New Jersey Nets,Chicago Bulls,99,98,Continental Airlines Arena,20049,/boxscores/199703140NJN.html
+Fri Mar 14 1997,Orlando Magic,Charlotte Hornets,86,81,Orlando Arena,17248,/boxscores/199703140ORL.html
+Fri Mar 14 1997,Philadelphia 76ers,Minnesota Timberwolves,109,95,CoreStates Center,18731,/boxscores/199703140PHI.html
+Fri Mar 14 1997,Portland Trail Blazers,Cleveland Cavaliers,96,73,Rose Garden Arena,21361,/boxscores/199703140POR.html
+Fri Mar 14 1997,San Antonio Spurs,Boston Celtics,103,92,Alamodome,16618,/boxscores/199703140SAS.html
+Sat Mar 15 1997,Chicago Bulls,Atlanta Hawks,99,79,United Center,23984,/boxscores/199703150CHI.html
+Sat Mar 15 1997,Denver Nuggets,San Antonio Spurs,121,105,McNichols Sports Arena,11051,/boxscores/199703150DEN.html
+Sat Mar 15 1997,Golden State Warriors,Toronto Raptors,106,102,San Jose Arena,15058,/boxscores/199703150GSW.html
+Sat Mar 15 1997,Philadelphia 76ers,Charlotte Hornets,99,107,CoreStates Center,16897,/boxscores/199703150PHI.html
+Sat Mar 15 1997,Phoenix Suns,Dallas Mavericks,101,76,America West Arena,19023,/boxscores/199703150PHO.html
+Sat Mar 15 1997,Washington Bullets,Utah Jazz,93,100,US Airways Arena,18756,/boxscores/199703150WSB.html
+Sun Mar 16 1997,Detroit Pistons,Seattle SuperSonics,86,83,The Palace of Auburn Hills,21454,/boxscores/199703160DET.html
+Sun Mar 16 1997,Los Angeles Clippers,Portland Trail Blazers,94,106,Los Angeles Memorial Sports Arena,8359,/boxscores/199703160LAC.html
+Sun Mar 16 1997,Los Angeles Lakers,Toronto Raptors,98,90,Great Western Forum,16839,/boxscores/199703160LAL.html
+Sun Mar 16 1997,Miami Heat,Houston Rockets,101,80,Miami Arena,15200,/boxscores/199703160MIA.html
+Sun Mar 16 1997,Milwaukee Bucks,Indiana Pacers,102,98,Bradley Center,16927,/boxscores/199703160MIL.html
+Sun Mar 16 1997,Minnesota Timberwolves,Boston Celtics,119,101,Target Center,17346,/boxscores/199703160MIN.html
+Sun Mar 16 1997,New York Knicks,New Jersey Nets,74,89,Madison Square Garden (IV),19763,/boxscores/199703160NYK.html
+Sun Mar 16 1997,Orlando Magic,Vancouver Grizzlies,100,89,Orlando Arena,17248,/boxscores/199703160ORL.html
+Sun Mar 16 1997,Sacramento Kings,Dallas Mavericks,88,89,ARCO Arena (II),17317,/boxscores/199703160SAC.html
+Mon Mar 17 1997,Atlanta Hawks,Orlando Magic,112,107,Omni Coliseum,15708,/boxscores/199703170ATL.html
+Mon Mar 17 1997,Boston Celtics,Milwaukee Bucks,126,117,FleetCenter,15342,/boxscores/199703170BOS.html
+Mon Mar 17 1997,Charlotte Hornets,Utah Jazz,93,114,Charlotte Coliseum,24042,/boxscores/199703170CHH.html
+Mon Mar 17 1997,Cleveland Cavaliers,Detroit Pistons,85,82,Gund Arena,17648,/boxscores/199703170CLE.html
+Mon Mar 17 1997,Denver Nuggets,Los Angeles Lakers,94,113,McNichols Sports Arena,13817,/boxscores/199703170DEN.html
+Mon Mar 17 1997,Golden State Warriors,Phoenix Suns,95,116,San Jose Arena,17029,/boxscores/199703170GSW.html
+Mon Mar 17 1997,San Antonio Spurs,Washington Bullets,85,109,Alamodome,16178,/boxscores/199703170SAS.html
+Tue Mar 18 1997,Chicago Bulls,Seattle SuperSonics,89,87,United Center,23989,/boxscores/199703180CHI.html
+Tue Mar 18 1997,Dallas Mavericks,Washington Bullets,85,86,Reunion Arena,15142,/boxscores/199703180DAL.html
+Tue Mar 18 1997,Indiana Pacers,Minnesota Timberwolves,115,97,Market Square Arena,14184,/boxscores/199703180IND.html
+Tue Mar 18 1997,New Jersey Nets,Houston Rockets,89,97,Continental Airlines Arena,20049,/boxscores/199703180NJN.html
+Tue Mar 18 1997,New York Knicks,Vancouver Grizzlies,98,73,Madison Square Garden (IV),19763,/boxscores/199703180NYK.html
+Tue Mar 18 1997,Phoenix Suns,Los Angeles Clippers,111,121,America West Arena,19023,/boxscores/199703180PHO.html
+Tue Mar 18 1997,Portland Trail Blazers,Sacramento Kings,92,87,Rose Garden Arena,21029,/boxscores/199703180POR.html
+Tue Mar 18 1997,Toronto Raptors,Philadelphia 76ers,117,105,Maple Leaf Gardens,15219,/boxscores/199703180TOR.html
+Wed Mar 19 1997,Atlanta Hawks,Indiana Pacers,107,95,Omni Coliseum,14099,/boxscores/199703190ATL.html
+Wed Mar 19 1997,Boston Celtics,Utah Jazz,100,113,FleetCenter,16770,/boxscores/199703190BOS.html
+Wed Mar 19 1997,Charlotte Hornets,Cleveland Cavaliers,90,72,Charlotte Coliseum,24042,/boxscores/199703190CHH.html
+Wed Mar 19 1997,Detroit Pistons,Toronto Raptors,97,99,The Palace of Auburn Hills,21454,/boxscores/199703190DET.html
+Wed Mar 19 1997,Los Angeles Clippers,Sacramento Kings,108,98,Los Angeles Memorial Sports Arena,6227,/boxscores/199703190LAC.html
+Wed Mar 19 1997,Miami Heat,Golden State Warriors,93,91,Miami Arena,15200,/boxscores/199703190MIA.html
+Wed Mar 19 1997,Minnesota Timberwolves,Vancouver Grizzlies,95,72,Target Center,13368,/boxscores/199703190MIN.html
+Wed Mar 19 1997,Philadelphia 76ers,New York Knicks,100,111,CoreStates Center,18305,/boxscores/199703190PHI.html
+Thu Mar 20 1997,Cleveland Cavaliers,Los Angeles Lakers,76,89,Gund Arena,18818,/boxscores/199703200CLE.html
+Thu Mar 20 1997,Houston Rockets,Washington Bullets,96,90,The Summit,16285,/boxscores/199703200HOU.html
+Thu Mar 20 1997,Milwaukee Bucks,Portland Trail Blazers,78,97,Bradley Center,14185,/boxscores/199703200MIL.html
+Thu Mar 20 1997,Orlando Magic,Golden State Warriors,100,95,Orlando Arena,17248,/boxscores/199703200ORL.html
+Thu Mar 20 1997,Phoenix Suns,San Antonio Spurs,113,106,America West Arena,19023,/boxscores/199703200PHO.html
+Thu Mar 20 1997,Seattle SuperSonics,Denver Nuggets,123,97,KeyArena at Seattle Center,17072,/boxscores/199703200SEA.html
+Fri Mar 21 1997,Atlanta Hawks,Dallas Mavericks,93,72,Omni Coliseum,13809,/boxscores/199703210ATL.html
+Fri Mar 21 1997,Boston Celtics,Orlando Magic,99,104,FleetCenter,17979,/boxscores/199703210BOS.html
+Fri Mar 21 1997,Detroit Pistons,Minnesota Timberwolves,112,98,The Palace of Auburn Hills,21454,/boxscores/199703210DET.html
+Fri Mar 21 1997,Indiana Pacers,Chicago Bulls,98,117,Market Square Arena,16759,/boxscores/199703210IND.html
+Fri Mar 21 1997,Miami Heat,Los Angeles Lakers,98,97,Miami Arena,15200,/boxscores/199703210MIA.html
+Fri Mar 21 1997,Philadelphia 76ers,New Jersey Nets,112,110,CoreStates Center,13584,/boxscores/199703210PHI.html
+Fri Mar 21 1997,Sacramento Kings,San Antonio Spurs,114,110,ARCO Arena (II),17317,/boxscores/199703210SAC.html
+Fri Mar 21 1997,Toronto Raptors,Charlotte Hornets,97,102,SkyDome,16993,/boxscores/199703210TOR.html
+Fri Mar 21 1997,Vancouver Grizzlies,Denver Nuggets,108,101,General Motors Place,19193,/boxscores/199703210VAN.html
+Sat Mar 22 1997,Charlotte Hornets,Golden State Warriors,100,93,Charlotte Coliseum,24042,/boxscores/199703220CHH.html
+Sat Mar 22 1997,Chicago Bulls,Detroit Pistons,103,88,United Center,23896,/boxscores/199703220CHI.html
+Sat Mar 22 1997,Dallas Mavericks,Cleveland Cavaliers,72,75,Reunion Arena,15102,/boxscores/199703220DAL.html
+Sat Mar 22 1997,Houston Rockets,Phoenix Suns,99,104,The Summit,16285,/boxscores/199703220HOU.html
+Sat Mar 22 1997,Milwaukee Bucks,New York Knicks,80,79,Bradley Center,18317,/boxscores/199703220MIL.html
+Sat Mar 22 1997,Seattle SuperSonics,Sacramento Kings,113,99,KeyArena at Seattle Center,17072,/boxscores/199703220SEA.html
+Sat Mar 22 1997,Utah Jazz,Los Angeles Clippers,107,94,Delta Center,19911,/boxscores/199703220UTA.html
+Sat Mar 22 1997,Washington Bullets,Portland Trail Blazers,108,104,US Airways Arena,18756,/boxscores/199703220WSB.html
+Sun Mar 23 1997,Boston Celtics,New Jersey Nets,91,100,FleetCenter,17022,/boxscores/199703230BOS.html
+Sun Mar 23 1997,Denver Nuggets,Utah Jazz,103,120,McNichols Sports Arena,10723,/boxscores/199703230DEN.html
+Sun Mar 23 1997,Los Angeles Clippers,San Antonio Spurs,106,91,Los Angeles Memorial Sports Arena,13423,/boxscores/199703230LAC.html
+Sun Mar 23 1997,Minnesota Timberwolves,Miami Heat,108,113,Target Center,19006,/boxscores/199703230MIN.html
+Sun Mar 23 1997,New York Knicks,Portland Trail Blazers,88,94,Madison Square Garden (IV),19763,/boxscores/199703230NYK.html
+Sun Mar 23 1997,Orlando Magic,Los Angeles Lakers,110,84,Orlando Arena,17248,/boxscores/199703230ORL.html
+Sun Mar 23 1997,Toronto Raptors,Atlanta Hawks,79,90,SkyDome,18533,/boxscores/199703230TOR.html
+Sun Mar 23 1997,Vancouver Grizzlies,Seattle SuperSonics,92,106,General Motors Place,17645,/boxscores/199703230VAN.html
+Mon Mar 24 1997,New Jersey Nets,Los Angeles Lakers,84,109,Continental Airlines Arena,20049,/boxscores/199703240NJN.html
+Tue Mar 25 1997,Atlanta Hawks,Portland Trail Blazers,96,89,Omni Coliseum,15256,/boxscores/199703250ATL.html
+Tue Mar 25 1997,Chicago Bulls,Dallas Mavericks,94,92,United Center,23854,/boxscores/199703250CHI.html
+Tue Mar 25 1997,Golden State Warriors,Seattle SuperSonics,89,126,San Jose Arena,15695,/boxscores/199703250GSW.html
+Tue Mar 25 1997,Houston Rockets,Minnesota Timberwolves,112,103,The Summit,16285,/boxscores/199703250HOU.html
+Tue Mar 25 1997,Los Angeles Clippers,Vancouver Grizzlies,110,104,Los Angeles Memorial Sports Arena,5528,/boxscores/199703250LAC.html
+Tue Mar 25 1997,Orlando Magic,Sacramento Kings,114,103,Orlando Arena,17248,/boxscores/199703250ORL.html
+Tue Mar 25 1997,Phoenix Suns,Milwaukee Bucks,117,112,America West Arena,19023,/boxscores/199703250PHO.html
+Tue Mar 25 1997,San Antonio Spurs,Cleveland Cavaliers,64,59,Alamodome,18631,/boxscores/199703250SAS.html
+Tue Mar 25 1997,Toronto Raptors,Indiana Pacers,84,98,SkyDome,15763,/boxscores/199703250TOR.html
+Wed Mar 26 1997,Charlotte Hornets,Portland Trail Blazers,87,88,Charlotte Coliseum,24042,/boxscores/199703260CHH.html
+Wed Mar 26 1997,Denver Nuggets,Minnesota Timberwolves,100,102,McNichols Sports Arena,10326,/boxscores/199703260DEN.html
+Wed Mar 26 1997,Indiana Pacers,Dallas Mavericks,104,80,Market Square Arena,14503,/boxscores/199703260IND.html
+Wed Mar 26 1997,Los Angeles Lakers,Milwaukee Bucks,106,84,Great Western Forum,17505,/boxscores/199703260LAL.html
+Wed Mar 26 1997,Miami Heat,Sacramento Kings,101,88,Miami Arena,14973,/boxscores/199703260MIA.html
+Wed Mar 26 1997,New Jersey Nets,Philadelphia 76ers,123,105,Continental Airlines Arena,16458,/boxscores/199703260NJN.html
+Wed Mar 26 1997,New York Knicks,Detroit Pistons,105,94,Madison Square Garden (IV),19763,/boxscores/199703260NYK.html
+Wed Mar 26 1997,Seattle SuperSonics,Phoenix Suns,107,109,KeyArena at Seattle Center,17072,/boxscores/199703260SEA.html
+Wed Mar 26 1997,Washington Bullets,Boston Celtics,105,92,US Airways Arena,16023,/boxscores/199703260WSB.html
+Thu Mar 27 1997,Atlanta Hawks,Los Angeles Clippers,103,88,Omni Coliseum,13876,/boxscores/199703270ATL.html
+Thu Mar 27 1997,Houston Rockets,Cleveland Cavaliers,107,89,The Summit,16285,/boxscores/199703270HOU.html
+Thu Mar 27 1997,San Antonio Spurs,Orlando Magic,97,93,Alamodome,16792,/boxscores/199703270SAS.html
+Thu Mar 27 1997,Toronto Raptors,Chicago Bulls,83,96,SkyDome,34104,/boxscores/199703270TOR.html
+Thu Mar 27 1997,Vancouver Grizzlies,Los Angeles Lakers,98,102,General Motors Place,18722,/boxscores/199703270VAN.html
+Fri Mar 28 1997,Charlotte Hornets,Indiana Pacers,115,116,Charlotte Coliseum,24042,/boxscores/199703280CHH.html
+Fri Mar 28 1997,Detroit Pistons,Los Angeles Clippers,113,85,The Palace of Auburn Hills,21454,/boxscores/199703280DET.html
+Fri Mar 28 1997,Miami Heat,Cleveland Cavaliers,83,79,Miami Arena,15200,/boxscores/199703280MIA.html
+Fri Mar 28 1997,New Jersey Nets,New York Knicks,92,86,Continental Airlines Arena,20049,/boxscores/199703280NJN.html
+Fri Mar 28 1997,Philadelphia 76ers,Boston Celtics,113,105,CoreStates Center,15227,/boxscores/199703280PHI.html
+Fri Mar 28 1997,Phoenix Suns,Golden State Warriors,122,115,America West Arena,19023,/boxscores/199703280PHO.html
+Fri Mar 28 1997,Portland Trail Blazers,Vancouver Grizzlies,115,81,Rose Garden Arena,20865,/boxscores/199703280POR.html
+Fri Mar 28 1997,Seattle SuperSonics,Minnesota Timberwolves,92,81,KeyArena at Seattle Center,17072,/boxscores/199703280SEA.html
+Fri Mar 28 1997,Utah Jazz,Milwaukee Bucks,101,96,Delta Center,19911,/boxscores/199703280UTA.html
+Fri Mar 28 1997,Washington Bullets,Toronto Raptors,113,86,US Airways Arena,18756,/boxscores/199703280WSB.html
+Sat Mar 29 1997,Atlanta Hawks,Sacramento Kings,88,74,Omni Coliseum,14942,/boxscores/199703290ATL.html
+Sat Mar 29 1997,Chicago Bulls,New Jersey Nets,111,101,United Center,23916,/boxscores/199703290CHI.html
+Sat Mar 29 1997,Houston Rockets,Denver Nuggets,120,105,The Summit,16285,/boxscores/199703290HOU.html
+Sat Mar 29 1997,San Antonio Spurs,Utah Jazz,102,115,Alamodome,25705,/boxscores/199703290SAS.html
+Sat Mar 29 1997,Washington Bullets,Dallas Mavericks,94,87,Baltimore Arena,11269,/boxscores/199703290WSB.html
+Sun Mar 30 1997,Cleveland Cavaliers,Dallas Mavericks,84,80,Gund Arena,15376,/boxscores/199703300CLE.html
+Sun Mar 30 1997,Denver Nuggets,Milwaukee Bucks,99,97,McNichols Sports Arena,8230,/boxscores/199703300DEN.html
+Sun Mar 30 1997,Detroit Pistons,Philadelphia 76ers,92,96,The Palace of Auburn Hills,21454,/boxscores/199703300DET.html
+Sun Mar 30 1997,Golden State Warriors,Minnesota Timberwolves,102,113,San Jose Arena,14498,/boxscores/199703300GSW.html
+Sun Mar 30 1997,Indiana Pacers,Los Angeles Clippers,103,96,Market Square Arena,16289,/boxscores/199703300IND.html
+Sun Mar 30 1997,Orlando Magic,New York Knicks,86,101,Orlando Arena,17248,/boxscores/199703300ORL.html
+Sun Mar 30 1997,Phoenix Suns,Seattle SuperSonics,107,106,America West Arena,19023,/boxscores/199703300PHO.html
+Sun Mar 30 1997,Toronto Raptors,Miami Heat,102,97,SkyDome,17959,/boxscores/199703300TOR.html

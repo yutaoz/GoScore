@@ -1,0 +1,124 @@
+Mon Apr 1 1985,Detroit Pistons,Atlanta Hawks,100,114,Joe Louis Arena,14396,/boxscores/198504010DET.html
+Mon Apr 1 1985,Seattle SuperSonics,Houston Rockets,116,127,Seattle Kingdome,6648,/boxscores/198504010SEA.html
+Tue Apr 2 1985,Atlanta Hawks,Philadelphia 76ers,91,102,Omni Coliseum,11711,/boxscores/198504020ATL.html
+Tue Apr 2 1985,Chicago Bulls,New Jersey Nets,108,94,Chicago Stadium,9636,/boxscores/198504020CHI.html
+Tue Apr 2 1985,Cleveland Cavaliers,Washington Bullets,122,107,Coliseum at Richfield,6886,/boxscores/198504020CLE.html
+Tue Apr 2 1985,Denver Nuggets,Los Angeles Lakers,104,118,McNichols Sports Arena,17022,/boxscores/198504020DEN.html
+Tue Apr 2 1985,Golden State Warriors,Dallas Mavericks,121,127,Oakland-Alameda County Coliseum Arena,5113,/boxscores/198504020GSW.html
+Tue Apr 2 1985,Indiana Pacers,Detroit Pistons,121,124,Market Square Arena,7157,/boxscores/198504020IND.html
+Tue Apr 2 1985,Milwaukee Bucks,Boston Celtics,109,103,MECCA Arena,11052,/boxscores/198504020MIL.html
+Tue Apr 2 1985,Phoenix Suns,Seattle SuperSonics,119,109,Arizona Veterans Memorial Coliseum,9742,/boxscores/198504020PHO.html
+Tue Apr 2 1985,Portland Trail Blazers,Houston Rockets,127,113,Memorial Coliseum,12666,/boxscores/198504020POR.html
+Wed Apr 3 1985,Boston Celtics,Indiana Pacers,119,103,Boston Garden,14890,/boxscores/198504030BOS.html
+Wed Apr 3 1985,Los Angeles Clippers,Kansas City Kings,124,122,Los Angeles Memorial Sports Arena,7541,/boxscores/198504030LAC.html
+Wed Apr 3 1985,New Jersey Nets,New York Knicks,113,100,Brendan Byrne Arena,11937,/boxscores/198504030NJN.html
+Wed Apr 3 1985,Philadelphia 76ers,Cleveland Cavaliers,110,113,The Spectrum,10806,/boxscores/198504030PHI.html
+Wed Apr 3 1985,San Antonio Spurs,Los Angeles Lakers,122,108,HemisFair Arena,11627,/boxscores/198504030SAS.html
+Wed Apr 3 1985,Washington Bullets,Chicago Bulls,91,100,Capital Centre,11201,/boxscores/198504030WSB.html
+Thu Apr 4 1985,Golden State Warriors,Houston Rockets,113,108,Oakland-Alameda County Coliseum Arena,10322,/boxscores/198504040GSW.html
+Thu Apr 4 1985,Milwaukee Bucks,Detroit Pistons,130,121,MECCA Arena,11052,/boxscores/198504040MIL.html
+Thu Apr 4 1985,New York Knicks,Atlanta Hawks,79,100,Madison Square Garden (IV),7619,/boxscores/198504040NYK.html
+Thu Apr 4 1985,Phoenix Suns,Denver Nuggets,103,110,Arizona Veterans Memorial Coliseum,12672,/boxscores/198504040PHO.html
+Thu Apr 4 1985,Utah Jazz,Seattle SuperSonics,118,119,Salt Palace,9250,/boxscores/198504040UTA.html
+Fri Apr 5 1985,Boston Celtics,Washington Bullets,115,104,Boston Garden,14890,/boxscores/198504050BOS.html
+Fri Apr 5 1985,Dallas Mavericks,Los Angeles Clippers,122,126,Reunion Arena,17007,/boxscores/198504050DAL.html
+Fri Apr 5 1985,Denver Nuggets,San Antonio Spurs,118,109,McNichols Sports Arena,16362,/boxscores/198504050DEN.html
+Fri Apr 5 1985,Detroit Pistons,Cleveland Cavaliers,118,119,Joe Louis Arena,12355,/boxscores/198504050DET.html
+Fri Apr 5 1985,Los Angeles Lakers,Kansas City Kings,132,125,The Forum,14625,/boxscores/198504050LAL.html
+Fri Apr 5 1985,Philadelphia 76ers,Chicago Bulls,116,113,The Spectrum,16579,/boxscores/198504050PHI.html
+Fri Apr 5 1985,Portland Trail Blazers,Seattle SuperSonics,145,120,Memorial Coliseum,12666,/boxscores/198504050POR.html
+Sat Apr 6 1985,Atlanta Hawks,Chicago Bulls,114,117,Omni Coliseum,10888,/boxscores/198504060ATL.html
+Sat Apr 6 1985,Dallas Mavericks,Houston Rockets,127,139,Reunion Arena,17007,/boxscores/198504060DAL.html
+Sat Apr 6 1985,Golden State Warriors,Kansas City Kings,141,125,Oakland-Alameda County Coliseum Arena,4838,/boxscores/198504060GSW.html
+Sat Apr 6 1985,Indiana Pacers,Philadelphia 76ers,121,117,Market Square Arena,13549,/boxscores/198504060IND.html
+Sat Apr 6 1985,New Jersey Nets,Milwaukee Bucks,108,104,Brendan Byrne Arena,14574,/boxscores/198504060NJN.html
+Sat Apr 6 1985,Utah Jazz,Phoenix Suns,105,94,Salt Palace,9476,/boxscores/198504060UTA.html
+Sat Apr 6 1985,Washington Bullets,Cleveland Cavaliers,109,101,Capital Centre,8071,/boxscores/198504060WSB.html
+Sun Apr 7 1985,Boston Celtics,New York Knicks,114,102,Boston Garden,14890,/boxscores/198504070BOS.html
+Sun Apr 7 1985,Denver Nuggets,Golden State Warriors,130,125,McNichols Sports Arena,10089,/boxscores/198504070DEN.html
+Sun Apr 7 1985,Detroit Pistons,Milwaukee Bucks,113,91,Joe Louis Arena,16153,/boxscores/198504070DET.html
+Sun Apr 7 1985,Los Angeles Lakers,Portland Trail Blazers,135,133,The Forum,13186,/boxscores/198504070LAL.html
+Sun Apr 7 1985,San Antonio Spurs,Houston Rockets,126,105,HemisFair Arena,9178,/boxscores/198504070SAS.html
+Sun Apr 7 1985,Seattle SuperSonics,Phoenix Suns,110,125,Tacoma Dome,5672,/boxscores/198504070SEA.html
+Mon Apr 8 1985,Indiana Pacers,Chicago Bulls,107,103,Market Square Arena,11225,/boxscores/198504080IND.html
+Tue Apr 9 1985,Cleveland Cavaliers,New Jersey Nets,114,100,Coliseum at Richfield,10185,/boxscores/198504090CLE.html
+Tue Apr 9 1985,Houston Rockets,San Antonio Spurs,124,103,The Summit,11702,/boxscores/198504090HOU.html
+Tue Apr 9 1985,Kansas City Kings,Dallas Mavericks,117,105,Kemper Arena,3862,/boxscores/198504090KCK.html
+Tue Apr 9 1985,Los Angeles Lakers,Denver Nuggets,148,119,The Forum,17505,/boxscores/198504090LAL.html
+Tue Apr 9 1985,New York Knicks,Detroit Pistons,97,107,Madison Square Garden (IV),7973,/boxscores/198504090NYK.html
+Tue Apr 9 1985,Philadelphia 76ers,Boston Celtics,113,104,The Spectrum,17921,/boxscores/198504090PHI.html
+Tue Apr 9 1985,Portland Trail Blazers,Phoenix Suns,116,100,Memorial Coliseum,12666,/boxscores/198504090POR.html
+Tue Apr 9 1985,Utah Jazz,Los Angeles Clippers,123,104,Salt Palace,6700,/boxscores/198504090UTA.html
+Tue Apr 9 1985,Washington Bullets,Atlanta Hawks,130,110,Capital Centre,4680,/boxscores/198504090WSB.html
+Wed Apr 10 1985,Atlanta Hawks,New York Knicks,98,94,Omni Coliseum,5732,/boxscores/198504100ATL.html
+Wed Apr 10 1985,Detroit Pistons,Indiana Pacers,116,114,Joe Louis Arena,16349,/boxscores/198504100DET.html
+Wed Apr 10 1985,Los Angeles Clippers,Denver Nuggets,129,127,Los Angeles Memorial Sports Arena,7948,/boxscores/198504100LAC.html
+Wed Apr 10 1985,Milwaukee Bucks,Washington Bullets,106,97,MECCA Arena,10117,/boxscores/198504100MIL.html
+Wed Apr 10 1985,New Jersey Nets,Philadelphia 76ers,125,100,Brendan Byrne Arena,14563,/boxscores/198504100NJN.html
+Thu Apr 11 1985,Cleveland Cavaliers,Boston Celtics,115,121,Coliseum at Richfield,20363,/boxscores/198504110CLE.html
+Thu Apr 11 1985,Golden State Warriors,Los Angeles Lakers,130,137,Oakland-Alameda County Coliseum Arena,10400,/boxscores/198504110GSW.html
+Thu Apr 11 1985,Kansas City Kings,Houston Rockets,123,125,Kemper Arena,7396,/boxscores/198504110KCK.html
+Thu Apr 11 1985,Seattle SuperSonics,Dallas Mavericks,80,124,Seattle Kingdome,4272,/boxscores/198504110SEA.html
+Thu Apr 11 1985,Utah Jazz,Portland Trail Blazers,145,107,Salt Palace,10435,/boxscores/198504110UTA.html
+Fri Apr 12 1985,Boston Celtics,Milwaukee Bucks,113,115,Boston Garden,14890,/boxscores/198504120BOS.html
+Fri Apr 12 1985,Chicago Bulls,Atlanta Hawks,108,119,Chicago Stadium,15747,/boxscores/198504120CHI.html
+Fri Apr 12 1985,Detroit Pistons,Washington Bullets,102,96,Joe Louis Arena,17483,/boxscores/198504120DET.html
+Fri Apr 12 1985,Houston Rockets,Los Angeles Clippers,110,115,The Summit,10875,/boxscores/198504120HOU.html
+Fri Apr 12 1985,Los Angeles Lakers,Seattle SuperSonics,145,131,The Forum,15434,/boxscores/198504120LAL.html
+Fri Apr 12 1985,New York Knicks,Cleveland Cavaliers,108,109,Madison Square Garden (IV),7423,/boxscores/198504120NYK.html
+Fri Apr 12 1985,Philadelphia 76ers,Indiana Pacers,111,105,The Spectrum,15147,/boxscores/198504120PHI.html
+Fri Apr 12 1985,Phoenix Suns,Utah Jazz,96,92,Arizona Veterans Memorial Coliseum,11264,/boxscores/198504120PHO.html
+Fri Apr 12 1985,Portland Trail Blazers,Dallas Mavericks,131,111,Memorial Coliseum,12666,/boxscores/198504120POR.html
+Fri Apr 12 1985,San Antonio Spurs,Kansas City Kings,117,112,HemisFair Arena,7317,/boxscores/198504120SAS.html
+Sat Apr 13 1985,Atlanta Hawks,Indiana Pacers,122,117,Omni Coliseum,5264,/boxscores/198504130ATL.html
+Sat Apr 13 1985,Golden State Warriors,Denver Nuggets,120,127,Oakland-Alameda County Coliseum Arena,6176,/boxscores/198504130GSW.html
+Sat Apr 13 1985,Milwaukee Bucks,New York Knicks,88,84,MECCA Arena,10169,/boxscores/198504130MIL.html
+Sat Apr 13 1985,New Jersey Nets,Chicago Bulls,123,111,Brendan Byrne Arena,18758,/boxscores/198504130NJN.html
+Sat Apr 13 1985,Washington Bullets,Philadelphia 76ers,118,106,Capital Centre,18306,/boxscores/198504130WSB.html
+Sun Apr 14 1985,Boston Celtics,New Jersey Nets,118,129,Boston Garden,14890,/boxscores/198504140BOS.html
+Sun Apr 14 1985,Cleveland Cavaliers,Detroit Pistons,113,116,Coliseum at Richfield,8059,/boxscores/198504140CLE.html
+Sun Apr 14 1985,Houston Rockets,Seattle SuperSonics,121,98,The Summit,10118,/boxscores/198504140HOU.html
+Sun Apr 14 1985,Kansas City Kings,Los Angeles Lakers,116,122,Kemper Arena,11371,/boxscores/198504140KCK.html
+Sun Apr 14 1985,Los Angeles Clippers,Dallas Mavericks,92,96,Los Angeles Memorial Sports Arena,10649,/boxscores/198504140LAC.html
+Sun Apr 14 1985,Phoenix Suns,Golden State Warriors,124,111,Arizona Veterans Memorial Coliseum,10121,/boxscores/198504140PHO.html
+Sun Apr 14 1985,Portland Trail Blazers,Denver Nuggets,117,112,Memorial Coliseum,12666,/boxscores/198504140POR.html
+Sun Apr 14 1985,San Antonio Spurs,Utah Jazz,102,104,HemisFair Arena,7828,/boxscores/198504140SAS.html
+Wed Apr 17 1985,Philadelphia 76ers,Washington Bullets,104,97,The Spectrum,7170,/boxscores/198504170PHI.html
+Thu Apr 18 1985,Boston Celtics,Cleveland Cavaliers,126,123,Boston Garden,14890,/boxscores/198504180BOS.html
+Thu Apr 18 1985,Dallas Mavericks,Portland Trail Blazers,139,131,Reunion Arena,17007,/boxscores/198504180DAL.html
+Thu Apr 18 1985,Denver Nuggets,San Antonio Spurs,141,111,McNichols Sports Arena,12128,/boxscores/198504180DEN.html
+Thu Apr 18 1985,Detroit Pistons,New Jersey Nets,125,105,Joe Louis Arena,10465,/boxscores/198504180DET.html
+Thu Apr 18 1985,Los Angeles Lakers,Phoenix Suns,142,114,The Forum,15547,/boxscores/198504180LAL.html
+Fri Apr 19 1985,Houston Rockets,Utah Jazz,101,115,The Summit,13185,/boxscores/198504190HOU.html
+Fri Apr 19 1985,Milwaukee Bucks,Chicago Bulls,109,100,MECCA Arena,11052,/boxscores/198504190MIL.html
+Sat Apr 20 1985,Boston Celtics,Cleveland Cavaliers,108,106,Boston Garden,14890,/boxscores/198504200BOS.html
+Sat Apr 20 1985,Dallas Mavericks,Portland Trail Blazers,121,124,Reunion Arena,17007,/boxscores/198504200DAL.html
+Sat Apr 20 1985,Denver Nuggets,San Antonio Spurs,111,113,McNichols Sports Arena,17022,/boxscores/198504200DEN.html
+Sat Apr 20 1985,Los Angeles Lakers,Phoenix Suns,147,130,The Forum,15261,/boxscores/198504200LAL.html
+Sun Apr 21 1985,Detroit Pistons,New Jersey Nets,121,111,Joe Louis Arena,11501,/boxscores/198504210DET.html
+Sun Apr 21 1985,Houston Rockets,Utah Jazz,122,96,The Summit,14139,/boxscores/198504210HOU.html
+Sun Apr 21 1985,Milwaukee Bucks,Chicago Bulls,122,115,MECCA Arena,11052,/boxscores/198504210MIL.html
+Sun Apr 21 1985,Philadelphia 76ers,Washington Bullets,113,94,The Spectrum,9612,/boxscores/198504210PHI.html
+Tue Apr 23 1985,Cleveland Cavaliers,Boston Celtics,105,98,Coliseum at Richfield,20900,/boxscores/198504230CLE.html
+Tue Apr 23 1985,Phoenix Suns,Los Angeles Lakers,103,119,Arizona Veterans Memorial Coliseum,8741,/boxscores/198504230PHO.html
+Tue Apr 23 1985,Portland Trail Blazers,Dallas Mavericks,122,109,Memorial Coliseum,12666,/boxscores/198504230POR.html
+Tue Apr 23 1985,San Antonio Spurs,Denver Nuggets,112,115,HemisFair Arena,8799,/boxscores/198504230SAS.html
+Wed Apr 24 1985,Chicago Bulls,Milwaukee Bucks,109,107,Chicago Stadium,17225,/boxscores/198504240CHI.html
+Wed Apr 24 1985,New Jersey Nets,Detroit Pistons,115,116,Brendan Byrne Arena,9999,/boxscores/198504240NJN.html
+Wed Apr 24 1985,Utah Jazz,Houston Rockets,112,104,Salt Palace,12316,/boxscores/198504240UTA.html
+Wed Apr 24 1985,Washington Bullets,Philadelphia 76ers,118,100,Capital Centre,11103,/boxscores/198504240WSB.html
+Thu Apr 25 1985,Cleveland Cavaliers,Boston Celtics,115,117,Coliseum at Richfield,20900,/boxscores/198504250CLE.html
+Thu Apr 25 1985,Portland Trail Blazers,Dallas Mavericks,115,113,Memorial Coliseum,12666,/boxscores/198504250POR.html
+Fri Apr 26 1985,Chicago Bulls,Milwaukee Bucks,97,105,Chicago Stadium,17787,/boxscores/198504260CHI.html
+Fri Apr 26 1985,San Antonio Spurs,Denver Nuggets,116,111,HemisFair Arena,8621,/boxscores/198504260SAS.html
+Fri Apr 26 1985,Utah Jazz,Houston Rockets,94,96,Salt Palace,12690,/boxscores/198504260UTA.html
+Fri Apr 26 1985,Washington Bullets,Philadelphia 76ers,98,106,Capital Centre,12238,/boxscores/198504260WSB.html
+Sat Apr 27 1985,Los Angeles Lakers,Portland Trail Blazers,125,101,The Forum,13909,/boxscores/198504270LAL.html
+Sun Apr 28 1985,Boston Celtics,Detroit Pistons,133,99,Boston Garden,14890,/boxscores/198504280BOS.html
+Sun Apr 28 1985,Denver Nuggets,San Antonio Spurs,126,99,McNichols Sports Arena,17022,/boxscores/198504280DEN.html
+Sun Apr 28 1985,Houston Rockets,Utah Jazz,97,104,The Summit,16016,/boxscores/198504280HOU.html
+Sun Apr 28 1985,Milwaukee Bucks,Philadelphia 76ers,105,127,MECCA Arena,11052,/boxscores/198504280MIL.html
+Tue Apr 30 1985,Boston Celtics,Detroit Pistons,121,114,Boston Garden,14890,/boxscores/198504300BOS.html
+Tue Apr 30 1985,Denver Nuggets,Utah Jazz,130,113,McNichols Sports Arena,11918,/boxscores/198504300DEN.html
+Tue Apr 30 1985,Los Angeles Lakers,Portland Trail Blazers,134,118,The Forum,17505,/boxscores/198504300LAL.html
+Tue Apr 30 1985,Milwaukee Bucks,Philadelphia 76ers,108,112,MECCA Arena,11052,/boxscores/198504300MIL.html

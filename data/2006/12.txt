@@ -1,0 +1,218 @@
+Thu Dec 1 2005,Dallas Mavericks,San Antonio Spurs,90,92,American Airlines Center,20076,/boxscores/200512010DAL.html
+Thu Dec 1 2005,Utah Jazz,Los Angeles Lakers,101,105,Delta Center,18008,/boxscores/200512010UTA.html
+Fri Dec 2 2005,Atlanta Hawks,Toronto Raptors,101,102,Philips Arena,12261,/boxscores/200512020ATL.html
+Fri Dec 2 2005,Washington Wizards,Milwaukee Bucks,102,105,MCI Center,20173,/boxscores/200512020WAS.html
+Fri Dec 2 2005,Boston Celtics,Chicago Bulls,102,106,TD Banknorth Garden,14393,/boxscores/200512020BOS.html
+Fri Dec 2 2005,Detroit Pistons,New York Knicks,106,98,The Palace of Auburn Hills,22076,/boxscores/200512020DET.html
+Fri Dec 2 2005,Memphis Grizzlies,Orlando Magic,91,69,FedEx Forum,13913,/boxscores/200512020MEM.html
+Fri Dec 2 2005,New Orleans/Oklahoma City Hornets,Philadelphia 76ers,88,86,Ford Center,19163,/boxscores/200512020NOK.html
+Fri Dec 2 2005,Phoenix Suns,Denver Nuggets,102,97,America West Arena,17852,/boxscores/200512020PHO.html
+Fri Dec 2 2005,Portland Trail Blazers,Indiana Pacers,78,98,Rose Garden Arena,13031,/boxscores/200512020POR.html
+Fri Dec 2 2005,Sacramento Kings,Miami Heat,87,98,ARCO Arena (II),17317,/boxscores/200512020SAC.html
+Fri Dec 2 2005,Golden State Warriors,Charlotte Bobcats,107,100,Oakland Arena,18240,/boxscores/200512020GSW.html
+Fri Dec 2 2005,Los Angeles Lakers,Minnesota Timberwolves,108,113,STAPLES Center,18997,/boxscores/200512020LAL.html
+Fri Dec 2 2005,Seattle SuperSonics,Cleveland Cavaliers,115,108,KeyArena at Seattle Center,17072,/boxscores/200512020SEA.html
+Sat Dec 3 2005,New Jersey Nets,Toronto Raptors,82,95,Continental Airlines Arena,14613,/boxscores/200512030NJN.html
+Sat Dec 3 2005,Chicago Bulls,Detroit Pistons,79,92,United Center,21875,/boxscores/200512030CHI.html
+Sat Dec 3 2005,Dallas Mavericks,New Orleans/Oklahoma City Hornets,97,88,American Airlines Center,19651,/boxscores/200512030DAL.html
+Sat Dec 3 2005,Houston Rockets,Memphis Grizzlies,75,90,Toyota Center,17135,/boxscores/200512030HOU.html
+Sat Dec 3 2005,Milwaukee Bucks,Orlando Magic,104,84,Bradley Center,17121,/boxscores/200512030MIL.html
+Sat Dec 3 2005,San Antonio Spurs,Philadelphia 76ers,100,91,SBC Center,18797,/boxscores/200512030SAS.html
+Sat Dec 3 2005,Denver Nuggets,Miami Heat,101,99,Pepsi Center,18196,/boxscores/200512030DEN.html
+Sat Dec 3 2005,Los Angeles Clippers,Cleveland Cavaliers,102,90,STAPLES Center,18369,/boxscores/200512030LAC.html
+Sun Dec 4 2005,New York Knicks,Boston Celtics,99,102,Madison Square Garden (IV),19763,/boxscores/200512040NYK.html
+Sun Dec 4 2005,Phoenix Suns,Atlanta Hawks,112,94,America West Arena,16992,/boxscores/200512040PHO.html
+Sun Dec 4 2005,Seattle SuperSonics,Indiana Pacers,107,102,KeyArena at Seattle Center,15761,/boxscores/200512040SEA.html
+Sun Dec 4 2005,Portland Trail Blazers,Utah Jazz,93,98,Rose Garden Arena,13254,/boxscores/200512040POR.html
+Sun Dec 4 2005,Sacramento Kings,Minnesota Timberwolves,77,85,ARCO Arena (II),17317,/boxscores/200512040SAC.html
+Sun Dec 4 2005,Los Angeles Lakers,Charlotte Bobcats,99,98,STAPLES Center,18506,/boxscores/200512040LAL.html
+Mon Dec 5 2005,Orlando Magic,San Antonio Spurs,85,110,TD Waterhouse Centre,14661,/boxscores/200512050ORL.html
+Mon Dec 5 2005,Chicago Bulls,Dallas Mavericks,94,102,United Center,21733,/boxscores/200512050CHI.html
+Mon Dec 5 2005,Utah Jazz,Minnesota Timberwolves,77,91,Delta Center,18218,/boxscores/200512050UTA.html
+Mon Dec 5 2005,Los Angeles Clippers,Miami Heat,99,89,STAPLES Center,19060,/boxscores/200512050LAC.html
+Tue Dec 6 2005,Indiana Pacers,Dallas Mavericks,75,84,Conseco Fieldhouse,14627,/boxscores/200512060IND.html
+Tue Dec 6 2005,Washington Wizards,Toronto Raptors,119,111,MCI Center,12401,/boxscores/200512060WAS.html
+Tue Dec 6 2005,Memphis Grizzlies,New Orleans/Oklahoma City Hornets,89,73,FedEx Forum,13271,/boxscores/200512060MEM.html
+Tue Dec 6 2005,Milwaukee Bucks,Los Angeles Lakers,92,111,Bradley Center,15185,/boxscores/200512060MIL.html
+Tue Dec 6 2005,Houston Rockets,Boston Celtics,91,73,Toyota Center,14665,/boxscores/200512060HOU.html
+Tue Dec 6 2005,Denver Nuggets,Atlanta Hawks,125,116,Pepsi Center,13206,/boxscores/200512060DEN.html
+Tue Dec 6 2005,Phoenix Suns,Portland Trail Blazers,130,85,America West Arena,15102,/boxscores/200512060PHO.html
+Tue Dec 6 2005,Sacramento Kings,Cleveland Cavaliers,97,102,ARCO Arena (II),17317,/boxscores/200512060SAC.html
+Tue Dec 6 2005,Seattle SuperSonics,New York Knicks,101,104,KeyArena at Seattle Center,16288,/boxscores/200512060SEA.html
+Wed Dec 7 2005,Orlando Magic,Chicago Bulls,93,102,TD Waterhouse Centre,12702,/boxscores/200512070ORL.html
+Wed Dec 7 2005,Philadelphia 76ers,Milwaukee Bucks,85,88,Wachovia Center,12746,/boxscores/200512070PHI.html
+Wed Dec 7 2005,Toronto Raptors,Los Angeles Lakers,91,102,Air Canada Centre,18821,/boxscores/200512070TOR.html
+Wed Dec 7 2005,Charlotte Bobcats,New Jersey Nets,84,97,Charlotte Bobcats Arena,14622,/boxscores/200512070CHA.html
+Wed Dec 7 2005,New Orleans/Oklahoma City Hornets,Boston Celtics,87,101,Ford Center,18753,/boxscores/200512070NOK.html
+Wed Dec 7 2005,San Antonio Spurs,Miami Heat,98,84,SBC Center,18797,/boxscores/200512070SAS.html
+Wed Dec 7 2005,Utah Jazz,Atlanta Hawks,95,83,Delta Center,16463,/boxscores/200512070UTA.html
+Wed Dec 7 2005,Portland Trail Blazers,Minnesota Timberwolves,74,84,Rose Garden Arena,12401,/boxscores/200512070POR.html
+Wed Dec 7 2005,Golden State Warriors,Phoenix Suns,110,118,Oakland Arena,17389,/boxscores/200512070GSW.html
+Wed Dec 7 2005,Los Angeles Clippers,New York Knicks,84,79,STAPLES Center,15316,/boxscores/200512070LAC.html
+Thu Dec 8 2005,Indiana Pacers,Washington Wizards,111,87,Conseco Fieldhouse,14273,/boxscores/200512080IND.html
+Thu Dec 8 2005,Sacramento Kings,Houston Rockets,95,106,ARCO Arena (II),17317,/boxscores/200512080SAC.html
+Fri Dec 9 2005,Philadelphia 76ers,Charlotte Bobcats,119,115,Wachovia Center,14793,/boxscores/200512090PHI.html
+Fri Dec 9 2005,Cleveland Cavaliers,New Jersey Nets,100,109,Gund Arena,18177,/boxscores/200512090CLE.html
+Fri Dec 9 2005,Miami Heat,Denver Nuggets,92,100,AmericanAirlines Arena,19896,/boxscores/200512090MIA.html
+Fri Dec 9 2005,Memphis Grizzlies,Dallas Mavericks,83,90,FedEx Forum,17176,/boxscores/200512090MEM.html
+Fri Dec 9 2005,Chicago Bulls,Los Angeles Lakers,80,93,United Center,22410,/boxscores/200512090CHI.html
+Fri Dec 9 2005,San Antonio Spurs,Boston Celtics,101,89,SBC Center,18797,/boxscores/200512090SAS.html
+Fri Dec 9 2005,Utah Jazz,Seattle SuperSonics,90,106,Delta Center,18152,/boxscores/200512090UTA.html
+Fri Dec 9 2005,Phoenix Suns,New York Knicks,85,81,America West Arena,18207,/boxscores/200512090PHO.html
+Fri Dec 9 2005,Portland Trail Blazers,New Orleans/Oklahoma City Hornets,98,95,Rose Garden Arena,12305,/boxscores/200512090POR.html
+Fri Dec 9 2005,Golden State Warriors,Detroit Pistons,103,106,Oakland Arena,19596,/boxscores/200512090GSW.html
+Sat Dec 10 2005,Atlanta Hawks,San Antonio Spurs,94,84,Philips Arena,16678,/boxscores/200512100ATL.html
+Sat Dec 10 2005,Orlando Magic,Denver Nuggets,94,83,TD Waterhouse Centre,16569,/boxscores/200512100ORL.html
+Sat Dec 10 2005,Washington Wizards,Chicago Bulls,111,118,MCI Center,18833,/boxscores/200512100WAS.html
+Sat Dec 10 2005,Charlotte Bobcats,Toronto Raptors,103,111,Charlotte Bobcats Arena,15163,/boxscores/200512100CHA.html
+Sat Dec 10 2005,New Jersey Nets,Philadelphia 76ers,95,107,Continental Airlines Arena,18740,/boxscores/200512100NJN.html
+Sat Dec 10 2005,Indiana Pacers,Memphis Grizzlies,80,66,Conseco Fieldhouse,16043,/boxscores/200512100IND.html
+Sat Dec 10 2005,Minnesota Timberwolves,Los Angeles Lakers,95,82,Target Center,18739,/boxscores/200512100MIN.html
+Sat Dec 10 2005,Dallas Mavericks,Boston Celtics,103,94,American Airlines Center,20156,/boxscores/200512100DAL.html
+Sat Dec 10 2005,Milwaukee Bucks,Cleveland Cavaliers,111,106,Bradley Center,18717,/boxscores/200512100MIL.html
+Sat Dec 10 2005,Seattle SuperSonics,Sacramento Kings,104,123,KeyArena at Seattle Center,15982,/boxscores/200512100SEA.html
+Sat Dec 10 2005,Los Angeles Clippers,Phoenix Suns,101,91,STAPLES Center,17033,/boxscores/200512100LAC.html
+Sun Dec 11 2005,Miami Heat,Washington Wizards,104,101,AmericanAirlines Arena,19600,/boxscores/200512110MIA.html
+Sun Dec 11 2005,Los Angeles Clippers,Detroit Pistons,101,109,STAPLES Center,19060,/boxscores/200512110LAC.html
+Sun Dec 11 2005,Portland Trail Blazers,Houston Rockets,86,100,Rose Garden Arena,12886,/boxscores/200512110POR.html
+Sun Dec 11 2005,Sacramento Kings,New Orleans/Oklahoma City Hornets,110,100,ARCO Arena (II),17317,/boxscores/200512110SAC.html
+Mon Dec 12 2005,Philadelphia 76ers,Minnesota Timberwolves,90,89,Wachovia Center,13310,/boxscores/200512120PHI.html
+Mon Dec 12 2005,New York Knicks,Milwaukee Bucks,92,112,Madison Square Garden (IV),16436,/boxscores/200512120NYK.html
+Mon Dec 12 2005,Dallas Mavericks,Los Angeles Lakers,106,109,American Airlines Center,19680,/boxscores/200512120DAL.html
+Mon Dec 12 2005,Phoenix Suns,New Orleans/Oklahoma City Hornets,87,91,America West Arena,15547,/boxscores/200512120PHO.html
+Mon Dec 12 2005,Utah Jazz,Detroit Pistons,92,78,Delta Center,18275,/boxscores/200512120UTA.html
+Tue Dec 13 2005,Cleveland Cavaliers,Atlanta Hawks,94,100,Gund Arena,17114,/boxscores/200512130CLE.html
+Tue Dec 13 2005,Washington Wizards,New Jersey Nets,94,74,MCI Center,15124,/boxscores/200512130WAS.html
+Tue Dec 13 2005,Charlotte Bobcats,Denver Nuggets,85,101,Charlotte Bobcats Arena,13288,/boxscores/200512130CHA.html
+Tue Dec 13 2005,Minnesota Timberwolves,Sacramento Kings,91,93,Target Center,13989,/boxscores/200512130MIN.html
+Tue Dec 13 2005,Chicago Bulls,Miami Heat,97,100,United Center,19129,/boxscores/200512130CHI.html
+Tue Dec 13 2005,San Antonio Spurs,Los Angeles Clippers,95,87,SBC Center,18797,/boxscores/200512130SAS.html
+Tue Dec 13 2005,Seattle SuperSonics,Golden State Warriors,107,110,KeyArena at Seattle Center,14271,/boxscores/200512130SEA.html
+Wed Dec 14 2005,Philadelphia 76ers,Atlanta Hawks,106,101,Wachovia Center,12161,/boxscores/200512140PHI.html
+Wed Dec 14 2005,Toronto Raptors,Chicago Bulls,94,105,Air Canada Centre,16169,/boxscores/200512140TOR.html
+Wed Dec 14 2005,Boston Celtics,Indiana Pacers,85,71,TD Banknorth Garden,14112,/boxscores/200512140BOS.html
+Wed Dec 14 2005,Detroit Pistons,Sacramento Kings,109,98,The Palace of Auburn Hills,22076,/boxscores/200512140DET.html
+Wed Dec 14 2005,New Jersey Nets,Charlotte Bobcats,83,91,Continental Airlines Arena,13363,/boxscores/200512140NJN.html
+Wed Dec 14 2005,New York Knicks,Orlando Magic,90,105,Madison Square Garden (IV),17490,/boxscores/200512140NYK.html
+Wed Dec 14 2005,Dallas Mavericks,Phoenix Suns,102,96,American Airlines Center,19731,/boxscores/200512140DAL.html
+Wed Dec 14 2005,Memphis Grizzlies,Los Angeles Lakers,79,94,FedEx Forum,16591,/boxscores/200512140MEM.html
+Wed Dec 14 2005,Milwaukee Bucks,Miami Heat,83,100,Bradley Center,16287,/boxscores/200512140MIL.html
+Wed Dec 14 2005,New Orleans/Oklahoma City Hornets,Los Angeles Clippers,102,89,Ford Center,17490,/boxscores/200512140NOK.html
+Wed Dec 14 2005,Utah Jazz,Portland Trail Blazers,82,77,Delta Center,19023,/boxscores/200512140UTA.html
+Wed Dec 14 2005,Golden State Warriors,Houston Rockets,105,111,Oakland Arena,18257,/boxscores/200512140GSW.html
+Thu Dec 15 2005,Cleveland Cavaliers,Denver Nuggets,94,85,Gund Arena,17182,/boxscores/200512150CLE.html
+Thu Dec 15 2005,Minnesota Timberwolves,San Antonio Spurs,88,90,Target Center,17003,/boxscores/200512150MIN.html
+Thu Dec 15 2005,Seattle SuperSonics,Houston Rockets,98,104,KeyArena at Seattle Center,16563,/boxscores/200512150SEA.html
+Fri Dec 16 2005,Atlanta Hawks,New York Knicks,122,111,Philips Arena,16295,/boxscores/200512160ATL.html
+Fri Dec 16 2005,Indiana Pacers,Utah Jazz,93,83,Conseco Fieldhouse,14970,/boxscores/200512160IND.html
+Fri Dec 16 2005,Toronto Raptors,Golden State Warriors,98,108,Air Canada Centre,15829,/boxscores/200512160TOR.html
+Fri Dec 16 2005,Boston Celtics,Milwaukee Bucks,96,100,TD Banknorth Garden,16116,/boxscores/200512160BOS.html
+Fri Dec 16 2005,New Jersey Nets,Denver Nuggets,115,106,Continental Airlines Arena,13947,/boxscores/200512160NJN.html
+Fri Dec 16 2005,Detroit Pistons,Chicago Bulls,110,82,The Palace of Auburn Hills,22076,/boxscores/200512160DET.html
+Fri Dec 16 2005,New Orleans/Oklahoma City Hornets,Phoenix Suns,88,101,Pete Maravich Assembly Center,7302,/boxscores/200512160NOK.html
+Fri Dec 16 2005,Philadelphia 76ers,Miami Heat,105,112,Wachovia Center,20652,/boxscores/200512160PHI.html
+Fri Dec 16 2005,Dallas Mavericks,Orlando Magic,109,103,American Airlines Center,19876,/boxscores/200512160DAL.html
+Fri Dec 16 2005,Portland Trail Blazers,Seattle SuperSonics,99,111,Rose Garden Arena,14023,/boxscores/200512160POR.html
+Fri Dec 16 2005,Los Angeles Lakers,Washington Wizards,97,91,STAPLES Center,18997,/boxscores/200512160LAL.html
+Sat Dec 17 2005,Los Angeles Clippers,Houston Rockets,89,81,STAPLES Center,17611,/boxscores/200512170LAC.html
+Sat Dec 17 2005,Charlotte Bobcats,Detroit Pistons,78,103,Charlotte Bobcats Arena,19026,/boxscores/200512170CHA.html
+Sat Dec 17 2005,Cleveland Cavaliers,Miami Heat,115,107,Gund Arena,20562,/boxscores/200512170CLE.html
+Sat Dec 17 2005,New York Knicks,Indiana Pacers,96,102,Madison Square Garden (IV),19763,/boxscores/200512170NYK.html
+Sat Dec 17 2005,Memphis Grizzlies,Phoenix Suns,91,87,FedEx Forum,16375,/boxscores/200512170MEM.html
+Sat Dec 17 2005,Chicago Bulls,Boston Celtics,118,86,United Center,20746,/boxscores/200512170CHI.html
+Sat Dec 17 2005,Milwaukee Bucks,Utah Jazz,80,88,Bradley Center,16827,/boxscores/200512170MIL.html
+Sat Dec 17 2005,San Antonio Spurs,Sacramento Kings,90,89,SBC Center,18797,/boxscores/200512170SAS.html
+Sun Dec 18 2005,Toronto Raptors,Philadelphia 76ers,80,107,Air Canada Centre,18918,/boxscores/200512180TOR.html
+Sun Dec 18 2005,Atlanta Hawks,Denver Nuggets,110,107,Philips Arena,16674,/boxscores/200512180ATL.html
+Sun Dec 18 2005,New Jersey Nets,Golden State Warriors,118,90,Continental Airlines Arena,14919,/boxscores/200512180NJN.html
+Sun Dec 18 2005,New Orleans/Oklahoma City Hornets,San Antonio Spurs,89,76,Ford Center,19297,/boxscores/200512180NOK.html
+Sun Dec 18 2005,Dallas Mavericks,Minnesota Timberwolves,102,95,American Airlines Center,20134,/boxscores/200512180DAL.html
+Sun Dec 18 2005,Portland Trail Blazers,Washington Wizards,97,92,Rose Garden Arena,12486,/boxscores/200512180POR.html
+Sun Dec 18 2005,Los Angeles Lakers,Houston Rockets,74,76,STAPLES Center,18997,/boxscores/200512180LAL.html
+Mon Dec 19 2005,Orlando Magic,Toronto Raptors,90,92,TD Waterhouse Centre,12511,/boxscores/200512190ORL.html
+Mon Dec 19 2005,Boston Celtics,Golden State Warriors,109,98,TD Banknorth Garden,14017,/boxscores/200512190BOS.html
+Mon Dec 19 2005,Charlotte Bobcats,Sacramento Kings,106,103,Charlotte Bobcats Arena,14155,/boxscores/200512190CHA.html
+Mon Dec 19 2005,Memphis Grizzlies,Detroit Pistons,104,106,FedEx Forum,16897,/boxscores/200512190MEM.html
+Mon Dec 19 2005,Seattle SuperSonics,Washington Wizards,111,101,KeyArena at Seattle Center,16703,/boxscores/200512190SEA.html
+Tue Dec 20 2005,Cleveland Cavaliers,Utah Jazz,110,85,Gund Arena,19543,/boxscores/200512200CLE.html
+Tue Dec 20 2005,Detroit Pistons,Portland Trail Blazers,93,89,The Palace of Auburn Hills,22076,/boxscores/200512200DET.html
+Tue Dec 20 2005,Miami Heat,Atlanta Hawks,111,92,AmericanAirlines Arena,20294,/boxscores/200512200MIA.html
+Tue Dec 20 2005,New Jersey Nets,Los Angeles Clippers,99,85,Continental Airlines Arena,14785,/boxscores/200512200NJN.html
+Tue Dec 20 2005,Milwaukee Bucks,San Antonio Spurs,109,107,Bradley Center,16865,/boxscores/200512200MIL.html
+Tue Dec 20 2005,Chicago Bulls,Charlotte Bobcats,92,105,United Center,21768,/boxscores/200512200CHI.html
+Tue Dec 20 2005,Phoenix Suns,Seattle SuperSonics,111,83,America West Arena,17590,/boxscores/200512200PHO.html
+Tue Dec 20 2005,Los Angeles Lakers,Dallas Mavericks,112,90,STAPLES Center,18997,/boxscores/200512200LAL.html
+Wed Dec 21 2005,Indiana Pacers,Los Angeles Clippers,97,75,Conseco Fieldhouse,15342,/boxscores/200512210IND.html
+Wed Dec 21 2005,Orlando Magic,New Jersey Nets,85,96,TD Waterhouse Centre,13626,/boxscores/200512210ORL.html
+Wed Dec 21 2005,Philadelphia 76ers,Golden State Warriors,111,100,Wachovia Center,14813,/boxscores/200512210PHI.html
+Wed Dec 21 2005,Boston Celtics,Utah Jazz,101,89,TD Banknorth Garden,15240,/boxscores/200512210BOS.html
+Wed Dec 21 2005,New York Knicks,San Antonio Spurs,96,109,Madison Square Garden (IV),19763,/boxscores/200512210NYK.html
+Wed Dec 21 2005,Memphis Grizzlies,Portland Trail Blazers,89,79,FedEx Forum,14231,/boxscores/200512210MEM.html
+Wed Dec 21 2005,Minnesota Timberwolves,New Orleans/Oklahoma City Hornets,88,69,Target Center,14454,/boxscores/200512210MIN.html
+Wed Dec 21 2005,Houston Rockets,Toronto Raptors,81,94,Toyota Center,14901,/boxscores/200512210HOU.html
+Wed Dec 21 2005,Denver Nuggets,Washington Wizards,110,116,Pepsi Center,18467,/boxscores/200512210DEN.html
+Thu Dec 22 2005,Chicago Bulls,Cleveland Cavaliers,100,108,United Center,21874,/boxscores/200512220CHI.html
+Thu Dec 22 2005,Sacramento Kings,Dallas Mavericks,95,105,ARCO Arena (II),17317,/boxscores/200512220SAC.html
+Fri Dec 23 2005,Atlanta Hawks,Philadelphia 76ers,111,108,Philips Arena,17343,/boxscores/200512230ATL.html
+Fri Dec 23 2005,Orlando Magic,Los Angeles Lakers,88,104,TD Waterhouse Centre,17283,/boxscores/200512230ORL.html
+Fri Dec 23 2005,Charlotte Bobcats,Los Angeles Clippers,88,97,Charlotte Bobcats Arena,16799,/boxscores/200512230CHA.html
+Fri Dec 23 2005,Miami Heat,New Jersey Nets,88,95,AmericanAirlines Arena,20065,/boxscores/200512230MIA.html
+Fri Dec 23 2005,New York Knicks,Utah Jazz,98,90,Madison Square Garden (IV),17549,/boxscores/200512230NYK.html
+Fri Dec 23 2005,Cleveland Cavaliers,Indiana Pacers,94,89,Gund Arena,18757,/boxscores/200512230CLE.html
+Fri Dec 23 2005,Detroit Pistons,Golden State Warriors,97,85,The Palace of Auburn Hills,22076,/boxscores/200512230DET.html
+Fri Dec 23 2005,Memphis Grizzlies,Chicago Bulls,95,77,FedEx Forum,15917,/boxscores/200512230MEM.html
+Fri Dec 23 2005,Minnesota Timberwolves,Portland Trail Blazers,83,91,Target Center,14875,/boxscores/200512230MIN.html
+Fri Dec 23 2005,Milwaukee Bucks,New Orleans/Oklahoma City Hornets,101,94,Bradley Center,16824,/boxscores/200512230MIL.html
+Fri Dec 23 2005,San Antonio Spurs,Toronto Raptors,95,90,SBC Center,18797,/boxscores/200512230SAS.html
+Fri Dec 23 2005,Denver Nuggets,Houston Rockets,108,86,Pepsi Center,18629,/boxscores/200512230DEN.html
+Fri Dec 23 2005,Phoenix Suns,Washington Wizards,111,112,America West Arena,18265,/boxscores/200512230PHO.html
+Fri Dec 23 2005,Seattle SuperSonics,Dallas Mavericks,98,101,KeyArena at Seattle Center,16211,/boxscores/200512230SEA.html
+Sun Dec 25 2005,Detroit Pistons,San Antonio Spurs,85,70,The Palace of Auburn Hills,22076,/boxscores/200512250DET.html
+Sun Dec 25 2005,Miami Heat,Los Angeles Lakers,97,92,AmericanAirlines Arena,20277,/boxscores/200512250MIA.html
+Mon Dec 26 2005,Cleveland Cavaliers,Chicago Bulls,102,91,Gund Arena,20562,/boxscores/200512260CLE.html
+Mon Dec 26 2005,Orlando Magic,Milwaukee Bucks,108,93,TD Waterhouse Centre,13861,/boxscores/200512260ORL.html
+Mon Dec 26 2005,Washington Wizards,Los Angeles Lakers,94,91,MCI Center,20173,/boxscores/200512260WAS.html
+Mon Dec 26 2005,New York Knicks,New Jersey Nets,101,109,Madison Square Garden (IV),19763,/boxscores/200512260NYK.html
+Mon Dec 26 2005,Minnesota Timberwolves,Phoenix Suns,89,103,Target Center,17197,/boxscores/200512260MIN.html
+Mon Dec 26 2005,Dallas Mavericks,Indiana Pacers,102,80,American Airlines Center,20337,/boxscores/200512260DAL.html
+Mon Dec 26 2005,Utah Jazz,Memphis Grizzlies,105,102,Delta Center,18545,/boxscores/200512260UTA.html
+Mon Dec 26 2005,Sacramento Kings,Portland Trail Blazers,92,105,ARCO Arena (II),17317,/boxscores/200512260SAC.html
+Mon Dec 26 2005,Seattle SuperSonics,Boston Celtics,118,111,KeyArena at Seattle Center,17072,/boxscores/200512260SEA.html
+Mon Dec 26 2005,Golden State Warriors,Denver Nuggets,112,118,Oakland Arena,20007,/boxscores/200512260GSW.html
+Tue Dec 27 2005,Atlanta Hawks,Charlotte Bobcats,90,93,Philips Arena,17219,/boxscores/200512270ATL.html
+Tue Dec 27 2005,Detroit Pistons,Toronto Raptors,113,106,The Palace of Auburn Hills,22076,/boxscores/200512270DET.html
+Tue Dec 27 2005,Miami Heat,Milwaukee Bucks,109,98,AmericanAirlines Arena,20270,/boxscores/200512270MIA.html
+Tue Dec 27 2005,New Jersey Nets,Cleveland Cavaliers,96,91,Continental Airlines Arena,20098,/boxscores/200512270NJN.html
+Tue Dec 27 2005,Houston Rockets,Utah Jazz,74,82,Toyota Center,18088,/boxscores/200512270HOU.html
+Tue Dec 27 2005,San Antonio Spurs,Indiana Pacers,99,86,SBC Center,18797,/boxscores/200512270SAS.html
+Tue Dec 27 2005,Denver Nuggets,Philadelphia 76ers,106,108,Pepsi Center,19667,/boxscores/200512270DEN.html
+Tue Dec 27 2005,Los Angeles Clippers,Sacramento Kings,93,110,STAPLES Center,18151,/boxscores/200512270LAC.html
+Wed Dec 28 2005,Orlando Magic,New York Knicks,105,95,TD Waterhouse Centre,15796,/boxscores/200512280ORL.html
+Wed Dec 28 2005,Toronto Raptors,Atlanta Hawks,108,102,Air Canada Centre,18326,/boxscores/200512280TOR.html
+Wed Dec 28 2005,Washington Wizards,Phoenix Suns,99,104,MCI Center,16424,/boxscores/200512280WAS.html
+Wed Dec 28 2005,Charlotte Bobcats,Chicago Bulls,93,80,Charlotte Bobcats Arena,17456,/boxscores/200512280CHA.html
+Wed Dec 28 2005,Minnesota Timberwolves,Seattle SuperSonics,108,95,Target Center,17819,/boxscores/200512280MIN.html
+Wed Dec 28 2005,New Orleans/Oklahoma City Hornets,Houston Rockets,92,90,Ford Center,19205,/boxscores/200512280NOK.html
+Wed Dec 28 2005,Portland Trail Blazers,Philadelphia 76ers,95,91,Rose Garden Arena,17384,/boxscores/200512280POR.html
+Wed Dec 28 2005,Golden State Warriors,Boston Celtics,111,109,Oakland Arena,19596,/boxscores/200512280GSW.html
+Wed Dec 28 2005,Los Angeles Lakers,Memphis Grizzlies,99,100,STAPLES Center,18997,/boxscores/200512280LAL.html
+Thu Dec 29 2005,Detroit Pistons,Miami Heat,106,101,The Palace of Auburn Hills,22076,/boxscores/200512290DET.html
+Thu Dec 29 2005,San Antonio Spurs,New Orleans/Oklahoma City Hornets,111,84,SBC Center,18797,/boxscores/200512290SAS.html
+Thu Dec 29 2005,Denver Nuggets,Seattle SuperSonics,105,112,Pepsi Center,15641,/boxscores/200512290DEN.html
+Fri Dec 30 2005,Indiana Pacers,Toronto Raptors,97,99,Conseco Fieldhouse,18345,/boxscores/200512300IND.html
+Fri Dec 30 2005,Orlando Magic,Minnesota Timberwolves,107,87,TD Waterhouse Centre,15683,/boxscores/200512300ORL.html
+Fri Dec 30 2005,Washington Wizards,Miami Heat,113,128,MCI Center,20173,/boxscores/200512300WAS.html
+Fri Dec 30 2005,Charlotte Bobcats,Phoenix Suns,100,110,Charlotte Bobcats Arena,18201,/boxscores/200512300CHA.html
+Fri Dec 30 2005,New Jersey Nets,Atlanta Hawks,99,91,Continental Airlines Arena,15653,/boxscores/200512300NJN.html
+Fri Dec 30 2005,Dallas Mavericks,Golden State Warriors,109,111,American Airlines Center,20348,/boxscores/200512300DAL.html
+Fri Dec 30 2005,Milwaukee Bucks,New York Knicks,113,108,Bradley Center,18717,/boxscores/200512300MIL.html
+Fri Dec 30 2005,Portland Trail Blazers,Memphis Grizzlies,90,93,Rose Garden Arena,13697,/boxscores/200512300POR.html
+Fri Dec 30 2005,Sacramento Kings,Boston Celtics,116,112,ARCO Arena (II),17317,/boxscores/200512300SAC.html
+Sat Dec 31 2005,Cleveland Cavaliers,Detroit Pistons,97,84,Gund Arena,20562,/boxscores/200512310CLE.html
+Sat Dec 31 2005,Chicago Bulls,Phoenix Suns,98,107,United Center,22165,/boxscores/200512310CHI.html
+Sat Dec 31 2005,Houston Rockets,Golden State Warriors,89,94,Toyota Center,17175,/boxscores/200512310HOU.html
+Sat Dec 31 2005,New Orleans/Oklahoma City Hornets,Dallas Mavericks,90,95,Ford Center,19170,/boxscores/200512310NOK.html
+Sat Dec 31 2005,Utah Jazz,Philadelphia 76ers,108,102,Delta Center,19911,/boxscores/200512310UTA.html
+Sat Dec 31 2005,Denver Nuggets,San Antonio Spurs,88,98,Pepsi Center,18296,/boxscores/200512310DEN.html
+Sat Dec 31 2005,Seattle SuperSonics,Memphis Grizzlies,96,100,KeyArena at Seattle Center,16567,/boxscores/200512310SEA.html
+Sat Dec 31 2005,Los Angeles Clippers,Boston Celtics,92,111,STAPLES Center,16807,/boxscores/200512310LAC.html

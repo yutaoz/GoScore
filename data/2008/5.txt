@@ -1,0 +1,41 @@
+Thu May 1 2008,Philadelphia 76ers,Detroit Pistons,77,100,Wachovia Center,14130,/boxscores/200805010PHI.html
+Fri May 2 2008,Washington Wizards,Cleveland Cavaliers,88,105,Verizon Center,20173,/boxscores/200805020WAS.html
+Fri May 2 2008,Atlanta Hawks,Boston Celtics,103,100,Philips Arena,20425,/boxscores/200805020ATL.html
+Fri May 2 2008,Utah Jazz,Houston Rockets,113,91,EnergySolutions Arena,19911,/boxscores/200805020UTA.html
+Sat May 3 2008,Detroit Pistons,Orlando Magic,91,72,The Palace of Auburn Hills,22076,/boxscores/200805030DET.html
+Sat May 3 2008,New Orleans Hornets,San Antonio Spurs,101,82,New Orleans Arena,18040,/boxscores/200805030NOH.html
+Sun May 4 2008,Boston Celtics,Atlanta Hawks,99,65,TD Banknorth Garden,18624,/boxscores/200805040BOS.html
+Sun May 4 2008,Los Angeles Lakers,Utah Jazz,109,98,STAPLES Center,18997,/boxscores/200805040LAL.html
+Mon May 5 2008,Detroit Pistons,Orlando Magic,100,93,The Palace of Auburn Hills,22076,/boxscores/200805050DET.html
+Mon May 5 2008,New Orleans Hornets,San Antonio Spurs,102,84,New Orleans Arena,17927,/boxscores/200805050NOH.html
+Tue May 6 2008,Boston Celtics,Cleveland Cavaliers,76,72,TD Banknorth Garden,18624,/boxscores/200805060BOS.html
+Wed May 7 2008,Orlando Magic,Detroit Pistons,111,86,Amway Arena,17519,/boxscores/200805070ORL.html
+Wed May 7 2008,Los Angeles Lakers,Utah Jazz,120,110,STAPLES Center,18997,/boxscores/200805070LAL.html
+Thu May 8 2008,Boston Celtics,Cleveland Cavaliers,89,73,TD Banknorth Garden,18624,/boxscores/200805080BOS.html
+Thu May 8 2008,San Antonio Spurs,New Orleans Hornets,110,99,AT&T Center,18797,/boxscores/200805080SAS.html
+Fri May 9 2008,Utah Jazz,Los Angeles Lakers,104,99,EnergySolutions Arena,19911,/boxscores/200805090UTA.html
+Sat May 10 2008,Orlando Magic,Detroit Pistons,89,90,Amway Arena,17519,/boxscores/200805100ORL.html
+Sat May 10 2008,Cleveland Cavaliers,Boston Celtics,108,84,Quicken Loans Arena,20562,/boxscores/200805100CLE.html
+Sun May 11 2008,Utah Jazz,Los Angeles Lakers,123,115,EnergySolutions Arena,19911,/boxscores/200805110UTA.html
+Sun May 11 2008,San Antonio Spurs,New Orleans Hornets,100,80,AT&T Center,18797,/boxscores/200805110SAS.html
+Mon May 12 2008,Cleveland Cavaliers,Boston Celtics,88,77,Quicken Loans Arena,20562,/boxscores/200805120CLE.html
+Tue May 13 2008,Detroit Pistons,Orlando Magic,91,86,The Palace of Auburn Hills,22076,/boxscores/200805130DET.html
+Tue May 13 2008,New Orleans Hornets,San Antonio Spurs,101,79,New Orleans Arena,18246,/boxscores/200805130NOH.html
+Wed May 14 2008,Boston Celtics,Cleveland Cavaliers,96,89,TD Banknorth Garden,18624,/boxscores/200805140BOS.html
+Wed May 14 2008,Los Angeles Lakers,Utah Jazz,111,104,STAPLES Center,18997,/boxscores/200805140LAL.html
+Thu May 15 2008,San Antonio Spurs,New Orleans Hornets,99,80,AT&T Center,18797,/boxscores/200805150SAS.html
+Fri May 16 2008,Cleveland Cavaliers,Boston Celtics,74,69,Quicken Loans Arena,20562,/boxscores/200805160CLE.html
+Fri May 16 2008,Utah Jazz,Los Angeles Lakers,105,108,EnergySolutions Arena,19911,/boxscores/200805160UTA.html
+Sun May 18 2008,Boston Celtics,Cleveland Cavaliers,97,92,TD Banknorth Garden,18624,/boxscores/200805180BOS.html
+Mon May 19 2008,New Orleans Hornets,San Antonio Spurs,82,91,New Orleans Arena,18235,/boxscores/200805190NOH.html
+Tue May 20 2008,Boston Celtics,Detroit Pistons,88,79,TD Banknorth Garden,18624,/boxscores/200805200BOS.html
+Wed May 21 2008,Los Angeles Lakers,San Antonio Spurs,89,85,STAPLES Center,18997,/boxscores/200805210LAL.html
+Thu May 22 2008,Boston Celtics,Detroit Pistons,97,103,TD Banknorth Garden,18624,/boxscores/200805220BOS.html
+Fri May 23 2008,Los Angeles Lakers,San Antonio Spurs,101,71,STAPLES Center,18997,/boxscores/200805230LAL.html
+Sat May 24 2008,Detroit Pistons,Boston Celtics,80,94,The Palace of Auburn Hills,22076,/boxscores/200805240DET.html
+Sun May 25 2008,San Antonio Spurs,Los Angeles Lakers,103,84,AT&T Center,18797,/boxscores/200805250SAS.html
+Mon May 26 2008,Detroit Pistons,Boston Celtics,94,75,The Palace of Auburn Hills,22076,/boxscores/200805260DET.html
+Tue May 27 2008,San Antonio Spurs,Los Angeles Lakers,91,93,AT&T Center,18797,/boxscores/200805270SAS.html
+Wed May 28 2008,Boston Celtics,Detroit Pistons,106,102,TD Banknorth Garden,18624,/boxscores/200805280BOS.html
+Thu May 29 2008,Los Angeles Lakers,San Antonio Spurs,100,92,STAPLES Center,18997,/boxscores/200805290LAL.html
+Fri May 30 2008,Detroit Pistons,Boston Celtics,81,89,The Palace of Auburn Hills,22076,/boxscores/200805300DET.html

@@ -1,0 +1,50 @@
+Mon May 1 2006,Memphis Grizzlies,Dallas Mavericks,76,102,FedEx Forum,15104,/boxscores/200605010MEM.html
+Mon May 1 2006,Milwaukee Bucks,Detroit Pistons,99,109,Bradley Center,16296,/boxscores/200605010MIL.html
+Mon May 1 2006,Los Angeles Clippers,Denver Nuggets,101,83,STAPLES Center,18648,/boxscores/200605010LAC.html
+Tue May 2 2006,New Jersey Nets,Indiana Pacers,92,86,Continental Airlines Arena,18804,/boxscores/200605020NJN.html
+Tue May 2 2006,Miami Heat,Chicago Bulls,92,78,AmericanAirlines Arena,20287,/boxscores/200605020MIA.html
+Tue May 2 2006,San Antonio Spurs,Sacramento Kings,109,98,SBC Center,18797,/boxscores/200605020SAS.html
+Tue May 2 2006,Phoenix Suns,Los Angeles Lakers,114,97,America West Arena,18422,/boxscores/200605020PHO.html
+Wed May 3 2006,Detroit Pistons,Milwaukee Bucks,122,93,The Palace of Auburn Hills,22076,/boxscores/200605030DET.html
+Wed May 3 2006,Cleveland Cavaliers,Washington Wizards,121,120,Gund Arena,20562,/boxscores/200605030CLE.html
+Thu May 4 2006,Indiana Pacers,New Jersey Nets,90,96,Conseco Fieldhouse,16586,/boxscores/200605040IND.html
+Thu May 4 2006,Chicago Bulls,Miami Heat,96,113,United Center,22584,/boxscores/200605040CHI.html
+Thu May 4 2006,Los Angeles Lakers,Phoenix Suns,118,126,STAPLES Center,18997,/boxscores/200605040LAL.html
+Fri May 5 2006,Washington Wizards,Cleveland Cavaliers,113,114,MCI Center,20173,/boxscores/200605050WAS.html
+Fri May 5 2006,Sacramento Kings,San Antonio Spurs,83,105,ARCO Arena (II),17317,/boxscores/200605050SAC.html
+Sat May 6 2006,Phoenix Suns,Los Angeles Lakers,121,90,America West Arena,18422,/boxscores/200605060PHO.html
+Sun May 7 2006,San Antonio Spurs,Dallas Mavericks,87,85,SBC Center,18797,/boxscores/200605070SAS.html
+Sun May 7 2006,Detroit Pistons,Cleveland Cavaliers,113,86,The Palace of Auburn Hills,22076,/boxscores/200605070DET.html
+Mon May 8 2006,Miami Heat,New Jersey Nets,88,100,AmericanAirlines Arena,20208,/boxscores/200605080MIA.html
+Mon May 8 2006,Phoenix Suns,Los Angeles Clippers,130,123,America West Arena,18422,/boxscores/200605080PHO.html
+Tue May 9 2006,Detroit Pistons,Cleveland Cavaliers,97,91,The Palace of Auburn Hills,22076,/boxscores/200605090DET.html
+Tue May 9 2006,San Antonio Spurs,Dallas Mavericks,91,113,SBC Center,18797,/boxscores/200605090SAS.html
+Wed May 10 2006,Miami Heat,New Jersey Nets,111,89,AmericanAirlines Arena,20227,/boxscores/200605100MIA.html
+Wed May 10 2006,Phoenix Suns,Los Angeles Clippers,97,122,America West Arena,18422,/boxscores/200605100PHO.html
+Fri May 12 2006,New Jersey Nets,Miami Heat,92,103,Continental Airlines Arena,20102,/boxscores/200605120NJN.html
+Fri May 12 2006,Los Angeles Clippers,Phoenix Suns,91,94,STAPLES Center,19877,/boxscores/200605120LAC.html
+Sat May 13 2006,Cleveland Cavaliers,Detroit Pistons,86,77,Gund Arena,20562,/boxscores/200605130CLE.html
+Sat May 13 2006,Dallas Mavericks,San Antonio Spurs,104,103,American Airlines Center,20865,/boxscores/200605130DAL.html
+Sun May 14 2006,New Jersey Nets,Miami Heat,92,102,Continental Airlines Arena,19474,/boxscores/200605140NJN.html
+Sun May 14 2006,Los Angeles Clippers,Phoenix Suns,114,107,STAPLES Center,19897,/boxscores/200605140LAC.html
+Mon May 15 2006,Cleveland Cavaliers,Detroit Pistons,74,72,Gund Arena,20562,/boxscores/200605150CLE.html
+Mon May 15 2006,Dallas Mavericks,San Antonio Spurs,123,118,American Airlines Center,20969,/boxscores/200605150DAL.html
+Tue May 16 2006,Miami Heat,New Jersey Nets,106,105,AmericanAirlines Arena,20255,/boxscores/200605160MIA.html
+Tue May 16 2006,Phoenix Suns,Los Angeles Clippers,125,118,America West Arena,18422,/boxscores/200605160PHO.html
+Wed May 17 2006,Detroit Pistons,Cleveland Cavaliers,84,86,The Palace of Auburn Hills,22076,/boxscores/200605170DET.html
+Wed May 17 2006,San Antonio Spurs,Dallas Mavericks,98,97,SBC Center,18797,/boxscores/200605170SAS.html
+Thu May 18 2006,Los Angeles Clippers,Phoenix Suns,118,106,STAPLES Center,19985,/boxscores/200605180LAC.html
+Fri May 19 2006,Cleveland Cavaliers,Detroit Pistons,82,84,Gund Arena,20562,/boxscores/200605190CLE.html
+Fri May 19 2006,Dallas Mavericks,San Antonio Spurs,86,91,American Airlines Center,20986,/boxscores/200605190DAL.html
+Sun May 21 2006,Detroit Pistons,Cleveland Cavaliers,79,61,The Palace of Auburn Hills,22076,/boxscores/200605210DET.html
+Mon May 22 2006,San Antonio Spurs,Dallas Mavericks,111,119,SBC Center,18797,/boxscores/200605220SAS.html
+Mon May 22 2006,Phoenix Suns,Los Angeles Clippers,127,107,America West Arena,18422,/boxscores/200605220PHO.html
+Tue May 23 2006,Detroit Pistons,Miami Heat,86,91,The Palace of Auburn Hills,22076,/boxscores/200605230DET.html
+Wed May 24 2006,Dallas Mavericks,Phoenix Suns,118,121,American Airlines Center,20789,/boxscores/200605240DAL.html
+Thu May 25 2006,Detroit Pistons,Miami Heat,92,88,The Palace of Auburn Hills,22076,/boxscores/200605250DET.html
+Fri May 26 2006,Dallas Mavericks,Phoenix Suns,105,98,American Airlines Center,20934,/boxscores/200605260DAL.html
+Sat May 27 2006,Miami Heat,Detroit Pistons,98,83,AmericanAirlines Arena,20245,/boxscores/200605270MIA.html
+Sun May 28 2006,Phoenix Suns,Dallas Mavericks,88,95,America West Arena,18422,/boxscores/200605280PHO.html
+Mon May 29 2006,Miami Heat,Detroit Pistons,89,78,AmericanAirlines Arena,20248,/boxscores/200605290MIA.html
+Tue May 30 2006,Phoenix Suns,Dallas Mavericks,106,86,America West Arena,18422,/boxscores/200605300PHO.html
+Wed May 31 2006,Detroit Pistons,Miami Heat,91,78,The Palace of Auburn Hills,22076,/boxscores/200605310DET.html

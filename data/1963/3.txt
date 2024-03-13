@@ -1,0 +1,56 @@
+Fri Mar 1 1963,Cincinnati Royals,San Francisco Warriors,125,132,Oakland Civic Auditorium,0,/boxscores/196303010CIN.html
+Fri Mar 1 1963,Chicago Zephyrs,Los Angeles Lakers,114,109,Chicago Coliseum,0,/boxscores/196303010CHZ.html
+Fri Mar 1 1963,Detroit Pistons,St. Louis Hawks,115,113,Sports Arena,0,/boxscores/196303010DET.html
+Sat Mar 2 1963,Boston Celtics,New York Knicks,122,117,Boston Garden,0,/boxscores/196303020BOS.html
+Sat Mar 2 1963,Los Angeles Lakers,San Francisco Warriors,113,122,Los Angeles Memorial Sports Arena,0,/boxscores/196303020LAL.html
+Sat Mar 2 1963,Syracuse Nationals,Detroit Pistons,152,128,Onondaga War Memorial,0,/boxscores/196303020SYR.html
+Sun Mar 3 1963,Detroit Pistons,Syracuse Nationals,123,127,Cobo Arena,0,/boxscores/196303030DET.html
+Sun Mar 3 1963,New York Knicks,Boston Celtics,95,102,Madison Square Garden (III),0,/boxscores/196303030NYK.html
+Sun Mar 3 1963,San Francisco Warriors,Cincinnati Royals,123,122,Cow Palace,0,/boxscores/196303030SFW.html
+Sun Mar 3 1963,St. Louis Hawks,Chicago Zephyrs,104,97,Kiel Auditorium,0,/boxscores/196303030STL.html
+Mon Mar 4 1963,Los Angeles Lakers,Cincinnati Royals,111,114,Los Angeles Memorial Sports Arena,0,/boxscores/196303040LAL.html
+Tue Mar 5 1963,Chicago Zephyrs,St. Louis Hawks,116,93,Chicago Coliseum,0,/boxscores/196303050CHZ.html
+Tue Mar 5 1963,Detroit Pistons,San Francisco Warriors,111,102,Madison Square Garden (III),0,/boxscores/196303050DET.html
+Tue Mar 5 1963,New York Knicks,Syracuse Nationals,121,131,Madison Square Garden (III),0,/boxscores/196303050NYK.html
+Wed Mar 6 1963,Los Angeles Lakers,Cincinnati Royals,106,97,Los Angeles Memorial Sports Arena,0,/boxscores/196303060LAL.html
+Wed Mar 6 1963,Chicago Zephyrs,San Francisco Warriors,121,111,Baltimore Civic Center,0,/boxscores/196303060CHZ.html
+Thu Mar 7 1963,Detroit Pistons,Boston Celtics,104,115,Cobo Arena,0,/boxscores/196303070DET.html
+Thu Mar 7 1963,Syracuse Nationals,New York Knicks,129,118,Onondaga War Memorial,0,/boxscores/196303070SYR.html
+Fri Mar 8 1963,Chicago Zephyrs,Boston Celtics,110,109,Chicago Coliseum,0,/boxscores/196303080CHZ.html
+Fri Mar 8 1963,Detroit Pistons,San Francisco Warriors,131,123,War Memorial Coliseum,0,/boxscores/196303080DET.html
+Fri Mar 8 1963,New York Knicks,St. Louis Hawks,124,129,Madison Square Garden (III),0,/boxscores/196303080NYK.html
+Sat Mar 9 1963,St. Louis Hawks,Los Angeles Lakers,117,101,Kiel Auditorium,0,/boxscores/196303090STL.html
+Sun Mar 10 1963,Boston Celtics,Cincinnati Royals,149,117,Boston Garden,0,/boxscores/196303100BOS.html
+Sun Mar 10 1963,Detroit Pistons,Los Angeles Lakers,124,116,Cobo Arena,0,/boxscores/196303100DET.html
+Sun Mar 10 1963,St. Louis Hawks,New York Knicks,132,120,Kiel Auditorium,0,/boxscores/196303100STL.html
+Sun Mar 10 1963,Syracuse Nationals,San Francisco Warriors,163,148,Onondaga War Memorial,0,/boxscores/196303100SYR.html
+Mon Mar 11 1963,Los Angeles Lakers,St. Louis Hawks,109,96,Los Angeles Memorial Sports Arena,0,/boxscores/196303110LAL.html
+Tue Mar 12 1963,San Francisco Warriors,Los Angeles Lakers,116,110,Cow Palace,0,/boxscores/196303120SFW.html
+Tue Mar 12 1963,New York Knicks,Cincinnati Royals,96,110,Madison Square Garden (III),0,/boxscores/196303120NYK.html
+Tue Mar 12 1963,Chicago Zephyrs,Syracuse Nationals,106,130,Chicago Coliseum,0,/boxscores/196303120CHZ.html
+Wed Mar 13 1963,Boston Celtics,Chicago Zephyrs,121,108,Boston Garden,0,/boxscores/196303130BOS.html
+Wed Mar 13 1963,Cincinnati Royals,Syracuse Nationals,128,114,Cincinnati Gardens,0,/boxscores/196303130CIN.html
+Wed Mar 13 1963,Detroit Pistons,New York Knicks,112,89,Cobo Arena,0,/boxscores/196303130DET.html
+Wed Mar 13 1963,Los Angeles Lakers,St. Louis Hawks,98,112,Los Angeles Memorial Sports Arena,0,/boxscores/196303130LAL.html
+Thu Mar 14 1963,San Francisco Warriors,St. Louis Hawks,109,114,Cow Palace,0,/boxscores/196303140SFW.html
+Fri Mar 15 1963,New York Knicks,Chicago Zephyrs,116,111,Madison Square Garden (III),0,/boxscores/196303150NYK.html
+Fri Mar 15 1963,San Francisco Warriors,St. Louis Hawks,119,108,Oakland Civic Auditorium,0,/boxscores/196303150SFW.html
+Sat Mar 16 1963,Chicago Zephyrs,Cincinnati Royals,117,126,Chicago Coliseum,0,/boxscores/196303160CHZ.html
+Sat Mar 16 1963,Los Angeles Lakers,San Francisco Warriors,111,105,Los Angeles Memorial Sports Arena,0,/boxscores/196303160LAL.html
+Sat Mar 16 1963,Syracuse Nationals,Boston Celtics,121,125,Onondaga War Memorial,0,/boxscores/196303160SYR.html
+Sun Mar 17 1963,St. Louis Hawks,Detroit Pistons,119,105,Kiel Auditorium,0,/boxscores/196303170STL.html
+Sun Mar 17 1963,Cincinnati Royals,New York Knicks,116,109,Cincinnati Gardens,0,/boxscores/196303170CIN.html
+Sun Mar 17 1963,Boston Celtics,Syracuse Nationals,125,116,Boston Garden,0,/boxscores/196303170BOS.html
+Tue Mar 19 1963,Syracuse Nationals,Cincinnati Royals,123,120,Onondaga War Memorial,0,/boxscores/196303190SYR.html
+Wed Mar 20 1963,St. Louis Hawks,Detroit Pistons,118,99,Kiel Auditorium,0,/boxscores/196303200STL.html
+Thu Mar 21 1963,Cincinnati Royals,Syracuse Nationals,133,115,Cincinnati Gardens,0,/boxscores/196303210CIN.html
+Fri Mar 22 1963,St. Louis Hawks,Detroit Pistons,122,108,Kiel Auditorium,0,/boxscores/196303220STL.html
+Sat Mar 23 1963,Syracuse Nationals,Cincinnati Royals,121,117,Onondaga War Memorial,0,/boxscores/196303230SYR.html
+Sun Mar 24 1963,Cincinnati Royals,Syracuse Nationals,125,118,Cincinnati Gardens,0,/boxscores/196303240CIN.html
+Sun Mar 24 1963,Detroit Pistons,St. Louis Hawks,107,103,Cobo Arena,0,/boxscores/196303240DET.html
+Tue Mar 26 1963,Detroit Pistons,St. Louis Hawks,100,104,Cobo Arena,0,/boxscores/196303260DET.html
+Tue Mar 26 1963,Syracuse Nationals,Cincinnati Royals,127,131,Onondaga War Memorial,0,/boxscores/196303260SYR.html
+Thu Mar 28 1963,Boston Celtics,Cincinnati Royals,132,135,Boston Garden,0,/boxscores/196303280BOS.html
+Fri Mar 29 1963,Cincinnati Royals,Boston Celtics,102,125,Cincinnati Gardens,0,/boxscores/196303290CIN.html
+Sun Mar 31 1963,Boston Celtics,Cincinnati Royals,116,121,Boston Garden,0,/boxscores/196303310BOS.html
+Sun Mar 31 1963,Los Angeles Lakers,St. Louis Hawks,112,104,Los Angeles Memorial Sports Arena,0,/boxscores/196303310LAL.html

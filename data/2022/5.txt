@@ -1,0 +1,38 @@
+Sun May 1 2022,Boston Celtics,Milwaukee Bucks,89,101,TD Garden,19156,/boxscores/202205010BOS.html
+Sun May 1 2022,Memphis Grizzlies,Golden State Warriors,116,117,FedEx Forum,17794,/boxscores/202205010MEM.html
+Mon May 2 2022,Miami Heat,Philadelphia 76ers,106,92,FTX Arena,19620,/boxscores/202205020MIA.html
+Mon May 2 2022,Phoenix Suns,Dallas Mavericks,121,114,Phoenix Suns Arena,17071,/boxscores/202205020PHO.html
+Tue May 3 2022,Boston Celtics,Milwaukee Bucks,109,86,TD Garden,19156,/boxscores/202205030BOS.html
+Tue May 3 2022,Memphis Grizzlies,Golden State Warriors,106,101,FedEx Forum,17794,/boxscores/202205030MEM.html
+Wed May 4 2022,Miami Heat,Philadelphia 76ers,119,103,FTX Arena,19759,/boxscores/202205040MIA.html
+Wed May 4 2022,Phoenix Suns,Dallas Mavericks,129,109,Phoenix Suns Arena,17071,/boxscores/202205040PHO.html
+Fri May 6 2022,Philadelphia 76ers,Miami Heat,99,79,Wells Fargo Center,21033,/boxscores/202205060PHI.html
+Fri May 6 2022,Dallas Mavericks,Phoenix Suns,103,94,American Airlines Center,20777,/boxscores/202205060DAL.html
+Sat May 7 2022,Milwaukee Bucks,Boston Celtics,103,101,Fiserv Forum,17736,/boxscores/202205070MIL.html
+Sat May 7 2022,Golden State Warriors,Memphis Grizzlies,142,112,Chase Center,18064,/boxscores/202205070GSW.html
+Sun May 8 2022,Dallas Mavericks,Phoenix Suns,111,101,American Airlines Center,20610,/boxscores/202205080DAL.html
+Sun May 8 2022,Philadelphia 76ers,Miami Heat,116,108,Wells Fargo Center,21194,/boxscores/202205080PHI.html
+Mon May 9 2022,Milwaukee Bucks,Boston Celtics,108,116,Fiserv Forum,17505,/boxscores/202205090MIL.html
+Mon May 9 2022,Golden State Warriors,Memphis Grizzlies,101,98,Chase Center,18064,/boxscores/202205090GSW.html
+Tue May 10 2022,Miami Heat,Philadelphia 76ers,120,85,FTX Arena,19868,/boxscores/202205100MIA.html
+Tue May 10 2022,Phoenix Suns,Dallas Mavericks,110,80,Phoenix Suns Arena,17071,/boxscores/202205100PHO.html
+Wed May 11 2022,Boston Celtics,Milwaukee Bucks,107,110,TD Garden,19156,/boxscores/202205110BOS.html
+Wed May 11 2022,Memphis Grizzlies,Golden State Warriors,134,95,FedEx Forum,17794,/boxscores/202205110MEM.html
+Thu May 12 2022,Philadelphia 76ers,Miami Heat,90,99,Wells Fargo Center,21082,/boxscores/202205120PHI.html
+Thu May 12 2022,Dallas Mavericks,Phoenix Suns,113,86,American Airlines Center,20777,/boxscores/202205120DAL.html
+Fri May 13 2022,Milwaukee Bucks,Boston Celtics,95,108,Fiserv Forum,17681,/boxscores/202205130MIL.html
+Fri May 13 2022,Golden State Warriors,Memphis Grizzlies,110,96,Chase Center,18064,/boxscores/202205130GSW.html
+Sun May 15 2022,Boston Celtics,Milwaukee Bucks,109,81,TD Garden,19156,/boxscores/202205150BOS.html
+Sun May 15 2022,Phoenix Suns,Dallas Mavericks,90,123,Phoenix Suns Arena,17071,/boxscores/202205150PHO.html
+Tue May 17 2022,Miami Heat,Boston Celtics,118,107,FTX Arena,19774,/boxscores/202205170MIA.html
+Wed May 18 2022,Golden State Warriors,Dallas Mavericks,112,87,Chase Center,18064,/boxscores/202205180GSW.html
+Thu May 19 2022,Miami Heat,Boston Celtics,102,127,FTX Arena,20100,/boxscores/202205190MIA.html
+Fri May 20 2022,Golden State Warriors,Dallas Mavericks,126,117,Chase Center,18064,/boxscores/202205200GSW.html
+Sat May 21 2022,Boston Celtics,Miami Heat,103,109,TD Garden,19156,/boxscores/202205210BOS.html
+Sun May 22 2022,Dallas Mavericks,Golden State Warriors,100,109,American Airlines Center,20813,/boxscores/202205220DAL.html
+Mon May 23 2022,Boston Celtics,Miami Heat,102,82,TD Garden,19156,/boxscores/202205230BOS.html
+Tue May 24 2022,Dallas Mavericks,Golden State Warriors,119,109,American Airlines Center,20810,/boxscores/202205240DAL.html
+Wed May 25 2022,Miami Heat,Boston Celtics,80,93,FTX Arena,19819,/boxscores/202205250MIA.html
+Thu May 26 2022,Golden State Warriors,Dallas Mavericks,120,110,Chase Center,18064,/boxscores/202205260GSW.html
+Fri May 27 2022,Boston Celtics,Miami Heat,103,111,TD Garden,19156,/boxscores/202205270BOS.html
+Sun May 29 2022,Miami Heat,Boston Celtics,96,100,FTX Arena,20200,/boxscores/202205290MIA.html

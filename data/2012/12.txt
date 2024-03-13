@@ -1,0 +1,56 @@
+Sun Dec 25 2011,New York Knicks,Boston Celtics,106,104,Madison Square Garden (IV),19763,/boxscores/201112250NYK.html
+Sun Dec 25 2011,Dallas Mavericks,Miami Heat,94,105,American Airlines Center,20421,/boxscores/201112250DAL.html
+Sun Dec 25 2011,Los Angeles Lakers,Chicago Bulls,87,88,STAPLES Center,18997,/boxscores/201112250LAL.html
+Sun Dec 25 2011,Oklahoma City Thunder,Orlando Magic,97,89,Chesapeake Energy Arena,18203,/boxscores/201112250OKC.html
+Sun Dec 25 2011,Golden State Warriors,Los Angeles Clippers,86,105,Oracle Arena,19596,/boxscores/201112250GSW.html
+Mon Dec 26 2011,Cleveland Cavaliers,Toronto Raptors,96,104,Quicken Loans Arena,20562,/boxscores/201112260CLE.html
+Mon Dec 26 2011,Washington Wizards,New Jersey Nets,84,90,Verizon Center,17102,/boxscores/201112260WAS.html
+Mon Dec 26 2011,Orlando Magic,Houston Rockets,104,95,Amway Center,18846,/boxscores/201112260ORL.html
+Mon Dec 26 2011,Indiana Pacers,Detroit Pistons,91,79,Bankers Life Fieldhouse,18165,/boxscores/201112260IND.html
+Mon Dec 26 2011,Charlotte Bobcats,Milwaukee Bucks,96,95,Time Warner Cable Arena,17173,/boxscores/201112260CHA.html
+Mon Dec 26 2011,Minnesota Timberwolves,Oklahoma City Thunder,100,104,Target Center,19406,/boxscores/201112260MIN.html
+Mon Dec 26 2011,Dallas Mavericks,Denver Nuggets,93,115,American Airlines Center,20408,/boxscores/201112260DAL.html
+Mon Dec 26 2011,San Antonio Spurs,Memphis Grizzlies,95,82,AT&T Center,18581,/boxscores/201112260SAS.html
+Mon Dec 26 2011,Phoenix Suns,New Orleans Hornets,84,85,US Airways Center,17776,/boxscores/201112260PHO.html
+Mon Dec 26 2011,Portland Trail Blazers,Philadelphia 76ers,107,103,Rose Garden Arena,20509,/boxscores/201112260POR.html
+Mon Dec 26 2011,Sacramento Kings,Los Angeles Lakers,100,91,Power Balance Pavilion,17317,/boxscores/201112260SAC.html
+Mon Dec 26 2011,Golden State Warriors,Chicago Bulls,99,91,Oracle Arena,19596,/boxscores/201112260GSW.html
+Tue Dec 27 2011,New Jersey Nets,Atlanta Hawks,70,106,Prudential Center,18711,/boxscores/201112270NJN.html
+Tue Dec 27 2011,Miami Heat,Boston Celtics,115,107,AmericanAirlines Arena,20166,/boxscores/201112270MIA.html
+Tue Dec 27 2011,Milwaukee Bucks,Minnesota Timberwolves,98,95,Bradley Center,17352,/boxscores/201112270MIL.html
+Tue Dec 27 2011,Portland Trail Blazers,Sacramento Kings,101,79,Rose Garden Arena,20350,/boxscores/201112270POR.html
+Tue Dec 27 2011,Los Angeles Lakers,Utah Jazz,96,71,STAPLES Center,18997,/boxscores/201112270LAL.html
+Wed Dec 28 2011,Toronto Raptors,Indiana Pacers,85,90,Air Canada Centre,19800,/boxscores/201112280TOR.html
+Wed Dec 28 2011,Charlotte Bobcats,Miami Heat,95,96,Time Warner Cable Arena,19614,/boxscores/201112280CHA.html
+Wed Dec 28 2011,Atlanta Hawks,Washington Wizards,101,83,Philips Arena,17750,/boxscores/201112280ATL.html
+Wed Dec 28 2011,Detroit Pistons,Cleveland Cavaliers,89,105,The Palace of Auburn Hills,22076,/boxscores/201112280DET.html
+Wed Dec 28 2011,New Orleans Hornets,Boston Celtics,97,78,New Orleans Arena,17802,/boxscores/201112280NOH.html
+Wed Dec 28 2011,Memphis Grizzlies,Oklahoma City Thunder,95,98,FedEx Forum,18119,/boxscores/201112280MEM.html
+Wed Dec 28 2011,San Antonio Spurs,Los Angeles Clippers,115,90,AT&T Center,18581,/boxscores/201112280SAS.html
+Wed Dec 28 2011,Phoenix Suns,Philadelphia 76ers,83,103,US Airways Center,16360,/boxscores/201112280PHO.html
+Wed Dec 28 2011,Denver Nuggets,Utah Jazz,117,100,Pepsi Center,19155,/boxscores/201112280DEN.html
+Wed Dec 28 2011,Golden State Warriors,New York Knicks,92,78,Oracle Arena,19596,/boxscores/201112280GSW.html
+Thu Dec 29 2011,Orlando Magic,New Jersey Nets,94,78,Amway Center,18954,/boxscores/201112290ORL.html
+Thu Dec 29 2011,Houston Rockets,San Antonio Spurs,105,85,Toyota Center,18267,/boxscores/201112290HOU.html
+Thu Dec 29 2011,Oklahoma City Thunder,Dallas Mavericks,104,102,Chesapeake Energy Arena,18203,/boxscores/201112290OKC.html
+Thu Dec 29 2011,Portland Trail Blazers,Denver Nuggets,111,102,Rose Garden Arena,20531,/boxscores/201112290POR.html
+Thu Dec 29 2011,Sacramento Kings,Chicago Bulls,98,108,Power Balance Pavilion,17317,/boxscores/201112290SAC.html
+Thu Dec 29 2011,Los Angeles Lakers,New York Knicks,99,82,STAPLES Center,18997,/boxscores/201112290LAL.html
+Fri Dec 30 2011,Charlotte Bobcats,Orlando Magic,79,100,Time Warner Cable Arena,18064,/boxscores/201112300CHA.html
+Fri Dec 30 2011,Indiana Pacers,Cleveland Cavaliers,98,91,Bankers Life Fieldhouse,13004,/boxscores/201112300IND.html
+Fri Dec 30 2011,Atlanta Hawks,New Jersey Nets,105,98,Philips Arena,16300,/boxscores/201112300ATL.html
+Fri Dec 30 2011,Boston Celtics,Detroit Pistons,96,85,TD Garden,18624,/boxscores/201112300BOS.html
+Fri Dec 30 2011,New Orleans Hornets,Phoenix Suns,78,93,New Orleans Arena,15790,/boxscores/201112300NOH.html
+Fri Dec 30 2011,Memphis Grizzlies,Houston Rockets,113,93,FedEx Forum,16069,/boxscores/201112300MEM.html
+Fri Dec 30 2011,Minnesota Timberwolves,Miami Heat,101,103,Target Center,19356,/boxscores/201112300MIN.html
+Fri Dec 30 2011,Dallas Mavericks,Toronto Raptors,99,86,American Airlines Center,20307,/boxscores/201112300DAL.html
+Fri Dec 30 2011,Milwaukee Bucks,Washington Wizards,102,81,Bradley Center,17065,/boxscores/201112300MIL.html
+Fri Dec 30 2011,Utah Jazz,Philadelphia 76ers,102,99,EnergySolutions Arena,19911,/boxscores/201112300UTA.html
+Fri Dec 30 2011,Los Angeles Clippers,Chicago Bulls,101,114,STAPLES Center,19426,/boxscores/201112300LAC.html
+Sat Dec 31 2011,Los Angeles Lakers,Denver Nuggets,92,89,STAPLES Center,18997,/boxscores/201112310LAL.html
+Sat Dec 31 2011,Detroit Pistons,Indiana Pacers,96,88,The Palace of Auburn Hills,8824,/boxscores/201112310DET.html
+Sat Dec 31 2011,Houston Rockets,Atlanta Hawks,95,84,Toyota Center,14390,/boxscores/201112310HOU.html
+Sat Dec 31 2011,Oklahoma City Thunder,Phoenix Suns,107,97,Chesapeake Energy Arena,18203,/boxscores/201112310OKC.html
+Sat Dec 31 2011,Sacramento Kings,New York Knicks,92,114,Power Balance Pavilion,16175,/boxscores/201112310SAC.html
+Sat Dec 31 2011,San Antonio Spurs,Utah Jazz,104,89,AT&T Center,17769,/boxscores/201112310SAS.html
+Sat Dec 31 2011,Golden State Warriors,Philadelphia 76ers,79,107,Oracle Arena,19084,/boxscores/201112310GSW.html

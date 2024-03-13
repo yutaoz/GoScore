@@ -1,0 +1,60 @@
+Mon Mar 1 1965,Cincinnati Royals,Detroit Pistons,110,130,Fairgrounds Coliseum,0,/boxscores/196503010CIN.html
+Tue Mar 2 1965,Cincinnati Royals,San Francisco Warriors,121,105,Cincinnati Gardens,0,/boxscores/196503020CIN.html
+Tue Mar 2 1965,New York Knicks,St. Louis Hawks,98,99,Madison Square Garden (III),0,/boxscores/196503020NYK.html
+Tue Mar 2 1965,Los Angeles Lakers,Philadelphia 76ers,126,117,Madison Square Garden (III),0,/boxscores/196503020LAL.html
+Wed Mar 3 1965,Baltimore Bullets,Cincinnati Royals,151,108,Baltimore Civic Center,0,/boxscores/196503030BAL.html
+Wed Mar 3 1965,Boston Celtics,Los Angeles Lakers,102,104,Boston Garden,0,/boxscores/196503030BOS.html
+Wed Mar 3 1965,Detroit Pistons,San Francisco Warriors,110,107,Cobo Arena,0,/boxscores/196503030DET.html
+Wed Mar 3 1965,St. Louis Hawks,Philadelphia 76ers,124,110,Kiel Auditorium,0,/boxscores/196503030STL.html
+Thu Mar 4 1965,Detroit Pistons,San Francisco Warriors,110,115,War Memorial Coliseum,0,/boxscores/196503040DET.html
+Fri Mar 5 1965,Baltimore Bullets,Boston Celtics,128,124,Baltimore Civic Center,0,/boxscores/196503050BAL.html
+Fri Mar 5 1965,Cincinnati Royals,Philadelphia 76ers,109,110,Cincinnati Gardens,0,/boxscores/196503050CIN.html
+Fri Mar 5 1965,New York Knicks,Los Angeles Lakers,103,105,Madison Square Garden (III),0,/boxscores/196503050NYK.html
+Sat Mar 6 1965,Detroit Pistons,New York Knicks,93,96,Cobo Arena,0,/boxscores/196503060DET.html
+Sat Mar 6 1965,Philadelphia 76ers,Boston Celtics,103,98,Convention Hall,0,/boxscores/196503060PHI.html
+Sat Mar 6 1965,San Francisco Warriors,Cincinnati Royals,93,97,San Francisco Civic Auditorium,0,/boxscores/196503060SFW.html
+Sat Mar 6 1965,St. Louis Hawks,Los Angeles Lakers,109,107,Kiel Auditorium,0,/boxscores/196503060STL.html
+Sun Mar 7 1965,Baltimore Bullets,Detroit Pistons,111,105,Baltimore Civic Center,0,/boxscores/196503070BAL.html
+Sun Mar 7 1965,St. Louis Hawks,New York Knicks,132,106,Kiel Auditorium,0,/boxscores/196503070STL.html
+Sun Mar 7 1965,Los Angeles Lakers,Cincinnati Royals,106,104,Los Angeles Memorial Sports Arena,0,/boxscores/196503070LAL.html
+Sun Mar 7 1965,Boston Celtics,Philadelphia 76ers,133,111,Boston Garden,0,/boxscores/196503070BOS.html
+Mon Mar 8 1965,San Francisco Warriors,Baltimore Bullets,102,111,San Francisco Civic Auditorium,0,/boxscores/196503080SFW.html
+Tue Mar 9 1965,Los Angeles Lakers,Baltimore Bullets,123,114,Los Angeles Memorial Sports Arena,0,/boxscores/196503090LAL.html
+Tue Mar 9 1965,New York Knicks,Philadelphia 76ers,124,122,Madison Square Garden (III),0,/boxscores/196503090NYK.html
+Wed Mar 10 1965,Detroit Pistons,Boston Celtics,106,124,Cobo Arena,0,/boxscores/196503100DET.html
+Wed Mar 10 1965,Philadelphia 76ers,New York Knicks,123,134,Convention Hall,0,/boxscores/196503100PHI.html
+Wed Mar 10 1965,St. Louis Hawks,Cincinnati Royals,137,113,Kiel Auditorium,0,/boxscores/196503100STL.html
+Thu Mar 11 1965,Boston Celtics,Detroit Pistons,112,100,Rhode Island Auditorium,0,/boxscores/196503110BOS.html
+Thu Mar 11 1965,Los Angeles Lakers,Baltimore Bullets,121,116,Los Angeles Memorial Sports Arena,0,/boxscores/196503110LAL.html
+Thu Mar 11 1965,San Francisco Warriors,St. Louis Hawks,99,101,San Francisco Civic Auditorium,0,/boxscores/196503110SFW.html
+Fri Mar 12 1965,San Francisco Warriors,Los Angeles Lakers,93,115,San Francisco Civic Auditorium,0,/boxscores/196503120SFW.html
+Fri Mar 12 1965,Cincinnati Royals,Boston Celtics,118,108,Cincinnati Gardens,0,/boxscores/196503120CIN.html
+Sat Mar 13 1965,Baltimore Bullets,New York Knicks,102,114,Baltimore Civic Center,0,/boxscores/196503130BAL.html
+Sat Mar 13 1965,Los Angeles Lakers,St. Louis Hawks,106,101,Los Angeles Memorial Sports Arena,0,/boxscores/196503130LAL.html
+Sat Mar 13 1965,Philadelphia 76ers,Detroit Pistons,131,116,Convention Hall,0,/boxscores/196503130PHI.html
+Sun Mar 14 1965,Baltimore Bullets,Philadelphia 76ers,143,126,Baltimore Civic Center,0,/boxscores/196503140BAL.html
+Sun Mar 14 1965,Boston Celtics,San Francisco Warriors,106,98,Boston Garden,0,/boxscores/196503140BOS.html
+Sun Mar 14 1965,Los Angeles Lakers,St. Louis Hawks,108,115,Los Angeles Memorial Sports Arena,0,/boxscores/196503140LAL.html
+Sun Mar 14 1965,New York Knicks,Cincinnati Royals,103,113,Madison Square Garden (III),0,/boxscores/196503140NYK.html
+Tue Mar 16 1965,Cincinnati Royals,New York Knicks,111,102,Cincinnati Gardens,0,/boxscores/196503160CIN.html
+Tue Mar 16 1965,Philadelphia 76ers,San Francisco Warriors,107,115,Convention Hall,0,/boxscores/196503160PHI.html
+Tue Mar 16 1965,Detroit Pistons,Los Angeles Lakers,99,100,Cobo Arena,0,/boxscores/196503160DET.html
+Wed Mar 17 1965,Baltimore Bullets,Los Angeles Lakers,117,106,Baltimore Civic Center,0,/boxscores/196503170BAL.html
+Wed Mar 17 1965,New York Knicks,Boston Celtics,119,114,Madison Square Garden (III),0,/boxscores/196503170NYK.html
+Wed Mar 17 1965,St. Louis Hawks,San Francisco Warriors,101,94,Kiel Auditorium,0,/boxscores/196503170STL.html
+Thu Mar 18 1965,Cincinnati Royals,Baltimore Bullets,113,110,Cincinnati Gardens,0,/boxscores/196503180CIN.html
+Sat Mar 20 1965,Los Angeles Lakers,San Francisco Warriors,98,112,Los Angeles Memorial Sports Arena,0,/boxscores/196503200LAL.html
+Sat Mar 20 1965,St. Louis Hawks,Detroit Pistons,107,98,Kiel Auditorium,0,/boxscores/196503200STL.html
+Sat Mar 20 1965,Philadelphia 76ers,Cincinnati Royals,122,125,Convention Hall,0,/boxscores/196503200PHI.html
+Sat Mar 20 1965,New York Knicks,Baltimore Bullets,118,114,Madison Square Garden (III),0,/boxscores/196503200NYK.html
+Sun Mar 21 1965,Boston Celtics,Cincinnati Royals,116,99,Boston Garden,0,/boxscores/196503210BOS.html
+Sun Mar 21 1965,Philadelphia 76ers,Baltimore Bullets,127,105,Convention Hall,0,/boxscores/196503210PHI.html
+Sun Mar 21 1965,St. Louis Hawks,New York Knicks,112,103,Kiel Auditorium,0,/boxscores/196503210STL.html
+Wed Mar 24 1965,Cincinnati Royals,Philadelphia 76ers,117,119,Cincinnati Gardens,0,/boxscores/196503240CIN.html
+Wed Mar 24 1965,St. Louis Hawks,Baltimore Bullets,105,108,Kiel Auditorium,0,/boxscores/196503240STL.html
+Fri Mar 26 1965,Philadelphia 76ers,Cincinnati Royals,120,121,Philadelphia Arena,0,/boxscores/196503260PHI.html
+Fri Mar 26 1965,St. Louis Hawks,Baltimore Bullets,129,105,Kiel Auditorium,0,/boxscores/196503260STL.html
+Sat Mar 27 1965,Baltimore Bullets,St. Louis Hawks,131,99,Baltimore Civic Center,0,/boxscores/196503270BAL.html
+Sun Mar 28 1965,Cincinnati Royals,Philadelphia 76ers,94,108,Cincinnati Gardens,0,/boxscores/196503280CIN.html
+Tue Mar 30 1965,Baltimore Bullets,St. Louis Hawks,109,103,Baltimore Civic Center,0,/boxscores/196503300BAL.html
+Wed Mar 31 1965,Philadelphia 76ers,Cincinnati Royals,119,112,Convention Hall,0,/boxscores/196503310PHI.html

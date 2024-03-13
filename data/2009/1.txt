@@ -1,0 +1,229 @@
+Fri Jan 2 2009,Orlando Magic,Miami Heat,86,76,Amway Arena,17461,/boxscores/200901020ORL.html
+Fri Jan 2 2009,Toronto Raptors,Houston Rockets,94,73,Air Canada Centre,19800,/boxscores/200901020TOR.html
+Fri Jan 2 2009,Boston Celtics,Washington Wizards,108,83,TD Banknorth Garden,18624,/boxscores/200901020BOS.html
+Fri Jan 2 2009,Cleveland Cavaliers,Chicago Bulls,117,92,Quicken Loans Arena,20562,/boxscores/200901020CLE.html
+Fri Jan 2 2009,New Jersey Nets,Atlanta Hawks,93,91,Izod Center,16851,/boxscores/200901020NJN.html
+Fri Jan 2 2009,New York Knicks,Indiana Pacers,103,105,Madison Square Garden (IV),19763,/boxscores/200901020NYK.html
+Fri Jan 2 2009,Detroit Pistons,Sacramento Kings,98,92,The Palace of Auburn Hills,22076,/boxscores/200901020DET.html
+Fri Jan 2 2009,Memphis Grizzlies,San Antonio Spurs,80,91,FedEx Forum,12597,/boxscores/200901020MEM.html
+Fri Jan 2 2009,Minnesota Timberwolves,Golden State Warriors,115,108,Target Center,11921,/boxscores/200901020MIN.html
+Fri Jan 2 2009,Oklahoma City Thunder,Denver Nuggets,120,122,Ford Center,18613,/boxscores/200901020OKC.html
+Fri Jan 2 2009,Dallas Mavericks,Philadelphia 76ers,96,86,American Airlines Center,20327,/boxscores/200901020DAL.html
+Fri Jan 2 2009,Milwaukee Bucks,Charlotte Bobcats,103,75,Bradley Center,15107,/boxscores/200901020MIL.html
+Fri Jan 2 2009,Phoenix Suns,Los Angeles Clippers,106,98,US Airways Center,18422,/boxscores/200901020PHO.html
+Fri Jan 2 2009,Portland Trail Blazers,New Orleans Hornets,77,92,Rose Garden Arena,20708,/boxscores/200901020POR.html
+Fri Jan 2 2009,Los Angeles Lakers,Utah Jazz,113,100,STAPLES Center,18997,/boxscores/200901020LAL.html
+Sat Jan 3 2009,Indiana Pacers,Sacramento Kings,122,117,Conseco Fieldhouse,12765,/boxscores/200901030IND.html
+Sat Jan 3 2009,Atlanta Hawks,Houston Rockets,103,100,Philips Arena,16740,/boxscores/200901030ATL.html
+Sat Jan 3 2009,Charlotte Bobcats,Milwaukee Bucks,102,92,Time Warner Cable Arena,14201,/boxscores/200901030CHA.html
+Sat Jan 3 2009,Miami Heat,New Jersey Nets,101,96,AmericanAirlines Arena,19600,/boxscores/200901030MIA.html
+Sat Jan 3 2009,Chicago Bulls,Minnesota Timberwolves,92,102,United Center,20516,/boxscores/200901030CHI.html
+Sat Jan 3 2009,San Antonio Spurs,Philadelphia 76ers,108,106,AT&T Center,18797,/boxscores/200901030SAS.html
+Sat Jan 3 2009,Denver Nuggets,New Orleans Hornets,105,100,Pepsi Center,19614,/boxscores/200901030DEN.html
+Sun Jan 4 2009,Toronto Raptors,Orlando Magic,108,102,Air Canada Centre,19322,/boxscores/200901040TOR.html
+Sun Jan 4 2009,Washington Wizards,Cleveland Cavaliers,80,77,Verizon Center,20173,/boxscores/200901040WAS.html
+Sun Jan 4 2009,Los Angeles Clippers,Detroit Pistons,87,88,STAPLES Center,17968,/boxscores/200901040LAC.html
+Sun Jan 4 2009,Memphis Grizzlies,Dallas Mavericks,102,82,FedEx Forum,11731,/boxscores/200901040MEM.html
+Sun Jan 4 2009,New York Knicks,Boston Celtics,100,88,Madison Square Garden (IV),19763,/boxscores/200901040NYK.html
+Sun Jan 4 2009,Los Angeles Lakers,Portland Trail Blazers,100,86,STAPLES Center,18997,/boxscores/200901040LAL.html
+Mon Jan 5 2009,Miami Heat,San Antonio Spurs,84,91,AmericanAirlines Arena,19600,/boxscores/200901050MIA.html
+Mon Jan 5 2009,New Jersey Nets,Sacramento Kings,98,90,Izod Center,12314,/boxscores/200901050NJN.html
+Mon Jan 5 2009,Milwaukee Bucks,Toronto Raptors,107,97,Bradley Center,12599,/boxscores/200901050MIL.html
+Mon Jan 5 2009,Denver Nuggets,Indiana Pacers,135,115,Pepsi Center,14255,/boxscores/200901050DEN.html
+Mon Jan 5 2009,Utah Jazz,Golden State Warriors,119,114,EnergySolutions Arena,19911,/boxscores/200901050UTA.html
+Tue Jan 6 2009,Charlotte Bobcats,Boston Celtics,114,106,Time Warner Cable Arena,17112,/boxscores/200901060CHA.html
+Tue Jan 6 2009,Orlando Magic,Washington Wizards,89,80,Amway Arena,16011,/boxscores/200901060ORL.html
+Tue Jan 6 2009,Philadelphia 76ers,Houston Rockets,104,96,Wachovia Center,14858,/boxscores/200901060PHI.html
+Tue Jan 6 2009,Memphis Grizzlies,Minnesota Timberwolves,87,94,FedEx Forum,10156,/boxscores/200901060MEM.html
+Tue Jan 6 2009,Oklahoma City Thunder,New York Knicks,107,99,Ford Center,18487,/boxscores/200901060OKC.html
+Tue Jan 6 2009,Chicago Bulls,Sacramento Kings,99,94,United Center,18060,/boxscores/200901060CHI.html
+Tue Jan 6 2009,Dallas Mavericks,Los Angeles Clippers,107,102,American Airlines Center,19794,/boxscores/200901060DAL.html
+Tue Jan 6 2009,Los Angeles Lakers,New Orleans Hornets,105,116,STAPLES Center,18997,/boxscores/200901060LAL.html
+Wed Jan 7 2009,Atlanta Hawks,Orlando Magic,102,106,Philips Arena,13748,/boxscores/200901070ATL.html
+Wed Jan 7 2009,Cleveland Cavaliers,Charlotte Bobcats,111,81,Quicken Loans Arena,20562,/boxscores/200901070CLE.html
+Wed Jan 7 2009,Washington Wizards,Toronto Raptors,93,99,Verizon Center,13864,/boxscores/200901070WAS.html
+Wed Jan 7 2009,Boston Celtics,Houston Rockets,85,89,TD Banknorth Garden,18624,/boxscores/200901070BOS.html
+Wed Jan 7 2009,New Jersey Nets,Memphis Grizzlies,100,89,Izod Center,11552,/boxscores/200901070NJN.html
+Wed Jan 7 2009,Milwaukee Bucks,Philadelphia 76ers,105,110,Bradley Center,13381,/boxscores/200901070MIL.html
+Wed Jan 7 2009,Minnesota Timberwolves,Oklahoma City Thunder,129,87,Target Center,10272,/boxscores/200901070MIN.html
+Wed Jan 7 2009,Denver Nuggets,Miami Heat,108,97,Pepsi Center,15459,/boxscores/200901070DEN.html
+Wed Jan 7 2009,Phoenix Suns,Indiana Pacers,110,113,US Airways Center,18422,/boxscores/200901070PHO.html
+Wed Jan 7 2009,Utah Jazz,New Orleans Hornets,116,90,EnergySolutions Arena,19911,/boxscores/200901070UTA.html
+Wed Jan 7 2009,Portland Trail Blazers,Detroit Pistons,84,83,Rose Garden Arena,20644,/boxscores/200901070POR.html
+Wed Jan 7 2009,Golden State Warriors,Los Angeles Lakers,106,114,Oracle Arena,19596,/boxscores/200901070GSW.html
+Thu Jan 8 2009,Dallas Mavericks,New York Knicks,99,94,American Airlines Center,19779,/boxscores/200901080DAL.html
+Thu Jan 8 2009,San Antonio Spurs,Los Angeles Clippers,106,84,AT&T Center,17873,/boxscores/200901080SAS.html
+Fri Jan 9 2009,Orlando Magic,Atlanta Hawks,121,87,Amway Arena,17461,/boxscores/200901090ORL.html
+Fri Jan 9 2009,Philadelphia 76ers,Charlotte Bobcats,93,87,Wachovia Center,14235,/boxscores/200901090PHI.html
+Fri Jan 9 2009,Toronto Raptors,Memphis Grizzlies,103,82,Air Canada Centre,18486,/boxscores/200901090TOR.html
+Fri Jan 9 2009,Cleveland Cavaliers,Boston Celtics,98,83,Quicken Loans Arena,20562,/boxscores/200901090CLE.html
+Fri Jan 9 2009,New Orleans Hornets,Los Angeles Clippers,107,80,New Orleans Arena,17815,/boxscores/200901090NOH.html
+Fri Jan 9 2009,Oklahoma City Thunder,Houston Rockets,96,98,Ford Center,19136,/boxscores/200901090OKC.html
+Fri Jan 9 2009,Chicago Bulls,Washington Wizards,98,86,United Center,20125,/boxscores/200901090CHI.html
+Fri Jan 9 2009,Milwaukee Bucks,New Jersey Nets,104,102,Bradley Center,15768,/boxscores/200901090MIL.html
+Fri Jan 9 2009,Denver Nuggets,Detroit Pistons,90,93,Pepsi Center,19682,/boxscores/200901090DEN.html
+Fri Jan 9 2009,Sacramento Kings,Miami Heat,115,119,ARCO Arena (II),12587,/boxscores/200901090SAC.html
+Fri Jan 9 2009,Los Angeles Lakers,Indiana Pacers,121,119,STAPLES Center,18997,/boxscores/200901090LAL.html
+Fri Jan 9 2009,Phoenix Suns,Dallas Mavericks,128,100,US Airways Center,18422,/boxscores/200901090PHO.html
+Sat Jan 10 2009,Washington Wizards,Charlotte Bobcats,89,92,Verizon Center,20173,/boxscores/200901100WAS.html
+Sat Jan 10 2009,Minnesota Timberwolves,Milwaukee Bucks,106,104,Target Center,15007,/boxscores/200901100MIN.html
+Sat Jan 10 2009,Chicago Bulls,Oklahoma City Thunder,98,109,United Center,20469,/boxscores/200901100CHI.html
+Sat Jan 10 2009,Houston Rockets,New York Knicks,96,76,Toyota Center,18280,/boxscores/200901100HOU.html
+Sat Jan 10 2009,Utah Jazz,Detroit Pistons,99,82,EnergySolutions Arena,19911,/boxscores/200901100UTA.html
+Sat Jan 10 2009,Portland Trail Blazers,Golden State Warriors,113,100,Rose Garden Arena,20687,/boxscores/200901100POR.html
+Sun Jan 11 2009,Toronto Raptors,Boston Celtics,88,94,Air Canada Centre,19800,/boxscores/200901110TOR.html
+Sun Jan 11 2009,Atlanta Hawks,Philadelphia 76ers,94,109,Philips Arena,15079,/boxscores/200901110ATL.html
+Sun Jan 11 2009,Los Angeles Clippers,Phoenix Suns,103,109,STAPLES Center,17307,/boxscores/200901110LAC.html
+Sun Jan 11 2009,San Antonio Spurs,Orlando Magic,98,105,AT&T Center,18216,/boxscores/200901110SAS.html
+Sun Jan 11 2009,Golden State Warriors,Indiana Pacers,120,117,Oracle Arena,18262,/boxscores/200901110GSW.html
+Sun Jan 11 2009,Sacramento Kings,Dallas Mavericks,102,95,ARCO Arena (II),12294,/boxscores/200901110SAC.html
+Sun Jan 11 2009,Los Angeles Lakers,Miami Heat,108,105,STAPLES Center,18997,/boxscores/200901110LAL.html
+Mon Jan 12 2009,Washington Wizards,Milwaukee Bucks,91,97,Verizon Center,13510,/boxscores/200901120WAS.html
+Mon Jan 12 2009,Boston Celtics,Toronto Raptors,115,109,TD Banknorth Garden,18624,/boxscores/200901120BOS.html
+Mon Jan 12 2009,New Jersey Nets,Oklahoma City Thunder,103,99,Izod Center,12972,/boxscores/200901120NJN.html
+Mon Jan 12 2009,New Orleans Hornets,New York Knicks,95,101,New Orleans Arena,16177,/boxscores/200901120NOH.html
+Mon Jan 12 2009,Chicago Bulls,Portland Trail Blazers,95,109,United Center,18996,/boxscores/200901120CHI.html
+Mon Jan 12 2009,Utah Jazz,Indiana Pacers,120,113,EnergySolutions Arena,19911,/boxscores/200901120UTA.html
+Tue Jan 13 2009,Detroit Pistons,Charlotte Bobcats,78,80,The Palace of Auburn Hills,22076,/boxscores/200901130DET.html
+Tue Jan 13 2009,Memphis Grizzlies,Cleveland Cavaliers,87,102,FedEx Forum,15121,/boxscores/200901130MEM.html
+Tue Jan 13 2009,Minnesota Timberwolves,Miami Heat,96,99,Target Center,10856,/boxscores/200901130MIN.html
+Tue Jan 13 2009,Houston Rockets,Los Angeles Lakers,100,105,Toyota Center,18557,/boxscores/200901130HOU.html
+Tue Jan 13 2009,Denver Nuggets,Dallas Mavericks,99,97,Pepsi Center,14158,/boxscores/200901130DEN.html
+Tue Jan 13 2009,Phoenix Suns,Atlanta Hawks,107,102,US Airways Center,18422,/boxscores/200901130PHO.html
+Tue Jan 13 2009,Sacramento Kings,Orlando Magic,107,139,ARCO Arena (II),11168,/boxscores/200901130SAC.html
+Wed Jan 14 2009,Indiana Pacers,Detroit Pistons,110,106,Conseco Fieldhouse,11964,/boxscores/200901140IND.html
+Wed Jan 14 2009,Philadelphia 76ers,Portland Trail Blazers,100,79,Wachovia Center,14561,/boxscores/200901140PHI.html
+Wed Jan 14 2009,Toronto Raptors,Chicago Bulls,98,102,Air Canada Centre,18494,/boxscores/200901140TOR.html
+Wed Jan 14 2009,Boston Celtics,New Jersey Nets,118,86,TD Banknorth Garden,18624,/boxscores/200901140BOS.html
+Wed Jan 14 2009,New York Knicks,Washington Wizards,128,122,Madison Square Garden (IV),18020,/boxscores/200901140NYK.html
+Wed Jan 14 2009,Milwaukee Bucks,Miami Heat,99,102,Bradley Center,15271,/boxscores/200901140MIL.html
+Wed Jan 14 2009,Oklahoma City Thunder,Utah Jazz,114,93,Ford Center,18437,/boxscores/200901140OKC.html
+Wed Jan 14 2009,Dallas Mavericks,New Orleans Hornets,97,104,American Airlines Center,19947,/boxscores/200901140DAL.html
+Wed Jan 14 2009,San Antonio Spurs,Los Angeles Lakers,112,111,AT&T Center,18797,/boxscores/200901140SAS.html
+Wed Jan 14 2009,Golden State Warriors,Sacramento Kings,133,135,Oracle Arena,19122,/boxscores/200901140GSW.html
+Wed Jan 14 2009,Los Angeles Clippers,Atlanta Hawks,80,97,STAPLES Center,15901,/boxscores/200901140LAC.html
+Thu Jan 15 2009,New Jersey Nets,Portland Trail Blazers,99,105,Izod Center,13824,/boxscores/200901150NJN.html
+Thu Jan 15 2009,Chicago Bulls,Cleveland Cavaliers,102,93,United Center,21297,/boxscores/200901150CHI.html
+Thu Jan 15 2009,Denver Nuggets,Phoenix Suns,119,113,Pepsi Center,18073,/boxscores/200901150DEN.html
+Fri Jan 16 2009,Indiana Pacers,Toronto Raptors,111,104,Conseco Fieldhouse,13234,/boxscores/200901160IND.html
+Fri Jan 16 2009,Philadelphia 76ers,San Antonio Spurs,109,87,Wachovia Center,18739,/boxscores/200901160PHI.html
+Fri Jan 16 2009,Washington Wizards,New York Knicks,96,89,Verizon Center,17526,/boxscores/200901160WAS.html
+Fri Jan 16 2009,Cleveland Cavaliers,New Orleans Hornets,92,78,Quicken Loans Arena,20562,/boxscores/200901160CLE.html
+Fri Jan 16 2009,Memphis Grizzlies,Utah Jazz,91,101,FedEx Forum,10422,/boxscores/200901160MEM.html
+Fri Jan 16 2009,Oklahoma City Thunder,Detroit Pistons,89,79,Ford Center,19136,/boxscores/200901160OKC.html
+Fri Jan 16 2009,Phoenix Suns,Minnesota Timberwolves,103,105,US Airways Center,18422,/boxscores/200901160PHO.html
+Fri Jan 16 2009,Sacramento Kings,Milwaukee Bucks,122,129,ARCO Arena (II),11663,/boxscores/200901160SAC.html
+Fri Jan 16 2009,Golden State Warriors,Atlanta Hawks,119,114,Oracle Arena,18832,/boxscores/200901160GSW.html
+Fri Jan 16 2009,Los Angeles Lakers,Orlando Magic,103,109,STAPLES Center,18997,/boxscores/200901160LAL.html
+Sat Jan 17 2009,New Jersey Nets,Boston Celtics,85,105,Izod Center,17578,/boxscores/200901170NJN.html
+Sat Jan 17 2009,Charlotte Bobcats,Portland Trail Blazers,102,97,Time Warner Cable Arena,17482,/boxscores/200901170CHA.html
+Sat Jan 17 2009,Detroit Pistons,New Orleans Hornets,85,91,The Palace of Auburn Hills,22076,/boxscores/200901170DET.html
+Sat Jan 17 2009,New York Knicks,Philadelphia 76ers,97,107,Madison Square Garden (IV),19408,/boxscores/200901170NYK.html
+Sat Jan 17 2009,Chicago Bulls,San Antonio Spurs,87,92,United Center,22100,/boxscores/200901170CHI.html
+Sat Jan 17 2009,Houston Rockets,Miami Heat,93,86,Toyota Center,18369,/boxscores/200901170HOU.html
+Sat Jan 17 2009,Dallas Mavericks,Utah Jazz,115,108,American Airlines Center,20325,/boxscores/200901170DAL.html
+Sat Jan 17 2009,Denver Nuggets,Orlando Magic,88,106,Pepsi Center,19749,/boxscores/200901170DEN.html
+Sat Jan 17 2009,Los Angeles Clippers,Milwaukee Bucks,101,92,STAPLES Center,16448,/boxscores/200901170LAC.html
+Sun Jan 18 2009,Toronto Raptors,Phoenix Suns,113,117,Air Canada Centre,19800,/boxscores/200901180TOR.html
+Sun Jan 18 2009,Oklahoma City Thunder,Miami Heat,94,104,Ford Center,19136,/boxscores/200901180OKC.html
+Mon Jan 19 2009,New York Knicks,Chicago Bulls,102,98,Madison Square Garden (IV),18807,/boxscores/200901190NYK.html
+Mon Jan 19 2009,Philadelphia 76ers,Dallas Mavericks,93,95,Wachovia Center,14503,/boxscores/200901190PHI.html
+Mon Jan 19 2009,Atlanta Hawks,Toronto Raptors,87,84,Philips Arena,17199,/boxscores/200901190ATL.html
+Mon Jan 19 2009,Charlotte Bobcats,San Antonio Spurs,84,86,Time Warner Cable Arena,16160,/boxscores/200901190CHA.html
+Mon Jan 19 2009,Houston Rockets,Denver Nuggets,115,113,Toyota Center,18199,/boxscores/200901190HOU.html
+Mon Jan 19 2009,Los Angeles Clippers,Minnesota Timberwolves,86,94,STAPLES Center,14399,/boxscores/200901190LAC.html
+Mon Jan 19 2009,New Orleans Hornets,Indiana Pacers,103,100,New Orleans Arena,17237,/boxscores/200901190NOH.html
+Mon Jan 19 2009,Golden State Warriors,Washington Wizards,119,98,Oracle Arena,19244,/boxscores/200901190GSW.html
+Mon Jan 19 2009,Memphis Grizzlies,Detroit Pistons,79,87,FedEx Forum,17483,/boxscores/200901190MEM.html
+Mon Jan 19 2009,Boston Celtics,Phoenix Suns,104,87,TD Banknorth Garden,18624,/boxscores/200901190BOS.html
+Mon Jan 19 2009,Portland Trail Blazers,Milwaukee Bucks,102,85,Rose Garden Arena,20580,/boxscores/200901190POR.html
+Mon Jan 19 2009,Los Angeles Lakers,Cleveland Cavaliers,105,88,STAPLES Center,18997,/boxscores/200901190LAL.html
+Tue Jan 20 2009,Chicago Bulls,Atlanta Hawks,102,105,United Center,20389,/boxscores/200901200CHI.html
+Tue Jan 20 2009,San Antonio Spurs,Indiana Pacers,99,81,AT&T Center,18181,/boxscores/200901200SAS.html
+Tue Jan 20 2009,Denver Nuggets,Sacramento Kings,118,99,Pepsi Center,15164,/boxscores/200901200DEN.html
+Tue Jan 20 2009,Utah Jazz,Minnesota Timberwolves,112,107,EnergySolutions Arena,19911,/boxscores/200901200UTA.html
+Wed Jan 21 2009,Charlotte Bobcats,Memphis Grizzlies,101,86,Time Warner Cable Arena,11249,/boxscores/200901210CHA.html
+Wed Jan 21 2009,Detroit Pistons,Toronto Raptors,95,76,The Palace of Auburn Hills,22076,/boxscores/200901210DET.html
+Wed Jan 21 2009,Miami Heat,Boston Celtics,83,98,AmericanAirlines Arena,19600,/boxscores/200901210MIA.html
+Wed Jan 21 2009,New York Knicks,Phoenix Suns,114,109,Madison Square Garden (IV),19256,/boxscores/200901210NYK.html
+Wed Jan 21 2009,Milwaukee Bucks,Dallas Mavericks,133,99,Bradley Center,13898,/boxscores/200901210MIL.html
+Wed Jan 21 2009,New Orleans Hornets,New Jersey Nets,102,92,New Orleans Arena,14748,/boxscores/200901210NOH.html
+Wed Jan 21 2009,Houston Rockets,Utah Jazz,108,99,Toyota Center,17037,/boxscores/200901210HOU.html
+Wed Jan 21 2009,Portland Trail Blazers,Cleveland Cavaliers,98,104,Rose Garden Arena,20632,/boxscores/200901210POR.html
+Wed Jan 21 2009,Sacramento Kings,Washington Wizards,107,110,ARCO Arena (II),10821,/boxscores/200901210SAC.html
+Wed Jan 21 2009,Golden State Warriors,Oklahoma City Thunder,121,122,Oracle Arena,19318,/boxscores/200901210GSW.html
+Wed Jan 21 2009,Los Angeles Clippers,Los Angeles Lakers,97,108,STAPLES Center,19627,/boxscores/200901210LAC.html
+Thu Jan 22 2009,Orlando Magic,Boston Celtics,80,90,Amway Arena,17461,/boxscores/200901220ORL.html
+Thu Jan 22 2009,Los Angeles Lakers,Washington Wizards,117,97,STAPLES Center,18997,/boxscores/200901220LAL.html
+Fri Jan 23 2009,Charlotte Bobcats,Phoenix Suns,98,76,Time Warner Cable Arena,19104,/boxscores/200901230CHA.html
+Fri Jan 23 2009,Detroit Pistons,Dallas Mavericks,91,112,The Palace of Auburn Hills,22076,/boxscores/200901230DET.html
+Fri Jan 23 2009,Indiana Pacers,Houston Rockets,107,102,Conseco Fieldhouse,14486,/boxscores/200901230IND.html
+Fri Jan 23 2009,Atlanta Hawks,Milwaukee Bucks,117,87,Philips Arena,18556,/boxscores/200901230ATL.html
+Fri Jan 23 2009,New York Knicks,Memphis Grizzlies,108,88,Madison Square Garden (IV),18391,/boxscores/200901230NYK.html
+Fri Jan 23 2009,Minnesota Timberwolves,New Orleans Hornets,116,108,Target Center,18224,/boxscores/200901230MIN.html
+Fri Jan 23 2009,Chicago Bulls,Toronto Raptors,94,114,United Center,20886,/boxscores/200901230CHI.html
+Fri Jan 23 2009,San Antonio Spurs,New Jersey Nets,94,91,AT&T Center,18797,/boxscores/200901230SAS.html
+Fri Jan 23 2009,Golden State Warriors,Cleveland Cavaliers,105,106,Oracle Arena,19596,/boxscores/200901230GSW.html
+Fri Jan 23 2009,Los Angeles Clippers,Oklahoma City Thunder,107,104,STAPLES Center,14913,/boxscores/200901230LAC.html
+Sat Jan 24 2009,Philadelphia 76ers,New York Knicks,116,110,Wachovia Center,19239,/boxscores/200901240PHI.html
+Sat Jan 24 2009,Miami Heat,Orlando Magic,103,97,AmericanAirlines Arena,19600,/boxscores/200901240MIA.html
+Sat Jan 24 2009,Memphis Grizzlies,New Jersey Nets,88,99,FedEx Forum,12817,/boxscores/200901240MEM.html
+Sat Jan 24 2009,Milwaukee Bucks,Sacramento Kings,106,104,Bradley Center,15379,/boxscores/200901240MIL.html
+Sat Jan 24 2009,Utah Jazz,Cleveland Cavaliers,97,102,EnergySolutions Arena,19911,/boxscores/200901240UTA.html
+Sat Jan 24 2009,Portland Trail Blazers,Washington Wizards,100,87,Rose Garden Arena,20566,/boxscores/200901240POR.html
+Sun Jan 25 2009,Boston Celtics,Dallas Mavericks,124,100,TD Banknorth Garden,18624,/boxscores/200901250BOS.html
+Sun Jan 25 2009,Los Angeles Lakers,San Antonio Spurs,99,85,STAPLES Center,18997,/boxscores/200901250LAL.html
+Sun Jan 25 2009,Atlanta Hawks,Phoenix Suns,99,104,Philips Arena,19153,/boxscores/200901250ATL.html
+Sun Jan 25 2009,Toronto Raptors,Sacramento Kings,113,97,Air Canada Centre,18127,/boxscores/200901250TOR.html
+Sun Jan 25 2009,Detroit Pistons,Houston Rockets,105,108,The Palace of Auburn Hills,22076,/boxscores/200901250DET.html
+Sun Jan 25 2009,Indiana Pacers,Charlotte Bobcats,98,93,Conseco Fieldhouse,10936,/boxscores/200901250IND.html
+Sun Jan 25 2009,Minnesota Timberwolves,Chicago Bulls,109,108,Target Center,16009,/boxscores/200901250MIN.html
+Sun Jan 25 2009,Denver Nuggets,Utah Jazz,117,97,Pepsi Center,17895,/boxscores/200901250DEN.html
+Sun Jan 25 2009,Golden State Warriors,Los Angeles Clippers,107,92,Oracle Arena,17746,/boxscores/200901250GSW.html
+Mon Jan 26 2009,Washington Wizards,Phoenix Suns,87,103,Verizon Center,17344,/boxscores/200901260WAS.html
+Mon Jan 26 2009,Miami Heat,Atlanta Hawks,95,79,AmericanAirlines Arena,18103,/boxscores/200901260MIA.html
+Mon Jan 26 2009,New York Knicks,Houston Rockets,104,98,Madison Square Garden (IV),19155,/boxscores/200901260NYK.html
+Mon Jan 26 2009,Milwaukee Bucks,Minnesota Timberwolves,83,90,Bradley Center,12914,/boxscores/200901260MIL.html
+Mon Jan 26 2009,New Orleans Hornets,Philadelphia 76ers,101,86,New Orleans Arena,16131,/boxscores/200901260NOH.html
+Mon Jan 26 2009,Oklahoma City Thunder,New Jersey Nets,94,85,Ford Center,18264,/boxscores/200901260OKC.html
+Mon Jan 26 2009,Los Angeles Clippers,Portland Trail Blazers,88,113,STAPLES Center,16570,/boxscores/200901260LAC.html
+Tue Jan 27 2009,Cleveland Cavaliers,Sacramento Kings,117,110,Quicken Loans Arena,20562,/boxscores/200901270CLE.html
+Tue Jan 27 2009,Orlando Magic,Indiana Pacers,135,111,Amway Arena,17461,/boxscores/200901270ORL.html
+Tue Jan 27 2009,Memphis Grizzlies,Denver Nuggets,85,100,FedEx Forum,11338,/boxscores/200901270MEM.html
+Tue Jan 27 2009,Utah Jazz,San Antonio Spurs,100,106,EnergySolutions Arena,19911,/boxscores/200901270UTA.html
+Tue Jan 27 2009,Los Angeles Lakers,Charlotte Bobcats,110,117,STAPLES Center,18997,/boxscores/200901270LAL.html
+Wed Jan 28 2009,Indiana Pacers,Milwaukee Bucks,107,99,Conseco Fieldhouse,12143,/boxscores/200901280IND.html
+Wed Jan 28 2009,Boston Celtics,Sacramento Kings,119,100,TD Banknorth Garden,18624,/boxscores/200901280BOS.html
+Wed Jan 28 2009,Miami Heat,Washington Wizards,93,71,AmericanAirlines Arena,16424,/boxscores/200901280MIA.html
+Wed Jan 28 2009,New Jersey Nets,Toronto Raptors,106,107,Izod Center,10138,/boxscores/200901280NJN.html
+Wed Jan 28 2009,New York Knicks,Atlanta Hawks,112,104,Madison Square Garden (IV),18180,/boxscores/200901280NYK.html
+Wed Jan 28 2009,Minnesota Timberwolves,Detroit Pistons,89,98,Target Center,14232,/boxscores/200901280MIN.html
+Wed Jan 28 2009,New Orleans Hornets,Denver Nuggets,94,81,New Orleans Arena,15792,/boxscores/200901280NOH.html
+Wed Jan 28 2009,Oklahoma City Thunder,Memphis Grizzlies,114,102,Ford Center,18450,/boxscores/200901280OKC.html
+Wed Jan 28 2009,Houston Rockets,Philadelphia 76ers,93,95,Toyota Center,15544,/boxscores/200901280HOU.html
+Wed Jan 28 2009,Dallas Mavericks,Golden State Warriors,117,93,American Airlines Center,19864,/boxscores/200901280DAL.html
+Wed Jan 28 2009,Portland Trail Blazers,Charlotte Bobcats,88,74,Rose Garden Arena,20380,/boxscores/200901280POR.html
+Wed Jan 28 2009,Los Angeles Clippers,Chicago Bulls,75,95,STAPLES Center,15637,/boxscores/200901280LAC.html
+Thu Jan 29 2009,Orlando Magic,Cleveland Cavaliers,99,88,Amway Arena,17461,/boxscores/200901290ORL.html
+Thu Jan 29 2009,Phoenix Suns,San Antonio Spurs,104,114,US Airways Center,18422,/boxscores/200901290PHO.html
+Fri Jan 30 2009,Detroit Pistons,Boston Celtics,78,86,The Palace of Auburn Hills,22076,/boxscores/200901300DET.html
+Fri Jan 30 2009,Indiana Pacers,Miami Heat,114,103,Conseco Fieldhouse,14031,/boxscores/200901300IND.html
+Fri Jan 30 2009,Philadelphia 76ers,Washington Wizards,104,94,Wachovia Center,15528,/boxscores/200901300PHI.html
+Fri Jan 30 2009,Toronto Raptors,Milwaukee Bucks,85,96,Air Canada Centre,18791,/boxscores/200901300TOR.html
+Fri Jan 30 2009,Atlanta Hawks,New Jersey Nets,105,88,Philips Arena,17561,/boxscores/200901300ATL.html
+Fri Jan 30 2009,Cleveland Cavaliers,Los Angeles Clippers,112,95,Quicken Loans Arena,20562,/boxscores/200901300CLE.html
+Fri Jan 30 2009,Minnesota Timberwolves,Los Angeles Lakers,119,132,Target Center,19111,/boxscores/200901300MIN.html
+Fri Jan 30 2009,Denver Nuggets,Charlotte Bobcats,110,99,Pepsi Center,18463,/boxscores/200901300DEN.html
+Fri Jan 30 2009,Utah Jazz,Oklahoma City Thunder,110,90,EnergySolutions Arena,19911,/boxscores/200901300UTA.html
+Fri Jan 30 2009,New Orleans Hornets,Golden State Warriors,87,91,New Orleans Arena,17738,/boxscores/200901300NOH.html
+Fri Jan 30 2009,Sacramento Kings,Chicago Bulls,88,109,ARCO Arena (II),13356,/boxscores/200901300SAC.html
+Sat Jan 31 2009,Indiana Pacers,New York Knicks,113,122,Conseco Fieldhouse,15067,/boxscores/200901310IND.html
+Sat Jan 31 2009,Philadelphia 76ers,New Jersey Nets,83,85,Wachovia Center,17783,/boxscores/200901310PHI.html
+Sat Jan 31 2009,Miami Heat,Dallas Mavericks,96,111,AmericanAirlines Arena,19600,/boxscores/200901310MIA.html
+Sat Jan 31 2009,Memphis Grizzlies,Los Angeles Lakers,98,115,FedEx Forum,18119,/boxscores/200901310MEM.html
+Sat Jan 31 2009,Washington Wizards,Los Angeles Clippers,106,94,Verizon Center,18227,/boxscores/200901310WAS.html
+Sat Jan 31 2009,Houston Rockets,Golden State Warriors,110,93,Toyota Center,16702,/boxscores/200901310HOU.html
+Sat Jan 31 2009,Milwaukee Bucks,Atlanta Hawks,110,107,Bradley Center,15881,/boxscores/200901310MIL.html
+Sat Jan 31 2009,San Antonio Spurs,New Orleans Hornets,106,93,AT&T Center,18797,/boxscores/200901310SAS.html
+Sat Jan 31 2009,Phoenix Suns,Chicago Bulls,111,122,US Airways Center,18422,/boxscores/200901310PHO.html
+Sat Jan 31 2009,Portland Trail Blazers,Utah Jazz,122,108,Rose Garden Arena,20593,/boxscores/200901310POR.html

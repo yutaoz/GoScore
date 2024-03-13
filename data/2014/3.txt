@@ -1,0 +1,237 @@
+Sat Mar 1 2014,Miami Heat,Orlando Magic,112,98,AmericanAirlines Arena,19834,/boxscores/201403010MIA.html
+Sat Mar 1 2014,Philadelphia 76ers,Washington Wizards,103,122,Wells Fargo Center,20856,/boxscores/201403010PHI.html
+Sat Mar 1 2014,Boston Celtics,Indiana Pacers,97,102,TD Garden,18624,/boxscores/201403010BOS.html
+Sat Mar 1 2014,Houston Rockets,Detroit Pistons,118,110,Toyota Center,18330,/boxscores/201403010HOU.html
+Sat Mar 1 2014,Milwaukee Bucks,Brooklyn Nets,98,107,BMO Harris Bradley Center,14081,/boxscores/201403010MIL.html
+Sat Mar 1 2014,Memphis Grizzlies,Cleveland Cavaliers,110,96,FedEx Forum,17011,/boxscores/201403010MEM.html
+Sat Mar 1 2014,Portland Trail Blazers,Denver Nuggets,102,96,Moda Center,20068,/boxscores/201403010POR.html
+Sat Mar 1 2014,Sacramento Kings,Minnesota Timberwolves,97,108,Sleep Train Arena,17085,/boxscores/201403010SAC.html
+Sat Mar 1 2014,Los Angeles Clippers,New Orleans Pelicans,108,76,STAPLES Center,19060,/boxscores/201403010LAC.html
+Sun Mar 2 2014,Chicago Bulls,New York Knicks,109,90,United Center,21739,/boxscores/201403020CHI.html
+Sun Mar 2 2014,Toronto Raptors,Golden State Warriors,104,98,Air Canada Centre,18658,/boxscores/201403020TOR.html
+Sun Mar 2 2014,Indiana Pacers,Utah Jazz,94,91,Bankers Life Fieldhouse,18165,/boxscores/201403020IND.html
+Sun Mar 2 2014,Orlando Magic,Philadelphia 76ers,92,81,Amway Center,16704,/boxscores/201403020ORL.html
+Sun Mar 2 2014,Oklahoma City Thunder,Charlotte Bobcats,116,99,Chesapeake Energy Arena,18203,/boxscores/201403020OKC.html
+Sun Mar 2 2014,San Antonio Spurs,Dallas Mavericks,112,106,AT&T Center,18581,/boxscores/201403020SAS.html
+Sun Mar 2 2014,Phoenix Suns,Atlanta Hawks,129,120,US Airways Center,16759,/boxscores/201403020PHO.html
+Mon Mar 3 2014,Washington Wizards,Memphis Grizzlies,104,110,Verizon Center,14065,/boxscores/201403030WAS.html
+Mon Mar 3 2014,Brooklyn Nets,Chicago Bulls,96,80,Barclays Center,17732,/boxscores/201403030BRK.html
+Mon Mar 3 2014,Detroit Pistons,New York Knicks,96,85,The Palace of Auburn Hills,14742,/boxscores/201403030DET.html
+Mon Mar 3 2014,Miami Heat,Charlotte Bobcats,124,107,AmericanAirlines Arena,19727,/boxscores/201403030MIA.html
+Mon Mar 3 2014,Milwaukee Bucks,Utah Jazz,114,88,BMO Harris Bradley Center,10022,/boxscores/201403030MIL.html
+Mon Mar 3 2014,Denver Nuggets,Minnesota Timberwolves,128,132,Pepsi Center,15240,/boxscores/201403030DEN.html
+Mon Mar 3 2014,Portland Trail Blazers,Los Angeles Lakers,106,107,Moda Center,20013,/boxscores/201403030POR.html
+Mon Mar 3 2014,Sacramento Kings,New Orleans Pelicans,96,89,Sleep Train Arena,16225,/boxscores/201403030SAC.html
+Tue Mar 4 2014,Cleveland Cavaliers,San Antonio Spurs,101,122,Quicken Loans Arena,17966,/boxscores/201403040CLE.html
+Tue Mar 4 2014,Indiana Pacers,Golden State Warriors,96,98,Bankers Life Fieldhouse,18165,/boxscores/201403040IND.html
+Tue Mar 4 2014,Houston Rockets,Miami Heat,106,103,Toyota Center,18523,/boxscores/201403040HOU.html
+Tue Mar 4 2014,Oklahoma City Thunder,Philadelphia 76ers,125,92,Chesapeake Energy Arena,18203,/boxscores/201403040OKC.html
+Tue Mar 4 2014,Phoenix Suns,Los Angeles Clippers,96,104,US Airways Center,15068,/boxscores/201403040PHO.html
+Tue Mar 4 2014,Los Angeles Lakers,New Orleans Pelicans,125,132,STAPLES Center,18436,/boxscores/201403040LAL.html
+Wed Mar 5 2014,Charlotte Bobcats,Indiana Pacers,109,87,Time Warner Cable Arena,15372,/boxscores/201403050CHA.html
+Wed Mar 5 2014,Orlando Magic,Houston Rockets,89,101,Amway Center,16012,/boxscores/201403050ORL.html
+Wed Mar 5 2014,Washington Wizards,Utah Jazz,104,91,Verizon Center,13911,/boxscores/201403050WAS.html
+Wed Mar 5 2014,Boston Celtics,Golden State Warriors,88,108,TD Garden,18155,/boxscores/201403050BOS.html
+Wed Mar 5 2014,Brooklyn Nets,Memphis Grizzlies,103,94,Barclays Center,17053,/boxscores/201403050BRK.html
+Wed Mar 5 2014,Detroit Pistons,Chicago Bulls,94,105,The Palace of Auburn Hills,14007,/boxscores/201403050DET.html
+Wed Mar 5 2014,Denver Nuggets,Dallas Mavericks,115,110,Pepsi Center,14541,/boxscores/201403050DEN.html
+Wed Mar 5 2014,Milwaukee Bucks,Sacramento Kings,102,116,BMO Harris Bradley Center,11079,/boxscores/201403050MIL.html
+Wed Mar 5 2014,Minnesota Timberwolves,New York Knicks,106,118,Target Center,14294,/boxscores/201403050MIN.html
+Wed Mar 5 2014,Portland Trail Blazers,Atlanta Hawks,102,78,Moda Center,20043,/boxscores/201403050POR.html
+Thu Mar 6 2014,San Antonio Spurs,Miami Heat,111,87,AT&T Center,18581,/boxscores/201403060SAS.html
+Thu Mar 6 2014,Phoenix Suns,Oklahoma City Thunder,128,122,US Airways Center,17816,/boxscores/201403060PHO.html
+Thu Mar 6 2014,Los Angeles Lakers,Los Angeles Clippers,94,142,STAPLES Center,18488,/boxscores/201403060LAL.html
+Fri Mar 7 2014,Charlotte Bobcats,Cleveland Cavaliers,101,92,Time Warner Cable Arena,15688,/boxscores/201403070CHA.html
+Fri Mar 7 2014,Chicago Bulls,Memphis Grizzlies,77,85,United Center,21318,/boxscores/201403070CHI.html
+Fri Mar 7 2014,Toronto Raptors,Sacramento Kings,99,87,Air Canada Centre,18188,/boxscores/201403070TOR.html
+Fri Mar 7 2014,Boston Celtics,Brooklyn Nets,91,84,TD Garden,18195,/boxscores/201403070BOS.html
+Fri Mar 7 2014,New York Knicks,Utah Jazz,108,81,Madison Square Garden (IV),19812,/boxscores/201403070NYK.html
+Fri Mar 7 2014,Minnesota Timberwolves,Detroit Pistons,114,101,Target Center,16242,/boxscores/201403070MIN.html
+Fri Mar 7 2014,New Orleans Pelicans,Milwaukee Bucks,112,104,Smoothie King Center,16061,/boxscores/201403070NOP.html
+Fri Mar 7 2014,Dallas Mavericks,Portland Trail Blazers,103,98,American Airlines Center,20251,/boxscores/201403070DAL.html
+Fri Mar 7 2014,Denver Nuggets,Los Angeles Lakers,134,126,Pepsi Center,18248,/boxscores/201403070DEN.html
+Fri Mar 7 2014,Houston Rockets,Indiana Pacers,112,86,Toyota Center,18332,/boxscores/201403070HOU.html
+Fri Mar 7 2014,Golden State Warriors,Atlanta Hawks,111,97,Oracle Arena,19596,/boxscores/201403070GSW.html
+Sat Mar 8 2014,Cleveland Cavaliers,New York Knicks,97,107,Quicken Loans Arena,20562,/boxscores/201403080CLE.html
+Sat Mar 8 2014,Philadelphia 76ers,Utah Jazz,92,104,Wells Fargo Center,13569,/boxscores/201403080PHI.html
+Sat Mar 8 2014,Memphis Grizzlies,Charlotte Bobcats,111,89,FedEx Forum,17298,/boxscores/201403080MEM.html
+Sat Mar 8 2014,San Antonio Spurs,Orlando Magic,121,112,AT&T Center,18581,/boxscores/201403080SAS.html
+Sat Mar 8 2014,Milwaukee Bucks,Washington Wizards,107,114,BMO Harris Bradley Center,14839,/boxscores/201403080MIL.html
+Sat Mar 8 2014,Los Angeles Clippers,Atlanta Hawks,109,108,STAPLES Center,19178,/boxscores/201403080LAC.html
+Sun Mar 9 2014,Chicago Bulls,Miami Heat,95,88,United Center,22028,/boxscores/201403090CHI.html
+Sun Mar 9 2014,Los Angeles Lakers,Oklahoma City Thunder,114,110,STAPLES Center,18997,/boxscores/201403090LAL.html
+Sun Mar 9 2014,Boston Celtics,Detroit Pistons,118,111,TD Garden,18624,/boxscores/201403090BOS.html
+Sun Mar 9 2014,Brooklyn Nets,Sacramento Kings,104,89,Barclays Center,17732,/boxscores/201403090BRK.html
+Sun Mar 9 2014,New Orleans Pelicans,Denver Nuggets,111,107,Smoothie King Center,17115,/boxscores/201403090NOP.html
+Sun Mar 9 2014,Houston Rockets,Portland Trail Blazers,118,113,Toyota Center,18321,/boxscores/201403090HOU.html
+Sun Mar 9 2014,Minnesota Timberwolves,Toronto Raptors,104,111,Target Center,13116,/boxscores/201403090MIN.html
+Sun Mar 9 2014,Dallas Mavericks,Indiana Pacers,105,94,American Airlines Center,20361,/boxscores/201403090DAL.html
+Sun Mar 9 2014,Golden State Warriors,Phoenix Suns,113,107,Oracle Arena,19596,/boxscores/201403090GSW.html
+Mon Mar 10 2014,Charlotte Bobcats,Denver Nuggets,105,98,Time Warner Cable Arena,14312,/boxscores/201403100CHA.html
+Mon Mar 10 2014,Brooklyn Nets,Toronto Raptors,101,97,Barclays Center,17351,/boxscores/201403100BRK.html
+Mon Mar 10 2014,Miami Heat,Washington Wizards,99,90,AmericanAirlines Arena,19657,/boxscores/201403100MIA.html
+Mon Mar 10 2014,New York Knicks,Philadelphia 76ers,123,110,Madison Square Garden (IV),19812,/boxscores/201403100NYK.html
+Mon Mar 10 2014,Milwaukee Bucks,Orlando Magic,105,98,BMO Harris Bradley Center,10114,/boxscores/201403100MIL.html
+Mon Mar 10 2014,Utah Jazz,Atlanta Hawks,110,112,EnergySolutions Arena,17774,/boxscores/201403100UTA.html
+Mon Mar 10 2014,Los Angeles Clippers,Phoenix Suns,112,105,STAPLES Center,19226,/boxscores/201403100LAC.html
+Tue Mar 11 2014,Indiana Pacers,Boston Celtics,94,83,Bankers Life Fieldhouse,18165,/boxscores/201403110IND.html
+Tue Mar 11 2014,Detroit Pistons,Sacramento Kings,99,89,The Palace of Auburn Hills,15234,/boxscores/201403110DET.html
+Tue Mar 11 2014,Chicago Bulls,San Antonio Spurs,96,104,United Center,21634,/boxscores/201403110CHI.html
+Tue Mar 11 2014,Memphis Grizzlies,Portland Trail Blazers,109,99,FedEx Forum,17391,/boxscores/201403110MEM.html
+Tue Mar 11 2014,Minnesota Timberwolves,Milwaukee Bucks,112,101,Target Center,12473,/boxscores/201403110MIN.html
+Tue Mar 11 2014,Oklahoma City Thunder,Houston Rockets,106,98,Chesapeake Energy Arena,18203,/boxscores/201403110OKC.html
+Tue Mar 11 2014,Golden State Warriors,Dallas Mavericks,108,85,Oracle Arena,19596,/boxscores/201403110GSW.html
+Wed Mar 12 2014,Miami Heat,Brooklyn Nets,95,96,AmericanAirlines Arena,19616,/boxscores/201403120MIA.html
+Wed Mar 12 2014,Orlando Magic,Denver Nuggets,112,120,Amway Center,16097,/boxscores/201403120ORL.html
+Wed Mar 12 2014,Philadelphia 76ers,Sacramento Kings,98,115,Wells Fargo Center,11109,/boxscores/201403120PHI.html
+Wed Mar 12 2014,Toronto Raptors,Detroit Pistons,101,87,Air Canada Centre,18247,/boxscores/201403120TOR.html
+Wed Mar 12 2014,Washington Wizards,Charlotte Bobcats,85,98,Verizon Center,17220,/boxscores/201403120WAS.html
+Wed Mar 12 2014,Boston Celtics,New York Knicks,92,116,TD Garden,18624,/boxscores/201403120BOS.html
+Wed Mar 12 2014,New Orleans Pelicans,Memphis Grizzlies,88,90,Smoothie King Center,16513,/boxscores/201403120NOP.html
+Wed Mar 12 2014,Utah Jazz,Dallas Mavericks,101,108,EnergySolutions Arena,17982,/boxscores/201403120UTA.html
+Wed Mar 12 2014,San Antonio Spurs,Portland Trail Blazers,103,90,AT&T Center,18581,/boxscores/201403120SAS.html
+Wed Mar 12 2014,Phoenix Suns,Cleveland Cavaliers,101,110,US Airways Center,17902,/boxscores/201403120PHO.html
+Wed Mar 12 2014,Los Angeles Clippers,Golden State Warriors,111,98,STAPLES Center,19570,/boxscores/201403120LAC.html
+Thu Mar 13 2014,Chicago Bulls,Houston Rockets,111,87,United Center,21747,/boxscores/201403130CHI.html
+Thu Mar 13 2014,Atlanta Hawks,Milwaukee Bucks,102,97,Philips Arena,12554,/boxscores/201403130ATL.html
+Thu Mar 13 2014,Oklahoma City Thunder,Los Angeles Lakers,131,102,Chesapeake Energy Arena,18203,/boxscores/201403130OKC.html
+Fri Mar 14 2014,Charlotte Bobcats,Minnesota Timberwolves,105,93,Time Warner Cable Arena,16983,/boxscores/201403140CHA.html
+Fri Mar 14 2014,Orlando Magic,Washington Wizards,101,105,Amway Center,16011,/boxscores/201403140ORL.html
+Fri Mar 14 2014,Philadelphia 76ers,Indiana Pacers,94,101,Wells Fargo Center,14754,/boxscores/201403140PHI.html
+Fri Mar 14 2014,Toronto Raptors,Memphis Grizzlies,99,86,Air Canada Centre,18465,/boxscores/201403140TOR.html
+Fri Mar 14 2014,Boston Celtics,Phoenix Suns,80,87,TD Garden,18624,/boxscores/201403140BOS.html
+Fri Mar 14 2014,Miami Heat,Denver Nuggets,107,111,AmericanAirlines Arena,19600,/boxscores/201403140MIA.html
+Fri Mar 14 2014,New Orleans Pelicans,Portland Trail Blazers,103,111,Smoothie King Center,16913,/boxscores/201403140NOP.html
+Fri Mar 14 2014,San Antonio Spurs,Los Angeles Lakers,119,85,AT&T Center,18581,/boxscores/201403140SAS.html
+Fri Mar 14 2014,Utah Jazz,Los Angeles Clippers,87,96,EnergySolutions Arena,19381,/boxscores/201403140UTA.html
+Fri Mar 14 2014,Golden State Warriors,Cleveland Cavaliers,94,103,Oracle Arena,19596,/boxscores/201403140GSW.html
+Sat Mar 15 2014,New York Knicks,Milwaukee Bucks,115,94,Madison Square Garden (IV),19812,/boxscores/201403150NYK.html
+Sat Mar 15 2014,Washington Wizards,Brooklyn Nets,101,94,Verizon Center,20356,/boxscores/201403150WAS.html
+Sat Mar 15 2014,Atlanta Hawks,Denver Nuggets,97,92,Philips Arena,16921,/boxscores/201403150ATL.html
+Sat Mar 15 2014,Detroit Pistons,Indiana Pacers,104,112,The Palace of Auburn Hills,17440,/boxscores/201403150DET.html
+Sat Mar 15 2014,Philadelphia 76ers,Memphis Grizzlies,77,103,Wells Fargo Center,15164,/boxscores/201403150PHI.html
+Sat Mar 15 2014,Chicago Bulls,Sacramento Kings,94,87,United Center,22012,/boxscores/201403150CHI.html
+Sun Mar 16 2014,Milwaukee Bucks,Charlotte Bobcats,92,101,BMO Harris Bradley Center,14536,/boxscores/201403160MIL.html
+Sun Mar 16 2014,Toronto Raptors,Phoenix Suns,113,121,Air Canada Centre,18717,/boxscores/201403160TOR.html
+Sun Mar 16 2014,Miami Heat,Houston Rockets,113,104,AmericanAirlines Arena,19666,/boxscores/201403160MIA.html
+Sun Mar 16 2014,New Orleans Pelicans,Boston Celtics,121,120,Smoothie King Center,17050,/boxscores/201403160NOP.html
+Sun Mar 16 2014,Minnesota Timberwolves,Sacramento Kings,104,102,Target Center,13171,/boxscores/201403160MIN.html
+Sun Mar 16 2014,Oklahoma City Thunder,Dallas Mavericks,86,109,Chesapeake Energy Arena,18203,/boxscores/201403160OKC.html
+Sun Mar 16 2014,San Antonio Spurs,Utah Jazz,122,104,AT&T Center,18242,/boxscores/201403160SAS.html
+Sun Mar 16 2014,Portland Trail Blazers,Golden State Warriors,112,113,Moda Center,20063,/boxscores/201403160POR.html
+Sun Mar 16 2014,Los Angeles Clippers,Cleveland Cavaliers,102,80,STAPLES Center,19274,/boxscores/201403160LAC.html
+Mon Mar 17 2014,Charlotte Bobcats,Atlanta Hawks,83,97,Time Warner Cable Arena,14419,/boxscores/201403170CHA.html
+Mon Mar 17 2014,Indiana Pacers,Philadelphia 76ers,99,90,Bankers Life Fieldhouse,18165,/boxscores/201403170IND.html
+Mon Mar 17 2014,Brooklyn Nets,Phoenix Suns,108,95,Barclays Center,17401,/boxscores/201403170BRK.html
+Mon Mar 17 2014,Chicago Bulls,Oklahoma City Thunder,85,97,United Center,22261,/boxscores/201403170CHI.html
+Mon Mar 17 2014,Houston Rockets,Utah Jazz,124,86,Toyota Center,18156,/boxscores/201403170HOU.html
+Mon Mar 17 2014,Dallas Mavericks,Boston Celtics,94,89,American Airlines Center,20132,/boxscores/201403170DAL.html
+Mon Mar 17 2014,Denver Nuggets,Los Angeles Clippers,110,100,Pepsi Center,16553,/boxscores/201403170DEN.html
+Tue Mar 18 2014,Cleveland Cavaliers,Miami Heat,96,100,Quicken Loans Arena,20562,/boxscores/201403180CLE.html
+Tue Mar 18 2014,Atlanta Hawks,Toronto Raptors,118,113,Philips Arena,11759,/boxscores/201403180ATL.html
+Tue Mar 18 2014,Portland Trail Blazers,Milwaukee Bucks,120,115,Moda Center,19572,/boxscores/201403180POR.html
+Tue Mar 18 2014,Sacramento Kings,Washington Wizards,117,111,Sleep Train Arena,16084,/boxscores/201403180SAC.html
+Tue Mar 18 2014,Golden State Warriors,Orlando Magic,103,89,Oracle Arena,19596,/boxscores/201403180GSW.html
+Wed Mar 19 2014,Philadelphia 76ers,Chicago Bulls,94,102,Wells Fargo Center,13222,/boxscores/201403190PHI.html
+Wed Mar 19 2014,Boston Celtics,Miami Heat,101,96,TD Garden,18624,/boxscores/201403190BOS.html
+Wed Mar 19 2014,Brooklyn Nets,Charlotte Bobcats,104,99,Barclays Center,17222,/boxscores/201403190BRK.html
+Wed Mar 19 2014,Memphis Grizzlies,Utah Jazz,96,86,FedEx Forum,17011,/boxscores/201403190MEM.html
+Wed Mar 19 2014,New Orleans Pelicans,Toronto Raptors,100,107,Smoothie King Center,15282,/boxscores/201403190NOP.html
+Wed Mar 19 2014,New York Knicks,Indiana Pacers,92,86,Madison Square Garden (IV),19812,/boxscores/201403190NYK.html
+Wed Mar 19 2014,Dallas Mavericks,Minnesota Timberwolves,122,123,American Airlines Center,20100,/boxscores/201403190DAL.html
+Wed Mar 19 2014,Denver Nuggets,Detroit Pistons,118,109,Pepsi Center,16671,/boxscores/201403190DEN.html
+Wed Mar 19 2014,Phoenix Suns,Orlando Magic,109,93,US Airways Center,17508,/boxscores/201403190PHO.html
+Wed Mar 19 2014,Los Angeles Lakers,San Antonio Spurs,109,125,STAPLES Center,18997,/boxscores/201403190LAL.html
+Thu Mar 20 2014,Cleveland Cavaliers,Oklahoma City Thunder,95,102,Quicken Loans Arena,18246,/boxscores/201403200CLE.html
+Thu Mar 20 2014,Houston Rockets,Minnesota Timberwolves,129,106,Toyota Center,18315,/boxscores/201403200HOU.html
+Thu Mar 20 2014,Portland Trail Blazers,Washington Wizards,116,103,Moda Center,19571,/boxscores/201403200POR.html
+Thu Mar 20 2014,Golden State Warriors,Milwaukee Bucks,115,110,Oracle Arena,19596,/boxscores/201403200GSW.html
+Fri Mar 21 2014,Indiana Pacers,Chicago Bulls,91,79,Bankers Life Fieldhouse,18165,/boxscores/201403210IND.html
+Fri Mar 21 2014,Philadelphia 76ers,New York Knicks,92,93,Wells Fargo Center,12745,/boxscores/201403210PHI.html
+Fri Mar 21 2014,Toronto Raptors,Oklahoma City Thunder,118,119,Air Canada Centre,19800,/boxscores/201403210TOR.html
+Fri Mar 21 2014,Atlanta Hawks,New Orleans Pelicans,105,111,Philips Arena,15476,/boxscores/201403210ATL.html
+Fri Mar 21 2014,Brooklyn Nets,Boston Celtics,114,98,Barclays Center,17732,/boxscores/201403210BRK.html
+Fri Mar 21 2014,Miami Heat,Memphis Grizzlies,91,86,AmericanAirlines Arena,20007,/boxscores/201403210MIA.html
+Fri Mar 21 2014,Dallas Mavericks,Denver Nuggets,122,106,American Airlines Center,20188,/boxscores/201403210DAL.html
+Fri Mar 21 2014,Phoenix Suns,Detroit Pistons,98,92,US Airways Center,18422,/boxscores/201403210PHO.html
+Fri Mar 21 2014,Sacramento Kings,San Antonio Spurs,79,99,Sleep Train Arena,17317,/boxscores/201403210SAC.html
+Fri Mar 21 2014,Los Angeles Lakers,Washington Wizards,107,117,STAPLES Center,18112,/boxscores/201403210LAL.html
+Sat Mar 22 2014,Charlotte Bobcats,Portland Trail Blazers,124,94,Time Warner Cable Arena,18706,/boxscores/201403220CHA.html
+Sat Mar 22 2014,Cleveland Cavaliers,Houston Rockets,111,118,Quicken Loans Arena,19058,/boxscores/201403220CLE.html
+Sat Mar 22 2014,Chicago Bulls,Philadelphia 76ers,91,81,United Center,21799,/boxscores/201403220CHI.html
+Sat Mar 22 2014,Memphis Grizzlies,Indiana Pacers,82,71,FedEx Forum,18119,/boxscores/201403220MEM.html
+Sat Mar 22 2014,New Orleans Pelicans,Miami Heat,105,95,Smoothie King Center,18185,/boxscores/201403220NOP.html
+Sat Mar 22 2014,Utah Jazz,Orlando Magic,89,88,EnergySolutions Arena,19228,/boxscores/201403220UTA.html
+Sat Mar 22 2014,Golden State Warriors,San Antonio Spurs,90,99,Oracle Arena,19596,/boxscores/201403220GSW.html
+Sat Mar 22 2014,Los Angeles Clippers,Detroit Pistons,112,103,STAPLES Center,19214,/boxscores/201403220LAC.html
+Sun Mar 23 2014,Toronto Raptors,Atlanta Hawks,96,86,Air Canada Centre,18140,/boxscores/201403230TOR.html
+Sun Mar 23 2014,Minnesota Timberwolves,Phoenix Suns,120,127,Target Center,17866,/boxscores/201403230MIN.html
+Sun Mar 23 2014,Denver Nuggets,Washington Wizards,105,102,Pepsi Center,18324,/boxscores/201403230DEN.html
+Sun Mar 23 2014,Sacramento Kings,Milwaukee Bucks,124,107,Sleep Train Arena,16341,/boxscores/201403230SAC.html
+Sun Mar 23 2014,Dallas Mavericks,Brooklyn Nets,104,107,American Airlines Center,19603,/boxscores/201403230DAL.html
+Sun Mar 23 2014,New York Knicks,Cleveland Cavaliers,100,106,Madison Square Garden (IV),19812,/boxscores/201403230NYK.html
+Sun Mar 23 2014,Los Angeles Lakers,Orlando Magic,103,94,STAPLES Center,17803,/boxscores/201403230LAL.html
+Mon Mar 24 2014,Charlotte Bobcats,Houston Rockets,89,100,Time Warner Cable Arena,15511,/boxscores/201403240CHA.html
+Mon Mar 24 2014,Atlanta Hawks,Phoenix Suns,95,102,Philips Arena,12240,/boxscores/201403240ATL.html
+Mon Mar 24 2014,Miami Heat,Portland Trail Blazers,93,91,AmericanAirlines Arena,20030,/boxscores/201403240MIA.html
+Mon Mar 24 2014,Chicago Bulls,Indiana Pacers,89,77,United Center,21803,/boxscores/201403240CHI.html
+Mon Mar 24 2014,Memphis Grizzlies,Minnesota Timberwolves,109,92,FedEx Forum,17784,/boxscores/201403240MEM.html
+Mon Mar 24 2014,New Orleans Pelicans,Brooklyn Nets,109,104,Smoothie King Center,14599,/boxscores/201403240NOP.html
+Mon Mar 24 2014,Oklahoma City Thunder,Denver Nuggets,117,96,Chesapeake Energy Arena,18203,/boxscores/201403240OKC.html
+Mon Mar 24 2014,San Antonio Spurs,Philadelphia 76ers,113,91,AT&T Center,17798,/boxscores/201403240SAS.html
+Mon Mar 24 2014,Utah Jazz,Detroit Pistons,94,114,EnergySolutions Arena,17595,/boxscores/201403240UTA.html
+Mon Mar 24 2014,Los Angeles Clippers,Milwaukee Bucks,106,98,STAPLES Center,19060,/boxscores/201403240LAC.html
+Tue Mar 25 2014,Cleveland Cavaliers,Toronto Raptors,102,100,Quicken Loans Arena,15497,/boxscores/201403250CLE.html
+Tue Mar 25 2014,Orlando Magic,Portland Trail Blazers,95,85,Amway Center,17896,/boxscores/201403250ORL.html
+Tue Mar 25 2014,Dallas Mavericks,Oklahoma City Thunder,128,119,American Airlines Center,19607,/boxscores/201403250DAL.html
+Tue Mar 25 2014,Los Angeles Lakers,New York Knicks,127,96,STAPLES Center,18997,/boxscores/201403250LAL.html
+Wed Mar 26 2014,Charlotte Bobcats,Brooklyn Nets,116,111,Time Warner Cable Arena,15943,/boxscores/201403260CHA.html
+Wed Mar 26 2014,Washington Wizards,Phoenix Suns,93,99,Verizon Center,18805,/boxscores/201403260WAS.html
+Wed Mar 26 2014,Boston Celtics,Toronto Raptors,90,99,TD Garden,18341,/boxscores/201403260BOS.html
+Wed Mar 26 2014,Detroit Pistons,Cleveland Cavaliers,96,97,The Palace of Auburn Hills,15979,/boxscores/201403260DET.html
+Wed Mar 26 2014,Indiana Pacers,Miami Heat,84,83,Bankers Life Fieldhouse,18165,/boxscores/201403260IND.html
+Wed Mar 26 2014,Minnesota Timberwolves,Atlanta Hawks,107,83,Target Center,11632,/boxscores/201403260MIN.html
+Wed Mar 26 2014,New Orleans Pelicans,Los Angeles Clippers,98,96,Smoothie King Center,16363,/boxscores/201403260NOP.html
+Wed Mar 26 2014,San Antonio Spurs,Denver Nuggets,108,103,AT&T Center,17949,/boxscores/201403260SAS.html
+Wed Mar 26 2014,Sacramento Kings,New York Knicks,99,107,Sleep Train Arena,15594,/boxscores/201403260SAC.html
+Wed Mar 26 2014,Utah Jazz,Memphis Grizzlies,87,91,EnergySolutions Arena,19081,/boxscores/201403260UTA.html
+Thu Mar 27 2014,Atlanta Hawks,Portland Trail Blazers,85,100,Philips Arena,13228,/boxscores/201403270ATL.html
+Thu Mar 27 2014,Houston Rockets,Philadelphia 76ers,120,98,Toyota Center,18334,/boxscores/201403270HOU.html
+Thu Mar 27 2014,Milwaukee Bucks,Los Angeles Lakers,108,105,BMO Harris Bradley Center,15439,/boxscores/201403270MIL.html
+Thu Mar 27 2014,Dallas Mavericks,Los Angeles Clippers,103,109,American Airlines Center,19912,/boxscores/201403270DAL.html
+Fri Mar 28 2014,Orlando Magic,Charlotte Bobcats,110,105,Amway Center,16003,/boxscores/201403280ORL.html
+Fri Mar 28 2014,Toronto Raptors,Boston Celtics,105,103,Air Canada Centre,19800,/boxscores/201403280TOR.html
+Fri Mar 28 2014,Washington Wizards,Indiana Pacers,91,78,Verizon Center,19708,/boxscores/201403280WAS.html
+Fri Mar 28 2014,Brooklyn Nets,Cleveland Cavaliers,108,97,Barclays Center,17732,/boxscores/201403280BRK.html
+Fri Mar 28 2014,Detroit Pistons,Miami Heat,78,110,The Palace of Auburn Hills,21231,/boxscores/201403280DET.html
+Fri Mar 28 2014,Chicago Bulls,Portland Trail Blazers,74,91,United Center,22055,/boxscores/201403280CHI.html
+Fri Mar 28 2014,Minnesota Timberwolves,Los Angeles Lakers,143,107,Target Center,16442,/boxscores/201403280MIN.html
+Fri Mar 28 2014,New Orleans Pelicans,Utah Jazz,102,95,Smoothie King Center,17699,/boxscores/201403280NOP.html
+Fri Mar 28 2014,Oklahoma City Thunder,Sacramento Kings,94,81,Chesapeake Energy Arena,18203,/boxscores/201403280OKC.html
+Fri Mar 28 2014,Denver Nuggets,San Antonio Spurs,102,133,Pepsi Center,19155,/boxscores/201403280DEN.html
+Fri Mar 28 2014,Phoenix Suns,New York Knicks,112,88,US Airways Center,17106,/boxscores/201403280PHO.html
+Fri Mar 28 2014,Golden State Warriors,Memphis Grizzlies,100,93,Oracle Arena,19596,/boxscores/201403280GSW.html
+Sat Mar 29 2014,Philadelphia 76ers,Detroit Pistons,123,98,Wells Fargo Center,17438,/boxscores/201403290PHI.html
+Sat Mar 29 2014,Houston Rockets,Los Angeles Clippers,107,118,Toyota Center,18337,/boxscores/201403290HOU.html
+Sat Mar 29 2014,Washington Wizards,Atlanta Hawks,101,97,Verizon Center,17996,/boxscores/201403290WAS.html
+Sat Mar 29 2014,Dallas Mavericks,Sacramento Kings,103,100,American Airlines Center,20210,/boxscores/201403290DAL.html
+Sat Mar 29 2014,Milwaukee Bucks,Miami Heat,67,88,BMO Harris Bradley Center,17986,/boxscores/201403290MIL.html
+Sat Mar 29 2014,San Antonio Spurs,New Orleans Pelicans,96,80,AT&T Center,18581,/boxscores/201403290SAS.html
+Sun Mar 30 2014,Cleveland Cavaliers,Indiana Pacers,90,76,Quicken Loans Arena,17147,/boxscores/201403300CLE.html
+Sun Mar 30 2014,Oklahoma City Thunder,Utah Jazz,116,96,Chesapeake Energy Arena,18203,/boxscores/201403300OKC.html
+Sun Mar 30 2014,Brooklyn Nets,Minnesota Timberwolves,114,99,Barclays Center,17732,/boxscores/201403300BRK.html
+Sun Mar 30 2014,Orlando Magic,Toronto Raptors,93,98,Amway Center,16018,/boxscores/201403300ORL.html
+Sun Mar 30 2014,Boston Celtics,Chicago Bulls,102,107,TD Garden,18624,/boxscores/201403300BOS.html
+Sun Mar 30 2014,Golden State Warriors,New York Knicks,84,89,Oracle Arena,19596,/boxscores/201403300GSW.html
+Sun Mar 30 2014,Portland Trail Blazers,Memphis Grizzlies,105,98,Moda Center,19994,/boxscores/201403300POR.html
+Sun Mar 30 2014,Los Angeles Lakers,Phoenix Suns,115,99,STAPLES Center,18355,/boxscores/201403300LAL.html
+Mon Mar 31 2014,Charlotte Bobcats,Washington Wizards,100,94,Time Warner Cable Arena,14894,/boxscores/201403310CHA.html
+Mon Mar 31 2014,Indiana Pacers,San Antonio Spurs,77,103,Bankers Life Fieldhouse,18165,/boxscores/201403310IND.html
+Mon Mar 31 2014,Atlanta Hawks,Philadelphia 76ers,103,95,Philips Arena,11096,/boxscores/201403310ATL.html
+Mon Mar 31 2014,Detroit Pistons,Milwaukee Bucks,116,111,The Palace of Auburn Hills,13062,/boxscores/201403310DET.html
+Mon Mar 31 2014,Miami Heat,Toronto Raptors,93,83,AmericanAirlines Arena,19831,/boxscores/201403310MIA.html
+Mon Mar 31 2014,Chicago Bulls,Boston Celtics,94,80,United Center,21494,/boxscores/201403310CHI.html
+Mon Mar 31 2014,Minnesota Timberwolves,Los Angeles Clippers,104,114,Target Center,12172,/boxscores/201403310MIN.html
+Mon Mar 31 2014,New Orleans Pelicans,Sacramento Kings,97,102,Smoothie King Center,15548,/boxscores/201403310NOP.html
+Mon Mar 31 2014,Denver Nuggets,Memphis Grizzlies,92,94,Pepsi Center,14570,/boxscores/201403310DEN.html
+Mon Mar 31 2014,Utah Jazz,New York Knicks,83,92,EnergySolutions Arena,18653,/boxscores/201403310UTA.html

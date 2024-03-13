@@ -1,0 +1,232 @@
+Thu Jan 1 2015,Chicago Bulls,Denver Nuggets,106,101,United Center,21794,/boxscores/201501010CHI.html
+Thu Jan 1 2015,Minnesota Timberwolves,Sacramento Kings,107,110,Target Center,13337,/boxscores/201501010MIN.html
+Fri Jan 2 2015,Charlotte Hornets,Cleveland Cavaliers,87,91,Time Warner Cable Arena,19307,/boxscores/201501020CHO.html
+Fri Jan 2 2015,Orlando Magic,Brooklyn Nets,98,100,Amway Center,17008,/boxscores/201501020ORL.html
+Fri Jan 2 2015,Boston Celtics,Dallas Mavericks,101,119,TD Garden,18624,/boxscores/201501020BOS.html
+Fri Jan 2 2015,New York Knicks,Detroit Pistons,81,97,Madison Square Garden (IV),19812,/boxscores/201501020NYK.html
+Fri Jan 2 2015,New Orleans Pelicans,Houston Rockets,111,83,Smoothie King Center,17705,/boxscores/201501020NOP.html
+Fri Jan 2 2015,Oklahoma City Thunder,Washington Wizards,109,102,Chesapeake Energy Arena,18203,/boxscores/201501020OKC.html
+Fri Jan 2 2015,Milwaukee Bucks,Indiana Pacers,91,94,BMO Harris Bradley Center,16238,/boxscores/201501020MIL.html
+Fri Jan 2 2015,Phoenix Suns,Philadelphia 76ers,112,96,US Airways Center,16514,/boxscores/201501020PHO.html
+Fri Jan 2 2015,Utah Jazz,Atlanta Hawks,92,98,EnergySolutions Arena,19029,/boxscores/201501020UTA.html
+Fri Jan 2 2015,Golden State Warriors,Toronto Raptors,126,105,Oracle Arena,19596,/boxscores/201501020GSW.html
+Fri Jan 2 2015,Los Angeles Lakers,Memphis Grizzlies,106,109,STAPLES Center,18997,/boxscores/201501020LAL.html
+Sat Jan 3 2015,Orlando Magic,Charlotte Hornets,90,98,Amway Center,15274,/boxscores/201501030ORL.html
+Sat Jan 3 2015,Chicago Bulls,Boston Celtics,109,104,United Center,21820,/boxscores/201501030CHI.html
+Sat Jan 3 2015,Houston Rockets,Miami Heat,115,79,Toyota Center,18338,/boxscores/201501030HOU.html
+Sat Jan 3 2015,Minnesota Timberwolves,Utah Jazz,89,101,Target Center,13702,/boxscores/201501030MIN.html
+Sat Jan 3 2015,San Antonio Spurs,Washington Wizards,101,92,AT&T Center,18581,/boxscores/201501030SAS.html
+Sat Jan 3 2015,Denver Nuggets,Memphis Grizzlies,114,85,Pepsi Center,16350,/boxscores/201501030DEN.html
+Sat Jan 3 2015,Portland Trail Blazers,Atlanta Hawks,107,115,Moda Center,19829,/boxscores/201501030POR.html
+Sat Jan 3 2015,Los Angeles Clippers,Philadelphia 76ers,127,91,STAPLES Center,19060,/boxscores/201501030LAC.html
+Sun Jan 4 2015,Cleveland Cavaliers,Dallas Mavericks,90,109,Quicken Loans Arena,20562,/boxscores/201501040CLE.html
+Sun Jan 4 2015,Detroit Pistons,Sacramento Kings,114,95,The Palace of Auburn Hills,12254,/boxscores/201501040DET.html
+Sun Jan 4 2015,Miami Heat,Brooklyn Nets,88,84,AmericanAirlines Arena,20181,/boxscores/201501040MIA.html
+Sun Jan 4 2015,New York Knicks,Milwaukee Bucks,82,95,Madison Square Garden (IV),19812,/boxscores/201501040NYK.html
+Sun Jan 4 2015,Phoenix Suns,Toronto Raptors,125,109,US Airways Center,17166,/boxscores/201501040PHO.html
+Sun Jan 4 2015,Los Angeles Lakers,Indiana Pacers,88,87,STAPLES Center,18997,/boxscores/201501040LAL.html
+Mon Jan 5 2015,Philadelphia 76ers,Cleveland Cavaliers,95,92,Wells Fargo Center,17771,/boxscores/201501050PHI.html
+Mon Jan 5 2015,Boston Celtics,Charlotte Hornets,95,104,TD Garden,16720,/boxscores/201501050BOS.html
+Mon Jan 5 2015,Brooklyn Nets,Dallas Mavericks,88,96,Barclays Center,17732,/boxscores/201501050BRK.html
+Mon Jan 5 2015,Chicago Bulls,Houston Rockets,114,105,United Center,21510,/boxscores/201501050CHI.html
+Mon Jan 5 2015,Memphis Grizzlies,New York Knicks,105,83,FedEx Forum,16888,/boxscores/201501050MEM.html
+Mon Jan 5 2015,Minnesota Timberwolves,Denver Nuggets,101,110,Target Center,10386,/boxscores/201501050MIN.html
+Mon Jan 5 2015,New Orleans Pelicans,Washington Wizards,85,92,Smoothie King Center,16182,/boxscores/201501050NOP.html
+Mon Jan 5 2015,Utah Jazz,Indiana Pacers,101,105,EnergySolutions Arena,17378,/boxscores/201501050UTA.html
+Mon Jan 5 2015,Portland Trail Blazers,Los Angeles Lakers,98,94,Moda Center,19827,/boxscores/201501050POR.html
+Mon Jan 5 2015,Golden State Warriors,Oklahoma City Thunder,117,91,Oracle Arena,19596,/boxscores/201501050GSW.html
+Mon Jan 5 2015,Los Angeles Clippers,Atlanta Hawks,98,107,STAPLES Center,19060,/boxscores/201501050LAC.html
+Tue Jan 6 2015,Milwaukee Bucks,Phoenix Suns,96,102,BMO Harris Bradley Center,12311,/boxscores/201501060MIL.html
+Tue Jan 6 2015,San Antonio Spurs,Detroit Pistons,104,105,AT&T Center,18581,/boxscores/201501060SAS.html
+Wed Jan 7 2015,Charlotte Hornets,New Orleans Pelicans,98,94,Time Warner Cable Arena,15171,/boxscores/201501070CHO.html
+Wed Jan 7 2015,Cleveland Cavaliers,Houston Rockets,93,105,Quicken Loans Arena,20562,/boxscores/201501070CLE.html
+Wed Jan 7 2015,Philadelphia 76ers,Milwaukee Bucks,77,97,Wells Fargo Center,10288,/boxscores/201501070PHI.html
+Wed Jan 7 2015,Washington Wizards,New York Knicks,101,91,Verizon Center,16902,/boxscores/201501070WAS.html
+Wed Jan 7 2015,Atlanta Hawks,Memphis Grizzlies,96,86,Philips Arena,17126,/boxscores/201501070ATL.html
+Wed Jan 7 2015,Brooklyn Nets,Boston Celtics,81,89,Barclays Center,16005,/boxscores/201501070BRK.html
+Wed Jan 7 2015,Chicago Bulls,Utah Jazz,77,97,United Center,21379,/boxscores/201501070CHI.html
+Wed Jan 7 2015,Dallas Mavericks,Detroit Pistons,95,108,American Airlines Center,20279,/boxscores/201501070DAL.html
+Wed Jan 7 2015,Denver Nuggets,Orlando Magic,93,90,Pepsi Center,13513,/boxscores/201501070DEN.html
+Wed Jan 7 2015,Minnesota Timberwolves,Phoenix Suns,111,113,Target Center,10547,/boxscores/201501070MIN.html
+Wed Jan 7 2015,Sacramento Kings,Oklahoma City Thunder,104,83,Sleep Train Arena,16037,/boxscores/201501070SAC.html
+Wed Jan 7 2015,Golden State Warriors,Indiana Pacers,117,102,Oracle Arena,19596,/boxscores/201501070GSW.html
+Wed Jan 7 2015,Los Angeles Clippers,Los Angeles Lakers,114,89,STAPLES Center,19487,/boxscores/201501070LAC.html
+Thu Jan 8 2015,Toronto Raptors,Charlotte Hornets,95,103,Air Canada Centre,19800,/boxscores/201501080TOR.html
+Thu Jan 8 2015,New York Knicks,Houston Rockets,96,120,Madison Square Garden (IV),19812,/boxscores/201501080NYK.html
+Thu Jan 8 2015,Portland Trail Blazers,Miami Heat,99,83,Moda Center,19441,/boxscores/201501080POR.html
+Fri Jan 9 2015,Indiana Pacers,Boston Celtics,107,103,Bankers Life Fieldhouse,18165,/boxscores/201501090IND.html
+Fri Jan 9 2015,Brooklyn Nets,Philadelphia 76ers,88,90,Barclays Center,16172,/boxscores/201501090BRK.html
+Fri Jan 9 2015,Detroit Pistons,Atlanta Hawks,103,106,The Palace of Auburn Hills,18859,/boxscores/201501090DET.html
+Fri Jan 9 2015,New Orleans Pelicans,Memphis Grizzlies,106,95,Smoothie King Center,17639,/boxscores/201501090NOP.html
+Fri Jan 9 2015,Oklahoma City Thunder,Utah Jazz,99,94,Chesapeake Energy Arena,18203,/boxscores/201501090OKC.html
+Fri Jan 9 2015,Washington Wizards,Chicago Bulls,102,86,Verizon Center,20356,/boxscores/201501090WAS.html
+Fri Jan 9 2015,Milwaukee Bucks,Minnesota Timberwolves,98,84,BMO Harris Bradley Center,15480,/boxscores/201501090MIL.html
+Fri Jan 9 2015,San Antonio Spurs,Phoenix Suns,100,95,AT&T Center,18581,/boxscores/201501090SAS.html
+Fri Jan 9 2015,Sacramento Kings,Denver Nuggets,108,118,Sleep Train Arena,16029,/boxscores/201501090SAC.html
+Fri Jan 9 2015,Golden State Warriors,Cleveland Cavaliers,112,94,Oracle Arena,19596,/boxscores/201501090GSW.html
+Fri Jan 9 2015,Los Angeles Lakers,Orlando Magic,101,84,STAPLES Center,18997,/boxscores/201501090LAL.html
+Sat Jan 10 2015,New York Knicks,Charlotte Hornets,82,110,Madison Square Garden (IV),19812,/boxscores/201501100NYK.html
+Sat Jan 10 2015,Los Angeles Clippers,Dallas Mavericks,120,100,STAPLES Center,19060,/boxscores/201501100LAC.html
+Sat Jan 10 2015,Detroit Pistons,Brooklyn Nets,98,93,The Palace of Auburn Hills,19301,/boxscores/201501100DET.html
+Sat Jan 10 2015,Philadelphia 76ers,Indiana Pacers,93,92,Wells Fargo Center,17496,/boxscores/201501100PHI.html
+Sat Jan 10 2015,Toronto Raptors,Boston Celtics,109,96,Air Canada Centre,19800,/boxscores/201501100TOR.html
+Sat Jan 10 2015,Chicago Bulls,Milwaukee Bucks,95,87,United Center,21781,/boxscores/201501100CHI.html
+Sat Jan 10 2015,Houston Rockets,Utah Jazz,97,82,Toyota Center,18235,/boxscores/201501100HOU.html
+Sat Jan 10 2015,Minnesota Timberwolves,San Antonio Spurs,93,108,Target Center,17871,/boxscores/201501100MIN.html
+Sat Jan 10 2015,Portland Trail Blazers,Orlando Magic,103,92,Moda Center,19546,/boxscores/201501100POR.html
+Sun Jan 11 2015,Atlanta Hawks,Washington Wizards,120,89,Philips Arena,18057,/boxscores/201501110ATL.html
+Sun Jan 11 2015,Los Angeles Clippers,Miami Heat,90,104,STAPLES Center,19060,/boxscores/201501110LAC.html
+Sun Jan 11 2015,Memphis Grizzlies,Phoenix Suns,122,110,FedEx Forum,17212,/boxscores/201501110MEM.html
+Sun Jan 11 2015,Sacramento Kings,Cleveland Cavaliers,103,84,Sleep Train Arena,16143,/boxscores/201501110SAC.html
+Sun Jan 11 2015,Los Angeles Lakers,Portland Trail Blazers,94,106,STAPLES Center,18997,/boxscores/201501110LAL.html
+Mon Jan 12 2015,Boston Celtics,New Orleans Pelicans,108,100,TD Garden,16905,/boxscores/201501120BOS.html
+Mon Jan 12 2015,Brooklyn Nets,Houston Rockets,99,113,Barclays Center,16115,/boxscores/201501120BRK.html
+Mon Jan 12 2015,Toronto Raptors,Detroit Pistons,111,114,Air Canada Centre,19800,/boxscores/201501120TOR.html
+Mon Jan 12 2015,Chicago Bulls,Orlando Magic,114,121,United Center,21302,/boxscores/201501120CHI.html
+Tue Jan 13 2015,Indiana Pacers,Minnesota Timberwolves,101,110,Bankers Life Fieldhouse,16781,/boxscores/201501130IND.html
+Tue Jan 13 2015,Philadelphia 76ers,Atlanta Hawks,87,105,Wells Fargo Center,10466,/boxscores/201501130PHI.html
+Tue Jan 13 2015,Washington Wizards,San Antonio Spurs,101,93,Verizon Center,18116,/boxscores/201501130WAS.html
+Tue Jan 13 2015,Phoenix Suns,Cleveland Cavaliers,107,100,US Airways Center,16819,/boxscores/201501130PHO.html
+Tue Jan 13 2015,Utah Jazz,Golden State Warriors,105,116,EnergySolutions Arena,19911,/boxscores/201501130UTA.html
+Tue Jan 13 2015,Sacramento Kings,Dallas Mavericks,104,108,Sleep Train Arena,15747,/boxscores/201501130SAC.html
+Tue Jan 13 2015,Los Angeles Lakers,Miami Heat,75,78,STAPLES Center,18997,/boxscores/201501130LAL.html
+Wed Jan 14 2015,Charlotte Hornets,San Antonio Spurs,93,98,Time Warner Cable Arena,17309,/boxscores/201501140CHO.html
+Wed Jan 14 2015,Orlando Magic,Houston Rockets,120,113,Amway Center,16828,/boxscores/201501140ORL.html
+Wed Jan 14 2015,Brooklyn Nets,Memphis Grizzlies,92,103,Barclays Center,16516,/boxscores/201501140BRK.html
+Wed Jan 14 2015,Detroit Pistons,New Orleans Pelicans,94,105,The Palace of Auburn Hills,12016,/boxscores/201501140DET.html
+Wed Jan 14 2015,Toronto Raptors,Philadelphia 76ers,100,84,Air Canada Centre,19800,/boxscores/201501140TOR.html
+Wed Jan 14 2015,Boston Celtics,Atlanta Hawks,91,105,TD Garden,16067,/boxscores/201501140BOS.html
+Wed Jan 14 2015,Chicago Bulls,Washington Wizards,99,105,United Center,21498,/boxscores/201501140CHI.html
+Wed Jan 14 2015,Denver Nuggets,Dallas Mavericks,114,107,Pepsi Center,14022,/boxscores/201501140DEN.html
+Wed Jan 14 2015,Golden State Warriors,Miami Heat,104,89,Oracle Arena,19596,/boxscores/201501140GSW.html
+Wed Jan 14 2015,Portland Trail Blazers,Los Angeles Clippers,94,100,Moda Center,19441,/boxscores/201501140POR.html
+Thu Jan 15 2015,Milwaukee Bucks,New York Knicks,95,79,The O2 Arena,18689,/boxscores/201501150MIL.html
+Thu Jan 15 2015,Houston Rockets,Oklahoma City Thunder,112,101,Toyota Center,18315,/boxscores/201501150HOU.html
+Thu Jan 15 2015,Los Angeles Lakers,Cleveland Cavaliers,102,109,STAPLES Center,18997,/boxscores/201501150LAL.html
+Fri Jan 16 2015,Indiana Pacers,Detroit Pistons,96,98,Bankers Life Fieldhouse,17558,/boxscores/201501160IND.html
+Fri Jan 16 2015,Orlando Magic,Memphis Grizzlies,96,106,Amway Center,18141,/boxscores/201501160ORL.html
+Fri Jan 16 2015,Philadelphia 76ers,New Orleans Pelicans,96,81,Wells Fargo Center,15672,/boxscores/201501160PHI.html
+Fri Jan 16 2015,Washington Wizards,Brooklyn Nets,80,102,Verizon Center,17788,/boxscores/201501160WAS.html
+Fri Jan 16 2015,Boston Celtics,Chicago Bulls,103,119,TD Garden,18624,/boxscores/201501160BOS.html
+Fri Jan 16 2015,Toronto Raptors,Atlanta Hawks,89,110,Air Canada Centre,19800,/boxscores/201501160TOR.html
+Fri Jan 16 2015,Oklahoma City Thunder,Golden State Warriors,127,115,Chesapeake Energy Arena,18203,/boxscores/201501160OKC.html
+Fri Jan 16 2015,Dallas Mavericks,Denver Nuggets,97,89,American Airlines Center,20337,/boxscores/201501160DAL.html
+Fri Jan 16 2015,San Antonio Spurs,Portland Trail Blazers,110,96,AT&T Center,18581,/boxscores/201501160SAS.html
+Fri Jan 16 2015,Phoenix Suns,Minnesota Timberwolves,110,99,US Airways Center,17441,/boxscores/201501160PHO.html
+Fri Jan 16 2015,Utah Jazz,Los Angeles Lakers,94,85,EnergySolutions Arena,19911,/boxscores/201501160UTA.html
+Fri Jan 16 2015,Sacramento Kings,Miami Heat,83,95,Sleep Train Arena,16350,/boxscores/201501160SAC.html
+Fri Jan 16 2015,Los Angeles Clippers,Cleveland Cavaliers,121,126,STAPLES Center,19380,/boxscores/201501160LAC.html
+Sat Jan 17 2015,Charlotte Hornets,Indiana Pacers,80,71,Time Warner Cable Arena,19285,/boxscores/201501170CHO.html
+Sat Jan 17 2015,Detroit Pistons,Philadelphia 76ers,107,89,The Palace of Auburn Hills,15496,/boxscores/201501170DET.html
+Sat Jan 17 2015,Brooklyn Nets,Washington Wizards,90,99,Barclays Center,17732,/boxscores/201501170BRK.html
+Sat Jan 17 2015,Chicago Bulls,Atlanta Hawks,99,107,United Center,22024,/boxscores/201501170CHI.html
+Sat Jan 17 2015,Houston Rockets,Golden State Warriors,106,131,Toyota Center,18458,/boxscores/201501170HOU.html
+Sat Jan 17 2015,Denver Nuggets,Minnesota Timberwolves,105,113,Pepsi Center,14821,/boxscores/201501170DEN.html
+Sat Jan 17 2015,Memphis Grizzlies,Portland Trail Blazers,102,98,FedEx Forum,18119,/boxscores/201501170MEM.html
+Sat Jan 17 2015,Sacramento Kings,Los Angeles Clippers,108,117,Sleep Train Arena,16601,/boxscores/201501170SAC.html
+Sun Jan 18 2015,Toronto Raptors,New Orleans Pelicans,93,95,Air Canada Centre,19800,/boxscores/201501180TOR.html
+Sun Jan 18 2015,Orlando Magic,Oklahoma City Thunder,99,127,Amway Center,16128,/boxscores/201501180ORL.html
+Sun Jan 18 2015,San Antonio Spurs,Utah Jazz,89,69,AT&T Center,18581,/boxscores/201501180SAS.html
+Mon Jan 19 2015,Charlotte Hornets,Minnesota Timberwolves,105,80,Time Warner Cable Arena,17989,/boxscores/201501190CHO.html
+Mon Jan 19 2015,Washington Wizards,Philadelphia 76ers,111,76,Verizon Center,19040,/boxscores/201501190WAS.html
+Mon Jan 19 2015,Atlanta Hawks,Detroit Pistons,93,82,Philips Arena,19108,/boxscores/201501190ATL.html
+Mon Jan 19 2015,Los Angeles Clippers,Boston Celtics,102,93,STAPLES Center,19060,/boxscores/201501190LAC.html
+Mon Jan 19 2015,Golden State Warriors,Denver Nuggets,122,79,Oracle Arena,19596,/boxscores/201501190GSW.html
+Mon Jan 19 2015,Memphis Grizzlies,Dallas Mavericks,95,103,FedEx Forum,18119,/boxscores/201501190MEM.html
+Mon Jan 19 2015,Houston Rockets,Indiana Pacers,110,98,Toyota Center,18266,/boxscores/201501190HOU.html
+Mon Jan 19 2015,New York Knicks,New Orleans Pelicans,99,92,Madison Square Garden (IV),19812,/boxscores/201501190NYK.html
+Mon Jan 19 2015,Cleveland Cavaliers,Chicago Bulls,108,94,Quicken Loans Arena,20562,/boxscores/201501190CLE.html
+Mon Jan 19 2015,Milwaukee Bucks,Toronto Raptors,89,92,BMO Harris Bradley Center,12707,/boxscores/201501190MIL.html
+Mon Jan 19 2015,Phoenix Suns,Los Angeles Lakers,115,100,US Airways Center,17435,/boxscores/201501190PHO.html
+Mon Jan 19 2015,Portland Trail Blazers,Sacramento Kings,98,94,Moda Center,19441,/boxscores/201501190POR.html
+Tue Jan 20 2015,Miami Heat,Oklahoma City Thunder,86,94,AmericanAirlines Arena,19735,/boxscores/201501200MIA.html
+Tue Jan 20 2015,Denver Nuggets,San Antonio Spurs,99,109,Pepsi Center,14434,/boxscores/201501200DEN.html
+Wed Jan 21 2015,Charlotte Hornets,Miami Heat,78,76,Time Warner Cable Arena,16914,/boxscores/201501210CHO.html
+Wed Jan 21 2015,Cleveland Cavaliers,Utah Jazz,106,92,Quicken Loans Arena,20562,/boxscores/201501210CLE.html
+Wed Jan 21 2015,Philadelphia 76ers,New York Knicks,91,98,Wells Fargo Center,13201,/boxscores/201501210PHI.html
+Wed Jan 21 2015,Atlanta Hawks,Indiana Pacers,110,91,Philips Arena,15045,/boxscores/201501210ATL.html
+Wed Jan 21 2015,Detroit Pistons,Orlando Magic,128,118,The Palace of Auburn Hills,12148,/boxscores/201501210DET.html
+Wed Jan 21 2015,Memphis Grizzlies,Toronto Raptors,92,86,FedEx Forum,15112,/boxscores/201501210MEM.html
+Wed Jan 21 2015,Minnesota Timberwolves,Dallas Mavericks,75,98,Target Center,13737,/boxscores/201501210MIN.html
+Wed Jan 21 2015,New Orleans Pelicans,Los Angeles Lakers,96,80,Smoothie King Center,16268,/boxscores/201501210NOP.html
+Wed Jan 21 2015,Washington Wizards,Oklahoma City Thunder,103,105,Verizon Center,20356,/boxscores/201501210WAS.html
+Wed Jan 21 2015,Phoenix Suns,Portland Trail Blazers,118,113,US Airways Center,16703,/boxscores/201501210PHO.html
+Wed Jan 21 2015,Sacramento Kings,Brooklyn Nets,100,103,Sleep Train Arena,16427,/boxscores/201501210SAC.html
+Wed Jan 21 2015,Golden State Warriors,Houston Rockets,126,113,Oracle Arena,19596,/boxscores/201501210GSW.html
+Thu Jan 22 2015,Chicago Bulls,San Antonio Spurs,104,81,United Center,21648,/boxscores/201501220CHI.html
+Thu Jan 22 2015,Milwaukee Bucks,Utah Jazz,99,101,BMO Harris Bradley Center,12415,/boxscores/201501220MIL.html
+Thu Jan 22 2015,Portland Trail Blazers,Boston Celtics,89,90,Moda Center,19567,/boxscores/201501220POR.html
+Thu Jan 22 2015,Los Angeles Clippers,Brooklyn Nets,123,84,STAPLES Center,19060,/boxscores/201501220LAC.html
+Fri Jan 23 2015,Philadelphia 76ers,Toronto Raptors,86,91,Wells Fargo Center,13640,/boxscores/201501230PHI.html
+Fri Jan 23 2015,Atlanta Hawks,Oklahoma City Thunder,103,93,Philips Arena,19203,/boxscores/201501230ATL.html
+Fri Jan 23 2015,Cleveland Cavaliers,Charlotte Hornets,129,90,Quicken Loans Arena,20562,/boxscores/201501230CLE.html
+Fri Jan 23 2015,Miami Heat,Indiana Pacers,89,87,AmericanAirlines Arena,19693,/boxscores/201501230MIA.html
+Fri Jan 23 2015,New York Knicks,Orlando Magic,113,106,Madison Square Garden (IV),19812,/boxscores/201501230NYK.html
+Fri Jan 23 2015,Dallas Mavericks,Chicago Bulls,98,102,American Airlines Center,20408,/boxscores/201501230DAL.html
+Fri Jan 23 2015,Minnesota Timberwolves,New Orleans Pelicans,84,92,Target Center,14978,/boxscores/201501230MIN.html
+Fri Jan 23 2015,San Antonio Spurs,Los Angeles Lakers,99,85,AT&T Center,18581,/boxscores/201501230SAS.html
+Fri Jan 23 2015,Denver Nuggets,Boston Celtics,99,100,Pepsi Center,16133,/boxscores/201501230DEN.html
+Fri Jan 23 2015,Phoenix Suns,Houston Rockets,111,113,US Airways Center,16701,/boxscores/201501230PHO.html
+Fri Jan 23 2015,Golden State Warriors,Sacramento Kings,126,101,Oracle Arena,19596,/boxscores/201501230GSW.html
+Sat Jan 24 2015,Charlotte Hornets,New York Knicks,76,71,Time Warner Cable Arena,19117,/boxscores/201501240CHO.html
+Sat Jan 24 2015,Milwaukee Bucks,Detroit Pistons,101,86,BMO Harris Bradley Center,16388,/boxscores/201501240MIL.html
+Sat Jan 24 2015,Memphis Grizzlies,Philadelphia 76ers,101,83,FedEx Forum,17579,/boxscores/201501240MEM.html
+Sat Jan 24 2015,Utah Jazz,Brooklyn Nets,108,73,EnergySolutions Arena,19352,/boxscores/201501240UTA.html
+Sat Jan 24 2015,Portland Trail Blazers,Washington Wizards,103,96,Moda Center,19775,/boxscores/201501240POR.html
+Sun Jan 25 2015,Chicago Bulls,Miami Heat,84,96,United Center,21918,/boxscores/201501250CHI.html
+Sun Jan 25 2015,Cleveland Cavaliers,Oklahoma City Thunder,108,98,Quicken Loans Arena,20562,/boxscores/201501250CLE.html
+Sun Jan 25 2015,Atlanta Hawks,Minnesota Timberwolves,112,100,Philips Arena,18049,/boxscores/201501250ATL.html
+Sun Jan 25 2015,New Orleans Pelicans,Dallas Mavericks,109,106,Smoothie King Center,17687,/boxscores/201501250NOP.html
+Sun Jan 25 2015,Orlando Magic,Indiana Pacers,99,106,Amway Center,16704,/boxscores/201501250ORL.html
+Sun Jan 25 2015,Phoenix Suns,Los Angeles Clippers,100,120,US Airways Center,17066,/boxscores/201501250PHO.html
+Sun Jan 25 2015,San Antonio Spurs,Milwaukee Bucks,101,95,AT&T Center,18581,/boxscores/201501250SAS.html
+Sun Jan 25 2015,Toronto Raptors,Detroit Pistons,114,110,Air Canada Centre,19800,/boxscores/201501250TOR.html
+Sun Jan 25 2015,Denver Nuggets,Washington Wizards,115,117,Pepsi Center,15410,/boxscores/201501250DEN.html
+Sun Jan 25 2015,Golden State Warriors,Boston Celtics,114,111,Oracle Arena,19596,/boxscores/201501250GSW.html
+Sun Jan 25 2015,Los Angeles Lakers,Houston Rockets,87,99,STAPLES Center,18997,/boxscores/201501250LAL.html
+Mon Jan 26 2015,Memphis Grizzlies,Orlando Magic,103,94,FedEx Forum,15407,/boxscores/201501260MEM.html
+Mon Jan 26 2015,New Orleans Pelicans,Philadelphia 76ers,99,74,Smoothie King Center,16419,/boxscores/201501260NOP.html
+Mon Jan 26 2015,Oklahoma City Thunder,Minnesota Timberwolves,92,84,Chesapeake Energy Arena,18203,/boxscores/201501260OKC.html
+Mon Jan 26 2015,Utah Jazz,Boston Celtics,90,99,EnergySolutions Arena,18947,/boxscores/201501260UTA.html
+Mon Jan 26 2015,Los Angeles Clippers,Denver Nuggets,102,98,STAPLES Center,19060,/boxscores/201501260LAC.html
+Tue Jan 27 2015,Indiana Pacers,Toronto Raptors,91,104,Bankers Life Fieldhouse,16204,/boxscores/201501270IND.html
+Tue Jan 27 2015,Detroit Pistons,Cleveland Cavaliers,95,103,The Palace of Auburn Hills,18178,/boxscores/201501270DET.html
+Tue Jan 27 2015,Miami Heat,Milwaukee Bucks,102,109,AmericanAirlines Arena,19789,/boxscores/201501270MIA.html
+Tue Jan 27 2015,Dallas Mavericks,Memphis Grizzlies,90,109,American Airlines Center,20160,/boxscores/201501270DAL.html
+Tue Jan 27 2015,Golden State Warriors,Chicago Bulls,111,113,Oracle Arena,19596,/boxscores/201501270GSW.html
+Tue Jan 27 2015,Los Angeles Lakers,Washington Wizards,92,98,STAPLES Center,18997,/boxscores/201501270LAL.html
+Wed Jan 28 2015,Cleveland Cavaliers,Portland Trail Blazers,99,94,Quicken Loans Arena,20562,/boxscores/201501280CLE.html
+Wed Jan 28 2015,Philadelphia 76ers,Detroit Pistons,89,69,Wells Fargo Center,11213,/boxscores/201501280PHI.html
+Wed Jan 28 2015,Toronto Raptors,Sacramento Kings,119,102,Air Canada Centre,19800,/boxscores/201501280TOR.html
+Wed Jan 28 2015,Atlanta Hawks,Brooklyn Nets,113,102,Philips Arena,18047,/boxscores/201501280ATL.html
+Wed Jan 28 2015,Houston Rockets,Dallas Mavericks,99,94,Toyota Center,18237,/boxscores/201501280HOU.html
+Wed Jan 28 2015,Minnesota Timberwolves,Boston Celtics,110,98,Target Center,11434,/boxscores/201501280MIN.html
+Wed Jan 28 2015,New Orleans Pelicans,Denver Nuggets,85,93,Smoothie King Center,16055,/boxscores/201501280NOP.html
+Wed Jan 28 2015,New York Knicks,Oklahoma City Thunder,100,92,Madison Square Garden (IV),19812,/boxscores/201501280NYK.html
+Wed Jan 28 2015,San Antonio Spurs,Charlotte Hornets,95,86,AT&T Center,18581,/boxscores/201501280SAS.html
+Wed Jan 28 2015,Utah Jazz,Los Angeles Clippers,89,94,EnergySolutions Arena,16322,/boxscores/201501280UTA.html
+Wed Jan 28 2015,Phoenix Suns,Washington Wizards,106,98,US Airways Center,16209,/boxscores/201501280PHO.html
+Thu Jan 29 2015,Indiana Pacers,New York Knicks,103,82,Bankers Life Fieldhouse,15665,/boxscores/201501290IND.html
+Thu Jan 29 2015,Orlando Magic,Milwaukee Bucks,100,115,Amway Center,16071,/boxscores/201501290ORL.html
+Thu Jan 29 2015,Memphis Grizzlies,Denver Nuggets,99,69,FedEx Forum,16736,/boxscores/201501290MEM.html
+Thu Jan 29 2015,Los Angeles Lakers,Chicago Bulls,123,118,STAPLES Center,18997,/boxscores/201501290LAL.html
+Fri Jan 30 2015,Philadelphia 76ers,Minnesota Timberwolves,103,94,Wells Fargo Center,14333,/boxscores/201501300PHI.html
+Fri Jan 30 2015,Atlanta Hawks,Portland Trail Blazers,105,99,Philips Arena,19018,/boxscores/201501300ATL.html
+Fri Jan 30 2015,Boston Celtics,Houston Rockets,87,93,TD Garden,17675,/boxscores/201501300BOS.html
+Fri Jan 30 2015,Brooklyn Nets,Toronto Raptors,122,127,Barclays Center,17062,/boxscores/201501300BRK.html
+Fri Jan 30 2015,Cleveland Cavaliers,Sacramento Kings,101,90,Quicken Loans Arena,20562,/boxscores/201501300CLE.html
+Fri Jan 30 2015,Miami Heat,Dallas Mavericks,72,93,AmericanAirlines Arena,19823,/boxscores/201501300MIA.html
+Fri Jan 30 2015,New Orleans Pelicans,Los Angeles Clippers,108,103,Smoothie King Center,17932,/boxscores/201501300NOP.html
+Fri Jan 30 2015,Utah Jazz,Golden State Warriors,110,100,EnergySolutions Arena,19295,/boxscores/201501300UTA.html
+Fri Jan 30 2015,Phoenix Suns,Chicago Bulls,99,93,US Airways Center,18055,/boxscores/201501300PHO.html
+Sat Jan 31 2015,Indiana Pacers,Sacramento Kings,94,99,Bankers Life Fieldhouse,18165,/boxscores/201501310IND.html
+Sat Jan 31 2015,Orlando Magic,Dallas Mavericks,93,108,Amway Center,17626,/boxscores/201501310ORL.html
+Sat Jan 31 2015,Washington Wizards,Toronto Raptors,116,120,Verizon Center,20356,/boxscores/201501310WAS.html
+Sat Jan 31 2015,Atlanta Hawks,Philadelphia 76ers,91,85,Philips Arena,19006,/boxscores/201501310ATL.html
+Sat Jan 31 2015,Detroit Pistons,Houston Rockets,114,101,The Palace of Auburn Hills,18213,/boxscores/201501310DET.html
+Sat Jan 31 2015,Memphis Grizzlies,Oklahoma City Thunder,85,74,FedEx Forum,18119,/boxscores/201501310MEM.html
+Sat Jan 31 2015,Minnesota Timberwolves,Cleveland Cavaliers,90,106,Target Center,19562,/boxscores/201501310MIN.html
+Sat Jan 31 2015,Milwaukee Bucks,Portland Trail Blazers,95,88,BMO Harris Bradley Center,18717,/boxscores/201501310MIL.html
+Sat Jan 31 2015,Denver Nuggets,Charlotte Hornets,86,104,Pepsi Center,13302,/boxscores/201501310DEN.html
+Sat Jan 31 2015,San Antonio Spurs,Los Angeles Clippers,85,105,AT&T Center,18581,/boxscores/201501310SAS.html
+Sat Jan 31 2015,Golden State Warriors,Phoenix Suns,106,87,Oracle Arena,19596,/boxscores/201501310GSW.html

@@ -1,0 +1,46 @@
+Fri Oct 13 1967,San Francisco Warriors,Seattle SuperSonics,144,116,Cow Palace,0,/boxscores/196710130SFW.html
+Sat Oct 14 1967,Boston Celtics,Chicago Bulls,105,90,Boston Garden,0,/boxscores/196710140BOS.html
+Sat Oct 14 1967,San Diego Rockets,St. Louis Hawks,98,99,San Diego Sports Arena,0,/boxscores/196710140SDR.html
+Sun Oct 15 1967,San Francisco Warriors,St. Louis Hawks,102,107,Cow Palace,0,/boxscores/196710150SFW.html
+Tue Oct 17 1967,Chicago Bulls,Los Angeles Lakers,105,107,Chicago Stadium,0,/boxscores/196710170CHI.html
+Tue Oct 17 1967,Detroit Pistons,Cincinnati Royals,131,108,Cobo Arena,0,/boxscores/196710170DET.html
+Tue Oct 17 1967,New York Knicks,San Francisco Warriors,124,122,Madison Square Garden (III),0,/boxscores/196710170NYK.html
+Tue Oct 17 1967,San Diego Rockets,St. Louis Hawks,105,123,San Diego Sports Arena,0,/boxscores/196710170SDR.html
+Wed Oct 18 1967,Baltimore Bullets,New York Knicks,121,98,Baltimore Civic Center,0,/boxscores/196710180BAL.html
+Wed Oct 18 1967,Cincinnati Royals,San Francisco Warriors,122,118,Cincinnati Gardens,0,/boxscores/196710180CIN.html
+Wed Oct 18 1967,Philadelphia 76ers,Los Angeles Lakers,103,87,The Spectrum,0,/boxscores/196710180PHI.html
+Thu Oct 19 1967,St. Louis Hawks,Los Angeles Lakers,100,95,Kiel Auditorium,0,/boxscores/196710190STL.html
+Thu Oct 19 1967,Chicago Bulls,San Francisco Warriors,106,116,Chicago Stadium,0,/boxscores/196710190CHI.html
+Fri Oct 20 1967,Chicago Bulls,St. Louis Hawks,99,126,Chicago Stadium,0,/boxscores/196710200CHI.html
+Fri Oct 20 1967,Seattle SuperSonics,San Diego Rockets,114,121,Seattle Center Coliseum,0,/boxscores/196710200SEA.html
+Sat Oct 21 1967,Baltimore Bullets,Boston Celtics,109,125,Baltimore Civic Center,0,/boxscores/196710210BAL.html
+Sat Oct 21 1967,Cincinnati Royals,Chicago Bulls,109,107,Cincinnati Gardens,0,/boxscores/196710210CIN.html
+Sat Oct 21 1967,New York Knicks,Los Angeles Lakers,106,114,Madison Square Garden (III),0,/boxscores/196710210NYK.html
+Sat Oct 21 1967,Philadelphia 76ers,Detroit Pistons,116,111,The Spectrum,0,/boxscores/196710210PHI.html
+Sat Oct 21 1967,San Diego Rockets,Seattle SuperSonics,110,117,San Diego Sports Arena,0,/boxscores/196710210SDR.html
+Sat Oct 21 1967,St. Louis Hawks,San Francisco Warriors,115,110,Kiel Auditorium,0,/boxscores/196710210STL.html
+Sun Oct 22 1967,Seattle SuperSonics,Cincinnati Royals,94,106,Seattle Center Coliseum,0,/boxscores/196710220SEA.html
+Sun Oct 22 1967,San Francisco Warriors,San Diego Rockets,137,126,Cow Palace,0,/boxscores/196710220SFW.html
+Tue Oct 24 1967,Baltimore Bullets,Seattle SuperSonics,136,125,Memorial Coliseum,0,/boxscores/196710240BAL.html
+Tue Oct 24 1967,San Francisco Warriors,Cincinnati Royals,116,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/196710240SFW.html
+Tue Oct 24 1967,Detroit Pistons,Philadelphia 76ers,102,124,Madison Square Garden (III),0,/boxscores/196710240DET.html
+Tue Oct 24 1967,New York Knicks,St. Louis Hawks,130,135,Madison Square Garden (III),0,/boxscores/196710240NYK.html
+Wed Oct 25 1967,Boston Celtics,St. Louis Hawks,118,104,Boston Garden,0,/boxscores/196710250BOS.html
+Wed Oct 25 1967,Detroit Pistons,Chicago Bulls,107,99,Cobo Arena,0,/boxscores/196710250DET.html
+Wed Oct 25 1967,Los Angeles Lakers,Cincinnati Royals,132,116,Los Angeles Memorial Sports Arena,0,/boxscores/196710250LAL.html
+Wed Oct 25 1967,Philadelphia 76ers,New York Knicks,117,114,The Spectrum,0,/boxscores/196710250PHI.html
+Wed Oct 25 1967,San Diego Rockets,Baltimore Bullets,109,125,San Diego Sports Arena,0,/boxscores/196710250SDR.html
+Fri Oct 27 1967,San Diego Rockets,Cincinnati Royals,113,116,San Diego Sports Arena,0,/boxscores/196710270SDR.html
+Fri Oct 27 1967,San Francisco Warriors,Baltimore Bullets,124,111,Oakland-Alameda County Coliseum Arena,0,/boxscores/196710270SFW.html
+Fri Oct 27 1967,Philadelphia 76ers,Seattle SuperSonics,132,115,The Spectrum,0,/boxscores/196710270PHI.html
+Fri Oct 27 1967,Los Angeles Lakers,Chicago Bulls,125,117,Los Angeles Memorial Sports Arena,0,/boxscores/196710270LAL.html
+Fri Oct 27 1967,Detroit Pistons,Boston Celtics,109,128,Cobo Arena,0,/boxscores/196710270DET.html
+Sat Oct 28 1967,Boston Celtics,Philadelphia 76ers,104,95,Boston Garden,0,/boxscores/196710280BOS.html
+Sat Oct 28 1967,New York Knicks,Detroit Pistons,98,111,Madison Square Garden (III),0,/boxscores/196710280NYK.html
+Sat Oct 28 1967,St. Louis Hawks,Seattle SuperSonics,116,109,Kiel Auditorium,0,/boxscores/196710280STL.html
+Sun Oct 29 1967,Los Angeles Lakers,Baltimore Bullets,118,105,Los Angeles Memorial Sports Arena,0,/boxscores/196710290LAL.html
+Sun Oct 29 1967,San Diego Rockets,Cincinnati Royals,99,108,San Diego Sports Arena,0,/boxscores/196710290SDR.html
+Sun Oct 29 1967,San Francisco Warriors,Chicago Bulls,125,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/196710290SFW.html
+Tue Oct 31 1967,Seattle SuperSonics,Chicago Bulls,114,104,Seattle Center Coliseum,0,/boxscores/196710310SEA.html
+Tue Oct 31 1967,San Francisco Warriors,New York Knicks,108,103,Oakland-Alameda County Coliseum Arena,0,/boxscores/196710310SFW.html
+Tue Oct 31 1967,St. Louis Hawks,Baltimore Bullets,114,103,Kiel Auditorium,0,/boxscores/196710310STL.html

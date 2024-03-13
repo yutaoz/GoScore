@@ -1,0 +1,67 @@
+Tue Dec 22 2020,Brooklyn Nets,Golden State Warriors,125,99,Barclays Center,0,/boxscores/202012220BRK.html
+Tue Dec 22 2020,Los Angeles Lakers,Los Angeles Clippers,109,116,STAPLES Center,0,/boxscores/202012220LAL.html
+Wed Dec 23 2020,Cleveland Cavaliers,Charlotte Hornets,121,114,Rocket Mortgage Fieldhouse,300,/boxscores/202012230CLE.html
+Wed Dec 23 2020,Indiana Pacers,New York Knicks,121,107,Bankers Life Fieldhouse,0,/boxscores/202012230IND.html
+Wed Dec 23 2020,Orlando Magic,Miami Heat,113,107,Amway Center,3396,/boxscores/202012230ORL.html
+Wed Dec 23 2020,Philadelphia 76ers,Washington Wizards,113,107,Wells Fargo Center,0,/boxscores/202012230PHI.html
+Wed Dec 23 2020,Toronto Raptors,New Orleans Pelicans,99,113,Amalie Arena,3800,/boxscores/202012230TOR.html
+Wed Dec 23 2020,Boston Celtics,Milwaukee Bucks,122,121,TD Garden,0,/boxscores/202012230BOS.html
+Wed Dec 23 2020,Chicago Bulls,Atlanta Hawks,104,124,United Center,0,/boxscores/202012230CHI.html
+Wed Dec 23 2020,Memphis Grizzlies,San Antonio Spurs,119,131,FedEx Forum,0,/boxscores/202012230MEM.html
+Wed Dec 23 2020,Minnesota Timberwolves,Detroit Pistons,111,101,Target Center,0,/boxscores/202012230MIN.html
+Wed Dec 23 2020,Denver Nuggets,Sacramento Kings,122,124,Ball Arena,0,/boxscores/202012230DEN.html
+Wed Dec 23 2020,Portland Trail Blazers,Utah Jazz,100,120,Moda Center,0,/boxscores/202012230POR.html
+Wed Dec 23 2020,Phoenix Suns,Dallas Mavericks,106,102,Phoenix Suns Arena,0,/boxscores/202012230PHO.html
+Fri Dec 25 2020,Miami Heat,New Orleans Pelicans,111,98,AmericanAirlines Arena,0,/boxscores/202012250MIA.html
+Fri Dec 25 2020,Milwaukee Bucks,Golden State Warriors,138,99,Fiserv Forum,0,/boxscores/202012250MIL.html
+Fri Dec 25 2020,Boston Celtics,Brooklyn Nets,95,123,TD Garden,0,/boxscores/202012250BOS.html
+Fri Dec 25 2020,Los Angeles Lakers,Dallas Mavericks,138,115,STAPLES Center,0,/boxscores/202012250LAL.html
+Fri Dec 25 2020,Denver Nuggets,Los Angeles Clippers,108,121,Ball Arena,0,/boxscores/202012250DEN.html
+Sat Dec 26 2020,Memphis Grizzlies,Atlanta Hawks,112,122,FedEx Forum,0,/boxscores/202012260MEM.html
+Sat Dec 26 2020,Charlotte Hornets,Oklahoma City Thunder,107,109,Spectrum Center,0,/boxscores/202012260CHO.html
+Sat Dec 26 2020,Detroit Pistons,Cleveland Cavaliers,119,128,Little Caesars Arena,0,/boxscores/202012260DET.html
+Sat Dec 26 2020,Washington Wizards,Orlando Magic,120,130,Capital One Arena,0,/boxscores/202012260WAS.html
+Sat Dec 26 2020,New York Knicks,Philadelphia 76ers,89,109,Madison Square Garden (IV),0,/boxscores/202012260NYK.html
+Sat Dec 26 2020,Chicago Bulls,Indiana Pacers,106,125,United Center,0,/boxscores/202012260CHI.html
+Sat Dec 26 2020,San Antonio Spurs,Toronto Raptors,119,114,AT&T Center,0,/boxscores/202012260SAS.html
+Sat Dec 26 2020,Utah Jazz,Minnesota Timberwolves,111,116,Vivint Smart Home Arena,1932,/boxscores/202012260UTA.html
+Sat Dec 26 2020,Portland Trail Blazers,Houston Rockets,128,126,Moda Center,0,/boxscores/202012260POR.html
+Sat Dec 26 2020,Sacramento Kings,Phoenix Suns,106,103,Golden 1 Center,0,/boxscores/202012260SAC.html
+Sun Dec 27 2020,Los Angeles Clippers,Dallas Mavericks,73,124,STAPLES Center,0,/boxscores/202012270LAC.html
+Sun Dec 27 2020,New Orleans Pelicans,San Antonio Spurs,98,95,Smoothie King Center,750,/boxscores/202012270NOP.html
+Sun Dec 27 2020,Washington Wizards,Orlando Magic,113,120,Capital One Arena,0,/boxscores/202012270WAS.html
+Sun Dec 27 2020,Charlotte Hornets,Brooklyn Nets,106,104,Spectrum Center,0,/boxscores/202012270CHO.html
+Sun Dec 27 2020,Cleveland Cavaliers,Philadelphia 76ers,118,94,Rocket Mortgage Fieldhouse,300,/boxscores/202012270CLE.html
+Sun Dec 27 2020,New York Knicks,Milwaukee Bucks,130,110,Madison Square Garden (IV),0,/boxscores/202012270NYK.html
+Sun Dec 27 2020,Indiana Pacers,Boston Celtics,108,107,Bankers Life Fieldhouse,0,/boxscores/202012270IND.html
+Sun Dec 27 2020,Chicago Bulls,Golden State Warriors,128,129,United Center,0,/boxscores/202012270CHI.html
+Sun Dec 27 2020,Sacramento Kings,Phoenix Suns,100,116,Golden 1 Center,0,/boxscores/202012270SAC.html
+Sun Dec 27 2020,Los Angeles Lakers,Minnesota Timberwolves,127,91,STAPLES Center,0,/boxscores/202012270LAL.html
+Mon Dec 28 2020,Brooklyn Nets,Memphis Grizzlies,111,116,Barclays Center,0,/boxscores/202012280BRK.html
+Mon Dec 28 2020,Atlanta Hawks,Detroit Pistons,128,120,State Farm Arena,0,/boxscores/202012280ATL.html
+Mon Dec 28 2020,Oklahoma City Thunder,Utah Jazz,109,110,Chesapeake Energy Arena,0,/boxscores/202012280OKC.html
+Mon Dec 28 2020,Denver Nuggets,Houston Rockets,124,111,Ball Arena,0,/boxscores/202012280DEN.html
+Mon Dec 28 2020,Los Angeles Lakers,Portland Trail Blazers,107,115,STAPLES Center,0,/boxscores/202012280LAL.html
+Tue Dec 29 2020,Cleveland Cavaliers,New York Knicks,86,95,Rocket Mortgage Fieldhouse,300,/boxscores/202012290CLE.html
+Tue Dec 29 2020,Detroit Pistons,Golden State Warriors,106,116,Little Caesars Arena,0,/boxscores/202012290DET.html
+Tue Dec 29 2020,Indiana Pacers,Boston Celtics,111,116,Bankers Life Fieldhouse,0,/boxscores/202012290IND.html
+Tue Dec 29 2020,Washington Wizards,Chicago Bulls,107,115,Capital One Arena,0,/boxscores/202012290WAS.html
+Tue Dec 29 2020,Philadelphia 76ers,Toronto Raptors,100,93,Wells Fargo Center,0,/boxscores/202012290PHI.html
+Tue Dec 29 2020,Miami Heat,Milwaukee Bucks,97,144,AmericanAirlines Arena,0,/boxscores/202012290MIA.html
+Tue Dec 29 2020,Oklahoma City Thunder,Orlando Magic,107,118,Chesapeake Energy Arena,0,/boxscores/202012290OKC.html
+Tue Dec 29 2020,Phoenix Suns,New Orleans Pelicans,111,86,Phoenix Suns Arena,0,/boxscores/202012290PHO.html
+Tue Dec 29 2020,Sacramento Kings,Denver Nuggets,125,115,Golden 1 Center,0,/boxscores/202012290SAC.html
+Tue Dec 29 2020,Los Angeles Clippers,Minnesota Timberwolves,124,101,STAPLES Center,0,/boxscores/202012290LAC.html
+Wed Dec 30 2020,Miami Heat,Milwaukee Bucks,119,108,AmericanAirlines Arena,0,/boxscores/202012300MIA.html
+Wed Dec 30 2020,Brooklyn Nets,Atlanta Hawks,145,141,Barclays Center,0,/boxscores/202012300BRK.html
+Wed Dec 30 2020,Boston Celtics,Memphis Grizzlies,126,107,TD Garden,0,/boxscores/202012300BOS.html
+Wed Dec 30 2020,Dallas Mavericks,Charlotte Hornets,99,118,American Airlines Center,0,/boxscores/202012300DAL.html
+Wed Dec 30 2020,San Antonio Spurs,Los Angeles Lakers,107,121,AT&T Center,0,/boxscores/202012300SAS.html
+Wed Dec 30 2020,Los Angeles Clippers,Portland Trail Blazers,128,105,STAPLES Center,0,/boxscores/202012300LAC.html
+Thu Dec 31 2020,Indiana Pacers,Cleveland Cavaliers,119,99,Bankers Life Fieldhouse,0,/boxscores/202012310IND.html
+Thu Dec 31 2020,Washington Wizards,Chicago Bulls,130,133,Capital One Arena,0,/boxscores/202012310WAS.html
+Thu Dec 31 2020,Orlando Magic,Philadelphia 76ers,92,116,Amway Center,3247,/boxscores/202012310ORL.html
+Thu Dec 31 2020,Houston Rockets,Sacramento Kings,122,119,Toyota Center,3247,/boxscores/202012310HOU.html
+Thu Dec 31 2020,Toronto Raptors,New York Knicks,100,83,Amalie Arena,3449,/boxscores/202012310TOR.html
+Thu Dec 31 2020,Oklahoma City Thunder,New Orleans Pelicans,80,113,Chesapeake Energy Arena,0,/boxscores/202012310OKC.html
+Thu Dec 31 2020,Utah Jazz,Phoenix Suns,95,106,Vivint Smart Home Arena,1932,/boxscores/202012310UTA.html

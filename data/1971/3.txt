@@ -1,0 +1,112 @@
+Mon Mar 1 1971,Chicago Bulls,Cincinnati Royals,98,94,Pan American Center,0,/boxscores/197103010CHI.html
+Mon Mar 1 1971,Milwaukee Bucks,Philadelphia 76ers,127,103,Milwaukee Arena,0,/boxscores/197103010MIL.html
+Tue Mar 2 1971,Buffalo Braves,Los Angeles Lakers,118,131,Buffalo Memorial Auditorium,0,/boxscores/197103020BUF.html
+Tue Mar 2 1971,Detroit Pistons,Portland Trail Blazers,128,122,Cobo Arena,0,/boxscores/197103020DET.html
+Tue Mar 2 1971,New York Knicks,Baltimore Bullets,109,95,Madison Square Garden (IV),0,/boxscores/197103020NYK.html
+Tue Mar 2 1971,Philadelphia 76ers,San Diego Rockets,103,111,The Spectrum,0,/boxscores/197103020PHI.html
+Tue Mar 2 1971,Seattle SuperSonics,Atlanta Hawks,116,128,Seattle Center Coliseum,0,/boxscores/197103020SEA.html
+Wed Mar 3 1971,Baltimore Bullets,Cincinnati Royals,132,133,Baltimore Civic Center,0,/boxscores/197103030BAL.html
+Wed Mar 3 1971,Boston Celtics,San Diego Rockets,128,113,Boston Garden,0,/boxscores/197103030BOS.html
+Wed Mar 3 1971,Milwaukee Bucks,Los Angeles Lakers,112,97,Milwaukee Arena,0,/boxscores/197103030MIL.html
+Wed Mar 3 1971,Philadelphia 76ers,Portland Trail Blazers,120,104,Boston Garden,0,/boxscores/197103030PHI.html
+Wed Mar 3 1971,Phoenix Suns,Chicago Bulls,115,90,Arizona Veterans Memorial Coliseum,0,/boxscores/197103030PHO.html
+Wed Mar 3 1971,San Francisco Warriors,Atlanta Hawks,105,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197103030SFW.html
+Thu Mar 4 1971,Milwaukee Bucks,Buffalo Braves,116,113,Milwaukee Arena,0,/boxscores/197103040MIL.html
+Fri Mar 5 1971,Chicago Bulls,San Francisco Warriors,130,103,San Diego Sports Arena,0,/boxscores/197103050CHI.html
+Fri Mar 5 1971,Cincinnati Royals,Portland Trail Blazers,117,111,Omaha Civic Auditorium,0,/boxscores/197103050CIN.html
+Fri Mar 5 1971,Detroit Pistons,Milwaukee Bucks,95,108,Cobo Arena,0,/boxscores/197103050DET.html
+Fri Mar 5 1971,Los Angeles Lakers,Atlanta Hawks,104,105,The Forum,0,/boxscores/197103050LAL.html
+Fri Mar 5 1971,Philadelphia 76ers,New York Knicks,121,116,The Spectrum,0,/boxscores/197103050PHI.html
+Fri Mar 5 1971,San Diego Rockets,Seattle SuperSonics,110,111,San Diego Sports Arena,0,/boxscores/197103050SDR.html
+Sat Mar 6 1971,Buffalo Braves,Cleveland Cavaliers,120,109,Buffalo Memorial Auditorium,0,/boxscores/197103060BUF.html
+Sat Mar 6 1971,Chicago Bulls,San Diego Rockets,105,99,Oakland-Alameda County Coliseum Arena,0,/boxscores/197103060CHI.html
+Sat Mar 6 1971,New York Knicks,Boston Celtics,112,104,Madison Square Garden (IV),0,/boxscores/197103060NYK.html
+Sat Mar 6 1971,Philadelphia 76ers,Detroit Pistons,121,115,The Spectrum,0,/boxscores/197103060PHI.html
+Sat Mar 6 1971,Seattle SuperSonics,Los Angeles Lakers,121,109,Seattle Center Coliseum,0,/boxscores/197103060SEA.html
+Sat Mar 6 1971,San Francisco Warriors,Baltimore Bullets,109,103,Oakland-Alameda County Coliseum Arena,0,/boxscores/197103060SFW.html
+Sun Mar 7 1971,Atlanta Hawks,Cincinnati Royals,122,112,Alexander Memorial Coliseum,0,/boxscores/197103070ATL.html
+Sun Mar 7 1971,Boston Celtics,New York Knicks,110,116,Boston Garden,0,/boxscores/197103070BOS.html
+Sun Mar 7 1971,Detroit Pistons,Cleveland Cavaliers,100,104,Cobo Arena,0,/boxscores/197103070DET.html
+Sun Mar 7 1971,Los Angeles Lakers,Chicago Bulls,117,108,The Forum,0,/boxscores/197103070LAL.html
+Sun Mar 7 1971,Phoenix Suns,Baltimore Bullets,108,117,Arizona Veterans Memorial Coliseum,0,/boxscores/197103070PHO.html
+Sun Mar 7 1971,San Diego Rockets,Portland Trail Blazers,135,121,San Diego Sports Arena,0,/boxscores/197103070SDR.html
+Mon Mar 8 1971,Milwaukee Bucks,Seattle SuperSonics,104,99,Milwaukee Arena,0,/boxscores/197103080MIL.html
+Mon Mar 8 1971,Portland Trail Blazers,Buffalo Braves,98,114,Memorial Coliseum,0,/boxscores/197103080POR.html
+Tue Mar 9 1971,Chicago Bulls,Milwaukee Bucks,110,103,Chicago Stadium,0,/boxscores/197103090CHI.html
+Tue Mar 9 1971,Cleveland Cavaliers,Philadelphia 76ers,113,124,Cleveland Arena,0,/boxscores/197103090CLE.html
+Tue Mar 9 1971,Detroit Pistons,Phoenix Suns,108,114,Cobo Arena,4269,/boxscores/197103090DET.html
+Tue Mar 9 1971,Los Angeles Lakers,Baltimore Bullets,95,107,The Forum,0,/boxscores/197103090LAL.html
+Tue Mar 9 1971,New York Knicks,Seattle SuperSonics,99,114,Madison Square Garden (IV),0,/boxscores/197103090NYK.html
+Tue Mar 9 1971,San Diego Rockets,Buffalo Braves,106,96,San Diego Sports Arena,0,/boxscores/197103090SDR.html
+Tue Mar 9 1971,San Francisco Warriors,Boston Celtics,112,134,Oakland-Alameda County Coliseum Arena,0,/boxscores/197103090SFW.html
+Wed Mar 10 1971,Atlanta Hawks,Phoenix Suns,139,98,Alexander Memorial Coliseum,0,/boxscores/197103100ATL.html
+Wed Mar 10 1971,Cincinnati Royals,New York Knicks,120,118,Cincinnati Gardens,0,/boxscores/197103100CIN.html
+Thu Mar 11 1971,Portland Trail Blazers,Baltimore Bullets,136,118,Memorial Coliseum,0,/boxscores/197103110POR.html
+Thu Mar 11 1971,San Diego Rockets,Boston Celtics,115,91,San Diego Sports Arena,0,/boxscores/197103110SDR.html
+Thu Mar 11 1971,Seattle SuperSonics,Detroit Pistons,130,97,Hec Edmunson Pavilion,0,/boxscores/197103110SEA.html
+Fri Mar 12 1971,Boston Celtics,Cincinnati Royals,108,124,Omaha Civic Auditorium,0,/boxscores/197103120BOS.html
+Fri Mar 12 1971,Chicago Bulls,Phoenix Suns,116,92,Chicago Stadium,0,/boxscores/197103120CHI.html
+Fri Mar 12 1971,Cleveland Cavaliers,Atlanta Hawks,107,119,Cleveland Arena,0,/boxscores/197103120CLE.html
+Fri Mar 12 1971,Los Angeles Lakers,Buffalo Braves,109,116,The Forum,0,/boxscores/197103120LAL.html
+Fri Mar 12 1971,Portland Trail Blazers,Detroit Pistons,129,133,Memorial Coliseum,0,/boxscores/197103120POR.html
+Fri Mar 12 1971,San Francisco Warriors,Seattle SuperSonics,111,98,Cow Palace,0,/boxscores/197103120SFW.html
+Sat Mar 13 1971,Chicago Bulls,Phoenix Suns,111,99,Chicago Stadium,0,/boxscores/197103130CHI.html
+Sat Mar 13 1971,Cincinnati Royals,Atlanta Hawks,136,127,Cincinnati Gardens,0,/boxscores/197103130CIN.html
+Sat Mar 13 1971,New York Knicks,Milwaukee Bucks,108,103,Madison Square Garden (IV),0,/boxscores/197103130NYK.html
+Sat Mar 13 1971,San Diego Rockets,Baltimore Bullets,121,115,San Diego Sports Arena,0,/boxscores/197103130SDR.html
+Sat Mar 13 1971,San Francisco Warriors,Detroit Pistons,116,107,Cow Palace,0,/boxscores/197103130SFW.html
+Sun Mar 14 1971,Atlanta Hawks,Philadelphia 76ers,108,101,Alexander Memorial Coliseum,0,/boxscores/197103140ATL.html
+Sun Mar 14 1971,Boston Celtics,Chicago Bulls,117,104,Boston Garden,0,/boxscores/197103140BOS.html
+Sun Mar 14 1971,Cleveland Cavaliers,Cincinnati Royals,103,115,Cleveland Arena,0,/boxscores/197103140CLE.html
+Sun Mar 14 1971,Los Angeles Lakers,Detroit Pistons,110,100,The Forum,0,/boxscores/197103140LAL.html
+Sun Mar 14 1971,Milwaukee Bucks,Phoenix Suns,113,125,Dane County Veteran Memorial Coliseum,0,/boxscores/197103140MIL.html
+Sun Mar 14 1971,Portland Trail Blazers,Buffalo Braves,122,112,Memorial Coliseum,0,/boxscores/197103140POR.html
+Sun Mar 14 1971,Seattle SuperSonics,Baltimore Bullets,124,121,Hec Edmunson Pavilion,0,/boxscores/197103140SEA.html
+Tue Mar 16 1971,Buffalo Braves,Cincinnati Royals,102,113,Buffalo Memorial Auditorium,0,/boxscores/197103160BUF.html
+Tue Mar 16 1971,Chicago Bulls,Baltimore Bullets,113,99,Chicago Stadium,0,/boxscores/197103160CHI.html
+Tue Mar 16 1971,Cleveland Cavaliers,San Francisco Warriors,108,103,Cleveland Arena,0,/boxscores/197103160CLE.html
+Tue Mar 16 1971,New York Knicks,Los Angeles Lakers,115,82,Madison Square Garden (IV),0,/boxscores/197103160NYK.html
+Tue Mar 16 1971,Philadelphia 76ers,Atlanta Hawks,125,130,The Spectrum,0,/boxscores/197103160PHI.html
+Tue Mar 16 1971,Phoenix Suns,Milwaukee Bucks,111,119,Arizona Veterans Memorial Coliseum,0,/boxscores/197103160PHO.html
+Wed Mar 17 1971,Baltimore Bullets,Cleveland Cavaliers,113,109,Baltimore Civic Center,0,/boxscores/197103170BAL.html
+Wed Mar 17 1971,Boston Celtics,Los Angeles Lakers,112,104,Boston Garden,0,/boxscores/197103170BOS.html
+Wed Mar 17 1971,Cincinnati Royals,San Francisco Warriors,92,110,Cincinnati Gardens,0,/boxscores/197103170CIN.html
+Wed Mar 17 1971,San Diego Rockets,Detroit Pistons,106,99,San Diego Sports Arena,0,/boxscores/197103170SDR.html
+Thu Mar 18 1971,Chicago Bulls,San Francisco Warriors,85,91,Chicago Stadium,0,/boxscores/197103180CHI.html
+Thu Mar 18 1971,Phoenix Suns,New York Knicks,123,131,Arizona Veterans Memorial Coliseum,0,/boxscores/197103180PHO.html
+Thu Mar 18 1971,Seattle SuperSonics,Milwaukee Bucks,122,121,Hec Edmunson Pavilion,0,/boxscores/197103180SEA.html
+Fri Mar 19 1971,Atlanta Hawks,Chicago Bulls,112,111,Alexander Memorial Coliseum,0,/boxscores/197103190ATL.html
+Fri Mar 19 1971,Boston Celtics,Baltimore Bullets,125,117,Boston Garden,0,/boxscores/197103190BOS.html
+Fri Mar 19 1971,Detroit Pistons,Buffalo Braves,111,105,Cobo Arena,0,/boxscores/197103190DET.html
+Fri Mar 19 1971,Los Angeles Lakers,Phoenix Suns,106,111,The Forum,0,/boxscores/197103190LAL.html
+Fri Mar 19 1971,Philadelphia 76ers,Cincinnati Royals,147,127,The Spectrum,0,/boxscores/197103190PHI.html
+Fri Mar 19 1971,Portland Trail Blazers,Seattle SuperSonics,135,128,Memorial Coliseum,0,/boxscores/197103190POR.html
+Fri Mar 19 1971,San Diego Rockets,Milwaukee Bucks,111,99,San Diego Sports Arena,0,/boxscores/197103190SDR.html
+Sat Mar 20 1971,Baltimore Bullets,Philadelphia 76ers,124,112,Baltimore Civic Center,0,/boxscores/197103200BAL.html
+Sat Mar 20 1971,Buffalo Braves,Portland Trail Blazers,129,132,Buffalo Memorial Auditorium,0,/boxscores/197103200BUF.html
+Sat Mar 20 1971,Chicago Bulls,Atlanta Hawks,138,121,Chicago Stadium,0,/boxscores/197103200CHI.html
+Sat Mar 20 1971,Cleveland Cavaliers,Detroit Pistons,114,103,Cleveland Arena,0,/boxscores/197103200CLE.html
+Sat Mar 20 1971,Phoenix Suns,Seattle SuperSonics,114,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197103200PHO.html
+Sun Mar 21 1971,Boston Celtics,Cincinnati Royals,135,110,Boston Garden,0,/boxscores/197103210BOS.html
+Sun Mar 21 1971,Cleveland Cavaliers,Portland Trail Blazers,110,113,Cleveland Arena,0,/boxscores/197103210CLE.html
+Sun Mar 21 1971,Detroit Pistons,Chicago Bulls,116,111,Cobo Arena,0,/boxscores/197103210DET.html
+Sun Mar 21 1971,Los Angeles Lakers,New York Knicks,101,98,The Forum,0,/boxscores/197103210LAL.html
+Sun Mar 21 1971,Philadelphia 76ers,Baltimore Bullets,120,108,The Spectrum,0,/boxscores/197103210PHI.html
+Sun Mar 21 1971,San Diego Rockets,Phoenix Suns,132,114,San Diego Sports Arena,0,/boxscores/197103210SDR.html
+Sun Mar 21 1971,Seattle SuperSonics,San Francisco Warriors,119,106,Hec Edmunson Pavilion,0,/boxscores/197103210SEA.html
+Tue Mar 23 1971,Cleveland Cavaliers,Portland Trail Blazers,112,114,Cleveland Arena,0,/boxscores/197103230CLE.html
+Wed Mar 24 1971,Baltimore Bullets,Philadelphia 76ers,112,126,Baltimore Civic Center,0,/boxscores/197103240BAL.html
+Wed Mar 24 1971,Los Angeles Lakers,Chicago Bulls,100,99,The Forum,0,/boxscores/197103240LAL.html
+Thu Mar 25 1971,New York Knicks,Atlanta Hawks,112,101,Madison Square Garden (IV),0,/boxscores/197103250NYK.html
+Fri Mar 26 1971,Los Angeles Lakers,Chicago Bulls,105,95,The Forum,0,/boxscores/197103260LAL.html
+Fri Mar 26 1971,Philadelphia 76ers,Baltimore Bullets,107,119,The Spectrum,0,/boxscores/197103260PHI.html
+Sat Mar 27 1971,New York Knicks,Atlanta Hawks,104,113,Madison Square Garden (IV),0,/boxscores/197103270NYK.html
+Sat Mar 27 1971,San Francisco Warriors,Milwaukee Bucks,96,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197103270SFW.html
+Sun Mar 28 1971,Atlanta Hawks,New York Knicks,95,110,Alexander Memorial Coliseum,0,/boxscores/197103280ATL.html
+Sun Mar 28 1971,Baltimore Bullets,Philadelphia 76ers,111,103,Baltimore Civic Center,0,/boxscores/197103280BAL.html
+Sun Mar 28 1971,Chicago Bulls,Los Angeles Lakers,106,98,Chicago Stadium,10101,/boxscores/197103280CHI.html
+Mon Mar 29 1971,Milwaukee Bucks,San Francisco Warriors,104,90,University of Wisconsin Fieldhouse,0,/boxscores/197103290MIL.html
+Tue Mar 30 1971,Atlanta Hawks,New York Knicks,107,113,Alexander Memorial Coliseum,0,/boxscores/197103300ATL.html
+Tue Mar 30 1971,Chicago Bulls,Los Angeles Lakers,112,102,Chicago Stadium,0,/boxscores/197103300CHI.html
+Tue Mar 30 1971,Milwaukee Bucks,San Francisco Warriors,114,102,University of Wisconsin Fieldhouse,0,/boxscores/197103300MIL.html
+Tue Mar 30 1971,Philadelphia 76ers,Baltimore Bullets,105,120,The Spectrum,0,/boxscores/197103300PHI.html

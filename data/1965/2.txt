@@ -1,0 +1,70 @@
+Tue Feb 2 1965,New York Knicks,San Francisco Warriors,113,102,Madison Square Garden (III),0,/boxscores/196502020NYK.html
+Tue Feb 2 1965,Detroit Pistons,Los Angeles Lakers,121,118,Cleveland Arena,0,/boxscores/196502020DET.html
+Tue Feb 2 1965,Philadelphia 76ers,St. Louis Hawks,119,105,Madison Square Garden (III),0,/boxscores/196502020PHI.html
+Wed Feb 3 1965,Boston Celtics,Baltimore Bullets,114,122,Boston Garden,0,/boxscores/196502030BOS.html
+Wed Feb 3 1965,Cincinnati Royals,Los Angeles Lakers,130,99,Cincinnati Gardens,0,/boxscores/196502030CIN.html
+Wed Feb 3 1965,Detroit Pistons,San Francisco Warriors,111,106,Cobo Arena,0,/boxscores/196502030DET.html
+Wed Feb 3 1965,New York Knicks,Philadelphia 76ers,95,116,Boston Garden,0,/boxscores/196502030NYK.html
+Thu Feb 4 1965,Philadelphia 76ers,St. Louis Hawks,123,119,Philadelphia Arena,0,/boxscores/196502040PHI.html
+Fri Feb 5 1965,Baltimore Bullets,San Francisco Warriors,112,120,Cole Field House,0,/boxscores/196502050BAL.html
+Fri Feb 5 1965,Boston Celtics,Cincinnati Royals,114,113,Boston Garden,0,/boxscores/196502050BOS.html
+Fri Feb 5 1965,Detroit Pistons,New York Knicks,112,118,Cobo Arena,0,/boxscores/196502050DET.html
+Sat Feb 6 1965,Baltimore Bullets,Los Angeles Lakers,116,112,Baltimore Civic Center,0,/boxscores/196502060BAL.html
+Sat Feb 6 1965,St. Louis Hawks,San Francisco Warriors,108,101,St. Louis Arena,0,/boxscores/196502060STL.html
+Sat Feb 6 1965,New York Knicks,Detroit Pistons,109,106,Madison Square Garden (III),0,/boxscores/196502060NYK.html
+Sat Feb 6 1965,Cincinnati Royals,Philadelphia 76ers,122,127,Onondaga War Memorial,0,/boxscores/196502060CIN.html
+Sun Feb 7 1965,Boston Celtics,Los Angeles Lakers,101,97,Boston Garden,0,/boxscores/196502070BOS.html
+Sun Feb 7 1965,Detroit Pistons,Baltimore Bullets,119,112,Cobo Arena,0,/boxscores/196502070DET.html
+Sun Feb 7 1965,St. Louis Hawks,San Francisco Warriors,126,103,Kiel Auditorium,0,/boxscores/196502070STL.html
+Mon Feb 8 1965,Los Angeles Lakers,Philadelphia 76ers,117,98,Los Angeles Memorial Sports Arena,0,/boxscores/196502080LAL.html
+Tue Feb 9 1965,Cincinnati Royals,Boston Celtics,134,121,Cincinnati Gardens,0,/boxscores/196502090CIN.html
+Tue Feb 9 1965,Philadelphia 76ers,San Francisco Warriors,132,114,San Jose Civic Auditorium,0,/boxscores/196502090PHI.html
+Tue Feb 9 1965,New York Knicks,St. Louis Hawks,103,108,Madison Square Garden (III),0,/boxscores/196502090NYK.html
+Wed Feb 10 1965,Cincinnati Royals,New York Knicks,112,115,Cobo Arena,0,/boxscores/196502100CIN.html
+Wed Feb 10 1965,Detroit Pistons,Boston Celtics,106,117,Cobo Arena,0,/boxscores/196502100DET.html
+Wed Feb 10 1965,Los Angeles Lakers,Philadelphia 76ers,99,110,Los Angeles Memorial Sports Arena,0,/boxscores/196502100LAL.html
+Thu Feb 11 1965,Baltimore Bullets,St. Louis Hawks,94,124,Baltimore Civic Center,0,/boxscores/196502110BAL.html
+Thu Feb 11 1965,Cincinnati Royals,Detroit Pistons,130,109,War Memorial Coliseum,0,/boxscores/196502110CIN.html
+Thu Feb 11 1965,San Francisco Warriors,Philadelphia 76ers,106,100,Oakland Civic Auditorium,0,/boxscores/196502110SFW.html
+Fri Feb 12 1965,Boston Celtics,New York Knicks,94,92,Boston Garden,0,/boxscores/196502120BOS.html
+Fri Feb 12 1965,Los Angeles Lakers,San Francisco Warriors,114,95,Los Angeles Memorial Sports Arena,0,/boxscores/196502120LAL.html
+Fri Feb 12 1965,St. Louis Hawks,Baltimore Bullets,144,100,Kiel Auditorium,0,/boxscores/196502120STL.html
+Sat Feb 13 1965,Baltimore Bullets,Detroit Pistons,123,117,Baltimore Civic Center,0,/boxscores/196502130BAL.html
+Sat Feb 13 1965,Cincinnati Royals,Philadelphia 76ers,108,106,Cincinnati Gardens,0,/boxscores/196502130CIN.html
+Sat Feb 13 1965,New York Knicks,Boston Celtics,123,113,Madison Square Garden (III),0,/boxscores/196502130NYK.html
+Sat Feb 13 1965,San Francisco Warriors,Los Angeles Lakers,105,129,San Francisco Civic Auditorium,0,/boxscores/196502130SFW.html
+Sun Feb 14 1965,Boston Celtics,Baltimore Bullets,126,111,Boston Garden,0,/boxscores/196502140BOS.html
+Sun Feb 14 1965,St. Louis Hawks,Cincinnati Royals,92,99,Kiel Auditorium,0,/boxscores/196502140STL.html
+Tue Feb 16 1965,Baltimore Bullets,New York Knicks,102,106,Cincinnati Gardens,0,/boxscores/196502160BAL.html
+Tue Feb 16 1965,Cincinnati Royals,St. Louis Hawks,111,103,Cincinnati Gardens,0,/boxscores/196502160CIN.html
+Tue Feb 16 1965,San Francisco Warriors,Detroit Pistons,106,114,San Francisco Civic Auditorium,0,/boxscores/196502160SFW.html
+Wed Feb 17 1965,Baltimore Bullets,Cincinnati Royals,125,114,Baltimore Civic Center,0,/boxscores/196502170BAL.html
+Wed Feb 17 1965,Boston Celtics,St. Louis Hawks,121,114,Boston Garden,0,/boxscores/196502170BOS.html
+Wed Feb 17 1965,New York Knicks,Los Angeles Lakers,98,118,Madison Square Garden (III),0,/boxscores/196502170NYK.html
+Thu Feb 18 1965,Boston Celtics,St. Louis Hawks,119,109,Rhode Island Auditorium,0,/boxscores/196502180BOS.html
+Thu Feb 18 1965,Philadelphia 76ers,Los Angeles Lakers,110,117,Philadelphia Arena,0,/boxscores/196502180PHI.html
+Thu Feb 18 1965,San Francisco Warriors,Detroit Pistons,106,107,Oakland Civic Auditorium,0,/boxscores/196502180SFW.html
+Fri Feb 19 1965,Baltimore Bullets,Los Angeles Lakers,111,119,Baltimore Civic Center,0,/boxscores/196502190BAL.html
+Sat Feb 20 1965,Detroit Pistons,St. Louis Hawks,98,110,Cobo Arena,0,/boxscores/196502200DET.html
+Sat Feb 20 1965,New York Knicks,Philadelphia 76ers,92,111,Cobo Arena,0,/boxscores/196502200NYK.html
+Sat Feb 20 1965,San Francisco Warriors,Boston Celtics,108,114,San Francisco Civic Auditorium,0,/boxscores/196502200SFW.html
+Sun Feb 21 1965,St. Louis Hawks,Detroit Pistons,112,107,Kiel Auditorium,0,/boxscores/196502210STL.html
+Sun Feb 21 1965,New York Knicks,Cincinnati Royals,109,104,Madison Square Garden (III),0,/boxscores/196502210NYK.html
+Sun Feb 21 1965,Baltimore Bullets,Philadelphia 76ers,106,107,Baltimore Civic Center,0,/boxscores/196502210BAL.html
+Sun Feb 21 1965,Los Angeles Lakers,Boston Celtics,129,114,Los Angeles Memorial Sports Arena,0,/boxscores/196502210LAL.html
+Mon Feb 22 1965,Baltimore Bullets,Philadelphia 76ers,112,122,Washington Coliseum,0,/boxscores/196502220BAL.html
+Mon Feb 22 1965,San Francisco Warriors,St. Louis Hawks,97,107,San Francisco Civic Auditorium,0,/boxscores/196502220SFW.html
+Tue Feb 23 1965,Baltimore Bullets,Cincinnati Royals,131,127,Madison Square Garden (III),0,/boxscores/196502230BAL.html
+Tue Feb 23 1965,New York Knicks,Philadelphia 76ers,132,104,Madison Square Garden (III),0,/boxscores/196502230NYK.html
+Wed Feb 24 1965,San Francisco Warriors,St. Louis Hawks,103,111,San Francisco Civic Auditorium,0,/boxscores/196502240SFW.html
+Wed Feb 24 1965,Los Angeles Lakers,Boston Celtics,95,97,Los Angeles Memorial Sports Arena,0,/boxscores/196502240LAL.html
+Wed Feb 24 1965,Detroit Pistons,Philadelphia 76ers,106,104,Cobo Arena,0,/boxscores/196502240DET.html
+Wed Feb 24 1965,Baltimore Bullets,New York Knicks,111,100,Baltimore Civic Center,0,/boxscores/196502240BAL.html
+Fri Feb 26 1965,Los Angeles Lakers,St. Louis Hawks,106,90,Los Angeles Memorial Sports Arena,0,/boxscores/196502260LAL.html
+Fri Feb 26 1965,San Francisco Warriors,Boston Celtics,112,130,San Francisco Civic Auditorium,0,/boxscores/196502260SFW.html
+Sat Feb 27 1965,Detroit Pistons,Cincinnati Royals,117,115,Cobo Arena,0,/boxscores/196502270DET.html
+Sat Feb 27 1965,New York Knicks,Baltimore Bullets,102,99,Madison Square Garden (III),0,/boxscores/196502270NYK.html
+Sun Feb 28 1965,Baltimore Bullets,San Francisco Warriors,129,116,Baltimore Civic Center,0,/boxscores/196502280BAL.html
+Sun Feb 28 1965,Cincinnati Royals,New York Knicks,126,117,University of Dayton Fieldhouse,0,/boxscores/196502280CIN.html
+Sun Feb 28 1965,Los Angeles Lakers,Philadelphia 76ers,122,118,Onondaga War Memorial,0,/boxscores/196502280LAL.html
+Sun Feb 28 1965,St. Louis Hawks,Boston Celtics,102,108,Kiel Auditorium,0,/boxscores/196502280STL.html

@@ -1,0 +1,63 @@
+Tue Apr 1 1975,Houston Rockets,Atlanta Hawks,113,104,Hofheinz Pavilion,0,/boxscores/197504010HOU.html
+Tue Apr 1 1975,Buffalo Braves,Chicago Bulls,93,98,Buffalo Memorial Auditorium,0,/boxscores/197504010BUF.html
+Tue Apr 1 1975,New York Knicks,Philadelphia 76ers,99,95,Madison Square Garden (IV),0,/boxscores/197504010NYK.html
+Tue Apr 1 1975,New Orleans Jazz,Washington Bullets,101,110,Municipal Auditorium,0,/boxscores/197504010NOJ.html
+Tue Apr 1 1975,Los Angeles Lakers,Portland Trail Blazers,106,124,The Forum,0,/boxscores/197504010LAL.html
+Tue Apr 1 1975,Milwaukee Bucks,Detroit Pistons,98,91,MECCA Arena,0,/boxscores/197504010MIL.html
+Wed Apr 2 1975,Boston Celtics,Buffalo Braves,95,92,Boston Garden,0,/boxscores/197504020BOS.html
+Wed Apr 2 1975,Detroit Pistons,Chicago Bulls,97,89,Cobo Arena,0,/boxscores/197504020DET.html
+Wed Apr 2 1975,Phoenix Suns,Los Angeles Lakers,108,106,Arizona Veterans Memorial Coliseum,0,/boxscores/197504020PHO.html
+Wed Apr 2 1975,Seattle SuperSonics,Kansas City-Omaha Kings,99,96,Seattle Center Coliseum,0,/boxscores/197504020SEA.html
+Wed Apr 2 1975,Washington Bullets,Houston Rockets,112,85,Capital Centre,0,/boxscores/197504020WSB.html
+Thu Apr 3 1975,Cleveland Cavaliers,New York Knicks,100,95,Coliseum at Richfield,0,/boxscores/197504030CLE.html
+Fri Apr 4 1975,Portland Trail Blazers,Kansas City-Omaha Kings,116,110,Memorial Coliseum,0,/boxscores/197504040POR.html
+Fri Apr 4 1975,Phoenix Suns,Golden State Warriors,99,128,Arizona Veterans Memorial Coliseum,0,/boxscores/197504040PHO.html
+Fri Apr 4 1975,Milwaukee Bucks,New York Knicks,109,101,MECCA Arena,0,/boxscores/197504040MIL.html
+Fri Apr 4 1975,Chicago Bulls,New Orleans Jazz,111,87,Chicago Stadium,0,/boxscores/197504040CHI.html
+Fri Apr 4 1975,Buffalo Braves,Philadelphia 76ers,108,97,Buffalo Memorial Auditorium,0,/boxscores/197504040BUF.html
+Fri Apr 4 1975,Boston Celtics,Washington Bullets,95,94,Boston Garden,0,/boxscores/197504040BOS.html
+Fri Apr 4 1975,Los Angeles Lakers,Seattle SuperSonics,102,111,The Forum,0,/boxscores/197504040LAL.html
+Sat Apr 5 1975,Detroit Pistons,Milwaukee Bucks,106,119,Cobo Arena,0,/boxscores/197504050DET.html
+Sat Apr 5 1975,Golden State Warriors,Seattle SuperSonics,108,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197504050GSW.html
+Sat Apr 5 1975,Philadelphia 76ers,Boston Celtics,97,111,The Spectrum,0,/boxscores/197504050PHI.html
+Sat Apr 5 1975,Washington Bullets,Atlanta Hawks,123,115,Capital Centre,0,/boxscores/197504050WSB.html
+Sun Apr 6 1975,Kansas City-Omaha Kings,Cleveland Cavaliers,95,94,Omaha Civic Auditorium,0,/boxscores/197504060KCO.html
+Sun Apr 6 1975,Washington Bullets,New Orleans Jazz,119,103,Capital Centre,0,/boxscores/197504060WSB.html
+Sun Apr 6 1975,Seattle SuperSonics,Phoenix Suns,114,111,Seattle Center Coliseum,0,/boxscores/197504060SEA.html
+Sun Apr 6 1975,Portland Trail Blazers,Los Angeles Lakers,126,97,Memorial Coliseum,0,/boxscores/197504060POR.html
+Sun Apr 6 1975,New York Knicks,Buffalo Braves,105,93,Madison Square Garden (IV),0,/boxscores/197504060NYK.html
+Sun Apr 6 1975,Milwaukee Bucks,Chicago Bulls,100,112,MECCA Arena,0,/boxscores/197504060MIL.html
+Tue Apr 8 1975,Houston Rockets,New York Knicks,99,84,Hofheinz Pavilion,0,/boxscores/197504080HOU.html
+Tue Apr 8 1975,Seattle SuperSonics,Detroit Pistons,90,77,Seattle Center Coliseum,0,/boxscores/197504080SEA.html
+Wed Apr 9 1975,Chicago Bulls,Kansas City-Omaha Kings,95,89,Chicago Stadium,0,/boxscores/197504090CHI.html
+Thu Apr 10 1975,New York Knicks,Houston Rockets,106,96,Madison Square Garden (IV),0,/boxscores/197504100NYK.html
+Thu Apr 10 1975,Washington Bullets,Buffalo Braves,102,113,Capital Centre,0,/boxscores/197504100WSB.html
+Thu Apr 10 1975,Detroit Pistons,Seattle SuperSonics,122,106,Cobo Arena,0,/boxscores/197504100DET.html
+Sat Apr 12 1975,Buffalo Braves,Washington Bullets,106,120,Buffalo Memorial Auditorium,0,/boxscores/197504120BUF.html
+Sat Apr 12 1975,Houston Rockets,New York Knicks,118,86,Hofheinz Pavilion,0,/boxscores/197504120HOU.html
+Sat Apr 12 1975,Seattle SuperSonics,Detroit Pistons,100,93,Seattle Center Coliseum,0,/boxscores/197504120SEA.html
+Sun Apr 13 1975,Kansas City-Omaha Kings,Chicago Bulls,102,95,Kemper Arena,0,/boxscores/197504130KCO.html
+Mon Apr 14 1975,Boston Celtics,Houston Rockets,123,106,Boston Garden,0,/boxscores/197504140BOS.html
+Mon Apr 14 1975,Golden State Warriors,Seattle SuperSonics,123,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197504140GSW.html
+Wed Apr 16 1975,Boston Celtics,Houston Rockets,112,100,Boston Garden,0,/boxscores/197504160BOS.html
+Wed Apr 16 1975,Chicago Bulls,Kansas City-Omaha Kings,93,90,Chicago Stadium,0,/boxscores/197504160CHI.html
+Wed Apr 16 1975,Golden State Warriors,Seattle SuperSonics,99,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197504160GSW.html
+Wed Apr 16 1975,Washington Bullets,Buffalo Braves,111,96,Capital Centre,0,/boxscores/197504160WSB.html
+Thu Apr 17 1975,Seattle SuperSonics,Golden State Warriors,96,105,Seattle Center Coliseum,0,/boxscores/197504170SEA.html
+Fri Apr 18 1975,Kansas City-Omaha Kings,Chicago Bulls,104,100,Kemper Arena,0,/boxscores/197504180KCO.html
+Fri Apr 18 1975,Buffalo Braves,Washington Bullets,108,102,Buffalo Memorial Auditorium,0,/boxscores/197504180BUF.html
+Sat Apr 19 1975,Houston Rockets,Boston Celtics,117,102,Hofheinz Pavilion,0,/boxscores/197504190HOU.html
+Sat Apr 19 1975,Seattle SuperSonics,Golden State Warriors,111,94,Seattle Center Coliseum,0,/boxscores/197504190SEA.html
+Sun Apr 20 1975,Chicago Bulls,Kansas City-Omaha Kings,104,77,Chicago Stadium,0,/boxscores/197504200CHI.html
+Sun Apr 20 1975,Washington Bullets,Buffalo Braves,97,93,Capital Centre,0,/boxscores/197504200WSB.html
+Tue Apr 22 1975,Golden State Warriors,Seattle SuperSonics,124,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197504220GSW.html
+Tue Apr 22 1975,Houston Rockets,Boston Celtics,117,122,Hofheinz Pavilion,0,/boxscores/197504220HOU.html
+Wed Apr 23 1975,Buffalo Braves,Washington Bullets,102,96,Buffalo Memorial Auditorium,0,/boxscores/197504230BUF.html
+Wed Apr 23 1975,Kansas City-Omaha Kings,Chicago Bulls,89,101,Kemper Arena,0,/boxscores/197504230KCO.html
+Thu Apr 24 1975,Boston Celtics,Houston Rockets,128,115,Boston Garden,0,/boxscores/197504240BOS.html
+Thu Apr 24 1975,Seattle SuperSonics,Golden State Warriors,96,105,Seattle Center Coliseum,0,/boxscores/197504240SEA.html
+Fri Apr 25 1975,Washington Bullets,Buffalo Braves,115,96,Capital Centre,0,/boxscores/197504250WSB.html
+Sun Apr 27 1975,Boston Celtics,Washington Bullets,95,100,Boston Garden,0,/boxscores/197504270BOS.html
+Sun Apr 27 1975,Golden State Warriors,Chicago Bulls,107,89,Oakland-Alameda County Coliseum Arena,0,/boxscores/197504270GSW.html
+Wed Apr 30 1975,Chicago Bulls,Golden State Warriors,90,89,Chicago Stadium,0,/boxscores/197504300CHI.html
+Wed Apr 30 1975,Washington Bullets,Boston Celtics,117,92,Capital Centre,0,/boxscores/197504300WSB.html

@@ -1,0 +1,223 @@
+Thu Nov 1 2007,Miami Heat,Detroit Pistons,80,91,AmericanAirlines Arena,19600,/boxscores/200711010MIA.html
+Thu Nov 1 2007,Utah Jazz,Houston Rockets,95,106,EnergySolutions Arena,19911,/boxscores/200711010UTA.html
+Thu Nov 1 2007,Seattle SuperSonics,Phoenix Suns,99,106,KeyArena at Seattle Center,17072,/boxscores/200711010SEA.html
+Fri Nov 2 2007,Charlotte Bobcats,Milwaukee Bucks,102,99,Charlotte Bobcats Arena,16368,/boxscores/200711020CHA.html
+Fri Nov 2 2007,Indiana Pacers,Miami Heat,87,85,Conseco Fieldhouse,12887,/boxscores/200711020IND.html
+Fri Nov 2 2007,Orlando Magic,Detroit Pistons,92,116,Amway Arena,17519,/boxscores/200711020ORL.html
+Fri Nov 2 2007,Atlanta Hawks,Dallas Mavericks,101,94,Philips Arena,19767,/boxscores/200711020ATL.html
+Fri Nov 2 2007,Cleveland Cavaliers,New York Knicks,110,106,Quicken Loans Arena,20562,/boxscores/200711020CLE.html
+Fri Nov 2 2007,New Jersey Nets,Toronto Raptors,69,106,Izod Center,14980,/boxscores/200711020NJN.html
+Fri Nov 2 2007,Boston Celtics,Washington Wizards,103,83,TD Banknorth Garden,18624,/boxscores/200711020BOS.html
+Fri Nov 2 2007,Minnesota Timberwolves,Denver Nuggets,91,99,Target Center,19443,/boxscores/200711020MIN.html
+Fri Nov 2 2007,New Orleans Hornets,Portland Trail Blazers,113,93,New Orleans Arena,9817,/boxscores/200711020NOH.html
+Fri Nov 2 2007,Chicago Bulls,Philadelphia 76ers,85,96,United Center,22034,/boxscores/200711020CHI.html
+Fri Nov 2 2007,San Antonio Spurs,Sacramento Kings,96,80,AT&T Center,17072,/boxscores/200711020SAS.html
+Fri Nov 2 2007,Los Angeles Clippers,Golden State Warriors,120,114,STAPLES Center,19060,/boxscores/200711020LAC.html
+Fri Nov 2 2007,Phoenix Suns,Los Angeles Lakers,98,119,US Airways Center,18422,/boxscores/200711020PHO.html
+Sat Nov 3 2007,Philadelphia 76ers,New Jersey Nets,88,93,Wachovia Center,19706,/boxscores/200711030PHI.html
+Sat Nov 3 2007,Washington Wizards,Orlando Magic,82,94,Verizon Center,20173,/boxscores/200711030WAS.html
+Sat Nov 3 2007,Memphis Grizzlies,Indiana Pacers,111,121,FedEx Forum,14878,/boxscores/200711030MEM.html
+Sat Nov 3 2007,Dallas Mavericks,Sacramento Kings,123,102,American Airlines Center,20343,/boxscores/200711030DAL.html
+Sat Nov 3 2007,Houston Rockets,Portland Trail Blazers,89,80,Toyota Center,18232,/boxscores/200711030HOU.html
+Sat Nov 3 2007,Milwaukee Bucks,Chicago Bulls,78,72,Bradley Center,18717,/boxscores/200711030MIL.html
+Sat Nov 3 2007,Utah Jazz,Golden State Warriors,133,110,EnergySolutions Arena,19911,/boxscores/200711030UTA.html
+Sun Nov 4 2007,Toronto Raptors,Boston Celtics,95,98,Air Canada Centre,19800,/boxscores/200711040TOR.html
+Sun Nov 4 2007,Los Angeles Clippers,Seattle SuperSonics,115,101,STAPLES Center,17376,/boxscores/200711040LAC.html
+Sun Nov 4 2007,Miami Heat,Charlotte Bobcats,88,90,AmericanAirlines Arena,19600,/boxscores/200711040MIA.html
+Sun Nov 4 2007,New York Knicks,Minnesota Timberwolves,97,93,Madison Square Garden (IV),19763,/boxscores/200711040NYK.html
+Sun Nov 4 2007,Detroit Pistons,Atlanta Hawks,92,91,The Palace of Auburn Hills,22076,/boxscores/200711040DET.html
+Sun Nov 4 2007,Denver Nuggets,New Orleans Hornets,88,93,Pepsi Center,13156,/boxscores/200711040DEN.html
+Sun Nov 4 2007,Phoenix Suns,Cleveland Cavaliers,103,92,US Airways Center,18422,/boxscores/200711040PHO.html
+Sun Nov 4 2007,Los Angeles Lakers,Utah Jazz,119,109,STAPLES Center,18997,/boxscores/200711040LAL.html
+Mon Nov 5 2007,Dallas Mavericks,Houston Rockets,107,98,American Airlines Center,20389,/boxscores/200711050DAL.html
+Tue Nov 6 2007,Charlotte Bobcats,Phoenix Suns,83,115,Charlotte Bobcats Arena,12408,/boxscores/200711060CHA.html
+Tue Nov 6 2007,New Jersey Nets,Atlanta Hawks,87,82,Izod Center,12336,/boxscores/200711060NJN.html
+Tue Nov 6 2007,New York Knicks,Denver Nuggets,119,112,Madison Square Garden (IV),19763,/boxscores/200711060NYK.html
+Tue Nov 6 2007,Milwaukee Bucks,Toronto Raptors,112,85,Bradley Center,13549,/boxscores/200711060MIL.html
+Tue Nov 6 2007,Minnesota Timberwolves,Orlando Magic,103,111,Target Center,12003,/boxscores/200711060MIN.html
+Tue Nov 6 2007,Chicago Bulls,Los Angeles Clippers,91,97,United Center,21742,/boxscores/200711060CHI.html
+Tue Nov 6 2007,Houston Rockets,San Antonio Spurs,89,81,Toyota Center,18280,/boxscores/200711060HOU.html
+Tue Nov 6 2007,Sacramento Kings,Seattle SuperSonics,104,98,ARCO Arena (II),14908,/boxscores/200711060SAC.html
+Tue Nov 6 2007,Golden State Warriors,Cleveland Cavaliers,104,108,Oracle Arena,19596,/boxscores/200711060GSW.html
+Tue Nov 6 2007,Los Angeles Lakers,New Orleans Hornets,104,118,STAPLES Center,18997,/boxscores/200711060LAL.html
+Wed Nov 7 2007,Atlanta Hawks,Phoenix Suns,105,96,Philips Arena,19855,/boxscores/200711070ATL.html
+Wed Nov 7 2007,Indiana Pacers,Los Angeles Clippers,89,104,Conseco Fieldhouse,10122,/boxscores/200711070IND.html
+Wed Nov 7 2007,Philadelphia 76ers,Charlotte Bobcats,94,63,Wachovia Center,9317,/boxscores/200711070PHI.html
+Wed Nov 7 2007,Toronto Raptors,Orlando Magic,96,105,Air Canada Centre,17977,/boxscores/200711070TOR.html
+Wed Nov 7 2007,Boston Celtics,Denver Nuggets,119,93,TD Banknorth Garden,18624,/boxscores/200711070BOS.html
+Wed Nov 7 2007,San Antonio Spurs,Miami Heat,88,78,AT&T Center,17503,/boxscores/200711070SAS.html
+Wed Nov 7 2007,Seattle SuperSonics,Memphis Grizzlies,98,105,KeyArena at Seattle Center,10761,/boxscores/200711070SEA.html
+Wed Nov 7 2007,Portland Trail Blazers,New Orleans Hornets,93,90,Rose Garden Arena,19980,/boxscores/200711070POR.html
+Wed Nov 7 2007,Utah Jazz,Cleveland Cavaliers,103,101,EnergySolutions Arena,19911,/boxscores/200711070UTA.html
+Thu Nov 8 2007,New Jersey Nets,Washington Wizards,87,85,Izod Center,13267,/boxscores/200711080NJN.html
+Thu Nov 8 2007,Chicago Bulls,Detroit Pistons,97,93,United Center,21797,/boxscores/200711080CHI.html
+Thu Nov 8 2007,Golden State Warriors,Dallas Mavericks,115,120,Oracle Arena,19596,/boxscores/200711080GSW.html
+Fri Nov 9 2007,Charlotte Bobcats,Indiana Pacers,96,87,Charlotte Bobcats Arena,12044,/boxscores/200711090CHA.html
+Fri Nov 9 2007,Philadelphia 76ers,Toronto Raptors,103,105,Wachovia Center,10886,/boxscores/200711090PHI.html
+Fri Nov 9 2007,Boston Celtics,Atlanta Hawks,106,83,TD Banknorth Garden,18624,/boxscores/200711090BOS.html
+Fri Nov 9 2007,Miami Heat,Phoenix Suns,101,106,AmericanAirlines Arena,19600,/boxscores/200711090MIA.html
+Fri Nov 9 2007,New York Knicks,Orlando Magic,102,112,Madison Square Garden (IV),19763,/boxscores/200711090NYK.html
+Fri Nov 9 2007,Detroit Pistons,Los Angeles Clippers,103,79,The Palace of Auburn Hills,22076,/boxscores/200711090DET.html
+Fri Nov 9 2007,New Orleans Hornets,San Antonio Spurs,85,97,New Orleans Arena,15297,/boxscores/200711090NOH.html
+Fri Nov 9 2007,Washington Wizards,Denver Nuggets,92,118,Verizon Center,20173,/boxscores/200711090WAS.html
+Fri Nov 9 2007,Houston Rockets,Milwaukee Bucks,104,88,Toyota Center,18244,/boxscores/200711090HOU.html
+Fri Nov 9 2007,Portland Trail Blazers,Memphis Grizzlies,110,98,Rose Garden Arena,18112,/boxscores/200711090POR.html
+Fri Nov 9 2007,Los Angeles Lakers,Minnesota Timberwolves,107,93,STAPLES Center,18997,/boxscores/200711090LAL.html
+Fri Nov 9 2007,Sacramento Kings,Cleveland Cavaliers,91,93,ARCO Arena (II),15293,/boxscores/200711090SAC.html
+Fri Nov 9 2007,Seattle SuperSonics,Utah Jazz,101,103,KeyArena at Seattle Center,15980,/boxscores/200711090SEA.html
+Sat Nov 10 2007,Indiana Pacers,Denver Nuggets,106,113,Conseco Fieldhouse,12748,/boxscores/200711100IND.html
+Sat Nov 10 2007,Orlando Magic,Phoenix Suns,96,106,Amway Arena,17519,/boxscores/200711100ORL.html
+Sat Nov 10 2007,New Jersey Nets,Boston Celtics,101,112,Izod Center,18171,/boxscores/200711100NJN.html
+Sat Nov 10 2007,Chicago Bulls,Toronto Raptors,71,101,United Center,22467,/boxscores/200711100CHI.html
+Sat Nov 10 2007,Utah Jazz,Memphis Grizzlies,118,94,EnergySolutions Arena,19771,/boxscores/200711100UTA.html
+Sat Nov 10 2007,Portland Trail Blazers,Dallas Mavericks,91,82,Rose Garden Arena,19255,/boxscores/200711100POR.html
+Sat Nov 10 2007,Sacramento Kings,Minnesota Timberwolves,100,93,ARCO Arena (II),13170,/boxscores/200711100SAC.html
+Sun Nov 11 2007,Atlanta Hawks,Washington Wizards,90,101,Philips Arena,13172,/boxscores/200711110ATL.html
+Sun Nov 11 2007,Charlotte Bobcats,Houston Rockets,82,85,Charlotte Bobcats Arena,11936,/boxscores/200711110CHA.html
+Sun Nov 11 2007,New York Knicks,Miami Heat,72,75,Madison Square Garden (IV),19763,/boxscores/200711110NYK.html
+Sun Nov 11 2007,Philadelphia 76ers,New Orleans Hornets,72,93,Wachovia Center,10014,/boxscores/200711110PHI.html
+Sun Nov 11 2007,San Antonio Spurs,Milwaukee Bucks,113,88,AT&T Center,17670,/boxscores/200711110SAS.html
+Sun Nov 11 2007,Seattle SuperSonics,Detroit Pistons,103,107,KeyArena at Seattle Center,16379,/boxscores/200711110SEA.html
+Sun Nov 11 2007,Los Angeles Clippers,Cleveland Cavaliers,95,103,STAPLES Center,15541,/boxscores/200711110LAC.html
+Mon Nov 12 2007,New Jersey Nets,New Orleans Hornets,82,84,Izod Center,12832,/boxscores/200711120NJN.html
+Mon Nov 12 2007,Denver Nuggets,Cleveland Cavaliers,122,100,Pepsi Center,19155,/boxscores/200711120DEN.html
+Mon Nov 12 2007,Utah Jazz,Sacramento Kings,117,93,EnergySolutions Arena,19911,/boxscores/200711120UTA.html
+Tue Nov 13 2007,Charlotte Bobcats,Miami Heat,91,76,Charlotte Bobcats Arena,12169,/boxscores/200711130CHA.html
+Tue Nov 13 2007,Indiana Pacers,Boston Celtics,86,101,Conseco Fieldhouse,12143,/boxscores/200711130IND.html
+Tue Nov 13 2007,Orlando Magic,Seattle SuperSonics,103,76,Amway Arena,16101,/boxscores/200711130ORL.html
+Tue Nov 13 2007,Memphis Grizzlies,Houston Rockets,105,99,FedEx Forum,12368,/boxscores/200711130MEM.html
+Tue Nov 13 2007,Dallas Mavericks,Philadelphia 76ers,99,84,American Airlines Center,19875,/boxscores/200711130DAL.html
+Tue Nov 13 2007,San Antonio Spurs,Los Angeles Lakers,107,92,AT&T Center,18797,/boxscores/200711130SAS.html
+Tue Nov 13 2007,Phoenix Suns,New York Knicks,113,102,US Airways Center,18422,/boxscores/200711130PHO.html
+Tue Nov 13 2007,Portland Trail Blazers,Detroit Pistons,102,94,Rose Garden Arena,19980,/boxscores/200711130POR.html
+Wed Nov 14 2007,Atlanta Hawks,Charlotte Bobcats,117,109,Philips Arena,12239,/boxscores/200711140ATL.html
+Wed Nov 14 2007,Cleveland Cavaliers,Orlando Magic,116,117,Quicken Loans Arena,20562,/boxscores/200711140CLE.html
+Wed Nov 14 2007,Toronto Raptors,Utah Jazz,88,92,Air Canada Centre,17337,/boxscores/200711140TOR.html
+Wed Nov 14 2007,Washington Wizards,Indiana Pacers,103,90,Verizon Center,12477,/boxscores/200711140WAS.html
+Wed Nov 14 2007,Boston Celtics,New Jersey Nets,91,69,TD Banknorth Garden,18624,/boxscores/200711140BOS.html
+Wed Nov 14 2007,Miami Heat,Seattle SuperSonics,95,104,AmericanAirlines Arena,19600,/boxscores/200711140MIA.html
+Wed Nov 14 2007,Milwaukee Bucks,Memphis Grizzlies,102,99,Bradley Center,13462,/boxscores/200711140MIL.html
+Wed Nov 14 2007,Minnesota Timberwolves,Sacramento Kings,108,103,Target Center,11656,/boxscores/200711140MIN.html
+Wed Nov 14 2007,New Orleans Hornets,Philadelphia 76ers,95,76,New Orleans Arena,8302,/boxscores/200711140NOH.html
+Wed Nov 14 2007,Denver Nuggets,Portland Trail Blazers,110,93,Pepsi Center,13289,/boxscores/200711140DEN.html
+Wed Nov 14 2007,Houston Rockets,Los Angeles Lakers,90,93,Toyota Center,18178,/boxscores/200711140HOU.html
+Wed Nov 14 2007,Golden State Warriors,Detroit Pistons,104,111,Oracle Arena,18923,/boxscores/200711140GSW.html
+Wed Nov 14 2007,Los Angeles Clippers,New York Knicks,84,81,STAPLES Center,15296,/boxscores/200711140LAC.html
+Thu Nov 15 2007,Dallas Mavericks,San Antonio Spurs,105,92,American Airlines Center,20468,/boxscores/200711150DAL.html
+Thu Nov 15 2007,Phoenix Suns,Chicago Bulls,112,102,US Airways Center,18422,/boxscores/200711150PHO.html
+Fri Nov 16 2007,Philadelphia 76ers,Portland Trail Blazers,92,88,Wachovia Center,11483,/boxscores/200711160PHI.html
+Fri Nov 16 2007,Toronto Raptors,Indiana Pacers,110,101,Air Canada Centre,19800,/boxscores/200711160TOR.html
+Fri Nov 16 2007,Atlanta Hawks,Seattle SuperSonics,123,126,Philips Arena,13534,/boxscores/200711160ATL.html
+Fri Nov 16 2007,Boston Celtics,Miami Heat,92,91,TD Banknorth Garden,18624,/boxscores/200711160BOS.html
+Fri Nov 16 2007,Cleveland Cavaliers,Utah Jazz,99,94,Quicken Loans Arena,19862,/boxscores/200711160CLE.html
+Fri Nov 16 2007,New Jersey Nets,Orlando Magic,70,95,Izod Center,15115,/boxscores/200711160NJN.html
+Fri Nov 16 2007,Memphis Grizzlies,New Orleans Hornets,118,120,FedEx Forum,13271,/boxscores/200711160MEM.html
+Fri Nov 16 2007,Minnesota Timberwolves,Washington Wizards,89,105,Target Center,11783,/boxscores/200711160MIN.html
+Fri Nov 16 2007,San Antonio Spurs,Houston Rockets,90,84,AT&T Center,18797,/boxscores/200711160SAS.html
+Fri Nov 16 2007,Sacramento Kings,New York Knicks,123,118,ARCO Arena (II),12549,/boxscores/200711160SAC.html
+Fri Nov 16 2007,Golden State Warriors,Los Angeles Clippers,122,105,Oracle Arena,19596,/boxscores/200711160GSW.html
+Fri Nov 16 2007,Los Angeles Lakers,Detroit Pistons,103,91,STAPLES Center,18997,/boxscores/200711160LAL.html
+Sat Nov 17 2007,Charlotte Bobcats,Seattle SuperSonics,100,84,Charlotte Bobcats Arena,13697,/boxscores/200711170CHA.html
+Sat Nov 17 2007,Indiana Pacers,Utah Jazz,117,97,Conseco Fieldhouse,12447,/boxscores/200711170IND.html
+Sat Nov 17 2007,Washington Wizards,Portland Trail Blazers,109,90,Verizon Center,20173,/boxscores/200711170WAS.html
+Sat Nov 17 2007,New Jersey Nets,Miami Heat,87,91,Izod Center,16797,/boxscores/200711170NJN.html
+Sat Nov 17 2007,Minnesota Timberwolves,New Orleans Hornets,82,100,Target Center,15324,/boxscores/200711170MIN.html
+Sat Nov 17 2007,Dallas Mavericks,Memphis Grizzlies,108,105,American Airlines Center,20385,/boxscores/200711170DAL.html
+Sat Nov 17 2007,Houston Rockets,Phoenix Suns,105,115,Toyota Center,18265,/boxscores/200711170HOU.html
+Sat Nov 17 2007,Milwaukee Bucks,Atlanta Hawks,105,96,Bradley Center,14511,/boxscores/200711170MIL.html
+Sat Nov 17 2007,Denver Nuggets,New York Knicks,115,83,Pepsi Center,19679,/boxscores/200711170DEN.html
+Sat Nov 17 2007,Los Angeles Clippers,Chicago Bulls,73,92,STAPLES Center,17535,/boxscores/200711170LAC.html
+Sun Nov 18 2007,Toronto Raptors,Golden State Warriors,100,106,Air Canada Centre,19800,/boxscores/200711180TOR.html
+Sun Nov 18 2007,Orlando Magic,Boston Celtics,104,102,Amway Arena,17519,/boxscores/200711180ORL.html
+Sun Nov 18 2007,Sacramento Kings,Detroit Pistons,105,95,ARCO Arena (II),12978,/boxscores/200711180SAC.html
+Sun Nov 18 2007,Los Angeles Lakers,Chicago Bulls,106,78,STAPLES Center,18997,/boxscores/200711180LAL.html
+Mon Nov 19 2007,Charlotte Bobcats,Portland Trail Blazers,101,92,Charlotte Bobcats Arena,10612,/boxscores/200711190CHA.html
+Mon Nov 19 2007,Memphis Grizzlies,Seattle SuperSonics,125,108,FedEx Forum,10863,/boxscores/200711190MEM.html
+Mon Nov 19 2007,New Orleans Hornets,Orlando Magic,88,95,New Orleans Arena,11741,/boxscores/200711190NOH.html
+Mon Nov 19 2007,Utah Jazz,New Jersey Nets,102,75,EnergySolutions Arena,19911,/boxscores/200711190UTA.html
+Tue Nov 20 2007,Atlanta Hawks,San Antonio Spurs,83,95,Philips Arena,17025,/boxscores/200711200ATL.html
+Tue Nov 20 2007,Cleveland Cavaliers,Milwaukee Bucks,107,111,Quicken Loans Arena,20115,/boxscores/200711200CLE.html
+Tue Nov 20 2007,Indiana Pacers,Los Angeles Lakers,114,134,Conseco Fieldhouse,11577,/boxscores/200711200IND.html
+Tue Nov 20 2007,Washington Wizards,Philadelphia 76ers,116,101,Verizon Center,12299,/boxscores/200711200WAS.html
+Tue Nov 20 2007,New York Knicks,Golden State Warriors,82,108,Madison Square Garden (IV),19763,/boxscores/200711200NYK.html
+Tue Nov 20 2007,Dallas Mavericks,Toronto Raptors,105,99,American Airlines Center,20272,/boxscores/200711200DAL.html
+Tue Nov 20 2007,Denver Nuggets,Chicago Bulls,112,91,Pepsi Center,17106,/boxscores/200711200DEN.html
+Tue Nov 20 2007,Sacramento Kings,Phoenix Suns,98,100,ARCO Arena (II),13592,/boxscores/200711200SAC.html
+Wed Nov 21 2007,Charlotte Bobcats,Washington Wizards,111,114,Charlotte Bobcats Arena,12193,/boxscores/200711210CHA.html
+Wed Nov 21 2007,Boston Celtics,Golden State Warriors,105,82,TD Banknorth Garden,18624,/boxscores/200711210BOS.html
+Wed Nov 21 2007,Houston Rockets,Dallas Mavericks,94,100,Toyota Center,18143,/boxscores/200711210HOU.html
+Wed Nov 21 2007,Miami Heat,Atlanta Hawks,79,82,AmericanAirlines Arena,19600,/boxscores/200711210MIA.html
+Wed Nov 21 2007,Detroit Pistons,New York Knicks,98,86,The Palace of Auburn Hills,22076,/boxscores/200711210DET.html
+Wed Nov 21 2007,Memphis Grizzlies,Toronto Raptors,89,95,FedEx Forum,12217,/boxscores/200711210MEM.html
+Wed Nov 21 2007,Milwaukee Bucks,Los Angeles Lakers,110,103,Bradley Center,17526,/boxscores/200711210MIL.html
+Wed Nov 21 2007,Minnesota Timberwolves,Cleveland Cavaliers,86,97,Target Center,15224,/boxscores/200711210MIN.html
+Wed Nov 21 2007,New Orleans Hornets,Indiana Pacers,93,105,New Orleans Arena,11609,/boxscores/200711210NOH.html
+Wed Nov 21 2007,San Antonio Spurs,Orlando Magic,128,110,AT&T Center,18797,/boxscores/200711210SAS.html
+Wed Nov 21 2007,Phoenix Suns,Sacramento Kings,127,111,US Airways Center,18422,/boxscores/200711210PHO.html
+Wed Nov 21 2007,Portland Trail Blazers,New Jersey Nets,101,106,Rose Garden Arena,18423,/boxscores/200711210POR.html
+Wed Nov 21 2007,Los Angeles Clippers,Denver Nuggets,101,90,STAPLES Center,17221,/boxscores/200711210LAC.html
+Fri Nov 23 2007,Orlando Magic,Charlotte Bobcats,105,92,Amway Arena,17136,/boxscores/200711230ORL.html
+Fri Nov 23 2007,Washington Wizards,Golden State Warriors,115,123,Verizon Center,20173,/boxscores/200711230WAS.html
+Fri Nov 23 2007,Boston Celtics,Los Angeles Lakers,107,94,TD Banknorth Garden,18624,/boxscores/200711230BOS.html
+Fri Nov 23 2007,Detroit Pistons,Philadelphia 76ers,83,78,The Palace of Auburn Hills,22076,/boxscores/200711230DET.html
+Fri Nov 23 2007,Indiana Pacers,Dallas Mavericks,111,107,Conseco Fieldhouse,14002,/boxscores/200711230IND.html
+Fri Nov 23 2007,Miami Heat,Houston Rockets,98,91,AmericanAirlines Arena,19600,/boxscores/200711230MIA.html
+Fri Nov 23 2007,San Antonio Spurs,Memphis Grizzlies,101,88,AT&T Center,18797,/boxscores/200711230SAS.html
+Fri Nov 23 2007,Denver Nuggets,Minnesota Timberwolves,99,93,Pepsi Center,17097,/boxscores/200711230DEN.html
+Fri Nov 23 2007,Phoenix Suns,Los Angeles Clippers,113,94,US Airways Center,18422,/boxscores/200711230PHO.html
+Fri Nov 23 2007,Utah Jazz,New Orleans Hornets,99,71,EnergySolutions Arena,19911,/boxscores/200711230UTA.html
+Fri Nov 23 2007,Portland Trail Blazers,Sacramento Kings,87,84,Rose Garden Arena,19980,/boxscores/200711230POR.html
+Fri Nov 23 2007,Seattle SuperSonics,New Jersey Nets,93,98,KeyArena at Seattle Center,14424,/boxscores/200711230SEA.html
+Sat Nov 24 2007,Cleveland Cavaliers,Toronto Raptors,111,108,Quicken Loans Arena,20018,/boxscores/200711240CLE.html
+Sat Nov 24 2007,New York Knicks,Chicago Bulls,85,78,Madison Square Garden (IV),19763,/boxscores/200711240NYK.html
+Sat Nov 24 2007,Charlotte Bobcats,Boston Celtics,95,96,Charlotte Bobcats Arena,19201,/boxscores/200711240CHA.html
+Sat Nov 24 2007,Orlando Magic,Miami Heat,120,99,Amway Arena,17519,/boxscores/200711240ORL.html
+Sat Nov 24 2007,Philadelphia 76ers,Golden State Warriors,98,100,Wachovia Center,13047,/boxscores/200711240PHI.html
+Sat Nov 24 2007,Memphis Grizzlies,Washington Wizards,124,118,FedEx Forum,13579,/boxscores/200711240MEM.html
+Sat Nov 24 2007,Minnesota Timberwolves,Atlanta Hawks,87,94,Target Center,14101,/boxscores/200711240MIN.html
+Sat Nov 24 2007,Houston Rockets,Denver Nuggets,109,81,Toyota Center,18228,/boxscores/200711240HOU.html
+Sat Nov 24 2007,Milwaukee Bucks,Dallas Mavericks,97,95,Bradley Center,16376,/boxscores/200711240MIL.html
+Sat Nov 24 2007,Los Angeles Clippers,New Orleans Hornets,89,98,STAPLES Center,15601,/boxscores/200711240LAC.html
+Sun Nov 25 2007,Toronto Raptors,Chicago Bulls,93,78,Air Canada Centre,19800,/boxscores/200711250TOR.html
+Sun Nov 25 2007,Detroit Pistons,Utah Jazz,93,103,The Palace of Auburn Hills,22076,/boxscores/200711250DET.html
+Sun Nov 25 2007,Indiana Pacers,Cleveland Cavaliers,106,111,Conseco Fieldhouse,11603,/boxscores/200711250IND.html
+Sun Nov 25 2007,Seattle SuperSonics,San Antonio Spurs,101,116,KeyArena at Seattle Center,14186,/boxscores/200711250SEA.html
+Sun Nov 25 2007,Los Angeles Lakers,New Jersey Nets,100,102,STAPLES Center,18997,/boxscores/200711250LAL.html
+Mon Nov 26 2007,New York Knicks,Utah Jazz,113,109,Madison Square Garden (IV),18816,/boxscores/200711260NYK.html
+Mon Nov 26 2007,New Orleans Hornets,Minnesota Timberwolves,94,103,New Orleans Arena,8393,/boxscores/200711260NOH.html
+Mon Nov 26 2007,Dallas Mavericks,Washington Wizards,98,110,American Airlines Center,19556,/boxscores/200711260DAL.html
+Mon Nov 26 2007,Portland Trail Blazers,Orlando Magic,74,85,Rose Garden Arena,15922,/boxscores/200711260POR.html
+Mon Nov 26 2007,Sacramento Kings,San Antonio Spurs,112,99,ARCO Arena (II),12587,/boxscores/200711260SAC.html
+Mon Nov 26 2007,Golden State Warriors,Phoenix Suns,129,114,Oracle Arena,19596,/boxscores/200711260GSW.html
+Mon Nov 26 2007,Los Angeles Clippers,Houston Rockets,71,88,STAPLES Center,15452,/boxscores/200711260LAC.html
+Tue Nov 27 2007,Cleveland Cavaliers,Boston Celtics,109,104,Quicken Loans Arena,20562,/boxscores/200711270CLE.html
+Tue Nov 27 2007,Miami Heat,Charlotte Bobcats,110,90,AmericanAirlines Arena,19600,/boxscores/200711270MIA.html
+Tue Nov 27 2007,New Jersey Nets,Memphis Grizzlies,103,110,Izod Center,12092,/boxscores/200711270NJN.html
+Tue Nov 27 2007,Milwaukee Bucks,Philadelphia 76ers,99,114,Bradley Center,13186,/boxscores/200711270MIL.html
+Tue Nov 27 2007,Chicago Bulls,Atlanta Hawks,90,78,United Center,21826,/boxscores/200711270CHI.html
+Tue Nov 27 2007,Denver Nuggets,Indiana Pacers,110,112,Pepsi Center,13274,/boxscores/200711270DEN.html
+Tue Nov 27 2007,Los Angeles Lakers,Seattle SuperSonics,106,99,STAPLES Center,18997,/boxscores/200711270LAL.html
+Wed Nov 28 2007,Atlanta Hawks,Milwaukee Bucks,96,80,Philips Arena,11286,/boxscores/200711280ATL.html
+Wed Nov 28 2007,Philadelphia 76ers,Utah Jazz,95,106,Wachovia Center,11006,/boxscores/200711280PHI.html
+Wed Nov 28 2007,Toronto Raptors,Memphis Grizzlies,103,91,Air Canada Centre,18906,/boxscores/200711280TOR.html
+Wed Nov 28 2007,Detroit Pistons,Cleveland Cavaliers,109,74,The Palace of Auburn Hills,22076,/boxscores/200711280DET.html
+Wed Nov 28 2007,Dallas Mavericks,Minnesota Timberwolves,109,103,American Airlines Center,20054,/boxscores/200711280DAL.html
+Wed Nov 28 2007,San Antonio Spurs,Washington Wizards,109,94,AT&T Center,18386,/boxscores/200711280SAS.html
+Wed Nov 28 2007,Phoenix Suns,Houston Rockets,94,100,US Airways Center,18422,/boxscores/200711280PHO.html
+Wed Nov 28 2007,Portland Trail Blazers,Indiana Pacers,89,95,Rose Garden Arena,16168,/boxscores/200711280POR.html
+Wed Nov 28 2007,Sacramento Kings,Golden State Warriors,96,103,ARCO Arena (II),13652,/boxscores/200711280SAC.html
+Wed Nov 28 2007,Seattle SuperSonics,Orlando Magic,94,110,KeyArena at Seattle Center,12398,/boxscores/200711280SEA.html
+Thu Nov 29 2007,Boston Celtics,New York Knicks,104,59,TD Banknorth Garden,18624,/boxscores/200711290BOS.html
+Thu Nov 29 2007,Golden State Warriors,Houston Rockets,113,94,Oracle Arena,19596,/boxscores/200711290GSW.html
+Thu Nov 29 2007,Los Angeles Lakers,Denver Nuggets,127,99,STAPLES Center,18997,/boxscores/200711290LAL.html
+Fri Nov 30 2007,Philadelphia 76ers,Washington Wizards,85,84,Wachovia Center,10718,/boxscores/200711300PHI.html
+Fri Nov 30 2007,Toronto Raptors,Cleveland Cavaliers,91,82,Air Canada Centre,19800,/boxscores/200711300TOR.html
+Fri Nov 30 2007,Atlanta Hawks,New Orleans Hornets,86,92,Philips Arena,14186,/boxscores/200711300ATL.html
+Fri Nov 30 2007,New York Knicks,Milwaukee Bucks,91,88,Madison Square Garden (IV),18979,/boxscores/200711300NYK.html
+Fri Nov 30 2007,Miami Heat,Boston Celtics,85,95,AmericanAirlines Arena,20022,/boxscores/200711300MIA.html
+Fri Nov 30 2007,Minnesota Timberwolves,San Antonio Spurs,91,106,Target Center,16297,/boxscores/200711300MIN.html
+Fri Nov 30 2007,Dallas Mavericks,Portland Trail Blazers,91,80,American Airlines Center,20301,/boxscores/200711300DAL.html
+Fri Nov 30 2007,Phoenix Suns,Orlando Magic,110,106,US Airways Center,18422,/boxscores/200711300PHO.html
+Fri Nov 30 2007,Denver Nuggets,Los Angeles Clippers,123,107,Pepsi Center,14230,/boxscores/200711300DEN.html
+Fri Nov 30 2007,Seattle SuperSonics,Indiana Pacers,95,93,KeyArena at Seattle Center,14786,/boxscores/200711300SEA.html
+Fri Nov 30 2007,Utah Jazz,Los Angeles Lakers,120,96,EnergySolutions Arena,19911,/boxscores/200711300UTA.html

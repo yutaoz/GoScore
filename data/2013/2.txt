@@ -1,0 +1,181 @@
+Fri Feb 1 2013,Indiana Pacers,Miami Heat,102,89,Bankers Life Fieldhouse,18165,/boxscores/201302010IND.html
+Fri Feb 1 2013,Toronto Raptors,Los Angeles Clippers,98,73,Air Canada Centre,19800,/boxscores/201302010TOR.html
+Fri Feb 1 2013,Boston Celtics,Orlando Magic,97,84,TD Garden,18624,/boxscores/201302010BOS.html
+Fri Feb 1 2013,Brooklyn Nets,Chicago Bulls,93,89,Barclays Center,17732,/boxscores/201302010BRK.html
+Fri Feb 1 2013,Detroit Pistons,Cleveland Cavaliers,117,99,The Palace of Auburn Hills,15693,/boxscores/201302010DET.html
+Fri Feb 1 2013,New York Knicks,Milwaukee Bucks,96,86,Madison Square Garden (IV),19033,/boxscores/201302010NYK.html
+Fri Feb 1 2013,Philadelphia 76ers,Sacramento Kings,89,80,Wells Fargo Center,17927,/boxscores/201302010PHI.html
+Fri Feb 1 2013,Memphis Grizzlies,Washington Wizards,85,76,FedEx Forum,15017,/boxscores/201302010MEM.html
+Fri Feb 1 2013,Denver Nuggets,New Orleans Hornets,113,98,Pepsi Center,17221,/boxscores/201302010DEN.html
+Fri Feb 1 2013,Phoenix Suns,Dallas Mavericks,99,109,US Airways Center,16304,/boxscores/201302010PHO.html
+Fri Feb 1 2013,Utah Jazz,Portland Trail Blazers,86,77,EnergySolutions Arena,19512,/boxscores/201302010UTA.html
+Fri Feb 1 2013,Minnesota Timberwolves,Los Angeles Lakers,100,111,Target Center,18547,/boxscores/201302010MIN.html
+Sat Feb 2 2013,Atlanta Hawks,Chicago Bulls,76,93,Philips Arena,17898,/boxscores/201302020ATL.html
+Sat Feb 2 2013,Cleveland Cavaliers,Oklahoma City Thunder,115,110,Quicken Loans Arena,20562,/boxscores/201302020CLE.html
+Sat Feb 2 2013,New York Knicks,Sacramento Kings,120,81,Madison Square Garden (IV),19033,/boxscores/201302020NYK.html
+Sat Feb 2 2013,Houston Rockets,Charlotte Bobcats,109,95,Toyota Center,15494,/boxscores/201302020HOU.html
+Sat Feb 2 2013,Minnesota Timberwolves,New Orleans Hornets,115,86,Target Center,16289,/boxscores/201302020MIN.html
+Sat Feb 2 2013,Milwaukee Bucks,Orlando Magic,107,98,BMO Harris Bradley Center,14321,/boxscores/201302020MIL.html
+Sat Feb 2 2013,San Antonio Spurs,Washington Wizards,96,86,AT&T Center,18581,/boxscores/201302020SAS.html
+Sat Feb 2 2013,Portland Trail Blazers,Utah Jazz,105,99,Rose Garden Arena,20376,/boxscores/201302020POR.html
+Sat Feb 2 2013,Golden State Warriors,Phoenix Suns,113,93,Oracle Arena,19596,/boxscores/201302020GSW.html
+Sun Feb 3 2013,Boston Celtics,Los Angeles Clippers,106,104,TD Garden,18624,/boxscores/201302030BOS.html
+Sun Feb 3 2013,Detroit Pistons,Los Angeles Lakers,97,98,The Palace of Auburn Hills,18157,/boxscores/201302030DET.html
+Sun Feb 3 2013,Toronto Raptors,Miami Heat,85,100,Air Canada Centre,19800,/boxscores/201302030TOR.html
+Mon Feb 4 2013,Indiana Pacers,Chicago Bulls,111,101,Bankers Life Fieldhouse,18165,/boxscores/201302040IND.html
+Mon Feb 4 2013,Philadelphia 76ers,Orlando Magic,78,61,Wells Fargo Center,14630,/boxscores/201302040PHI.html
+Mon Feb 4 2013,Washington Wizards,Los Angeles Clippers,98,90,Verizon Center,16246,/boxscores/201302040WAS.html
+Mon Feb 4 2013,Miami Heat,Charlotte Bobcats,99,94,AmericanAirlines Arena,19600,/boxscores/201302040MIA.html
+Mon Feb 4 2013,New York Knicks,Detroit Pistons,99,85,Madison Square Garden (IV),19033,/boxscores/201302040NYK.html
+Mon Feb 4 2013,Minnesota Timberwolves,Portland Trail Blazers,98,100,Target Center,13446,/boxscores/201302040MIN.html
+Mon Feb 4 2013,Oklahoma City Thunder,Dallas Mavericks,112,91,Chesapeake Energy Arena,18203,/boxscores/201302040OKC.html
+Mon Feb 4 2013,Utah Jazz,Sacramento Kings,98,91,EnergySolutions Arena,17742,/boxscores/201302040UTA.html
+Tue Feb 5 2013,Indiana Pacers,Atlanta Hawks,114,103,Bankers Life Fieldhouse,12578,/boxscores/201302050IND.html
+Tue Feb 5 2013,Brooklyn Nets,Los Angeles Lakers,83,92,Barclays Center,17732,/boxscores/201302050BRK.html
+Tue Feb 5 2013,Houston Rockets,Golden State Warriors,140,109,Toyota Center,15453,/boxscores/201302050HOU.html
+Tue Feb 5 2013,Memphis Grizzlies,Phoenix Suns,90,96,FedEx Forum,14933,/boxscores/201302050MEM.html
+Tue Feb 5 2013,Denver Nuggets,Milwaukee Bucks,112,104,Pepsi Center,15272,/boxscores/201302050DEN.html
+Wed Feb 6 2013,Cleveland Cavaliers,Charlotte Bobcats,122,95,Quicken Loans Arena,13264,/boxscores/201302060CLE.html
+Wed Feb 6 2013,Orlando Magic,Los Angeles Clippers,76,86,Amway Center,17995,/boxscores/201302060ORL.html
+Wed Feb 6 2013,Philadelphia 76ers,Indiana Pacers,69,88,Wells Fargo Center,15299,/boxscores/201302060PHI.html
+Wed Feb 6 2013,Toronto Raptors,Boston Celtics,95,99,Air Canada Centre,17163,/boxscores/201302060TOR.html
+Wed Feb 6 2013,Washington Wizards,New York Knicks,106,96,Verizon Center,18263,/boxscores/201302060WAS.html
+Wed Feb 6 2013,Atlanta Hawks,Memphis Grizzlies,103,92,Philips Arena,13198,/boxscores/201302060ATL.html
+Wed Feb 6 2013,Detroit Pistons,Brooklyn Nets,90,93,The Palace of Auburn Hills,12576,/boxscores/201302060DET.html
+Wed Feb 6 2013,Miami Heat,Houston Rockets,114,108,AmericanAirlines Arena,19693,/boxscores/201302060MIA.html
+Wed Feb 6 2013,New Orleans Hornets,Phoenix Suns,93,84,New Orleans Arena,12148,/boxscores/201302060NOH.html
+Wed Feb 6 2013,Oklahoma City Thunder,Golden State Warriors,119,98,Chesapeake Energy Arena,18203,/boxscores/201302060OKC.html
+Wed Feb 6 2013,Dallas Mavericks,Portland Trail Blazers,105,99,American Airlines Center,19746,/boxscores/201302060DAL.html
+Wed Feb 6 2013,Minnesota Timberwolves,San Antonio Spurs,94,104,Target Center,15224,/boxscores/201302060MIN.html
+Wed Feb 6 2013,Utah Jazz,Milwaukee Bucks,100,86,EnergySolutions Arena,18571,/boxscores/201302060UTA.html
+Thu Feb 7 2013,Boston Celtics,Los Angeles Lakers,116,95,TD Garden,18624,/boxscores/201302070BOS.html
+Thu Feb 7 2013,Denver Nuggets,Chicago Bulls,128,96,Pepsi Center,19325,/boxscores/201302070DEN.html
+Fri Feb 8 2013,Charlotte Bobcats,Los Angeles Lakers,93,100,Time Warner Cable Arena,19624,/boxscores/201302080CHA.html
+Fri Feb 8 2013,Indiana Pacers,Toronto Raptors,98,100,Bankers Life Fieldhouse,16253,/boxscores/201302080IND.html
+Fri Feb 8 2013,Washington Wizards,Brooklyn Nets,89,74,Verizon Center,19614,/boxscores/201302080WAS.html
+Fri Feb 8 2013,Atlanta Hawks,New Orleans Hornets,100,111,Philips Arena,14022,/boxscores/201302080ATL.html
+Fri Feb 8 2013,Cleveland Cavaliers,Orlando Magic,119,108,Quicken Loans Arena,14073,/boxscores/201302080CLE.html
+Fri Feb 8 2013,Detroit Pistons,San Antonio Spurs,119,109,The Palace of Auburn Hills,16267,/boxscores/201302080DET.html
+Fri Feb 8 2013,Houston Rockets,Portland Trail Blazers,118,103,Toyota Center,15655,/boxscores/201302080HOU.html
+Fri Feb 8 2013,Memphis Grizzlies,Golden State Warriors,99,93,FedEx Forum,16701,/boxscores/201302080MEM.html
+Fri Feb 8 2013,Miami Heat,Los Angeles Clippers,111,89,AmericanAirlines Arena,19902,/boxscores/201302080MIA.html
+Fri Feb 8 2013,Minnesota Timberwolves,New York Knicks,94,100,Target Center,16542,/boxscores/201302080MIN.html
+Fri Feb 8 2013,Oklahoma City Thunder,Phoenix Suns,127,96,Chesapeake Energy Arena,18203,/boxscores/201302080OKC.html
+Fri Feb 8 2013,Utah Jazz,Chicago Bulls,89,93,EnergySolutions Arena,19911,/boxscores/201302080UTA.html
+Sat Feb 9 2013,Cleveland Cavaliers,Denver Nuggets,103,111,Quicken Loans Arena,20562,/boxscores/201302090CLE.html
+Sat Feb 9 2013,Philadelphia 76ers,Charlotte Bobcats,87,76,Wells Fargo Center,15048,/boxscores/201302090PHI.html
+Sat Feb 9 2013,Dallas Mavericks,Golden State Warriors,116,91,American Airlines Center,20355,/boxscores/201302090DAL.html
+Sat Feb 9 2013,Milwaukee Bucks,Detroit Pistons,100,105,BMO Harris Bradley Center,15511,/boxscores/201302090MIL.html
+Sat Feb 9 2013,Sacramento Kings,Utah Jazz,120,109,Sleep Train Arena,16193,/boxscores/201302090SAC.html
+Sun Feb 10 2013,New York Knicks,Los Angeles Clippers,88,102,Madison Square Garden (IV),19033,/boxscores/201302100NYK.html
+Sun Feb 10 2013,Miami Heat,Los Angeles Lakers,107,97,AmericanAirlines Arena,20300,/boxscores/201302100MIA.html
+Sun Feb 10 2013,Boston Celtics,Denver Nuggets,118,114,TD Garden,18624,/boxscores/201302100BOS.html
+Sun Feb 10 2013,Memphis Grizzlies,Minnesota Timberwolves,105,88,FedEx Forum,16023,/boxscores/201302100MEM.html
+Sun Feb 10 2013,Orlando Magic,Portland Trail Blazers,110,104,Amway Center,17966,/boxscores/201302100ORL.html
+Sun Feb 10 2013,Toronto Raptors,New Orleans Hornets,102,89,Air Canada Centre,17177,/boxscores/201302100TOR.html
+Sun Feb 10 2013,Brooklyn Nets,San Antonio Spurs,86,111,Barclays Center,17014,/boxscores/201302100BRK.html
+Sun Feb 10 2013,Phoenix Suns,Oklahoma City Thunder,69,97,US Airways Center,16773,/boxscores/201302100PHO.html
+Sun Feb 10 2013,Sacramento Kings,Houston Rockets,117,111,Sleep Train Arena,15526,/boxscores/201302100SAC.html
+Mon Feb 11 2013,Charlotte Bobcats,Boston Celtics,94,91,Time Warner Cable Arena,15709,/boxscores/201302110CHA.html
+Mon Feb 11 2013,Cleveland Cavaliers,Minnesota Timberwolves,92,100,Quicken Loans Arena,11556,/boxscores/201302110CLE.html
+Mon Feb 11 2013,Indiana Pacers,Brooklyn Nets,84,89,Bankers Life Fieldhouse,11672,/boxscores/201302110IND.html
+Mon Feb 11 2013,Philadelphia 76ers,Los Angeles Clippers,90,107,Wells Fargo Center,17550,/boxscores/201302110PHI.html
+Mon Feb 11 2013,Detroit Pistons,New Orleans Hornets,86,105,The Palace of Auburn Hills,10177,/boxscores/201302110DET.html
+Mon Feb 11 2013,Chicago Bulls,San Antonio Spurs,89,103,United Center,21955,/boxscores/201302110CHI.html
+Mon Feb 11 2013,Milwaukee Bucks,Washington Wizards,90,102,BMO Harris Bradley Center,13842,/boxscores/201302110MIL.html
+Mon Feb 11 2013,Dallas Mavericks,Atlanta Hawks,101,105,American Airlines Center,19654,/boxscores/201302110DAL.html
+Tue Feb 12 2013,Toronto Raptors,Denver Nuggets,109,108,Air Canada Centre,16738,/boxscores/201302120TOR.html
+Tue Feb 12 2013,Miami Heat,Portland Trail Blazers,117,104,AmericanAirlines Arena,20032,/boxscores/201302120MIA.html
+Tue Feb 12 2013,Memphis Grizzlies,Sacramento Kings,108,101,FedEx Forum,14722,/boxscores/201302120MEM.html
+Tue Feb 12 2013,Utah Jazz,Oklahoma City Thunder,109,94,EnergySolutions Arena,18552,/boxscores/201302120UTA.html
+Tue Feb 12 2013,Golden State Warriors,Houston Rockets,107,116,Oracle Arena,19596,/boxscores/201302120GSW.html
+Tue Feb 12 2013,Los Angeles Lakers,Phoenix Suns,91,85,STAPLES Center,18997,/boxscores/201302120LAL.html
+Wed Feb 13 2013,Cleveland Cavaliers,San Antonio Spurs,95,96,Quicken Loans Arena,12162,/boxscores/201302130CLE.html
+Wed Feb 13 2013,Indiana Pacers,Charlotte Bobcats,101,77,Bankers Life Fieldhouse,11707,/boxscores/201302130IND.html
+Wed Feb 13 2013,Orlando Magic,Atlanta Hawks,76,108,Amway Center,17649,/boxscores/201302130ORL.html
+Wed Feb 13 2013,Boston Celtics,Chicago Bulls,71,69,TD Garden,18624,/boxscores/201302130BOS.html
+Wed Feb 13 2013,Brooklyn Nets,Denver Nuggets,119,108,Barclays Center,17251,/boxscores/201302130BRK.html
+Wed Feb 13 2013,Detroit Pistons,Washington Wizards,96,85,The Palace of Auburn Hills,11095,/boxscores/201302130DET.html
+Wed Feb 13 2013,New York Knicks,Toronto Raptors,88,92,Madison Square Garden (IV),19033,/boxscores/201302130NYK.html
+Wed Feb 13 2013,Milwaukee Bucks,Philadelphia 76ers,94,92,BMO Harris Bradley Center,15114,/boxscores/201302130MIL.html
+Wed Feb 13 2013,Minnesota Timberwolves,Utah Jazz,93,97,Target Center,13117,/boxscores/201302130MIN.html
+Wed Feb 13 2013,New Orleans Hornets,Portland Trail Blazers,99,63,New Orleans Arena,11656,/boxscores/201302130NOH.html
+Wed Feb 13 2013,Dallas Mavericks,Sacramento Kings,123,100,American Airlines Center,19892,/boxscores/201302130DAL.html
+Wed Feb 13 2013,Los Angeles Clippers,Houston Rockets,106,96,STAPLES Center,19251,/boxscores/201302130LAC.html
+Thu Feb 14 2013,Oklahoma City Thunder,Miami Heat,100,110,Chesapeake Energy Arena,18203,/boxscores/201302140OKC.html
+Thu Feb 14 2013,Los Angeles Lakers,Los Angeles Clippers,101,125,STAPLES Center,18997,/boxscores/201302140LAL.html
+Tue Feb 19 2013,Orlando Magic,Charlotte Bobcats,92,105,Amway Center,17037,/boxscores/201302190ORL.html
+Tue Feb 19 2013,Washington Wizards,Toronto Raptors,88,96,Verizon Center,13923,/boxscores/201302190WAS.html
+Tue Feb 19 2013,Brooklyn Nets,Milwaukee Bucks,113,111,Barclays Center,17334,/boxscores/201302190BRK.html
+Tue Feb 19 2013,Detroit Pistons,Memphis Grizzlies,91,105,The Palace of Auburn Hills,13481,/boxscores/201302190DET.html
+Tue Feb 19 2013,New Orleans Hornets,Chicago Bulls,87,96,New Orleans Arena,13612,/boxscores/201302190NOH.html
+Tue Feb 19 2013,Denver Nuggets,Boston Celtics,97,90,Pepsi Center,19155,/boxscores/201302190DEN.html
+Tue Feb 19 2013,Utah Jazz,Golden State Warriors,115,101,EnergySolutions Arena,18231,/boxscores/201302190UTA.html
+Tue Feb 19 2013,Portland Trail Blazers,Phoenix Suns,98,102,Rose Garden Arena,20499,/boxscores/201302190POR.html
+Tue Feb 19 2013,Sacramento Kings,San Antonio Spurs,102,108,Sleep Train Arena,14940,/boxscores/201302190SAC.html
+Wed Feb 20 2013,Charlotte Bobcats,Detroit Pistons,99,105,Time Warner Cable Arena,13112,/boxscores/201302200CHA.html
+Wed Feb 20 2013,Indiana Pacers,New York Knicks,125,91,Bankers Life Fieldhouse,16123,/boxscores/201302200IND.html
+Wed Feb 20 2013,Toronto Raptors,Memphis Grizzlies,82,88,Air Canada Centre,19800,/boxscores/201302200TOR.html
+Wed Feb 20 2013,Atlanta Hawks,Miami Heat,90,103,Philips Arena,18238,/boxscores/201302200ATL.html
+Wed Feb 20 2013,Cleveland Cavaliers,New Orleans Hornets,105,100,Quicken Loans Arena,16103,/boxscores/201302200CLE.html
+Wed Feb 20 2013,Houston Rockets,Oklahoma City Thunder,122,119,Toyota Center,18224,/boxscores/201302200HOU.html
+Wed Feb 20 2013,Milwaukee Bucks,Brooklyn Nets,94,97,BMO Harris Bradley Center,14563,/boxscores/201302200MIL.html
+Wed Feb 20 2013,Minnesota Timberwolves,Philadelphia 76ers,94,87,Target Center,14439,/boxscores/201302200MIN.html
+Wed Feb 20 2013,Dallas Mavericks,Orlando Magic,111,96,American Airlines Center,19965,/boxscores/201302200DAL.html
+Wed Feb 20 2013,Golden State Warriors,Phoenix Suns,108,98,Oracle Arena,19596,/boxscores/201302200GSW.html
+Wed Feb 20 2013,Los Angeles Lakers,Boston Celtics,113,99,STAPLES Center,18997,/boxscores/201302200LAL.html
+Thu Feb 21 2013,Chicago Bulls,Miami Heat,67,86,United Center,22640,/boxscores/201302210CHI.html
+Thu Feb 21 2013,Los Angeles Clippers,San Antonio Spurs,90,116,STAPLES Center,19343,/boxscores/201302210LAC.html
+Fri Feb 22 2013,Charlotte Bobcats,Chicago Bulls,75,105,Time Warner Cable Arena,17870,/boxscores/201302220CHA.html
+Fri Feb 22 2013,Indiana Pacers,Detroit Pistons,114,82,Bankers Life Fieldhouse,17750,/boxscores/201302220IND.html
+Fri Feb 22 2013,Toronto Raptors,New York Knicks,100,98,Air Canada Centre,19800,/boxscores/201302220TOR.html
+Fri Feb 22 2013,Washington Wizards,Denver Nuggets,119,113,Verizon Center,16527,/boxscores/201302220WAS.html
+Fri Feb 22 2013,Atlanta Hawks,Sacramento Kings,122,108,Philips Arena,15031,/boxscores/201302220ATL.html
+Fri Feb 22 2013,Brooklyn Nets,Houston Rockets,96,106,Barclays Center,17732,/boxscores/201302220BRK.html
+Fri Feb 22 2013,Memphis Grizzlies,Orlando Magic,88,82,FedEx Forum,17669,/boxscores/201302220MEM.html
+Fri Feb 22 2013,New Orleans Hornets,Dallas Mavericks,100,104,New Orleans Arena,16538,/boxscores/201302220NOH.html
+Fri Feb 22 2013,Oklahoma City Thunder,Minnesota Timberwolves,127,111,Chesapeake Energy Arena,18203,/boxscores/201302220OKC.html
+Fri Feb 22 2013,Phoenix Suns,Boston Celtics,88,113,US Airways Center,18422,/boxscores/201302220PHO.html
+Fri Feb 22 2013,Golden State Warriors,San Antonio Spurs,107,101,Oracle Arena,19596,/boxscores/201302220GSW.html
+Fri Feb 22 2013,Los Angeles Lakers,Portland Trail Blazers,111,107,STAPLES Center,18997,/boxscores/201302220LAL.html
+Sat Feb 23 2013,Charlotte Bobcats,Denver Nuggets,99,113,Time Warner Cable Arena,18481,/boxscores/201302230CHA.html
+Sat Feb 23 2013,Orlando Magic,Cleveland Cavaliers,94,118,Amway Center,17171,/boxscores/201302230ORL.html
+Sat Feb 23 2013,Washington Wizards,Houston Rockets,105,103,Verizon Center,20308,/boxscores/201302230WAS.html
+Sat Feb 23 2013,Detroit Pistons,Indiana Pacers,72,90,The Palace of Auburn Hills,17509,/boxscores/201302230DET.html
+Sat Feb 23 2013,Philadelphia 76ers,Miami Heat,90,114,Wells Fargo Center,20665,/boxscores/201302230PHI.html
+Sat Feb 23 2013,Milwaukee Bucks,Atlanta Hawks,102,103,BMO Harris Bradley Center,18289,/boxscores/201302230MIL.html
+Sat Feb 23 2013,Los Angeles Clippers,Utah Jazz,107,94,STAPLES Center,19165,/boxscores/201302230LAC.html
+Sun Feb 24 2013,Dallas Mavericks,Los Angeles Lakers,99,103,American Airlines Center,20440,/boxscores/201302240DAL.html
+Sun Feb 24 2013,Minnesota Timberwolves,Golden State Warriors,99,100,Target Center,18033,/boxscores/201302240MIN.html
+Sun Feb 24 2013,Miami Heat,Cleveland Cavaliers,109,105,AmericanAirlines Arena,20006,/boxscores/201302240MIA.html
+Sun Feb 24 2013,New Orleans Hornets,Sacramento Kings,110,95,New Orleans Arena,12788,/boxscores/201302240NOH.html
+Sun Feb 24 2013,Brooklyn Nets,Memphis Grizzlies,72,76,Barclays Center,17098,/boxscores/201302240BRK.html
+Sun Feb 24 2013,New York Knicks,Philadelphia 76ers,99,93,Madison Square Garden (IV),19033,/boxscores/201302240NYK.html
+Sun Feb 24 2013,Phoenix Suns,San Antonio Spurs,87,97,US Airways Center,14923,/boxscores/201302240PHO.html
+Sun Feb 24 2013,Portland Trail Blazers,Boston Celtics,92,86,Rose Garden Arena,20484,/boxscores/201302240POR.html
+Sun Feb 24 2013,Oklahoma City Thunder,Chicago Bulls,102,72,Chesapeake Energy Arena,18203,/boxscores/201302240OKC.html
+Mon Feb 25 2013,Toronto Raptors,Washington Wizards,84,90,Air Canada Centre,16705,/boxscores/201302250TOR.html
+Mon Feb 25 2013,Detroit Pistons,Atlanta Hawks,103,114,The Palace of Auburn Hills,12417,/boxscores/201302250DET.html
+Mon Feb 25 2013,Denver Nuggets,Los Angeles Lakers,119,108,Pepsi Center,19155,/boxscores/201302250DEN.html
+Mon Feb 25 2013,Utah Jazz,Boston Celtics,107,110,EnergySolutions Arena,19911,/boxscores/201302250UTA.html
+Tue Feb 26 2013,Indiana Pacers,Golden State Warriors,108,97,Bankers Life Fieldhouse,14426,/boxscores/201302260IND.html
+Tue Feb 26 2013,Philadelphia 76ers,Orlando Magic,84,98,Wells Fargo Center,18432,/boxscores/201302260PHI.html
+Tue Feb 26 2013,Miami Heat,Sacramento Kings,141,129,AmericanAirlines Arena,19734,/boxscores/201302260MIA.html
+Tue Feb 26 2013,Chicago Bulls,Cleveland Cavaliers,98,101,United Center,21501,/boxscores/201302260CHI.html
+Tue Feb 26 2013,New Orleans Hornets,Brooklyn Nets,97,101,New Orleans Arena,12651,/boxscores/201302260NOH.html
+Tue Feb 26 2013,Dallas Mavericks,Milwaukee Bucks,90,95,American Airlines Center,19870,/boxscores/201302260DAL.html
+Tue Feb 26 2013,Phoenix Suns,Minnesota Timberwolves,84,83,US Airways Center,14973,/boxscores/201302260PHO.html
+Tue Feb 26 2013,Los Angeles Clippers,Charlotte Bobcats,106,84,STAPLES Center,19060,/boxscores/201302260LAC.html
+Wed Feb 27 2013,Cleveland Cavaliers,Toronto Raptors,103,92,Quicken Loans Arena,13368,/boxscores/201302270CLE.html
+Wed Feb 27 2013,Orlando Magic,Sacramento Kings,101,125,Amway Center,16722,/boxscores/201302270ORL.html
+Wed Feb 27 2013,Washington Wizards,Detroit Pistons,95,96,Verizon Center,14298,/boxscores/201302270WAS.html
+Wed Feb 27 2013,Houston Rockets,Milwaukee Bucks,107,110,Toyota Center,15463,/boxscores/201302270HOU.html
+Wed Feb 27 2013,Memphis Grizzlies,Dallas Mavericks,90,84,FedEx Forum,16017,/boxscores/201302270MEM.html
+Wed Feb 27 2013,New York Knicks,Golden State Warriors,109,105,Madison Square Garden (IV),19033,/boxscores/201302270NYK.html
+Wed Feb 27 2013,Oklahoma City Thunder,New Orleans Hornets,119,74,Chesapeake Energy Arena,18203,/boxscores/201302270OKC.html
+Wed Feb 27 2013,San Antonio Spurs,Phoenix Suns,101,105,AT&T Center,17573,/boxscores/201302270SAS.html
+Wed Feb 27 2013,Utah Jazz,Atlanta Hawks,91,102,EnergySolutions Arena,19267,/boxscores/201302270UTA.html
+Wed Feb 27 2013,Portland Trail Blazers,Denver Nuggets,109,111,Rose Garden Arena,20077,/boxscores/201302270POR.html
+Thu Feb 28 2013,Indiana Pacers,Los Angeles Clippers,91,99,Bankers Life Fieldhouse,18165,/boxscores/201302280IND.html
+Thu Feb 28 2013,Chicago Bulls,Philadelphia 76ers,93,82,United Center,21576,/boxscores/201302280CHI.html
+Thu Feb 28 2013,Los Angeles Lakers,Minnesota Timberwolves,116,94,STAPLES Center,18997,/boxscores/201302280LAL.html

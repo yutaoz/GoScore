@@ -1,0 +1,74 @@
+Fri Dec 2 1966,Philadelphia 76ers,Los Angeles Lakers,138,130,Convention Hall,0,/boxscores/196612020PHI.html
+Fri Dec 2 1966,Boston Celtics,Detroit Pistons,116,119,Boston Garden,0,/boxscores/196612020BOS.html
+Fri Dec 2 1966,St. Louis Hawks,New York Knicks,109,107,Kiel Auditorium,0,/boxscores/196612020STL.html
+Sat Dec 3 1966,Baltimore Bullets,Philadelphia 76ers,120,137,Baltimore Civic Center,0,/boxscores/196612030BAL.html
+Sat Dec 3 1966,Cincinnati Royals,Los Angeles Lakers,118,130,Cincinnati Gardens,0,/boxscores/196612030CIN.html
+Sat Dec 3 1966,Detroit Pistons,Chicago Bulls,104,98,Cobo Arena,0,/boxscores/196612030DET.html
+Sat Dec 3 1966,New York Knicks,Boston Celtics,109,120,Madison Square Garden (III),0,/boxscores/196612030NYK.html
+Sat Dec 3 1966,San Francisco Warriors,St. Louis Hawks,123,111,San Francisco Civic Auditorium,0,/boxscores/196612030SFW.html
+Sun Dec 4 1966,Los Angeles Lakers,St. Louis Hawks,118,123,Los Angeles Memorial Sports Arena,0,/boxscores/196612040LAL.html
+Tue Dec 6 1966,Philadelphia 76ers,Chicago Bulls,129,119,Convention Hall,0,/boxscores/196612060PHI.html
+Tue Dec 6 1966,New York Knicks,San Francisco Warriors,116,126,Madison Square Garden (III),0,/boxscores/196612060NYK.html
+Tue Dec 6 1966,Boston Celtics,Detroit Pistons,130,111,Madison Square Garden (III),0,/boxscores/196612060BOS.html
+Wed Dec 7 1966,Baltimore Bullets,San Francisco Warriors,116,106,Baltimore Civic Center,0,/boxscores/196612070BAL.html
+Wed Dec 7 1966,Boston Celtics,Cincinnati Royals,119,91,Boston Garden,0,/boxscores/196612070BOS.html
+Wed Dec 7 1966,Chicago Bulls,Philadelphia 76ers,103,117,International Amphitheatre,0,/boxscores/196612070CHI.html
+Wed Dec 7 1966,Detroit Pistons,New York Knicks,116,118,Cobo Arena,0,/boxscores/196612070DET.html
+Wed Dec 7 1966,Los Angeles Lakers,St. Louis Hawks,130,128,Los Angeles Memorial Sports Arena,0,/boxscores/196612070LAL.html
+Thu Dec 8 1966,Baltimore Bullets,Chicago Bulls,120,132,Roberts Stadium,0,/boxscores/196612080BAL.html
+Thu Dec 8 1966,San Francisco Warriors,St. Louis Hawks,124,106,Arizona Veterans Memorial Coliseum,0,/boxscores/196612080SFW.html
+Fri Dec 9 1966,Cincinnati Royals,Boston Celtics,99,117,Cincinnati Gardens,0,/boxscores/196612090CIN.html
+Fri Dec 9 1966,Philadelphia 76ers,New York Knicks,112,107,Convention Hall,0,/boxscores/196612090PHI.html
+Fri Dec 9 1966,Los Angeles Lakers,San Francisco Warriors,118,119,Los Angeles Memorial Sports Arena,0,/boxscores/196612090LAL.html
+Sat Dec 10 1966,Boston Celtics,Chicago Bulls,125,110,Boston Garden,0,/boxscores/196612100BOS.html
+Sat Dec 10 1966,New York Knicks,Baltimore Bullets,138,129,Madison Square Garden (III),0,/boxscores/196612100NYK.html
+Sat Dec 10 1966,San Francisco Warriors,Cincinnati Royals,123,120,San Francisco Civic Auditorium,0,/boxscores/196612100SFW.html
+Sat Dec 10 1966,St. Louis Hawks,Philadelphia 76ers,123,133,Kiel Auditorium,0,/boxscores/196612100STL.html
+Sun Dec 11 1966,Boston Celtics,Philadelphia 76ers,117,103,Boston Garden,0,/boxscores/196612110BOS.html
+Sun Dec 11 1966,Los Angeles Lakers,Cincinnati Royals,119,118,Los Angeles Memorial Sports Arena,0,/boxscores/196612110LAL.html
+Tue Dec 13 1966,Baltimore Bullets,Chicago Bulls,122,94,Madison Square Garden (III),0,/boxscores/196612130BAL.html
+Tue Dec 13 1966,New York Knicks,Philadelphia 76ers,112,127,Madison Square Garden (III),0,/boxscores/196612130NYK.html
+Tue Dec 13 1966,San Francisco Warriors,Cincinnati Royals,112,126,San Francisco Civic Auditorium,0,/boxscores/196612130SFW.html
+Wed Dec 14 1966,Baltimore Bullets,New York Knicks,116,106,Baltimore Civic Center,0,/boxscores/196612140BAL.html
+Wed Dec 14 1966,Chicago Bulls,Detroit Pistons,93,87,Roberts Stadium,0,/boxscores/196612140CHI.html
+Wed Dec 14 1966,Los Angeles Lakers,Cincinnati Royals,124,126,Los Angeles Memorial Sports Arena,0,/boxscores/196612140LAL.html
+Thu Dec 15 1966,Boston Celtics,St. Louis Hawks,114,116,Rhode Island Auditorium,0,/boxscores/196612150BOS.html
+Fri Dec 16 1966,Philadelphia 76ers,St. Louis Hawks,124,113,Convention Hall,0,/boxscores/196612160PHI.html
+Fri Dec 16 1966,Chicago Bulls,Cincinnati Royals,128,120,Cleveland Arena,0,/boxscores/196612160CHI.html
+Fri Dec 16 1966,Detroit Pistons,Baltimore Bullets,113,121,Cobo Arena,0,/boxscores/196612160DET.html
+Sat Dec 17 1966,Detroit Pistons,Philadelphia 76ers,105,120,Onondaga War Memorial,0,/boxscores/196612170DET.html
+Sat Dec 17 1966,New York Knicks,St. Louis Hawks,116,114,Madison Square Garden (III),0,/boxscores/196612170NYK.html
+Sat Dec 17 1966,San Francisco Warriors,Boston Celtics,110,118,San Francisco Civic Auditorium,0,/boxscores/196612170SFW.html
+Sat Dec 17 1966,Baltimore Bullets,Chicago Bulls,106,110,Baltimore Civic Center,0,/boxscores/196612170BAL.html
+Sun Dec 18 1966,Cincinnati Royals,Baltimore Bullets,138,114,Cincinnati Gardens,0,/boxscores/196612180CIN.html
+Sun Dec 18 1966,Los Angeles Lakers,Boston Celtics,127,125,Los Angeles Memorial Sports Arena,0,/boxscores/196612180LAL.html
+Mon Dec 19 1966,Chicago Bulls,St. Louis Hawks,102,97,International Amphitheatre,0,/boxscores/196612190CHI.html
+Tue Dec 20 1966,Boston Celtics,Detroit Pistons,116,113,Convention Hall,0,/boxscores/196612200BOS.html
+Tue Dec 20 1966,San Francisco Warriors,Los Angeles Lakers,130,107,San Francisco Civic Auditorium,0,/boxscores/196612200SFW.html
+Wed Dec 21 1966,Baltimore Bullets,St. Louis Hawks,109,118,Baltimore Civic Center,0,/boxscores/196612210BAL.html
+Wed Dec 21 1966,Los Angeles Lakers,Philadelphia 76ers,123,129,Los Angeles Memorial Sports Arena,0,/boxscores/196612210LAL.html
+Wed Dec 21 1966,Chicago Bulls,New York Knicks,110,107,International Amphitheatre,0,/boxscores/196612210CHI.html
+Thu Dec 22 1966,San Francisco Warriors,Philadelphia 76ers,114,116,San Francisco Civic Auditorium,0,/boxscores/196612220SFW.html
+Fri Dec 23 1966,Boston Celtics,St. Louis Hawks,114,103,Boston Garden,0,/boxscores/196612230BOS.html
+Fri Dec 23 1966,Chicago Bulls,Detroit Pistons,102,103,International Amphitheatre,0,/boxscores/196612230CHI.html
+Fri Dec 23 1966,Los Angeles Lakers,Philadelphia 76ers,107,118,Los Angeles Memorial Sports Arena,0,/boxscores/196612230LAL.html
+Sun Dec 25 1966,New York Knicks,Chicago Bulls,133,132,Madison Square Garden (III),0,/boxscores/196612250NYK.html
+Sun Dec 25 1966,Cincinnati Royals,San Francisco Warriors,112,124,Cincinnati Gardens,0,/boxscores/196612250CIN.html
+Sun Dec 25 1966,Baltimore Bullets,Detroit Pistons,127,129,Baltimore Civic Center,0,/boxscores/196612250BAL.html
+Mon Dec 26 1966,Boston Celtics,Los Angeles Lakers,121,106,Boston Garden,0,/boxscores/196612260BOS.html
+Mon Dec 26 1966,Chicago Bulls,Baltimore Bullets,108,96,International Amphitheatre,0,/boxscores/196612260CHI.html
+Mon Dec 26 1966,Detroit Pistons,New York Knicks,109,114,Cobo Arena,0,/boxscores/196612260DET.html
+Mon Dec 26 1966,Philadelphia 76ers,Cincinnati Royals,134,118,Convention Hall,0,/boxscores/196612260PHI.html
+Mon Dec 26 1966,San Francisco Warriors,St. Louis Hawks,111,120,San Francisco Civic Auditorium,0,/boxscores/196612260SFW.html
+Tue Dec 27 1966,Cincinnati Royals,Detroit Pistons,131,123,Cincinnati Gardens,0,/boxscores/196612270CIN.html
+Tue Dec 27 1966,St. Louis Hawks,Baltimore Bullets,113,111,Kiel Auditorium,0,/boxscores/196612270STL.html
+Wed Dec 28 1966,New York Knicks,Los Angeles Lakers,121,115,Madison Square Garden (III),0,/boxscores/196612280NYK.html
+Wed Dec 28 1966,Philadelphia 76ers,Boston Celtics,113,108,Convention Hall,0,/boxscores/196612280PHI.html
+Wed Dec 28 1966,Baltimore Bullets,San Francisco Warriors,115,138,Baltimore Civic Center,0,/boxscores/196612280BAL.html
+Thu Dec 29 1966,Cincinnati Royals,Los Angeles Lakers,114,125,Cincinnati Gardens,0,/boxscores/196612290CIN.html
+Thu Dec 29 1966,St. Louis Hawks,Boston Celtics,110,112,Kiel Auditorium,0,/boxscores/196612290STL.html
+Fri Dec 30 1966,Baltimore Bullets,New York Knicks,115,130,Washington Coliseum,0,/boxscores/196612300BAL.html
+Fri Dec 30 1966,Chicago Bulls,Boston Celtics,106,110,International Amphitheatre,0,/boxscores/196612300CHI.html
+Fri Dec 30 1966,Cincinnati Royals,San Francisco Warriors,102,107,Cleveland Arena,0,/boxscores/196612300CIN.html
+Fri Dec 30 1966,Detroit Pistons,Philadelphia 76ers,113,137,War Memorial Coliseum,0,/boxscores/196612300DET.html
+Sat Dec 31 1966,New York Knicks,Cincinnati Royals,107,103,Madison Square Garden (III),0,/boxscores/196612310NYK.html

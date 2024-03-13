@@ -1,0 +1,38 @@
+Tue Oct 27 2009,Cleveland Cavaliers,Boston Celtics,89,95,Quicken Loans Arena,20562,/boxscores/200910270CLE.html
+Tue Oct 27 2009,Dallas Mavericks,Washington Wizards,91,102,American Airlines Center,19871,/boxscores/200910270DAL.html
+Tue Oct 27 2009,Portland Trail Blazers,Houston Rockets,96,87,Rose Garden Arena,20403,/boxscores/200910270POR.html
+Tue Oct 27 2009,Los Angeles Lakers,Los Angeles Clippers,99,92,STAPLES Center,18997,/boxscores/200910270LAL.html
+Wed Oct 28 2009,Atlanta Hawks,Indiana Pacers,120,109,Philips Arena,17998,/boxscores/200910280ATL.html
+Wed Oct 28 2009,Toronto Raptors,Cleveland Cavaliers,101,91,Air Canada Centre,20152,/boxscores/200910280TOR.html
+Wed Oct 28 2009,Orlando Magic,Philadelphia 76ers,120,106,Amway Arena,17461,/boxscores/200910280ORL.html
+Wed Oct 28 2009,Boston Celtics,Charlotte Bobcats,92,59,TD Garden,18624,/boxscores/200910280BOS.html
+Wed Oct 28 2009,Miami Heat,New York Knicks,115,93,AmericanAirlines Arena,19600,/boxscores/200910280MIA.html
+Wed Oct 28 2009,Oklahoma City Thunder,Sacramento Kings,102,89,Oklahoma City Arena,18203,/boxscores/200910280OKC.html
+Wed Oct 28 2009,San Antonio Spurs,New Orleans Hornets,113,96,AT&T Center,18581,/boxscores/200910280SAS.html
+Wed Oct 28 2009,Minnesota Timberwolves,New Jersey Nets,95,93,Target Center,18358,/boxscores/200910280MIN.html
+Wed Oct 28 2009,Memphis Grizzlies,Detroit Pistons,74,96,FedEx Forum,17212,/boxscores/200910280MEM.html
+Wed Oct 28 2009,Los Angeles Clippers,Phoenix Suns,107,109,STAPLES Center,15974,/boxscores/200910280LAC.html
+Wed Oct 28 2009,Golden State Warriors,Houston Rockets,107,108,Oracle Arena,19596,/boxscores/200910280GSW.html
+Wed Oct 28 2009,Denver Nuggets,Utah Jazz,114,105,Pepsi Center,19155,/boxscores/200910280DEN.html
+Thu Oct 29 2009,Chicago Bulls,San Antonio Spurs,92,85,United Center,21412,/boxscores/200910290CHI.html
+Thu Oct 29 2009,Portland Trail Blazers,Denver Nuggets,94,97,Rose Garden Arena,20218,/boxscores/200910290POR.html
+Fri Oct 30 2009,Charlotte Bobcats,New York Knicks,102,100,Time Warner Cable Arena,18624,/boxscores/200910300CHA.html
+Fri Oct 30 2009,Philadelphia 76ers,Milwaukee Bucks,99,86,Wachovia Center,14638,/boxscores/200910300PHI.html
+Fri Oct 30 2009,Atlanta Hawks,Washington Wizards,100,89,Philips Arena,17079,/boxscores/200910300ATL.html
+Fri Oct 30 2009,Boston Celtics,Chicago Bulls,118,90,TD Garden,18624,/boxscores/200910300BOS.html
+Fri Oct 30 2009,New Orleans Hornets,Sacramento Kings,97,92,New Orleans Arena,17306,/boxscores/200910300NOH.html
+Fri Oct 30 2009,New Jersey Nets,Orlando Magic,85,95,Izod Center,17525,/boxscores/200910300NJN.html
+Fri Oct 30 2009,Minnesota Timberwolves,Cleveland Cavaliers,87,104,Target Center,19356,/boxscores/200910300MIN.html
+Fri Oct 30 2009,Memphis Grizzlies,Toronto Raptors,115,107,FedEx Forum,10563,/boxscores/200910300MEM.html
+Fri Oct 30 2009,Indiana Pacers,Miami Heat,83,96,Conseco Fieldhouse,18165,/boxscores/200910300IND.html
+Fri Oct 30 2009,Detroit Pistons,Oklahoma City Thunder,83,91,The Palace of Auburn Hills,22076,/boxscores/200910300DET.html
+Fri Oct 30 2009,Utah Jazz,Los Angeles Clippers,111,98,EnergySolutions Arena,19911,/boxscores/200910300UTA.html
+Fri Oct 30 2009,Phoenix Suns,Golden State Warriors,123,101,US Airways Center,18422,/boxscores/200910300PHO.html
+Fri Oct 30 2009,Los Angeles Lakers,Dallas Mavericks,80,94,STAPLES Center,18997,/boxscores/200910300LAL.html
+Sat Oct 31 2009,Washington Wizards,New Jersey Nets,123,104,Verizon Center,20173,/boxscores/200910310WAS.html
+Sat Oct 31 2009,Cleveland Cavaliers,Charlotte Bobcats,90,79,Quicken Loans Arena,20562,/boxscores/200910310CLE.html
+Sat Oct 31 2009,New York Knicks,Philadelphia 76ers,127,141,Madison Square Garden (IV),19763,/boxscores/200910310NYK.html
+Sat Oct 31 2009,Houston Rockets,Portland Trail Blazers,111,107,Toyota Center,18100,/boxscores/200910310HOU.html
+Sat Oct 31 2009,Milwaukee Bucks,Detroit Pistons,96,85,Bradley Center,15095,/boxscores/200910310MIL.html
+Sat Oct 31 2009,San Antonio Spurs,Sacramento Kings,113,94,AT&T Center,16966,/boxscores/200910310SAS.html
+Sat Oct 31 2009,Los Angeles Clippers,Dallas Mavericks,84,93,STAPLES Center,13626,/boxscores/200910310LAC.html

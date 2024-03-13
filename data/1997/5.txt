@@ -1,0 +1,42 @@
+Thu May 1 1997,Phoenix Suns,Seattle SuperSonics,115,122,America West Arena,19023,/boxscores/199705010PHO.html
+Thu May 1 1997,Orlando Magic,Miami Heat,99,91,Orlando Arena,16555,/boxscores/199705010ORL.html
+Fri May 2 1997,Portland Trail Blazers,Los Angeles Lakers,91,95,Memorial Coliseum,21538,/boxscores/199705020POR.html
+Fri May 2 1997,Detroit Pistons,Atlanta Hawks,82,94,The Palace of Auburn Hills,21454,/boxscores/199705020DET.html
+Sat May 3 1997,Seattle SuperSonics,Phoenix Suns,116,92,KeyArena at Seattle Center,17072,/boxscores/199705030SEA.html
+Sun May 4 1997,Atlanta Hawks,Detroit Pistons,84,79,Omni Coliseum,16378,/boxscores/199705040ATL.html
+Sun May 4 1997,Miami Heat,Orlando Magic,91,83,Miami Arena,15200,/boxscores/199705040MIA.html
+Sun May 4 1997,Utah Jazz,Los Angeles Lakers,93,77,Delta Center,19911,/boxscores/199705040UTA.html
+Mon May 5 1997,Houston Rockets,Seattle SuperSonics,112,102,The Summit,16285,/boxscores/199705050HOU.html
+Tue May 6 1997,Chicago Bulls,Atlanta Hawks,100,97,United Center,24397,/boxscores/199705060CHI.html
+Tue May 6 1997,Utah Jazz,Los Angeles Lakers,103,101,Delta Center,19911,/boxscores/199705060UTA.html
+Wed May 7 1997,Houston Rockets,Seattle SuperSonics,101,106,The Summit,16285,/boxscores/199705070HOU.html
+Wed May 7 1997,Miami Heat,New York Knicks,79,88,Miami Arena,14870,/boxscores/199705070MIA.html
+Thu May 8 1997,Chicago Bulls,Atlanta Hawks,95,103,United Center,24544,/boxscores/199705080CHI.html
+Thu May 8 1997,Los Angeles Lakers,Utah Jazz,104,84,Great Western Forum,17505,/boxscores/199705080LAL.html
+Fri May 9 1997,Miami Heat,New York Knicks,88,84,Miami Arena,14870,/boxscores/199705090MIA.html
+Fri May 9 1997,Seattle SuperSonics,Houston Rockets,93,97,KeyArena at Seattle Center,17072,/boxscores/199705090SEA.html
+Sat May 10 1997,Atlanta Hawks,Chicago Bulls,80,100,Omni Coliseum,16378,/boxscores/199705100ATL.html
+Sat May 10 1997,Los Angeles Lakers,Utah Jazz,95,110,Great Western Forum,17505,/boxscores/199705100LAL.html
+Sun May 11 1997,Seattle SuperSonics,Houston Rockets,106,110,KeyArena at Seattle Center,17072,/boxscores/199705110SEA.html
+Sun May 11 1997,Atlanta Hawks,Chicago Bulls,80,89,Omni Coliseum,16378,/boxscores/199705110ATL.html
+Sun May 11 1997,New York Knicks,Miami Heat,77,73,Madison Square Garden (IV),19763,/boxscores/199705110NYK.html
+Mon May 12 1997,New York Knicks,Miami Heat,89,76,Madison Square Garden (IV),19763,/boxscores/199705120NYK.html
+Mon May 12 1997,Utah Jazz,Los Angeles Lakers,98,93,Delta Center,19911,/boxscores/199705120UTA.html
+Tue May 13 1997,Chicago Bulls,Atlanta Hawks,107,92,United Center,24544,/boxscores/199705130CHI.html
+Tue May 13 1997,Houston Rockets,Seattle SuperSonics,94,100,The Summit,16285,/boxscores/199705130HOU.html
+Wed May 14 1997,Miami Heat,New York Knicks,96,81,Miami Arena,14782,/boxscores/199705140MIA.html
+Thu May 15 1997,Seattle SuperSonics,Houston Rockets,99,96,KeyArena at Seattle Center,17072,/boxscores/199705150SEA.html
+Fri May 16 1997,New York Knicks,Miami Heat,90,95,Madison Square Garden (IV),19763,/boxscores/199705160NYK.html
+Sat May 17 1997,Houston Rockets,Seattle SuperSonics,96,91,The Summit,16285,/boxscores/199705170HOU.html
+Sun May 18 1997,Miami Heat,New York Knicks,101,90,Miami Arena,14870,/boxscores/199705180MIA.html
+Mon May 19 1997,Utah Jazz,Houston Rockets,101,86,Delta Center,19911,/boxscores/199705190UTA.html
+Tue May 20 1997,Chicago Bulls,Miami Heat,84,77,United Center,24544,/boxscores/199705200CHI.html
+Wed May 21 1997,Utah Jazz,Houston Rockets,104,92,Delta Center,19911,/boxscores/199705210UTA.html
+Thu May 22 1997,Chicago Bulls,Miami Heat,75,68,United Center,24544,/boxscores/199705220CHI.html
+Fri May 23 1997,Houston Rockets,Utah Jazz,118,100,The Summit,16285,/boxscores/199705230HOU.html
+Sat May 24 1997,Miami Heat,Chicago Bulls,74,98,Miami Arena,14720,/boxscores/199705240MIA.html
+Sun May 25 1997,Houston Rockets,Utah Jazz,95,92,The Summit,16285,/boxscores/199705250HOU.html
+Mon May 26 1997,Miami Heat,Chicago Bulls,87,80,Miami Arena,14720,/boxscores/199705260MIA.html
+Tue May 27 1997,Utah Jazz,Houston Rockets,96,91,Delta Center,19911,/boxscores/199705270UTA.html
+Wed May 28 1997,Chicago Bulls,Miami Heat,100,87,United Center,24544,/boxscores/199705280CHI.html
+Thu May 29 1997,Houston Rockets,Utah Jazz,100,103,The Summit,16285,/boxscores/199705290HOU.html

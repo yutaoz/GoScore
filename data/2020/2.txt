@@ -1,0 +1,168 @@
+Sat Feb 1 2020,Los Angeles Clippers,Minnesota Timberwolves,118,106,STAPLES Center,19068,/boxscores/202002010LAC.html
+Sat Feb 1 2020,Indiana Pacers,New York Knicks,85,92,Bankers Life Fieldhouse,17923,/boxscores/202002010IND.html
+Sat Feb 1 2020,Orlando Magic,Miami Heat,89,102,Amway Center,18846,/boxscores/202002010ORL.html
+Sat Feb 1 2020,Cleveland Cavaliers,Golden State Warriors,112,131,Rocket Mortgage Fieldhouse,18410,/boxscores/202002010CLE.html
+Sat Feb 1 2020,Washington Wizards,Brooklyn Nets,113,107,Capital One Arena,18196,/boxscores/202002010WAS.html
+Sat Feb 1 2020,Boston Celtics,Philadelphia 76ers,116,95,TD Garden,19156,/boxscores/202002010BOS.html
+Sat Feb 1 2020,Dallas Mavericks,Atlanta Hawks,123,100,American Airlines Center,20328,/boxscores/202002010DAL.html
+Sat Feb 1 2020,San Antonio Spurs,Charlotte Hornets,114,90,AT&T Center,18615,/boxscores/202002010SAS.html
+Sat Feb 1 2020,Sacramento Kings,Los Angeles Lakers,113,129,Golden 1 Center,17583,/boxscores/202002010SAC.html
+Sat Feb 1 2020,Portland Trail Blazers,Utah Jazz,124,107,Moda Center,19603,/boxscores/202002010POR.html
+Sun Feb 2 2020,Detroit Pistons,Denver Nuggets,128,123,Little Caesars Arena,15488,/boxscores/202002020DET.html
+Sun Feb 2 2020,Houston Rockets,New Orleans Pelicans,117,109,Toyota Center,18055,/boxscores/202002020HOU.html
+Sun Feb 2 2020,Milwaukee Bucks,Phoenix Suns,129,108,Fiserv Forum,17754,/boxscores/202002020MIL.html
+Sun Feb 2 2020,Toronto Raptors,Chicago Bulls,129,102,Scotiabank Arena,19800,/boxscores/202002020TOR.html
+Mon Feb 3 2020,Charlotte Hornets,Orlando Magic,100,112,Spectrum Center,12337,/boxscores/202002030CHO.html
+Mon Feb 3 2020,Cleveland Cavaliers,New York Knicks,134,139,Rocket Mortgage Fieldhouse,16303,/boxscores/202002030CLE.html
+Mon Feb 3 2020,Indiana Pacers,Dallas Mavericks,103,112,Bankers Life Fieldhouse,15086,/boxscores/202002030IND.html
+Mon Feb 3 2020,Washington Wizards,Golden State Warriors,117,125,Capital One Arena,17120,/boxscores/202002030WAS.html
+Mon Feb 3 2020,Atlanta Hawks,Boston Celtics,115,123,State Farm Arena,16231,/boxscores/202002030ATL.html
+Mon Feb 3 2020,Brooklyn Nets,Phoenix Suns,119,97,Barclays Center,14891,/boxscores/202002030BRK.html
+Mon Feb 3 2020,Miami Heat,Philadelphia 76ers,137,106,AmericanAirlines Arena,19725,/boxscores/202002030MIA.html
+Mon Feb 3 2020,Memphis Grizzlies,Detroit Pistons,96,82,FedEx Forum,14597,/boxscores/202002030MEM.html
+Mon Feb 3 2020,Sacramento Kings,Minnesota Timberwolves,113,109,Golden 1 Center,15819,/boxscores/202002030SAC.html
+Mon Feb 3 2020,Los Angeles Clippers,San Antonio Spurs,108,105,STAPLES Center,19068,/boxscores/202002030LAC.html
+Tue Feb 4 2020,New Orleans Pelicans,Milwaukee Bucks,108,120,Smoothie King Center,15424,/boxscores/202002040NOP.html
+Tue Feb 4 2020,Houston Rockets,Charlotte Hornets,125,110,Toyota Center,18055,/boxscores/202002040HOU.html
+Tue Feb 4 2020,Denver Nuggets,Portland Trail Blazers,127,99,Pepsi Center,19520,/boxscores/202002040DEN.html
+Tue Feb 4 2020,Los Angeles Lakers,San Antonio Spurs,129,102,STAPLES Center,18997,/boxscores/202002040LAL.html
+Wed Feb 5 2020,Detroit Pistons,Phoenix Suns,116,108,Little Caesars Arena,13707,/boxscores/202002050DET.html
+Wed Feb 5 2020,Boston Celtics,Orlando Magic,116,100,TD Garden,19156,/boxscores/202002050BOS.html
+Wed Feb 5 2020,Brooklyn Nets,Golden State Warriors,129,88,Barclays Center,14352,/boxscores/202002050BRK.html
+Wed Feb 5 2020,Toronto Raptors,Indiana Pacers,119,118,Scotiabank Arena,19800,/boxscores/202002050TOR.html
+Wed Feb 5 2020,Minnesota Timberwolves,Atlanta Hawks,120,127,Target Center,10779,/boxscores/202002050MIN.html
+Wed Feb 5 2020,Oklahoma City Thunder,Cleveland Cavaliers,109,103,Chesapeake Energy Arena,18203,/boxscores/202002050OKC.html
+Wed Feb 5 2020,Dallas Mavericks,Memphis Grizzlies,107,121,American Airlines Center,20069,/boxscores/202002050DAL.html
+Wed Feb 5 2020,Utah Jazz,Denver Nuggets,95,98,Vivint Smart Home Arena,18306,/boxscores/202002050UTA.html
+Wed Feb 5 2020,Los Angeles Clippers,Miami Heat,128,111,STAPLES Center,19068,/boxscores/202002050LAC.html
+Thu Feb 6 2020,New York Knicks,Orlando Magic,105,103,Madison Square Garden (IV),18895,/boxscores/202002060NYK.html
+Thu Feb 6 2020,Chicago Bulls,New Orleans Pelicans,119,125,United Center,18247,/boxscores/202002060CHI.html
+Thu Feb 6 2020,Milwaukee Bucks,Philadelphia 76ers,112,101,Fiserv Forum,17928,/boxscores/202002060MIL.html
+Thu Feb 6 2020,Portland Trail Blazers,San Antonio Spurs,125,117,Moda Center,19653,/boxscores/202002060POR.html
+Thu Feb 6 2020,Los Angeles Lakers,Houston Rockets,111,121,STAPLES Center,18997,/boxscores/202002060LAL.html
+Fri Feb 7 2020,Philadelphia 76ers,Memphis Grizzlies,119,107,Wells Fargo Center,20779,/boxscores/202002070PHI.html
+Fri Feb 7 2020,Washington Wizards,Dallas Mavericks,119,118,Capital One Arena,20476,/boxscores/202002070WAS.html
+Fri Feb 7 2020,Boston Celtics,Atlanta Hawks,112,107,TD Garden,19156,/boxscores/202002070BOS.html
+Fri Feb 7 2020,Indiana Pacers,Toronto Raptors,106,115,Bankers Life Fieldhouse,17028,/boxscores/202002070IND.html
+Fri Feb 7 2020,Oklahoma City Thunder,Detroit Pistons,108,101,Chesapeake Energy Arena,18203,/boxscores/202002070OKC.html
+Fri Feb 7 2020,Phoenix Suns,Houston Rockets,127,91,Talking Stick Resort Arena,17043,/boxscores/202002070PHO.html
+Fri Feb 7 2020,Sacramento Kings,Miami Heat,105,97,Golden 1 Center,16760,/boxscores/202002070SAC.html
+Fri Feb 7 2020,Utah Jazz,Portland Trail Blazers,117,114,Vivint Smart Home Arena,18306,/boxscores/202002070UTA.html
+Sat Feb 8 2020,Orlando Magic,Milwaukee Bucks,95,111,Amway Center,16632,/boxscores/202002080ORL.html
+Sat Feb 8 2020,Charlotte Hornets,Dallas Mavericks,100,116,Spectrum Center,19370,/boxscores/202002080CHO.html
+Sat Feb 8 2020,Detroit Pistons,New York Knicks,92,95,Little Caesars Arena,15980,/boxscores/202002080DET.html
+Sat Feb 8 2020,Indiana Pacers,New Orleans Pelicans,117,124,Bankers Life Fieldhouse,17923,/boxscores/202002080IND.html
+Sat Feb 8 2020,Toronto Raptors,Brooklyn Nets,119,118,Scotiabank Arena,19800,/boxscores/202002080TOR.html
+Sat Feb 8 2020,Minnesota Timberwolves,Los Angeles Clippers,142,115,Target Center,18978,/boxscores/202002080MIN.html
+Sat Feb 8 2020,Golden State Warriors,Los Angeles Lakers,120,125,Chase Center,18064,/boxscores/202002080GSW.html
+Sat Feb 8 2020,Phoenix Suns,Denver Nuggets,108,117,Talking Stick Resort Arena,16843,/boxscores/202002080PHO.html
+Sat Feb 8 2020,Sacramento Kings,San Antonio Spurs,122,102,Golden 1 Center,16756,/boxscores/202002080SAC.html
+Sun Feb 9 2020,Oklahoma City Thunder,Boston Celtics,111,112,Chesapeake Energy Arena,18203,/boxscores/202002090OKC.html
+Sun Feb 9 2020,Atlanta Hawks,New York Knicks,140,135,State Farm Arena,16309,/boxscores/202002090ATL.html
+Sun Feb 9 2020,Philadelphia 76ers,Chicago Bulls,118,111,Wells Fargo Center,21018,/boxscores/202002090PHI.html
+Sun Feb 9 2020,Washington Wizards,Memphis Grizzlies,99,106,Capital One Arena,17251,/boxscores/202002090WAS.html
+Sun Feb 9 2020,Houston Rockets,Utah Jazz,113,114,Toyota Center,18055,/boxscores/202002090HOU.html
+Sun Feb 9 2020,Cleveland Cavaliers,Los Angeles Clippers,92,133,Rocket Mortgage Fieldhouse,17240,/boxscores/202002090CLE.html
+Sun Feb 9 2020,Portland Trail Blazers,Miami Heat,115,109,Moda Center,19726,/boxscores/202002090POR.html
+Mon Feb 10 2020,Detroit Pistons,Charlotte Hornets,76,87,Little Caesars Arena,13941,/boxscores/202002100DET.html
+Mon Feb 10 2020,Indiana Pacers,Brooklyn Nets,105,106,Bankers Life Fieldhouse,16761,/boxscores/202002100IND.html
+Mon Feb 10 2020,Orlando Magic,Atlanta Hawks,135,126,Amway Center,17076,/boxscores/202002100ORL.html
+Mon Feb 10 2020,Toronto Raptors,Minnesota Timberwolves,137,126,Scotiabank Arena,19800,/boxscores/202002100TOR.html
+Mon Feb 10 2020,Milwaukee Bucks,Sacramento Kings,123,111,Fiserv Forum,17463,/boxscores/202002100MIL.html
+Mon Feb 10 2020,Dallas Mavericks,Utah Jazz,119,123,American Airlines Center,19793,/boxscores/202002100DAL.html
+Mon Feb 10 2020,Denver Nuggets,San Antonio Spurs,127,120,Pepsi Center,19520,/boxscores/202002100DEN.html
+Mon Feb 10 2020,Golden State Warriors,Miami Heat,101,113,Chase Center,18064,/boxscores/202002100GSW.html
+Mon Feb 10 2020,Los Angeles Lakers,Phoenix Suns,125,100,STAPLES Center,18997,/boxscores/202002100LAL.html
+Tue Feb 11 2020,Philadelphia 76ers,Los Angeles Clippers,110,103,Wells Fargo Center,20730,/boxscores/202002110PHI.html
+Tue Feb 11 2020,Washington Wizards,Chicago Bulls,126,114,Capital One Arena,15135,/boxscores/202002110WAS.html
+Tue Feb 11 2020,New Orleans Pelicans,Portland Trail Blazers,138,117,Smoothie King Center,15739,/boxscores/202002110NOP.html
+Tue Feb 11 2020,Oklahoma City Thunder,San Antonio Spurs,106,114,Chesapeake Energy Arena,18203,/boxscores/202002110OKC.html
+Tue Feb 11 2020,Houston Rockets,Boston Celtics,116,105,Toyota Center,18055,/boxscores/202002110HOU.html
+Wed Feb 12 2020,Cleveland Cavaliers,Atlanta Hawks,127,105,Rocket Mortgage Fieldhouse,16200,/boxscores/202002120CLE.html
+Wed Feb 12 2020,Orlando Magic,Detroit Pistons,116,112,Amway Center,16607,/boxscores/202002120ORL.html
+Wed Feb 12 2020,Brooklyn Nets,Toronto Raptors,101,91,Barclays Center,15823,/boxscores/202002120BRK.html
+Wed Feb 12 2020,Indiana Pacers,Milwaukee Bucks,118,111,Bankers Life Fieldhouse,17018,/boxscores/202002120IND.html
+Wed Feb 12 2020,New York Knicks,Washington Wizards,96,114,Madison Square Garden (IV),18835,/boxscores/202002120NYK.html
+Wed Feb 12 2020,Memphis Grizzlies,Portland Trail Blazers,111,104,FedEx Forum,16889,/boxscores/202002120MEM.html
+Wed Feb 12 2020,Minnesota Timberwolves,Charlotte Hornets,108,115,Target Center,18978,/boxscores/202002120MIN.html
+Wed Feb 12 2020,Dallas Mavericks,Sacramento Kings,130,111,American Airlines Center,19842,/boxscores/202002120DAL.html
+Wed Feb 12 2020,Phoenix Suns,Golden State Warriors,112,106,Talking Stick Resort Arena,15216,/boxscores/202002120PHO.html
+Wed Feb 12 2020,Utah Jazz,Miami Heat,116,101,Vivint Smart Home Arena,18306,/boxscores/202002120UTA.html
+Wed Feb 12 2020,Denver Nuggets,Los Angeles Lakers,116,120,Pepsi Center,19860,/boxscores/202002120DEN.html
+Thu Feb 13 2020,Boston Celtics,Los Angeles Clippers,141,133,TD Garden,19156,/boxscores/202002130BOS.html
+Thu Feb 13 2020,New Orleans Pelicans,Oklahoma City Thunder,118,123,Smoothie King Center,17865,/boxscores/202002130NOP.html
+Thu Feb 20 2020,Detroit Pistons,Milwaukee Bucks,106,126,Little Caesars Arena,16097,/boxscores/202002200DET.html
+Thu Feb 20 2020,Atlanta Hawks,Miami Heat,129,124,State Farm Arena,17356,/boxscores/202002200ATL.html
+Thu Feb 20 2020,Chicago Bulls,Charlotte Hornets,93,103,United Center,17463,/boxscores/202002200CHI.html
+Thu Feb 20 2020,Philadelphia 76ers,Brooklyn Nets,112,104,Wells Fargo Center,20806,/boxscores/202002200PHI.html
+Thu Feb 20 2020,Sacramento Kings,Memphis Grizzlies,129,125,Golden 1 Center,17078,/boxscores/202002200SAC.html
+Thu Feb 20 2020,Golden State Warriors,Houston Rockets,105,135,Chase Center,18064,/boxscores/202002200GSW.html
+Fri Feb 21 2020,Orlando Magic,Dallas Mavericks,106,122,Amway Center,18846,/boxscores/202002210ORL.html
+Fri Feb 21 2020,Washington Wizards,Cleveland Cavaliers,108,113,Capital One Arena,18895,/boxscores/202002210WAS.html
+Fri Feb 21 2020,New York Knicks,Indiana Pacers,98,106,Madison Square Garden (IV),19812,/boxscores/202002210NYK.html
+Fri Feb 21 2020,Toronto Raptors,Phoenix Suns,118,101,Scotiabank Arena,19800,/boxscores/202002210TOR.html
+Fri Feb 21 2020,Minnesota Timberwolves,Boston Celtics,117,127,Target Center,18978,/boxscores/202002210MIN.html
+Fri Feb 21 2020,Oklahoma City Thunder,Denver Nuggets,113,101,Chesapeake Energy Arena,18203,/boxscores/202002210OKC.html
+Fri Feb 21 2020,Utah Jazz,San Antonio Spurs,104,113,Vivint Smart Home Arena,18306,/boxscores/202002210UTA.html
+Fri Feb 21 2020,Los Angeles Lakers,Memphis Grizzlies,117,105,STAPLES Center,18997,/boxscores/202002210LAL.html
+Fri Feb 21 2020,Portland Trail Blazers,New Orleans Pelicans,115,128,Moda Center,19946,/boxscores/202002210POR.html
+Sat Feb 22 2020,Los Angeles Clippers,Sacramento Kings,103,112,STAPLES Center,19068,/boxscores/202002220LAC.html
+Sat Feb 22 2020,Charlotte Hornets,Brooklyn Nets,86,115,Spectrum Center,19079,/boxscores/202002220CHO.html
+Sat Feb 22 2020,Atlanta Hawks,Dallas Mavericks,111,107,State Farm Arena,17050,/boxscores/202002220ATL.html
+Sat Feb 22 2020,Chicago Bulls,Phoenix Suns,104,112,United Center,20506,/boxscores/202002220CHI.html
+Sat Feb 22 2020,Miami Heat,Cleveland Cavaliers,124,105,AmericanAirlines Arena,19754,/boxscores/202002220MIA.html
+Sat Feb 22 2020,Milwaukee Bucks,Philadelphia 76ers,119,98,Fiserv Forum,18290,/boxscores/202002220MIL.html
+Sat Feb 22 2020,Utah Jazz,Houston Rockets,110,120,Vivint Smart Home Arena,18306,/boxscores/202002220UTA.html
+Sun Feb 23 2020,Los Angeles Lakers,Boston Celtics,114,112,STAPLES Center,18997,/boxscores/202002230LAL.html
+Sun Feb 23 2020,Denver Nuggets,Minnesota Timberwolves,128,116,Pepsi Center,19626,/boxscores/202002230DEN.html
+Sun Feb 23 2020,Toronto Raptors,Indiana Pacers,127,81,Scotiabank Arena,19800,/boxscores/202002230TOR.html
+Sun Feb 23 2020,Chicago Bulls,Washington Wizards,126,117,United Center,18024,/boxscores/202002230CHI.html
+Sun Feb 23 2020,Oklahoma City Thunder,San Antonio Spurs,131,103,Chesapeake Energy Arena,18203,/boxscores/202002230OKC.html
+Sun Feb 23 2020,Golden State Warriors,New Orleans Pelicans,101,115,Chase Center,18064,/boxscores/202002230GSW.html
+Sun Feb 23 2020,Portland Trail Blazers,Detroit Pistons,107,104,Moda Center,19393,/boxscores/202002230POR.html
+Mon Feb 24 2020,Cleveland Cavaliers,Miami Heat,125,119,Rocket Mortgage Fieldhouse,17336,/boxscores/202002240CLE.html
+Mon Feb 24 2020,Philadelphia 76ers,Atlanta Hawks,129,112,Wells Fargo Center,20836,/boxscores/202002240PHI.html
+Mon Feb 24 2020,Washington Wizards,Milwaukee Bucks,134,137,Capital One Arena,16580,/boxscores/202002240WAS.html
+Mon Feb 24 2020,Brooklyn Nets,Orlando Magic,113,115,Barclays Center,16162,/boxscores/202002240BRK.html
+Mon Feb 24 2020,Houston Rockets,New York Knicks,123,112,Toyota Center,18055,/boxscores/202002240HOU.html
+Mon Feb 24 2020,Dallas Mavericks,Minnesota Timberwolves,139,123,American Airlines Center,19936,/boxscores/202002240DAL.html
+Mon Feb 24 2020,Utah Jazz,Phoenix Suns,111,131,Vivint Smart Home Arena,18306,/boxscores/202002240UTA.html
+Mon Feb 24 2020,Los Angeles Clippers,Memphis Grizzlies,124,97,STAPLES Center,19068,/boxscores/202002240LAC.html
+Tue Feb 25 2020,Indiana Pacers,Charlotte Hornets,119,80,Bankers Life Fieldhouse,16088,/boxscores/202002250IND.html
+Tue Feb 25 2020,Toronto Raptors,Milwaukee Bucks,97,108,Scotiabank Arena,19993,/boxscores/202002250TOR.html
+Tue Feb 25 2020,Chicago Bulls,Oklahoma City Thunder,122,124,United Center,16911,/boxscores/202002250CHI.html
+Tue Feb 25 2020,Denver Nuggets,Detroit Pistons,115,98,Pepsi Center,19143,/boxscores/202002250DEN.html
+Tue Feb 25 2020,Los Angeles Lakers,New Orleans Pelicans,118,109,STAPLES Center,18997,/boxscores/202002250LAL.html
+Tue Feb 25 2020,Portland Trail Blazers,Boston Celtics,106,118,Moda Center,19460,/boxscores/202002250POR.html
+Tue Feb 25 2020,Golden State Warriors,Sacramento Kings,94,112,Chase Center,18064,/boxscores/202002250GSW.html
+Wed Feb 26 2020,Charlotte Hornets,New York Knicks,107,101,Spectrum Center,13152,/boxscores/202002260CHO.html
+Wed Feb 26 2020,Cleveland Cavaliers,Philadelphia 76ers,108,94,Rocket Mortgage Fieldhouse,16332,/boxscores/202002260CLE.html
+Wed Feb 26 2020,Washington Wizards,Brooklyn Nets,110,106,Capital One Arena,15021,/boxscores/202002260WAS.html
+Wed Feb 26 2020,Atlanta Hawks,Orlando Magic,120,130,State Farm Arena,14967,/boxscores/202002260ATL.html
+Wed Feb 26 2020,Miami Heat,Minnesota Timberwolves,126,129,AmericanAirlines Arena,19600,/boxscores/202002260MIA.html
+Wed Feb 26 2020,Houston Rockets,Memphis Grizzlies,140,112,Toyota Center,18055,/boxscores/202002260HOU.html
+Wed Feb 26 2020,San Antonio Spurs,Dallas Mavericks,103,109,AT&T Center,18354,/boxscores/202002260SAS.html
+Wed Feb 26 2020,Phoenix Suns,Los Angeles Clippers,92,102,Talking Stick Resort Arena,15157,/boxscores/202002260PHO.html
+Wed Feb 26 2020,Utah Jazz,Boston Celtics,103,114,Vivint Smart Home Arena,18306,/boxscores/202002260UTA.html
+Thu Feb 27 2020,Philadelphia 76ers,New York Knicks,115,106,Wells Fargo Center,20175,/boxscores/202002270PHI.html
+Thu Feb 27 2020,Indiana Pacers,Portland Trail Blazers,106,100,Bankers Life Fieldhouse,16872,/boxscores/202002270IND.html
+Thu Feb 27 2020,Oklahoma City Thunder,Sacramento Kings,112,108,Chesapeake Energy Arena,18203,/boxscores/202002270OKC.html
+Thu Feb 27 2020,Golden State Warriors,Los Angeles Lakers,86,116,Chase Center,18064,/boxscores/202002270GSW.html
+Fri Feb 28 2020,Orlando Magic,Minnesota Timberwolves,136,125,Amway Center,18846,/boxscores/202002280ORL.html
+Fri Feb 28 2020,Atlanta Hawks,Brooklyn Nets,141,118,State Farm Arena,17034,/boxscores/202002280ATL.html
+Fri Feb 28 2020,Toronto Raptors,Charlotte Hornets,96,99,Scotiabank Arena,19800,/boxscores/202002280TOR.html
+Fri Feb 28 2020,Memphis Grizzlies,Sacramento Kings,101,104,FedEx Forum,17794,/boxscores/202002280MEM.html
+Fri Feb 28 2020,Miami Heat,Dallas Mavericks,126,118,AmericanAirlines Arena,19704,/boxscores/202002280MIA.html
+Fri Feb 28 2020,Milwaukee Bucks,Oklahoma City Thunder,133,86,Fiserv Forum,18412,/boxscores/202002280MIL.html
+Fri Feb 28 2020,New Orleans Pelicans,Cleveland Cavaliers,116,104,Smoothie King Center,18304,/boxscores/202002280NOP.html
+Fri Feb 28 2020,Phoenix Suns,Detroit Pistons,111,113,Talking Stick Resort Arena,17142,/boxscores/202002280PHO.html
+Fri Feb 28 2020,Utah Jazz,Washington Wizards,129,119,Vivint Smart Home Arena,18306,/boxscores/202002280UTA.html
+Fri Feb 28 2020,Los Angeles Clippers,Denver Nuggets,132,103,STAPLES Center,19068,/boxscores/202002280LAC.html
+Sat Feb 29 2020,New York Knicks,Chicago Bulls,125,115,Madison Square Garden (IV),19812,/boxscores/202002290NYK.html
+Sat Feb 29 2020,Atlanta Hawks,Portland Trail Blazers,129,117,State Farm Arena,17765,/boxscores/202002290ATL.html
+Sat Feb 29 2020,Miami Heat,Brooklyn Nets,116,113,AmericanAirlines Arena,19600,/boxscores/202002290MIA.html
+Sat Feb 29 2020,Cleveland Cavaliers,Indiana Pacers,104,113,Rocket Mortgage Fieldhouse,19432,/boxscores/202002290CLE.html
+Sat Feb 29 2020,Memphis Grizzlies,Los Angeles Lakers,105,88,FedEx Forum,17794,/boxscores/202002290MEM.html
+Sat Feb 29 2020,Boston Celtics,Houston Rockets,110,111,TD Garden,19156,/boxscores/202002290BOS.html
+Sat Feb 29 2020,San Antonio Spurs,Orlando Magic,114,113,AT&T Center,18354,/boxscores/202002290SAS.html
+Sat Feb 29 2020,Phoenix Suns,Golden State Warriors,99,115,Talking Stick Resort Arena,16395,/boxscores/202002290PHO.html

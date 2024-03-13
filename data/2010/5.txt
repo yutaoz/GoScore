@@ -1,0 +1,31 @@
+Sat May 1 2010,Cleveland Cavaliers,Boston Celtics,101,93,Quicken Loans Arena,20562,/boxscores/201005010CLE.html
+Sun May 2 2010,Atlanta Hawks,Milwaukee Bucks,95,74,Philips Arena,19241,/boxscores/201005020ATL.html
+Sun May 2 2010,Los Angeles Lakers,Utah Jazz,104,99,STAPLES Center,18997,/boxscores/201005020LAL.html
+Mon May 3 2010,Cleveland Cavaliers,Boston Celtics,86,104,Quicken Loans Arena,20562,/boxscores/201005030CLE.html
+Mon May 3 2010,Phoenix Suns,San Antonio Spurs,111,102,US Airways Center,18422,/boxscores/201005030PHO.html
+Tue May 4 2010,Orlando Magic,Atlanta Hawks,114,71,Amway Arena,17461,/boxscores/201005040ORL.html
+Tue May 4 2010,Los Angeles Lakers,Utah Jazz,111,103,STAPLES Center,18997,/boxscores/201005040LAL.html
+Wed May 5 2010,Phoenix Suns,San Antonio Spurs,110,102,US Airways Center,18422,/boxscores/201005050PHO.html
+Thu May 6 2010,Orlando Magic,Atlanta Hawks,112,98,Amway Arena,17461,/boxscores/201005060ORL.html
+Fri May 7 2010,Boston Celtics,Cleveland Cavaliers,95,124,TD Garden,18624,/boxscores/201005070BOS.html
+Fri May 7 2010,San Antonio Spurs,Phoenix Suns,96,110,AT&T Center,18581,/boxscores/201005070SAS.html
+Sat May 8 2010,Atlanta Hawks,Orlando Magic,75,105,Philips Arena,18729,/boxscores/201005080ATL.html
+Sat May 8 2010,Utah Jazz,Los Angeles Lakers,110,111,EnergySolutions Arena,19911,/boxscores/201005080UTA.html
+Sun May 9 2010,Boston Celtics,Cleveland Cavaliers,97,87,TD Garden,18624,/boxscores/201005090BOS.html
+Sun May 9 2010,San Antonio Spurs,Phoenix Suns,101,107,AT&T Center,18581,/boxscores/201005090SAS.html
+Mon May 10 2010,Atlanta Hawks,Orlando Magic,84,98,Philips Arena,18729,/boxscores/201005100ATL.html
+Mon May 10 2010,Utah Jazz,Los Angeles Lakers,96,111,EnergySolutions Arena,19911,/boxscores/201005100UTA.html
+Tue May 11 2010,Cleveland Cavaliers,Boston Celtics,88,120,Quicken Loans Arena,20562,/boxscores/201005110CLE.html
+Thu May 13 2010,Boston Celtics,Cleveland Cavaliers,94,85,TD Garden,18624,/boxscores/201005130BOS.html
+Sun May 16 2010,Orlando Magic,Boston Celtics,88,92,Amway Arena,17461,/boxscores/201005160ORL.html
+Mon May 17 2010,Los Angeles Lakers,Phoenix Suns,128,107,STAPLES Center,18997,/boxscores/201005170LAL.html
+Tue May 18 2010,Orlando Magic,Boston Celtics,92,95,Amway Arena,17461,/boxscores/201005180ORL.html
+Wed May 19 2010,Los Angeles Lakers,Phoenix Suns,124,112,STAPLES Center,18997,/boxscores/201005190LAL.html
+Sat May 22 2010,Boston Celtics,Orlando Magic,94,71,TD Garden,18624,/boxscores/201005220BOS.html
+Sun May 23 2010,Phoenix Suns,Los Angeles Lakers,118,109,US Airways Center,18422,/boxscores/201005230PHO.html
+Mon May 24 2010,Boston Celtics,Orlando Magic,92,96,TD Garden,18624,/boxscores/201005240BOS.html
+Tue May 25 2010,Phoenix Suns,Los Angeles Lakers,115,106,US Airways Center,18422,/boxscores/201005250PHO.html
+Wed May 26 2010,Orlando Magic,Boston Celtics,113,92,Amway Arena,17461,/boxscores/201005260ORL.html
+Thu May 27 2010,Los Angeles Lakers,Phoenix Suns,103,101,STAPLES Center,18997,/boxscores/201005270LAL.html
+Fri May 28 2010,Boston Celtics,Orlando Magic,96,84,TD Garden,18624,/boxscores/201005280BOS.html
+Sat May 29 2010,Phoenix Suns,Los Angeles Lakers,103,111,US Airways Center,18422,/boxscores/201005290PHO.html

@@ -1,0 +1,68 @@
+Fri Nov 2 1962,San Francisco Warriors,New York Knicks,143,121,University of San Francisco,0,/boxscores/196211020SFW.html
+Fri Nov 2 1962,Chicago Zephyrs,Boston Celtics,97,107,Chicago Coliseum,0,/boxscores/196211020CHZ.html
+Sat Nov 3 1962,Los Angeles Lakers,San Francisco Warriors,127,115,Los Angeles Memorial Sports Arena,0,/boxscores/196211030LAL.html
+Sat Nov 3 1962,St. Louis Hawks,Chicago Zephyrs,114,109,Kiel Auditorium,0,/boxscores/196211030STL.html
+Sat Nov 3 1962,Syracuse Nationals,Cincinnati Royals,130,111,Onondaga War Memorial,0,/boxscores/196211030SYR.html
+Sat Nov 3 1962,Boston Celtics,Detroit Pistons,125,114,Boston Garden,0,/boxscores/196211030BOS.html
+Sun Nov 4 1962,Los Angeles Lakers,New York Knicks,125,106,Los Angeles Memorial Sports Arena,0,/boxscores/196211040LAL.html
+Wed Nov 7 1962,Cincinnati Royals,Boston Celtics,105,106,Cincinnati Gardens,0,/boxscores/196211070CIN.html
+Wed Nov 7 1962,San Francisco Warriors,Los Angeles Lakers,108,132,Cow Palace,0,/boxscores/196211070SFW.html
+Wed Nov 7 1962,St. Louis Hawks,New York Knicks,112,122,Kiel Auditorium,0,/boxscores/196211070STL.html
+Thu Nov 8 1962,Detroit Pistons,Cincinnati Royals,116,114,Cobo Arena,0,/boxscores/196211080DET.html
+Fri Nov 9 1962,Boston Celtics,Los Angeles Lakers,120,133,Boston Garden,0,/boxscores/196211090BOS.html
+Fri Nov 9 1962,Syracuse Nationals,St. Louis Hawks,101,93,Onondaga War Memorial,0,/boxscores/196211090SYR.html
+Fri Nov 9 1962,San Francisco Warriors,Chicago Zephyrs,134,126,University of San Francisco,0,/boxscores/196211090SFW.html
+Fri Nov 9 1962,New York Knicks,Cincinnati Royals,119,122,Madison Square Garden (III),0,/boxscores/196211090NYK.html
+Sat Nov 10 1962,Cincinnati Royals,Detroit Pistons,135,124,Cincinnati Gardens,0,/boxscores/196211100CIN.html
+Sat Nov 10 1962,San Francisco Warriors,Chicago Zephyrs,113,108,University of San Francisco,0,/boxscores/196211100SFW.html
+Sat Nov 10 1962,St. Louis Hawks,Los Angeles Lakers,97,96,Kiel Auditorium,0,/boxscores/196211100STL.html
+Sun Nov 11 1962,Boston Celtics,New York Knicks,117,98,Kiel Auditorium,0,/boxscores/196211110BOS.html
+Sun Nov 11 1962,St. Louis Hawks,Detroit Pistons,117,100,Kiel Auditorium,0,/boxscores/196211110STL.html
+Sun Nov 11 1962,Los Angeles Lakers,Chicago Zephyrs,105,109,Los Angeles Memorial Sports Arena,0,/boxscores/196211110LAL.html
+Mon Nov 12 1962,Boston Celtics,Cincinnati Royals,137,126,Boston Garden,0,/boxscores/196211120BOS.html
+Tue Nov 13 1962,Cincinnati Royals,Detroit Pistons,127,109,Madison Square Garden (III),0,/boxscores/196211130CIN.html
+Tue Nov 13 1962,Los Angeles Lakers,Chicago Zephyrs,107,84,Los Angeles Memorial Sports Arena,0,/boxscores/196211130LAL.html
+Tue Nov 13 1962,New York Knicks,Boston Celtics,102,116,Madison Square Garden (III),0,/boxscores/196211130NYK.html
+Tue Nov 13 1962,St. Louis Hawks,San Francisco Warriors,132,100,Kiel Auditorium,0,/boxscores/196211130STL.html
+Wed Nov 14 1962,Cincinnati Royals,Syracuse Nationals,125,120,Cincinnati Gardens,0,/boxscores/196211140CIN.html
+Wed Nov 14 1962,Detroit Pistons,San Francisco Warriors,123,115,Cobo Arena,0,/boxscores/196211140DET.html
+Thu Nov 15 1962,Chicago Zephyrs,New York Knicks,95,92,Chicago Coliseum,0,/boxscores/196211150CHZ.html
+Thu Nov 15 1962,Los Angeles Lakers,Syracuse Nationals,98,120,Baltimore Civic Center,0,/boxscores/196211150LAL.html
+Fri Nov 16 1962,Cincinnati Royals,St. Louis Hawks,120,111,Cincinnati Gardens,0,/boxscores/196211160CIN.html
+Fri Nov 16 1962,New York Knicks,San Francisco Warriors,111,127,Madison Square Garden (III),0,/boxscores/196211160NYK.html
+Fri Nov 16 1962,Syracuse Nationals,Boston Celtics,113,105,Onondaga War Memorial,0,/boxscores/196211160SYR.html
+Sat Nov 17 1962,St. Louis Hawks,Syracuse Nationals,113,107,Kiel Auditorium,0,/boxscores/196211170STL.html
+Sat Nov 17 1962,Chicago Zephyrs,Los Angeles Lakers,109,110,Chicago Coliseum,0,/boxscores/196211170CHZ.html
+Sat Nov 17 1962,Boston Celtics,San Francisco Warriors,127,109,Boston Garden,0,/boxscores/196211170BOS.html
+Sat Nov 17 1962,Detroit Pistons,New York Knicks,121,113,Boston Garden,0,/boxscores/196211170DET.html
+Sun Nov 18 1962,Chicago Zephyrs,Syracuse Nationals,107,110,Cobo Arena,0,/boxscores/196211180CHZ.html
+Sun Nov 18 1962,Cincinnati Royals,San Francisco Warriors,132,120,Cincinnati Gardens,0,/boxscores/196211180CIN.html
+Sun Nov 18 1962,Detroit Pistons,Los Angeles Lakers,98,116,Cobo Arena,0,/boxscores/196211180DET.html
+Tue Nov 20 1962,Boston Celtics,Chicago Zephyrs,113,106,Madison Square Garden (III),0,/boxscores/196211200BOS.html
+Tue Nov 20 1962,New York Knicks,St. Louis Hawks,103,95,Madison Square Garden (III),0,/boxscores/196211200NYK.html
+Wed Nov 21 1962,Boston Celtics,St. Louis Hawks,115,106,Boston Garden,0,/boxscores/196211210BOS.html
+Wed Nov 21 1962,Chicago Zephyrs,New York Knicks,108,137,Boston Garden,0,/boxscores/196211210CHZ.html
+Wed Nov 21 1962,Detroit Pistons,Syracuse Nationals,120,122,Cobo Arena,0,/boxscores/196211210DET.html
+Wed Nov 21 1962,San Francisco Warriors,Cincinnati Royals,139,143,Cow Palace,0,/boxscores/196211210SFW.html
+Thu Nov 22 1962,Boston Celtics,Syracuse Nationals,120,130,Convention Hall,0,/boxscores/196211220BOS.html
+Thu Nov 22 1962,Los Angeles Lakers,Cincinnati Royals,134,110,Los Angeles Memorial Sports Arena,0,/boxscores/196211220LAL.html
+Thu Nov 22 1962,St. Louis Hawks,Detroit Pistons,106,91,Kiel Auditorium,0,/boxscores/196211220STL.html
+Fri Nov 23 1962,New York Knicks,Syracuse Nationals,116,110,Madison Square Garden (III),0,/boxscores/196211230NYK.html
+Fri Nov 23 1962,San Francisco Warriors,Los Angeles Lakers,124,129,Cow Palace,0,/boxscores/196211230SFW.html
+Fri Nov 23 1962,Boston Celtics,Chicago Zephyrs,116,104,Rhode Island Auditorium,0,/boxscores/196211230BOS.html
+Fri Nov 23 1962,Detroit Pistons,St. Louis Hawks,93,121,Cobo Arena,0,/boxscores/196211230DET.html
+Sat Nov 24 1962,Chicago Zephyrs,Detroit Pistons,104,103,Chicago Coliseum,0,/boxscores/196211240CHZ.html
+Sat Nov 24 1962,Los Angeles Lakers,Cincinnati Royals,129,123,Los Angeles Memorial Sports Arena,0,/boxscores/196211240LAL.html
+Sat Nov 24 1962,St. Louis Hawks,Boston Celtics,97,95,Kiel Auditorium,0,/boxscores/196211240STL.html
+Sat Nov 24 1962,Syracuse Nationals,New York Knicks,137,126,Onondaga War Memorial,0,/boxscores/196211240SYR.html
+Sun Nov 25 1962,San Francisco Warriors,Cincinnati Royals,115,128,Cow Palace,0,/boxscores/196211250SFW.html
+Mon Nov 26 1962,Los Angeles Lakers,Chicago Zephyrs,128,106,Los Angeles Memorial Sports Arena,0,/boxscores/196211260LAL.html
+Tue Nov 27 1962,Boston Celtics,Detroit Pistons,125,115,Madison Square Garden (III),0,/boxscores/196211270BOS.html
+Tue Nov 27 1962,St. Louis Hawks,Syracuse Nationals,120,105,Kiel Auditorium,0,/boxscores/196211270STL.html
+Tue Nov 27 1962,San Francisco Warriors,Chicago Zephyrs,107,115,Cow Palace,0,/boxscores/196211270SFW.html
+Tue Nov 27 1962,New York Knicks,Cincinnati Royals,129,139,Madison Square Garden (III),0,/boxscores/196211270NYK.html
+Wed Nov 28 1962,Detroit Pistons,New York Knicks,143,101,Cobo Arena,0,/boxscores/196211280DET.html
+Wed Nov 28 1962,Los Angeles Lakers,St. Louis Hawks,116,110,Los Angeles Memorial Sports Arena,0,/boxscores/196211280LAL.html
+Thu Nov 29 1962,Chicago Zephyrs,Syracuse Nationals,85,112,Chicago Coliseum,0,/boxscores/196211290CHZ.html
+Thu Nov 29 1962,San Francisco Warriors,St. Louis Hawks,121,128,Cow Palace,0,/boxscores/196211290SFW.html
+Fri Nov 30 1962,Cincinnati Royals,Syracuse Nationals,130,117,Cincinnati Gardens,0,/boxscores/196211300CIN.html

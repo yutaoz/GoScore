@@ -1,0 +1,162 @@
+Sat Apr 1 1989,Charlotte Hornets,Portland Trail Blazers,121,125,Charlotte Coliseum,23388,/boxscores/198904010CHH.html
+Sat Apr 1 1989,Denver Nuggets,Los Angeles Lakers,114,108,McNichols Sports Arena,17022,/boxscores/198904010DEN.html
+Sat Apr 1 1989,Sacramento Kings,Utah Jazz,117,97,ARCO Arena (II),16517,/boxscores/198904010SAC.html
+Sun Apr 2 1989,Chicago Bulls,New Jersey Nets,106,95,Chicago Stadium,17547,/boxscores/198904020CHI.html
+Sun Apr 2 1989,Cleveland Cavaliers,Boston Celtics,117,100,Coliseum at Richfield,19617,/boxscores/198904020CLE.html
+Sun Apr 2 1989,Dallas Mavericks,Miami Heat,98,96,Reunion Arena,16846,/boxscores/198904020DAL.html
+Sun Apr 2 1989,Indiana Pacers,Atlanta Hawks,109,132,Market Square Arena,13649,/boxscores/198904020IND.html
+Sun Apr 2 1989,Los Angeles Clippers,Detroit Pistons,101,117,Los Angeles Memorial Sports Arena,14309,/boxscores/198904020LAC.html
+Sun Apr 2 1989,Los Angeles Lakers,Milwaukee Bucks,118,117,Great Western Forum,17505,/boxscores/198904020LAL.html
+Sun Apr 2 1989,Philadelphia 76ers,Houston Rockets,108,99,The Spectrum,12946,/boxscores/198904020PHI.html
+Sun Apr 2 1989,Washington Bullets,Golden State Warriors,120,103,Capital Centre,0,/boxscores/198904020WSB.html
+Tue Apr 4 1989,Chicago Bulls,Charlotte Hornets,121,101,Chicago Stadium,17578,/boxscores/198904040CHI.html
+Tue Apr 4 1989,Cleveland Cavaliers,Atlanta Hawks,105,91,Coliseum at Richfield,19322,/boxscores/198904040CLE.html
+Tue Apr 4 1989,Denver Nuggets,Sacramento Kings,128,124,McNichols Sports Arena,10785,/boxscores/198904040DEN.html
+Tue Apr 4 1989,Golden State Warriors,Milwaukee Bucks,118,124,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904040GSW.html
+Tue Apr 4 1989,Indiana Pacers,Houston Rockets,88,90,Market Square Arena,0,/boxscores/198904040IND.html
+Tue Apr 4 1989,Los Angeles Clippers,Boston Celtics,108,124,Los Angeles Memorial Sports Arena,15352,/boxscores/198904040LAC.html
+Tue Apr 4 1989,New York Knicks,Philadelphia 76ers,113,124,Madison Square Garden (IV),19350,/boxscores/198904040NYK.html
+Tue Apr 4 1989,Portland Trail Blazers,Detroit Pistons,118,100,Memorial Coliseum,12880,/boxscores/198904040POR.html
+Tue Apr 4 1989,San Antonio Spurs,Miami Heat,109,87,HemisFair Arena,0,/boxscores/198904040SAS.html
+Tue Apr 4 1989,Seattle SuperSonics,Los Angeles Lakers,97,115,Seattle Center Coliseum,14810,/boxscores/198904040SEA.html
+Tue Apr 4 1989,Utah Jazz,Dallas Mavericks,95,80,Salt Palace,12444,/boxscores/198904040UTA.html
+Tue Apr 4 1989,Washington Bullets,New Jersey Nets,104,96,Capital Centre,0,/boxscores/198904040WSB.html
+Wed Apr 5 1989,Atlanta Hawks,Philadelphia 76ers,135,93,Omni Coliseum,16371,/boxscores/198904050ATL.html
+Wed Apr 5 1989,Phoenix Suns,Utah Jazz,114,104,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904050PHO.html
+Thu Apr 6 1989,Denver Nuggets,Indiana Pacers,132,118,McNichols Sports Arena,11084,/boxscores/198904060DEN.html
+Thu Apr 6 1989,Detroit Pistons,Chicago Bulls,115,108,The Palace of Auburn Hills,21454,/boxscores/198904060DET.html
+Thu Apr 6 1989,Golden State Warriors,Boston Celtics,132,118,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904060GSW.html
+Thu Apr 6 1989,Los Angeles Clippers,Portland Trail Blazers,133,123,Los Angeles Memorial Sports Arena,0,/boxscores/198904060LAC.html
+Thu Apr 6 1989,Miami Heat,Washington Bullets,93,101,Miami Arena,15008,/boxscores/198904060MIA.html
+Thu Apr 6 1989,Milwaukee Bucks,New York Knicks,99,112,Bradley Center,16212,/boxscores/198904060MIL.html
+Thu Apr 6 1989,San Antonio Spurs,Sacramento Kings,122,116,HemisFair Arena,10859,/boxscores/198904060SAS.html
+Thu Apr 6 1989,Seattle SuperSonics,Phoenix Suns,119,126,Seattle Center Coliseum,14457,/boxscores/198904060SEA.html
+Fri Apr 7 1989,Atlanta Hawks,Houston Rockets,120,112,Omni Coliseum,16371,/boxscores/198904070ATL.html
+Fri Apr 7 1989,Charlotte Hornets,Philadelphia 76ers,108,118,Charlotte Coliseum,23388,/boxscores/198904070CHH.html
+Fri Apr 7 1989,Chicago Bulls,Detroit Pistons,112,114,Chicago Stadium,18676,/boxscores/198904070CHI.html
+Fri Apr 7 1989,Dallas Mavericks,Sacramento Kings,115,102,Reunion Arena,16723,/boxscores/198904070DAL.html
+Fri Apr 7 1989,Los Angeles Lakers,Utah Jazz,97,99,Great Western Forum,17505,/boxscores/198904070LAL.html
+Fri Apr 7 1989,New Jersey Nets,New York Knicks,115,105,Brendan Byrne Arena,20049,/boxscores/198904070NJN.html
+Fri Apr 7 1989,Portland Trail Blazers,Boston Celtics,113,100,Memorial Coliseum,12880,/boxscores/198904070POR.html
+Fri Apr 7 1989,Washington Bullets,Cleveland Cavaliers,107,96,Capital Centre,11113,/boxscores/198904070WSB.html
+Sat Apr 8 1989,Dallas Mavericks,Seattle SuperSonics,90,114,Reunion Arena,17007,/boxscores/198904080DAL.html
+Sat Apr 8 1989,Denver Nuggets,Utah Jazz,110,106,McNichols Sports Arena,17022,/boxscores/198904080DEN.html
+Sat Apr 8 1989,Golden State Warriors,Los Angeles Lakers,122,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904080GSW.html
+Sat Apr 8 1989,Los Angeles Clippers,Phoenix Suns,97,115,Los Angeles Memorial Sports Arena,10459,/boxscores/198904080LAC.html
+Sat Apr 8 1989,Miami Heat,Houston Rockets,107,104,Miami Arena,15008,/boxscores/198904080MIA.html
+Sat Apr 8 1989,Milwaukee Bucks,Philadelphia 76ers,113,103,Bradley Center,18633,/boxscores/198904080MIL.html
+Sat Apr 8 1989,San Antonio Spurs,Indiana Pacers,126,128,HemisFair Arena,11045,/boxscores/198904080SAS.html
+Sun Apr 9 1989,Atlanta Hawks,Chicago Bulls,108,100,Omni Coliseum,16371,/boxscores/198904090ATL.html
+Sun Apr 9 1989,Cleveland Cavaliers,Charlotte Hornets,122,116,Coliseum at Richfield,19276,/boxscores/198904090CLE.html
+Sun Apr 9 1989,Detroit Pistons,Milwaukee Bucks,100,91,The Palace of Auburn Hills,21454,/boxscores/198904090DET.html
+Sun Apr 9 1989,Portland Trail Blazers,Denver Nuggets,120,114,Memorial Coliseum,12880,/boxscores/198904090POR.html
+Sun Apr 9 1989,Washington Bullets,New York Knicks,92,94,Capital Centre,14007,/boxscores/198904090WSB.html
+Mon Apr 10 1989,Boston Celtics,New Jersey Nets,113,112,Boston Garden,14890,/boxscores/198904100BOS.html
+Mon Apr 10 1989,Charlotte Hornets,Atlanta Hawks,105,112,Charlotte Coliseum,23388,/boxscores/198904100CHH.html
+Mon Apr 10 1989,Dallas Mavericks,Indiana Pacers,103,110,Reunion Arena,16750,/boxscores/198904100DAL.html
+Mon Apr 10 1989,Los Angeles Lakers,Los Angeles Clippers,133,116,Great Western Forum,17505,/boxscores/198904100LAL.html
+Mon Apr 10 1989,Sacramento Kings,Miami Heat,108,69,ARCO Arena (II),16517,/boxscores/198904100SAC.html
+Mon Apr 10 1989,San Antonio Spurs,Seattle SuperSonics,89,102,HemisFair Arena,12448,/boxscores/198904100SAS.html
+Mon Apr 10 1989,Washington Bullets,Detroit Pistons,100,124,Capital Centre,11305,/boxscores/198904100WSB.html
+Tue Apr 11 1989,Cleveland Cavaliers,Philadelphia 76ers,92,90,Coliseum at Richfield,19309,/boxscores/198904110CLE.html
+Tue Apr 11 1989,Golden State Warriors,Miami Heat,114,98,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904110GSW.html
+Tue Apr 11 1989,Houston Rockets,Indiana Pacers,108,99,The Summit,16611,/boxscores/198904110HOU.html
+Tue Apr 11 1989,Milwaukee Bucks,New Jersey Nets,125,93,Bradley Center,15489,/boxscores/198904110MIL.html
+Tue Apr 11 1989,Portland Trail Blazers,Los Angeles Clippers,126,102,Memorial Coliseum,12880,/boxscores/198904110POR.html
+Wed Apr 12 1989,Dallas Mavericks,Phoenix Suns,94,109,Reunion Arena,16851,/boxscores/198904120DAL.html
+Wed Apr 12 1989,Detroit Pistons,Cleveland Cavaliers,107,95,The Palace of Auburn Hills,21454,/boxscores/198904120DET.html
+Wed Apr 12 1989,New York Knicks,Charlotte Hornets,99,104,Madison Square Garden (IV),18385,/boxscores/198904120NYK.html
+Wed Apr 12 1989,San Antonio Spurs,Los Angeles Lakers,100,107,HemisFair Arena,15861,/boxscores/198904120SAS.html
+Wed Apr 12 1989,Utah Jazz,Denver Nuggets,107,102,Salt Palace,12444,/boxscores/198904120UTA.html
+Wed Apr 12 1989,Washington Bullets,Milwaukee Bucks,111,107,Capital Centre,0,/boxscores/198904120WSB.html
+Thu Apr 13 1989,Atlanta Hawks,Boston Celtics,132,118,Omni Coliseum,16371,/boxscores/198904130ATL.html
+Thu Apr 13 1989,Houston Rockets,Phoenix Suns,111,119,The Summit,16611,/boxscores/198904130HOU.html
+Thu Apr 13 1989,Indiana Pacers,Chicago Bulls,109,105,Market Square Arena,13326,/boxscores/198904130IND.html
+Thu Apr 13 1989,Los Angeles Clippers,Golden State Warriors,128,126,Los Angeles Memorial Sports Arena,0,/boxscores/198904130LAC.html
+Thu Apr 13 1989,Sacramento Kings,Denver Nuggets,121,112,ARCO Arena (II),16517,/boxscores/198904130SAC.html
+Thu Apr 13 1989,Seattle SuperSonics,Miami Heat,116,111,Seattle Center Coliseum,11267,/boxscores/198904130SEA.html
+Fri Apr 14 1989,Boston Celtics,Cleveland Cavaliers,113,104,Boston Garden,14890,/boxscores/198904140BOS.html
+Fri Apr 14 1989,New Jersey Nets,Chicago Bulls,123,111,Brendan Byrne Arena,20049,/boxscores/198904140NJN.html
+Fri Apr 14 1989,New York Knicks,Detroit Pistons,104,100,Madison Square Garden (IV),19591,/boxscores/198904140NYK.html
+Fri Apr 14 1989,Philadelphia 76ers,Charlotte Hornets,115,119,The Spectrum,14321,/boxscores/198904140PHI.html
+Fri Apr 14 1989,Portland Trail Blazers,Miami Heat,97,86,Memorial Coliseum,12880,/boxscores/198904140POR.html
+Fri Apr 14 1989,San Antonio Spurs,Dallas Mavericks,110,118,HemisFair Arena,10720,/boxscores/198904140SAS.html
+Fri Apr 14 1989,Utah Jazz,Houston Rockets,122,96,Salt Palace,12444,/boxscores/198904140UTA.html
+Sat Apr 15 1989,Atlanta Hawks,Milwaukee Bucks,125,100,Omni Coliseum,16371,/boxscores/198904150ATL.html
+Sat Apr 15 1989,Golden State Warriors,Sacramento Kings,110,114,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904150GSW.html
+Sat Apr 15 1989,Indiana Pacers,Charlotte Hornets,115,105,Market Square Arena,11860,/boxscores/198904150IND.html
+Sat Apr 15 1989,Los Angeles Clippers,Los Angeles Lakers,119,107,Los Angeles Memorial Sports Arena,15352,/boxscores/198904150LAC.html
+Sat Apr 15 1989,Phoenix Suns,San Antonio Spurs,137,91,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904150PHO.html
+Sat Apr 15 1989,Portland Trail Blazers,Utah Jazz,95,99,Memorial Coliseum,12880,/boxscores/198904150POR.html
+Sat Apr 15 1989,Seattle SuperSonics,Denver Nuggets,125,92,Seattle Center Coliseum,14250,/boxscores/198904150SEA.html
+Sun Apr 16 1989,Cleveland Cavaliers,Chicago Bulls,111,92,Coliseum at Richfield,19901,/boxscores/198904160CLE.html
+Sun Apr 16 1989,Dallas Mavericks,Houston Rockets,112,114,Reunion Arena,17007,/boxscores/198904160DAL.html
+Sun Apr 16 1989,Detroit Pistons,Washington Bullets,104,98,The Palace of Auburn Hills,21454,/boxscores/198904160DET.html
+Sun Apr 16 1989,Los Angeles Lakers,Miami Heat,121,108,Great Western Forum,17505,/boxscores/198904160LAL.html
+Sun Apr 16 1989,New Jersey Nets,Milwaukee Bucks,96,100,Brendan Byrne Arena,12082,/boxscores/198904160NJN.html
+Sun Apr 16 1989,Philadelphia 76ers,New York Knicks,115,112,The Spectrum,17713,/boxscores/198904160PHI.html
+Mon Apr 17 1989,Charlotte Hornets,Boston Celtics,108,113,Charlotte Coliseum,23388,/boxscores/198904170CHH.html
+Mon Apr 17 1989,Chicago Bulls,New York Knicks,104,100,Chicago Stadium,17917,/boxscores/198904170CHI.html
+Mon Apr 17 1989,Golden State Warriors,Seattle SuperSonics,109,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904170GSW.html
+Mon Apr 17 1989,Houston Rockets,San Antonio Spurs,99,91,The Summit,16611,/boxscores/198904170HOU.html
+Mon Apr 17 1989,Los Angeles Clippers,Utah Jazz,102,108,Los Angeles Memorial Sports Arena,0,/boxscores/198904170LAC.html
+Mon Apr 17 1989,Phoenix Suns,Sacramento Kings,140,85,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904170PHO.html
+Tue Apr 18 1989,Boston Celtics,Washington Bullets,113,121,Boston Garden,14890,/boxscores/198904180BOS.html
+Tue Apr 18 1989,Cleveland Cavaliers,Detroit Pistons,102,118,Coliseum at Richfield,20273,/boxscores/198904180CLE.html
+Tue Apr 18 1989,Indiana Pacers,Atlanta Hawks,114,121,Market Square Arena,0,/boxscores/198904180IND.html
+Tue Apr 18 1989,Los Angeles Lakers,Denver Nuggets,142,118,Great Western Forum,17505,/boxscores/198904180LAL.html
+Tue Apr 18 1989,Miami Heat,Dallas Mavericks,99,103,Miami Arena,15008,/boxscores/198904180MIA.html
+Tue Apr 18 1989,New Jersey Nets,Charlotte Hornets,105,121,Brendan Byrne Arena,0,/boxscores/198904180NJN.html
+Tue Apr 18 1989,Philadelphia 76ers,Milwaukee Bucks,124,102,The Spectrum,13359,/boxscores/198904180PHI.html
+Tue Apr 18 1989,Sacramento Kings,Portland Trail Blazers,120,118,ARCO Arena (II),16517,/boxscores/198904180SAC.html
+Tue Apr 18 1989,Seattle SuperSonics,Golden State Warriors,122,118,Seattle Center Coliseum,13568,/boxscores/198904180SEA.html
+Tue Apr 18 1989,Utah Jazz,Los Angeles Clippers,92,95,Salt Palace,12444,/boxscores/198904180UTA.html
+Wed Apr 19 1989,Detroit Pistons,Indiana Pacers,115,105,The Palace of Auburn Hills,21454,/boxscores/198904190DET.html
+Wed Apr 19 1989,Miami Heat,Phoenix Suns,91,117,Miami Arena,15008,/boxscores/198904190MIA.html
+Wed Apr 19 1989,Milwaukee Bucks,Atlanta Hawks,92,100,Bradley Center,16381,/boxscores/198904190MIL.html
+Wed Apr 19 1989,San Antonio Spurs,Houston Rockets,84,99,HemisFair Arena,12176,/boxscores/198904190SAS.html
+Thu Apr 20 1989,Denver Nuggets,San Antonio Spurs,136,113,McNichols Sports Arena,13163,/boxscores/198904200DEN.html
+Thu Apr 20 1989,Los Angeles Lakers,Sacramento Kings,118,115,Great Western Forum,17505,/boxscores/198904200LAL.html
+Thu Apr 20 1989,New Jersey Nets,Philadelphia 76ers,92,105,Brendan Byrne Arena,12087,/boxscores/198904200NJN.html
+Thu Apr 20 1989,New York Knicks,Boston Celtics,137,117,Madison Square Garden (IV),19591,/boxscores/198904200NYK.html
+Thu Apr 20 1989,Seattle SuperSonics,Portland Trail Blazers,124,118,Seattle Center Coliseum,14320,/boxscores/198904200SEA.html
+Thu Apr 20 1989,Washington Bullets,Chicago Bulls,100,98,Capital Centre,17921,/boxscores/198904200WSB.html
+Fri Apr 21 1989,Atlanta Hawks,Cleveland Cavaliers,92,89,Omni Coliseum,16371,/boxscores/198904210ATL.html
+Fri Apr 21 1989,Charlotte Hornets,Milwaukee Bucks,110,117,Charlotte Coliseum,23388,/boxscores/198904210CHH.html
+Fri Apr 21 1989,Chicago Bulls,Washington Bullets,115,113,Chicago Stadium,18009,/boxscores/198904210CHI.html
+Fri Apr 21 1989,Dallas Mavericks,Utah Jazz,91,89,Reunion Arena,17007,/boxscores/198904210DAL.html
+Fri Apr 21 1989,Detroit Pistons,Philadelphia 76ers,100,91,The Palace of Auburn Hills,21454,/boxscores/198904210DET.html
+Fri Apr 21 1989,Golden State Warriors,Denver Nuggets,121,139,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198904210GSW.html
+Fri Apr 21 1989,Indiana Pacers,Boston Celtics,120,110,Market Square Arena,16912,/boxscores/198904210IND.html
+Fri Apr 21 1989,Los Angeles Clippers,Seattle SuperSonics,136,139,Los Angeles Memorial Sports Arena,11280,/boxscores/198904210LAC.html
+Fri Apr 21 1989,Phoenix Suns,Houston Rockets,101,112,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904210PHO.html
+Fri Apr 21 1989,Portland Trail Blazers,Los Angeles Lakers,114,121,Memorial Coliseum,12880,/boxscores/198904210POR.html
+Sat Apr 22 1989,Houston Rockets,Miami Heat,89,91,The Summit,16611,/boxscores/198904220HOU.html
+Sat Apr 22 1989,Milwaukee Bucks,Indiana Pacers,110,117,Bradley Center,17294,/boxscores/198904220MIL.html
+Sat Apr 22 1989,New York Knicks,New Jersey Nets,109,99,Madison Square Garden (IV),19020,/boxscores/198904220NYK.html
+Sat Apr 22 1989,Sacramento Kings,Los Angeles Clippers,104,89,ARCO Arena (II),16517,/boxscores/198904220SAC.html
+Sat Apr 22 1989,San Antonio Spurs,Phoenix Suns,111,121,HemisFair Arena,12995,/boxscores/198904220SAS.html
+Sat Apr 22 1989,Utah Jazz,Golden State Warriors,111,95,Salt Palace,12444,/boxscores/198904220UTA.html
+Sun Apr 23 1989,Boston Celtics,Charlotte Hornets,120,110,Boston Garden,14890,/boxscores/198904230BOS.html
+Sun Apr 23 1989,Chicago Bulls,Cleveland Cavaliers,84,90,Chicago Stadium,17688,/boxscores/198904230CHI.html
+Sun Apr 23 1989,Denver Nuggets,Dallas Mavericks,96,113,McNichols Sports Arena,13547,/boxscores/198904230DEN.html
+Sun Apr 23 1989,Detroit Pistons,Atlanta Hawks,99,81,The Palace of Auburn Hills,21454,/boxscores/198904230DET.html
+Sun Apr 23 1989,Los Angeles Lakers,Seattle SuperSonics,121,117,Great Western Forum,17505,/boxscores/198904230LAL.html
+Sun Apr 23 1989,Philadelphia 76ers,Washington Bullets,115,106,The Spectrum,0,/boxscores/198904230PHI.html
+Sun Apr 23 1989,Portland Trail Blazers,Sacramento Kings,126,120,Memorial Coliseum,12880,/boxscores/198904230POR.html
+Thu Apr 27 1989,Atlanta Hawks,Milwaukee Bucks,100,92,Omni Coliseum,14541,/boxscores/198904270ATL.html
+Thu Apr 27 1989,Los Angeles Lakers,Portland Trail Blazers,128,108,Great Western Forum,17505,/boxscores/198904270LAL.html
+Thu Apr 27 1989,New York Knicks,Philadelphia 76ers,102,96,Madison Square Garden (IV),19591,/boxscores/198904270NYK.html
+Thu Apr 27 1989,Utah Jazz,Golden State Warriors,119,123,Salt Palace,12444,/boxscores/198904270UTA.html
+Fri Apr 28 1989,Cleveland Cavaliers,Chicago Bulls,88,95,Coliseum at Richfield,19312,/boxscores/198904280CLE.html
+Fri Apr 28 1989,Detroit Pistons,Boston Celtics,101,91,The Palace of Auburn Hills,21454,/boxscores/198904280DET.html
+Fri Apr 28 1989,Phoenix Suns,Denver Nuggets,104,103,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904280PHO.html
+Fri Apr 28 1989,Seattle SuperSonics,Houston Rockets,111,107,Seattle Kingdome,14250,/boxscores/198904280SEA.html
+Sat Apr 29 1989,Atlanta Hawks,Milwaukee Bucks,98,108,Omni Coliseum,15742,/boxscores/198904290ATL.html
+Sat Apr 29 1989,New York Knicks,Philadelphia 76ers,107,106,Madison Square Garden (IV),19591,/boxscores/198904290NYK.html
+Sat Apr 29 1989,Utah Jazz,Golden State Warriors,91,99,Salt Palace,12444,/boxscores/198904290UTA.html
+Sun Apr 30 1989,Cleveland Cavaliers,Chicago Bulls,96,88,Coliseum at Richfield,20273,/boxscores/198904300CLE.html
+Sun Apr 30 1989,Detroit Pistons,Boston Celtics,102,95,The Palace of Auburn Hills,21454,/boxscores/198904300DET.html
+Sun Apr 30 1989,Los Angeles Lakers,Portland Trail Blazers,113,105,Great Western Forum,17505,/boxscores/198904300LAL.html
+Sun Apr 30 1989,Phoenix Suns,Denver Nuggets,132,114,Arizona Veterans Memorial Coliseum,14471,/boxscores/198904300PHO.html
+Sun Apr 30 1989,Seattle SuperSonics,Houston Rockets,109,97,Seattle Kingdome,12887,/boxscores/198904300SEA.html

@@ -1,0 +1,112 @@
+Sun Dec 1 1968,Baltimore Bullets,Chicago Bulls,110,100,Baltimore Civic Center,0,/boxscores/196812010BAL.html
+Sun Dec 1 1968,Los Angeles Lakers,Milwaukee Bucks,119,112,The Forum,0,/boxscores/196812010LAL.html
+Sun Dec 1 1968,San Diego Rockets,San Francisco Warriors,116,105,San Diego Sports Arena,0,/boxscores/196812010SDR.html
+Mon Dec 2 1968,Phoenix Suns,Seattle SuperSonics,108,118,Arizona Veterans Memorial Coliseum,0,/boxscores/196812020PHO.html
+Tue Dec 3 1968,Baltimore Bullets,Cincinnati Royals,127,129,Baltimore Civic Center,0,/boxscores/196812030BAL.html
+Tue Dec 3 1968,Chicago Bulls,San Diego Rockets,103,108,Chicago Stadium,0,/boxscores/196812030CHI.html
+Tue Dec 3 1968,Los Angeles Lakers,Phoenix Suns,122,108,The Forum,0,/boxscores/196812030LAL.html
+Tue Dec 3 1968,Milwaukee Bucks,Boston Celtics,115,137,Milwaukee Arena,0,/boxscores/196812030MIL.html
+Tue Dec 3 1968,New York Knicks,Atlanta Hawks,126,93,Madison Square Garden (IV),0,/boxscores/196812030NYK.html
+Tue Dec 3 1968,San Francisco Warriors,Seattle SuperSonics,127,122,San Francisco Civic Auditorium,0,/boxscores/196812030SFW.html
+Wed Dec 4 1968,Atlanta Hawks,New York Knicks,113,121,Alexander Memorial Coliseum,0,/boxscores/196812040ATL.html
+Wed Dec 4 1968,Boston Celtics,Milwaukee Bucks,101,99,Boston Garden,0,/boxscores/196812040BOS.html
+Wed Dec 4 1968,Detroit Pistons,Baltimore Bullets,106,112,Cobo Arena,0,/boxscores/196812040DET.html
+Wed Dec 4 1968,Philadelphia 76ers,San Diego Rockets,110,99,The Spectrum,0,/boxscores/196812040PHI.html
+Wed Dec 4 1968,Phoenix Suns,San Francisco Warriors,126,97,Arizona Veterans Memorial Coliseum,0,/boxscores/196812040PHO.html
+Thu Dec 5 1968,Baltimore Bullets,Los Angeles Lakers,108,90,Baltimore Civic Center,0,/boxscores/196812050BAL.html
+Thu Dec 5 1968,Chicago Bulls,Philadelphia 76ers,92,109,Chicago Stadium,0,/boxscores/196812050CHI.html
+Fri Dec 6 1968,Atlanta Hawks,Los Angeles Lakers,94,99,Alexander Memorial Coliseum,0,/boxscores/196812060ATL.html
+Fri Dec 6 1968,Boston Celtics,Detroit Pistons,132,118,Boston Garden,0,/boxscores/196812060BOS.html
+Fri Dec 6 1968,Milwaukee Bucks,Philadelphia 76ers,112,121,Milwaukee Arena,0,/boxscores/196812060MIL.html
+Fri Dec 6 1968,San Diego Rockets,Phoenix Suns,117,106,San Diego Sports Arena,0,/boxscores/196812060SDR.html
+Fri Dec 6 1968,Seattle SuperSonics,San Francisco Warriors,109,100,Seattle Center Coliseum,0,/boxscores/196812060SEA.html
+Sat Dec 7 1968,Chicago Bulls,Los Angeles Lakers,90,81,Chicago Stadium,0,/boxscores/196812070CHI.html
+Sat Dec 7 1968,Cincinnati Royals,Boston Celtics,114,117,Cincinnati Gardens,0,/boxscores/196812070CIN.html
+Sat Dec 7 1968,New York Knicks,Milwaukee Bucks,119,113,Madison Square Garden (IV),0,/boxscores/196812070NYK.html
+Sat Dec 7 1968,Philadelphia 76ers,Detroit Pistons,140,106,The Spectrum,0,/boxscores/196812070PHI.html
+Sat Dec 7 1968,San Francisco Warriors,Seattle SuperSonics,107,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/196812070SFW.html
+Sun Dec 8 1968,Cincinnati Royals,New York Knicks,120,115,Cleveland Arena,0,/boxscores/196812080CIN.html
+Sun Dec 8 1968,Los Angeles Lakers,San Diego Rockets,132,118,The Forum,0,/boxscores/196812080LAL.html
+Sun Dec 8 1968,Milwaukee Bucks,Philadelphia 76ers,117,122,Onondaga War Memorial,0,/boxscores/196812080MIL.html
+Sun Dec 8 1968,Phoenix Suns,Atlanta Hawks,99,121,Arizona Veterans Memorial Coliseum,0,/boxscores/196812080PHO.html
+Tue Dec 10 1968,Boston Celtics,Baltimore Bullets,101,115,Boston Garden,0,/boxscores/196812100BOS.html
+Tue Dec 10 1968,Chicago Bulls,Detroit Pistons,100,83,Chicago Stadium,0,/boxscores/196812100CHI.html
+Tue Dec 10 1968,Milwaukee Bucks,Cincinnati Royals,96,107,Milwaukee Arena,0,/boxscores/196812100MIL.html
+Tue Dec 10 1968,New York Knicks,Phoenix Suns,111,106,Madison Square Garden (IV),0,/boxscores/196812100NYK.html
+Tue Dec 10 1968,Philadelphia 76ers,San Diego Rockets,120,132,Madison Square Garden (IV),0,/boxscores/196812100PHI.html
+Tue Dec 10 1968,San Francisco Warriors,Atlanta Hawks,100,111,Cow Palace,0,/boxscores/196812100SFW.html
+Wed Dec 11 1968,Baltimore Bullets,New York Knicks,118,110,Baltimore Civic Center,0,/boxscores/196812110BAL.html
+Wed Dec 11 1968,Cincinnati Royals,San Diego Rockets,116,110,Cincinnati Gardens,0,/boxscores/196812110CIN.html
+Wed Dec 11 1968,Detroit Pistons,Boston Celtics,106,108,Cobo Arena,0,/boxscores/196812110DET.html
+Wed Dec 11 1968,Milwaukee Bucks,San Francisco Warriors,106,96,Dane County Veteran Memorial Coliseum,0,/boxscores/196812110MIL.html
+Wed Dec 11 1968,Philadelphia 76ers,Phoenix Suns,143,123,The Spectrum,0,/boxscores/196812110PHI.html
+Thu Dec 12 1968,Seattle SuperSonics,Atlanta Hawks,91,93,Seattle Center Coliseum,0,/boxscores/196812120SEA.html
+Fri Dec 13 1968,Boston Celtics,San Francisco Warriors,98,108,Boston Garden,0,/boxscores/196812130BOS.html
+Fri Dec 13 1968,Chicago Bulls,New York Knicks,83,94,Chicago Stadium,0,/boxscores/196812130CHI.html
+Fri Dec 13 1968,Cincinnati Royals,Phoenix Suns,130,123,Cincinnati Gardens,0,/boxscores/196812130CIN.html
+Fri Dec 13 1968,Los Angeles Lakers,Atlanta Hawks,103,105,The Forum,0,/boxscores/196812130LAL.html
+Fri Dec 13 1968,Milwaukee Bucks,San Diego Rockets,101,96,Milwaukee Arena,0,/boxscores/196812130MIL.html
+Sat Dec 14 1968,Baltimore Bullets,Boston Celtics,110,101,Baltimore Civic Center,0,/boxscores/196812140BAL.html
+Sat Dec 14 1968,Cincinnati Royals,Milwaukee Bucks,121,115,Cincinnati Gardens,0,/boxscores/196812140CIN.html
+Sat Dec 14 1968,Detroit Pistons,Phoenix Suns,118,123,Cobo Arena,0,/boxscores/196812140DET.html
+Sat Dec 14 1968,New York Knicks,San Diego Rockets,112,105,Madison Square Garden (IV),0,/boxscores/196812140NYK.html
+Sat Dec 14 1968,Philadelphia 76ers,San Francisco Warriors,137,91,The Spectrum,0,/boxscores/196812140PHI.html
+Sat Dec 14 1968,Seattle SuperSonics,Los Angeles Lakers,120,136,Seattle Center Coliseum,0,/boxscores/196812140SEA.html
+Sun Dec 15 1968,Cincinnati Royals,Phoenix Suns,119,101,Omaha Civic Auditorium,0,/boxscores/196812150CIN.html
+Sun Dec 15 1968,Los Angeles Lakers,Seattle SuperSonics,115,114,The Forum,0,/boxscores/196812150LAL.html
+Sun Dec 15 1968,Philadelphia 76ers,New York Knicks,110,104,The Spectrum,0,/boxscores/196812150PHI.html
+Tue Dec 17 1968,Chicago Bulls,Atlanta Hawks,83,87,Chicago Stadium,0,/boxscores/196812170CHI.html
+Tue Dec 17 1968,Los Angeles Lakers,Cincinnati Royals,112,108,The Forum,0,/boxscores/196812170LAL.html
+Tue Dec 17 1968,New York Knicks,San Francisco Warriors,114,99,Madison Square Garden (IV),0,/boxscores/196812170NYK.html
+Tue Dec 17 1968,Phoenix Suns,Philadelphia 76ers,128,145,Arizona Veterans Memorial Coliseum,0,/boxscores/196812170PHO.html
+Wed Dec 18 1968,Atlanta Hawks,Milwaukee Bucks,122,116,Alexander Memorial Coliseum,0,/boxscores/196812180ATL.html
+Wed Dec 18 1968,Baltimore Bullets,San Francisco Warriors,109,100,Baltimore Civic Center,0,/boxscores/196812180BAL.html
+Wed Dec 18 1968,Boston Celtics,New York Knicks,98,104,Boston Garden,0,/boxscores/196812180BOS.html
+Wed Dec 18 1968,Detroit Pistons,San Diego Rockets,124,112,Cobo Arena,0,/boxscores/196812180DET.html
+Wed Dec 18 1968,Phoenix Suns,Cincinnati Royals,123,114,Arizona Veterans Memorial Coliseum,0,/boxscores/196812180PHO.html
+Wed Dec 18 1968,Seattle SuperSonics,Philadelphia 76ers,111,115,Seattle Center Coliseum,0,/boxscores/196812180SEA.html
+Thu Dec 19 1968,Chicago Bulls,Milwaukee Bucks,113,111,Chicago Stadium,0,/boxscores/196812190CHI.html
+Fri Dec 20 1968,Baltimore Bullets,Chicago Bulls,125,102,Milwaukee Arena,0,/boxscores/196812200BAL.html
+Fri Dec 20 1968,Detroit Pistons,New York Knicks,87,135,Cobo Arena,0,/boxscores/196812200DET.html
+Fri Dec 20 1968,Los Angeles Lakers,San Francisco Warriors,133,101,The Forum,0,/boxscores/196812200LAL.html
+Fri Dec 20 1968,Milwaukee Bucks,Seattle SuperSonics,100,92,Milwaukee Arena,0,/boxscores/196812200MIL.html
+Fri Dec 20 1968,San Diego Rockets,Philadelphia 76ers,109,116,San Diego Sports Arena,0,/boxscores/196812200SDR.html
+Sat Dec 21 1968,Atlanta Hawks,Detroit Pistons,120,110,Alexander Memorial Coliseum,0,/boxscores/196812210ATL.html
+Sat Dec 21 1968,Baltimore Bullets,Phoenix Suns,131,117,Baltimore Civic Center,0,/boxscores/196812210BAL.html
+Sat Dec 21 1968,Chicago Bulls,Boston Celtics,94,102,Chicago Stadium,0,/boxscores/196812210CHI.html
+Sat Dec 21 1968,New York Knicks,Seattle SuperSonics,131,105,Madison Square Garden (IV),0,/boxscores/196812210NYK.html
+Sat Dec 21 1968,San Diego Rockets,Cincinnati Royals,132,124,San Diego Sports Arena,0,/boxscores/196812210SDR.html
+Sat Dec 21 1968,San Francisco Warriors,Philadelphia 76ers,109,94,Oakland-Alameda County Coliseum Arena,0,/boxscores/196812210SFW.html
+Sun Dec 22 1968,Los Angeles Lakers,Philadelphia 76ers,102,99,The Forum,0,/boxscores/196812220LAL.html
+Sun Dec 22 1968,Milwaukee Bucks,Phoenix Suns,127,116,Milwaukee Arena,0,/boxscores/196812220MIL.html
+Mon Dec 23 1968,San Diego Rockets,San Francisco Warriors,95,125,San Diego Sports Arena,0,/boxscores/196812230SDR.html
+Wed Dec 25 1968,Baltimore Bullets,Seattle SuperSonics,118,112,Baltimore Civic Center,0,/boxscores/196812250BAL.html
+Wed Dec 25 1968,Cincinnati Royals,Chicago Bulls,103,98,Cincinnati Gardens,0,/boxscores/196812250CIN.html
+Wed Dec 25 1968,Milwaukee Bucks,Detroit Pistons,113,119,Milwaukee Arena,0,/boxscores/196812250MIL.html
+Wed Dec 25 1968,New York Knicks,Philadelphia 76ers,110,109,Madison Square Garden (IV),0,/boxscores/196812250NYK.html
+Wed Dec 25 1968,Phoenix Suns,Los Angeles Lakers,99,119,Arizona Veterans Memorial Coliseum,0,/boxscores/196812250PHO.html
+Thu Dec 26 1968,Atlanta Hawks,Seattle SuperSonics,126,96,Alexander Memorial Coliseum,0,/boxscores/196812260ATL.html
+Thu Dec 26 1968,Boston Celtics,Milwaukee Bucks,139,106,Boston Garden,0,/boxscores/196812260BOS.html
+Thu Dec 26 1968,Chicago Bulls,Cincinnati Royals,104,96,Chicago Stadium,0,/boxscores/196812260CHI.html
+Thu Dec 26 1968,Detroit Pistons,Los Angeles Lakers,94,95,Cobo Arena,0,/boxscores/196812260DET.html
+Thu Dec 26 1968,Philadelphia 76ers,Baltimore Bullets,125,120,The Spectrum,0,/boxscores/196812260PHI.html
+Thu Dec 26 1968,San Francisco Warriors,Phoenix Suns,119,118,San Francisco Civic Auditorium,0,/boxscores/196812260SFW.html
+Fri Dec 27 1968,Baltimore Bullets,Milwaukee Bucks,136,122,Baltimore Civic Center,0,/boxscores/196812270BAL.html
+Fri Dec 27 1968,San Diego Rockets,New York Knicks,109,111,San Diego Sports Arena,0,/boxscores/196812270SDR.html
+Sat Dec 28 1968,Atlanta Hawks,Boston Celtics,110,97,Alexander Memorial Coliseum,0,/boxscores/196812280ATL.html
+Sat Dec 28 1968,Chicago Bulls,Los Angeles Lakers,93,86,Chicago Stadium,0,/boxscores/196812280CHI.html
+Sat Dec 28 1968,Cincinnati Royals,Philadelphia 76ers,123,128,Cincinnati Gardens,0,/boxscores/196812280CIN.html
+Sat Dec 28 1968,Detroit Pistons,San Francisco Warriors,131,102,Cobo Arena,0,/boxscores/196812280DET.html
+Sat Dec 28 1968,Phoenix Suns,San Diego Rockets,126,136,Arizona Veterans Memorial Coliseum,0,/boxscores/196812280PHO.html
+Sat Dec 28 1968,Seattle SuperSonics,New York Knicks,108,111,Seattle Center Coliseum,0,/boxscores/196812280SEA.html
+Sun Dec 29 1968,Atlanta Hawks,Baltimore Bullets,101,99,Alexander Memorial Coliseum,0,/boxscores/196812290ATL.html
+Sun Dec 29 1968,Los Angeles Lakers,Detroit Pistons,111,108,The Forum,0,/boxscores/196812290LAL.html
+Sun Dec 29 1968,Milwaukee Bucks,Chicago Bulls,97,102,Milwaukee Arena,0,/boxscores/196812290MIL.html
+Sun Dec 29 1968,New York Knicks,Seattle SuperSonics,120,112,Pacific Coliseum,0,/boxscores/196812290NYK.html
+Mon Dec 30 1968,Chicago Bulls,San Francisco Warriors,103,97,Chicago Stadium,0,/boxscores/196812300CHI.html
+Mon Dec 30 1968,San Diego Rockets,Los Angeles Lakers,126,131,San Diego Sports Arena,0,/boxscores/196812300SDR.html
+Mon Dec 30 1968,Seattle SuperSonics,Phoenix Suns,120,118,Seattle Center Coliseum,0,/boxscores/196812300SEA.html
+Tue Dec 31 1968,Boston Celtics,Cincinnati Royals,112,114,Boston Garden,0,/boxscores/196812310BOS.html
+Tue Dec 31 1968,Los Angeles Lakers,Detroit Pistons,107,127,The Forum,0,/boxscores/196812310LAL.html
+Tue Dec 31 1968,Milwaukee Bucks,Philadelphia 76ers,107,128,Milwaukee Arena,0,/boxscores/196812310MIL.html
+Tue Dec 31 1968,New York Knicks,Baltimore Bullets,121,110,Madison Square Garden (IV),0,/boxscores/196812310NYK.html

@@ -1,0 +1,60 @@
+Tue May 1 2012,Atlanta Hawks,Boston Celtics,80,87,Philips Arena,19308,/boxscores/201205010ATL.html
+Tue May 1 2012,Chicago Bulls,Philadelphia 76ers,92,109,United Center,22067,/boxscores/201205010CHI.html
+Tue May 1 2012,Los Angeles Lakers,Denver Nuggets,104,100,STAPLES Center,18997,/boxscores/201205010LAL.html
+Wed May 2 2012,San Antonio Spurs,Utah Jazz,114,83,AT&T Center,18581,/boxscores/201205020SAS.html
+Wed May 2 2012,Orlando Magic,Indiana Pacers,74,97,Amway Center,18846,/boxscores/201205020ORL.html
+Wed May 2 2012,Memphis Grizzlies,Los Angeles Clippers,105,98,FedEx Forum,18119,/boxscores/201205020MEM.html
+Thu May 3 2012,New York Knicks,Miami Heat,70,87,Madison Square Garden (IV),19763,/boxscores/201205030NYK.html
+Thu May 3 2012,Dallas Mavericks,Oklahoma City Thunder,79,95,American Airlines Center,20640,/boxscores/201205030DAL.html
+Fri May 4 2012,Boston Celtics,Atlanta Hawks,90,84,TD Garden,18624,/boxscores/201205040BOS.html
+Fri May 4 2012,Philadelphia 76ers,Chicago Bulls,79,74,Wells Fargo Center,20381,/boxscores/201205040PHI.html
+Fri May 4 2012,Denver Nuggets,Los Angeles Lakers,99,84,Pepsi Center,19155,/boxscores/201205040DEN.html
+Sat May 5 2012,Orlando Magic,Indiana Pacers,99,101,Amway Center,18846,/boxscores/201205050ORL.html
+Sat May 5 2012,Los Angeles Clippers,Memphis Grizzlies,87,86,STAPLES Center,19060,/boxscores/201205050LAC.html
+Sat May 5 2012,Dallas Mavericks,Oklahoma City Thunder,97,103,American Airlines Center,20533,/boxscores/201205050DAL.html
+Sat May 5 2012,Utah Jazz,San Antonio Spurs,90,102,EnergySolutions Arena,19911,/boxscores/201205050UTA.html
+Sun May 6 2012,Philadelphia 76ers,Chicago Bulls,89,82,Wells Fargo Center,20412,/boxscores/201205060PHI.html
+Sun May 6 2012,New York Knicks,Miami Heat,89,87,Madison Square Garden (IV),19763,/boxscores/201205060NYK.html
+Sun May 6 2012,Boston Celtics,Atlanta Hawks,101,79,TD Garden,18624,/boxscores/201205060BOS.html
+Sun May 6 2012,Denver Nuggets,Los Angeles Lakers,88,92,Pepsi Center,19155,/boxscores/201205060DEN.html
+Mon May 7 2012,Utah Jazz,San Antonio Spurs,81,87,EnergySolutions Arena,19911,/boxscores/201205070UTA.html
+Mon May 7 2012,Los Angeles Clippers,Memphis Grizzlies,101,97,STAPLES Center,19167,/boxscores/201205070LAC.html
+Tue May 8 2012,Indiana Pacers,Orlando Magic,105,87,Bankers Life Fieldhouse,18165,/boxscores/201205080IND.html
+Tue May 8 2012,Atlanta Hawks,Boston Celtics,87,86,Philips Arena,19319,/boxscores/201205080ATL.html
+Tue May 8 2012,Chicago Bulls,Philadelphia 76ers,77,69,United Center,22093,/boxscores/201205080CHI.html
+Tue May 8 2012,Los Angeles Lakers,Denver Nuggets,99,102,STAPLES Center,18997,/boxscores/201205080LAL.html
+Wed May 9 2012,Miami Heat,New York Knicks,106,94,AmericanAirlines Arena,19754,/boxscores/201205090MIA.html
+Wed May 9 2012,Memphis Grizzlies,Los Angeles Clippers,92,80,FedEx Forum,18119,/boxscores/201205090MEM.html
+Thu May 10 2012,Philadelphia 76ers,Chicago Bulls,79,78,Wells Fargo Center,20362,/boxscores/201205100PHI.html
+Thu May 10 2012,Boston Celtics,Atlanta Hawks,83,80,TD Garden,18624,/boxscores/201205100BOS.html
+Thu May 10 2012,Denver Nuggets,Los Angeles Lakers,113,96,Pepsi Center,19770,/boxscores/201205100DEN.html
+Fri May 11 2012,Los Angeles Clippers,Memphis Grizzlies,88,90,STAPLES Center,19060,/boxscores/201205110LAC.html
+Sat May 12 2012,Boston Celtics,Philadelphia 76ers,92,91,TD Garden,18624,/boxscores/201205120BOS.html
+Sat May 12 2012,Los Angeles Lakers,Denver Nuggets,96,87,STAPLES Center,18997,/boxscores/201205120LAL.html
+Sun May 13 2012,Memphis Grizzlies,Los Angeles Clippers,72,82,FedEx Forum,18119,/boxscores/201205130MEM.html
+Sun May 13 2012,Miami Heat,Indiana Pacers,95,86,AmericanAirlines Arena,19600,/boxscores/201205130MIA.html
+Mon May 14 2012,Boston Celtics,Philadelphia 76ers,81,82,TD Garden,18624,/boxscores/201205140BOS.html
+Mon May 14 2012,Oklahoma City Thunder,Los Angeles Lakers,119,90,Chesapeake Energy Arena,18203,/boxscores/201205140OKC.html
+Tue May 15 2012,Miami Heat,Indiana Pacers,75,78,AmericanAirlines Arena,19828,/boxscores/201205150MIA.html
+Tue May 15 2012,San Antonio Spurs,Los Angeles Clippers,108,92,AT&T Center,18581,/boxscores/201205150SAS.html
+Wed May 16 2012,Philadelphia 76ers,Boston Celtics,91,107,Wells Fargo Center,20351,/boxscores/201205160PHI.html
+Wed May 16 2012,Oklahoma City Thunder,Los Angeles Lakers,77,75,Chesapeake Energy Arena,18203,/boxscores/201205160OKC.html
+Thu May 17 2012,Indiana Pacers,Miami Heat,94,75,Bankers Life Fieldhouse,18165,/boxscores/201205170IND.html
+Thu May 17 2012,San Antonio Spurs,Los Angeles Clippers,105,88,AT&T Center,18581,/boxscores/201205170SAS.html
+Fri May 18 2012,Philadelphia 76ers,Boston Celtics,92,83,Wells Fargo Center,20411,/boxscores/201205180PHI.html
+Fri May 18 2012,Los Angeles Lakers,Oklahoma City Thunder,99,96,STAPLES Center,18997,/boxscores/201205180LAL.html
+Sat May 19 2012,Los Angeles Clippers,San Antonio Spurs,86,96,STAPLES Center,19060,/boxscores/201205190LAC.html
+Sat May 19 2012,Los Angeles Lakers,Oklahoma City Thunder,100,103,STAPLES Center,18997,/boxscores/201205190LAL.html
+Sun May 20 2012,Indiana Pacers,Miami Heat,93,101,Bankers Life Fieldhouse,18165,/boxscores/201205200IND.html
+Sun May 20 2012,Los Angeles Clippers,San Antonio Spurs,99,102,STAPLES Center,19060,/boxscores/201205200LAC.html
+Mon May 21 2012,Boston Celtics,Philadelphia 76ers,101,85,TD Garden,18624,/boxscores/201205210BOS.html
+Mon May 21 2012,Oklahoma City Thunder,Los Angeles Lakers,106,90,Chesapeake Energy Arena,18203,/boxscores/201205210OKC.html
+Tue May 22 2012,Miami Heat,Indiana Pacers,115,83,AmericanAirlines Arena,20097,/boxscores/201205220MIA.html
+Wed May 23 2012,Philadelphia 76ers,Boston Celtics,82,75,Wells Fargo Center,20403,/boxscores/201205230PHI.html
+Thu May 24 2012,Indiana Pacers,Miami Heat,93,105,Bankers Life Fieldhouse,18165,/boxscores/201205240IND.html
+Sat May 26 2012,Boston Celtics,Philadelphia 76ers,85,75,TD Garden,18624,/boxscores/201205260BOS.html
+Sun May 27 2012,San Antonio Spurs,Oklahoma City Thunder,101,98,AT&T Center,18581,/boxscores/201205270SAS.html
+Mon May 28 2012,Miami Heat,Boston Celtics,93,79,AmericanAirlines Arena,19912,/boxscores/201205280MIA.html
+Tue May 29 2012,San Antonio Spurs,Oklahoma City Thunder,120,111,AT&T Center,18581,/boxscores/201205290SAS.html
+Wed May 30 2012,Miami Heat,Boston Celtics,115,111,AmericanAirlines Arena,19973,/boxscores/201205300MIA.html
+Thu May 31 2012,Oklahoma City Thunder,San Antonio Spurs,102,82,Chesapeake Energy Arena,18203,/boxscores/201205310OKC.html

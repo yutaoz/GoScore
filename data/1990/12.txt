@@ -1,0 +1,190 @@
+Fri Dec 1 1989,Atlanta Hawks,Utah Jazz,114,103,Omni Coliseum,12906,/boxscores/198912010ATL.html
+Fri Dec 1 1989,Boston Celtics,Cleveland Cavaliers,102,89,Boston Garden,14890,/boxscores/198912010BOS.html
+Fri Dec 1 1989,Indiana Pacers,Orlando Magic,125,110,Market Square Arena,11040,/boxscores/198912010IND.html
+Fri Dec 1 1989,Los Angeles Lakers,Detroit Pistons,97,108,Great Western Forum,17505,/boxscores/198912010LAL.html
+Fri Dec 1 1989,New Jersey Nets,Miami Heat,101,77,Brendan Byrne Arena,10240,/boxscores/198912010NJN.html
+Fri Dec 1 1989,Phoenix Suns,Los Angeles Clippers,111,90,Arizona Veterans Memorial Coliseum,13240,/boxscores/198912010PHO.html
+Fri Dec 1 1989,Portland Trail Blazers,Golden State Warriors,123,110,Memorial Coliseum,12884,/boxscores/198912010POR.html
+Fri Dec 1 1989,Washington Bullets,Philadelphia 76ers,107,90,Baltimore Arena,12002,/boxscores/198912010WSB.html
+Sat Dec 2 1989,Atlanta Hawks,Philadelphia 76ers,100,92,Omni Coliseum,15507,/boxscores/198912020ATL.html
+Sat Dec 2 1989,Cleveland Cavaliers,Minnesota Timberwolves,74,101,Coliseum at Richfield,14995,/boxscores/198912020CLE.html
+Sat Dec 2 1989,Denver Nuggets,Portland Trail Blazers,146,113,McNichols Sports Arena,17022,/boxscores/198912020DEN.html
+Sat Dec 2 1989,Golden State Warriors,Milwaukee Bucks,101,98,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912020GSW.html
+Sat Dec 2 1989,Houston Rockets,Dallas Mavericks,103,106,The Summit,15997,/boxscores/198912020HOU.html
+Sat Dec 2 1989,Los Angeles Clippers,Sacramento Kings,114,84,Los Angeles Memorial Sports Arena,10530,/boxscores/198912020LAC.html
+Sat Dec 2 1989,Miami Heat,Chicago Bulls,107,114,Miami Arena,15008,/boxscores/198912020MIA.html
+Sat Dec 2 1989,Phoenix Suns,New York Knicks,112,122,Arizona Veterans Memorial Coliseum,14033,/boxscores/198912020PHO.html
+Sat Dec 2 1989,San Antonio Spurs,Charlotte Hornets,118,110,HemisFair Arena,13371,/boxscores/198912020SAS.html
+Sat Dec 2 1989,Seattle SuperSonics,Detroit Pistons,120,95,Seattle Center Coliseum,14546,/boxscores/198912020SEA.html
+Sat Dec 2 1989,Washington Bullets,Utah Jazz,98,100,Capital Centre,12117,/boxscores/198912020WSB.html
+Sun Dec 3 1989,Los Angeles Lakers,New York Knicks,115,104,Great Western Forum,17505,/boxscores/198912030LAL.html
+Mon Dec 4 1989,Orlando Magic,Portland Trail Blazers,95,121,Orlando Arena,14388,/boxscores/198912040ORL.html
+Tue Dec 5 1989,Charlotte Hornets,Boston Celtics,101,114,Charlotte Coliseum,23901,/boxscores/198912050CHH.html
+Tue Dec 5 1989,Chicago Bulls,Denver Nuggets,119,99,Chicago Stadium,18040,/boxscores/198912050CHI.html
+Tue Dec 5 1989,Cleveland Cavaliers,Utah Jazz,80,94,Coliseum at Richfield,14210,/boxscores/198912050CLE.html
+Tue Dec 5 1989,Dallas Mavericks,Golden State Warriors,107,88,Reunion Arena,16457,/boxscores/198912050DAL.html
+Tue Dec 5 1989,Los Angeles Lakers,Los Angeles Clippers,111,103,Great Western Forum,16035,/boxscores/198912050LAL.html
+Tue Dec 5 1989,Miami Heat,Portland Trail Blazers,107,113,Miami Arena,15008,/boxscores/198912050MIA.html
+Tue Dec 5 1989,Minnesota Timberwolves,New Jersey Nets,92,90,Hubert H. Humphrey Metrodome,18918,/boxscores/198912050MIN.html
+Tue Dec 5 1989,New York Knicks,Philadelphia 76ers,110,103,Madison Square Garden (IV),18212,/boxscores/198912050NYK.html
+Tue Dec 5 1989,Sacramento Kings,Milwaukee Bucks,118,103,ARCO Arena (II),17014,/boxscores/198912050SAC.html
+Tue Dec 5 1989,Seattle SuperSonics,Houston Rockets,133,123,Seattle Center Coliseum,9241,/boxscores/198912050SEA.html
+Wed Dec 6 1989,Boston Celtics,New York Knicks,113,98,Boston Garden,14890,/boxscores/198912060BOS.html
+Wed Dec 6 1989,Detroit Pistons,Washington Bullets,115,107,The Palace of Auburn Hills,21454,/boxscores/198912060DET.html
+Wed Dec 6 1989,Indiana Pacers,Denver Nuggets,136,117,Market Square Arena,9352,/boxscores/198912060IND.html
+Wed Dec 6 1989,Orlando Magic,Atlanta Hawks,110,118,Orlando Arena,15077,/boxscores/198912060ORL.html
+Wed Dec 6 1989,Philadelphia 76ers,Miami Heat,121,98,The Spectrum,8895,/boxscores/198912060PHI.html
+Wed Dec 6 1989,San Antonio Spurs,Golden State Warriors,121,119,HemisFair Arena,10588,/boxscores/198912060SAS.html
+Thu Dec 7 1989,Charlotte Hornets,Portland Trail Blazers,86,96,Charlotte Coliseum,23901,/boxscores/198912070CHH.html
+Thu Dec 7 1989,Los Angeles Clippers,Cleveland Cavaliers,105,88,Los Angeles Memorial Sports Arena,9044,/boxscores/198912070LAC.html
+Thu Dec 7 1989,Los Angeles Lakers,Phoenix Suns,100,96,Great Western Forum,17257,/boxscores/198912070LAL.html
+Thu Dec 7 1989,Utah Jazz,Dallas Mavericks,107,97,Salt Palace,12616,/boxscores/198912070UTA.html
+Fri Dec 8 1989,Atlanta Hawks,Portland Trail Blazers,127,120,Omni Coliseum,11767,/boxscores/198912080ATL.html
+Fri Dec 8 1989,Boston Celtics,Denver Nuggets,102,103,Boston Garden,14890,/boxscores/198912080BOS.html
+Fri Dec 8 1989,Dallas Mavericks,San Antonio Spurs,93,99,Reunion Arena,17007,/boxscores/198912080DAL.html
+Fri Dec 8 1989,Golden State Warriors,Sacramento Kings,121,126,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912080GSW.html
+Fri Dec 8 1989,Houston Rockets,New Jersey Nets,94,99,The Summit,15105,/boxscores/198912080HOU.html
+Fri Dec 8 1989,Indiana Pacers,Chicago Bulls,106,104,Market Square Arena,16912,/boxscores/198912080IND.html
+Fri Dec 8 1989,Miami Heat,Orlando Magic,122,114,Miami Arena,15008,/boxscores/198912080MIA.html
+Fri Dec 8 1989,Philadelphia 76ers,Detroit Pistons,107,101,The Spectrum,15634,/boxscores/198912080PHI.html
+Fri Dec 8 1989,Phoenix Suns,Milwaukee Bucks,123,98,Arizona Veterans Memorial Coliseum,12409,/boxscores/198912080PHO.html
+Sat Dec 9 1989,Atlanta Hawks,Minnesota Timberwolves,104,91,Omni Coliseum,11876,/boxscores/198912090ATL.html
+Sat Dec 9 1989,Charlotte Hornets,Denver Nuggets,93,106,Charlotte Coliseum,23901,/boxscores/198912090CHH.html
+Sat Dec 9 1989,Chicago Bulls,Philadelphia 76ers,125,105,Chicago Stadium,18655,/boxscores/198912090CHI.html
+Sat Dec 9 1989,Detroit Pistons,Indiana Pacers,121,93,The Palace of Auburn Hills,21454,/boxscores/198912090DET.html
+Sat Dec 9 1989,New York Knicks,Boston Celtics,124,92,Madison Square Garden (IV),18212,/boxscores/198912090NYK.html
+Sat Dec 9 1989,Sacramento Kings,Cleveland Cavaliers,101,108,ARCO Arena (II),17014,/boxscores/198912090SAC.html
+Sat Dec 9 1989,San Antonio Spurs,New Jersey Nets,109,92,HemisFair Arena,14930,/boxscores/198912090SAS.html
+Sat Dec 9 1989,Seattle SuperSonics,Los Angeles Clippers,104,100,Seattle Center Coliseum,12548,/boxscores/198912090SEA.html
+Sat Dec 9 1989,Utah Jazz,Houston Rockets,104,90,Salt Palace,12616,/boxscores/198912090UTA.html
+Sat Dec 9 1989,Washington Bullets,Los Angeles Lakers,103,101,Capital Centre,18756,/boxscores/198912090WSB.html
+Sun Dec 10 1989,Milwaukee Bucks,Portland Trail Blazers,107,104,Bradley Center,15124,/boxscores/198912100MIL.html
+Sun Dec 10 1989,Orlando Magic,Los Angeles Lakers,108,103,Orlando Arena,15077,/boxscores/198912100ORL.html
+Mon Dec 11 1989,Utah Jazz,Cleveland Cavaliers,110,113,Salt Palace,12616,/boxscores/198912110UTA.html
+Tue Dec 12 1989,Atlanta Hawks,San Antonio Spurs,102,94,Omni Coliseum,12760,/boxscores/198912120ATL.html
+Tue Dec 12 1989,Charlotte Hornets,Los Angeles Lakers,89,103,Charlotte Coliseum,23901,/boxscores/198912120CHH.html
+Tue Dec 12 1989,Chicago Bulls,Dallas Mavericks,105,97,Chicago Stadium,17611,/boxscores/198912120CHI.html
+Tue Dec 12 1989,Denver Nuggets,Detroit Pistons,108,121,McNichols Sports Arena,17002,/boxscores/198912120DEN.html
+Tue Dec 12 1989,Houston Rockets,Phoenix Suns,105,83,The Summit,14867,/boxscores/198912120HOU.html
+Tue Dec 12 1989,Indiana Pacers,Minnesota Timberwolves,113,112,Market Square Arena,8754,/boxscores/198912120IND.html
+Tue Dec 12 1989,Milwaukee Bucks,Orlando Magic,106,103,Bradley Center,14276,/boxscores/198912120MIL.html
+Tue Dec 12 1989,New Jersey Nets,Philadelphia 76ers,97,82,Brendan Byrne Arena,10549,/boxscores/198912120NJN.html
+Tue Dec 12 1989,Portland Trail Blazers,Los Angeles Clippers,99,92,Memorial Coliseum,12884,/boxscores/198912120POR.html
+Tue Dec 12 1989,Sacramento Kings,Golden State Warriors,103,118,ARCO Arena (II),17014,/boxscores/198912120SAC.html
+Wed Dec 13 1989,Boston Celtics,Seattle SuperSonics,109,97,Boston Garden,14890,/boxscores/198912130BOS.html
+Wed Dec 13 1989,Cleveland Cavaliers,Milwaukee Bucks,99,93,Coliseum at Richfield,13331,/boxscores/198912130CLE.html
+Wed Dec 13 1989,Golden State Warriors,Denver Nuggets,134,114,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912130GSW.html
+Wed Dec 13 1989,Los Angeles Clippers,Detroit Pistons,83,79,Los Angeles Memorial Sports Arena,13041,/boxscores/198912130LAC.html
+Wed Dec 13 1989,Miami Heat,Los Angeles Lakers,75,102,Miami Arena,15008,/boxscores/198912130MIA.html
+Wed Dec 13 1989,Minnesota Timberwolves,Dallas Mavericks,87,90,Hubert H. Humphrey Metrodome,20187,/boxscores/198912130MIN.html
+Wed Dec 13 1989,Philadelphia 76ers,Atlanta Hawks,112,103,The Spectrum,8048,/boxscores/198912130PHI.html
+Wed Dec 13 1989,Utah Jazz,Phoenix Suns,102,95,Salt Palace,12616,/boxscores/198912130UTA.html
+Thu Dec 14 1989,Chicago Bulls,Orlando Magic,124,113,Chicago Stadium,17621,/boxscores/198912140CHI.html
+Thu Dec 14 1989,New Jersey Nets,Indiana Pacers,78,102,Brendan Byrne Arena,7810,/boxscores/198912140NJN.html
+Thu Dec 14 1989,San Antonio Spurs,Houston Rockets,104,100,HemisFair Arena,15353,/boxscores/198912140SAS.html
+Thu Dec 14 1989,Washington Bullets,Charlotte Hornets,105,101,Capital Centre,5833,/boxscores/198912140WSB.html
+Fri Dec 15 1989,Atlanta Hawks,New York Knicks,109,113,Omni Coliseum,15608,/boxscores/198912150ATL.html
+Fri Dec 15 1989,Boston Celtics,Los Angeles Lakers,110,119,Boston Garden,14890,/boxscores/198912150BOS.html
+Fri Dec 15 1989,Cleveland Cavaliers,Seattle SuperSonics,120,101,Coliseum at Richfield,15072,/boxscores/198912150CLE.html
+Fri Dec 15 1989,Denver Nuggets,Sacramento Kings,121,112,McNichols Sports Arena,9112,/boxscores/198912150DEN.html
+Fri Dec 15 1989,Indiana Pacers,Milwaukee Bucks,98,103,Market Square Arena,10495,/boxscores/198912150IND.html
+Fri Dec 15 1989,Minnesota Timberwolves,Miami Heat,84,95,Hubert H. Humphrey Metrodome,21899,/boxscores/198912150MIN.html
+Fri Dec 15 1989,Philadelphia 76ers,Dallas Mavericks,88,95,The Spectrum,12911,/boxscores/198912150PHI.html
+Fri Dec 15 1989,Phoenix Suns,Houston Rockets,121,96,Arizona Veterans Memorial Coliseum,14032,/boxscores/198912150PHO.html
+Fri Dec 15 1989,Portland Trail Blazers,Golden State Warriors,111,116,Memorial Coliseum,12884,/boxscores/198912150POR.html
+Fri Dec 15 1989,Utah Jazz,Detroit Pistons,94,91,Salt Palace,12616,/boxscores/198912150UTA.html
+Sat Dec 16 1989,Chicago Bulls,Charlotte Hornets,115,104,Chicago Stadium,17930,/boxscores/198912160CHI.html
+Sat Dec 16 1989,Golden State Warriors,Detroit Pistons,104,92,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912160GSW.html
+Sat Dec 16 1989,Los Angeles Clippers,Denver Nuggets,114,108,Los Angeles Memorial Sports Arena,10024,/boxscores/198912160LAC.html
+Sat Dec 16 1989,Milwaukee Bucks,Miami Heat,96,99,Bradley Center,15715,/boxscores/198912160MIL.html
+Sat Dec 16 1989,New Jersey Nets,Los Angeles Lakers,92,99,Brendan Byrne Arena,20049,/boxscores/198912160NJN.html
+Sat Dec 16 1989,New York Knicks,Seattle SuperSonics,118,97,Madison Square Garden (IV),18212,/boxscores/198912160NYK.html
+Sat Dec 16 1989,San Antonio Spurs,Orlando Magic,125,116,HemisFair Arena,12159,/boxscores/198912160SAS.html
+Sat Dec 16 1989,Washington Bullets,Dallas Mavericks,112,108,Capital Centre,7310,/boxscores/198912160WSB.html
+Sun Dec 17 1989,Houston Rockets,Orlando Magic,109,94,The Summit,14756,/boxscores/198912170HOU.html
+Sun Dec 17 1989,Minnesota Timberwolves,Utah Jazz,112,122,Hubert H. Humphrey Metrodome,23262,/boxscores/198912170MIN.html
+Sun Dec 17 1989,Portland Trail Blazers,Indiana Pacers,121,113,Memorial Coliseum,12884,/boxscores/198912170POR.html
+Sun Dec 17 1989,Sacramento Kings,Phoenix Suns,113,125,ARCO Arena (II),17014,/boxscores/198912170SAC.html
+Tue Dec 19 1989,Atlanta Hawks,Sacramento Kings,115,112,Omni Coliseum,10185,/boxscores/198912190ATL.html
+Tue Dec 19 1989,Charlotte Hornets,Dallas Mavericks,102,97,Charlotte Coliseum,23901,/boxscores/198912190CHH.html
+Tue Dec 19 1989,Chicago Bulls,Los Angeles Lakers,93,83,Chicago Stadium,18676,/boxscores/198912190CHI.html
+Tue Dec 19 1989,Detroit Pistons,Seattle SuperSonics,94,77,The Palace of Auburn Hills,21454,/boxscores/198912190DET.html
+Tue Dec 19 1989,Los Angeles Clippers,Indiana Pacers,128,102,Los Angeles Memorial Sports Arena,8809,/boxscores/198912190LAC.html
+Tue Dec 19 1989,Miami Heat,New Jersey Nets,98,100,Miami Arena,15008,/boxscores/198912190MIA.html
+Tue Dec 19 1989,Milwaukee Bucks,Boston Celtics,86,95,Bradley Center,15182,/boxscores/198912190MIL.html
+Tue Dec 19 1989,New York Knicks,Utah Jazz,115,107,Madison Square Garden (IV),18212,/boxscores/198912190NYK.html
+Tue Dec 19 1989,Portland Trail Blazers,Houston Rockets,119,100,Memorial Coliseum,12884,/boxscores/198912190POR.html
+Tue Dec 19 1989,Washington Bullets,Minnesota Timberwolves,112,99,Capital Centre,6703,/boxscores/198912190WSB.html
+Wed Dec 20 1989,Boston Celtics,Utah Jazz,113,109,Boston Garden,14890,/boxscores/198912200BOS.html
+Wed Dec 20 1989,Cleveland Cavaliers,Denver Nuggets,89,104,Coliseum at Richfield,15379,/boxscores/198912200CLE.html
+Wed Dec 20 1989,Golden State Warriors,Houston Rockets,118,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912200GSW.html
+Wed Dec 20 1989,Minnesota Timberwolves,Los Angeles Lakers,97,106,Hubert H. Humphrey Metrodome,25689,/boxscores/198912200MIN.html
+Wed Dec 20 1989,New Jersey Nets,Dallas Mavericks,78,84,Brendan Byrne Arena,7010,/boxscores/198912200NJN.html
+Wed Dec 20 1989,Orlando Magic,Chicago Bulls,110,109,Orlando Arena,15077,/boxscores/198912200ORL.html
+Wed Dec 20 1989,Philadelphia 76ers,Washington Bullets,118,111,The Spectrum,8415,/boxscores/198912200PHI.html
+Wed Dec 20 1989,Phoenix Suns,Indiana Pacers,130,131,Arizona Veterans Memorial Coliseum,13329,/boxscores/198912200PHO.html
+Wed Dec 20 1989,San Antonio Spurs,Sacramento Kings,103,100,HemisFair Arena,12457,/boxscores/198912200SAS.html
+Thu Dec 21 1989,Miami Heat,Atlanta Hawks,115,117,Miami Arena,15008,/boxscores/198912210MIA.html
+Thu Dec 21 1989,Seattle SuperSonics,Portland Trail Blazers,123,102,Seattle Center Coliseum,13190,/boxscores/198912210SEA.html
+Fri Dec 22 1989,Atlanta Hawks,Chicago Bulls,113,125,Omni Coliseum,16371,/boxscores/198912220ATL.html
+Fri Dec 22 1989,Boston Celtics,Philadelphia 76ers,88,89,Boston Garden,14890,/boxscores/198912220BOS.html
+Fri Dec 22 1989,Charlotte Hornets,Utah Jazz,100,114,Charlotte Coliseum,23901,/boxscores/198912220CHH.html
+Fri Dec 22 1989,Dallas Mavericks,Los Angeles Clippers,101,92,Reunion Arena,16911,/boxscores/198912220DAL.html
+Fri Dec 22 1989,Golden State Warriors,Indiana Pacers,150,124,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198912220GSW.html
+Fri Dec 22 1989,Houston Rockets,Sacramento Kings,103,92,The Summit,15077,/boxscores/198912220HOU.html
+Fri Dec 22 1989,Milwaukee Bucks,Cleveland Cavaliers,112,100,Bradley Center,17854,/boxscores/198912220MIL.html
+Fri Dec 22 1989,New Jersey Nets,Detroit Pistons,90,96,Brendan Byrne Arena,11053,/boxscores/198912220NJN.html
+Fri Dec 22 1989,Orlando Magic,Denver Nuggets,125,137,Orlando Arena,15077,/boxscores/198912220ORL.html
+Fri Dec 22 1989,Phoenix Suns,San Antonio Spurs,115,119,Arizona Veterans Memorial Coliseum,14487,/boxscores/198912220PHO.html
+Fri Dec 22 1989,Washington Bullets,New York Knicks,112,122,Capital Centre,11121,/boxscores/198912220WSB.html
+Sat Dec 23 1989,Dallas Mavericks,Sacramento Kings,102,95,Reunion Arena,16127,/boxscores/198912230DAL.html
+Sat Dec 23 1989,Detroit Pistons,Orlando Magic,106,100,The Palace of Auburn Hills,21454,/boxscores/198912230DET.html
+Sat Dec 23 1989,Miami Heat,Denver Nuggets,104,135,Miami Arena,15008,/boxscores/198912230MIA.html
+Sat Dec 23 1989,Minnesota Timberwolves,Milwaukee Bucks,90,94,Hubert H. Humphrey Metrodome,23249,/boxscores/198912230MIN.html
+Sat Dec 23 1989,New York Knicks,New Jersey Nets,94,85,Madison Square Garden (IV),17047,/boxscores/198912230NYK.html
+Sat Dec 23 1989,Philadelphia 76ers,Chicago Bulls,131,104,The Spectrum,18166,/boxscores/198912230PHI.html
+Sat Dec 23 1989,Phoenix Suns,Los Angeles Clippers,104,100,Arizona Veterans Memorial Coliseum,12567,/boxscores/198912230PHO.html
+Sat Dec 23 1989,San Antonio Spurs,Utah Jazz,115,98,HemisFair Arena,15910,/boxscores/198912230SAS.html
+Sat Dec 23 1989,Seattle SuperSonics,Indiana Pacers,95,98,Seattle Center Coliseum,14377,/boxscores/198912230SEA.html
+Mon Dec 25 1989,Atlanta Hawks,Cleveland Cavaliers,115,104,Omni Coliseum,13357,/boxscores/198912250ATL.html
+Tue Dec 26 1989,Charlotte Hornets,San Antonio Spurs,82,107,Charlotte Coliseum,23901,/boxscores/198912260CHH.html
+Tue Dec 26 1989,Chicago Bulls,Minnesota Timberwolves,112,99,Chicago Stadium,18676,/boxscores/198912260CHI.html
+Tue Dec 26 1989,Denver Nuggets,Philadelphia 76ers,114,111,McNichols Sports Arena,15852,/boxscores/198912260DEN.html
+Tue Dec 26 1989,Indiana Pacers,Orlando Magic,98,90,Market Square Arena,12234,/boxscores/198912260IND.html
+Tue Dec 26 1989,Los Angeles Clippers,Boston Celtics,111,112,Los Angeles Memorial Sports Arena,15350,/boxscores/198912260LAC.html
+Tue Dec 26 1989,Los Angeles Lakers,Sacramento Kings,104,102,Great Western Forum,17505,/boxscores/198912260LAL.html
+Tue Dec 26 1989,Miami Heat,New York Knicks,94,100,Miami Arena,15008,/boxscores/198912260MIA.html
+Tue Dec 26 1989,Milwaukee Bucks,Houston Rockets,103,96,Bradley Center,15945,/boxscores/198912260MIL.html
+Tue Dec 26 1989,New Jersey Nets,Washington Bullets,101,94,Brendan Byrne Arena,7510,/boxscores/198912260NJN.html
+Tue Dec 26 1989,Phoenix Suns,Portland Trail Blazers,121,105,Arizona Veterans Memorial Coliseum,14487,/boxscores/198912260PHO.html
+Tue Dec 26 1989,Utah Jazz,Golden State Warriors,133,118,Salt Palace,12616,/boxscores/198912260UTA.html
+Wed Dec 27 1989,Cleveland Cavaliers,Detroit Pistons,82,99,Coliseum at Richfield,19738,/boxscores/198912270CLE.html
+Wed Dec 27 1989,Dallas Mavericks,Atlanta Hawks,114,101,Reunion Arena,17007,/boxscores/198912270DAL.html
+Wed Dec 27 1989,Minnesota Timberwolves,Houston Rockets,108,91,Hubert H. Humphrey Metrodome,27661,/boxscores/198912270MIN.html
+Wed Dec 27 1989,Orlando Magic,Indiana Pacers,101,106,Orlando Arena,15077,/boxscores/198912270ORL.html
+Wed Dec 27 1989,Sacramento Kings,Boston Celtics,112,115,ARCO Arena (II),17014,/boxscores/198912270SAC.html
+Wed Dec 27 1989,Seattle SuperSonics,Philadelphia 76ers,110,106,Seattle Center Coliseum,14381,/boxscores/198912270SEA.html
+Wed Dec 27 1989,Washington Bullets,San Antonio Spurs,97,107,Capital Centre,13522,/boxscores/198912270WSB.html
+Thu Dec 28 1989,Charlotte Hornets,Cleveland Cavaliers,94,92,Charlotte Coliseum,23901,/boxscores/198912280CHH.html
+Thu Dec 28 1989,Denver Nuggets,Miami Heat,132,107,McNichols Sports Arena,11501,/boxscores/198912280DEN.html
+Thu Dec 28 1989,Los Angeles Clippers,Golden State Warriors,139,119,Los Angeles Memorial Sports Arena,10014,/boxscores/198912280LAC.html
+Thu Dec 28 1989,New Jersey Nets,New York Knicks,104,106,Brendan Byrne Arena,20049,/boxscores/198912280NJN.html
+Thu Dec 28 1989,Utah Jazz,Portland Trail Blazers,113,109,Salt Palace,12616,/boxscores/198912280UTA.html
+Fri Dec 29 1989,Chicago Bulls,San Antonio Spurs,101,97,Chicago Stadium,18676,/boxscores/198912290CHI.html
+Fri Dec 29 1989,Dallas Mavericks,Portland Trail Blazers,140,144,Reunion Arena,17007,/boxscores/198912290DAL.html
+Fri Dec 29 1989,Detroit Pistons,Milwaukee Bucks,85,99,The Palace of Auburn Hills,21454,/boxscores/198912290DET.html
+Fri Dec 29 1989,Indiana Pacers,Houston Rockets,103,97,Market Square Arena,13485,/boxscores/198912290IND.html
+Fri Dec 29 1989,Los Angeles Lakers,Golden State Warriors,130,111,Great Western Forum,17505,/boxscores/198912290LAL.html
+Fri Dec 29 1989,Minnesota Timberwolves,Phoenix Suns,101,118,Hubert H. Humphrey Metrodome,25699,/boxscores/198912290MIN.html
+Fri Dec 29 1989,Sacramento Kings,Philadelphia 76ers,105,95,ARCO Arena (II),17014,/boxscores/198912290SAC.html
+Fri Dec 29 1989,Seattle SuperSonics,Boston Celtics,89,96,Seattle Center Coliseum,14708,/boxscores/198912290SEA.html
+Sat Dec 30 1989,Charlotte Hornets,Houston Rockets,111,92,Charlotte Coliseum,23901,/boxscores/198912300CHH.html
+Sat Dec 30 1989,Cleveland Cavaliers,Phoenix Suns,110,102,Coliseum at Richfield,18867,/boxscores/198912300CLE.html
+Sat Dec 30 1989,Dallas Mavericks,Denver Nuggets,116,109,Reunion Arena,17007,/boxscores/198912300DAL.html
+Sat Dec 30 1989,Detroit Pistons,New Jersey Nets,117,106,The Palace of Auburn Hills,21454,/boxscores/198912300DET.html
+Sat Dec 30 1989,Indiana Pacers,Atlanta Hawks,105,98,Market Square Arena,16912,/boxscores/198912300IND.html
+Sat Dec 30 1989,Los Angeles Clippers,Philadelphia 76ers,95,100,Los Angeles Memorial Sports Arena,14559,/boxscores/198912300LAC.html
+Sat Dec 30 1989,Milwaukee Bucks,Minnesota Timberwolves,109,99,Bradley Center,17924,/boxscores/198912300MIL.html
+Sat Dec 30 1989,New York Knicks,Orlando Magic,113,107,Madison Square Garden (IV),18212,/boxscores/198912300NYK.html
+Sat Dec 30 1989,Utah Jazz,Miami Heat,117,98,Salt Palace,12616,/boxscores/198912300UTA.html
+Sat Dec 30 1989,Washington Bullets,Chicago Bulls,112,117,Capital Centre,18756,/boxscores/198912300WSB.html

@@ -1,0 +1,42 @@
+Thu May 1 2003,Boston Celtics,Indiana Pacers,110,90,FleetCenter,18624,/boxscores/200305010BOS.html
+Thu May 1 2003,Milwaukee Bucks,New Jersey Nets,101,113,Bradley Center,18717,/boxscores/200305010MIL.html
+Thu May 1 2003,Phoenix Suns,San Antonio Spurs,85,87,America West Arena,18913,/boxscores/200305010PHO.html
+Thu May 1 2003,Los Angeles Lakers,Minnesota Timberwolves,101,85,STAPLES Center,18997,/boxscores/200305010LAL.html
+Fri May 2 2003,Orlando Magic,Detroit Pistons,88,103,TD Waterhouse Centre,16909,/boxscores/200305020ORL.html
+Fri May 2 2003,New Orleans Hornets,Philadelphia 76ers,103,107,New Orleans Arena,18570,/boxscores/200305020NOH.html
+Fri May 2 2003,Portland Trail Blazers,Dallas Mavericks,125,103,Rose Garden Arena,20602,/boxscores/200305020POR.html
+Sun May 4 2003,Detroit Pistons,Orlando Magic,108,93,The Palace of Auburn Hills,22076,/boxscores/200305040DET.html
+Sun May 4 2003,Dallas Mavericks,Portland Trail Blazers,107,95,American Airlines Center,20281,/boxscores/200305040DAL.html
+Mon May 5 2003,New Jersey Nets,Boston Celtics,97,93,Continental Airlines Arena,17343,/boxscores/200305050NJN.html
+Mon May 5 2003,San Antonio Spurs,Los Angeles Lakers,87,82,SBC Center,18797,/boxscores/200305050SAS.html
+Tue May 6 2003,Detroit Pistons,Philadelphia 76ers,98,87,The Palace of Auburn Hills,22076,/boxscores/200305060DET.html
+Tue May 6 2003,Dallas Mavericks,Sacramento Kings,113,124,American Airlines Center,20525,/boxscores/200305060DAL.html
+Wed May 7 2003,New Jersey Nets,Boston Celtics,104,95,Continental Airlines Arena,19934,/boxscores/200305070NJN.html
+Wed May 7 2003,San Antonio Spurs,Los Angeles Lakers,114,95,SBC Center,18797,/boxscores/200305070SAS.html
+Thu May 8 2003,Detroit Pistons,Philadelphia 76ers,104,97,The Palace of Auburn Hills,22076,/boxscores/200305080DET.html
+Thu May 8 2003,Dallas Mavericks,Sacramento Kings,132,110,American Airlines Center,20491,/boxscores/200305080DAL.html
+Fri May 9 2003,Boston Celtics,New Jersey Nets,76,94,FleetCenter,18624,/boxscores/200305090BOS.html
+Fri May 9 2003,Los Angeles Lakers,San Antonio Spurs,110,95,STAPLES Center,18997,/boxscores/200305090LAL.html
+Sat May 10 2003,Philadelphia 76ers,Detroit Pistons,93,83,First Union Center,20743,/boxscores/200305100PHI.html
+Sat May 10 2003,Sacramento Kings,Dallas Mavericks,137,141,ARCO Arena (II),17317,/boxscores/200305100SAC.html
+Sun May 11 2003,Los Angeles Lakers,San Antonio Spurs,99,95,STAPLES Center,18997,/boxscores/200305110LAL.html
+Sun May 11 2003,Philadelphia 76ers,Detroit Pistons,95,82,First Union Center,20549,/boxscores/200305110PHI.html
+Sun May 11 2003,Sacramento Kings,Dallas Mavericks,99,83,ARCO Arena (II),17317,/boxscores/200305110SAC.html
+Mon May 12 2003,Boston Celtics,New Jersey Nets,101,110,FleetCenter,18624,/boxscores/200305120BOS.html
+Tue May 13 2003,Dallas Mavericks,Sacramento Kings,112,93,American Airlines Center,20556,/boxscores/200305130DAL.html
+Tue May 13 2003,San Antonio Spurs,Los Angeles Lakers,96,94,SBC Center,18797,/boxscores/200305130SAS.html
+Wed May 14 2003,Detroit Pistons,Philadelphia 76ers,78,77,The Palace of Auburn Hills,22076,/boxscores/200305140DET.html
+Thu May 15 2003,Los Angeles Lakers,San Antonio Spurs,82,110,STAPLES Center,18997,/boxscores/200305150LAL.html
+Thu May 15 2003,Sacramento Kings,Dallas Mavericks,115,109,ARCO Arena (II),17317,/boxscores/200305150SAC.html
+Fri May 16 2003,Philadelphia 76ers,Detroit Pistons,89,93,First Union Center,20888,/boxscores/200305160PHI.html
+Sat May 17 2003,Dallas Mavericks,Sacramento Kings,112,99,American Airlines Center,20595,/boxscores/200305170DAL.html
+Sun May 18 2003,Detroit Pistons,New Jersey Nets,74,76,The Palace of Auburn Hills,22076,/boxscores/200305180DET.html
+Mon May 19 2003,San Antonio Spurs,Dallas Mavericks,110,113,SBC Center,18797,/boxscores/200305190SAS.html
+Tue May 20 2003,Detroit Pistons,New Jersey Nets,86,88,The Palace of Auburn Hills,22076,/boxscores/200305200DET.html
+Wed May 21 2003,San Antonio Spurs,Dallas Mavericks,119,106,SBC Center,18797,/boxscores/200305210SAS.html
+Thu May 22 2003,New Jersey Nets,Detroit Pistons,97,85,Continental Airlines Arena,19923,/boxscores/200305220NJN.html
+Fri May 23 2003,Dallas Mavericks,San Antonio Spurs,83,96,American Airlines Center,20695,/boxscores/200305230DAL.html
+Sat May 24 2003,New Jersey Nets,Detroit Pistons,102,82,Continental Airlines Arena,19923,/boxscores/200305240NJN.html
+Sun May 25 2003,Dallas Mavericks,San Antonio Spurs,95,102,American Airlines Center,20561,/boxscores/200305250DAL.html
+Tue May 27 2003,San Antonio Spurs,Dallas Mavericks,91,103,SBC Center,18797,/boxscores/200305270SAS.html
+Thu May 29 2003,Dallas Mavericks,San Antonio Spurs,78,90,American Airlines Center,20812,/boxscores/200305290DAL.html

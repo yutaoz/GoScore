@@ -1,0 +1,139 @@
+Thu Feb 1 1979,Chicago Bulls,Philadelphia 76ers,105,128,Chicago Stadium,0,/boxscores/197902010CHI.html
+Thu Feb 1 1979,Cleveland Cavaliers,Detroit Pistons,116,120,Coliseum at Richfield,0,/boxscores/197902010CLE.html
+Thu Feb 1 1979,San Antonio Spurs,Washington Bullets,122,123,HemisFair Arena,0,/boxscores/197902010SAS.html
+Thu Feb 1 1979,Seattle SuperSonics,New Jersey Nets,107,102,Seattle Kingdome,0,/boxscores/197902010SEA.html
+Fri Feb 2 1979,Boston Celtics,Cleveland Cavaliers,112,98,Boston Garden,0,/boxscores/197902020BOS.html
+Fri Feb 2 1979,Chicago Bulls,New Orleans Jazz,116,110,Chicago Stadium,0,/boxscores/197902020CHI.html
+Fri Feb 2 1979,Houston Rockets,Washington Bullets,106,120,The Summit,0,/boxscores/197902020HOU.html
+Fri Feb 2 1979,Indiana Pacers,Golden State Warriors,87,84,Market Square Arena,0,/boxscores/197902020IND.html
+Fri Feb 2 1979,Kansas City Kings,Detroit Pistons,130,114,Kemper Arena,0,/boxscores/197902020KCK.html
+Fri Feb 2 1979,Philadelphia 76ers,New York Knicks,101,105,The Spectrum,0,/boxscores/197902020PHI.html
+Fri Feb 2 1979,Phoenix Suns,San Antonio Spurs,133,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197902020PHO.html
+Fri Feb 2 1979,Portland Trail Blazers,New Jersey Nets,117,100,Memorial Coliseum,0,/boxscores/197902020POR.html
+Fri Feb 2 1979,San Diego Clippers,Denver Nuggets,124,100,San Diego Sports Arena,0,/boxscores/197902020SDC.html
+Fri Feb 2 1979,Seattle SuperSonics,Milwaukee Bucks,104,102,Seattle Kingdome,0,/boxscores/197902020SEA.html
+Tue Feb 6 1979,Atlanta Hawks,Boston Celtics,104,101,Omni Coliseum,0,/boxscores/197902060ATL.html
+Tue Feb 6 1979,Chicago Bulls,Indiana Pacers,110,107,Chicago Stadium,0,/boxscores/197902060CHI.html
+Tue Feb 6 1979,Cleveland Cavaliers,New Jersey Nets,119,100,Coliseum at Richfield,0,/boxscores/197902060CLE.html
+Tue Feb 6 1979,Houston Rockets,Detroit Pistons,113,108,The Summit,0,/boxscores/197902060HOU.html
+Tue Feb 6 1979,Los Angeles Lakers,San Antonio Spurs,119,111,The Forum,0,/boxscores/197902060LAL.html
+Tue Feb 6 1979,New York Knicks,Seattle SuperSonics,108,99,Madison Square Garden (IV),0,/boxscores/197902060NYK.html
+Tue Feb 6 1979,Portland Trail Blazers,Phoenix Suns,110,93,Memorial Coliseum,0,/boxscores/197902060POR.html
+Wed Feb 7 1979,Boston Celtics,Seattle SuperSonics,107,100,Boston Garden,0,/boxscores/197902070BOS.html
+Wed Feb 7 1979,Denver Nuggets,Cleveland Cavaliers,120,105,McNichols Sports Arena,0,/boxscores/197902070DEN.html
+Wed Feb 7 1979,Golden State Warriors,Los Angeles Lakers,104,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902070GSW.html
+Wed Feb 7 1979,Indiana Pacers,New Jersey Nets,84,90,Market Square Arena,0,/boxscores/197902070IND.html
+Wed Feb 7 1979,Kansas City Kings,Atlanta Hawks,124,108,Kemper Arena,0,/boxscores/197902070KCK.html
+Wed Feb 7 1979,Milwaukee Bucks,Washington Bullets,90,96,MECCA Arena,0,/boxscores/197902070MIL.html
+Wed Feb 7 1979,New Orleans Jazz,New York Knicks,125,123,Louisiana Superdome,0,/boxscores/197902070NOJ.html
+Wed Feb 7 1979,Philadelphia 76ers,Detroit Pistons,114,103,The Spectrum,0,/boxscores/197902070PHI.html
+Wed Feb 7 1979,San Diego Clippers,San Antonio Spurs,113,126,San Diego Sports Arena,0,/boxscores/197902070SDC.html
+Thu Feb 8 1979,Detroit Pistons,New Jersey Nets,105,106,Pontiac Silverdome,0,/boxscores/197902080DET.html
+Thu Feb 8 1979,Houston Rockets,Milwaukee Bucks,134,129,The Summit,0,/boxscores/197902080HOU.html
+Fri Feb 9 1979,Boston Celtics,Indiana Pacers,112,101,Boston Garden,0,/boxscores/197902090BOS.html
+Fri Feb 9 1979,Chicago Bulls,Kansas City Kings,114,124,Chicago Stadium,0,/boxscores/197902090CHI.html
+Fri Feb 9 1979,Golden State Warriors,Denver Nuggets,104,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902090GSW.html
+Fri Feb 9 1979,Los Angeles Lakers,Cleveland Cavaliers,106,103,The Forum,0,/boxscores/197902090LAL.html
+Fri Feb 9 1979,Milwaukee Bucks,Seattle SuperSonics,118,116,MECCA Arena,0,/boxscores/197902090MIL.html
+Fri Feb 9 1979,New Orleans Jazz,Houston Rockets,99,106,Louisiana Superdome,0,/boxscores/197902090NOJ.html
+Fri Feb 9 1979,Philadelphia 76ers,San Diego Clippers,117,106,The Spectrum,0,/boxscores/197902090PHI.html
+Fri Feb 9 1979,Phoenix Suns,Atlanta Hawks,102,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197902090PHO.html
+Fri Feb 9 1979,Portland Trail Blazers,San Antonio Spurs,125,106,Memorial Coliseum,0,/boxscores/197902090POR.html
+Sat Feb 10 1979,Detroit Pistons,New Orleans Jazz,105,107,Pontiac Silverdome,0,/boxscores/197902100DET.html
+Sat Feb 10 1979,Houston Rockets,Seattle SuperSonics,113,101,The Summit,0,/boxscores/197902100HOU.html
+Sat Feb 10 1979,New York Knicks,Boston Celtics,102,106,Madison Square Garden (IV),0,/boxscores/197902100NYK.html
+Sun Feb 11 1979,Boston Celtics,New York Knicks,107,102,Boston Garden,0,/boxscores/197902110BOS.html
+Sun Feb 11 1979,Golden State Warriors,San Antonio Spurs,107,125,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902110GSW.html
+Sun Feb 11 1979,Indiana Pacers,Chicago Bulls,110,108,Market Square Arena,0,/boxscores/197902110IND.html
+Sun Feb 11 1979,Kansas City Kings,Los Angeles Lakers,104,103,Kemper Arena,0,/boxscores/197902110KCK.html
+Sun Feb 11 1979,Milwaukee Bucks,Denver Nuggets,126,87,MECCA Arena,0,/boxscores/197902110MIL.html
+Sun Feb 11 1979,New Jersey Nets,San Diego Clippers,104,98,Rutgers Athletic Center,0,/boxscores/197902110NJN.html
+Sun Feb 11 1979,Philadelphia 76ers,Washington Bullets,107,99,The Spectrum,0,/boxscores/197902110PHI.html
+Sun Feb 11 1979,Phoenix Suns,Cleveland Cavaliers,136,101,Arizona Veterans Memorial Coliseum,0,/boxscores/197902110PHO.html
+Sun Feb 11 1979,Portland Trail Blazers,Atlanta Hawks,91,87,Memorial Coliseum,0,/boxscores/197902110POR.html
+Tue Feb 13 1979,Chicago Bulls,Denver Nuggets,94,104,Chicago Stadium,0,/boxscores/197902130CHI.html
+Tue Feb 13 1979,Cleveland Cavaliers,Los Angeles Lakers,117,111,Coliseum at Richfield,0,/boxscores/197902130CLE.html
+Tue Feb 13 1979,Houston Rockets,Indiana Pacers,120,124,The Summit,0,/boxscores/197902130HOU.html
+Tue Feb 13 1979,New Jersey Nets,Kansas City Kings,111,102,Rutgers Athletic Center,0,/boxscores/197902130NJN.html
+Tue Feb 13 1979,Portland Trail Blazers,New Orleans Jazz,120,101,Memorial Coliseum,0,/boxscores/197902130POR.html
+Tue Feb 13 1979,San Diego Clippers,Washington Bullets,136,138,San Diego Sports Arena,0,/boxscores/197902130SDC.html
+Wed Feb 14 1979,Detroit Pistons,Denver Nuggets,111,107,Pontiac Silverdome,0,/boxscores/197902140DET.html
+Wed Feb 14 1979,Golden State Warriors,New Orleans Jazz,113,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902140GSW.html
+Wed Feb 14 1979,Indiana Pacers,New York Knicks,106,97,Market Square Arena,0,/boxscores/197902140IND.html
+Wed Feb 14 1979,Milwaukee Bucks,New Jersey Nets,115,94,MECCA Arena,0,/boxscores/197902140MIL.html
+Wed Feb 14 1979,Philadelphia 76ers,Kansas City Kings,106,108,The Spectrum,0,/boxscores/197902140PHI.html
+Wed Feb 14 1979,San Antonio Spurs,Boston Celtics,149,119,HemisFair Arena,0,/boxscores/197902140SAS.html
+Wed Feb 14 1979,Seattle SuperSonics,Atlanta Hawks,116,104,Seattle Kingdome,0,/boxscores/197902140SEA.html
+Thu Feb 15 1979,Cleveland Cavaliers,Philadelphia 76ers,113,100,Coliseum at Richfield,0,/boxscores/197902150CLE.html
+Thu Feb 15 1979,Houston Rockets,Portland Trail Blazers,119,116,The Summit,0,/boxscores/197902150HOU.html
+Thu Feb 15 1979,Phoenix Suns,Washington Bullets,119,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197902150PHO.html
+Thu Feb 15 1979,San Diego Clippers,New Orleans Jazz,122,112,San Diego Sports Arena,0,/boxscores/197902150SDC.html
+Fri Feb 16 1979,Chicago Bulls,New York Knicks,107,104,Chicago Stadium,0,/boxscores/197902160CHI.html
+Fri Feb 16 1979,Denver Nuggets,San Diego Clippers,104,118,McNichols Sports Arena,0,/boxscores/197902160DEN.html
+Fri Feb 16 1979,Detroit Pistons,Houston Rockets,110,96,Pontiac Silverdome,0,/boxscores/197902160DET.html
+Fri Feb 16 1979,Golden State Warriors,Washington Bullets,109,103,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902160GSW.html
+Fri Feb 16 1979,Kansas City Kings,Philadelphia 76ers,119,104,Checkerdome,0,/boxscores/197902160KCK.html
+Fri Feb 16 1979,Milwaukee Bucks,Los Angeles Lakers,99,98,MECCA Arena,0,/boxscores/197902160MIL.html
+Fri Feb 16 1979,New Jersey Nets,Indiana Pacers,100,105,Rutgers Athletic Center,0,/boxscores/197902160NJN.html
+Fri Feb 16 1979,San Antonio Spurs,Portland Trail Blazers,121,120,HemisFair Arena,0,/boxscores/197902160SAS.html
+Fri Feb 16 1979,Seattle SuperSonics,Phoenix Suns,119,104,Seattle Kingdome,0,/boxscores/197902160SEA.html
+Sat Feb 17 1979,New York Knicks,Cleveland Cavaliers,117,127,Madison Square Garden (IV),0,/boxscores/197902170NYK.html
+Sat Feb 17 1979,Phoenix Suns,New Orleans Jazz,136,112,Arizona Veterans Memorial Coliseum,0,/boxscores/197902170PHO.html
+Sun Feb 18 1979,Denver Nuggets,New Orleans Jazz,115,112,McNichols Sports Arena,0,/boxscores/197902180DEN.html
+Sun Feb 18 1979,Detroit Pistons,San Antonio Spurs,124,104,Pontiac Silverdome,0,/boxscores/197902180DET.html
+Sun Feb 18 1979,Indiana Pacers,Los Angeles Lakers,111,122,Market Square Arena,0,/boxscores/197902180IND.html
+Sun Feb 18 1979,Kansas City Kings,Chicago Bulls,130,107,Kemper Arena,0,/boxscores/197902180KCK.html
+Sun Feb 18 1979,New Jersey Nets,Houston Rockets,126,124,Rutgers Athletic Center,0,/boxscores/197902180NJN.html
+Sun Feb 18 1979,Philadelphia 76ers,Milwaukee Bucks,110,107,The Spectrum,0,/boxscores/197902180PHI.html
+Sun Feb 18 1979,Portland Trail Blazers,Boston Celtics,111,104,Memorial Coliseum,0,/boxscores/197902180POR.html
+Sun Feb 18 1979,San Diego Clippers,Atlanta Hawks,116,101,San Diego Sports Arena,0,/boxscores/197902180SDC.html
+Sun Feb 18 1979,Seattle SuperSonics,Washington Bullets,94,105,Seattle Kingdome,0,/boxscores/197902180SEA.html
+Tue Feb 20 1979,Chicago Bulls,Portland Trail Blazers,99,97,Chicago Stadium,0,/boxscores/197902200CHI.html
+Tue Feb 20 1979,Cleveland Cavaliers,Atlanta Hawks,109,119,Coliseum at Richfield,0,/boxscores/197902200CLE.html
+Tue Feb 20 1979,Los Angeles Lakers,Golden State Warriors,91,102,The Forum,0,/boxscores/197902200LAL.html
+Tue Feb 20 1979,New York Knicks,Phoenix Suns,107,117,Madison Square Garden (IV),0,/boxscores/197902200NYK.html
+Tue Feb 20 1979,San Antonio Spurs,Seattle SuperSonics,118,102,HemisFair Arena,0,/boxscores/197902200SAS.html
+Wed Feb 21 1979,Atlanta Hawks,Portland Trail Blazers,106,83,Omni Coliseum,0,/boxscores/197902210ATL.html
+Wed Feb 21 1979,Denver Nuggets,Indiana Pacers,114,109,McNichols Sports Arena,0,/boxscores/197902210DEN.html
+Wed Feb 21 1979,Detroit Pistons,Philadelphia 76ers,106,99,Pontiac Silverdome,0,/boxscores/197902210DET.html
+Wed Feb 21 1979,Golden State Warriors,Boston Celtics,97,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902210GSW.html
+Wed Feb 21 1979,Kansas City Kings,Milwaukee Bucks,133,117,Kemper Arena,0,/boxscores/197902210KCK.html
+Wed Feb 21 1979,New Jersey Nets,Phoenix Suns,123,112,Rutgers Athletic Center,0,/boxscores/197902210NJN.html
+Wed Feb 21 1979,New Orleans Jazz,Seattle SuperSonics,94,96,Louisiana Superdome,0,/boxscores/197902210NOJ.html
+Thu Feb 22 1979,Cleveland Cavaliers,Kansas City Kings,111,107,Coliseum at Richfield,0,/boxscores/197902220CLE.html
+Thu Feb 22 1979,Washington Bullets,Houston Rockets,110,120,Capital Centre,0,/boxscores/197902220WSB.html
+Fri Feb 23 1979,Golden State Warriors,Indiana Pacers,94,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197902230GSW.html
+Fri Feb 23 1979,Kansas City Kings,Phoenix Suns,121,112,Kemper Arena,0,/boxscores/197902230KCK.html
+Fri Feb 23 1979,Los Angeles Lakers,Boston Celtics,113,104,The Forum,0,/boxscores/197902230LAL.html
+Fri Feb 23 1979,New Jersey Nets,Portland Trail Blazers,110,99,Rutgers Athletic Center,0,/boxscores/197902230NJN.html
+Fri Feb 23 1979,New Orleans Jazz,Chicago Bulls,111,102,Louisiana Superdome,0,/boxscores/197902230NOJ.html
+Fri Feb 23 1979,San Diego Clippers,Philadelphia 76ers,117,116,San Diego Sports Arena,0,/boxscores/197902230SDC.html
+Fri Feb 23 1979,Washington Bullets,Seattle SuperSonics,132,110,Capital Centre,0,/boxscores/197902230WSB.html
+Sat Feb 24 1979,Atlanta Hawks,Phoenix Suns,110,85,Omni Coliseum,0,/boxscores/197902240ATL.html
+Sat Feb 24 1979,Cleveland Cavaliers,New Orleans Jazz,96,105,Coliseum at Richfield,0,/boxscores/197902240CLE.html
+Sat Feb 24 1979,Denver Nuggets,Milwaukee Bucks,132,117,McNichols Sports Arena,0,/boxscores/197902240DEN.html
+Sat Feb 24 1979,New York Knicks,New Jersey Nets,111,107,Madison Square Garden (IV),0,/boxscores/197902240NYK.html
+Sun Feb 25 1979,Chicago Bulls,Cleveland Cavaliers,108,117,Chicago Stadium,0,/boxscores/197902250CHI.html
+Sun Feb 25 1979,Denver Nuggets,Philadelphia 76ers,111,119,McNichols Sports Arena,0,/boxscores/197902250DEN.html
+Sun Feb 25 1979,Detroit Pistons,Portland Trail Blazers,119,126,Pontiac Silverdome,0,/boxscores/197902250DET.html
+Sun Feb 25 1979,Kansas City Kings,Seattle SuperSonics,114,106,Kemper Arena,0,/boxscores/197902250KCK.html
+Sun Feb 25 1979,Los Angeles Lakers,Indiana Pacers,118,108,The Forum,0,/boxscores/197902250LAL.html
+Sun Feb 25 1979,New Jersey Nets,New York Knicks,116,102,Rutgers Athletic Center,0,/boxscores/197902250NJN.html
+Sun Feb 25 1979,San Antonio Spurs,Houston Rockets,127,107,HemisFair Arena,0,/boxscores/197902250SAS.html
+Sun Feb 25 1979,San Diego Clippers,Boston Celtics,131,116,San Diego Sports Arena,0,/boxscores/197902250SDC.html
+Sun Feb 25 1979,Washington Bullets,Golden State Warriors,99,89,Capital Centre,0,/boxscores/197902250WSB.html
+Tue Feb 27 1979,Atlanta Hawks,Houston Rockets,125,111,Omni Coliseum,0,/boxscores/197902270ATL.html
+Tue Feb 27 1979,Chicago Bulls,Detroit Pistons,124,117,Chicago Stadium,0,/boxscores/197902270CHI.html
+Tue Feb 27 1979,Denver Nuggets,Seattle SuperSonics,121,106,McNichols Sports Arena,0,/boxscores/197902270DEN.html
+Tue Feb 27 1979,Los Angeles Lakers,Kansas City Kings,122,114,The Forum,0,/boxscores/197902270LAL.html
+Tue Feb 27 1979,New York Knicks,Golden State Warriors,101,99,Madison Square Garden (IV),0,/boxscores/197902270NYK.html
+Tue Feb 27 1979,Portland Trail Blazers,Philadelphia 76ers,118,115,Memorial Coliseum,0,/boxscores/197902270POR.html
+Tue Feb 27 1979,San Diego Clippers,Indiana Pacers,124,107,San Diego Sports Arena,0,/boxscores/197902270SDC.html
+Wed Feb 28 1979,Boston Celtics,New Orleans Jazz,122,112,Boston Garden,0,/boxscores/197902280BOS.html
+Wed Feb 28 1979,Houston Rockets,Denver Nuggets,122,97,The Summit,0,/boxscores/197902280HOU.html
+Wed Feb 28 1979,Milwaukee Bucks,Cleveland Cavaliers,139,117,MECCA Arena,0,/boxscores/197902280MIL.html
+Wed Feb 28 1979,Phoenix Suns,Indiana Pacers,103,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197902280PHO.html
+Wed Feb 28 1979,San Antonio Spurs,New York Knicks,135,112,HemisFair Arena,0,/boxscores/197902280SAS.html
+Wed Feb 28 1979,San Diego Clippers,Kansas City Kings,122,120,San Diego Sports Arena,0,/boxscores/197902280SDC.html
+Wed Feb 28 1979,Seattle SuperSonics,Philadelphia 76ers,97,93,Seattle Kingdome,0,/boxscores/197902280SEA.html
+Wed Feb 28 1979,Washington Bullets,Chicago Bulls,124,113,Capital Centre,0,/boxscores/197902280WSB.html

@@ -1,0 +1,91 @@
+Sun Mar 1 1970,Boston Celtics,Los Angeles Lakers,114,120,Boston Garden,0,/boxscores/197003010BOS.html
+Sun Mar 1 1970,Atlanta Hawks,Phoenix Suns,98,109,Alexander Memorial Coliseum,0,/boxscores/197003010ATL.html
+Sun Mar 1 1970,San Diego Rockets,Chicago Bulls,135,122,San Diego Sports Arena,0,/boxscores/197003010SDR.html
+Sun Mar 1 1970,Philadelphia 76ers,Baltimore Bullets,104,99,The Spectrum,0,/boxscores/197003010PHI.html
+Sun Mar 1 1970,Detroit Pistons,San Francisco Warriors,116,99,Cobo Arena,0,/boxscores/197003010DET.html
+Sun Mar 1 1970,Milwaukee Bucks,Cincinnati Royals,120,114,Milwaukee Arena,0,/boxscores/197003010MIL.html
+Mon Mar 2 1970,Baltimore Bullets,Cincinnati Royals,118,110,Mid-South Coliseum,0,/boxscores/197003020BAL.html
+Tue Mar 3 1970,Atlanta Hawks,Los Angeles Lakers,101,93,Alexander Memorial Coliseum,0,/boxscores/197003030ATL.html
+Tue Mar 3 1970,Milwaukee Bucks,Philadelphia 76ers,127,116,Milwaukee Arena,0,/boxscores/197003030MIL.html
+Tue Mar 3 1970,New York Knicks,San Francisco Warriors,115,100,Madison Square Garden (IV),0,/boxscores/197003030NYK.html
+Tue Mar 3 1970,Phoenix Suns,Chicago Bulls,111,123,Arizona Veterans Memorial Coliseum,0,/boxscores/197003030PHO.html
+Tue Mar 3 1970,Seattle SuperSonics,San Diego Rockets,126,114,Seattle Center Coliseum,0,/boxscores/197003030SEA.html
+Wed Mar 4 1970,Baltimore Bullets,Los Angeles Lakers,91,94,Baltimore Civic Center,0,/boxscores/197003040BAL.html
+Wed Mar 4 1970,Boston Celtics,San Francisco Warriors,115,110,Boston Garden,0,/boxscores/197003040BOS.html
+Wed Mar 4 1970,San Diego Rockets,Cincinnati Royals,125,127,San Diego Sports Arena,0,/boxscores/197003040SDR.html
+Thu Mar 5 1970,Milwaukee Bucks,Atlanta Hawks,117,126,Milwaukee Arena,0,/boxscores/197003050MIL.html
+Fri Mar 6 1970,Detroit Pistons,Milwaukee Bucks,118,121,Cobo Arena,0,/boxscores/197003060DET.html
+Fri Mar 6 1970,San Francisco Warriors,Phoenix Suns,107,97,San Francisco Civic Auditorium,0,/boxscores/197003060SFW.html
+Fri Mar 6 1970,Seattle SuperSonics,Cincinnati Royals,126,122,Seattle Center Coliseum,0,/boxscores/197003060SEA.html
+Fri Mar 6 1970,Philadelphia 76ers,Boston Celtics,150,134,The Spectrum,0,/boxscores/197003060PHI.html
+Fri Mar 6 1970,New York Knicks,San Diego Rockets,107,103,Madison Square Garden (IV),0,/boxscores/197003060NYK.html
+Fri Mar 6 1970,Los Angeles Lakers,Baltimore Bullets,100,105,The Forum,0,/boxscores/197003060LAL.html
+Sat Mar 7 1970,Detroit Pistons,San Diego Rockets,134,126,Cobo Arena,0,/boxscores/197003070DET.html
+Sat Mar 7 1970,Philadelphia 76ers,New York Knicks,104,111,The Spectrum,0,/boxscores/197003070PHI.html
+Sat Mar 7 1970,San Francisco Warriors,Cincinnati Royals,119,121,Oakland-Alameda County Coliseum Arena,0,/boxscores/197003070SFW.html
+Sun Mar 8 1970,Boston Celtics,Milwaukee Bucks,134,138,Boston Garden,0,/boxscores/197003080BOS.html
+Sun Mar 8 1970,Seattle SuperSonics,Baltimore Bullets,106,109,Seattle Center Coliseum,0,/boxscores/197003080SEA.html
+Sun Mar 8 1970,Phoenix Suns,Atlanta Hawks,130,119,Arizona Veterans Memorial Coliseum,0,/boxscores/197003080PHO.html
+Sun Mar 8 1970,Los Angeles Lakers,Cincinnati Royals,144,116,The Forum,0,/boxscores/197003080LAL.html
+Sun Mar 8 1970,New York Knicks,Philadelphia 76ers,116,133,Madison Square Garden (IV),0,/boxscores/197003080NYK.html
+Mon Mar 9 1970,Milwaukee Bucks,Seattle SuperSonics,124,105,Milwaukee Arena,0,/boxscores/197003090MIL.html
+Mon Mar 9 1970,Philadelphia 76ers,San Diego Rockets,131,112,Sam Houston Coliseum,0,/boxscores/197003090PHI.html
+Tue Mar 10 1970,Atlanta Hawks,Milwaukee Bucks,140,127,Alexander Memorial Coliseum,0,/boxscores/197003100ATL.html
+Tue Mar 10 1970,Chicago Bulls,San Diego Rockets,111,106,Chicago Stadium,0,/boxscores/197003100CHI.html
+Tue Mar 10 1970,Detroit Pistons,Boston Celtics,115,112,Cobo Arena,0,/boxscores/197003100DET.html
+Tue Mar 10 1970,Los Angeles Lakers,San Francisco Warriors,106,104,The Forum,0,/boxscores/197003100LAL.html
+Tue Mar 10 1970,New York Knicks,Seattle SuperSonics,117,99,Madison Square Garden (IV),0,/boxscores/197003100NYK.html
+Wed Mar 11 1970,Atlanta Hawks,San Diego Rockets,122,121,Alexander Memorial Coliseum,0,/boxscores/197003110ATL.html
+Wed Mar 11 1970,San Francisco Warriors,Baltimore Bullets,115,112,San Francisco Civic Auditorium,0,/boxscores/197003110SFW.html
+Wed Mar 11 1970,Cincinnati Royals,Boston Celtics,127,144,Cincinnati Gardens,0,/boxscores/197003110CIN.html
+Thu Mar 12 1970,Cincinnati Royals,San Diego Rockets,165,151,Cincinnati Gardens,0,/boxscores/197003120CIN.html
+Fri Mar 13 1970,Chicago Bulls,Boston Celtics,134,113,Chicago Stadium,0,/boxscores/197003130CHI.html
+Fri Mar 13 1970,Los Angeles Lakers,Philadelphia 76ers,128,117,The Forum,0,/boxscores/197003130LAL.html
+Fri Mar 13 1970,New York Knicks,Seattle SuperSonics,103,115,Memorial Coliseum,0,/boxscores/197003130NYK.html
+Fri Mar 13 1970,San Francisco Warriors,Baltimore Bullets,108,114,San Francisco Civic Auditorium,0,/boxscores/197003130SFW.html
+Sat Mar 14 1970,Chicago Bulls,Detroit Pistons,111,96,Chicago Stadium,0,/boxscores/197003140CHI.html
+Sat Mar 14 1970,San Diego Rockets,New York Knicks,103,119,San Diego Sports Arena,0,/boxscores/197003140SDR.html
+Sun Mar 15 1970,Atlanta Hawks,Phoenix Suns,126,111,Alexander Memorial Coliseum,0,/boxscores/197003150ATL.html
+Sun Mar 15 1970,San Diego Rockets,Philadelphia 76ers,137,128,San Diego Sports Arena,0,/boxscores/197003150SDR.html
+Sun Mar 15 1970,Los Angeles Lakers,New York Knicks,106,101,The Forum,0,/boxscores/197003150LAL.html
+Sun Mar 15 1970,Chicago Bulls,Milwaukee Bucks,130,107,Dane County Veteran Memorial Coliseum,0,/boxscores/197003150CHI.html
+Sun Mar 15 1970,Boston Celtics,Baltimore Bullets,127,130,Boston Garden,0,/boxscores/197003150BOS.html
+Sun Mar 15 1970,Cincinnati Royals,Seattle SuperSonics,116,113,Cincinnati Gardens,0,/boxscores/197003150CIN.html
+Mon Mar 16 1970,Chicago Bulls,Cincinnati Royals,142,140,Omaha Civic Auditorium,0,/boxscores/197003160CHI.html
+Tue Mar 17 1970,San Diego Rockets,Boston Celtics,125,117,San Diego Sports Arena,0,/boxscores/197003170SDR.html
+Tue Mar 17 1970,Phoenix Suns,San Francisco Warriors,133,121,Arizona Veterans Memorial Coliseum,0,/boxscores/197003170PHO.html
+Tue Mar 17 1970,Philadelphia 76ers,Atlanta Hawks,125,128,The Spectrum,0,/boxscores/197003170PHI.html
+Tue Mar 17 1970,Detroit Pistons,New York Knicks,106,122,Cobo Arena,0,/boxscores/197003170DET.html
+Tue Mar 17 1970,Chicago Bulls,Seattle SuperSonics,102,109,Chicago Stadium,0,/boxscores/197003170CHI.html
+Wed Mar 18 1970,Baltimore Bullets,Philadelphia 76ers,113,119,Baltimore Civic Center,0,/boxscores/197003180BAL.html
+Wed Mar 18 1970,Los Angeles Lakers,Boston Celtics,122,137,The Forum,0,/boxscores/197003180LAL.html
+Wed Mar 18 1970,New York Knicks,Milwaukee Bucks,108,116,Madison Square Garden (IV),0,/boxscores/197003180NYK.html
+Thu Mar 19 1970,Phoenix Suns,Boston Celtics,127,123,Arizona Veterans Memorial Coliseum,0,/boxscores/197003190PHO.html
+Thu Mar 19 1970,San Diego Rockets,Detroit Pistons,132,118,San Diego Sports Arena,0,/boxscores/197003190SDR.html
+Fri Mar 20 1970,Phoenix Suns,San Diego Rockets,127,104,Arizona Veterans Memorial Coliseum,0,/boxscores/197003200PHO.html
+Fri Mar 20 1970,Philadelphia 76ers,Milwaukee Bucks,112,138,The Spectrum,0,/boxscores/197003200PHI.html
+Fri Mar 20 1970,Los Angeles Lakers,Detroit Pistons,117,111,The Forum,0,/boxscores/197003200LAL.html
+Fri Mar 20 1970,Chicago Bulls,Baltimore Bullets,131,138,Chicago Stadium,0,/boxscores/197003200CHI.html
+Fri Mar 20 1970,Boston Celtics,Seattle SuperSonics,119,123,Boston Garden,0,/boxscores/197003200BOS.html
+Fri Mar 20 1970,Atlanta Hawks,New York Knicks,110,102,Alexander Memorial Coliseum,0,/boxscores/197003200ATL.html
+Fri Mar 20 1970,Cincinnati Royals,San Francisco Warriors,111,118,Cincinnati Gardens,0,/boxscores/197003200CIN.html
+Sat Mar 21 1970,Baltimore Bullets,San Francisco Warriors,127,123,Baltimore Civic Center,0,/boxscores/197003210BAL.html
+Sat Mar 21 1970,New York Knicks,Cincinnati Royals,120,136,Madison Square Garden (IV),0,/boxscores/197003210NYK.html
+Sun Mar 22 1970,Boston Celtics,New York Knicks,115,112,Boston Garden,0,/boxscores/197003220BOS.html
+Sun Mar 22 1970,Chicago Bulls,Milwaukee Bucks,129,115,Chicago Stadium,0,/boxscores/197003220CHI.html
+Sun Mar 22 1970,Detroit Pistons,Atlanta Hawks,126,130,Cobo Arena,0,/boxscores/197003220DET.html
+Sun Mar 22 1970,Los Angeles Lakers,Seattle SuperSonics,121,118,The Forum,0,/boxscores/197003220LAL.html
+Sun Mar 22 1970,Philadelphia 76ers,San Francisco Warriors,132,112,The Spectrum,0,/boxscores/197003220PHI.html
+Sun Mar 22 1970,San Diego Rockets,Phoenix Suns,129,130,San Diego Sports Arena,0,/boxscores/197003220SDR.html
+Wed Mar 25 1970,Atlanta Hawks,Chicago Bulls,129,111,Alexander Memorial Coliseum,0,/boxscores/197003250ATL.html
+Wed Mar 25 1970,Milwaukee Bucks,Philadelphia 76ers,125,118,Dane County Veteran Memorial Coliseum,0,/boxscores/197003250MIL.html
+Wed Mar 25 1970,Los Angeles Lakers,Phoenix Suns,128,112,The Forum,0,/boxscores/197003250LAL.html
+Thu Mar 26 1970,New York Knicks,Baltimore Bullets,120,117,Madison Square Garden (IV),0,/boxscores/197003260NYK.html
+Fri Mar 27 1970,Baltimore Bullets,New York Knicks,99,106,Baltimore Civic Center,0,/boxscores/197003270BAL.html
+Fri Mar 27 1970,Milwaukee Bucks,Philadelphia 76ers,105,112,Dane County Veteran Memorial Coliseum,0,/boxscores/197003270MIL.html
+Sat Mar 28 1970,Atlanta Hawks,Chicago Bulls,124,104,Alexander Memorial Coliseum,0,/boxscores/197003280ATL.html
+Sun Mar 29 1970,Los Angeles Lakers,Phoenix Suns,101,114,The Forum,0,/boxscores/197003290LAL.html
+Sun Mar 29 1970,New York Knicks,Baltimore Bullets,113,127,Madison Square Garden (IV),0,/boxscores/197003290NYK.html
+Mon Mar 30 1970,Philadelphia 76ers,Milwaukee Bucks,120,156,The Spectrum,0,/boxscores/197003300PHI.html
+Tue Mar 31 1970,Baltimore Bullets,New York Knicks,102,92,Baltimore Civic Center,0,/boxscores/197003310BAL.html
+Tue Mar 31 1970,Chicago Bulls,Atlanta Hawks,101,106,Chicago Stadium,0,/boxscores/197003310CHI.html

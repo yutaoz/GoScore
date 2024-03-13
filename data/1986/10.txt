@@ -1,0 +1,38 @@
+Fri Oct 25 1985,Chicago Bulls,Cleveland Cavaliers,116,115,Chicago Stadium,11124,/boxscores/198510250CHI.html
+Fri Oct 25 1985,Detroit Pistons,Milwaukee Bucks,118,116,Pontiac Silverdome,24353,/boxscores/198510250DET.html
+Fri Oct 25 1985,Golden State Warriors,Denver Nuggets,105,119,Oakland-Alameda County Coliseum Arena,6593,/boxscores/198510250GSW.html
+Fri Oct 25 1985,Portland Trail Blazers,Phoenix Suns,128,123,Memorial Coliseum,12666,/boxscores/198510250POR.html
+Fri Oct 25 1985,Sacramento Kings,Los Angeles Clippers,104,108,ARCO Arena (I),10333,/boxscores/198510250SAC.html
+Fri Oct 25 1985,Utah Jazz,Houston Rockets,108,112,Salt Palace,12431,/boxscores/198510250UTA.html
+Fri Oct 25 1985,Atlanta Hawks,Washington Bullets,91,100,Omni Coliseum,10129,/boxscores/198510250ATL.html
+Fri Oct 25 1985,New Jersey Nets,Boston Celtics,113,109,Brendan Byrne Arena,13095,/boxscores/198510250NJN.html
+Sat Oct 26 1985,Denver Nuggets,Sacramento Kings,123,112,McNichols Sports Arena,9309,/boxscores/198510260DEN.html
+Sat Oct 26 1985,San Antonio Spurs,Los Angeles Lakers,116,121,HemisFair Arena,10875,/boxscores/198510260SAS.html
+Sat Oct 26 1985,New York Knicks,Philadelphia 76ers,89,99,Madison Square Garden (IV),19591,/boxscores/198510260NYK.html
+Sat Oct 26 1985,Milwaukee Bucks,Atlanta Hawks,117,91,MECCA Arena,10237,/boxscores/198510260MIL.html
+Sat Oct 26 1985,Los Angeles Clippers,Houston Rockets,130,129,Los Angeles Memorial Sports Arena,7656,/boxscores/198510260LAC.html
+Sat Oct 26 1985,Indiana Pacers,New Jersey Nets,119,92,Market Square Arena,15856,/boxscores/198510260IND.html
+Sat Oct 26 1985,Dallas Mavericks,Seattle SuperSonics,101,95,Reunion Arena,17007,/boxscores/198510260DAL.html
+Sat Oct 26 1985,Cleveland Cavaliers,Boston Celtics,100,105,Coliseum at Richfield,20900,/boxscores/198510260CLE.html
+Sat Oct 26 1985,Chicago Bulls,Detroit Pistons,121,118,Chicago Stadium,15137,/boxscores/198510260CHI.html
+Sun Oct 27 1985,Portland Trail Blazers,Golden State Warriors,116,99,Memorial Coliseum,12666,/boxscores/198510270POR.html
+Tue Oct 29 1985,Cleveland Cavaliers,Washington Bullets,90,97,Coliseum at Richfield,7557,/boxscores/198510290CLE.html
+Tue Oct 29 1985,San Antonio Spurs,Utah Jazz,124,112,HemisFair Arena,5213,/boxscores/198510290SAS.html
+Tue Oct 29 1985,Phoenix Suns,Denver Nuggets,127,142,Arizona Veterans Memorial Coliseum,12855,/boxscores/198510290PHO.html
+Tue Oct 29 1985,Milwaukee Bucks,Philadelphia 76ers,119,117,MECCA Arena,10175,/boxscores/198510290MIL.html
+Tue Oct 29 1985,Los Angeles Clippers,Portland Trail Blazers,119,113,Los Angeles Memorial Sports Arena,4948,/boxscores/198510290LAC.html
+Tue Oct 29 1985,Houston Rockets,Seattle SuperSonics,111,99,The Summit,11989,/boxscores/198510290HOU.html
+Tue Oct 29 1985,Golden State Warriors,Chicago Bulls,105,111,Oakland-Alameda County Coliseum Arena,11210,/boxscores/198510290GSW.html
+Tue Oct 29 1985,Detroit Pistons,New Jersey Nets,124,107,Pontiac Silverdome,8430,/boxscores/198510290DET.html
+Tue Oct 29 1985,Dallas Mavericks,Los Angeles Lakers,115,133,Reunion Arena,17007,/boxscores/198510290DAL.html
+Tue Oct 29 1985,Atlanta Hawks,New York Knicks,102,87,Omni Coliseum,9901,/boxscores/198510290ATL.html
+Wed Oct 30 1985,Boston Celtics,Milwaukee Bucks,117,106,Boston Garden,14890,/boxscores/198510300BOS.html
+Wed Oct 30 1985,Philadelphia 76ers,Detroit Pistons,132,125,The Spectrum,8925,/boxscores/198510300PHI.html
+Wed Oct 30 1985,Utah Jazz,San Antonio Spurs,102,100,Salt Palace,9376,/boxscores/198510300UTA.html
+Wed Oct 30 1985,New Jersey Nets,Indiana Pacers,147,138,Brendan Byrne Arena,8027,/boxscores/198510300NJN.html
+Thu Oct 31 1985,Denver Nuggets,Seattle SuperSonics,90,73,McNichols Sports Arena,7439,/boxscores/198510310DEN.html
+Thu Oct 31 1985,Golden State Warriors,New York Knicks,111,104,Oakland-Alameda County Coliseum Arena,12181,/boxscores/198510310GSW.html
+Thu Oct 31 1985,Los Angeles Clippers,Chicago Bulls,120,112,Los Angeles Memorial Sports Arena,7809,/boxscores/198510310LAC.html
+Thu Oct 31 1985,Phoenix Suns,Los Angeles Lakers,107,144,Arizona Veterans Memorial Coliseum,11661,/boxscores/198510310PHO.html
+Thu Oct 31 1985,Sacramento Kings,Houston Rockets,122,116,ARCO Arena (I),10333,/boxscores/198510310SAC.html
+Thu Oct 31 1985,Washington Bullets,Cleveland Cavaliers,107,114,Capital Centre,7146,/boxscores/198510310WSB.html

@@ -1,0 +1,178 @@
+Tue Mar 1 1983,Atlanta Hawks,Indiana Pacers,109,106,Omni Coliseum,4388,/boxscores/198303010ATL.html
+Tue Mar 1 1983,Boston Celtics,Kansas City Kings,129,111,Boston Garden,15320,/boxscores/198303010BOS.html
+Tue Mar 1 1983,Chicago Bulls,Los Angeles Lakers,111,114,Chicago Stadium,15307,/boxscores/198303010CHI.html
+Tue Mar 1 1983,Denver Nuggets,Cleveland Cavaliers,132,121,McNichols Sports Arena,10492,/boxscores/198303010DEN.html
+Tue Mar 1 1983,Golden State Warriors,Detroit Pistons,103,114,Oakland-Alameda County Coliseum Arena,8671,/boxscores/198303010GSW.html
+Tue Mar 1 1983,Houston Rockets,Dallas Mavericks,115,123,The Summit,7346,/boxscores/198303010HOU.html
+Tue Mar 1 1983,New York Knicks,Philadelphia 76ers,94,106,Madison Square Garden (IV),17865,/boxscores/198303010NYK.html
+Tue Mar 1 1983,San Antonio Spurs,Seattle SuperSonics,119,104,HemisFair Arena,7988,/boxscores/198303010SAS.html
+Tue Mar 1 1983,Utah Jazz,San Diego Clippers,127,105,Salt Palace,8003,/boxscores/198303010UTA.html
+Tue Mar 1 1983,Washington Bullets,Milwaukee Bucks,99,101,Capital Centre,6781,/boxscores/198303010WSB.html
+Wed Mar 2 1983,Dallas Mavericks,Seattle SuperSonics,108,105,Reunion Arena,11194,/boxscores/198303020DAL.html
+Wed Mar 2 1983,Golden State Warriors,Denver Nuggets,108,128,Oakland-Alameda County Coliseum Arena,6508,/boxscores/198303020GSW.html
+Wed Mar 2 1983,Milwaukee Bucks,Los Angeles Lakers,117,127,MECCA Arena,11052,/boxscores/198303020MIL.html
+Wed Mar 2 1983,Phoenix Suns,San Antonio Spurs,110,106,Arizona Veterans Memorial Coliseum,10666,/boxscores/198303020PHO.html
+Wed Mar 2 1983,San Diego Clippers,Portland Trail Blazers,102,104,San Diego Sports Arena,4037,/boxscores/198303020SDC.html
+Wed Mar 2 1983,New Jersey Nets,Houston Rockets,124,85,Brendan Byrne Arena,10173,/boxscores/198303020NJN.html
+Thu Mar 3 1983,Atlanta Hawks,Washington Bullets,91,89,Omni Coliseum,4817,/boxscores/198303030ATL.html
+Thu Mar 3 1983,Detroit Pistons,Kansas City Kings,118,125,Pontiac Silverdome,7258,/boxscores/198303030DET.html
+Thu Mar 3 1983,Utah Jazz,Cleveland Cavaliers,118,113,Salt Palace,7233,/boxscores/198303030UTA.html
+Fri Mar 4 1983,Atlanta Hawks,Houston Rockets,115,87,Omni Coliseum,7269,/boxscores/198303040ATL.html
+Fri Mar 4 1983,Boston Celtics,Philadelphia 76ers,115,110,Boston Garden,15320,/boxscores/198303040BOS.html
+Fri Mar 4 1983,Chicago Bulls,New Jersey Nets,124,119,Chicago Stadium,6387,/boxscores/198303040CHI.html
+Fri Mar 4 1983,Dallas Mavericks,Milwaukee Bucks,102,108,Reunion Arena,17134,/boxscores/198303040DAL.html
+Fri Mar 4 1983,Kansas City Kings,Indiana Pacers,120,103,Kemper Arena,6414,/boxscores/198303040KCK.html
+Fri Mar 4 1983,Phoenix Suns,Golden State Warriors,109,102,Arizona Veterans Memorial Coliseum,13027,/boxscores/198303040PHO.html
+Fri Mar 4 1983,Portland Trail Blazers,Denver Nuggets,138,142,Memorial Coliseum,12666,/boxscores/198303040POR.html
+Fri Mar 4 1983,San Diego Clippers,San Antonio Spurs,99,107,San Diego Sports Arena,4585,/boxscores/198303040SDC.html
+Fri Mar 4 1983,Washington Bullets,Los Angeles Lakers,96,93,Capital Centre,17118,/boxscores/198303040WSB.html
+Sat Mar 5 1983,Dallas Mavericks,Cleveland Cavaliers,91,98,Reunion Arena,11358,/boxscores/198303050DAL.html
+Sat Mar 5 1983,Denver Nuggets,Milwaukee Bucks,126,120,McNichols Sports Arena,12011,/boxscores/198303050DEN.html
+Sat Mar 5 1983,Detroit Pistons,Los Angeles Lakers,108,122,Pontiac Silverdome,25278,/boxscores/198303050DET.html
+Sat Mar 5 1983,Golden State Warriors,Utah Jazz,127,121,Oakland-Alameda County Coliseum Arena,7906,/boxscores/198303050GSW.html
+Sat Mar 5 1983,Houston Rockets,Seattle SuperSonics,103,126,The Summit,7183,/boxscores/198303050HOU.html
+Sat Mar 5 1983,New York Knicks,Boston Celtics,105,98,Madison Square Garden (IV),18486,/boxscores/198303050NYK.html
+Sun Mar 6 1983,Chicago Bulls,Indiana Pacers,106,98,Chicago Stadium,5385,/boxscores/198303060CHI.html
+Sun Mar 6 1983,Kansas City Kings,San Diego Clippers,144,105,Kemper Arena,5566,/boxscores/198303060KCK.html
+Sun Mar 6 1983,Portland Trail Blazers,Utah Jazz,105,110,Memorial Coliseum,12666,/boxscores/198303060POR.html
+Sun Mar 6 1983,San Antonio Spurs,Cleveland Cavaliers,117,98,HemisFair Arena,7252,/boxscores/198303060SAS.html
+Sun Mar 6 1983,Washington Bullets,Atlanta Hawks,102,91,Capital Centre,7025,/boxscores/198303060WSB.html
+Sun Mar 6 1983,New Jersey Nets,Philadelphia 76ers,112,106,Brendan Byrne Arena,20149,/boxscores/198303060NJN.html
+Mon Mar 7 1983,Boston Celtics,New Jersey Nets,121,114,Hartford Civic Center,15165,/boxscores/198303070BOS.html
+Mon Mar 7 1983,Philadelphia 76ers,Detroit Pistons,123,114,The Spectrum,17536,/boxscores/198303070PHI.html
+Tue Mar 8 1983,Atlanta Hawks,Portland Trail Blazers,110,93,Omni Coliseum,4903,/boxscores/198303080ATL.html
+Tue Mar 8 1983,Dallas Mavericks,Phoenix Suns,120,99,Reunion Arena,9529,/boxscores/198303080DAL.html
+Tue Mar 8 1983,Denver Nuggets,San Antonio Spurs,129,118,McNichols Sports Arena,15033,/boxscores/198303080DEN.html
+Tue Mar 8 1983,Detroit Pistons,Indiana Pacers,107,101,Pontiac Silverdome,6147,/boxscores/198303080DET.html
+Tue Mar 8 1983,Golden State Warriors,Los Angeles Lakers,112,116,Oakland-Alameda County Coliseum Arena,13335,/boxscores/198303080GSW.html
+Tue Mar 8 1983,Houston Rockets,Cleveland Cavaliers,99,102,The Summit,7036,/boxscores/198303080HOU.html
+Tue Mar 8 1983,New York Knicks,Seattle SuperSonics,107,98,Madison Square Garden (IV),8743,/boxscores/198303080NYK.html
+Wed Mar 9 1983,Boston Celtics,Seattle SuperSonics,106,112,Boston Garden,15320,/boxscores/198303090BOS.html
+Wed Mar 9 1983,Indiana Pacers,Portland Trail Blazers,97,101,Market Square Arena,3036,/boxscores/198303090IND.html
+Wed Mar 9 1983,Kansas City Kings,Dallas Mavericks,129,113,Kemper Arena,0,/boxscores/198303090KCK.html
+Wed Mar 9 1983,Los Angeles Lakers,San Diego Clippers,119,114,The Forum,17505,/boxscores/198303090LAL.html
+Wed Mar 9 1983,Milwaukee Bucks,Atlanta Hawks,109,100,MECCA Arena,10897,/boxscores/198303090MIL.html
+Wed Mar 9 1983,San Antonio Spurs,Phoenix Suns,108,105,HemisFair Arena,8201,/boxscores/198303090SAS.html
+Wed Mar 9 1983,Utah Jazz,Denver Nuggets,109,122,Salt Palace,10075,/boxscores/198303090UTA.html
+Wed Mar 9 1983,Washington Bullets,Chicago Bulls,110,92,Capital Centre,5622,/boxscores/198303090WSB.html
+Wed Mar 9 1983,New Jersey Nets,New York Knicks,92,103,Brendan Byrne Arena,19347,/boxscores/198303090NJN.html
+Thu Mar 10 1983,Houston Rockets,Golden State Warriors,109,119,The Summit,6136,/boxscores/198303100HOU.html
+Fri Mar 11 1983,Indiana Pacers,Seattle SuperSonics,121,127,Market Square Arena,4176,/boxscores/198303110IND.html
+Fri Mar 11 1983,Milwaukee Bucks,Kansas City Kings,108,100,MECCA Arena,11052,/boxscores/198303110MIL.html
+Fri Mar 11 1983,San Diego Clippers,Chicago Bulls,130,123,San Diego Sports Arena,3722,/boxscores/198303110SDC.html
+Fri Mar 11 1983,Utah Jazz,Dallas Mavericks,119,110,Salt Palace,10338,/boxscores/198303110UTA.html
+Fri Mar 11 1983,New Jersey Nets,Boston Celtics,98,93,Brendan Byrne Arena,20149,/boxscores/198303110NJN.html
+Sat Mar 12 1983,Detroit Pistons,Atlanta Hawks,119,120,Pontiac Silverdome,25312,/boxscores/198303120DET.html
+Sat Mar 12 1983,Houston Rockets,Phoenix Suns,94,105,The Summit,6835,/boxscores/198303120HOU.html
+Sat Mar 12 1983,Los Angeles Lakers,Chicago Bulls,123,116,The Forum,17505,/boxscores/198303120LAL.html
+Sat Mar 12 1983,New York Knicks,Portland Trail Blazers,97,95,Madison Square Garden (IV),9706,/boxscores/198303120NYK.html
+Sat Mar 12 1983,San Antonio Spurs,Golden State Warriors,131,120,HemisFair Arena,9805,/boxscores/198303120SAS.html
+Sat Mar 12 1983,Washington Bullets,Philadelphia 76ers,86,95,Capital Centre,19035,/boxscores/198303120WSB.html
+Sun Mar 13 1983,Boston Celtics,New York Knicks,110,122,Boston Garden,15320,/boxscores/198303130BOS.html
+Sun Mar 13 1983,Dallas Mavericks,San Diego Clippers,111,102,Reunion Arena,10976,/boxscores/198303130DAL.html
+Sun Mar 13 1983,Denver Nuggets,Utah Jazz,130,117,McNichols Sports Arena,13188,/boxscores/198303130DEN.html
+Sun Mar 13 1983,Indiana Pacers,Detroit Pistons,118,114,Market Square Arena,5771,/boxscores/198303130IND.html
+Sun Mar 13 1983,Kansas City Kings,Seattle SuperSonics,115,120,Kemper Arena,7754,/boxscores/198303130KCK.html
+Sun Mar 13 1983,Milwaukee Bucks,Cleveland Cavaliers,117,83,MECCA Arena,10035,/boxscores/198303130MIL.html
+Sun Mar 13 1983,Philadelphia 76ers,Washington Bullets,97,93,The Spectrum,18482,/boxscores/198303130PHI.html
+Sun Mar 13 1983,New Jersey Nets,Portland Trail Blazers,109,94,Brendan Byrne Arena,12576,/boxscores/198303130NJN.html
+Tue Mar 15 1983,Denver Nuggets,Golden State Warriors,139,115,McNichols Sports Arena,12558,/boxscores/198303150DEN.html
+Tue Mar 15 1983,Houston Rockets,Dallas Mavericks,110,123,The Summit,7030,/boxscores/198303150HOU.html
+Tue Mar 15 1983,Indiana Pacers,Philadelphia 76ers,128,132,Market Square Arena,7929,/boxscores/198303150IND.html
+Tue Mar 15 1983,New York Knicks,Atlanta Hawks,119,97,Madison Square Garden (IV),11141,/boxscores/198303150NYK.html
+Tue Mar 15 1983,Phoenix Suns,Chicago Bulls,116,108,Arizona Veterans Memorial Coliseum,10307,/boxscores/198303150PHO.html
+Tue Mar 15 1983,Portland Trail Blazers,Kansas City Kings,115,98,Memorial Coliseum,12666,/boxscores/198303150POR.html
+Tue Mar 15 1983,San Antonio Spurs,San Diego Clippers,130,109,HemisFair Arena,8278,/boxscores/198303150SAS.html
+Tue Mar 15 1983,Washington Bullets,Cleveland Cavaliers,95,92,Capital Centre,5832,/boxscores/198303150WSB.html
+Tue Mar 15 1983,New Jersey Nets,Detroit Pistons,109,90,Brendan Byrne Arena,12133,/boxscores/198303150NJN.html
+Wed Mar 16 1983,Atlanta Hawks,Washington Bullets,94,81,Omni Coliseum,7817,/boxscores/198303160ATL.html
+Wed Mar 16 1983,Cleveland Cavaliers,New Jersey Nets,90,96,Coliseum at Richfield,1814,/boxscores/198303160CLE.html
+Wed Mar 16 1983,Detroit Pistons,Utah Jazz,115,125,Pontiac Silverdome,5188,/boxscores/198303160DET.html
+Wed Mar 16 1983,Golden State Warriors,Chicago Bulls,111,113,Oakland-Alameda County Coliseum Arena,8150,/boxscores/198303160GSW.html
+Wed Mar 16 1983,Los Angeles Lakers,Phoenix Suns,104,95,The Forum,16060,/boxscores/198303160LAL.html
+Wed Mar 16 1983,Milwaukee Bucks,New York Knicks,93,105,MECCA Arena,9584,/boxscores/198303160MIL.html
+Wed Mar 16 1983,Philadelphia 76ers,Boston Celtics,105,100,The Spectrum,18482,/boxscores/198303160PHI.html
+Wed Mar 16 1983,Seattle SuperSonics,Kansas City Kings,110,102,Seattle Kingdome,10981,/boxscores/198303160SEA.html
+Thu Mar 17 1983,Dallas Mavericks,Indiana Pacers,120,105,Reunion Arena,10236,/boxscores/198303170DAL.html
+Thu Mar 17 1983,Phoenix Suns,Houston Rockets,125,99,Arizona Veterans Memorial Coliseum,9069,/boxscores/198303170PHO.html
+Thu Mar 17 1983,San Diego Clippers,San Antonio Spurs,101,111,San Diego Sports Arena,4076,/boxscores/198303170SDC.html
+Fri Mar 18 1983,Boston Celtics,New Jersey Nets,116,103,Boston Garden,15320,/boxscores/198303180BOS.html
+Fri Mar 18 1983,Cleveland Cavaliers,Atlanta Hawks,73,97,Coliseum at Richfield,2461,/boxscores/198303180CLE.html
+Fri Mar 18 1983,Detroit Pistons,Milwaukee Bucks,103,99,Pontiac Silverdome,18057,/boxscores/198303180DET.html
+Fri Mar 18 1983,Golden State Warriors,Houston Rockets,120,122,Oakland-Alameda County Coliseum Arena,6702,/boxscores/198303180GSW.html
+Fri Mar 18 1983,Los Angeles Lakers,Kansas City Kings,109,96,The Forum,15817,/boxscores/198303180LAL.html
+Fri Mar 18 1983,Portland Trail Blazers,Chicago Bulls,101,117,Memorial Coliseum,12666,/boxscores/198303180POR.html
+Fri Mar 18 1983,Seattle SuperSonics,Denver Nuggets,147,117,Seattle Kingdome,14268,/boxscores/198303180SEA.html
+Fri Mar 18 1983,Washington Bullets,New York Knicks,100,106,Capital Centre,9358,/boxscores/198303180WSB.html
+Sat Mar 19 1983,Atlanta Hawks,Utah Jazz,99,94,Omni Coliseum,7174,/boxscores/198303190ATL.html
+Sat Mar 19 1983,Milwaukee Bucks,Philadelphia 76ers,97,105,MECCA Arena,11052,/boxscores/198303190MIL.html
+Sat Mar 19 1983,New York Knicks,Washington Bullets,90,96,Madison Square Garden (IV),13969,/boxscores/198303190NYK.html
+Sat Mar 19 1983,Phoenix Suns,Dallas Mavericks,115,112,Arizona Veterans Memorial Coliseum,13181,/boxscores/198303190PHO.html
+Sat Mar 19 1983,San Antonio Spurs,Indiana Pacers,138,118,HemisFair Arena,10355,/boxscores/198303190SAS.html
+Sat Mar 19 1983,San Diego Clippers,Los Angeles Lakers,107,99,San Diego Sports Arena,13075,/boxscores/198303190SDC.html
+Sun Mar 20 1983,Cleveland Cavaliers,Boston Celtics,79,90,Coliseum at Richfield,7180,/boxscores/198303200CLE.html
+Sun Mar 20 1983,Denver Nuggets,Portland Trail Blazers,106,118,McNichols Sports Arena,13710,/boxscores/198303200DEN.html
+Sun Mar 20 1983,Detroit Pistons,Philadelphia 76ers,119,121,Pontiac Silverdome,20077,/boxscores/198303200DET.html
+Sun Mar 20 1983,Kansas City Kings,Golden State Warriors,128,114,Kemper Arena,5773,/boxscores/198303200KCK.html
+Sun Mar 20 1983,Los Angeles Lakers,Dallas Mavericks,117,110,The Forum,17505,/boxscores/198303200LAL.html
+Sun Mar 20 1983,Milwaukee Bucks,New Jersey Nets,107,92,MECCA Arena,9565,/boxscores/198303200MIL.html
+Sun Mar 20 1983,Seattle SuperSonics,Chicago Bulls,128,116,Seattle Kingdome,11139,/boxscores/198303200SEA.html
+Tue Mar 22 1983,Chicago Bulls,Detroit Pistons,116,134,Chicago Stadium,6264,/boxscores/198303220CHI.html
+Tue Mar 22 1983,Dallas Mavericks,Golden State Warriors,111,102,Reunion Arena,9978,/boxscores/198303220DAL.html
+Tue Mar 22 1983,Denver Nuggets,Phoenix Suns,130,117,McNichols Sports Arena,10588,/boxscores/198303220DEN.html
+Tue Mar 22 1983,Indiana Pacers,Atlanta Hawks,102,111,Market Square Arena,3517,/boxscores/198303220IND.html
+Tue Mar 22 1983,Kansas City Kings,Cleveland Cavaliers,117,94,Kemper Arena,4924,/boxscores/198303220KCK.html
+Tue Mar 22 1983,Los Angeles Lakers,Seattle SuperSonics,123,108,The Forum,17505,/boxscores/198303220LAL.html
+Tue Mar 22 1983,Milwaukee Bucks,Boston Celtics,116,108,MECCA Arena,11052,/boxscores/198303220MIL.html
+Tue Mar 22 1983,New York Knicks,Philadelphia 76ers,89,76,Madison Square Garden (IV),19591,/boxscores/198303220NYK.html
+Tue Mar 22 1983,Portland Trail Blazers,San Antonio Spurs,119,102,Memorial Coliseum,12666,/boxscores/198303220POR.html
+Tue Mar 22 1983,San Diego Clippers,Houston Rockets,128,98,San Diego Sports Arena,2856,/boxscores/198303220SDC.html
+Tue Mar 22 1983,Washington Bullets,Utah Jazz,121,98,Capital Centre,5173,/boxscores/198303220WSB.html
+Wed Mar 23 1983,Boston Celtics,Atlanta Hawks,114,102,Boston Garden,15320,/boxscores/198303230BOS.html
+Wed Mar 23 1983,Cleveland Cavaliers,New York Knicks,84,81,Coliseum at Richfield,2145,/boxscores/198303230CLE.html
+Wed Mar 23 1983,Detroit Pistons,Indiana Pacers,109,96,Pontiac Silverdome,4425,/boxscores/198303230DET.html
+Wed Mar 23 1983,Philadelphia 76ers,Milwaukee Bucks,104,101,The Spectrum,17842,/boxscores/198303230PHI.html
+Wed Mar 23 1983,Seattle SuperSonics,San Antonio Spurs,137,117,Seattle Kingdome,14203,/boxscores/198303230SEA.html
+Wed Mar 23 1983,New Jersey Nets,Utah Jazz,124,104,Brendan Byrne Arena,11457,/boxscores/198303230NJN.html
+Thu Mar 24 1983,Chicago Bulls,Washington Bullets,96,102,Chicago Stadium,5256,/boxscores/198303240CHI.html
+Thu Mar 24 1983,Phoenix Suns,Kansas City Kings,112,95,Arizona Veterans Memorial Coliseum,10087,/boxscores/198303240PHO.html
+Thu Mar 24 1983,Portland Trail Blazers,Houston Rockets,104,97,Memorial Coliseum,12666,/boxscores/198303240POR.html
+Thu Mar 24 1983,San Diego Clippers,Dallas Mavericks,113,118,San Diego Sports Arena,3103,/boxscores/198303240SDC.html
+Fri Mar 25 1983,Atlanta Hawks,New York Knicks,87,104,Omni Coliseum,8695,/boxscores/198303250ATL.html
+Fri Mar 25 1983,Boston Celtics,Cleveland Cavaliers,124,102,Boston Garden,15320,/boxscores/198303250BOS.html
+Fri Mar 25 1983,Denver Nuggets,Detroit Pistons,131,120,McNichols Sports Arena,14009,/boxscores/198303250DEN.html
+Fri Mar 25 1983,Indiana Pacers,Utah Jazz,119,117,Market Square Arena,3065,/boxscores/198303250IND.html
+Fri Mar 25 1983,Los Angeles Lakers,San Antonio Spurs,120,132,The Forum,17505,/boxscores/198303250LAL.html
+Fri Mar 25 1983,Milwaukee Bucks,Washington Bullets,96,97,MECCA Arena,10903,/boxscores/198303250MIL.html
+Fri Mar 25 1983,Philadelphia 76ers,New Jersey Nets,92,101,The Spectrum,17311,/boxscores/198303250PHI.html
+Fri Mar 25 1983,Seattle SuperSonics,Houston Rockets,104,106,Seattle Kingdome,11884,/boxscores/198303250SEA.html
+Sat Mar 26 1983,Chicago Bulls,Boston Celtics,118,108,Chicago Stadium,10415,/boxscores/198303260CHI.html
+Sat Mar 26 1983,Dallas Mavericks,Kansas City Kings,111,114,Reunion Arena,14574,/boxscores/198303260DAL.html
+Sat Mar 26 1983,New York Knicks,Milwaukee Bucks,81,89,Madison Square Garden (IV),13059,/boxscores/198303260NYK.html
+Sat Mar 26 1983,Phoenix Suns,Denver Nuggets,124,110,Arizona Veterans Memorial Coliseum,13143,/boxscores/198303260PHO.html
+Sat Mar 26 1983,San Diego Clippers,Golden State Warriors,121,117,San Diego Sports Arena,4039,/boxscores/198303260SDC.html
+Sat Mar 26 1983,New Jersey Nets,Atlanta Hawks,102,81,Brendan Byrne Arena,15281,/boxscores/198303260NJN.html
+Sun Mar 27 1983,Kansas City Kings,Portland Trail Blazers,110,95,Kemper Arena,6495,/boxscores/198303270KCK.html
+Sun Mar 27 1983,Los Angeles Lakers,Houston Rockets,114,93,The Forum,14719,/boxscores/198303270LAL.html
+Sun Mar 27 1983,Philadelphia 76ers,Cleveland Cavaliers,94,80,The Spectrum,13327,/boxscores/198303270PHI.html
+Sun Mar 27 1983,Utah Jazz,Seattle SuperSonics,108,122,Salt Palace,8923,/boxscores/198303270UTA.html
+Sun Mar 27 1983,Washington Bullets,Indiana Pacers,120,101,Capital Centre,5307,/boxscores/198303270WSB.html
+Tue Mar 29 1983,Atlanta Hawks,Cleveland Cavaliers,95,82,Omni Coliseum,5064,/boxscores/198303290ATL.html
+Tue Mar 29 1983,Chicago Bulls,Philadelphia 76ers,97,95,Chicago Stadium,12189,/boxscores/198303290CHI.html
+Tue Mar 29 1983,Golden State Warriors,Dallas Mavericks,109,106,Oakland-Alameda County Coliseum Arena,5972,/boxscores/198303290GSW.html
+Tue Mar 29 1983,Houston Rockets,Kansas City Kings,95,111,The Summit,6291,/boxscores/198303290HOU.html
+Tue Mar 29 1983,Indiana Pacers,Boston Celtics,130,101,Market Square Arena,9789,/boxscores/198303290IND.html
+Tue Mar 29 1983,Los Angeles Lakers,San Diego Clippers,127,109,The Forum,16581,/boxscores/198303290LAL.html
+Tue Mar 29 1983,Phoenix Suns,Utah Jazz,115,107,Arizona Veterans Memorial Coliseum,11285,/boxscores/198303290PHO.html
+Tue Mar 29 1983,Portland Trail Blazers,Detroit Pistons,114,107,Memorial Coliseum,12666,/boxscores/198303290POR.html
+Tue Mar 29 1983,San Antonio Spurs,Denver Nuggets,136,129,HemisFair Arena,12477,/boxscores/198303290SAS.html
+Tue Mar 29 1983,Washington Bullets,Milwaukee Bucks,94,81,Capital Centre,6657,/boxscores/198303290WSB.html
+Wed Mar 30 1983,Boston Celtics,Indiana Pacers,142,116,Boston Garden,15320,/boxscores/198303300BOS.html
+Wed Mar 30 1983,Cleveland Cavaliers,Houston Rockets,102,95,Coliseum at Richfield,4575,/boxscores/198303300CLE.html
+Wed Mar 30 1983,Philadelphia 76ers,Atlanta Hawks,120,113,The Spectrum,14330,/boxscores/198303300PHI.html
+Wed Mar 30 1983,San Diego Clippers,New York Knicks,103,97,San Diego Sports Arena,4570,/boxscores/198303300SDC.html
+Wed Mar 30 1983,Seattle SuperSonics,Detroit Pistons,135,124,Seattle Kingdome,10069,/boxscores/198303300SEA.html
+Wed Mar 30 1983,Utah Jazz,Dallas Mavericks,117,103,Salt Palace,8581,/boxscores/198303300UTA.html
+Wed Mar 30 1983,New Jersey Nets,Washington Bullets,97,100,Brendan Byrne Arena,12162,/boxscores/198303300NJN.html
+Thu Mar 31 1983,Denver Nuggets,Los Angeles Lakers,116,122,McNichols Sports Arena,17310,/boxscores/198303310DEN.html
+Thu Mar 31 1983,Phoenix Suns,Portland Trail Blazers,106,89,Arizona Veterans Memorial Coliseum,10915,/boxscores/198303310PHO.html

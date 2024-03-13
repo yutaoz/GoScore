@@ -1,0 +1,57 @@
+Sun Mar 1 1964,Boston Celtics,Philadelphia 76ers,108,93,Boston Garden,0,/boxscores/196403010BOS.html
+Sun Mar 1 1964,Baltimore Bullets,Cincinnati Royals,111,122,Baltimore Civic Center,0,/boxscores/196403010BAL.html
+Sun Mar 1 1964,Los Angeles Lakers,St. Louis Hawks,114,91,Los Angeles Memorial Sports Arena,0,/boxscores/196403010LAL.html
+Sun Mar 1 1964,Detroit Pistons,San Francisco Warriors,86,100,Cobo Arena,0,/boxscores/196403010DET.html
+Mon Mar 2 1964,San Francisco Warriors,St. Louis Hawks,102,111,Cow Palace,0,/boxscores/196403020SFW.html
+Tue Mar 3 1964,Boston Celtics,Philadelphia 76ers,108,94,Onondaga War Memorial,0,/boxscores/196403030BOS.html
+Tue Mar 3 1964,New York Knicks,Cincinnati Royals,108,117,Madison Square Garden (III),0,/boxscores/196403030NYK.html
+Wed Mar 4 1964,Baltimore Bullets,New York Knicks,115,108,Baltimore Civic Center,0,/boxscores/196403040BAL.html
+Wed Mar 4 1964,Boston Celtics,Cincinnati Royals,112,108,Boston Garden,0,/boxscores/196403040BOS.html
+Wed Mar 4 1964,Los Angeles Lakers,St. Louis Hawks,105,110,Los Angeles Memorial Sports Arena,0,/boxscores/196403040LAL.html
+Thu Mar 5 1964,Baltimore Bullets,Detroit Pistons,120,125,Memorial Coliseum,0,/boxscores/196403050BAL.html
+Thu Mar 5 1964,Cincinnati Royals,Boston Celtics,111,101,Cincinnati Gardens,0,/boxscores/196403050CIN.html
+Thu Mar 5 1964,San Francisco Warriors,St. Louis Hawks,102,104,Cow Palace,0,/boxscores/196403050SFW.html
+Sat Mar 7 1964,Los Angeles Lakers,San Francisco Warriors,118,120,Los Angeles Memorial Sports Arena,0,/boxscores/196403070LAL.html
+Sat Mar 7 1964,Philadelphia 76ers,New York Knicks,130,115,Philadelphia Arena,0,/boxscores/196403070PHI.html
+Sat Mar 7 1964,Detroit Pistons,Boston Celtics,94,112,Cobo Arena,0,/boxscores/196403070DET.html
+Sat Mar 7 1964,Cincinnati Royals,Baltimore Bullets,104,101,Cincinnati Gardens,0,/boxscores/196403070CIN.html
+Sun Mar 8 1964,Boston Celtics,Detroit Pistons,128,118,Boston Garden,0,/boxscores/196403080BOS.html
+Sun Mar 8 1964,New York Knicks,Philadelphia 76ers,140,108,Madison Square Garden (III),0,/boxscores/196403080NYK.html
+Sun Mar 8 1964,St. Louis Hawks,Baltimore Bullets,135,117,Kiel Auditorium,0,/boxscores/196403080STL.html
+Mon Mar 9 1964,Los Angeles Lakers,Baltimore Bullets,122,112,Los Angeles Memorial Sports Arena,0,/boxscores/196403090LAL.html
+Tue Mar 10 1964,Detroit Pistons,Cincinnati Royals,114,103,Cobo Arena,0,/boxscores/196403100DET.html
+Tue Mar 10 1964,New York Knicks,St. Louis Hawks,105,124,Madison Square Garden (III),0,/boxscores/196403100NYK.html
+Tue Mar 10 1964,San Francisco Warriors,Baltimore Bullets,129,111,University of San Francisco,0,/boxscores/196403100SFW.html
+Wed Mar 11 1964,Los Angeles Lakers,Baltimore Bullets,115,109,Long Beach Arena,0,/boxscores/196403110LAL.html
+Wed Mar 11 1964,St. Louis Hawks,Philadelphia 76ers,111,124,Kiel Auditorium,0,/boxscores/196403110STL.html
+Thu Mar 12 1964,San Francisco Warriors,Baltimore Bullets,125,102,University of San Francisco,0,/boxscores/196403120SFW.html
+Thu Mar 12 1964,Boston Celtics,Detroit Pistons,140,120,Rhode Island Auditorium,0,/boxscores/196403120BOS.html
+Thu Mar 12 1964,Cincinnati Royals,Philadelphia 76ers,128,111,Cincinnati Gardens,0,/boxscores/196403120CIN.html
+Fri Mar 13 1964,Detroit Pistons,Philadelphia 76ers,133,122,Scranton Catholic Youth Center,0,/boxscores/196403130DET.html
+Fri Mar 13 1964,San Francisco Warriors,Los Angeles Lakers,109,112,Cow Palace,0,/boxscores/196403130SFW.html
+Sat Mar 14 1964,Baltimore Bullets,Philadelphia 76ers,122,128,Boehm Junior High School,0,/boxscores/196403140BAL.html
+Sat Mar 14 1964,Detroit Pistons,New York Knicks,126,124,Cobo Arena,0,/boxscores/196403140DET.html
+Sat Mar 14 1964,Los Angeles Lakers,San Francisco Warriors,95,111,Los Angeles Memorial Sports Arena,0,/boxscores/196403140LAL.html
+Sat Mar 14 1964,St. Louis Hawks,Cincinnati Royals,118,110,Kiel Auditorium,0,/boxscores/196403140STL.html
+Sun Mar 15 1964,Boston Celtics,Baltimore Bullets,129,105,Boston Garden,0,/boxscores/196403150BOS.html
+Sun Mar 15 1964,Cincinnati Royals,St. Louis Hawks,124,101,Cincinnati Gardens,0,/boxscores/196403150CIN.html
+Sun Mar 15 1964,Los Angeles Lakers,Philadelphia 76ers,120,95,Los Angeles Memorial Sports Arena,0,/boxscores/196403150LAL.html
+Sun Mar 15 1964,New York Knicks,Detroit Pistons,139,125,Madison Square Garden (III),0,/boxscores/196403150NYK.html
+Mon Mar 16 1964,San Francisco Warriors,Philadelphia 76ers,110,111,Cow Palace,0,/boxscores/196403160SFW.html
+Tue Mar 17 1964,St. Louis Hawks,Detroit Pistons,115,99,Kiel Auditorium,0,/boxscores/196403170STL.html
+Tue Mar 17 1964,Los Angeles Lakers,Philadelphia 76ers,121,97,Los Angeles Memorial Sports Arena,0,/boxscores/196403170LAL.html
+Tue Mar 17 1964,Boston Celtics,New York Knicks,127,121,Boston Garden,0,/boxscores/196403170BOS.html
+Wed Mar 18 1964,Baltimore Bullets,Boston Celtics,108,95,Baltimore Civic Center,0,/boxscores/196403180BAL.html
+Wed Mar 18 1964,Detroit Pistons,St. Louis Hawks,106,96,Cobo Arena,0,/boxscores/196403180DET.html
+Wed Mar 18 1964,San Francisco Warriors,Philadelphia 76ers,89,85,University of San Francisco,0,/boxscores/196403180SFW.html
+Sat Mar 21 1964,St. Louis Hawks,Los Angeles Lakers,115,104,Kiel Auditorium,0,/boxscores/196403210STL.html
+Sun Mar 22 1964,Cincinnati Royals,Philadelphia 76ers,127,102,Cincinnati Gardens,6238,/boxscores/196403220CIN.html
+Sun Mar 22 1964,St. Louis Hawks,Los Angeles Lakers,106,90,Kiel Auditorium,0,/boxscores/196403220STL.html
+Tue Mar 24 1964,Philadelphia 76ers,Cincinnati Royals,122,114,Philadelphia Arena,0,/boxscores/196403240PHI.html
+Wed Mar 25 1964,Cincinnati Royals,Philadelphia 76ers,101,89,Cincinnati Gardens,0,/boxscores/196403250CIN.html
+Wed Mar 25 1964,Los Angeles Lakers,St. Louis Hawks,107,105,Los Angeles Memorial Sports Arena,0,/boxscores/196403250LAL.html
+Sat Mar 28 1964,Los Angeles Lakers,St. Louis Hawks,97,88,Los Angeles Memorial Sports Arena,0,/boxscores/196403280LAL.html
+Sat Mar 28 1964,Philadelphia 76ers,Cincinnati Royals,129,120,Convention Hall,0,/boxscores/196403280PHI.html
+Sun Mar 29 1964,Cincinnati Royals,Philadelphia 76ers,130,124,Cincinnati Gardens,0,/boxscores/196403290CIN.html
+Mon Mar 30 1964,St. Louis Hawks,Los Angeles Lakers,121,108,Kiel Auditorium,0,/boxscores/196403300STL.html
+Tue Mar 31 1964,Boston Celtics,Cincinnati Royals,103,87,Boston Garden,0,/boxscores/196403310BOS.html

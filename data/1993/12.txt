@@ -1,0 +1,194 @@
+Tue Dec 1 1992,Atlanta Hawks,Indiana Pacers,119,107,Omni Coliseum,7216,/boxscores/199212010ATL.html
+Tue Dec 1 1992,Cleveland Cavaliers,Boston Celtics,111,101,Coliseum at Richfield,16023,/boxscores/199212010CLE.html
+Tue Dec 1 1992,Denver Nuggets,Houston Rockets,112,105,McNichols Sports Arena,10147,/boxscores/199212010DEN.html
+Tue Dec 1 1992,New York Knicks,Portland Trail Blazers,101,85,Madison Square Garden (IV),19763,/boxscores/199212010NYK.html
+Tue Dec 1 1992,Phoenix Suns,Charlotte Hornets,109,90,America West Arena,19023,/boxscores/199212010PHO.html
+Tue Dec 1 1992,Sacramento Kings,Los Angeles Lakers,117,110,ARCO Arena (II),17317,/boxscores/199212010SAC.html
+Tue Dec 1 1992,Seattle SuperSonics,Orlando Magic,116,102,Seattle Center Coliseum,14809,/boxscores/199212010SEA.html
+Tue Dec 1 1992,Utah Jazz,Dallas Mavericks,116,101,Delta Center,19452,/boxscores/199212010UTA.html
+Tue Dec 1 1992,Washington Bullets,San Antonio Spurs,119,106,Capital Centre,15642,/boxscores/199212010WSB.html
+Wed Dec 2 1992,Boston Celtics,Chicago Bulls,101,96,Boston Garden,14890,/boxscores/199212020BOS.html
+Wed Dec 2 1992,Golden State Warriors,Charlotte Hornets,110,111,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212020GSW.html
+Wed Dec 2 1992,Indiana Pacers,Portland Trail Blazers,103,112,Market Square Arena,11018,/boxscores/199212020IND.html
+Wed Dec 2 1992,Milwaukee Bucks,Miami Heat,100,97,Bradley Center,14516,/boxscores/199212020MIL.html
+Wed Dec 2 1992,New Jersey Nets,Atlanta Hawks,122,115,Brendan Byrne Arena,9069,/boxscores/199212020NJN.html
+Wed Dec 2 1992,Philadelphia 76ers,San Antonio Spurs,82,98,The Spectrum,12731,/boxscores/199212020PHI.html
+Thu Dec 3 1992,Cleveland Cavaliers,New York Knicks,100,90,Coliseum at Richfield,16373,/boxscores/199212030CLE.html
+Thu Dec 3 1992,Houston Rockets,Los Angeles Lakers,89,95,The Summit,10902,/boxscores/199212030HOU.html
+Thu Dec 3 1992,Los Angeles Clippers,Orlando Magic,122,104,Los Angeles Memorial Sports Arena,15567,/boxscores/199212030LAC.html
+Thu Dec 3 1992,Seattle SuperSonics,Dallas Mavericks,125,108,Seattle Center Coliseum,7949,/boxscores/199212030SEA.html
+Thu Dec 3 1992,Utah Jazz,Minnesota Timberwolves,110,91,Delta Center,19911,/boxscores/199212030UTA.html
+Thu Dec 3 1992,Washington Bullets,Milwaukee Bucks,113,95,Capital Centre,7711,/boxscores/199212030WSB.html
+Fri Dec 4 1992,Boston Celtics,Miami Heat,114,104,Boston Garden,14890,/boxscores/199212040BOS.html
+Fri Dec 4 1992,Chicago Bulls,Portland Trail Blazers,111,99,Chicago Stadium,18676,/boxscores/199212040CHI.html
+Fri Dec 4 1992,Denver Nuggets,Golden State Warriors,116,113,McNichols Sports Arena,12936,/boxscores/199212040DEN.html
+Fri Dec 4 1992,Indiana Pacers,Atlanta Hawks,122,106,Market Square Arena,10019,/boxscores/199212040IND.html
+Fri Dec 4 1992,New Jersey Nets,San Antonio Spurs,108,103,Brendan Byrne Arena,15068,/boxscores/199212040NJN.html
+Fri Dec 4 1992,Philadelphia 76ers,Detroit Pistons,99,101,The Spectrum,11180,/boxscores/199212040PHI.html
+Fri Dec 4 1992,Phoenix Suns,Los Angeles Lakers,103,93,America West Arena,19023,/boxscores/199212040PHO.html
+Fri Dec 4 1992,Sacramento Kings,Charlotte Hornets,111,112,ARCO Arena (II),17317,/boxscores/199212040SAC.html
+Sat Dec 5 1992,Atlanta Hawks,San Antonio Spurs,113,105,Omni Coliseum,11301,/boxscores/199212050ATL.html
+Sat Dec 5 1992,Chicago Bulls,Boston Celtics,96,89,Chicago Stadium,18676,/boxscores/199212050CHI.html
+Sat Dec 5 1992,Cleveland Cavaliers,Portland Trail Blazers,94,96,Coliseum at Richfield,19010,/boxscores/199212050CLE.html
+Sat Dec 5 1992,Dallas Mavericks,Houston Rockets,96,117,Reunion Arena,14096,/boxscores/199212050DAL.html
+Sat Dec 5 1992,Detroit Pistons,Philadelphia 76ers,112,88,The Palace of Auburn Hills,21454,/boxscores/199212050DET.html
+Sat Dec 5 1992,Golden State Warriors,Orlando Magic,119,104,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212050GSW.html
+Sat Dec 5 1992,Los Angeles Clippers,Charlotte Hornets,119,109,Los Angeles Memorial Sports Arena,11830,/boxscores/199212050LAC.html
+Sat Dec 5 1992,Miami Heat,New Jersey Nets,104,111,Miami Arena,15008,/boxscores/199212050MIA.html
+Sat Dec 5 1992,New York Knicks,Milwaukee Bucks,111,98,Madison Square Garden (IV),19763,/boxscores/199212050NYK.html
+Sat Dec 5 1992,Seattle SuperSonics,Minnesota Timberwolves,124,87,Seattle Center Coliseum,11223,/boxscores/199212050SEA.html
+Sat Dec 5 1992,Utah Jazz,Denver Nuggets,119,89,Delta Center,19911,/boxscores/199212050UTA.html
+Sat Dec 5 1992,Washington Bullets,Indiana Pacers,109,111,Capital Centre,8979,/boxscores/199212050WSB.html
+Sun Dec 6 1992,Los Angeles Lakers,Minnesota Timberwolves,107,85,Great Western Forum,14068,/boxscores/199212060LAL.html
+Sun Dec 6 1992,Milwaukee Bucks,Phoenix Suns,112,122,Bradley Center,16646,/boxscores/199212060MIL.html
+Tue Dec 8 1992,Atlanta Hawks,Chicago Bulls,123,114,Omni Coliseum,16441,/boxscores/199212080ATL.html
+Tue Dec 8 1992,Cleveland Cavaliers,Los Angeles Clippers,106,115,Coliseum at Richfield,14374,/boxscores/199212080CLE.html
+Tue Dec 8 1992,Dallas Mavericks,Miami Heat,112,126,Reunion Arena,11201,/boxscores/199212080DAL.html
+Tue Dec 8 1992,Golden State Warriors,Indiana Pacers,115,125,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212080GSW.html
+Tue Dec 8 1992,Houston Rockets,Minnesota Timberwolves,102,94,The Summit,10077,/boxscores/199212080HOU.html
+Tue Dec 8 1992,New Jersey Nets,Phoenix Suns,100,105,Brendan Byrne Arena,16514,/boxscores/199212080NJN.html
+Tue Dec 8 1992,New York Knicks,Seattle SuperSonics,100,88,Madison Square Garden (IV),19763,/boxscores/199212080NYK.html
+Tue Dec 8 1992,Orlando Magic,Boston Celtics,102,117,Orlando Arena,15151,/boxscores/199212080ORL.html
+Tue Dec 8 1992,Portland Trail Blazers,Milwaukee Bucks,126,97,Memorial Coliseum,12888,/boxscores/199212080POR.html
+Tue Dec 8 1992,Sacramento Kings,Washington Bullets,106,114,ARCO Arena (II),17317,/boxscores/199212080SAC.html
+Tue Dec 8 1992,San Antonio Spurs,Utah Jazz,121,103,HemisFair Arena,16057,/boxscores/199212080SAS.html
+Wed Dec 9 1992,Boston Celtics,Denver Nuggets,129,119,Boston Garden,14890,/boxscores/199212090BOS.html
+Wed Dec 9 1992,Charlotte Hornets,Phoenix Suns,101,110,Charlotte Coliseum,23698,/boxscores/199212090CHH.html
+Wed Dec 9 1992,Chicago Bulls,Cleveland Cavaliers,108,91,Chicago Stadium,18142,/boxscores/199212090CHI.html
+Wed Dec 9 1992,Detroit Pistons,Orlando Magic,108,103,The Palace of Auburn Hills,21454,/boxscores/199212090DET.html
+Wed Dec 9 1992,Los Angeles Lakers,Portland Trail Blazers,124,111,Great Western Forum,15133,/boxscores/199212090LAL.html
+Wed Dec 9 1992,Philadelphia 76ers,Seattle SuperSonics,115,104,The Spectrum,8811,/boxscores/199212090PHI.html
+Thu Dec 10 1992,Dallas Mavericks,Minnesota Timberwolves,88,111,Reunion Arena,11124,/boxscores/199212100DAL.html
+Thu Dec 10 1992,Golden State Warriors,Milwaukee Bucks,114,102,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212100GSW.html
+Thu Dec 10 1992,New Jersey Nets,Los Angeles Clippers,111,105,Brendan Byrne Arena,10338,/boxscores/199212100NJN.html
+Thu Dec 10 1992,New York Knicks,Charlotte Hornets,103,110,Madison Square Garden (IV),19763,/boxscores/199212100NYK.html
+Thu Dec 10 1992,Sacramento Kings,Indiana Pacers,99,106,ARCO Arena (II),17317,/boxscores/199212100SAC.html
+Thu Dec 10 1992,San Antonio Spurs,Miami Heat,101,91,HemisFair Arena,16057,/boxscores/199212100SAS.html
+Thu Dec 10 1992,Utah Jazz,Washington Bullets,112,96,Delta Center,19911,/boxscores/199212100UTA.html
+Fri Dec 11 1992,Atlanta Hawks,Denver Nuggets,112,107,Omni Coliseum,10885,/boxscores/199212110ATL.html
+Fri Dec 11 1992,Boston Celtics,Seattle SuperSonics,90,100,Boston Garden,14890,/boxscores/199212110BOS.html
+Fri Dec 11 1992,Chicago Bulls,Houston Rockets,96,110,Chicago Stadium,18147,/boxscores/199212110CHI.html
+Fri Dec 11 1992,Detroit Pistons,Cleveland Cavaliers,107,103,The Palace of Auburn Hills,21454,/boxscores/199212110DET.html
+Fri Dec 11 1992,Los Angeles Lakers,Washington Bullets,118,93,Great Western Forum,13618,/boxscores/199212110LAL.html
+Fri Dec 11 1992,Orlando Magic,Phoenix Suns,107,108,Orlando Arena,15151,/boxscores/199212110ORL.html
+Fri Dec 11 1992,Philadelphia 76ers,Los Angeles Clippers,110,125,The Spectrum,8252,/boxscores/199212110PHI.html
+Fri Dec 11 1992,Portland Trail Blazers,Indiana Pacers,124,134,Memorial Coliseum,12888,/boxscores/199212110POR.html
+Sat Dec 12 1992,Atlanta Hawks,Philadelphia 76ers,96,103,Omni Coliseum,10917,/boxscores/199212120ATL.html
+Sat Dec 12 1992,Charlotte Hornets,Denver Nuggets,109,100,Charlotte Coliseum,23698,/boxscores/199212120CHH.html
+Sat Dec 12 1992,Chicago Bulls,New Jersey Nets,95,89,Chicago Stadium,18232,/boxscores/199212120CHI.html
+Sat Dec 12 1992,Cleveland Cavaliers,Seattle SuperSonics,97,93,Coliseum at Richfield,14127,/boxscores/199212120CLE.html
+Sat Dec 12 1992,Dallas Mavericks,San Antonio Spurs,91,113,Reunion Arena,13903,/boxscores/199212120DAL.html
+Sat Dec 12 1992,Miami Heat,Phoenix Suns,118,122,Miami Arena,15008,/boxscores/199212120MIA.html
+Sat Dec 12 1992,Minnesota Timberwolves,Houston Rockets,87,104,Target Center,19006,/boxscores/199212120MIN.html
+Sat Dec 12 1992,New York Knicks,Detroit Pistons,95,88,Madison Square Garden (IV),19763,/boxscores/199212120NYK.html
+Sat Dec 12 1992,Sacramento Kings,Golden State Warriors,120,124,ARCO Arena (II),17317,/boxscores/199212120SAC.html
+Sat Dec 12 1992,Utah Jazz,Milwaukee Bucks,108,82,Delta Center,19911,/boxscores/199212120UTA.html
+Sun Dec 13 1992,Los Angeles Clippers,Indiana Pacers,112,101,Los Angeles Memorial Sports Arena,10636,/boxscores/199212130LAC.html
+Sun Dec 13 1992,Los Angeles Lakers,Milwaukee Bucks,114,96,Great Western Forum,13265,/boxscores/199212130LAL.html
+Sun Dec 13 1992,Portland Trail Blazers,Washington Bullets,117,98,Memorial Coliseum,12888,/boxscores/199212130POR.html
+Mon Dec 14 1992,New York Knicks,Denver Nuggets,106,89,Madison Square Garden (IV),16781,/boxscores/199212140NYK.html
+Tue Dec 15 1992,Atlanta Hawks,Detroit Pistons,94,107,Omni Coliseum,8503,/boxscores/199212150ATL.html
+Tue Dec 15 1992,Chicago Bulls,Charlotte Hornets,125,110,Chicago Stadium,18088,/boxscores/199212150CHI.html
+Tue Dec 15 1992,Cleveland Cavaliers,Houston Rockets,124,97,Coliseum at Richfield,12342,/boxscores/199212150CLE.html
+Tue Dec 15 1992,Golden State Warriors,Los Angeles Clippers,109,90,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212150GSW.html
+Tue Dec 15 1992,Miami Heat,Sacramento Kings,106,98,Miami Arena,14892,/boxscores/199212150MIA.html
+Tue Dec 15 1992,Minnesota Timberwolves,Boston Celtics,119,124,Target Center,19006,/boxscores/199212150MIN.html
+Tue Dec 15 1992,New Jersey Nets,New York Knicks,94,108,Brendan Byrne Arena,20049,/boxscores/199212150NJN.html
+Tue Dec 15 1992,Orlando Magic,Philadelphia 76ers,119,107,Orlando Arena,15151,/boxscores/199212150ORL.html
+Tue Dec 15 1992,Phoenix Suns,Washington Bullets,125,110,America West Arena,19023,/boxscores/199212150PHO.html
+Tue Dec 15 1992,San Antonio Spurs,Los Angeles Lakers,101,107,HemisFair Arena,16057,/boxscores/199212150SAS.html
+Tue Dec 15 1992,Seattle SuperSonics,Milwaukee Bucks,108,100,Seattle Center Coliseum,10327,/boxscores/199212150SEA.html
+Wed Dec 16 1992,Charlotte Hornets,Utah Jazz,91,93,Charlotte Coliseum,23698,/boxscores/199212160CHH.html
+Wed Dec 16 1992,Dallas Mavericks,Los Angeles Lakers,102,95,Reunion Arena,13358,/boxscores/199212160DAL.html
+Wed Dec 16 1992,Denver Nuggets,Portland Trail Blazers,99,100,McNichols Sports Arena,11816,/boxscores/199212160DEN.html
+Wed Dec 16 1992,Detroit Pistons,Atlanta Hawks,89,88,The Palace of Auburn Hills,21454,/boxscores/199212160DET.html
+Wed Dec 16 1992,Indiana Pacers,Boston Celtics,114,91,Market Square Arena,10934,/boxscores/199212160IND.html
+Wed Dec 16 1992,Los Angeles Clippers,Golden State Warriors,114,116,Los Angeles Memorial Sports Arena,9921,/boxscores/199212160LAC.html
+Wed Dec 16 1992,Philadelphia 76ers,Cleveland Cavaliers,97,115,The Spectrum,8990,/boxscores/199212160PHI.html
+Thu Dec 17 1992,Houston Rockets,San Antonio Spurs,121,109,The Summit,13706,/boxscores/199212170HOU.html
+Thu Dec 17 1992,Milwaukee Bucks,New Jersey Nets,101,102,Bradley Center,13986,/boxscores/199212170MIL.html
+Thu Dec 17 1992,Orlando Magic,Sacramento Kings,112,91,Orlando Arena,15151,/boxscores/199212170ORL.html
+Thu Dec 17 1992,Washington Bullets,Chicago Bulls,99,107,Capital Centre,18756,/boxscores/199212170WSB.html
+Fri Dec 18 1992,Boston Celtics,New York Knicks,87,113,Boston Garden,14890,/boxscores/199212180BOS.html
+Fri Dec 18 1992,Cleveland Cavaliers,Sacramento Kings,119,108,Coliseum at Richfield,13134,/boxscores/199212180CLE.html
+Fri Dec 18 1992,Detroit Pistons,Indiana Pacers,122,106,The Palace of Auburn Hills,21454,/boxscores/199212180DET.html
+Fri Dec 18 1992,Los Angeles Clippers,Minnesota Timberwolves,103,95,Los Angeles Memorial Sports Arena,10353,/boxscores/199212180LAC.html
+Fri Dec 18 1992,Los Angeles Lakers,Phoenix Suns,100,116,Great Western Forum,16734,/boxscores/199212180LAL.html
+Fri Dec 18 1992,Miami Heat,Atlanta Hawks,100,108,Miami Arena,15008,/boxscores/199212180MIA.html
+Fri Dec 18 1992,Philadelphia 76ers,Utah Jazz,98,112,The Spectrum,11584,/boxscores/199212180PHI.html
+Fri Dec 18 1992,San Antonio Spurs,Dallas Mavericks,122,101,HemisFair Arena,16057,/boxscores/199212180SAS.html
+Fri Dec 18 1992,Seattle SuperSonics,Portland Trail Blazers,126,109,Seattle Kingdome,36521,/boxscores/199212180SEA.html
+Sat Dec 19 1992,Atlanta Hawks,Orlando Magic,84,125,Omni Coliseum,13951,/boxscores/199212190ATL.html
+Sat Dec 19 1992,Chicago Bulls,Philadelphia 76ers,96,98,Chicago Stadium,18270,/boxscores/199212190CHI.html
+Sat Dec 19 1992,Cleveland Cavaliers,Utah Jazz,121,104,Coliseum at Richfield,18713,/boxscores/199212190CLE.html
+Sat Dec 19 1992,Denver Nuggets,Los Angeles Lakers,86,92,McNichols Sports Arena,17022,/boxscores/199212190DEN.html
+Sat Dec 19 1992,Golden State Warriors,Minnesota Timberwolves,122,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212190GSW.html
+Sat Dec 19 1992,Houston Rockets,Dallas Mavericks,112,93,The Summit,11426,/boxscores/199212190HOU.html
+Sat Dec 19 1992,Indiana Pacers,New Jersey Nets,124,110,Market Square Arena,10909,/boxscores/199212190IND.html
+Sat Dec 19 1992,Milwaukee Bucks,Detroit Pistons,90,103,Bradley Center,17264,/boxscores/199212190MIL.html
+Sat Dec 19 1992,New York Knicks,Miami Heat,91,87,Madison Square Garden (IV),19763,/boxscores/199212190NYK.html
+Sat Dec 19 1992,Seattle SuperSonics,Los Angeles Clippers,121,101,Seattle Center Coliseum,10883,/boxscores/199212190SEA.html
+Sat Dec 19 1992,Washington Bullets,Charlotte Hornets,117,126,Capital Centre,15912,/boxscores/199212190WSB.html
+Sun Dec 20 1992,New Jersey Nets,Sacramento Kings,104,98,Brendan Byrne Arena,11023,/boxscores/199212200NJN.html
+Sun Dec 20 1992,Portland Trail Blazers,Golden State Warriors,130,114,Memorial Coliseum,12888,/boxscores/199212200POR.html
+Mon Dec 21 1992,Chicago Bulls,Miami Heat,86,82,Chicago Stadium,18147,/boxscores/199212210CHI.html
+Mon Dec 21 1992,Philadelphia 76ers,Indiana Pacers,113,101,The Spectrum,7330,/boxscores/199212210PHI.html
+Mon Dec 21 1992,Washington Bullets,Cleveland Cavaliers,107,111,Capital Centre,6976,/boxscores/199212210WSB.html
+Tue Dec 22 1992,Atlanta Hawks,Charlotte Hornets,114,130,Omni Coliseum,10541,/boxscores/199212220ATL.html
+Tue Dec 22 1992,Detroit Pistons,Houston Rockets,98,84,The Palace of Auburn Hills,21454,/boxscores/199212220DET.html
+Tue Dec 22 1992,Los Angeles Clippers,Dallas Mavericks,108,94,Los Angeles Memorial Sports Arena,9137,/boxscores/199212220LAC.html
+Tue Dec 22 1992,Milwaukee Bucks,Sacramento Kings,99,102,Bradley Center,14536,/boxscores/199212220MIL.html
+Tue Dec 22 1992,New Jersey Nets,Boston Celtics,104,106,Brendan Byrne Arena,14982,/boxscores/199212220NJN.html
+Tue Dec 22 1992,Orlando Magic,Utah Jazz,101,98,Orlando Arena,15151,/boxscores/199212220ORL.html
+Tue Dec 22 1992,Phoenix Suns,Golden State Warriors,106,104,America West Arena,19023,/boxscores/199212220PHO.html
+Tue Dec 22 1992,Portland Trail Blazers,Seattle SuperSonics,96,107,Memorial Coliseum,12888,/boxscores/199212220POR.html
+Tue Dec 22 1992,San Antonio Spurs,Denver Nuggets,113,108,HemisFair Arena,16057,/boxscores/199212220SAS.html
+Wed Dec 23 1992,Boston Celtics,Houston Rockets,98,94,Boston Garden,14890,/boxscores/199212230BOS.html
+Wed Dec 23 1992,Charlotte Hornets,Detroit Pistons,107,95,Charlotte Coliseum,23698,/boxscores/199212230CHH.html
+Wed Dec 23 1992,Chicago Bulls,Washington Bullets,107,98,Chicago Stadium,18109,/boxscores/199212230CHI.html
+Wed Dec 23 1992,Cleveland Cavaliers,Indiana Pacers,118,104,Coliseum at Richfield,15376,/boxscores/199212230CLE.html
+Wed Dec 23 1992,Denver Nuggets,Phoenix Suns,96,111,McNichols Sports Arena,0,/boxscores/199212230DEN.html
+Wed Dec 23 1992,Golden State Warriors,Dallas Mavericks,111,97,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199212230GSW.html
+Wed Dec 23 1992,Los Angeles Lakers,Seattle SuperSonics,79,80,Great Western Forum,14754,/boxscores/199212230LAL.html
+Wed Dec 23 1992,Miami Heat,Utah Jazz,86,92,Miami Arena,15008,/boxscores/199212230MIA.html
+Wed Dec 23 1992,Minnesota Timberwolves,Sacramento Kings,96,102,Target Center,18091,/boxscores/199212230MIN.html
+Fri Dec 25 1992,Chicago Bulls,New York Knicks,89,77,Chicago Stadium,18676,/boxscores/199212250CHI.html
+Fri Dec 25 1992,Los Angeles Clippers,San Antonio Spurs,94,103,Los Angeles Memorial Sports Arena,13780,/boxscores/199212250LAC.html
+Sat Dec 26 1992,Cleveland Cavaliers,New Jersey Nets,114,119,Coliseum at Richfield,19532,/boxscores/199212260CLE.html
+Sat Dec 26 1992,Dallas Mavericks,Golden State Warriors,96,110,Reunion Arena,13155,/boxscores/199212260DAL.html
+Sat Dec 26 1992,Houston Rockets,Denver Nuggets,90,82,The Summit,14775,/boxscores/199212260HOU.html
+Sat Dec 26 1992,Indiana Pacers,Chicago Bulls,84,95,Market Square Arena,16530,/boxscores/199212260IND.html
+Sat Dec 26 1992,Los Angeles Lakers,San Antonio Spurs,92,104,Great Western Forum,17505,/boxscores/199212260LAL.html
+Sat Dec 26 1992,Miami Heat,Orlando Magic,106,100,Miami Arena,15008,/boxscores/199212260MIA.html
+Sat Dec 26 1992,Milwaukee Bucks,New York Knicks,102,100,Bradley Center,17862,/boxscores/199212260MIL.html
+Sat Dec 26 1992,Minnesota Timberwolves,Atlanta Hawks,105,113,Target Center,18502,/boxscores/199212260MIN.html
+Sat Dec 26 1992,Phoenix Suns,Seattle SuperSonics,113,110,America West Arena,19023,/boxscores/199212260PHO.html
+Sat Dec 26 1992,Portland Trail Blazers,Philadelphia 76ers,121,115,Memorial Coliseum,12888,/boxscores/199212260POR.html
+Sat Dec 26 1992,Utah Jazz,Boston Celtics,108,92,Delta Center,19911,/boxscores/199212260UTA.html
+Sat Dec 26 1992,Washington Bullets,Detroit Pistons,97,99,Baltimore Arena,12346,/boxscores/199212260WSB.html
+Sun Dec 27 1992,Los Angeles Clippers,Philadelphia 76ers,106,110,Los Angeles Memorial Sports Arena,10829,/boxscores/199212270LAC.html
+Sun Dec 27 1992,Phoenix Suns,Denver Nuggets,129,88,America West Arena,19023,/boxscores/199212270PHO.html
+Sun Dec 27 1992,Sacramento Kings,Boston Celtics,118,102,ARCO Arena (II),17317,/boxscores/199212270SAC.html
+Mon Dec 28 1992,Cleveland Cavaliers,Detroit Pistons,98,89,Coliseum at Richfield,20273,/boxscores/199212280CLE.html
+Mon Dec 28 1992,Miami Heat,Los Angeles Lakers,107,96,Miami Arena,15008,/boxscores/199212280MIA.html
+Mon Dec 28 1992,New Jersey Nets,Charlotte Hornets,104,103,Brendan Byrne Arena,17314,/boxscores/199212280NJN.html
+Mon Dec 28 1992,Orlando Magic,Milwaukee Bucks,110,94,Orlando Arena,15151,/boxscores/199212280ORL.html
+Mon Dec 28 1992,San Antonio Spurs,Golden State Warriors,105,106,HemisFair Arena,16057,/boxscores/199212280SAS.html
+Mon Dec 28 1992,Utah Jazz,Minnesota Timberwolves,114,95,Delta Center,19911,/boxscores/199212280UTA.html
+Mon Dec 28 1992,Washington Bullets,Atlanta Hawks,97,96,Capital Centre,18756,/boxscores/199212280WSB.html
+Tue Dec 29 1992,Atlanta Hawks,Cleveland Cavaliers,96,114,Omni Coliseum,10703,/boxscores/199212290ATL.html
+Tue Dec 29 1992,Charlotte Hornets,Chicago Bulls,103,114,Charlotte Coliseum,23698,/boxscores/199212290CHH.html
+Tue Dec 29 1992,Houston Rockets,Golden State Warriors,112,132,The Summit,15357,/boxscores/199212290HOU.html
+Tue Dec 29 1992,New York Knicks,Indiana Pacers,97,91,Madison Square Garden (IV),19763,/boxscores/199212290NYK.html
+Tue Dec 29 1992,Sacramento Kings,Dallas Mavericks,139,81,ARCO Arena (II),17317,/boxscores/199212290SAC.html
+Tue Dec 29 1992,Seattle SuperSonics,Boston Celtics,111,87,Seattle Kingdome,36431,/boxscores/199212290SEA.html
+Wed Dec 30 1992,Denver Nuggets,San Antonio Spurs,94,114,McNichols Sports Arena,17022,/boxscores/199212300DEN.html
+Wed Dec 30 1992,Detroit Pistons,Washington Bullets,118,110,The Palace of Auburn Hills,21454,/boxscores/199212300DET.html
+Wed Dec 30 1992,Indiana Pacers,New York Knicks,90,94,Market Square Arena,16328,/boxscores/199212300IND.html
+Wed Dec 30 1992,Los Angeles Clippers,Boston Celtics,105,99,Los Angeles Memorial Sports Arena,13556,/boxscores/199212300LAC.html
+Wed Dec 30 1992,Miami Heat,Chicago Bulls,100,105,Miami Arena,15008,/boxscores/199212300MIA.html
+Wed Dec 30 1992,Minnesota Timberwolves,New Jersey Nets,92,118,Target Center,18032,/boxscores/199212300MIN.html
+Wed Dec 30 1992,Orlando Magic,Los Angeles Lakers,93,96,Orlando Arena,15151,/boxscores/199212300ORL.html
+Wed Dec 30 1992,Phoenix Suns,Houston Rockets,133,110,America West Arena,19023,/boxscores/199212300PHO.html
+Wed Dec 30 1992,Portland Trail Blazers,Dallas Mavericks,111,92,Memorial Coliseum,12888,/boxscores/199212300POR.html
+Wed Dec 30 1992,Utah Jazz,Philadelphia 76ers,119,110,Delta Center,19911,/boxscores/199212300UTA.html

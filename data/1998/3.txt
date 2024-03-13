@@ -1,0 +1,226 @@
+Sun Mar 1 1998,Boston Celtics,Portland Trail Blazers,102,101,FleetCenter,18624,/boxscores/199803010BOS.html
+Sun Mar 1 1998,Cleveland Cavaliers,Golden State Warriors,102,82,Gund Arena,14114,/boxscores/199803010CLE.html
+Sun Mar 1 1998,Houston Rockets,Utah Jazz,100,106,The Summit,16285,/boxscores/199803010HOU.html
+Sun Mar 1 1998,Indiana Pacers,Denver Nuggets,90,63,Market Square Arena,16650,/boxscores/199803010IND.html
+Sun Mar 1 1998,Miami Heat,New Jersey Nets,85,84,Miami Arena,15200,/boxscores/199803010MIA.html
+Sun Mar 1 1998,Minnesota Timberwolves,Detroit Pistons,115,113,Target Center,18651,/boxscores/199803010MIN.html
+Sun Mar 1 1998,New York Knicks,Los Angeles Lakers,101,89,Madison Square Garden (IV),19763,/boxscores/199803010NYK.html
+Sun Mar 1 1998,Seattle SuperSonics,Phoenix Suns,89,87,KeyArena at Seattle Center,17072,/boxscores/199803010SEA.html
+Sun Mar 1 1998,Vancouver Grizzlies,Atlanta Hawks,76,101,General Motors Place,15371,/boxscores/199803010VAN.html
+Mon Mar 2 1998,Charlotte Hornets,Golden State Warriors,112,83,Charlotte Coliseum,22247,/boxscores/199803020CHH.html
+Mon Mar 2 1998,Detroit Pistons,Dallas Mavericks,100,94,The Palace of Auburn Hills,15682,/boxscores/199803020DET.html
+Mon Mar 2 1998,Sacramento Kings,San Antonio Spurs,95,116,ARCO Arena (II),14108,/boxscores/199803020SAC.html
+Mon Mar 2 1998,Washington Wizards,Los Angeles Lakers,96,86,MCI Center,20674,/boxscores/199803020WAS.html
+Tue Mar 3 1998,Chicago Bulls,Denver Nuggets,118,90,United Center,23810,/boxscores/199803030CHI.html
+Tue Mar 3 1998,Houston Rockets,Los Angeles Clippers,107,97,The Summit,16285,/boxscores/199803030HOU.html
+Tue Mar 3 1998,Miami Heat,Seattle SuperSonics,91,97,Miami Arena,15200,/boxscores/199803030MIA.html
+Tue Mar 3 1998,Minnesota Timberwolves,Dallas Mavericks,99,110,Target Center,18493,/boxscores/199803030MIN.html
+Tue Mar 3 1998,New York Knicks,New Jersey Nets,94,91,Madison Square Garden (IV),19763,/boxscores/199803030NYK.html
+Tue Mar 3 1998,Portland Trail Blazers,Phoenix Suns,98,93,Rose Garden Arena,21538,/boxscores/199803030POR.html
+Tue Mar 3 1998,Toronto Raptors,Utah Jazz,93,108,SkyDome,16448,/boxscores/199803030TOR.html
+Tue Mar 3 1998,Vancouver Grizzlies,Indiana Pacers,103,111,General Motors Place,15095,/boxscores/199803030VAN.html
+Wed Mar 4 1998,Boston Celtics,Utah Jazz,94,110,FleetCenter,18624,/boxscores/199803040BOS.html
+Wed Mar 4 1998,Charlotte Hornets,Minnesota Timberwolves,112,102,Charlotte Coliseum,22493,/boxscores/199803040CHH.html
+Wed Mar 4 1998,Cleveland Cavaliers,Toronto Raptors,122,88,Gund Arena,15017,/boxscores/199803040CLE.html
+Wed Mar 4 1998,Golden State Warriors,San Antonio Spurs,90,83,The Arena in Oakland,10812,/boxscores/199803040GSW.html
+Wed Mar 4 1998,Los Angeles Lakers,Indiana Pacers,104,95,Great Western Forum,17505,/boxscores/199803040LAL.html
+Wed Mar 4 1998,Orlando Magic,Seattle SuperSonics,96,83,Orlando Arena,17248,/boxscores/199803040ORL.html
+Wed Mar 4 1998,Philadelphia 76ers,Milwaukee Bucks,87,80,CoreStates Center,12768,/boxscores/199803040PHI.html
+Wed Mar 4 1998,Sacramento Kings,Detroit Pistons,109,89,ARCO Arena (II),14772,/boxscores/199803040SAC.html
+Thu Mar 5 1998,Dallas Mavericks,Los Angeles Clippers,119,109,Reunion Arena,10497,/boxscores/199803050DAL.html
+Thu Mar 5 1998,Houston Rockets,Miami Heat,93,117,The Summit,16285,/boxscores/199803050HOU.html
+Thu Mar 5 1998,Milwaukee Bucks,Denver Nuggets,104,87,Bradley Center,13227,/boxscores/199803050MIL.html
+Thu Mar 5 1998,Phoenix Suns,Detroit Pistons,102,93,America West Arena,19023,/boxscores/199803050PHO.html
+Thu Mar 5 1998,Washington Wizards,New York Knicks,103,90,MCI Center,20674,/boxscores/199803050WAS.html
+Fri Mar 6 1998,Atlanta Hawks,Denver Nuggets,115,94,Alexander Memorial Coliseum at McDonald's Center,8827,/boxscores/199803060ATL.html
+Fri Mar 6 1998,Boston Celtics,Washington Wizards,108,98,FleetCenter,18624,/boxscores/199803060BOS.html
+Fri Mar 6 1998,Charlotte Hornets,Seattle SuperSonics,104,98,Charlotte Coliseum,24042,/boxscores/199803060CHH.html
+Fri Mar 6 1998,Golden State Warriors,Indiana Pacers,87,101,The Arena in Oakland,13148,/boxscores/199803060GSW.html
+Fri Mar 6 1998,Los Angeles Lakers,San Antonio Spurs,91,84,Great Western Forum,17505,/boxscores/199803060LAL.html
+Fri Mar 6 1998,Minnesota Timberwolves,Toronto Raptors,113,91,Target Center,18156,/boxscores/199803060MIN.html
+Fri Mar 6 1998,New Jersey Nets,Utah Jazz,115,122,Continental Airlines Arena,20049,/boxscores/199803060NJN.html
+Fri Mar 6 1998,Orlando Magic,Cleveland Cavaliers,91,89,Orlando Arena,17248,/boxscores/199803060ORL.html
+Fri Mar 6 1998,Philadelphia 76ers,New York Knicks,80,71,CoreStates Center,20615,/boxscores/199803060PHI.html
+Fri Mar 6 1998,Vancouver Grizzlies,Sacramento Kings,96,98,General Motors Place,14605,/boxscores/199803060VAN.html
+Sat Mar 7 1998,Dallas Mavericks,Miami Heat,88,94,Reunion Arena,16907,/boxscores/199803070DAL.html
+Sat Mar 7 1998,Milwaukee Bucks,Utah Jazz,92,110,Bradley Center,18717,/boxscores/199803070MIL.html
+Sat Mar 7 1998,Phoenix Suns,Houston Rockets,89,108,America West Arena,19023,/boxscores/199803070PHO.html
+Sun Mar 8 1998,Atlanta Hawks,Cleveland Cavaliers,101,96,Alexander Memorial Coliseum at McDonald's Center,8512,/boxscores/199803080ATL.html
+Sun Mar 8 1998,Denver Nuggets,Los Angeles Clippers,89,100,McNichols Sports Arena,7808,/boxscores/199803080DEN.html
+Sun Mar 8 1998,Indiana Pacers,Boston Celtics,104,100,Market Square Arena,16726,/boxscores/199803080IND.html
+Sun Mar 8 1998,Los Angeles Lakers,Detroit Pistons,96,89,Great Western Forum,17505,/boxscores/199803080LAL.html
+Sun Mar 8 1998,Minnesota Timberwolves,Seattle SuperSonics,98,99,Target Center,19006,/boxscores/199803080MIN.html
+Sun Mar 8 1998,New Jersey Nets,Charlotte Hornets,100,109,Continental Airlines Arena,16450,/boxscores/199803080NJN.html
+Sun Mar 8 1998,New York Knicks,Chicago Bulls,89,102,Madison Square Garden (IV),19763,/boxscores/199803080NYK.html
+Sun Mar 8 1998,Portland Trail Blazers,San Antonio Spurs,78,82,Rose Garden Arena,21116,/boxscores/199803080POR.html
+Sun Mar 8 1998,Vancouver Grizzlies,Toronto Raptors,113,106,General Motors Place,16098,/boxscores/199803080VAN.html
+Sun Mar 8 1998,Washington Wizards,Philadelphia 76ers,100,91,MCI Center,20674,/boxscores/199803080WAS.html
+Mon Mar 9 1998,Philadelphia 76ers,Orlando Magic,78,88,CoreStates Center,14681,/boxscores/199803090PHI.html
+Mon Mar 9 1998,Phoenix Suns,Los Angeles Clippers,134,105,America West Arena,19023,/boxscores/199803090PHO.html
+Mon Mar 9 1998,Sacramento Kings,Golden State Warriors,88,93,ARCO Arena (II),14944,/boxscores/199803090SAC.html
+Mon Mar 9 1998,Utah Jazz,Houston Rockets,100,93,Delta Center,19911,/boxscores/199803090UTA.html
+Tue Mar 10 1998,Chicago Bulls,Miami Heat,106,91,United Center,24102,/boxscores/199803100CHI.html
+Tue Mar 10 1998,Denver Nuggets,Phoenix Suns,76,100,McNichols Sports Arena,12010,/boxscores/199803100DEN.html
+Tue Mar 10 1998,Houston Rockets,Dallas Mavericks,97,91,The Summit,16285,/boxscores/199803100HOU.html
+Tue Mar 10 1998,Milwaukee Bucks,Washington Wizards,77,93,Bradley Center,13627,/boxscores/199803100MIL.html
+Tue Mar 10 1998,New York Knicks,Orlando Magic,85,78,Madison Square Garden (IV),19763,/boxscores/199803100NYK.html
+Tue Mar 10 1998,San Antonio Spurs,New Jersey Nets,79,78,Alamodome,15204,/boxscores/199803100SAS.html
+Tue Mar 10 1998,Seattle SuperSonics,Toronto Raptors,111,93,KeyArena at Seattle Center,17072,/boxscores/199803100SEA.html
+Wed Mar 11 1998,Boston Celtics,Atlanta Hawks,105,110,FleetCenter,18624,/boxscores/199803110BOS.html
+Wed Mar 11 1998,Charlotte Hornets,New York Knicks,85,78,Charlotte Coliseum,23890,/boxscores/199803110CHH.html
+Wed Mar 11 1998,Cleveland Cavaliers,Milwaukee Bucks,95,83,Gund Arena,14294,/boxscores/199803110CLE.html
+Wed Mar 11 1998,Detroit Pistons,Indiana Pacers,122,91,The Palace of Auburn Hills,20987,/boxscores/199803110DET.html
+Wed Mar 11 1998,Golden State Warriors,Minnesota Timberwolves,84,113,The Arena in Oakland,10390,/boxscores/199803110GSW.html
+Wed Mar 11 1998,Los Angeles Lakers,Portland Trail Blazers,121,107,Great Western Forum,16758,/boxscores/199803110LAL.html
+Wed Mar 11 1998,Philadelphia 76ers,Washington Wizards,88,86,CoreStates Center,14662,/boxscores/199803110PHI.html
+Wed Mar 11 1998,Utah Jazz,Sacramento Kings,110,95,Delta Center,19911,/boxscores/199803110UTA.html
+Thu Mar 12 1998,Dallas Mavericks,Chicago Bulls,104,97,Reunion Arena,18255,/boxscores/199803120DAL.html
+Thu Mar 12 1998,Denver Nuggets,Vancouver Grizzlies,98,93,McNichols Sports Arena,9112,/boxscores/199803120DEN.html
+Thu Mar 12 1998,Houston Rockets,New Jersey Nets,115,104,The Summit,16285,/boxscores/199803120HOU.html
+Thu Mar 12 1998,Los Angeles Clippers,Los Angeles Lakers,85,108,Arrowhead Pond,18521,/boxscores/199803120LAC.html
+Thu Mar 12 1998,Miami Heat,Cleveland Cavaliers,97,74,Miami Arena,15063,/boxscores/199803120MIA.html
+Thu Mar 12 1998,Portland Trail Blazers,Minnesota Timberwolves,95,92,Rose Garden Arena,20553,/boxscores/199803120POR.html
+Thu Mar 12 1998,San Antonio Spurs,Sacramento Kings,97,86,Alamodome,14679,/boxscores/199803120SAS.html
+Fri Mar 13 1998,Boston Celtics,Detroit Pistons,92,96,FleetCenter,18624,/boxscores/199803130BOS.html
+Fri Mar 13 1998,Indiana Pacers,Milwaukee Bucks,96,76,Market Square Arena,15437,/boxscores/199803130IND.html
+Fri Mar 13 1998,Los Angeles Clippers,Toronto Raptors,152,120,Los Angeles Memorial Sports Arena,6152,/boxscores/199803130LAC.html
+Fri Mar 13 1998,Orlando Magic,Charlotte Hornets,82,100,Orlando Arena,17248,/boxscores/199803130ORL.html
+Fri Mar 13 1998,Philadelphia 76ers,Atlanta Hawks,107,86,CoreStates Center,19604,/boxscores/199803130PHI.html
+Fri Mar 13 1998,Phoenix Suns,Golden State Warriors,101,77,America West Arena,19023,/boxscores/199803130PHO.html
+Fri Mar 13 1998,Utah Jazz,Vancouver Grizzlies,110,101,Delta Center,19911,/boxscores/199803130UTA.html
+Sat Mar 14 1998,Charlotte Hornets,Washington Wizards,80,83,Charlotte Coliseum,24042,/boxscores/199803140CHH.html
+Sat Mar 14 1998,Cleveland Cavaliers,New York Knicks,88,85,Gund Arena,20562,/boxscores/199803140CLE.html
+Sat Mar 14 1998,Dallas Mavericks,New Jersey Nets,93,108,Reunion Arena,14309,/boxscores/199803140DAL.html
+Sat Mar 14 1998,Denver Nuggets,Portland Trail Blazers,92,82,McNichols Sports Arena,13514,/boxscores/199803140DEN.html
+Sat Mar 14 1998,Houston Rockets,Sacramento Kings,89,86,The Summit,16285,/boxscores/199803140HOU.html
+Sat Mar 14 1998,Milwaukee Bucks,Philadelphia 76ers,89,93,Bradley Center,16947,/boxscores/199803140MIL.html
+Sat Mar 14 1998,San Antonio Spurs,Chicago Bulls,86,96,Alamodome,37492,/boxscores/199803140SAS.html
+Sat Mar 14 1998,Seattle SuperSonics,Minnesota Timberwolves,114,80,KeyArena at Seattle Center,17072,/boxscores/199803140SEA.html
+Sun Mar 15 1998,Atlanta Hawks,Boston Celtics,93,77,Alexander Memorial Coliseum at McDonald's Center,9036,/boxscores/199803150ATL.html
+Sun Mar 15 1998,Detroit Pistons,Utah Jazz,98,109,The Palace of Auburn Hills,22076,/boxscores/199803150DET.html
+Sun Mar 15 1998,Golden State Warriors,Toronto Raptors,98,100,The Arena in Oakland,13063,/boxscores/199803150GSW.html
+Sun Mar 15 1998,New York Knicks,Indiana Pacers,86,91,Madison Square Garden (IV),19763,/boxscores/199803150NYK.html
+Sun Mar 15 1998,Orlando Magic,Miami Heat,76,79,Orlando Arena,17248,/boxscores/199803150ORL.html
+Sun Mar 15 1998,Phoenix Suns,Dallas Mavericks,100,90,America West Arena,19023,/boxscores/199803150PHO.html
+Sun Mar 15 1998,Portland Trail Blazers,Los Angeles Clippers,103,92,Rose Garden Arena,19712,/boxscores/199803150POR.html
+Sun Mar 15 1998,Vancouver Grizzlies,Los Angeles Lakers,110,119,General Motors Place,18983,/boxscores/199803150VAN.html
+Mon Mar 16 1998,Charlotte Hornets,Denver Nuggets,109,87,Charlotte Coliseum,22212,/boxscores/199803160CHH.html
+Mon Mar 16 1998,Chicago Bulls,New Jersey Nets,88,72,United Center,23908,/boxscores/199803160CHI.html
+Mon Mar 16 1998,Miami Heat,Detroit Pistons,90,103,Miami Arena,14783,/boxscores/199803160MIA.html
+Mon Mar 16 1998,Minnesota Timberwolves,Utah Jazz,96,102,Target Center,17333,/boxscores/199803160MIN.html
+Mon Mar 16 1998,San Antonio Spurs,Milwaukee Bucks,96,85,Alamodome,19543,/boxscores/199803160SAS.html
+Mon Mar 16 1998,Seattle SuperSonics,Los Angeles Lakers,101,89,KeyArena at Seattle Center,17072,/boxscores/199803160SEA.html
+Tue Mar 17 1998,Dallas Mavericks,Boston Celtics,99,93,Reunion Arena,12102,/boxscores/199803170DAL.html
+Tue Mar 17 1998,Golden State Warriors,Los Angeles Clippers,102,107,The Arena in Oakland,8819,/boxscores/199803170GSW.html
+Tue Mar 17 1998,Houston Rockets,Milwaukee Bucks,96,91,The Summit,16285,/boxscores/199803170HOU.html
+Tue Mar 17 1998,Indiana Pacers,Chicago Bulls,84,90,Market Square Arena,16729,/boxscores/199803170IND.html
+Tue Mar 17 1998,New York Knicks,Philadelphia 76ers,100,96,Madison Square Garden (IV),19763,/boxscores/199803170NYK.html
+Tue Mar 17 1998,Orlando Magic,Vancouver Grizzlies,99,92,Orlando Arena,17248,/boxscores/199803170ORL.html
+Tue Mar 17 1998,Phoenix Suns,Sacramento Kings,107,80,America West Arena,19023,/boxscores/199803170PHO.html
+Tue Mar 17 1998,Portland Trail Blazers,Cleveland Cavaliers,82,96,Rose Garden Arena,19821,/boxscores/199803170POR.html
+Tue Mar 17 1998,Toronto Raptors,Atlanta Hawks,105,117,SkyDome,16546,/boxscores/199803170TOR.html
+Tue Mar 17 1998,Washington Wizards,Denver Nuggets,89,90,MCI Center,17315,/boxscores/199803170WAS.html
+Wed Mar 18 1998,Charlotte Hornets,Utah Jazz,111,85,Charlotte Coliseum,23305,/boxscores/199803180CHH.html
+Wed Mar 18 1998,Detroit Pistons,Philadelphia 76ers,96,104,The Palace of Auburn Hills,18310,/boxscores/199803180DET.html
+Wed Mar 18 1998,Los Angeles Lakers,Phoenix Suns,99,93,Great Western Forum,17505,/boxscores/199803180LAL.html
+Wed Mar 18 1998,Miami Heat,Vancouver Grizzlies,94,91,Miami Arena,14653,/boxscores/199803180MIA.html
+Wed Mar 18 1998,Minnesota Timberwolves,San Antonio Spurs,76,92,Target Center,19297,/boxscores/199803180MIN.html
+Wed Mar 18 1998,Seattle SuperSonics,Los Angeles Clippers,99,80,KeyArena at Seattle Center,17072,/boxscores/199803180SEA.html
+Thu Mar 19 1998,Atlanta Hawks,Milwaukee Bucks,84,81,Alexander Memorial Coliseum at McDonald's Center,8685,/boxscores/199803190ATL.html
+Thu Mar 19 1998,Dallas Mavericks,Golden State Warriors,88,82,Reunion Arena,11845,/boxscores/199803190DAL.html
+Thu Mar 19 1998,Houston Rockets,Boston Celtics,105,96,The Summit,16285,/boxscores/199803190HOU.html
+Thu Mar 19 1998,New Jersey Nets,Orlando Magic,93,87,Continental Airlines Arena,20049,/boxscores/199803190NJN.html
+Thu Mar 19 1998,New York Knicks,Portland Trail Blazers,77,82,Madison Square Garden (IV),19763,/boxscores/199803190NYK.html
+Thu Mar 19 1998,Sacramento Kings,Cleveland Cavaliers,85,90,ARCO Arena (II),13722,/boxscores/199803190SAC.html
+Thu Mar 19 1998,Toronto Raptors,Denver Nuggets,104,103,SkyDome,14274,/boxscores/199803190TOR.html
+Thu Mar 19 1998,Washington Wizards,Indiana Pacers,91,95,MCI Center,20674,/boxscores/199803190WAS.html
+Fri Mar 20 1998,Chicago Bulls,Vancouver Grizzlies,98,92,United Center,24023,/boxscores/199803200CHI.html
+Fri Mar 20 1998,Detroit Pistons,Toronto Raptors,105,99,The Palace of Auburn Hills,22076,/boxscores/199803200DET.html
+Fri Mar 20 1998,Indiana Pacers,New Jersey Nets,99,92,Market Square Arena,16380,/boxscores/199803200IND.html
+Fri Mar 20 1998,Los Angeles Lakers,Seattle SuperSonics,93,80,Great Western Forum,17505,/boxscores/199803200LAL.html
+Fri Mar 20 1998,Miami Heat,Golden State Warriors,93,87,Miami Arena,15200,/boxscores/199803200MIA.html
+Fri Mar 20 1998,Minnesota Timberwolves,Denver Nuggets,104,88,Target Center,18007,/boxscores/199803200MIN.html
+Fri Mar 20 1998,New York Knicks,Atlanta Hawks,109,108,Madison Square Garden (IV),19763,/boxscores/199803200NYK.html
+Fri Mar 20 1998,Orlando Magic,Portland Trail Blazers,102,87,Orlando Arena,16906,/boxscores/199803200ORL.html
+Fri Mar 20 1998,Philadelphia 76ers,Utah Jazz,79,91,CoreStates Center,20832,/boxscores/199803200PHI.html
+Fri Mar 20 1998,San Antonio Spurs,Charlotte Hornets,82,92,Alamodome,19752,/boxscores/199803200SAS.html
+Sat Mar 21 1998,Dallas Mavericks,Houston Rockets,95,103,Reunion Arena,18042,/boxscores/199803210DAL.html
+Sat Mar 21 1998,Los Angeles Clippers,Cleveland Cavaliers,79,100,Los Angeles Memorial Sports Arena,12323,/boxscores/199803210LAC.html
+Sat Mar 21 1998,Minnesota Timberwolves,Vancouver Grizzlies,102,88,Target Center,18336,/boxscores/199803210MIN.html
+Sat Mar 21 1998,Phoenix Suns,Seattle SuperSonics,109,102,America West Arena,19023,/boxscores/199803210PHO.html
+Sun Mar 22 1998,Boston Celtics,Philadelphia 76ers,108,90,FleetCenter,18624,/boxscores/199803220BOS.html
+Sun Mar 22 1998,Detroit Pistons,Atlanta Hawks,105,98,The Palace of Auburn Hills,22076,/boxscores/199803220DET.html
+Sun Mar 22 1998,Miami Heat,Portland Trail Blazers,112,80,Miami Arena,15200,/boxscores/199803220MIA.html
+Sun Mar 22 1998,Milwaukee Bucks,Indiana Pacers,94,96,Bradley Center,18717,/boxscores/199803220MIL.html
+Sun Mar 22 1998,New Jersey Nets,Washington Wizards,100,102,Continental Airlines Arena,20049,/boxscores/199803220NJN.html
+Sun Mar 22 1998,New York Knicks,Utah Jazz,119,124,Madison Square Garden (IV),19763,/boxscores/199803220NYK.html
+Sun Mar 22 1998,Orlando Magic,Golden State Warriors,92,83,Orlando Arena,16603,/boxscores/199803220ORL.html
+Sun Mar 22 1998,Sacramento Kings,Los Angeles Lakers,93,96,ARCO Arena (II),17317,/boxscores/199803220SAC.html
+Sun Mar 22 1998,San Antonio Spurs,Phoenix Suns,93,83,Alamodome,27646,/boxscores/199803220SAS.html
+Sun Mar 22 1998,Toronto Raptors,Chicago Bulls,100,102,SkyDome,33216,/boxscores/199803220TOR.html
+Mon Mar 23 1998,Chicago Bulls,Boston Celtics,111,88,United Center,23944,/boxscores/199803230CHI.html
+Mon Mar 23 1998,Dallas Mavericks,Minnesota Timberwolves,91,87,Reunion Arena,11274,/boxscores/199803230DAL.html
+Mon Mar 23 1998,Denver Nuggets,Los Angeles Lakers,86,107,McNichols Sports Arena,17171,/boxscores/199803230DEN.html
+Mon Mar 23 1998,Philadelphia 76ers,Detroit Pistons,79,94,CoreStates Center,14294,/boxscores/199803230PHI.html
+Mon Mar 23 1998,Seattle SuperSonics,Sacramento Kings,109,83,KeyArena at Seattle Center,17072,/boxscores/199803230SEA.html
+Mon Mar 23 1998,Vancouver Grizzlies,Los Angeles Clippers,106,95,General Motors Place,15392,/boxscores/199803230VAN.html
+Tue Mar 24 1998,Atlanta Hawks,Orlando Magic,85,73,Georgia Dome,14592,/boxscores/199803240ATL.html
+Tue Mar 24 1998,Cleveland Cavaliers,San Antonio Spurs,85,86,Gund Arena,17813,/boxscores/199803240CLE.html
+Tue Mar 24 1998,Golden State Warriors,New York Knicks,75,88,The Arena in Oakland,12524,/boxscores/199803240GSW.html
+Tue Mar 24 1998,Milwaukee Bucks,Houston Rockets,118,108,Bradley Center,16141,/boxscores/199803240MIL.html
+Tue Mar 24 1998,Portland Trail Blazers,Washington Wizards,87,99,Rose Garden Arena,21538,/boxscores/199803240POR.html
+Tue Mar 24 1998,Toronto Raptors,Charlotte Hornets,89,106,SkyDome,14490,/boxscores/199803240TOR.html
+Tue Mar 24 1998,Utah Jazz,Phoenix Suns,92,73,Delta Center,19911,/boxscores/199803240UTA.html
+Wed Mar 25 1998,Boston Celtics,Miami Heat,91,105,FleetCenter,18624,/boxscores/199803250BOS.html
+Wed Mar 25 1998,Denver Nuggets,Dallas Mavericks,94,105,McNichols Sports Arena,9525,/boxscores/199803250DEN.html
+Wed Mar 25 1998,Detroit Pistons,San Antonio Spurs,103,94,The Palace of Auburn Hills,18862,/boxscores/199803250DET.html
+Wed Mar 25 1998,Indiana Pacers,Houston Rockets,81,86,Market Square Arena,16587,/boxscores/199803250IND.html
+Wed Mar 25 1998,Los Angeles Clippers,New York Knicks,76,77,Los Angeles Memorial Sports Arena,15570,/boxscores/199803250LAC.html
+Wed Mar 25 1998,Los Angeles Lakers,Sacramento Kings,114,91,Great Western Forum,16634,/boxscores/199803250LAL.html
+Wed Mar 25 1998,Orlando Magic,Chicago Bulls,70,85,Orlando Arena,17248,/boxscores/199803250ORL.html
+Wed Mar 25 1998,Philadelphia 76ers,New Jersey Nets,86,91,CoreStates Center,14739,/boxscores/199803250PHI.html
+Wed Mar 25 1998,Phoenix Suns,Minnesota Timberwolves,97,99,America West Arena,19023,/boxscores/199803250PHO.html
+Wed Mar 25 1998,Seattle SuperSonics,Washington Wizards,133,109,KeyArena at Seattle Center,17072,/boxscores/199803250SEA.html
+Thu Mar 26 1998,Charlotte Hornets,Milwaukee Bucks,94,80,Charlotte Coliseum,23086,/boxscores/199803260CHH.html
+Thu Mar 26 1998,Golden State Warriors,Seattle SuperSonics,98,91,The Arena in Oakland,13848,/boxscores/199803260GSW.html
+Thu Mar 26 1998,Portland Trail Blazers,Vancouver Grizzlies,108,102,Rose Garden Arena,20581,/boxscores/199803260POR.html
+Thu Mar 26 1998,Toronto Raptors,Cleveland Cavaliers,96,97,SkyDome,14120,/boxscores/199803260TOR.html
+Fri Mar 27 1998,Atlanta Hawks,Chicago Bulls,74,89,Georgia Dome,62046,/boxscores/199803270ATL.html
+Fri Mar 27 1998,Cleveland Cavaliers,Detroit Pistons,88,87,Gund Arena,19105,/boxscores/199803270CLE.html
+Fri Mar 27 1998,Dallas Mavericks,Utah Jazz,90,99,Reunion Arena,13763,/boxscores/199803270DAL.html
+Fri Mar 27 1998,Denver Nuggets,Golden State Warriors,97,89,McNichols Sports Arena,11227,/boxscores/199803270DEN.html
+Fri Mar 27 1998,Indiana Pacers,Charlotte Hornets,133,96,Market Square Arena,16611,/boxscores/199803270IND.html
+Fri Mar 27 1998,Los Angeles Clippers,Minnesota Timberwolves,98,100,Los Angeles Memorial Sports Arena,11758,/boxscores/199803270LAC.html
+Fri Mar 27 1998,Miami Heat,Milwaukee Bucks,102,77,Miami Arena,15200,/boxscores/199803270MIA.html
+Fri Mar 27 1998,New Jersey Nets,Boston Celtics,76,82,Continental Airlines Arena,20049,/boxscores/199803270NJN.html
+Fri Mar 27 1998,Orlando Magic,Houston Rockets,100,75,Orlando Arena,17248,/boxscores/199803270ORL.html
+Fri Mar 27 1998,Philadelphia 76ers,San Antonio Spurs,85,110,CoreStates Center,18119,/boxscores/199803270PHI.html
+Fri Mar 27 1998,Phoenix Suns,Washington Wizards,89,85,America West Arena,19023,/boxscores/199803270PHO.html
+Fri Mar 27 1998,Sacramento Kings,Portland Trail Blazers,73,90,ARCO Arena (II),15675,/boxscores/199803270SAC.html
+Fri Mar 27 1998,Vancouver Grizzlies,New York Knicks,89,97,General Motors Place,17630,/boxscores/199803270VAN.html
+Sat Mar 28 1998,Seattle SuperSonics,New York Knicks,104,78,KeyArena at Seattle Center,17072,/boxscores/199803280SEA.html
+Sat Mar 28 1998,Utah Jazz,Los Angeles Lakers,106,91,Delta Center,19911,/boxscores/199803280UTA.html
+Sun Mar 29 1998,Atlanta Hawks,Detroit Pistons,118,95,Georgia Dome,24693,/boxscores/199803290ATL.html
+Sun Mar 29 1998,Cleveland Cavaliers,Charlotte Hornets,97,82,Gund Arena,19764,/boxscores/199803290CLE.html
+Sun Mar 29 1998,Golden State Warriors,Portland Trail Blazers,83,99,The Arena in Oakland,14728,/boxscores/199803290GSW.html
+Sun Mar 29 1998,Indiana Pacers,San Antonio Spurs,55,74,Market Square Arena,16669,/boxscores/199803290IND.html
+Sun Mar 29 1998,Los Angeles Clippers,Dallas Mavericks,108,86,Los Angeles Memorial Sports Arena,7461,/boxscores/199803290LAC.html
+Sun Mar 29 1998,Los Angeles Lakers,Washington Wizards,116,89,Great Western Forum,17505,/boxscores/199803290LAL.html
+Sun Mar 29 1998,Miami Heat,Houston Rockets,109,77,Miami Arena,15200,/boxscores/199803290MIA.html
+Sun Mar 29 1998,Milwaukee Bucks,Chicago Bulls,87,104,Bradley Center,18717,/boxscores/199803290MIL.html
+Sun Mar 29 1998,Philadelphia 76ers,Boston Celtics,99,94,CoreStates Center,20644,/boxscores/199803290PHI.html
+Sun Mar 29 1998,Phoenix Suns,Vancouver Grizzlies,106,98,America West Arena,19023,/boxscores/199803290PHO.html
+Sun Mar 29 1998,Sacramento Kings,Minnesota Timberwolves,96,104,ARCO Arena (II),16465,/boxscores/199803290SAC.html
+Sun Mar 29 1998,Toronto Raptors,Orlando Magic,68,95,SkyDome,16876,/boxscores/199803290TOR.html
+Tue Mar 31 1998,Charlotte Hornets,Philadelphia 76ers,101,93,Charlotte Coliseum,23831,/boxscores/199803310CHH.html
+Tue Mar 31 1998,Chicago Bulls,Detroit Pistons,106,101,United Center,23942,/boxscores/199803310CHI.html
+Tue Mar 31 1998,Cleveland Cavaliers,Orlando Magic,93,86,Gund Arena,16385,/boxscores/199803310CLE.html
+Tue Mar 31 1998,Golden State Warriors,Milwaukee Bucks,89,94,The Arena in Oakland,9391,/boxscores/199803310GSW.html
+Tue Mar 31 1998,Houston Rockets,Phoenix Suns,86,97,The Summit,16285,/boxscores/199803310HOU.html
+Tue Mar 31 1998,Indiana Pacers,Los Angeles Clippers,128,106,Market Square Arena,13837,/boxscores/199803310IND.html
+Tue Mar 31 1998,Miami Heat,Boston Celtics,121,95,Miami Arena,15200,/boxscores/199803310MIA.html
+Tue Mar 31 1998,New Jersey Nets,Atlanta Hawks,105,90,Continental Airlines Arena,17576,/boxscores/199803310NJN.html
+Tue Mar 31 1998,New York Knicks,San Antonio Spurs,78,95,Madison Square Garden (IV),19763,/boxscores/199803310NYK.html
+Tue Mar 31 1998,Seattle SuperSonics,Utah Jazz,88,86,KeyArena at Seattle Center,17072,/boxscores/199803310SEA.html
+Tue Mar 31 1998,Toronto Raptors,Los Angeles Lakers,105,114,Maple Leaf Gardens,16086,/boxscores/199803310TOR.html
+Tue Mar 31 1998,Vancouver Grizzlies,Dallas Mavericks,101,104,General Motors Place,15120,/boxscores/199803310VAN.html

@@ -1,0 +1,169 @@
+Tue Jan 1 1985,Portland Trail Blazers,Philadelphia 76ers,106,111,Memorial Coliseum,12666,/boxscores/198501010POR.html
+Tue Jan 1 1985,Utah Jazz,Indiana Pacers,117,119,Salt Palace,8365,/boxscores/198501010UTA.html
+Wed Jan 2 1985,Atlanta Hawks,Chicago Bulls,121,107,Omni Coliseum,11274,/boxscores/198501020ATL.html
+Wed Jan 2 1985,Denver Nuggets,Houston Rockets,111,113,McNichols Sports Arena,10747,/boxscores/198501020DEN.html
+Wed Jan 2 1985,Detroit Pistons,Cleveland Cavaliers,108,100,Pontiac Silverdome,7366,/boxscores/198501020DET.html
+Wed Jan 2 1985,Kansas City Kings,Phoenix Suns,107,115,Kemper Arena,5760,/boxscores/198501020KCK.html
+Wed Jan 2 1985,New Jersey Nets,Boston Celtics,95,110,Brendan Byrne Arena,14496,/boxscores/198501020NJN.html
+Wed Jan 2 1985,Seattle SuperSonics,Philadelphia 76ers,109,118,Seattle Kingdome,10362,/boxscores/198501020SEA.html
+Thu Jan 3 1985,Cleveland Cavaliers,Washington Bullets,100,93,Coliseum at Richfield,5694,/boxscores/198501030CLE.html
+Thu Jan 3 1985,Golden State Warriors,Indiana Pacers,96,112,Oakland-Alameda County Coliseum Arena,4695,/boxscores/198501030GSW.html
+Thu Jan 3 1985,Milwaukee Bucks,Los Angeles Clippers,111,87,MECCA Arena,11052,/boxscores/198501030MIL.html
+Thu Jan 3 1985,Portland Trail Blazers,Seattle SuperSonics,123,89,Memorial Coliseum,12666,/boxscores/198501030POR.html
+Thu Jan 3 1985,San Antonio Spurs,Dallas Mavericks,116,115,HemisFair Arena,7068,/boxscores/198501030SAS.html
+Fri Jan 4 1985,Boston Celtics,New York Knicks,105,94,Boston Garden,14890,/boxscores/198501040BOS.html
+Fri Jan 4 1985,Chicago Bulls,Milwaukee Bucks,106,101,Chicago Stadium,13357,/boxscores/198501040CHI.html
+Fri Jan 4 1985,Detroit Pistons,Atlanta Hawks,134,111,Pontiac Silverdome,12466,/boxscores/198501040DET.html
+Fri Jan 4 1985,Kansas City Kings,Los Angeles Clippers,132,112,Kemper Arena,5272,/boxscores/198501040KCK.html
+Fri Jan 4 1985,Los Angeles Lakers,Portland Trail Blazers,120,95,The Forum,14979,/boxscores/198501040LAL.html
+Fri Jan 4 1985,New Jersey Nets,Phoenix Suns,105,98,Brendan Byrne Arena,9321,/boxscores/198501040NJN.html
+Fri Jan 4 1985,Utah Jazz,Denver Nuggets,118,108,Salt Palace,8873,/boxscores/198501040UTA.html
+Sat Jan 5 1985,Atlanta Hawks,New Jersey Nets,124,114,Omni Coliseum,6841,/boxscores/198501050ATL.html
+Sat Jan 5 1985,Cleveland Cavaliers,Phoenix Suns,111,106,Coliseum at Richfield,4631,/boxscores/198501050CLE.html
+Sat Jan 5 1985,Dallas Mavericks,Kansas City Kings,135,107,Reunion Arena,17007,/boxscores/198501050DAL.html
+Sat Jan 5 1985,Denver Nuggets,Los Angeles Clippers,115,127,McNichols Sports Arena,7880,/boxscores/198501050DEN.html
+Sat Jan 5 1985,Golden State Warriors,Houston Rockets,94,103,Oakland-Alameda County Coliseum Arena,13295,/boxscores/198501050GSW.html
+Sat Jan 5 1985,Milwaukee Bucks,Philadelphia 76ers,106,110,MECCA Arena,11052,/boxscores/198501050MIL.html
+Sat Jan 5 1985,New York Knicks,Chicago Bulls,119,113,Madison Square Garden (IV),17685,/boxscores/198501050NYK.html
+Sat Jan 5 1985,Seattle SuperSonics,Indiana Pacers,104,97,Seattle Kingdome,6242,/boxscores/198501050SEA.html
+Sat Jan 5 1985,Washington Bullets,Detroit Pistons,113,121,Capital Centre,8539,/boxscores/198501050WSB.html
+Sun Jan 6 1985,Los Angeles Lakers,San Antonio Spurs,99,98,The Forum,13513,/boxscores/198501060LAL.html
+Sun Jan 6 1985,Portland Trail Blazers,Indiana Pacers,118,101,Memorial Coliseum,12666,/boxscores/198501060POR.html
+Sun Jan 6 1985,Utah Jazz,Houston Rockets,121,92,Salt Palace,7013,/boxscores/198501060UTA.html
+Mon Jan 7 1985,Kansas City Kings,Golden State Warriors,110,101,Kemper Arena,4794,/boxscores/198501070KCK.html
+Mon Jan 7 1985,Los Angeles Clippers,Utah Jazz,116,106,Los Angeles Memorial Sports Arena,7577,/boxscores/198501070LAC.html
+Mon Jan 7 1985,New York Knicks,Boston Celtics,97,108,Madison Square Garden (IV),14600,/boxscores/198501070NYK.html
+Mon Jan 7 1985,Philadelphia 76ers,Phoenix Suns,100,99,The Spectrum,12014,/boxscores/198501070PHI.html
+Mon Jan 7 1985,Seattle SuperSonics,Dallas Mavericks,84,102,Seattle Kingdome,6054,/boxscores/198501070SEA.html
+Tue Jan 8 1985,Cleveland Cavaliers,New Jersey Nets,107,101,Coliseum at Richfield,3362,/boxscores/198501080CLE.html
+Tue Jan 8 1985,Houston Rockets,Kansas City Kings,112,110,The Summit,13406,/boxscores/198501080HOU.html
+Tue Jan 8 1985,Los Angeles Lakers,Denver Nuggets,124,126,The Forum,13024,/boxscores/198501080LAL.html
+Tue Jan 8 1985,Milwaukee Bucks,Washington Bullets,95,99,MECCA Arena,9247,/boxscores/198501080MIL.html
+Tue Jan 8 1985,Portland Trail Blazers,Dallas Mavericks,102,108,Memorial Coliseum,12666,/boxscores/198501080POR.html
+Tue Jan 8 1985,San Antonio Spurs,Golden State Warriors,139,94,HemisFair Arena,6578,/boxscores/198501080SAS.html
+Wed Jan 9 1985,Boston Celtics,Chicago Bulls,111,108,Boston Garden,14890,/boxscores/198501090BOS.html
+Wed Jan 9 1985,Denver Nuggets,New York Knicks,100,95,McNichols Sports Arena,8219,/boxscores/198501090DEN.html
+Wed Jan 9 1985,Indiana Pacers,Milwaukee Bucks,105,106,Market Square Arena,6574,/boxscores/198501090IND.html
+Wed Jan 9 1985,Philadelphia 76ers,Detroit Pistons,126,122,The Spectrum,13292,/boxscores/198501090PHI.html
+Wed Jan 9 1985,Phoenix Suns,Seattle SuperSonics,94,88,Arizona Veterans Memorial Coliseum,10476,/boxscores/198501090PHO.html
+Thu Jan 10 1985,Golden State Warriors,Seattle SuperSonics,86,89,Oakland-Alameda County Coliseum Arena,4778,/boxscores/198501100GSW.html
+Thu Jan 10 1985,Kansas City Kings,Dallas Mavericks,110,117,Kemper Arena,4997,/boxscores/198501100KCK.html
+Thu Jan 10 1985,Los Angeles Lakers,Utah Jazz,120,112,The Forum,14547,/boxscores/198501100LAL.html
+Fri Jan 11 1985,Boston Celtics,Washington Bullets,103,101,Boston Garden,14890,/boxscores/198501110BOS.html
+Fri Jan 11 1985,Chicago Bulls,New York Knicks,113,97,Chicago Stadium,11556,/boxscores/198501110CHI.html
+Fri Jan 11 1985,Dallas Mavericks,Los Angeles Lakers,102,121,Reunion Arena,17007,/boxscores/198501110DAL.html
+Fri Jan 11 1985,Denver Nuggets,Kansas City Kings,143,121,McNichols Sports Arena,7410,/boxscores/198501110DEN.html
+Fri Jan 11 1985,Detroit Pistons,Indiana Pacers,120,109,Pontiac Silverdome,13310,/boxscores/198501110DET.html
+Fri Jan 11 1985,Milwaukee Bucks,Cleveland Cavaliers,130,117,MECCA Arena,9775,/boxscores/198501110MIL.html
+Fri Jan 11 1985,New Jersey Nets,Atlanta Hawks,122,103,Brendan Byrne Arena,10416,/boxscores/198501110NJN.html
+Fri Jan 11 1985,Philadelphia 76ers,Houston Rockets,115,108,The Spectrum,17921,/boxscores/198501110PHI.html
+Fri Jan 11 1985,Phoenix Suns,Los Angeles Clippers,84,98,Arizona Veterans Memorial Coliseum,11034,/boxscores/198501110PHO.html
+Fri Jan 11 1985,San Antonio Spurs,Portland Trail Blazers,103,123,HemisFair Arena,9277,/boxscores/198501110SAS.html
+Sat Jan 12 1985,Atlanta Hawks,Boston Celtics,111,119,Omni Coliseum,16048,/boxscores/198501120ATL.html
+Sat Jan 12 1985,Cleveland Cavaliers,Chicago Bulls,101,98,Coliseum at Richfield,18074,/boxscores/198501120CLE.html
+Sat Jan 12 1985,Golden State Warriors,Los Angeles Clippers,102,104,Oakland-Alameda County Coliseum Arena,7858,/boxscores/198501120GSW.html
+Sat Jan 12 1985,Indiana Pacers,New York Knicks,100,95,Market Square Arena,11626,/boxscores/198501120IND.html
+Sat Jan 12 1985,Phoenix Suns,Utah Jazz,109,94,Arizona Veterans Memorial Coliseum,13297,/boxscores/198501120PHO.html
+Sun Jan 13 1985,Dallas Mavericks,Portland Trail Blazers,124,101,Reunion Arena,17007,/boxscores/198501130DAL.html
+Sun Jan 13 1985,Detroit Pistons,Los Angeles Lakers,121,98,Pontiac Silverdome,23475,/boxscores/198501130DET.html
+Sun Jan 13 1985,Milwaukee Bucks,Denver Nuggets,140,116,MECCA Arena,10995,/boxscores/198501130MIL.html
+Sun Jan 13 1985,New Jersey Nets,Houston Rockets,100,99,Brendan Byrne Arena,15083,/boxscores/198501130NJN.html
+Sun Jan 13 1985,Seattle SuperSonics,Kansas City Kings,119,114,Tacoma Dome,7814,/boxscores/198501130SEA.html
+Sun Jan 13 1985,Washington Bullets,Philadelphia 76ers,104,115,Capital Centre,18609,/boxscores/198501130WSB.html
+Mon Jan 14 1985,Chicago Bulls,Denver Nuggets,122,113,Chicago Stadium,8922,/boxscores/198501140CHI.html
+Mon Jan 14 1985,Cleveland Cavaliers,Washington Bullets,91,101,Coliseum at Richfield,3462,/boxscores/198501140CLE.html
+Tue Jan 15 1985,Golden State Warriors,Dallas Mavericks,104,149,Oakland-Alameda County Coliseum Arena,6247,/boxscores/198501150GSW.html
+Tue Jan 15 1985,Indiana Pacers,Atlanta Hawks,113,120,Market Square Arena,7221,/boxscores/198501150IND.html
+Tue Jan 15 1985,Kansas City Kings,Cleveland Cavaliers,112,116,Kemper Arena,4720,/boxscores/198501150KCK.html
+Tue Jan 15 1985,Milwaukee Bucks,Los Angeles Lakers,115,105,MECCA Arena,11052,/boxscores/198501150MIL.html
+Tue Jan 15 1985,New York Knicks,Philadelphia 76ers,82,93,Madison Square Garden (IV),13092,/boxscores/198501150NYK.html
+Tue Jan 15 1985,Portland Trail Blazers,Houston Rockets,121,117,Memorial Coliseum,12666,/boxscores/198501150POR.html
+Tue Jan 15 1985,San Antonio Spurs,Utah Jazz,121,101,HemisFair Arena,6886,/boxscores/198501150SAS.html
+Tue Jan 15 1985,Seattle SuperSonics,Los Angeles Clippers,101,83,Seattle Kingdome,5612,/boxscores/198501150SEA.html
+Wed Jan 16 1985,Boston Celtics,Los Angeles Lakers,104,102,Boston Garden,14890,/boxscores/198501160BOS.html
+Wed Jan 16 1985,Denver Nuggets,Golden State Warriors,115,107,McNichols Sports Arena,7235,/boxscores/198501160DEN.html
+Wed Jan 16 1985,Los Angeles Clippers,Houston Rockets,98,88,Los Angeles Memorial Sports Arena,10874,/boxscores/198501160LAC.html
+Wed Jan 16 1985,New Jersey Nets,Chicago Bulls,100,94,Brendan Byrne Arena,12787,/boxscores/198501160NJN.html
+Wed Jan 16 1985,Philadelphia 76ers,Atlanta Hawks,122,99,The Spectrum,15160,/boxscores/198501160PHI.html
+Wed Jan 16 1985,Phoenix Suns,Dallas Mavericks,98,95,Arizona Veterans Memorial Coliseum,10420,/boxscores/198501160PHO.html
+Wed Jan 16 1985,Utah Jazz,Washington Bullets,101,103,Salt Palace,8118,/boxscores/198501160UTA.html
+Thu Jan 17 1985,Chicago Bulls,Cleveland Cavaliers,98,93,Chicago Stadium,7199,/boxscores/198501170CHI.html
+Thu Jan 17 1985,Kansas City Kings,San Antonio Spurs,130,141,Kemper Arena,5995,/boxscores/198501170KCK.html
+Thu Jan 17 1985,New York Knicks,Detroit Pistons,89,105,Madison Square Garden (IV),9168,/boxscores/198501170NYK.html
+Fri Jan 18 1985,Atlanta Hawks,Seattle SuperSonics,104,90,Omni Coliseum,6749,/boxscores/198501180ATL.html
+Fri Jan 18 1985,Denver Nuggets,Washington Bullets,108,106,McNichols Sports Arena,9764,/boxscores/198501180DEN.html
+Fri Jan 18 1985,Indiana Pacers,Boston Celtics,91,86,Market Square Arena,16920,/boxscores/198501180IND.html
+Fri Jan 18 1985,Los Angeles Lakers,Dallas Mavericks,110,92,The Forum,17505,/boxscores/198501180LAL.html
+Fri Jan 18 1985,Milwaukee Bucks,New Jersey Nets,102,93,MECCA Arena,10857,/boxscores/198501180MIL.html
+Fri Jan 18 1985,Phoenix Suns,Houston Rockets,101,112,Arizona Veterans Memorial Coliseum,13556,/boxscores/198501180PHO.html
+Fri Jan 18 1985,Utah Jazz,Portland Trail Blazers,127,122,Salt Palace,8594,/boxscores/198501180UTA.html
+Sat Jan 19 1985,Cleveland Cavaliers,Seattle SuperSonics,105,106,Coliseum at Richfield,5987,/boxscores/198501190CLE.html
+Sat Jan 19 1985,Golden State Warriors,Los Angeles Lakers,109,139,Oakland-Alameda County Coliseum Arena,13295,/boxscores/198501190GSW.html
+Sat Jan 19 1985,Houston Rockets,Utah Jazz,120,95,The Summit,13321,/boxscores/198501190HOU.html
+Sat Jan 19 1985,Indiana Pacers,Chicago Bulls,110,107,Market Square Arena,11303,/boxscores/198501190IND.html
+Sat Jan 19 1985,Kansas City Kings,Washington Bullets,103,98,Kemper Arena,6335,/boxscores/198501190KCK.html
+Sat Jan 19 1985,Los Angeles Clippers,Dallas Mavericks,100,101,Los Angeles Memorial Sports Arena,9028,/boxscores/198501190LAC.html
+Sat Jan 19 1985,New Jersey Nets,Detroit Pistons,107,109,Brendan Byrne Arena,12310,/boxscores/198501190NJN.html
+Sat Jan 19 1985,New York Knicks,Atlanta Hawks,88,86,Madison Square Garden (IV),10254,/boxscores/198501190NYK.html
+Sat Jan 19 1985,Portland Trail Blazers,Denver Nuggets,120,123,Memorial Coliseum,12666,/boxscores/198501190POR.html
+Sat Jan 19 1985,San Antonio Spurs,Phoenix Suns,106,100,HemisFair Arena,10580,/boxscores/198501190SAS.html
+Sun Jan 20 1985,Boston Celtics,Philadelphia 76ers,113,97,Boston Garden,14890,/boxscores/198501200BOS.html
+Mon Jan 21 1985,Indiana Pacers,Golden State Warriors,129,127,Market Square Arena,6848,/boxscores/198501210IND.html
+Mon Jan 21 1985,Washington Bullets,Cleveland Cavaliers,128,115,Capital Centre,4892,/boxscores/198501210WSB.html
+Tue Jan 22 1985,Atlanta Hawks,Detroit Pistons,113,130,Lakefront Arena,4109,/boxscores/198501220ATL.html
+Tue Jan 22 1985,Chicago Bulls,Portland Trail Blazers,123,115,Chicago Stadium,6321,/boxscores/198501220CHI.html
+Tue Jan 22 1985,Cleveland Cavaliers,Philadelphia 76ers,100,101,Coliseum at Richfield,7148,/boxscores/198501220CLE.html
+Tue Jan 22 1985,Houston Rockets,Phoenix Suns,101,97,The Summit,12126,/boxscores/198501220HOU.html
+Tue Jan 22 1985,Los Angeles Lakers,Los Angeles Clippers,123,114,The Forum,15274,/boxscores/198501220LAL.html
+Tue Jan 22 1985,New York Knicks,Seattle SuperSonics,92,90,Madison Square Garden (IV),7850,/boxscores/198501220NYK.html
+Tue Jan 22 1985,San Antonio Spurs,Kansas City Kings,117,113,HemisFair Arena,7958,/boxscores/198501220SAS.html
+Tue Jan 22 1985,Utah Jazz,New Jersey Nets,102,99,Salt Palace,7170,/boxscores/198501220UTA.html
+Tue Jan 22 1985,Washington Bullets,Golden State Warriors,109,104,Capital Centre,5987,/boxscores/198501220WSB.html
+Wed Jan 23 1985,Atlanta Hawks,Phoenix Suns,101,100,Omni Coliseum,7195,/boxscores/198501230ATL.html
+Wed Jan 23 1985,Boston Celtics,Seattle SuperSonics,97,107,Boston Garden,14890,/boxscores/198501230BOS.html
+Wed Jan 23 1985,Dallas Mavericks,San Antonio Spurs,122,110,Reunion Arena,17007,/boxscores/198501230DAL.html
+Wed Jan 23 1985,Indiana Pacers,Portland Trail Blazers,104,136,Market Square Arena,9834,/boxscores/198501230IND.html
+Thu Jan 24 1985,Denver Nuggets,New Jersey Nets,119,110,McNichols Sports Arena,7452,/boxscores/198501240DEN.html
+Thu Jan 24 1985,Detroit Pistons,Golden State Warriors,137,118,Pontiac Silverdome,9446,/boxscores/198501240DET.html
+Thu Jan 24 1985,Kansas City Kings,Milwaukee Bucks,119,120,Kemper Arena,6228,/boxscores/198501240KCK.html
+Thu Jan 24 1985,Utah Jazz,Cleveland Cavaliers,109,110,Salt Palace,7490,/boxscores/198501240UTA.html
+Thu Jan 24 1985,Washington Bullets,Dallas Mavericks,93,92,Capital Centre,5112,/boxscores/198501240WSB.html
+Fri Jan 25 1985,Boston Celtics,Indiana Pacers,125,94,Boston Garden,14890,/boxscores/198501250BOS.html
+Fri Jan 25 1985,Chicago Bulls,Seattle SuperSonics,93,76,Chicago Stadium,17032,/boxscores/198501250CHI.html
+Fri Jan 25 1985,Houston Rockets,San Antonio Spurs,107,122,The Summit,13169,/boxscores/198501250HOU.html
+Fri Jan 25 1985,Los Angeles Lakers,Philadelphia 76ers,109,104,The Forum,17505,/boxscores/198501250LAL.html
+Sat Jan 26 1985,Chicago Bulls,Atlanta Hawks,117,104,Chicago Stadium,10459,/boxscores/198501260CHI.html
+Sat Jan 26 1985,Dallas Mavericks,New Jersey Nets,93,103,Reunion Arena,17007,/boxscores/198501260DAL.html
+Sat Jan 26 1985,Denver Nuggets,Cleveland Cavaliers,144,127,McNichols Sports Arena,10840,/boxscores/198501260DEN.html
+Sat Jan 26 1985,Detroit Pistons,Seattle SuperSonics,132,113,Pontiac Silverdome,22411,/boxscores/198501260DET.html
+Sat Jan 26 1985,Houston Rockets,Milwaukee Bucks,102,105,The Summit,16016,/boxscores/198501260HOU.html
+Sat Jan 26 1985,Kansas City Kings,Golden State Warriors,120,111,Kemper Arena,4999,/boxscores/198501260KCK.html
+Sat Jan 26 1985,Los Angeles Clippers,Philadelphia 76ers,113,120,Los Angeles Memorial Sports Arena,15371,/boxscores/198501260LAC.html
+Sat Jan 26 1985,New York Knicks,Indiana Pacers,109,106,Madison Square Garden (IV),8362,/boxscores/198501260NYK.html
+Sat Jan 26 1985,Utah Jazz,Los Angeles Lakers,96,83,Salt Palace,12675,/boxscores/198501260UTA.html
+Sat Jan 26 1985,Washington Bullets,Phoenix Suns,110,105,Capital Centre,10215,/boxscores/198501260WSB.html
+Sun Jan 27 1985,Boston Celtics,Portland Trail Blazers,128,127,Boston Garden,14890,/boxscores/198501270BOS.html
+Sun Jan 27 1985,Detroit Pistons,Washington Bullets,115,105,Pontiac Silverdome,12585,/boxscores/198501270DET.html
+Sun Jan 27 1985,San Antonio Spurs,Milwaukee Bucks,93,106,HemisFair Arena,9511,/boxscores/198501270SAS.html
+Mon Jan 28 1985,Dallas Mavericks,Philadelphia 76ers,111,109,Reunion Arena,17007,/boxscores/198501280DAL.html
+Mon Jan 28 1985,Houston Rockets,New Jersey Nets,97,93,The Summit,11629,/boxscores/198501280HOU.html
+Mon Jan 28 1985,New York Knicks,Los Angeles Clippers,117,91,Madison Square Garden (IV),9938,/boxscores/198501280NYK.html
+Mon Jan 28 1985,Utah Jazz,Denver Nuggets,100,104,Salt Palace,6578,/boxscores/198501280UTA.html
+Tue Jan 29 1985,Atlanta Hawks,Indiana Pacers,115,106,Lakefront Arena,3082,/boxscores/198501290ATL.html
+Tue Jan 29 1985,Boston Celtics,Detroit Pistons,131,130,Hartford Civic Center,15685,/boxscores/198501290BOS.html
+Tue Jan 29 1985,Chicago Bulls,Kansas City Kings,103,97,Chicago Stadium,7141,/boxscores/198501290CHI.html
+Tue Jan 29 1985,Cleveland Cavaliers,Los Angeles Clippers,110,94,Coliseum at Richfield,3724,/boxscores/198501290CLE.html
+Tue Jan 29 1985,Denver Nuggets,Phoenix Suns,128,100,McNichols Sports Arena,8228,/boxscores/198501290DEN.html
+Tue Jan 29 1985,Golden State Warriors,Milwaukee Bucks,101,108,Oakland-Alameda County Coliseum Arena,7060,/boxscores/198501290GSW.html
+Tue Jan 29 1985,Portland Trail Blazers,Los Angeles Lakers,106,122,Memorial Coliseum,12666,/boxscores/198501290POR.html
+Tue Jan 29 1985,San Antonio Spurs,New Jersey Nets,130,127,HemisFair Arena,7007,/boxscores/198501290SAS.html
+Wed Jan 30 1985,Detroit Pistons,Kansas City Kings,120,116,Pontiac Silverdome,9556,/boxscores/198501300DET.html
+Wed Jan 30 1985,Indiana Pacers,Cleveland Cavaliers,120,115,Market Square Arena,5744,/boxscores/198501300IND.html
+Wed Jan 30 1985,Los Angeles Lakers,Houston Rockets,113,116,The Forum,17505,/boxscores/198501300LAL.html
+Wed Jan 30 1985,Philadelphia 76ers,Boston Celtics,122,104,The Spectrum,17921,/boxscores/198501300PHI.html
+Wed Jan 30 1985,Phoenix Suns,New York Knicks,110,93,Arizona Veterans Memorial Coliseum,11572,/boxscores/198501300PHO.html
+Wed Jan 30 1985,Washington Bullets,Chicago Bulls,106,95,Capital Centre,18484,/boxscores/198501300WSB.html
+Thu Jan 31 1985,Denver Nuggets,Dallas Mavericks,121,110,McNichols Sports Arena,8160,/boxscores/198501310DEN.html
+Thu Jan 31 1985,Golden State Warriors,Portland Trail Blazers,109,129,Oakland-Alameda County Coliseum Arena,6717,/boxscores/198501310GSW.html
+Thu Jan 31 1985,New Jersey Nets,Los Angeles Clippers,122,99,Brendan Byrne Arena,9436,/boxscores/198501310NJN.html
+Thu Jan 31 1985,Seattle SuperSonics,San Antonio Spurs,96,94,Seattle Kingdome,5826,/boxscores/198501310SEA.html

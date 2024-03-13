@@ -1,0 +1,39 @@
+Fri May 1 1987,Indiana Pacers,Atlanta Hawks,97,101,Market Square Arena,14039,/boxscores/198705010IND.html
+Fri May 1 1987,Golden State Warriors,Utah Jazz,98,94,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198705010GSW.html
+Fri May 1 1987,Philadelphia 76ers,Milwaukee Bucks,124,118,The Spectrum,15464,/boxscores/198705010PHI.html
+Sat May 2 1987,Houston Rockets,Seattle SuperSonics,106,111,The Summit,16279,/boxscores/198705020HOU.html
+Sun May 3 1987,Atlanta Hawks,Detroit Pistons,111,112,Omni Coliseum,14361,/boxscores/198705030ATL.html
+Sun May 3 1987,Milwaukee Bucks,Philadelphia 76ers,102,89,MECCA Arena,11052,/boxscores/198705030MIL.html
+Sun May 3 1987,Utah Jazz,Golden State Warriors,113,118,Salt Palace,11071,/boxscores/198705030UTA.html
+Tue May 5 1987,Atlanta Hawks,Detroit Pistons,115,102,Omni Coliseum,16522,/boxscores/198705050ATL.html
+Tue May 5 1987,Boston Celtics,Milwaukee Bucks,111,98,Boston Garden,14890,/boxscores/198705050BOS.html
+Tue May 5 1987,Houston Rockets,Seattle SuperSonics,97,99,The Summit,16279,/boxscores/198705050HOU.html
+Tue May 5 1987,Los Angeles Lakers,Golden State Warriors,125,116,The Forum,17505,/boxscores/198705050LAL.html
+Wed May 6 1987,Boston Celtics,Milwaukee Bucks,126,124,Boston Garden,14890,/boxscores/198705060BOS.html
+Thu May 7 1987,Los Angeles Lakers,Golden State Warriors,116,101,The Forum,17505,/boxscores/198705070LAL.html
+Thu May 7 1987,Seattle SuperSonics,Houston Rockets,84,102,Seattle Center Coliseum,14587,/boxscores/198705070SEA.html
+Fri May 8 1987,Detroit Pistons,Atlanta Hawks,108,99,Pontiac Silverdome,24544,/boxscores/198705080DET.html
+Fri May 8 1987,Milwaukee Bucks,Boston Celtics,126,121,MECCA Arena,11052,/boxscores/198705080MIL.html
+Sat May 9 1987,Golden State Warriors,Los Angeles Lakers,108,133,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198705090GSW.html
+Sat May 9 1987,Seattle SuperSonics,Houston Rockets,117,102,Seattle Center Coliseum,14559,/boxscores/198705090SEA.html
+Sun May 10 1987,Milwaukee Bucks,Boston Celtics,137,138,MECCA Arena,11052,/boxscores/198705100MIL.html
+Sun May 10 1987,Golden State Warriors,Los Angeles Lakers,129,121,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198705100GSW.html
+Sun May 10 1987,Detroit Pistons,Atlanta Hawks,89,88,Pontiac Silverdome,17269,/boxscores/198705100DET.html
+Tue May 12 1987,Houston Rockets,Seattle SuperSonics,112,107,The Summit,16279,/boxscores/198705120HOU.html
+Tue May 12 1987,Los Angeles Lakers,Golden State Warriors,118,106,The Forum,17505,/boxscores/198705120LAL.html
+Wed May 13 1987,Atlanta Hawks,Detroit Pistons,96,104,Omni Coliseum,16522,/boxscores/198705130ATL.html
+Wed May 13 1987,Boston Celtics,Milwaukee Bucks,124,129,Boston Garden,14890,/boxscores/198705130BOS.html
+Thu May 14 1987,Seattle SuperSonics,Houston Rockets,128,125,Seattle Center Coliseum,14751,/boxscores/198705140SEA.html
+Fri May 15 1987,Milwaukee Bucks,Boston Celtics,121,111,MECCA Arena,11052,/boxscores/198705150MIL.html
+Sat May 16 1987,Los Angeles Lakers,Seattle SuperSonics,92,87,The Forum,17505,/boxscores/198705160LAL.html
+Sun May 17 1987,Boston Celtics,Milwaukee Bucks,119,113,Boston Garden,14890,/boxscores/198705170BOS.html
+Tue May 19 1987,Boston Celtics,Detroit Pistons,104,91,Boston Garden,14890,/boxscores/198705190BOS.html
+Tue May 19 1987,Los Angeles Lakers,Seattle SuperSonics,112,104,The Forum,17505,/boxscores/198705190LAL.html
+Thu May 21 1987,Boston Celtics,Detroit Pistons,110,101,Boston Garden,14890,/boxscores/198705210BOS.html
+Sat May 23 1987,Detroit Pistons,Boston Celtics,122,104,Pontiac Silverdome,23525,/boxscores/198705230DET.html
+Sat May 23 1987,Seattle SuperSonics,Los Angeles Lakers,121,122,Seattle Center Coliseum,14657,/boxscores/198705230SEA.html
+Sun May 24 1987,Detroit Pistons,Boston Celtics,145,119,Pontiac Silverdome,27387,/boxscores/198705240DET.html
+Mon May 25 1987,Seattle SuperSonics,Los Angeles Lakers,102,133,Seattle Center Coliseum,14477,/boxscores/198705250SEA.html
+Tue May 26 1987,Boston Celtics,Detroit Pistons,108,107,Boston Garden,14890,/boxscores/198705260BOS.html
+Thu May 28 1987,Detroit Pistons,Boston Celtics,113,105,Pontiac Silverdome,28383,/boxscores/198705280DET.html
+Sat May 30 1987,Boston Celtics,Detroit Pistons,117,114,Boston Garden,14890,/boxscores/198705300BOS.html

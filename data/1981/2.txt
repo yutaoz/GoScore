@@ -1,0 +1,152 @@
+Tue Feb 3 1981,Atlanta Hawks,Philadelphia 76ers,93,97,Omni Coliseum,11616,/boxscores/198102030ATL.html
+Tue Feb 3 1981,Dallas Mavericks,Kansas City Kings,100,121,Reunion Arena,5335,/boxscores/198102030DAL.html
+Tue Feb 3 1981,Houston Rockets,Denver Nuggets,135,128,The Summit,9578,/boxscores/198102030HOU.html
+Tue Feb 3 1981,Milwaukee Bucks,Indiana Pacers,99,108,MECCA Arena,11052,/boxscores/198102030MIL.html
+Tue Feb 3 1981,New York Knicks,San Diego Clippers,101,98,Madison Square Garden (IV),9969,/boxscores/198102030NYK.html
+Tue Feb 3 1981,Portland Trail Blazers,Washington Bullets,111,104,Memorial Coliseum,12666,/boxscores/198102030POR.html
+Tue Feb 3 1981,San Antonio Spurs,Detroit Pistons,102,99,HemisFair Arena,8616,/boxscores/198102030SAS.html
+Wed Feb 4 1981,Cleveland Cavaliers,Chicago Bulls,96,109,Coliseum at Richfield,4573,/boxscores/198102040CLE.html
+Wed Feb 4 1981,Denver Nuggets,San Antonio Spurs,132,135,McNichols Sports Arena,9117,/boxscores/198102040DEN.html
+Wed Feb 4 1981,Golden State Warriors,Portland Trail Blazers,115,100,Oakland-Alameda County Coliseum Arena,10465,/boxscores/198102040GSW.html
+Wed Feb 4 1981,Houston Rockets,Dallas Mavericks,116,68,The Summit,8353,/boxscores/198102040HOU.html
+Wed Feb 4 1981,Indiana Pacers,Los Angeles Lakers,96,102,Market Square Arena,15966,/boxscores/198102040IND.html
+Wed Feb 4 1981,Kansas City Kings,Detroit Pistons,91,90,Kemper Arena,11009,/boxscores/198102040KCK.html
+Wed Feb 4 1981,New Jersey Nets,San Diego Clippers,102,110,Rutgers Athletic Center,6888,/boxscores/198102040NJN.html
+Wed Feb 4 1981,Philadelphia 76ers,Boston Celtics,107,104,The Spectrum,18276,/boxscores/198102040PHI.html
+Wed Feb 4 1981,Phoenix Suns,Utah Jazz,114,89,Arizona Veterans Memorial Coliseum,11571,/boxscores/198102040PHO.html
+Wed Feb 4 1981,Seattle SuperSonics,Washington Bullets,108,99,Seattle Kingdome,13656,/boxscores/198102040SEA.html
+Thu Feb 5 1981,Milwaukee Bucks,Boston Celtics,113,103,MECCA Arena,11052,/boxscores/198102050MIL.html
+Fri Feb 6 1981,Boston Celtics,Indiana Pacers,111,98,Boston Garden,15320,/boxscores/198102060BOS.html
+Fri Feb 6 1981,Chicago Bulls,New York Knicks,94,112,Chicago Stadium,10247,/boxscores/198102060CHI.html
+Fri Feb 6 1981,Cleveland Cavaliers,Milwaukee Bucks,99,103,Coliseum at Richfield,7179,/boxscores/198102060CLE.html
+Fri Feb 6 1981,Dallas Mavericks,Atlanta Hawks,98,100,Reunion Arena,6882,/boxscores/198102060DAL.html
+Fri Feb 6 1981,Detroit Pistons,Los Angeles Lakers,102,111,Pontiac Silverdome,12205,/boxscores/198102060DET.html
+Fri Feb 6 1981,Golden State Warriors,Washington Bullets,110,116,Oakland-Alameda County Coliseum Arena,8958,/boxscores/198102060GSW.html
+Fri Feb 6 1981,Philadelphia 76ers,San Diego Clippers,129,113,The Spectrum,10105,/boxscores/198102060PHI.html
+Fri Feb 6 1981,Phoenix Suns,Houston Rockets,112,99,Arizona Veterans Memorial Coliseum,12090,/boxscores/198102060PHO.html
+Fri Feb 6 1981,San Antonio Spurs,Portland Trail Blazers,122,96,HemisFair Arena,11342,/boxscores/198102060SAS.html
+Fri Feb 6 1981,Seattle SuperSonics,Kansas City Kings,92,102,Seattle Kingdome,14228,/boxscores/198102060SEA.html
+Fri Feb 6 1981,Utah Jazz,Denver Nuggets,116,120,Salt Palace,8037,/boxscores/198102060UTA.html
+Sat Feb 7 1981,Chicago Bulls,Detroit Pistons,98,90,Chicago Stadium,9442,/boxscores/198102070CHI.html
+Sat Feb 7 1981,Denver Nuggets,Golden State Warriors,135,125,McNichols Sports Arena,10453,/boxscores/198102070DEN.html
+Sat Feb 7 1981,Houston Rockets,Atlanta Hawks,87,81,The Summit,8723,/boxscores/198102070HOU.html
+Sat Feb 7 1981,Indiana Pacers,Cleveland Cavaliers,99,96,Market Square Arena,11319,/boxscores/198102070IND.html
+Sat Feb 7 1981,New York Knicks,New Jersey Nets,113,106,Madison Square Garden (IV),12138,/boxscores/198102070NYK.html
+Sat Feb 7 1981,Seattle SuperSonics,Utah Jazz,96,89,Seattle Kingdome,17888,/boxscores/198102070SEA.html
+Sun Feb 8 1981,Boston Celtics,San Diego Clippers,123,107,Boston Garden,15320,/boxscores/198102080BOS.html
+Sun Feb 8 1981,Detroit Pistons,Indiana Pacers,101,124,Pontiac Silverdome,3629,/boxscores/198102080DET.html
+Sun Feb 8 1981,Golden State Warriors,Utah Jazz,107,101,Oakland-Alameda County Coliseum Arena,8362,/boxscores/198102080GSW.html
+Sun Feb 8 1981,Milwaukee Bucks,Chicago Bulls,128,109,MECCA Arena,11052,/boxscores/198102080MIL.html
+Sun Feb 8 1981,New Jersey Nets,New York Knicks,102,116,Rutgers Athletic Center,8925,/boxscores/198102080NJN.html
+Sun Feb 8 1981,Philadelphia 76ers,Los Angeles Lakers,102,99,The Spectrum,18276,/boxscores/198102080PHI.html
+Sun Feb 8 1981,Phoenix Suns,Washington Bullets,113,107,Arizona Veterans Memorial Coliseum,12396,/boxscores/198102080PHO.html
+Sun Feb 8 1981,Portland Trail Blazers,Kansas City Kings,129,123,Memorial Coliseum,12666,/boxscores/198102080POR.html
+Sun Feb 8 1981,San Antonio Spurs,Dallas Mavericks,102,98,HemisFair Arena,8918,/boxscores/198102080SAS.html
+Sun Feb 8 1981,Seattle SuperSonics,Denver Nuggets,133,112,Seattle Kingdome,13849,/boxscores/198102080SEA.html
+Tue Feb 10 1981,Atlanta Hawks,Golden State Warriors,116,108,Omni Coliseum,8715,/boxscores/198102100ATL.html
+Tue Feb 10 1981,Chicago Bulls,Kansas City Kings,116,115,Chicago Stadium,4647,/boxscores/198102100CHI.html
+Tue Feb 10 1981,Dallas Mavericks,Detroit Pistons,95,101,Reunion Arena,5047,/boxscores/198102100DAL.html
+Tue Feb 10 1981,Denver Nuggets,Washington Bullets,110,115,McNichols Sports Arena,7794,/boxscores/198102100DEN.html
+Tue Feb 10 1981,San Diego Clippers,Phoenix Suns,93,107,San Diego Sports Arena,8798,/boxscores/198102100SDC.html
+Tue Feb 10 1981,Seattle SuperSonics,Boston Celtics,108,107,Seattle Kingdome,17011,/boxscores/198102100SEA.html
+Wed Feb 11 1981,Houston Rockets,San Antonio Spurs,108,89,The Summit,8295,/boxscores/198102110HOU.html
+Wed Feb 11 1981,Indiana Pacers,Milwaukee Bucks,101,107,Market Square Arena,11817,/boxscores/198102110IND.html
+Wed Feb 11 1981,Kansas City Kings,Utah Jazz,99,87,Kemper Arena,8145,/boxscores/198102110KCK.html
+Wed Feb 11 1981,Los Angeles Lakers,Boston Celtics,91,105,The Forum,17505,/boxscores/198102110LAL.html
+Wed Feb 11 1981,New Jersey Nets,Chicago Bulls,135,133,Rutgers Athletic Center,6934,/boxscores/198102110NJN.html
+Wed Feb 11 1981,Philadelphia 76ers,Cleveland Cavaliers,122,120,The Spectrum,8993,/boxscores/198102110PHI.html
+Wed Feb 11 1981,Phoenix Suns,Dallas Mavericks,119,97,Arizona Veterans Memorial Coliseum,10357,/boxscores/198102110PHO.html
+Thu Feb 12 1981,Cleveland Cavaliers,New York Knicks,111,122,Coliseum at Richfield,4639,/boxscores/198102120CLE.html
+Thu Feb 12 1981,Portland Trail Blazers,Seattle SuperSonics,109,112,Memorial Coliseum,12666,/boxscores/198102120POR.html
+Thu Feb 12 1981,San Antonio Spurs,Atlanta Hawks,110,109,HemisFair Arena,8604,/boxscores/198102120SAS.html
+Fri Feb 13 1981,Denver Nuggets,Portland Trail Blazers,162,143,McNichols Sports Arena,11781,/boxscores/198102130DEN.html
+Fri Feb 13 1981,Houston Rockets,Los Angeles Lakers,105,114,The Summit,13985,/boxscores/198102130HOU.html
+Fri Feb 13 1981,Kansas City Kings,Atlanta Hawks,113,106,Kemper Arena,8065,/boxscores/198102130KCK.html
+Fri Feb 13 1981,Milwaukee Bucks,Golden State Warriors,106,110,MECCA Arena,11052,/boxscores/198102130MIL.html
+Fri Feb 13 1981,New Jersey Nets,Indiana Pacers,103,100,Rutgers Athletic Center,7829,/boxscores/198102130NJN.html
+Fri Feb 13 1981,New York Knicks,Detroit Pistons,120,92,Madison Square Garden (IV),9636,/boxscores/198102130NYK.html
+Fri Feb 13 1981,Philadelphia 76ers,Washington Bullets,102,104,The Spectrum,13974,/boxscores/198102130PHI.html
+Fri Feb 13 1981,Phoenix Suns,San Diego Clippers,110,94,Arizona Veterans Memorial Coliseum,10826,/boxscores/198102130PHO.html
+Fri Feb 13 1981,Utah Jazz,Boston Celtics,104,89,Salt Palace,10050,/boxscores/198102130UTA.html
+Sat Feb 14 1981,Chicago Bulls,Seattle SuperSonics,134,117,Chicago Stadium,8350,/boxscores/198102140CHI.html
+Sat Feb 14 1981,Cleveland Cavaliers,Golden State Warriors,108,90,Coliseum at Richfield,6957,/boxscores/198102140CLE.html
+Sat Feb 14 1981,Dallas Mavericks,San Antonio Spurs,99,107,Reunion Arena,9826,/boxscores/198102140DAL.html
+Sat Feb 14 1981,Detroit Pistons,Washington Bullets,105,103,Pontiac Silverdome,8141,/boxscores/198102140DET.html
+Sat Feb 14 1981,Houston Rockets,Milwaukee Bucks,112,117,The Summit,10568,/boxscores/198102140HOU.html
+Sun Feb 15 1981,Denver Nuggets,Boston Celtics,118,120,McNichols Sports Arena,16992,/boxscores/198102150DEN.html
+Sun Feb 15 1981,Indiana Pacers,Chicago Bulls,113,107,Market Square Arena,10513,/boxscores/198102150IND.html
+Sun Feb 15 1981,Kansas City Kings,Seattle SuperSonics,107,105,Kemper Arena,9116,/boxscores/198102150KCK.html
+Sun Feb 15 1981,Los Angeles Lakers,Dallas Mavericks,107,99,The Forum,11920,/boxscores/198102150LAL.html
+Sun Feb 15 1981,New Jersey Nets,Golden State Warriors,134,132,Rutgers Athletic Center,7758,/boxscores/198102150NJN.html
+Sun Feb 15 1981,Philadelphia 76ers,Atlanta Hawks,116,98,The Spectrum,13303,/boxscores/198102150PHI.html
+Sun Feb 15 1981,Phoenix Suns,New York Knicks,101,115,Arizona Veterans Memorial Coliseum,12660,/boxscores/198102150PHO.html
+Sun Feb 15 1981,Portland Trail Blazers,Utah Jazz,118,84,Memorial Coliseum,12666,/boxscores/198102150POR.html
+Sun Feb 15 1981,San Antonio Spurs,Milwaukee Bucks,110,108,HemisFair Arena,11738,/boxscores/198102150SAS.html
+Tue Feb 17 1981,Cleveland Cavaliers,Detroit Pistons,109,108,Coliseum at Richfield,4161,/boxscores/198102170CLE.html
+Tue Feb 17 1981,Dallas Mavericks,Milwaukee Bucks,106,114,Reunion Arena,7068,/boxscores/198102170DAL.html
+Tue Feb 17 1981,Los Angeles Lakers,New York Knicks,96,87,The Forum,13279,/boxscores/198102170LAL.html
+Tue Feb 17 1981,Phoenix Suns,Golden State Warriors,118,109,Arizona Veterans Memorial Coliseum,11433,/boxscores/198102170PHO.html
+Tue Feb 17 1981,San Antonio Spurs,Boston Celtics,116,128,HemisFair Arena,13847,/boxscores/198102170SAS.html
+Tue Feb 17 1981,San Diego Clippers,Chicago Bulls,128,95,San Diego Sports Arena,6384,/boxscores/198102170SDC.html
+Tue Feb 17 1981,Utah Jazz,Seattle SuperSonics,98,101,Salt Palace,6612,/boxscores/198102170UTA.html
+Tue Feb 17 1981,Washington Bullets,Portland Trail Blazers,104,124,Capital Centre,7737,/boxscores/198102170WSB.html
+Wed Feb 18 1981,Golden State Warriors,Chicago Bulls,103,100,Oakland-Alameda County Coliseum Arena,10317,/boxscores/198102180GSW.html
+Wed Feb 18 1981,Indiana Pacers,Atlanta Hawks,96,99,Market Square Arena,7377,/boxscores/198102180IND.html
+Wed Feb 18 1981,Kansas City Kings,Boston Celtics,114,113,Kemper Arena,11810,/boxscores/198102180KCK.html
+Wed Feb 18 1981,New Jersey Nets,Cleveland Cavaliers,110,108,Rutgers Athletic Center,7296,/boxscores/198102180NJN.html
+Wed Feb 18 1981,Philadelphia 76ers,Detroit Pistons,111,97,The Spectrum,8851,/boxscores/198102180PHI.html
+Wed Feb 18 1981,Seattle SuperSonics,New York Knicks,103,105,Seattle Kingdome,14749,/boxscores/198102180SEA.html
+Thu Feb 19 1981,Cleveland Cavaliers,San Antonio Spurs,118,104,Coliseum at Richfield,5574,/boxscores/198102190CLE.html
+Thu Feb 19 1981,Denver Nuggets,Phoenix Suns,127,126,McNichols Sports Arena,15252,/boxscores/198102190DEN.html
+Thu Feb 19 1981,Detroit Pistons,Portland Trail Blazers,106,115,Pontiac Silverdome,3107,/boxscores/198102190DET.html
+Thu Feb 19 1981,San Diego Clippers,Houston Rockets,116,99,San Diego Sports Arena,5787,/boxscores/198102190SDC.html
+Thu Feb 19 1981,Washington Bullets,Philadelphia 76ers,129,108,Capital Centre,19035,/boxscores/198102190WSB.html
+Fri Feb 20 1981,Golden State Warriors,San Diego Clippers,114,115,Oakland-Alameda County Coliseum Arena,10808,/boxscores/198102200GSW.html
+Fri Feb 20 1981,Indiana Pacers,San Antonio Spurs,109,106,Market Square Arena,10419,/boxscores/198102200IND.html
+Fri Feb 20 1981,Kansas City Kings,Milwaukee Bucks,112,109,Kemper Arena,11046,/boxscores/198102200KCK.html
+Fri Feb 20 1981,Los Angeles Lakers,Houston Rockets,107,110,The Forum,14470,/boxscores/198102200LAL.html
+Fri Feb 20 1981,New Jersey Nets,Portland Trail Blazers,123,113,Rutgers Athletic Center,8224,/boxscores/198102200NJN.html
+Fri Feb 20 1981,New York Knicks,Washington Bullets,124,112,Madison Square Garden (IV),11092,/boxscores/198102200NYK.html
+Fri Feb 20 1981,Philadelphia 76ers,Dallas Mavericks,117,109,The Spectrum,10642,/boxscores/198102200PHI.html
+Fri Feb 20 1981,Seattle SuperSonics,Phoenix Suns,112,111,Seattle Kingdome,21407,/boxscores/198102200SEA.html
+Fri Feb 20 1981,Utah Jazz,Chicago Bulls,84,92,Salt Palace,7282,/boxscores/198102200UTA.html
+Sat Feb 21 1981,Cleveland Cavaliers,Atlanta Hawks,105,118,Coliseum at Richfield,8231,/boxscores/198102210CLE.html
+Sat Feb 21 1981,Denver Nuggets,Kansas City Kings,129,109,McNichols Sports Arena,13691,/boxscores/198102210DEN.html
+Sat Feb 21 1981,Detroit Pistons,Boston Celtics,119,130,Pontiac Silverdome,13043,/boxscores/198102210DET.html
+Sun Feb 22 1981,Chicago Bulls,Atlanta Hawks,116,121,Chicago Stadium,7109,/boxscores/198102220CHI.html
+Sun Feb 22 1981,Golden State Warriors,Kansas City Kings,104,96,Oakland-Alameda County Coliseum Arena,9533,/boxscores/198102220GSW.html
+Sun Feb 22 1981,Indiana Pacers,Portland Trail Blazers,109,113,Market Square Arena,8894,/boxscores/198102220IND.html
+Sun Feb 22 1981,New Jersey Nets,Dallas Mavericks,109,132,Rutgers Athletic Center,7849,/boxscores/198102220NJN.html
+Sun Feb 22 1981,New York Knicks,Los Angeles Lakers,93,96,Madison Square Garden (IV),19591,/boxscores/198102220NYK.html
+Sun Feb 22 1981,Phoenix Suns,Philadelphia 76ers,116,110,Arizona Veterans Memorial Coliseum,12660,/boxscores/198102220PHO.html
+Sun Feb 22 1981,San Antonio Spurs,Denver Nuggets,133,129,HemisFair Arena,8668,/boxscores/198102220SAS.html
+Sun Feb 22 1981,San Diego Clippers,Utah Jazz,108,93,San Diego Sports Arena,7837,/boxscores/198102220SDC.html
+Sun Feb 22 1981,Seattle SuperSonics,Houston Rockets,96,111,Seattle Kingdome,18529,/boxscores/198102220SEA.html
+Sun Feb 22 1981,Washington Bullets,Milwaukee Bucks,93,102,Capital Centre,9823,/boxscores/198102220WSB.html
+Mon Feb 23 1981,Utah Jazz,Houston Rockets,102,106,Salt Palace,6147,/boxscores/198102230UTA.html
+Tue Feb 24 1981,Atlanta Hawks,New York Knicks,117,120,Omni Coliseum,7054,/boxscores/198102240ATL.html
+Tue Feb 24 1981,Chicago Bulls,Los Angeles Lakers,97,107,Chicago Stadium,16518,/boxscores/198102240CHI.html
+Tue Feb 24 1981,Dallas Mavericks,Seattle SuperSonics,84,102,Reunion Arena,6525,/boxscores/198102240DAL.html
+Tue Feb 24 1981,Denver Nuggets,New Jersey Nets,140,123,McNichols Sports Arena,9023,/boxscores/198102240DEN.html
+Tue Feb 24 1981,Portland Trail Blazers,San Diego Clippers,107,121,Memorial Coliseum,12666,/boxscores/198102240POR.html
+Tue Feb 24 1981,San Antonio Spurs,Golden State Warriors,131,126,HemisFair Arena,9163,/boxscores/198102240SAS.html
+Wed Feb 25 1981,Boston Celtics,Cleveland Cavaliers,124,103,Boston Garden,15320,/boxscores/198102250BOS.html
+Wed Feb 25 1981,Houston Rockets,Indiana Pacers,101,100,The Summit,13121,/boxscores/198102250HOU.html
+Wed Feb 25 1981,Milwaukee Bucks,Los Angeles Lakers,126,108,MECCA Arena,11052,/boxscores/198102250MIL.html
+Wed Feb 25 1981,San Diego Clippers,Philadelphia 76ers,95,107,San Diego Sports Arena,13841,/boxscores/198102250SDC.html
+Wed Feb 25 1981,Utah Jazz,New Jersey Nets,132,106,Salt Palace,5510,/boxscores/198102250UTA.html
+Wed Feb 25 1981,Washington Bullets,New York Knicks,120,105,Capital Centre,12015,/boxscores/198102250WSB.html
+Thu Feb 26 1981,Kansas City Kings,Dallas Mavericks,105,102,Kemper Arena,8701,/boxscores/198102260KCK.html
+Thu Feb 26 1981,San Antonio Spurs,Seattle SuperSonics,123,113,HemisFair Arena,10865,/boxscores/198102260SAS.html
+Fri Feb 27 1981,Atlanta Hawks,Boston Celtics,102,132,Omni Coliseum,11897,/boxscores/198102270ATL.html
+Fri Feb 27 1981,Chicago Bulls,Washington Bullets,112,100,Chicago Stadium,11512,/boxscores/198102270CHI.html
+Fri Feb 27 1981,Dallas Mavericks,Indiana Pacers,111,118,Reunion Arena,7359,/boxscores/198102270DAL.html
+Fri Feb 27 1981,Denver Nuggets,Golden State Warriors,137,130,McNichols Sports Arena,9658,/boxscores/198102270DEN.html
+Fri Feb 27 1981,Detroit Pistons,Cleveland Cavaliers,118,109,Pontiac Silverdome,5003,/boxscores/198102270DET.html
+Fri Feb 27 1981,Houston Rockets,Seattle SuperSonics,96,92,The Summit,13947,/boxscores/198102270HOU.html
+Fri Feb 27 1981,Los Angeles Lakers,New Jersey Nets,107,103,The Forum,17505,/boxscores/198102270LAL.html
+Fri Feb 27 1981,Portland Trail Blazers,Phoenix Suns,121,117,Memorial Coliseum,12666,/boxscores/198102270POR.html
+Fri Feb 27 1981,Utah Jazz,Philadelphia 76ers,83,87,Salt Palace,12449,/boxscores/198102270UTA.html
+Sat Feb 28 1981,Houston Rockets,San Diego Clippers,103,104,The Summit,10383,/boxscores/198102280HOU.html
+Sat Feb 28 1981,Kansas City Kings,Golden State Warriors,101,110,Kemper Arena,8498,/boxscores/198102280KCK.html
+Sat Feb 28 1981,New York Knicks,Chicago Bulls,97,101,Madison Square Garden (IV),12757,/boxscores/198102280NYK.html

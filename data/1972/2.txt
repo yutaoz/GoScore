@@ -1,0 +1,137 @@
+Tue Feb 1 1972,Baltimore Bullets,Boston Celtics,108,115,Baltimore Civic Center,0,/boxscores/197202010BAL.html
+Tue Feb 1 1972,Buffalo Braves,Cleveland Cavaliers,99,104,Buffalo Memorial Auditorium,0,/boxscores/197202010BUF.html
+Tue Feb 1 1972,Chicago Bulls,Seattle SuperSonics,103,121,Chicago Stadium,0,/boxscores/197202010CHI.html
+Tue Feb 1 1972,Golden State Warriors,Milwaukee Bucks,97,108,San Diego Sports Arena,0,/boxscores/197202010GSW.html
+Tue Feb 1 1972,New York Knicks,Detroit Pistons,115,106,Madison Square Garden (IV),0,/boxscores/197202010NYK.html
+Tue Feb 1 1972,Portland Trail Blazers,Phoenix Suns,117,129,Memorial Coliseum,0,/boxscores/197202010POR.html
+Wed Feb 2 1972,Boston Celtics,Chicago Bulls,124,100,Boston Garden,0,/boxscores/197202020BOS.html
+Wed Feb 2 1972,Cincinnati Royals,New York Knicks,116,105,Cincinnati Gardens,0,/boxscores/197202020CIN.html
+Wed Feb 2 1972,Detroit Pistons,Cleveland Cavaliers,133,108,Cobo Arena,0,/boxscores/197202020DET.html
+Wed Feb 2 1972,Houston Rockets,Seattle SuperSonics,111,88,HemisFair Arena,0,/boxscores/197202020HOU.html
+Wed Feb 2 1972,Philadelphia 76ers,Buffalo Braves,119,104,The Spectrum,0,/boxscores/197202020PHI.html
+Wed Feb 2 1972,Phoenix Suns,Milwaukee Bucks,103,106,Arizona Veterans Memorial Coliseum,0,/boxscores/197202020PHO.html
+Thu Feb 3 1972,Golden State Warriors,Atlanta Hawks,132,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202030GSW.html
+Fri Feb 4 1972,Baltimore Bullets,Chicago Bulls,108,110,Baltimore Civic Center,0,/boxscores/197202040BAL.html
+Fri Feb 4 1972,Boston Celtics,Cincinnati Royals,122,109,Boston Garden,0,/boxscores/197202040BOS.html
+Fri Feb 4 1972,Buffalo Braves,New York Knicks,84,103,Buffalo Memorial Auditorium,0,/boxscores/197202040BUF.html
+Fri Feb 4 1972,Cleveland Cavaliers,Seattle SuperSonics,112,118,Cleveland Arena,0,/boxscores/197202040CLE.html
+Fri Feb 4 1972,Los Angeles Lakers,Milwaukee Bucks,118,105,The Forum,0,/boxscores/197202040LAL.html
+Fri Feb 4 1972,Philadelphia 76ers,Detroit Pistons,113,118,The Spectrum,0,/boxscores/197202040PHI.html
+Fri Feb 4 1972,Phoenix Suns,Golden State Warriors,113,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197202040PHO.html
+Fri Feb 4 1972,Portland Trail Blazers,Houston Rockets,114,113,Memorial Coliseum,0,/boxscores/197202040POR.html
+Sat Feb 5 1972,Atlanta Hawks,Cleveland Cavaliers,120,117,Alexander Memorial Coliseum,0,/boxscores/197202050ATL.html
+Sat Feb 5 1972,Chicago Bulls,Buffalo Braves,130,96,Chicago Stadium,0,/boxscores/197202050CHI.html
+Sat Feb 5 1972,Cincinnati Royals,Detroit Pistons,133,132,Cincinnati Gardens,0,/boxscores/197202050CIN.html
+Sat Feb 5 1972,Golden State Warriors,Los Angeles Lakers,96,108,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202050GSW.html
+Sat Feb 5 1972,Houston Rockets,Milwaukee Bucks,112,119,Hofheinz Pavilion,0,/boxscores/197202050HOU.html
+Sat Feb 5 1972,New York Knicks,Philadelphia 76ers,112,104,Madison Square Garden (IV),0,/boxscores/197202050NYK.html
+Sat Feb 5 1972,Portland Trail Blazers,Phoenix Suns,117,118,Memorial Coliseum,0,/boxscores/197202050POR.html
+Sun Feb 6 1972,Boston Celtics,Seattle SuperSonics,128,123,Boston Garden,0,/boxscores/197202060BOS.html
+Sun Feb 6 1972,Chicago Bulls,Cincinnati Royals,119,94,Chicago Stadium,0,/boxscores/197202060CHI.html
+Sun Feb 6 1972,Cleveland Cavaliers,Buffalo Braves,108,121,Cleveland Arena,0,/boxscores/197202060CLE.html
+Sun Feb 6 1972,Houston Rockets,Atlanta Hawks,120,113,Hofheinz Pavilion,0,/boxscores/197202060HOU.html
+Sun Feb 6 1972,Los Angeles Lakers,Baltimore Bullets,151,127,The Forum,0,/boxscores/197202060LAL.html
+Sun Feb 6 1972,Philadelphia 76ers,New York Knicks,107,109,The Spectrum,0,/boxscores/197202060PHI.html
+Sun Feb 6 1972,Phoenix Suns,Portland Trail Blazers,107,94,Arizona Veterans Memorial Coliseum,0,/boxscores/197202060PHO.html
+Tue Feb 8 1972,Buffalo Braves,Milwaukee Bucks,108,126,Buffalo Memorial Auditorium,0,/boxscores/197202080BUF.html
+Tue Feb 8 1972,Chicago Bulls,Cleveland Cavaliers,114,90,Chicago Stadium,0,/boxscores/197202080CHI.html
+Tue Feb 8 1972,Golden State Warriors,Baltimore Bullets,111,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202080GSW.html
+Tue Feb 8 1972,Houston Rockets,Seattle SuperSonics,119,127,Memorial Coliseum,0,/boxscores/197202080HOU.html
+Tue Feb 8 1972,New York Knicks,Los Angeles Lakers,102,107,Madison Square Garden (IV),0,/boxscores/197202080NYK.html
+Tue Feb 8 1972,Phoenix Suns,Philadelphia 76ers,120,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197202080PHO.html
+Tue Feb 8 1972,Portland Trail Blazers,Cincinnati Royals,104,100,Memorial Coliseum,0,/boxscores/197202080POR.html
+Wed Feb 9 1972,Atlanta Hawks,Los Angeles Lakers,113,117,Alexander Memorial Coliseum,0,/boxscores/197202090ATL.html
+Wed Feb 9 1972,Boston Celtics,Buffalo Braves,139,112,Boston Garden,0,/boxscores/197202090BOS.html
+Wed Feb 9 1972,Cleveland Cavaliers,Milwaukee Bucks,121,126,Cleveland Arena,0,/boxscores/197202090CLE.html
+Wed Feb 9 1972,Detroit Pistons,New York Knicks,102,126,Cobo Arena,0,/boxscores/197202090DET.html
+Thu Feb 10 1972,Golden State Warriors,Philadelphia 76ers,121,112,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202100GSW.html
+Thu Feb 10 1972,Phoenix Suns,Baltimore Bullets,131,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197202100PHO.html
+Thu Feb 10 1972,Seattle SuperSonics,Cincinnati Royals,118,96,Seattle Center Coliseum,0,/boxscores/197202100SEA.html
+Fri Feb 11 1972,Boston Celtics,Los Angeles Lakers,121,108,Boston Garden,0,/boxscores/197202110BOS.html
+Fri Feb 11 1972,Buffalo Braves,Detroit Pistons,95,88,Buffalo Memorial Auditorium,0,/boxscores/197202110BUF.html
+Fri Feb 11 1972,Chicago Bulls,Atlanta Hawks,102,91,Chicago Stadium,0,/boxscores/197202110CHI.html
+Fri Feb 11 1972,Houston Rockets,Baltimore Bullets,116,95,Hofheinz Pavilion,0,/boxscores/197202110HOU.html
+Fri Feb 11 1972,Milwaukee Bucks,New York Knicks,107,113,Milwaukee Arena,0,/boxscores/197202110MIL.html
+Fri Feb 11 1972,Portland Trail Blazers,Philadelphia 76ers,110,106,Memorial Coliseum,0,/boxscores/197202110POR.html
+Sat Feb 12 1972,Atlanta Hawks,Chicago Bulls,106,117,Alexander Memorial Coliseum,0,/boxscores/197202120ATL.html
+Sat Feb 12 1972,Detroit Pistons,Buffalo Braves,113,87,Cobo Arena,0,/boxscores/197202120DET.html
+Sat Feb 12 1972,Milwaukee Bucks,Golden State Warriors,123,100,Milwaukee Arena,0,/boxscores/197202120MIL.html
+Sat Feb 12 1972,New York Knicks,Cleveland Cavaliers,106,91,Madison Square Garden (IV),0,/boxscores/197202120NYK.html
+Sat Feb 12 1972,Phoenix Suns,Cincinnati Royals,117,95,Arizona Veterans Memorial Coliseum,0,/boxscores/197202120PHO.html
+Sat Feb 12 1972,Seattle SuperSonics,Portland Trail Blazers,125,97,Seattle Center Coliseum,0,/boxscores/197202120SEA.html
+Sun Feb 13 1972,Atlanta Hawks,Buffalo Braves,133,119,Alexander Memorial Coliseum,0,/boxscores/197202130ATL.html
+Sun Feb 13 1972,Baltimore Bullets,Los Angeles Lakers,110,121,Cole Field House,0,/boxscores/197202130BAL.html
+Sun Feb 13 1972,Boston Celtics,Milwaukee Bucks,109,117,Boston Garden,0,/boxscores/197202130BOS.html
+Sun Feb 13 1972,Chicago Bulls,Golden State Warriors,88,107,Chicago Stadium,0,/boxscores/197202130CHI.html
+Sun Feb 13 1972,Cleveland Cavaliers,Detroit Pistons,121,136,Cleveland Arena,0,/boxscores/197202130CLE.html
+Sun Feb 13 1972,Houston Rockets,Cincinnati Royals,112,111,Hofheinz Pavilion,0,/boxscores/197202130HOU.html
+Sun Feb 13 1972,Portland Trail Blazers,Seattle SuperSonics,117,127,Memorial Coliseum,0,/boxscores/197202130POR.html
+Mon Feb 14 1972,Philadelphia 76ers,Houston Rockets,116,130,The Spectrum,0,/boxscores/197202140PHI.html
+Tue Feb 15 1972,Baltimore Bullets,Houston Rockets,113,98,Baltimore Civic Center,0,/boxscores/197202150BAL.html
+Tue Feb 15 1972,Buffalo Braves,Golden State Warriors,100,103,Buffalo Memorial Auditorium,0,/boxscores/197202150BUF.html
+Tue Feb 15 1972,Detroit Pistons,Atlanta Hawks,105,113,Cobo Arena,0,/boxscores/197202150DET.html
+Tue Feb 15 1972,Los Angeles Lakers,Cincinnati Royals,125,118,The Forum,0,/boxscores/197202150LAL.html
+Tue Feb 15 1972,Portland Trail Blazers,Boston Celtics,104,111,Memorial Coliseum,0,/boxscores/197202150POR.html
+Wed Feb 16 1972,Atlanta Hawks,Baltimore Bullets,105,103,Alexander Memorial Coliseum,0,/boxscores/197202160ATL.html
+Wed Feb 16 1972,New York Knicks,Houston Rockets,110,100,Madison Square Garden (IV),0,/boxscores/197202160NYK.html
+Wed Feb 16 1972,Philadelphia 76ers,Cleveland Cavaliers,126,116,The Spectrum,0,/boxscores/197202160PHI.html
+Wed Feb 16 1972,Phoenix Suns,Los Angeles Lakers,110,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197202160PHO.html
+Wed Feb 16 1972,Seattle SuperSonics,Boston Celtics,113,112,Seattle Center Coliseum,0,/boxscores/197202160SEA.html
+Thu Feb 17 1972,Chicago Bulls,New York Knicks,99,102,Chicago Stadium,0,/boxscores/197202170CHI.html
+Thu Feb 17 1972,Cincinnati Royals,Milwaukee Bucks,97,111,Cincinnati Gardens,0,/boxscores/197202170CIN.html
+Fri Feb 18 1972,Baltimore Bullets,Atlanta Hawks,106,81,Baltimore Civic Center,0,/boxscores/197202180BAL.html
+Fri Feb 18 1972,Buffalo Braves,Houston Rockets,96,108,Buffalo Memorial Auditorium,0,/boxscores/197202180BUF.html
+Fri Feb 18 1972,Cleveland Cavaliers,Cincinnati Royals,133,109,Cleveland Arena,0,/boxscores/197202180CLE.html
+Fri Feb 18 1972,Detroit Pistons,Chicago Bulls,97,122,Cobo Arena,0,/boxscores/197202180DET.html
+Fri Feb 18 1972,Los Angeles Lakers,Portland Trail Blazers,125,114,The Forum,0,/boxscores/197202180LAL.html
+Fri Feb 18 1972,Milwaukee Bucks,Philadelphia 76ers,126,132,Milwaukee Arena,0,/boxscores/197202180MIL.html
+Fri Feb 18 1972,Phoenix Suns,Boston Celtics,126,115,Arizona Veterans Memorial Coliseum,0,/boxscores/197202180PHO.html
+Fri Feb 18 1972,Seattle SuperSonics,Golden State Warriors,110,108,Seattle Center Coliseum,0,/boxscores/197202180SEA.html
+Sat Feb 19 1972,Chicago Bulls,Milwaukee Bucks,104,97,Chicago Stadium,0,/boxscores/197202190CHI.html
+Sat Feb 19 1972,Cincinnati Royals,Cleveland Cavaliers,112,92,Cincinnati Gardens,0,/boxscores/197202190CIN.html
+Sat Feb 19 1972,Golden State Warriors,Boston Celtics,115,111,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202190GSW.html
+Sat Feb 19 1972,New York Knicks,Buffalo Braves,100,95,Madison Square Garden (IV),0,/boxscores/197202190NYK.html
+Sat Feb 19 1972,Philadelphia 76ers,Baltimore Bullets,105,121,The Spectrum,0,/boxscores/197202190PHI.html
+Sat Feb 19 1972,Portland Trail Blazers,Los Angeles Lakers,94,115,Memorial Coliseum,0,/boxscores/197202190POR.html
+Sun Feb 20 1972,Atlanta Hawks,Cincinnati Royals,92,101,Alexander Memorial Coliseum,0,/boxscores/197202200ATL.html
+Sun Feb 20 1972,Cleveland Cavaliers,New York Knicks,111,109,Cleveland Arena,0,/boxscores/197202200CLE.html
+Sun Feb 20 1972,Detroit Pistons,Phoenix Suns,107,121,Cobo Arena,0,/boxscores/197202200DET.html
+Sun Feb 20 1972,Los Angeles Lakers,Boston Celtics,132,113,The Forum,0,/boxscores/197202200LAL.html
+Sun Feb 20 1972,Milwaukee Bucks,Chicago Bulls,103,100,Milwaukee Arena,0,/boxscores/197202200MIL.html
+Sun Feb 20 1972,Seattle SuperSonics,Portland Trail Blazers,109,105,Seattle Center Coliseum,0,/boxscores/197202200SEA.html
+Mon Feb 21 1972,Baltimore Bullets,Philadelphia 76ers,102,101,Baltimore Civic Center,0,/boxscores/197202210BAL.html
+Tue Feb 22 1972,Boston Celtics,Phoenix Suns,114,103,Boston Garden,0,/boxscores/197202220BOS.html
+Tue Feb 22 1972,Buffalo Braves,Baltimore Bullets,99,98,Buffalo Memorial Auditorium,0,/boxscores/197202220BUF.html
+Tue Feb 22 1972,Chicago Bulls,Philadelphia 76ers,119,88,Chicago Stadium,0,/boxscores/197202220CHI.html
+Tue Feb 22 1972,Golden State Warriors,Seattle SuperSonics,120,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202220GSW.html
+Tue Feb 22 1972,Los Angeles Lakers,Detroit Pistons,134,135,The Forum,0,/boxscores/197202220LAL.html
+Tue Feb 22 1972,New York Knicks,Portland Trail Blazers,122,105,Madison Square Garden (IV),0,/boxscores/197202220NYK.html
+Wed Feb 23 1972,Atlanta Hawks,Phoenix Suns,120,118,Alexander Memorial Coliseum,0,/boxscores/197202230ATL.html
+Wed Feb 23 1972,Baltimore Bullets,Milwaukee Bucks,105,113,Baltimore Civic Center,0,/boxscores/197202230BAL.html
+Wed Feb 23 1972,Cincinnati Royals,Portland Trail Blazers,110,106,Cincinnati Gardens,0,/boxscores/197202230CIN.html
+Wed Feb 23 1972,Cleveland Cavaliers,Boston Celtics,111,113,Cleveland Arena,0,/boxscores/197202230CLE.html
+Wed Feb 23 1972,Houston Rockets,Los Angeles Lakers,115,110,Heart O' Texas Coliseum,0,/boxscores/197202230HOU.html
+Wed Feb 23 1972,Seattle SuperSonics,Detroit Pistons,97,96,Seattle Center Coliseum,0,/boxscores/197202230SEA.html
+Thu Feb 24 1972,Buffalo Braves,Cincinnati Royals,97,108,University of Dayton Arena,0,/boxscores/197202240BUF.html
+Thu Feb 24 1972,Golden State Warriors,Detroit Pistons,116,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202240GSW.html
+Fri Feb 25 1972,Atlanta Hawks,Philadelphia 76ers,110,114,Hersheypark Arena,0,/boxscores/197202250ATL.html
+Fri Feb 25 1972,Buffalo Braves,Boston Celtics,115,117,Buffalo Memorial Auditorium,0,/boxscores/197202250BUF.html
+Fri Feb 25 1972,Chicago Bulls,Phoenix Suns,115,107,Chicago Stadium,0,/boxscores/197202250CHI.html
+Fri Feb 25 1972,Cleveland Cavaliers,Portland Trail Blazers,113,104,Cleveland Arena,0,/boxscores/197202250CLE.html
+Fri Feb 25 1972,Los Angeles Lakers,Cincinnati Royals,109,88,The Forum,0,/boxscores/197202250LAL.html
+Sat Feb 26 1972,Golden State Warriors,Chicago Bulls,106,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202260GSW.html
+Sat Feb 26 1972,Houston Rockets,Detroit Pistons,122,106,Hofheinz Pavilion,0,/boxscores/197202260HOU.html
+Sat Feb 26 1972,Milwaukee Bucks,Phoenix Suns,119,117,Dane County Veteran Memorial Coliseum,0,/boxscores/197202260MIL.html
+Sat Feb 26 1972,New York Knicks,Baltimore Bullets,97,104,Madison Square Garden (IV),0,/boxscores/197202260NYK.html
+Sat Feb 26 1972,Seattle SuperSonics,Cincinnati Royals,122,106,Seattle Center Coliseum,0,/boxscores/197202260SEA.html
+Sun Feb 27 1972,Atlanta Hawks,Portland Trail Blazers,113,110,Alexander Memorial Coliseum,0,/boxscores/197202270ATL.html
+Sun Feb 27 1972,Baltimore Bullets,New York Knicks,95,97,Cole Field House,0,/boxscores/197202270BAL.html
+Sun Feb 27 1972,Cleveland Cavaliers,Phoenix Suns,125,127,Cleveland Arena,0,/boxscores/197202270CLE.html
+Sun Feb 27 1972,Houston Rockets,Golden State Warriors,104,117,Hofheinz Pavilion,0,/boxscores/197202270HOU.html
+Sun Feb 27 1972,Los Angeles Lakers,Chicago Bulls,123,118,The Forum,0,/boxscores/197202270LAL.html
+Tue Feb 29 1972,Baltimore Bullets,Seattle SuperSonics,117,118,Baltimore Civic Center,0,/boxscores/197202290BAL.html
+Tue Feb 29 1972,Buffalo Braves,Atlanta Hawks,89,99,Buffalo Memorial Auditorium,0,/boxscores/197202290BUF.html
+Tue Feb 29 1972,Golden State Warriors,Cincinnati Royals,128,120,Oakland-Alameda County Coliseum Arena,0,/boxscores/197202290GSW.html
+Tue Feb 29 1972,Milwaukee Bucks,Detroit Pistons,131,113,Milwaukee Arena,0,/boxscores/197202290MIL.html
+Tue Feb 29 1972,New York Knicks,Los Angeles Lakers,111,114,Madison Square Garden (IV),0,/boxscores/197202290NYK.html
+Tue Feb 29 1972,Portland Trail Blazers,Chicago Bulls,92,116,Memorial Coliseum,0,/boxscores/197202290POR.html

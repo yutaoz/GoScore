@@ -1,0 +1,48 @@
+Tue Oct 15 1968,New York Knicks,Chicago Bulls,96,100,Madison Square Garden (IV),0,/boxscores/196810150NYK.html
+Wed Oct 16 1968,Atlanta Hawks,Cincinnati Royals,110,125,Alexander Memorial Coliseum,0,/boxscores/196810160ATL.html
+Wed Oct 16 1968,Baltimore Bullets,Detroit Pistons,124,116,Baltimore Civic Center,0,/boxscores/196810160BAL.html
+Wed Oct 16 1968,Milwaukee Bucks,Chicago Bulls,84,89,Milwaukee Arena,0,/boxscores/196810160MIL.html
+Thu Oct 17 1968,San Diego Rockets,Seattle SuperSonics,128,110,San Diego Sports Arena,0,/boxscores/196810170SDR.html
+Fri Oct 18 1968,Detroit Pistons,Boston Celtics,88,106,Cobo Arena,0,/boxscores/196810180DET.html
+Fri Oct 18 1968,Philadelphia 76ers,Los Angeles Lakers,114,96,The Spectrum,0,/boxscores/196810180PHI.html
+Fri Oct 18 1968,Phoenix Suns,Seattle SuperSonics,116,107,Arizona Veterans Memorial Coliseum,0,/boxscores/196810180PHO.html
+Fri Oct 18 1968,San Francisco Warriors,San Diego Rockets,108,123,Cow Palace,0,/boxscores/196810180SFW.html
+Sat Oct 19 1968,Chicago Bulls,Boston Celtics,96,106,Chicago Stadium,0,/boxscores/196810190CHI.html
+Sat Oct 19 1968,Seattle SuperSonics,San Francisco Warriors,95,107,Seattle Center Coliseum,0,/boxscores/196810190SEA.html
+Sat Oct 19 1968,New York Knicks,Los Angeles Lakers,96,118,Madison Square Garden (IV),0,/boxscores/196810190NYK.html
+Sat Oct 19 1968,Cincinnati Royals,Detroit Pistons,127,115,Cincinnati Gardens,0,/boxscores/196810190CIN.html
+Sat Oct 19 1968,Baltimore Bullets,Philadelphia 76ers,121,124,Baltimore Civic Center,0,/boxscores/196810190BAL.html
+Sat Oct 19 1968,Atlanta Hawks,Milwaukee Bucks,125,107,Alexander Memorial Coliseum,0,/boxscores/196810190ATL.html
+Sun Oct 20 1968,Phoenix Suns,Baltimore Bullets,122,134,Arizona Veterans Memorial Coliseum,0,/boxscores/196810200PHO.html
+Mon Oct 21 1968,Baltimore Bullets,Seattle SuperSonics,111,104,Pacific Coliseum,0,/boxscores/196810210BAL.html
+Tue Oct 22 1968,Cincinnati Royals,Los Angeles Lakers,107,103,Cincinnati Gardens,0,/boxscores/196810220CIN.html
+Tue Oct 22 1968,New York Knicks,Philadelphia 76ers,117,114,Madison Square Garden (IV),0,/boxscores/196810220NYK.html
+Tue Oct 22 1968,San Francisco Warriors,Phoenix Suns,109,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/196810220SFW.html
+Wed Oct 23 1968,Seattle SuperSonics,San Diego Rockets,118,117,Seattle Center Coliseum,0,/boxscores/196810230SEA.html
+Wed Oct 23 1968,Milwaukee Bucks,New York Knicks,112,114,Milwaukee Arena,0,/boxscores/196810230MIL.html
+Wed Oct 23 1968,Boston Celtics,Cincinnati Royals,108,101,Boston Garden,0,/boxscores/196810230BOS.html
+Wed Oct 23 1968,Atlanta Hawks,Chicago Bulls,106,91,Alexander Memorial Coliseum,0,/boxscores/196810230ATL.html
+Wed Oct 23 1968,Detroit Pistons,Los Angeles Lakers,117,110,Cobo Arena,0,/boxscores/196810230DET.html
+Thu Oct 24 1968,Phoenix Suns,New York Knicks,109,92,Arizona Veterans Memorial Coliseum,0,/boxscores/196810240PHO.html
+Thu Oct 24 1968,San Diego Rockets,Baltimore Bullets,115,119,San Diego Sports Arena,0,/boxscores/196810240SDR.html
+Fri Oct 25 1968,Detroit Pistons,Philadelphia 76ers,132,122,Cobo Arena,0,/boxscores/196810250DET.html
+Fri Oct 25 1968,Los Angeles Lakers,Baltimore Bullets,117,111,The Forum,0,/boxscores/196810250LAL.html
+Fri Oct 25 1968,Seattle SuperSonics,Atlanta Hawks,123,112,Seattle Center Coliseum,0,/boxscores/196810250SEA.html
+Sat Oct 26 1968,Boston Celtics,Milwaukee Bucks,102,89,Boston Garden,0,/boxscores/196810260BOS.html
+Sat Oct 26 1968,New York Knicks,Cincinnati Royals,98,92,Madison Square Garden (IV),0,/boxscores/196810260NYK.html
+Sat Oct 26 1968,Philadelphia 76ers,Chicago Bulls,122,118,The Spectrum,0,/boxscores/196810260PHI.html
+Sat Oct 26 1968,San Francisco Warriors,Baltimore Bullets,107,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/196810260SFW.html
+Sun Oct 27 1968,Phoenix Suns,Atlanta Hawks,100,123,Arizona Veterans Memorial Coliseum,0,/boxscores/196810270PHO.html
+Sun Oct 27 1968,Seattle SuperSonics,Baltimore Bullets,114,126,Seattle Center Coliseum,0,/boxscores/196810270SEA.html
+Sun Oct 27 1968,Los Angeles Lakers,San Diego Rockets,152,116,The Forum,0,/boxscores/196810270LAL.html
+Tue Oct 29 1968,Boston Celtics,Chicago Bulls,97,103,Madison Square Garden (IV),0,/boxscores/196810290BOS.html
+Tue Oct 29 1968,Los Angeles Lakers,Atlanta Hawks,125,124,The Forum,0,/boxscores/196810290LAL.html
+Tue Oct 29 1968,Milwaukee Bucks,Baltimore Bullets,112,129,Milwaukee Arena,0,/boxscores/196810290MIL.html
+Tue Oct 29 1968,New York Knicks,San Francisco Warriors,110,97,Madison Square Garden (IV),0,/boxscores/196810290NYK.html
+Wed Oct 30 1968,Baltimore Bullets,San Francisco Warriors,112,110,Baltimore Civic Center,0,/boxscores/196810300BAL.html
+Wed Oct 30 1968,Boston Celtics,Detroit Pistons,117,119,Boston Garden,0,/boxscores/196810300BOS.html
+Wed Oct 30 1968,Cincinnati Royals,New York Knicks,118,114,Cincinnati Gardens,0,/boxscores/196810300CIN.html
+Wed Oct 30 1968,San Diego Rockets,Atlanta Hawks,127,116,San Diego Sports Arena,0,/boxscores/196810300SDR.html
+Wed Oct 30 1968,Seattle SuperSonics,Phoenix Suns,108,115,Seattle Center Coliseum,0,/boxscores/196810300SEA.html
+Thu Oct 31 1968,Milwaukee Bucks,Detroit Pistons,134,118,Milwaukee Arena,0,/boxscores/196810310MIL.html
+Thu Oct 31 1968,Phoenix Suns,Chicago Bulls,112,103,Arizona Veterans Memorial Coliseum,0,/boxscores/196810310PHO.html

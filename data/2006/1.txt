@@ -1,0 +1,227 @@
+Sun Jan 1 2006,Miami Heat,Minnesota Timberwolves,97,70,AmericanAirlines Arena,20274,/boxscores/200601010MIA.html
+Sun Jan 1 2006,Portland Trail Blazers,Los Angeles Clippers,94,100,Rose Garden Arena,13792,/boxscores/200601010POR.html
+Sun Jan 1 2006,Los Angeles Lakers,Utah Jazz,94,98,STAPLES Center,18310,/boxscores/200601010LAL.html
+Mon Jan 2 2006,Indiana Pacers,Seattle SuperSonics,115,96,Conseco Fieldhouse,14073,/boxscores/200601020IND.html
+Mon Jan 2 2006,New York Knicks,Phoenix Suns,140,133,Madison Square Garden (IV),19763,/boxscores/200601020NYK.html
+Mon Jan 2 2006,New Orleans/Oklahoma City Hornets,Charlotte Bobcats,103,86,Ford Center,17683,/boxscores/200601020NOK.html
+Mon Jan 2 2006,Chicago Bulls,Milwaukee Bucks,92,93,United Center,20968,/boxscores/200601020CHI.html
+Mon Jan 2 2006,Denver Nuggets,Boston Celtics,120,110,Pepsi Center,14722,/boxscores/200601020DEN.html
+Tue Jan 3 2006,Atlanta Hawks,Toronto Raptors,97,108,Philips Arena,10048,/boxscores/200601030ATL.html
+Tue Jan 3 2006,Washington Wizards,Houston Rockets,111,123,MCI Center,14883,/boxscores/200601030WAS.html
+Tue Jan 3 2006,Detroit Pistons,Orlando Magic,108,99,The Palace of Auburn Hills,22076,/boxscores/200601030DET.html
+Tue Jan 3 2006,Memphis Grizzlies,Golden State Warriors,104,94,FedEx Forum,14697,/boxscores/200601030MEM.html
+Tue Jan 3 2006,Dallas Mavericks,Portland Trail Blazers,95,81,American Airlines Center,20018,/boxscores/200601030DAL.html
+Tue Jan 3 2006,Utah Jazz,Los Angeles Lakers,90,80,Delta Center,19013,/boxscores/200601030UTA.html
+Tue Jan 3 2006,Sacramento Kings,Philadelphia 76ers,98,111,ARCO Arena (II),17317,/boxscores/200601030SAC.html
+Wed Jan 4 2006,Toronto Raptors,Orlando Magic,121,97,Air Canada Centre,14085,/boxscores/200601040TOR.html
+Wed Jan 4 2006,Boston Celtics,Charlotte Bobcats,109,106,TD Banknorth Garden,14202,/boxscores/200601040BOS.html
+Wed Jan 4 2006,Milwaukee Bucks,Cleveland Cavaliers,84,91,Bradley Center,15785,/boxscores/200601040MIL.html
+Wed Jan 4 2006,Minnesota Timberwolves,Dallas Mavericks,91,78,Target Center,15702,/boxscores/200601040MIN.html
+Wed Jan 4 2006,New Orleans/Oklahoma City Hornets,Miami Heat,107,92,Ford Center,19326,/boxscores/200601040NOK.html
+Wed Jan 4 2006,Chicago Bulls,Seattle SuperSonics,97,101,United Center,19418,/boxscores/200601040CHI.html
+Wed Jan 4 2006,San Antonio Spurs,Portland Trail Blazers,106,75,SBC Center,18797,/boxscores/200601040SAS.html
+Wed Jan 4 2006,Denver Nuggets,Indiana Pacers,106,86,Pepsi Center,14041,/boxscores/200601040DEN.html
+Wed Jan 4 2006,Phoenix Suns,Philadelphia 76ers,105,85,America West Arena,18301,/boxscores/200601040PHO.html
+Thu Jan 5 2006,Cleveland Cavaliers,Houston Rockets,81,90,Gund Arena,18019,/boxscores/200601050CLE.html
+Thu Jan 5 2006,Golden State Warriors,Indiana Pacers,89,99,Oakland Arena,18237,/boxscores/200601050GSW.html
+Fri Jan 6 2006,Toronto Raptors,Houston Rockets,112,92,Air Canada Centre,17460,/boxscores/200601060TOR.html
+Fri Jan 6 2006,Boston Celtics,Atlanta Hawks,98,103,TD Banknorth Garden,17015,/boxscores/200601060BOS.html
+Fri Jan 6 2006,New Jersey Nets,Orlando Magic,113,106,Continental Airlines Arena,15332,/boxscores/200601060NJN.html
+Fri Jan 6 2006,New York Knicks,Washington Wizards,113,92,Madison Square Garden (IV),17977,/boxscores/200601060NYK.html
+Fri Jan 6 2006,Detroit Pistons,Seattle SuperSonics,97,85,The Palace of Auburn Hills,22076,/boxscores/200601060DET.html
+Fri Jan 6 2006,Memphis Grizzlies,Utah Jazz,87,65,FedEx Forum,17019,/boxscores/200601060MEM.html
+Fri Jan 6 2006,New Orleans/Oklahoma City Hornets,Portland Trail Blazers,90,80,Ford Center,18995,/boxscores/200601060NOK.html
+Fri Jan 6 2006,San Antonio Spurs,Minnesota Timberwolves,83,77,SBC Center,18797,/boxscores/200601060SAS.html
+Fri Jan 6 2006,Milwaukee Bucks,Chicago Bulls,91,105,Bradley Center,17214,/boxscores/200601060MIL.html
+Fri Jan 6 2006,Denver Nuggets,Dallas Mavericks,112,114,Pepsi Center,18256,/boxscores/200601060DEN.html
+Fri Jan 6 2006,Sacramento Kings,Los Angeles Clippers,118,114,ARCO Arena (II),17317,/boxscores/200601060SAC.html
+Fri Jan 6 2006,Los Angeles Lakers,Philadelphia 76ers,119,93,STAPLES Center,18997,/boxscores/200601060LAL.html
+Fri Jan 6 2006,Phoenix Suns,Miami Heat,111,93,America West Arena,18422,/boxscores/200601060PHO.html
+Sat Jan 7 2006,Atlanta Hawks,New Orleans/Oklahoma City Hornets,101,93,Philips Arena,11332,/boxscores/200601070ATL.html
+Sat Jan 7 2006,Orlando Magic,Charlotte Bobcats,108,92,TD Waterhouse Centre,16059,/boxscores/200601070ORL.html
+Sat Jan 7 2006,Washington Wizards,Boston Celtics,103,102,MCI Center,20173,/boxscores/200601070WAS.html
+Sat Jan 7 2006,Cleveland Cavaliers,Milwaukee Bucks,96,88,Gund Arena,19840,/boxscores/200601070CLE.html
+Sat Jan 7 2006,Detroit Pistons,Utah Jazz,90,94,The Palace of Auburn Hills,22076,/boxscores/200601070DET.html
+Sat Jan 7 2006,Chicago Bulls,Memphis Grizzlies,111,82,United Center,20378,/boxscores/200601070CHI.html
+Sat Jan 7 2006,Dallas Mavericks,Minnesota Timberwolves,83,79,American Airlines Center,20151,/boxscores/200601070DAL.html
+Sat Jan 7 2006,Phoenix Suns,San Antonio Spurs,91,86,America West Arena,18422,/boxscores/200601070PHO.html
+Sat Jan 7 2006,Los Angeles Clippers,Los Angeles Lakers,109,112,STAPLES Center,20154,/boxscores/200601070LAC.html
+Sun Jan 8 2006,New York Knicks,Seattle SuperSonics,120,116,Madison Square Garden (IV),17191,/boxscores/200601080NYK.html
+Sun Jan 8 2006,Toronto Raptors,New Jersey Nets,104,105,Air Canada Centre,18935,/boxscores/200601080TOR.html
+Sun Jan 8 2006,Houston Rockets,Denver Nuggets,90,92,Toyota Center,15316,/boxscores/200601080HOU.html
+Sun Jan 8 2006,Portland Trail Blazers,Miami Heat,89,118,Rose Garden Arena,18032,/boxscores/200601080POR.html
+Sun Jan 8 2006,Sacramento Kings,Indiana Pacers,83,108,ARCO Arena (II),17317,/boxscores/200601080SAC.html
+Mon Jan 9 2006,Philadelphia 76ers,Seattle SuperSonics,107,98,Wachovia Center,15695,/boxscores/200601090PHI.html
+Mon Jan 9 2006,Washington Wizards,Utah Jazz,89,97,MCI Center,12797,/boxscores/200601090WAS.html
+Mon Jan 9 2006,Boston Celtics,Dallas Mavericks,102,104,TD Banknorth Garden,15064,/boxscores/200601090BOS.html
+Mon Jan 9 2006,Chicago Bulls,Toronto Raptors,113,104,United Center,21103,/boxscores/200601090CHI.html
+Mon Jan 9 2006,Los Angeles Lakers,Indiana Pacers,96,90,STAPLES Center,18997,/boxscores/200601090LAL.html
+Tue Jan 10 2006,Atlanta Hawks,Boston Celtics,94,98,Philips Arena,12882,/boxscores/200601100ATL.html
+Tue Jan 10 2006,Cleveland Cavaliers,New York Knicks,84,92,Gund Arena,18064,/boxscores/200601100CLE.html
+Tue Jan 10 2006,Charlotte Bobcats,Houston Rockets,111,106,Charlotte Bobcats Arena,14738,/boxscores/200601100CHA.html
+Tue Jan 10 2006,Memphis Grizzlies,Sacramento Kings,99,85,FedEx Forum,14081,/boxscores/200601100MEM.html
+Tue Jan 10 2006,Milwaukee Bucks,Minnesota Timberwolves,95,92,Bradley Center,15417,/boxscores/200601100MIL.html
+Tue Jan 10 2006,New Orleans/Oklahoma City Hornets,Detroit Pistons,86,96,Ford Center,19260,/boxscores/200601100NOK.html
+Tue Jan 10 2006,San Antonio Spurs,New Jersey Nets,96,91,SBC Center,18797,/boxscores/200601100SAS.html
+Tue Jan 10 2006,Denver Nuggets,Phoenix Suns,139,137,Pepsi Center,14492,/boxscores/200601100DEN.html
+Tue Jan 10 2006,Los Angeles Clippers,Orlando Magic,90,73,STAPLES Center,15019,/boxscores/200601100LAC.html
+Wed Jan 11 2006,Indiana Pacers,Milwaukee Bucks,112,88,Conseco Fieldhouse,14149,/boxscores/200601110IND.html
+Wed Jan 11 2006,Philadelphia 76ers,Utah Jazz,102,110,Wachovia Center,12938,/boxscores/200601110PHI.html
+Wed Jan 11 2006,Toronto Raptors,Charlotte Bobcats,95,86,Air Canada Centre,14098,/boxscores/200601110TOR.html
+Wed Jan 11 2006,Washington Wizards,Atlanta Hawks,103,72,MCI Center,12632,/boxscores/200601110WAS.html
+Wed Jan 11 2006,New York Knicks,Dallas Mavericks,117,115,Madison Square Garden (IV),17469,/boxscores/200601110NYK.html
+Wed Jan 11 2006,Minnesota Timberwolves,Chicago Bulls,99,93,Target Center,15177,/boxscores/200601110MIN.html
+Wed Jan 11 2006,Houston Rockets,Sacramento Kings,80,88,Toyota Center,12252,/boxscores/200601110HOU.html
+Wed Jan 11 2006,Portland Trail Blazers,Los Angeles Lakers,113,103,Rose Garden Arena,16421,/boxscores/200601110POR.html
+Wed Jan 11 2006,Seattle SuperSonics,Orlando Magic,113,104,KeyArena at Seattle Center,16670,/boxscores/200601110SEA.html
+Wed Jan 11 2006,Golden State Warriors,Miami Heat,96,110,Oakland Arena,20075,/boxscores/200601110GSW.html
+Thu Jan 12 2006,San Antonio Spurs,Detroit Pistons,68,83,SBC Center,18797,/boxscores/200601120SAS.html
+Thu Jan 12 2006,Phoenix Suns,Golden State Warriors,112,99,America West Arena,18037,/boxscores/200601120PHO.html
+Thu Jan 12 2006,Los Angeles Lakers,Cleveland Cavaliers,99,98,STAPLES Center,18997,/boxscores/200601120LAL.html
+Fri Jan 13 2006,Indiana Pacers,Washington Wizards,85,94,Conseco Fieldhouse,16094,/boxscores/200601130IND.html
+Fri Jan 13 2006,Charlotte Bobcats,Milwaukee Bucks,102,103,Charlotte Bobcats Arena,15212,/boxscores/200601130CHA.html
+Fri Jan 13 2006,New York Knicks,Atlanta Hawks,105,94,Madison Square Garden (IV),16774,/boxscores/200601130NYK.html
+Fri Jan 13 2006,Memphis Grizzlies,New Jersey Nets,81,69,FedEx Forum,17221,/boxscores/200601130MEM.html
+Fri Jan 13 2006,Minnesota Timberwolves,Denver Nuggets,103,89,Target Center,18417,/boxscores/200601130MIN.html
+Fri Jan 13 2006,New Orleans/Oklahoma City Hornets,Sacramento Kings,90,76,LLoyd Noble Center,11343,/boxscores/200601130NOK.html
+Fri Jan 13 2006,Philadelphia 76ers,Boston Celtics,125,124,Wachovia Center,20338,/boxscores/200601130PHI.html
+Fri Jan 13 2006,Portland Trail Blazers,Orlando Magic,113,108,Rose Garden Arena,12301,/boxscores/200601130POR.html
+Fri Jan 13 2006,Seattle SuperSonics,Miami Heat,104,117,KeyArena at Seattle Center,17072,/boxscores/200601130SEA.html
+Sat Jan 14 2006,Atlanta Hawks,Washington Wizards,106,114,Philips Arena,13992,/boxscores/200601140ATL.html
+Sat Jan 14 2006,Detroit Pistons,Charlotte Bobcats,114,91,The Palace of Auburn Hills,22076,/boxscores/200601140DET.html
+Sat Jan 14 2006,Chicago Bulls,Indiana Pacers,89,91,United Center,22011,/boxscores/200601140CHI.html
+Sat Jan 14 2006,Dallas Mavericks,New Jersey Nets,110,77,American Airlines Center,20367,/boxscores/200601140DAL.html
+Sat Jan 14 2006,Houston Rockets,New Orleans/Oklahoma City Hornets,80,86,Toyota Center,14724,/boxscores/200601140HOU.html
+Sat Jan 14 2006,Milwaukee Bucks,Denver Nuggets,93,100,Bradley Center,18717,/boxscores/200601140MIL.html
+Sat Jan 14 2006,San Antonio Spurs,Memphis Grizzlies,80,79,SBC Center,18797,/boxscores/200601140SAS.html
+Sat Jan 14 2006,Phoenix Suns,Cleveland Cavaliers,115,106,America West Arena,18422,/boxscores/200601140PHO.html
+Sat Jan 14 2006,Utah Jazz,Miami Heat,94,100,Delta Center,19911,/boxscores/200601140UTA.html
+Sat Jan 14 2006,Golden State Warriors,Los Angeles Lakers,104,110,Oakland Arena,20179,/boxscores/200601140GSW.html
+Sat Jan 14 2006,Los Angeles Clippers,Seattle SuperSonics,98,72,STAPLES Center,18099,/boxscores/200601140LAC.html
+Sun Jan 15 2006,Toronto Raptors,New York Knicks,129,103,Air Canada Centre,17393,/boxscores/200601150TOR.html
+Sun Jan 15 2006,Portland Trail Blazers,Cleveland Cavaliers,89,87,Rose Garden Arena,19383,/boxscores/200601150POR.html
+Sun Jan 15 2006,Sacramento Kings,Orlando Magic,104,100,ARCO Arena (II),17317,/boxscores/200601150SAC.html
+Mon Jan 16 2006,Charlotte Bobcats,New Orleans/Oklahoma City Hornets,92,107,Charlotte Bobcats Arena,15303,/boxscores/200601160CHA.html
+Mon Jan 16 2006,New York Knicks,Minnesota Timberwolves,90,96,Madison Square Garden (IV),18277,/boxscores/200601160NYK.html
+Mon Jan 16 2006,Washington Wizards,Philadelphia 76ers,104,76,MCI Center,20173,/boxscores/200601160WAS.html
+Mon Jan 16 2006,Atlanta Hawks,Houston Rockets,94,83,Philips Arena,15078,/boxscores/200601160ATL.html
+Mon Jan 16 2006,Chicago Bulls,Denver Nuggets,94,97,United Center,21793,/boxscores/200601160CHI.html
+Mon Jan 16 2006,Detroit Pistons,Boston Celtics,94,84,The Palace of Auburn Hills,22076,/boxscores/200601160DET.html
+Mon Jan 16 2006,Los Angeles Clippers,Utah Jazz,102,93,STAPLES Center,15211,/boxscores/200601160LAC.html
+Mon Jan 16 2006,New Jersey Nets,Indiana Pacers,97,92,Continental Airlines Arena,18813,/boxscores/200601160NJN.html
+Mon Jan 16 2006,Golden State Warriors,Seattle SuperSonics,109,93,Oakland Arena,20011,/boxscores/200601160GSW.html
+Mon Jan 16 2006,Memphis Grizzlies,San Antonio Spurs,83,93,FedEx Forum,18119,/boxscores/200601160MEM.html
+Mon Jan 16 2006,Dallas Mavericks,Milwaukee Bucks,114,95,American Airlines Center,19935,/boxscores/200601160DAL.html
+Mon Jan 16 2006,Los Angeles Lakers,Miami Heat,100,92,STAPLES Center,18997,/boxscores/200601160LAL.html
+Tue Jan 17 2006,Utah Jazz,Toronto Raptors,111,98,Delta Center,17831,/boxscores/200601170UTA.html
+Tue Jan 17 2006,Sacramento Kings,Phoenix Suns,119,90,ARCO Arena (II),17317,/boxscores/200601170SAC.html
+Wed Jan 18 2006,Atlanta Hawks,Detroit Pistons,89,117,Philips Arena,14268,/boxscores/200601180ATL.html
+Wed Jan 18 2006,Indiana Pacers,Charlotte Bobcats,98,92,Conseco Fieldhouse,14520,/boxscores/200601180IND.html
+Wed Jan 18 2006,Orlando Magic,Washington Wizards,106,98,TD Waterhouse Centre,13798,/boxscores/200601180ORL.html
+Wed Jan 18 2006,Philadelphia 76ers,New Jersey Nets,90,101,Wachovia Center,15683,/boxscores/200601180PHI.html
+Wed Jan 18 2006,Boston Celtics,Minnesota Timberwolves,103,96,TD Banknorth Garden,15859,/boxscores/200601180BOS.html
+Wed Jan 18 2006,New Orleans/Oklahoma City Hornets,Memphis Grizzlies,87,79,Ford Center,14554,/boxscores/200601180NOK.html
+Wed Jan 18 2006,Chicago Bulls,New York Knicks,106,104,United Center,21268,/boxscores/200601180CHI.html
+Wed Jan 18 2006,Houston Rockets,Dallas Mavericks,76,103,Toyota Center,15966,/boxscores/200601180HOU.html
+Wed Jan 18 2006,San Antonio Spurs,Milwaukee Bucks,95,92,SBC Center,18797,/boxscores/200601180SAS.html
+Wed Jan 18 2006,Denver Nuggets,Cleveland Cavaliers,90,89,Pepsi Center,19009,/boxscores/200601180DEN.html
+Wed Jan 18 2006,Portland Trail Blazers,Toronto Raptors,96,94,Rose Garden Arena,12315,/boxscores/200601180POR.html
+Wed Jan 18 2006,Los Angeles Clippers,Phoenix Suns,102,112,STAPLES Center,16888,/boxscores/200601180LAC.html
+Thu Jan 19 2006,New York Knicks,Detroit Pistons,79,105,Madison Square Garden (IV),18949,/boxscores/200601190NYK.html
+Thu Jan 19 2006,Sacramento Kings,Los Angeles Lakers,118,109,ARCO Arena (II),17317,/boxscores/200601190SAC.html
+Fri Jan 20 2006,Atlanta Hawks,Milwaukee Bucks,102,118,Philips Arena,9812,/boxscores/200601200ATL.html
+Fri Jan 20 2006,Philadelphia 76ers,Memphis Grizzlies,89,86,Wachovia Center,18010,/boxscores/200601200PHI.html
+Fri Jan 20 2006,Washington Wizards,New Orleans/Oklahoma City Hornets,110,99,MCI Center,19062,/boxscores/200601200WAS.html
+Fri Jan 20 2006,Boston Celtics,New Jersey Nets,99,96,TD Banknorth Garden,18107,/boxscores/200601200BOS.html
+Fri Jan 20 2006,Charlotte Bobcats,Orlando Magic,93,104,Charlotte Bobcats Arena,16847,/boxscores/200601200CHA.html
+Fri Jan 20 2006,Miami Heat,San Antonio Spurs,94,101,AmericanAirlines Arena,20287,/boxscores/200601200MIA.html
+Fri Jan 20 2006,Minnesota Timberwolves,Indiana Pacers,90,85,Target Center,18991,/boxscores/200601200MIN.html
+Fri Jan 20 2006,Chicago Bulls,Houston Rockets,108,109,United Center,20550,/boxscores/200601200CHI.html
+Fri Jan 20 2006,Denver Nuggets,Utah Jazz,113,83,Pepsi Center,18183,/boxscores/200601200DEN.html
+Fri Jan 20 2006,Golden State Warriors,Cleveland Cavaliers,99,79,Oakland Arena,20205,/boxscores/200601200GSW.html
+Fri Jan 20 2006,Los Angeles Clippers,Dallas Mavericks,81,101,STAPLES Center,17883,/boxscores/200601200LAC.html
+Fri Jan 20 2006,Phoenix Suns,Los Angeles Lakers,106,93,America West Arena,18422,/boxscores/200601200PHO.html
+Fri Jan 20 2006,Seattle SuperSonics,Toronto Raptors,113,121,KeyArena at Seattle Center,15261,/boxscores/200601200SEA.html
+Sat Jan 21 2006,Orlando Magic,Sacramento Kings,83,78,TD Waterhouse Centre,15766,/boxscores/200601210ORL.html
+Sat Jan 21 2006,New York Knicks,New Orleans/Oklahoma City Hornets,98,109,Madison Square Garden (IV),19763,/boxscores/200601210NYK.html
+Sat Jan 21 2006,Indiana Pacers,Chicago Bulls,89,101,Conseco Fieldhouse,18345,/boxscores/200601210IND.html
+Sat Jan 21 2006,New Jersey Nets,Boston Celtics,103,83,Continental Airlines Arena,18312,/boxscores/200601210NJN.html
+Sat Jan 21 2006,Milwaukee Bucks,Charlotte Bobcats,101,91,Bradley Center,16739,/boxscores/200601210MIL.html
+Sat Jan 21 2006,Utah Jazz,Cleveland Cavaliers,90,108,Delta Center,19340,/boxscores/200601210UTA.html
+Sun Jan 22 2006,Minnesota Timberwolves,Philadelphia 76ers,84,86,Target Center,15893,/boxscores/200601220MIN.html
+Sun Jan 22 2006,San Antonio Spurs,Denver Nuggets,85,89,SBC Center,18797,/boxscores/200601220SAS.html
+Sun Jan 22 2006,Los Angeles Clippers,Golden State Warriors,105,92,STAPLES Center,15845,/boxscores/200601220LAC.html
+Sun Jan 22 2006,Washington Wizards,Memphis Grizzlies,82,93,MCI Center,14914,/boxscores/200601220WAS.html
+Sun Jan 22 2006,Detroit Pistons,Houston Rockets,99,97,The Palace of Auburn Hills,22076,/boxscores/200601220DET.html
+Sun Jan 22 2006,Miami Heat,Sacramento Kings,119,99,AmericanAirlines Arena,20071,/boxscores/200601220MIA.html
+Sun Jan 22 2006,Phoenix Suns,Seattle SuperSonics,149,152,America West Arena,18294,/boxscores/200601220PHO.html
+Sun Jan 22 2006,Portland Trail Blazers,Dallas Mavericks,89,95,Rose Garden Arena,13042,/boxscores/200601220POR.html
+Sun Jan 22 2006,Los Angeles Lakers,Toronto Raptors,122,104,STAPLES Center,18997,/boxscores/200601220LAL.html
+Mon Jan 23 2006,Atlanta Hawks,Indiana Pacers,104,94,Philips Arena,13618,/boxscores/200601230ATL.html
+Mon Jan 23 2006,Boston Celtics,New Orleans/Oklahoma City Hornets,91,78,TD Banknorth Garden,14473,/boxscores/200601230BOS.html
+Mon Jan 23 2006,Milwaukee Bucks,Houston Rockets,80,97,Bradley Center,14214,/boxscores/200601230MIL.html
+Mon Jan 23 2006,Denver Nuggets,Toronto Raptors,107,101,Pepsi Center,14826,/boxscores/200601230DEN.html
+Mon Jan 23 2006,Utah Jazz,New Jersey Nets,89,78,Delta Center,17926,/boxscores/200601230UTA.html
+Mon Jan 23 2006,Golden State Warriors,Los Angeles Clippers,93,96,Oakland Arena,17196,/boxscores/200601230GSW.html
+Tue Jan 24 2006,Cleveland Cavaliers,Indiana Pacers,96,66,Gund Arena,19069,/boxscores/200601240CLE.html
+Tue Jan 24 2006,Orlando Magic,Phoenix Suns,111,102,TD Waterhouse Centre,15791,/boxscores/200601240ORL.html
+Tue Jan 24 2006,Philadelphia 76ers,Sacramento Kings,109,103,Wachovia Center,13451,/boxscores/200601240PHI.html
+Tue Jan 24 2006,Miami Heat,Memphis Grizzlies,94,82,AmericanAirlines Arena,19600,/boxscores/200601240MIA.html
+Tue Jan 24 2006,Minnesota Timberwolves,Detroit Pistons,83,107,Target Center,17232,/boxscores/200601240MIN.html
+Tue Jan 24 2006,San Antonio Spurs,Charlotte Bobcats,104,76,SBC Center,18797,/boxscores/200601240SAS.html
+Wed Jan 25 2006,Atlanta Hawks,Cleveland Cavaliers,97,106,Philips Arena,16089,/boxscores/200601250ATL.html
+Wed Jan 25 2006,Toronto Raptors,Chicago Bulls,88,104,Air Canada Centre,14198,/boxscores/200601250TOR.html
+Wed Jan 25 2006,Boston Celtics,Washington Wizards,87,89,TD Banknorth Garden,15775,/boxscores/200601250BOS.html
+Wed Jan 25 2006,Detroit Pistons,Milwaukee Bucks,106,102,The Palace of Auburn Hills,22076,/boxscores/200601250DET.html
+Wed Jan 25 2006,New York Knicks,Sacramento Kings,102,106,Madison Square Garden (IV),18106,/boxscores/200601250NYK.html
+Wed Jan 25 2006,New Orleans/Oklahoma City Hornets,San Antonio Spurs,68,84,Ford Center,19289,/boxscores/200601250NOK.html
+Wed Jan 25 2006,Houston Rockets,Charlotte Bobcats,102,78,Toyota Center,10938,/boxscores/200601250HOU.html
+Wed Jan 25 2006,Memphis Grizzlies,Minnesota Timberwolves,107,87,FedEx Forum,16813,/boxscores/200601250MEM.html
+Wed Jan 25 2006,Utah Jazz,Seattle SuperSonics,94,113,Delta Center,19382,/boxscores/200601250UTA.html
+Wed Jan 25 2006,Portland Trail Blazers,Denver Nuggets,94,97,Rose Garden Arena,13136,/boxscores/200601250POR.html
+Wed Jan 25 2006,Golden State Warriors,Dallas Mavericks,93,102,Oakland Arena,16842,/boxscores/200601250GSW.html
+Wed Jan 25 2006,Los Angeles Clippers,New Jersey Nets,90,77,STAPLES Center,17394,/boxscores/200601250LAC.html
+Thu Jan 26 2006,Philadelphia 76ers,Orlando Magic,115,119,Wachovia Center,14115,/boxscores/200601260PHI.html
+Thu Jan 26 2006,Miami Heat,Phoenix Suns,98,107,AmericanAirlines Arena,20025,/boxscores/200601260MIA.html
+Thu Jan 26 2006,Seattle SuperSonics,Dallas Mavericks,97,104,KeyArena at Seattle Center,15891,/boxscores/200601260SEA.html
+Fri Jan 27 2006,Atlanta Hawks,Phoenix Suns,106,110,Philips Arena,13557,/boxscores/200601270ATL.html
+Fri Jan 27 2006,Indiana Pacers,Cleveland Cavaliers,89,93,Conseco Fieldhouse,18345,/boxscores/200601270IND.html
+Fri Jan 27 2006,Boston Celtics,Sacramento Kings,84,74,TD Banknorth Garden,18624,/boxscores/200601270BOS.html
+Fri Jan 27 2006,Charlotte Bobcats,Miami Heat,85,91,Charlotte Bobcats Arena,19026,/boxscores/200601270CHA.html
+Fri Jan 27 2006,New York Knicks,Orlando Magic,97,94,Madison Square Garden (IV),19763,/boxscores/200601270NYK.html
+Fri Jan 27 2006,Detroit Pistons,Memphis Grizzlies,95,89,The Palace of Auburn Hills,22076,/boxscores/200601270DET.html
+Fri Jan 27 2006,Chicago Bulls,Washington Wizards,90,79,United Center,21720,/boxscores/200601270CHI.html
+Fri Jan 27 2006,Houston Rockets,Minnesota Timberwolves,92,96,Toyota Center,14408,/boxscores/200601270HOU.html
+Fri Jan 27 2006,Milwaukee Bucks,Toronto Raptors,108,87,Bradley Center,14867,/boxscores/200601270MIL.html
+Fri Jan 27 2006,Denver Nuggets,Los Angeles Clippers,87,105,Pepsi Center,18712,/boxscores/200601270DEN.html
+Fri Jan 27 2006,Portland Trail Blazers,New Jersey Nets,88,83,Rose Garden Arena,17022,/boxscores/200601270POR.html
+Fri Jan 27 2006,Los Angeles Lakers,Golden State Warriors,106,105,STAPLES Center,18997,/boxscores/200601270LAL.html
+Sat Jan 28 2006,Washington Wizards,Charlotte Bobcats,107,97,MCI Center,20173,/boxscores/200601280WAS.html
+Sat Jan 28 2006,Memphis Grizzlies,New Orleans/Oklahoma City Hornets,86,95,FedEx Forum,16228,/boxscores/200601280MEM.html
+Sat Jan 28 2006,Philadelphia 76ers,New York Knicks,91,76,Wachovia Center,20108,/boxscores/200601280PHI.html
+Sat Jan 28 2006,Chicago Bulls,Atlanta Hawks,111,99,United Center,21175,/boxscores/200601280CHI.html
+Sat Jan 28 2006,San Antonio Spurs,Minnesota Timberwolves,102,88,SBC Center,18797,/boxscores/200601280SAS.html
+Sat Jan 28 2006,Dallas Mavericks,Utah Jazz,103,89,American Airlines Center,20394,/boxscores/200601280DAL.html
+Sat Jan 28 2006,Seattle SuperSonics,New Jersey Nets,113,104,KeyArena at Seattle Center,17072,/boxscores/200601280SEA.html
+Sat Jan 28 2006,Golden State Warriors,Portland Trail Blazers,98,83,Oakland Arena,18265,/boxscores/200601280GSW.html
+Sat Jan 28 2006,Los Angeles Clippers,Denver Nuggets,112,79,STAPLES Center,18862,/boxscores/200601280LAC.html
+Sun Jan 29 2006,Cleveland Cavaliers,Phoenix Suns,113,106,Gund Arena,20562,/boxscores/200601290CLE.html
+Sun Jan 29 2006,Houston Rockets,Miami Heat,95,101,Toyota Center,18199,/boxscores/200601290HOU.html
+Sun Jan 29 2006,Milwaukee Bucks,Boston Celtics,83,79,Bradley Center,17031,/boxscores/200601290MIL.html
+Sun Jan 29 2006,Orlando Magic,Philadelphia 76ers,81,89,TD Waterhouse Centre,16896,/boxscores/200601290ORL.html
+Sun Jan 29 2006,Detroit Pistons,Los Angeles Lakers,102,93,The Palace of Auburn Hills,22076,/boxscores/200601290DET.html
+Sun Jan 29 2006,Toronto Raptors,Sacramento Kings,124,123,Air Canada Centre,16573,/boxscores/200601290TOR.html
+Mon Jan 30 2006,Atlanta Hawks,New York Knicks,120,101,Philips Arena,11467,/boxscores/200601300ATL.html
+Mon Jan 30 2006,Charlotte Bobcats,Cleveland Cavaliers,91,103,Charlotte Bobcats Arena,17142,/boxscores/200601300CHA.html
+Mon Jan 30 2006,Miami Heat,Los Angeles Clippers,118,114,AmericanAirlines Arena,19600,/boxscores/200601300MIA.html
+Mon Jan 30 2006,Memphis Grizzlies,Houston Rockets,86,77,FedEx Forum,16371,/boxscores/200601300MEM.html
+Mon Jan 30 2006,Minnesota Timberwolves,Boston Celtics,110,85,Target Center,17003,/boxscores/200601300MIN.html
+Mon Jan 30 2006,New Orleans/Oklahoma City Hornets,Milwaukee Bucks,94,93,Ford Center,18197,/boxscores/200601300NOK.html
+Mon Jan 30 2006,Utah Jazz,San Antonio Spurs,70,79,Delta Center,19384,/boxscores/200601300UTA.html
+Mon Jan 30 2006,Seattle SuperSonics,Portland Trail Blazers,111,116,KeyArena at Seattle Center,15622,/boxscores/200601300SEA.html
+Tue Jan 31 2006,Philadelphia 76ers,Phoenix Suns,99,123,Wachovia Center,15732,/boxscores/200601310PHI.html
+Tue Jan 31 2006,Washington Wizards,Indiana Pacers,84,79,MCI Center,14878,/boxscores/200601310WAS.html
+Tue Jan 31 2006,New Jersey Nets,Detroit Pistons,91,84,Continental Airlines Arena,17143,/boxscores/200601310NJN.html
+Tue Jan 31 2006,New York Knicks,Los Angeles Lakers,97,130,Madison Square Garden (IV),19763,/boxscores/200601310NYK.html
+Tue Jan 31 2006,Dallas Mavericks,Chicago Bulls,98,94,American Airlines Center,19567,/boxscores/200601310DAL.html
+Tue Jan 31 2006,Sacramento Kings,Denver Nuggets,98,91,ARCO Arena (II),17317,/boxscores/200601310SAC.html

@@ -1,0 +1,207 @@
+Sun Mar 1 1992,Boston Celtics,Dallas Mavericks,101,91,Boston Garden,14890,/boxscores/199203010BOS.html
+Sun Mar 1 1992,Chicago Bulls,Portland Trail Blazers,111,91,Chicago Stadium,18676,/boxscores/199203010CHI.html
+Sun Mar 1 1992,Los Angeles Lakers,Houston Rockets,97,105,Great Western Forum,16908,/boxscores/199203010LAL.html
+Sun Mar 1 1992,Milwaukee Bucks,Atlanta Hawks,109,106,Bradley Center,15508,/boxscores/199203010MIL.html
+Sun Mar 1 1992,New Jersey Nets,New York Knicks,90,75,Brendan Byrne Arena,20049,/boxscores/199203010NJN.html
+Sun Mar 1 1992,Orlando Magic,Los Angeles Clippers,96,101,Orlando Arena,15151,/boxscores/199203010ORL.html
+Sun Mar 1 1992,Phoenix Suns,Utah Jazz,114,109,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203010PHO.html
+Sun Mar 1 1992,Seattle SuperSonics,Cleveland Cavaliers,113,107,Seattle Center Coliseum,13647,/boxscores/199203010SEA.html
+Mon Mar 2 1992,Detroit Pistons,Washington Bullets,99,89,The Palace of Auburn Hills,21454,/boxscores/199203020DET.html
+Mon Mar 2 1992,Sacramento Kings,Golden State Warriors,98,118,ARCO Arena (II),17014,/boxscores/199203020SAC.html
+Tue Mar 3 1992,Chicago Bulls,Indiana Pacers,101,103,Chicago Stadium,18402,/boxscores/199203030CHI.html
+Tue Mar 3 1992,Golden State Warriors,Utah Jazz,101,123,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203030GSW.html
+Tue Mar 3 1992,Miami Heat,Los Angeles Clippers,116,117,Miami Arena,14822,/boxscores/199203030MIA.html
+Tue Mar 3 1992,Minnesota Timberwolves,San Antonio Spurs,102,103,Target Center,18707,/boxscores/199203030MIN.html
+Tue Mar 3 1992,New York Knicks,Dallas Mavericks,102,83,Madison Square Garden (IV),16083,/boxscores/199203030NYK.html
+Tue Mar 3 1992,Orlando Magic,Washington Bullets,93,106,Orlando Arena,15151,/boxscores/199203030ORL.html
+Tue Mar 3 1992,Phoenix Suns,Houston Rockets,112,107,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203030PHO.html
+Tue Mar 3 1992,Portland Trail Blazers,Los Angeles Lakers,105,101,Memorial Coliseum,12888,/boxscores/199203030POR.html
+Tue Mar 3 1992,Seattle SuperSonics,Denver Nuggets,111,92,Seattle Center Coliseum,9865,/boxscores/199203030SEA.html
+Wed Mar 4 1992,Boston Celtics,Orlando Magic,125,100,Boston Garden,14890,/boxscores/199203040BOS.html
+Wed Mar 4 1992,Denver Nuggets,Portland Trail Blazers,100,129,McNichols Sports Arena,13704,/boxscores/199203040DEN.html
+Wed Mar 4 1992,Detroit Pistons,Indiana Pacers,110,107,The Palace of Auburn Hills,21454,/boxscores/199203040DET.html
+Wed Mar 4 1992,Los Angeles Lakers,New Jersey Nets,101,92,Great Western Forum,17215,/boxscores/199203040LAL.html
+Wed Mar 4 1992,Milwaukee Bucks,Charlotte Hornets,110,119,Bradley Center,13887,/boxscores/199203040MIL.html
+Wed Mar 4 1992,Philadelphia 76ers,Atlanta Hawks,107,102,The Spectrum,12563,/boxscores/199203040PHI.html
+Wed Mar 4 1992,Sacramento Kings,Cleveland Cavaliers,108,109,ARCO Arena (II),17014,/boxscores/199203040SAC.html
+Wed Mar 4 1992,Utah Jazz,San Antonio Spurs,102,93,Delta Center,19911,/boxscores/199203040UTA.html
+Thu Mar 5 1992,Golden State Warriors,Cleveland Cavaliers,116,108,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203050GSW.html
+Thu Mar 5 1992,Houston Rockets,Miami Heat,114,93,The Summit,13884,/boxscores/199203050HOU.html
+Thu Mar 5 1992,Minnesota Timberwolves,Chicago Bulls,100,113,Target Center,19006,/boxscores/199203050MIN.html
+Thu Mar 5 1992,New York Knicks,Los Angeles Clippers,101,91,Madison Square Garden (IV),15743,/boxscores/199203050NYK.html
+Thu Mar 5 1992,Phoenix Suns,Seattle SuperSonics,118,105,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203050PHO.html
+Thu Mar 5 1992,Washington Bullets,Dallas Mavericks,119,109,Capital Centre,6165,/boxscores/199203050WSB.html
+Fri Mar 6 1992,Atlanta Hawks,Indiana Pacers,113,115,Omni Coliseum,14983,/boxscores/199203060ATL.html
+Fri Mar 6 1992,Boston Celtics,Los Angeles Clippers,117,100,Boston Garden,14890,/boxscores/199203060BOS.html
+Fri Mar 6 1992,Chicago Bulls,Miami Heat,123,81,Chicago Stadium,18487,/boxscores/199203060CHI.html
+Fri Mar 6 1992,Denver Nuggets,Detroit Pistons,91,106,McNichols Sports Arena,17022,/boxscores/199203060DEN.html
+Fri Mar 6 1992,Milwaukee Bucks,Orlando Magic,124,102,Bradley Center,16149,/boxscores/199203060MIL.html
+Fri Mar 6 1992,Philadelphia 76ers,Dallas Mavericks,88,86,The Spectrum,16812,/boxscores/199203060PHI.html
+Fri Mar 6 1992,Portland Trail Blazers,Sacramento Kings,114,106,Memorial Coliseum,12888,/boxscores/199203060POR.html
+Fri Mar 6 1992,Utah Jazz,New Jersey Nets,117,96,Delta Center,19911,/boxscores/199203060UTA.html
+Sat Mar 7 1992,Atlanta Hawks,Cleveland Cavaliers,94,110,Omni Coliseum,13950,/boxscores/199203070ATL.html
+Sat Mar 7 1992,Golden State Warriors,Houston Rockets,110,100,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203070GSW.html
+Sat Mar 7 1992,Indiana Pacers,Minnesota Timberwolves,108,97,Market Square Arena,13716,/boxscores/199203070IND.html
+Sat Mar 7 1992,New York Knicks,Charlotte Hornets,107,78,Madison Square Garden (IV),18872,/boxscores/199203070NYK.html
+Sat Mar 7 1992,San Antonio Spurs,Phoenix Suns,122,109,HemisFair Arena,16057,/boxscores/199203070SAS.html
+Sat Mar 7 1992,Seattle SuperSonics,New Jersey Nets,109,98,Seattle Center Coliseum,13419,/boxscores/199203070SEA.html
+Sat Mar 7 1992,Washington Bullets,Milwaukee Bucks,94,90,Baltimore Arena,12054,/boxscores/199203070WSB.html
+Sun Mar 8 1992,Dallas Mavericks,San Antonio Spurs,81,93,Reunion Arena,16335,/boxscores/199203080DAL.html
+Sun Mar 8 1992,Denver Nuggets,Utah Jazz,88,112,McNichols Sports Arena,10251,/boxscores/199203080DEN.html
+Sun Mar 8 1992,Los Angeles Clippers,Golden State Warriors,97,96,Los Angeles Memorial Sports Arena,15800,/boxscores/199203080LAC.html
+Sun Mar 8 1992,Los Angeles Lakers,Detroit Pistons,93,98,Great Western Forum,17505,/boxscores/199203080LAL.html
+Sun Mar 8 1992,Miami Heat,Washington Bullets,112,98,Miami Arena,14890,/boxscores/199203080MIA.html
+Sun Mar 8 1992,Orlando Magic,Boston Celtics,93,111,Orlando Arena,15151,/boxscores/199203080ORL.html
+Sun Mar 8 1992,Philadelphia 76ers,Chicago Bulls,99,103,The Spectrum,18168,/boxscores/199203080PHI.html
+Sun Mar 8 1992,Portland Trail Blazers,Seattle SuperSonics,109,97,Memorial Coliseum,12888,/boxscores/199203080POR.html
+Sun Mar 8 1992,Sacramento Kings,Houston Rockets,108,109,ARCO Arena (II),17014,/boxscores/199203080SAC.html
+Mon Mar 9 1992,Philadelphia 76ers,New York Knicks,99,111,The Spectrum,14424,/boxscores/199203090PHI.html
+Tue Mar 10 1992,Charlotte Hornets,Minnesota Timberwolves,105,96,Charlotte Coliseum,23698,/boxscores/199203100CHH.html
+Tue Mar 10 1992,Cleveland Cavaliers,Phoenix Suns,102,100,Coliseum at Richfield,16719,/boxscores/199203100CLE.html
+Tue Mar 10 1992,Golden State Warriors,New Jersey Nets,129,122,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203100GSW.html
+Tue Mar 10 1992,Houston Rockets,Dallas Mavericks,116,93,The Summit,14002,/boxscores/199203100HOU.html
+Tue Mar 10 1992,Indiana Pacers,Washington Bullets,101,91,Market Square Arena,9681,/boxscores/199203100IND.html
+Tue Mar 10 1992,Miami Heat,Boston Celtics,108,101,Miami Arena,15008,/boxscores/199203100MIA.html
+Tue Mar 10 1992,Milwaukee Bucks,Portland Trail Blazers,112,126,Bradley Center,13974,/boxscores/199203100MIL.html
+Tue Mar 10 1992,New York Knicks,Los Angeles Lakers,104,106,Madison Square Garden (IV),19763,/boxscores/199203100NYK.html
+Tue Mar 10 1992,Orlando Magic,Denver Nuggets,82,89,Orlando Arena,15151,/boxscores/199203100ORL.html
+Tue Mar 10 1992,Sacramento Kings,Los Angeles Clippers,109,120,ARCO Arena (II),17014,/boxscores/199203100SAC.html
+Tue Mar 10 1992,San Antonio Spurs,Atlanta Hawks,103,92,HemisFair Arena,16057,/boxscores/199203100SAS.html
+Tue Mar 10 1992,Seattle SuperSonics,Detroit Pistons,92,98,Seattle Center Coliseum,13098,/boxscores/199203100SEA.html
+Wed Mar 11 1992,Atlanta Hawks,Los Angeles Lakers,98,109,Omni Coliseum,15539,/boxscores/199203110ATL.html
+Wed Mar 11 1992,Chicago Bulls,Boston Celtics,119,85,Chicago Stadium,18676,/boxscores/199203110CHI.html
+Wed Mar 11 1992,Dallas Mavericks,Charlotte Hornets,105,120,Reunion Arena,15727,/boxscores/199203110DAL.html
+Wed Mar 11 1992,Los Angeles Clippers,Seattle SuperSonics,96,104,Los Angeles Memorial Sports Arena,10912,/boxscores/199203110LAC.html
+Wed Mar 11 1992,Minnesota Timberwolves,Portland Trail Blazers,113,124,Target Center,18479,/boxscores/199203110MIN.html
+Wed Mar 11 1992,Philadelphia 76ers,Indiana Pacers,111,93,The Spectrum,8224,/boxscores/199203110PHI.html
+Thu Mar 12 1992,Golden State Warriors,Detroit Pistons,112,119,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203120GSW.html
+Thu Mar 12 1992,Milwaukee Bucks,Phoenix Suns,100,106,Bradley Center,13587,/boxscores/199203120MIL.html
+Thu Mar 12 1992,Sacramento Kings,Utah Jazz,103,114,ARCO Arena (II),17014,/boxscores/199203120SAC.html
+Thu Mar 12 1992,San Antonio Spurs,Houston Rockets,104,98,HemisFair Arena,16057,/boxscores/199203120SAS.html
+Fri Mar 13 1992,Atlanta Hawks,Portland Trail Blazers,95,106,Omni Coliseum,14019,/boxscores/199203130ATL.html
+Fri Mar 13 1992,Boston Celtics,New Jersey Nets,108,110,Hartford Civic Center,15239,/boxscores/199203130BOS.html
+Fri Mar 13 1992,Cleveland Cavaliers,Los Angeles Lakers,109,107,Coliseum at Richfield,20273,/boxscores/199203130CLE.html
+Fri Mar 13 1992,Houston Rockets,Charlotte Hornets,118,100,The Summit,16266,/boxscores/199203130HOU.html
+Fri Mar 13 1992,Los Angeles Clippers,Dallas Mavericks,105,97,Los Angeles Memorial Sports Arena,11955,/boxscores/199203130LAC.html
+Fri Mar 13 1992,Miami Heat,Denver Nuggets,113,109,Miami Arena,15008,/boxscores/199203130MIA.html
+Fri Mar 13 1992,Orlando Magic,Indiana Pacers,98,97,Orlando Arena,15151,/boxscores/199203130ORL.html
+Fri Mar 13 1992,Philadelphia 76ers,Phoenix Suns,104,108,The Spectrum,16897,/boxscores/199203130PHI.html
+Fri Mar 13 1992,Washington Bullets,Minnesota Timberwolves,118,115,Capital Centre,8715,/boxscores/199203130WSB.html
+Sat Mar 14 1992,Atlanta Hawks,Miami Heat,115,102,Omni Coliseum,15699,/boxscores/199203140ATL.html
+Sat Mar 14 1992,Milwaukee Bucks,Philadelphia 76ers,110,105,Bradley Center,18497,/boxscores/199203140MIL.html
+Sat Mar 14 1992,New York Knicks,New Jersey Nets,94,96,Madison Square Garden (IV),19763,/boxscores/199203140NYK.html
+Sat Mar 14 1992,Orlando Magic,Chicago Bulls,96,112,Orlando Arena,15151,/boxscores/199203140ORL.html
+Sat Mar 14 1992,Sacramento Kings,Detroit Pistons,83,89,ARCO Arena (II),17014,/boxscores/199203140SAC.html
+Sat Mar 14 1992,San Antonio Spurs,Utah Jazz,113,106,HemisFair Arena,16057,/boxscores/199203140SAS.html
+Sat Mar 14 1992,Washington Bullets,Los Angeles Lakers,89,92,Capital Centre,18756,/boxscores/199203140WSB.html
+Sun Mar 15 1992,Boston Celtics,Portland Trail Blazers,152,148,Boston Garden,14890,/boxscores/199203150BOS.html
+Sun Mar 15 1992,Cleveland Cavaliers,Denver Nuggets,100,91,Coliseum at Richfield,16549,/boxscores/199203150CLE.html
+Sun Mar 15 1992,Houston Rockets,Utah Jazz,106,97,The Summit,15003,/boxscores/199203150HOU.html
+Sun Mar 15 1992,Los Angeles Clippers,Sacramento Kings,131,105,Los Angeles Memorial Sports Arena,11785,/boxscores/199203150LAC.html
+Sun Mar 15 1992,Minnesota Timberwolves,Phoenix Suns,113,118,Target Center,19006,/boxscores/199203150MIN.html
+Sun Mar 15 1992,Seattle SuperSonics,Dallas Mavericks,109,100,Seattle Center Coliseum,12163,/boxscores/199203150SEA.html
+Mon Mar 16 1992,Detroit Pistons,Atlanta Hawks,77,89,The Palace of Auburn Hills,21454,/boxscores/199203160DET.html
+Mon Mar 16 1992,Indiana Pacers,Los Angeles Lakers,98,85,Market Square Arena,14490,/boxscores/199203160IND.html
+Mon Mar 16 1992,Miami Heat,Chicago Bulls,100,116,Miami Arena,15008,/boxscores/199203160MIA.html
+Mon Mar 16 1992,San Antonio Spurs,Charlotte Hornets,112,117,HemisFair Arena,16057,/boxscores/199203160SAS.html
+Mon Mar 16 1992,Washington Bullets,Cleveland Cavaliers,102,111,Capital Centre,8935,/boxscores/199203160WSB.html
+Tue Mar 17 1992,Denver Nuggets,Sacramento Kings,118,100,McNichols Sports Arena,13439,/boxscores/199203170DEN.html
+Tue Mar 17 1992,Houston Rockets,Los Angeles Clippers,100,92,The Summit,14805,/boxscores/199203170HOU.html
+Tue Mar 17 1992,Milwaukee Bucks,Boston Celtics,127,106,Bradley Center,15245,/boxscores/199203170MIL.html
+Tue Mar 17 1992,New Jersey Nets,Chicago Bulls,79,90,Brendan Byrne Arena,20049,/boxscores/199203170NJN.html
+Tue Mar 17 1992,Orlando Magic,New York Knicks,86,99,Orlando Arena,15151,/boxscores/199203170ORL.html
+Tue Mar 17 1992,Phoenix Suns,Dallas Mavericks,92,81,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203170PHO.html
+Tue Mar 17 1992,Portland Trail Blazers,Minnesota Timberwolves,111,91,Memorial Coliseum,12888,/boxscores/199203170POR.html
+Tue Mar 17 1992,Seattle SuperSonics,Golden State Warriors,107,119,Seattle Center Coliseum,13163,/boxscores/199203170SEA.html
+Wed Mar 18 1992,Atlanta Hawks,Orlando Magic,96,99,Omni Coliseum,10129,/boxscores/199203180ATL.html
+Wed Mar 18 1992,Boston Celtics,Cleveland Cavaliers,96,94,Boston Garden,14890,/boxscores/199203180BOS.html
+Wed Mar 18 1992,Dallas Mavericks,Los Angeles Clippers,86,117,Reunion Arena,15363,/boxscores/199203180DAL.html
+Wed Mar 18 1992,Detroit Pistons,Philadelphia 76ers,91,85,The Palace of Auburn Hills,21454,/boxscores/199203180DET.html
+Wed Mar 18 1992,Golden State Warriors,Minnesota Timberwolves,123,120,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203180GSW.html
+Wed Mar 18 1992,Los Angeles Lakers,Portland Trail Blazers,93,98,Great Western Forum,17505,/boxscores/199203180LAL.html
+Wed Mar 18 1992,Miami Heat,Indiana Pacers,111,116,Miami Arena,14799,/boxscores/199203180MIA.html
+Wed Mar 18 1992,San Antonio Spurs,Sacramento Kings,118,89,HemisFair Arena,16057,/boxscores/199203180SAS.html
+Thu Mar 19 1992,Houston Rockets,Seattle SuperSonics,91,112,The Summit,15122,/boxscores/199203190HOU.html
+Thu Mar 19 1992,New York Knicks,Milwaukee Bucks,96,92,Madison Square Garden (IV),17238,/boxscores/199203190NYK.html
+Thu Mar 19 1992,Philadelphia 76ers,Charlotte Hornets,116,123,The Spectrum,12258,/boxscores/199203190PHI.html
+Thu Mar 19 1992,Utah Jazz,Denver Nuggets,115,100,Delta Center,19911,/boxscores/199203190UTA.html
+Thu Mar 19 1992,Washington Bullets,Chicago Bulls,100,106,Capital Centre,18756,/boxscores/199203190WSB.html
+Fri Mar 20 1992,Charlotte Hornets,Atlanta Hawks,110,112,Charlotte Coliseum,23698,/boxscores/199203200CHH.html
+Fri Mar 20 1992,Cleveland Cavaliers,Golden State Warriors,122,107,Coliseum at Richfield,20273,/boxscores/199203200CLE.html
+Fri Mar 20 1992,Dallas Mavericks,Sacramento Kings,96,125,Reunion Arena,16118,/boxscores/199203200DAL.html
+Fri Mar 20 1992,Detroit Pistons,Boston Celtics,99,104,The Palace of Auburn Hills,21454,/boxscores/199203200DET.html
+Fri Mar 20 1992,Indiana Pacers,Milwaukee Bucks,102,97,Market Square Arena,11647,/boxscores/199203200IND.html
+Fri Mar 20 1992,Los Angeles Lakers,Minnesota Timberwolves,131,121,Great Western Forum,16291,/boxscores/199203200LAL.html
+Fri Mar 20 1992,New Jersey Nets,Washington Bullets,99,96,Brendan Byrne Arena,11049,/boxscores/199203200NJN.html
+Fri Mar 20 1992,Phoenix Suns,Los Angeles Clippers,101,114,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203200PHO.html
+Sat Mar 21 1992,Chicago Bulls,Orlando Magic,108,111,Chicago Stadium,18676,/boxscores/199203210CHI.html
+Sat Mar 21 1992,Denver Nuggets,Los Angeles Clippers,87,114,McNichols Sports Arena,15581,/boxscores/199203210DEN.html
+Sat Mar 21 1992,Houston Rockets,Sacramento Kings,97,100,The Summit,16276,/boxscores/199203210HOU.html
+Sat Mar 21 1992,New York Knicks,Miami Heat,105,88,Madison Square Garden (IV),19763,/boxscores/199203210NYK.html
+Sat Mar 21 1992,Phoenix Suns,Minnesota Timberwolves,121,105,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203210PHO.html
+Sat Mar 21 1992,San Antonio Spurs,Seattle SuperSonics,101,96,HemisFair Arena,16057,/boxscores/199203210SAS.html
+Sat Mar 21 1992,Utah Jazz,Portland Trail Blazers,95,77,Delta Center,19911,/boxscores/199203210UTA.html
+Sun Mar 22 1992,Boston Celtics,Golden State Warriors,114,97,Boston Garden,14890,/boxscores/199203220BOS.html
+Sun Mar 22 1992,Charlotte Hornets,Detroit Pistons,113,101,Charlotte Coliseum,23698,/boxscores/199203220CHH.html
+Sun Mar 22 1992,Cleveland Cavaliers,Atlanta Hawks,123,80,Coliseum at Richfield,15408,/boxscores/199203220CLE.html
+Sun Mar 22 1992,Dallas Mavericks,Seattle SuperSonics,105,113,Reunion Arena,14345,/boxscores/199203220DAL.html
+Sun Mar 22 1992,Indiana Pacers,Philadelphia 76ers,108,100,Market Square Arena,14775,/boxscores/199203220IND.html
+Sun Mar 22 1992,Miami Heat,New Jersey Nets,107,100,Miami Arena,15008,/boxscores/199203220MIA.html
+Sun Mar 22 1992,Milwaukee Bucks,Washington Bullets,109,88,Bradley Center,17802,/boxscores/199203220MIL.html
+Mon Mar 23 1992,Atlanta Hawks,Golden State Warriors,126,125,Omni Coliseum,13192,/boxscores/199203230ATL.html
+Mon Mar 23 1992,Minnesota Timberwolves,Denver Nuggets,95,100,Target Center,19006,/boxscores/199203230MIN.html
+Mon Mar 23 1992,New Jersey Nets,Charlotte Hornets,123,120,Brendan Byrne Arena,10011,/boxscores/199203230NJN.html
+Mon Mar 23 1992,Philadelphia 76ers,San Antonio Spurs,105,92,The Spectrum,15242,/boxscores/199203230PHI.html
+Tue Mar 24 1992,Chicago Bulls,Denver Nuggets,116,103,Chicago Stadium,18382,/boxscores/199203240CHI.html
+Tue Mar 24 1992,Cleveland Cavaliers,Indiana Pacers,128,113,Coliseum at Richfield,15668,/boxscores/199203240CLE.html
+Tue Mar 24 1992,New York Knicks,Orlando Magic,126,117,Madison Square Garden (IV),17353,/boxscores/199203240NYK.html
+Tue Mar 24 1992,Portland Trail Blazers,Dallas Mavericks,109,83,Memorial Coliseum,12888,/boxscores/199203240POR.html
+Tue Mar 24 1992,Sacramento Kings,Milwaukee Bucks,113,102,ARCO Arena (II),17014,/boxscores/199203240SAC.html
+Tue Mar 24 1992,Seattle SuperSonics,Houston Rockets,128,106,Seattle Center Coliseum,11377,/boxscores/199203240SEA.html
+Wed Mar 25 1992,Charlotte Hornets,San Antonio Spurs,113,108,Charlotte Coliseum,23698,/boxscores/199203250CHH.html
+Wed Mar 25 1992,Detroit Pistons,Golden State Warriors,99,103,The Palace of Auburn Hills,21454,/boxscores/199203250DET.html
+Wed Mar 25 1992,Minnesota Timberwolves,Miami Heat,97,105,Target Center,18818,/boxscores/199203250MIN.html
+Wed Mar 25 1992,New Jersey Nets,Boston Celtics,110,118,Brendan Byrne Arena,20049,/boxscores/199203250NJN.html
+Wed Mar 25 1992,Orlando Magic,Cleveland Cavaliers,96,106,Orlando Arena,15151,/boxscores/199203250ORL.html
+Wed Mar 25 1992,Phoenix Suns,Milwaukee Bucks,132,104,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203250PHO.html
+Wed Mar 25 1992,Utah Jazz,Philadelphia 76ers,100,94,Delta Center,19911,/boxscores/199203250UTA.html
+Wed Mar 25 1992,Washington Bullets,Indiana Pacers,109,131,Capital Centre,6724,/boxscores/199203250WSB.html
+Thu Mar 26 1992,Atlanta Hawks,Washington Bullets,107,95,Omni Coliseum,11288,/boxscores/199203260ATL.html
+Thu Mar 26 1992,Denver Nuggets,New York Knicks,104,106,McNichols Sports Arena,16202,/boxscores/199203260DEN.html
+Thu Mar 26 1992,Los Angeles Clippers,Houston Rockets,109,95,Los Angeles Memorial Sports Arena,12827,/boxscores/199203260LAC.html
+Thu Mar 26 1992,Los Angeles Lakers,Dallas Mavericks,115,92,Great Western Forum,17324,/boxscores/199203260LAL.html
+Thu Mar 26 1992,Sacramento Kings,Portland Trail Blazers,106,128,ARCO Arena (II),17014,/boxscores/199203260SAC.html
+Fri Mar 27 1992,Boston Celtics,Detroit Pistons,106,87,Boston Garden,14690,/boxscores/199203270BOS.html
+Fri Mar 27 1992,Charlotte Hornets,Cleveland Cavaliers,115,121,Charlotte Coliseum,23698,/boxscores/199203270CHH.html
+Fri Mar 27 1992,Indiana Pacers,Golden State Warriors,117,125,Market Square Arena,15001,/boxscores/199203270IND.html
+Fri Mar 27 1992,Miami Heat,San Antonio Spurs,118,101,Miami Arena,15008,/boxscores/199203270MIA.html
+Fri Mar 27 1992,Minnesota Timberwolves,Atlanta Hawks,103,105,Target Center,19006,/boxscores/199203270MIN.html
+Fri Mar 27 1992,Phoenix Suns,Philadelphia 76ers,117,113,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203270PHO.html
+Fri Mar 27 1992,Seattle SuperSonics,Milwaukee Bucks,96,95,Seattle Center Coliseum,11450,/boxscores/199203270SEA.html
+Fri Mar 27 1992,Utah Jazz,Los Angeles Lakers,92,103,Delta Center,19911,/boxscores/199203270UTA.html
+Sat Mar 28 1992,Chicago Bulls,Cleveland Cavaliers,126,102,Chicago Stadium,18676,/boxscores/199203280CHI.html
+Sat Mar 28 1992,Denver Nuggets,Phoenix Suns,101,121,McNichols Sports Arena,17022,/boxscores/199203280DEN.html
+Sat Mar 28 1992,Los Angeles Clippers,Milwaukee Bucks,103,95,Los Angeles Memorial Sports Arena,14495,/boxscores/199203280LAC.html
+Sat Mar 28 1992,New Jersey Nets,Golden State Warriors,148,153,Brendan Byrne Arena,20049,/boxscores/199203280NJN.html
+Sat Mar 28 1992,Orlando Magic,Miami Heat,100,109,Orlando Arena,15151,/boxscores/199203280ORL.html
+Sat Mar 28 1992,Portland Trail Blazers,Houston Rockets,115,95,Memorial Coliseum,12888,/boxscores/199203280POR.html
+Sat Mar 28 1992,Seattle SuperSonics,New York Knicks,87,92,Seattle Center Coliseum,14812,/boxscores/199203280SEA.html
+Sat Mar 28 1992,Washington Bullets,Charlotte Hornets,113,97,Capital Centre,17522,/boxscores/199203280WSB.html
+Sun Mar 29 1992,Boston Celtics,Atlanta Hawks,117,93,Boston Garden,14890,/boxscores/199203290BOS.html
+Sun Mar 29 1992,Dallas Mavericks,Denver Nuggets,105,98,Reunion Arena,16203,/boxscores/199203290DAL.html
+Sun Mar 29 1992,Detroit Pistons,San Antonio Spurs,107,103,The Palace of Auburn Hills,21454,/boxscores/199203290DET.html
+Sun Mar 29 1992,Los Angeles Lakers,Philadelphia 76ers,117,88,Great Western Forum,17505,/boxscores/199203290LAL.html
+Sun Mar 29 1992,Minnesota Timberwolves,Sacramento Kings,86,112,Target Center,19006,/boxscores/199203290MIN.html
+Sun Mar 29 1992,Portland Trail Blazers,New York Knicks,96,107,Memorial Coliseum,12888,/boxscores/199203290POR.html
+Mon Mar 30 1992,Charlotte Hornets,Orlando Magic,123,112,Charlotte Coliseum,23698,/boxscores/199203300CHH.html
+Mon Mar 30 1992,Golden State Warriors,Philadelphia 76ers,124,106,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199203300GSW.html
+Mon Mar 30 1992,New Jersey Nets,San Antonio Spurs,117,109,Brendan Byrne Arena,16756,/boxscores/199203300NJN.html
+Mon Mar 30 1992,Utah Jazz,Milwaukee Bucks,120,100,Delta Center,19911,/boxscores/199203300UTA.html
+Tue Mar 31 1992,Cleveland Cavaliers,Miami Heat,123,114,Coliseum at Richfield,16020,/boxscores/199203310CLE.html
+Tue Mar 31 1992,Denver Nuggets,Minnesota Timberwolves,114,121,McNichols Sports Arena,12335,/boxscores/199203310DEN.html
+Tue Mar 31 1992,Detroit Pistons,Los Angeles Clippers,81,97,The Palace of Auburn Hills,21454,/boxscores/199203310DET.html
+Tue Mar 31 1992,Houston Rockets,Los Angeles Lakers,101,107,The Summit,15068,/boxscores/199203310HOU.html
+Tue Mar 31 1992,New York Knicks,Chicago Bulls,90,96,Madison Square Garden (IV),19763,/boxscores/199203310NYK.html
+Tue Mar 31 1992,Phoenix Suns,Portland Trail Blazers,128,111,Arizona Veterans Memorial Coliseum,14496,/boxscores/199203310PHO.html
+Tue Mar 31 1992,Sacramento Kings,Golden State Warriors,136,148,ARCO Arena (II),17014,/boxscores/199203310SAC.html
+Tue Mar 31 1992,Seattle SuperSonics,Utah Jazz,122,103,Seattle Center Coliseum,12242,/boxscores/199203310SEA.html

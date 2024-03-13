@@ -1,0 +1,209 @@
+Tue Nov 2 1999,Charlotte Hornets,Orlando Magic,100,86,Charlotte Coliseum,17461,/boxscores/199911020CHH.html
+Tue Nov 2 1999,Dallas Mavericks,Golden State Warriors,108,96,Reunion Arena,12848,/boxscores/199911020DAL.html
+Tue Nov 2 1999,Denver Nuggets,Phoenix Suns,107,102,Pepsi Center,19099,/boxscores/199911020DEN.html
+Tue Nov 2 1999,Houston Rockets,Milwaukee Bucks,93,98,Compaq Center,14491,/boxscores/199911020HOU.html
+Tue Nov 2 1999,Los Angeles Clippers,Seattle SuperSonics,92,104,STAPLES Center,17847,/boxscores/199911020LAC.html
+Tue Nov 2 1999,Miami Heat,Detroit Pistons,128,122,Miami Arena,14623,/boxscores/199911020MIA.html
+Tue Nov 2 1999,New Jersey Nets,Indiana Pacers,112,119,Continental Airlines Arena,13051,/boxscores/199911020NJN.html
+Tue Nov 2 1999,New York Knicks,Cleveland Cavaliers,92,84,Madison Square Garden (IV),19763,/boxscores/199911020NYK.html
+Tue Nov 2 1999,San Antonio Spurs,Philadelphia 76ers,89,76,Alamodome,27288,/boxscores/199911020SAS.html
+Tue Nov 2 1999,Toronto Raptors,Boston Celtics,90,103,Air Canada Centre,17711,/boxscores/199911020TOR.html
+Tue Nov 2 1999,Utah Jazz,Los Angeles Lakers,84,91,Delta Center,19911,/boxscores/199911020UTA.html
+Tue Nov 2 1999,Vancouver Grizzlies,Portland Trail Blazers,86,106,General Motors Place,18218,/boxscores/199911020VAN.html
+Tue Nov 2 1999,Washington Wizards,Atlanta Hawks,94,87,MCI Center,16038,/boxscores/199911020WAS.html
+Wed Nov 3 1999,Boston Celtics,Washington Wizards,112,101,FleetCenter,16082,/boxscores/199911030BOS.html
+Wed Nov 3 1999,Chicago Bulls,New York Knicks,74,84,United Center,22176,/boxscores/199911030CHI.html
+Wed Nov 3 1999,Cleveland Cavaliers,New Jersey Nets,97,90,Gund Arena,16777,/boxscores/199911030CLE.html
+Wed Nov 3 1999,Los Angeles Lakers,Vancouver Grizzlies,103,88,STAPLES Center,18997,/boxscores/199911030LAL.html
+Wed Nov 3 1999,Orlando Magic,Detroit Pistons,103,94,TD Waterhouse Centre,14253,/boxscores/199911030ORL.html
+Wed Nov 3 1999,Portland Trail Blazers,Los Angeles Clippers,121,98,Rose Garden Arena,20584,/boxscores/199911030POR.html
+Thu Nov 4 1999,Atlanta Hawks,Milwaukee Bucks,109,119,Philips Arena,18514,/boxscores/199911040ATL.html
+Thu Nov 4 1999,Charlotte Hornets,Indiana Pacers,98,89,Charlotte Coliseum,15762,/boxscores/199911040CHH.html
+Thu Nov 4 1999,Phoenix Suns,Philadelphia 76ers,84,80,America West Arena,19023,/boxscores/199911040PHO.html
+Thu Nov 4 1999,San Antonio Spurs,Golden State Warriors,104,81,Alamodome,14508,/boxscores/199911040SAS.html
+Thu Nov 4 1999,Seattle SuperSonics,Dallas Mavericks,106,96,KeyArena at Seattle Center,16140,/boxscores/199911040SEA.html
+Thu Nov 4 1999,Toronto Raptors,Miami Heat,97,86,Air Canada Centre,16389,/boxscores/199911040TOR.html
+Thu Nov 4 1999,Utah Jazz,Houston Rockets,98,82,Delta Center,19142,/boxscores/199911040UTA.html
+Fri Nov 5 1999,Boston Celtics,Charlotte Hornets,103,100,FleetCenter,16582,/boxscores/199911050BOS.html
+Fri Nov 5 1999,Chicago Bulls,Miami Heat,87,105,United Center,21972,/boxscores/199911050CHI.html
+Fri Nov 5 1999,Detroit Pistons,New York Knicks,91,103,The Palace of Auburn Hills,22076,/boxscores/199911050DET.html
+Fri Nov 5 1999,Houston Rockets,San Antonio Spurs,85,95,Compaq Center,16285,/boxscores/199911050HOU.html
+Fri Nov 5 1999,Los Angeles Clippers,Philadelphia 76ers,91,81,STAPLES Center,14271,/boxscores/199911050LAC.html
+Fri Nov 5 1999,New Jersey Nets,Toronto Raptors,92,112,Continental Airlines Arena,15517,/boxscores/199911050NJN.html
+Fri Nov 5 1999,Orlando Magic,Cleveland Cavaliers,99,104,TD Waterhouse Centre,13142,/boxscores/199911050ORL.html
+Fri Nov 5 1999,Portland Trail Blazers,Denver Nuggets,95,83,Rose Garden Arena,19995,/boxscores/199911050POR.html
+Fri Nov 5 1999,Sacramento Kings,Minnesota Timberwolves,100,95,Tokyo Dome,32623,/boxscores/199911050SAC.html
+Sat Nov 6 1999,Atlanta Hawks,Chicago Bulls,113,97,Philips Arena,13342,/boxscores/199911060ATL.html
+Sat Nov 6 1999,Cleveland Cavaliers,New York Knicks,102,93,Gund Arena,17604,/boxscores/199911060CLE.html
+Sat Nov 6 1999,Golden State Warriors,Dallas Mavericks,97,120,The Arena in Oakland,12708,/boxscores/199911060GSW.html
+Sat Nov 6 1999,Indiana Pacers,Boston Celtics,115,108,Conseco Fieldhouse,18345,/boxscores/199911060IND.html
+Sat Nov 6 1999,Milwaukee Bucks,Detroit Pistons,121,111,Bradley Center,18374,/boxscores/199911060MIL.html
+Sat Nov 6 1999,Minnesota Timberwolves,Sacramento Kings,114,101,Tokyo Dome,34013,/boxscores/199911060MIN.html
+Sat Nov 6 1999,Portland Trail Blazers,Los Angeles Lakers,97,82,Rose Garden Arena,20584,/boxscores/199911060POR.html
+Sat Nov 6 1999,Seattle SuperSonics,Utah Jazz,99,94,KeyArena at Seattle Center,17072,/boxscores/199911060SEA.html
+Sat Nov 6 1999,Vancouver Grizzlies,Denver Nuggets,109,94,General Motors Place,12159,/boxscores/199911060VAN.html
+Sat Nov 6 1999,Washington Wizards,Orlando Magic,104,107,MCI Center,14954,/boxscores/199911060WAS.html
+Sun Nov 7 1999,Los Angeles Lakers,Dallas Mavericks,105,97,STAPLES Center,18068,/boxscores/199911070LAL.html
+Sun Nov 7 1999,New Jersey Nets,Washington Wizards,112,87,Continental Airlines Arena,14686,/boxscores/199911070NJN.html
+Sun Nov 7 1999,Phoenix Suns,San Antonio Spurs,77,74,America West Arena,19023,/boxscores/199911070PHO.html
+Sun Nov 7 1999,Toronto Raptors,Charlotte Hornets,109,99,Air Canada Centre,16658,/boxscores/199911070TOR.html
+Mon Nov 8 1999,Denver Nuggets,Atlanta Hawks,115,100,Pepsi Center,9108,/boxscores/199911080DEN.html
+Mon Nov 8 1999,Houston Rockets,Orlando Magic,97,102,Compaq Center,13970,/boxscores/199911080HOU.html
+Mon Nov 8 1999,Los Angeles Clippers,Utah Jazz,79,94,STAPLES Center,9686,/boxscores/199911080LAC.html
+Mon Nov 8 1999,New York Knicks,Milwaukee Bucks,111,101,Madison Square Garden (IV),19763,/boxscores/199911080NYK.html
+Mon Nov 8 1999,Philadelphia 76ers,Seattle SuperSonics,117,98,First Union Center,19402,/boxscores/199911080PHI.html
+Tue Nov 9 1999,Chicago Bulls,Phoenix Suns,80,103,United Center,22026,/boxscores/199911090CHI.html
+Tue Nov 9 1999,Dallas Mavericks,Los Angeles Lakers,101,123,Reunion Arena,17349,/boxscores/199911090DAL.html
+Tue Nov 9 1999,Golden State Warriors,San Antonio Spurs,89,118,The Arena in Oakland,11601,/boxscores/199911090GSW.html
+Tue Nov 9 1999,Miami Heat,Indiana Pacers,113,101,Miami Arena,15200,/boxscores/199911090MIA.html
+Tue Nov 9 1999,Utah Jazz,Portland Trail Blazers,92,87,Delta Center,19538,/boxscores/199911090UTA.html
+Wed Nov 10 1999,Boston Celtics,Detroit Pistons,92,110,FleetCenter,15638,/boxscores/199911100BOS.html
+Wed Nov 10 1999,Charlotte Hornets,Milwaukee Bucks,117,111,Charlotte Coliseum,15769,/boxscores/199911100CHH.html
+Wed Nov 10 1999,Houston Rockets,Los Angeles Lakers,88,89,Compaq Center,16285,/boxscores/199911100HOU.html
+Wed Nov 10 1999,Los Angeles Clippers,San Antonio Spurs,94,99,STAPLES Center,11118,/boxscores/199911100LAC.html
+Wed Nov 10 1999,New Jersey Nets,Phoenix Suns,89,104,Continental Airlines Arena,11652,/boxscores/199911100NJN.html
+Wed Nov 10 1999,Orlando Magic,Philadelphia 76ers,110,105,TD Waterhouse Centre,14056,/boxscores/199911100ORL.html
+Wed Nov 10 1999,Vancouver Grizzlies,Atlanta Hawks,102,97,General Motors Place,11453,/boxscores/199911100VAN.html
+Wed Nov 10 1999,Washington Wizards,Seattle SuperSonics,95,109,MCI Center,13213,/boxscores/199911100WAS.html
+Thu Nov 11 1999,Cleveland Cavaliers,Seattle SuperSonics,103,109,Gund Arena,11864,/boxscores/199911110CLE.html
+Thu Nov 11 1999,Detroit Pistons,Toronto Raptors,106,123,The Palace of Auburn Hills,13157,/boxscores/199911110DET.html
+Thu Nov 11 1999,Indiana Pacers,Orlando Magic,116,101,Conseco Fieldhouse,18345,/boxscores/199911110IND.html
+Thu Nov 11 1999,Miami Heat,Dallas Mavericks,128,105,Miami Arena,14683,/boxscores/199911110MIA.html
+Thu Nov 11 1999,Minnesota Timberwolves,New York Knicks,93,90,Target Center,18397,/boxscores/199911110MIN.html
+Fri Nov 12 1999,Boston Celtics,New York Knicks,80,74,FleetCenter,18624,/boxscores/199911120BOS.html
+Fri Nov 12 1999,Charlotte Hornets,New Jersey Nets,96,92,Charlotte Coliseum,16668,/boxscores/199911120CHH.html
+Fri Nov 12 1999,Denver Nuggets,Portland Trail Blazers,78,93,Pepsi Center,17512,/boxscores/199911120DEN.html
+Fri Nov 12 1999,Los Angeles Lakers,Houston Rockets,81,97,STAPLES Center,18359,/boxscores/199911120LAL.html
+Fri Nov 12 1999,Milwaukee Bucks,Phoenix Suns,107,92,Bradley Center,16137,/boxscores/199911120MIL.html
+Fri Nov 12 1999,Philadelphia 76ers,Chicago Bulls,92,86,First Union Center,18120,/boxscores/199911120PHI.html
+Fri Nov 12 1999,Sacramento Kings,Utah Jazz,105,92,ARCO Arena (II),17317,/boxscores/199911120SAC.html
+Fri Nov 12 1999,Vancouver Grizzlies,Golden State Warriors,93,103,General Motors Place,12792,/boxscores/199911120VAN.html
+Fri Nov 12 1999,Washington Wizards,Miami Heat,95,104,MCI Center,13941,/boxscores/199911120WAS.html
+Sat Nov 13 1999,Chicago Bulls,Boston Celtics,92,91,United Center,22108,/boxscores/199911130CHI.html
+Sat Nov 13 1999,Cleveland Cavaliers,Milwaukee Bucks,117,112,Gund Arena,18640,/boxscores/199911130CLE.html
+Sat Nov 13 1999,Dallas Mavericks,Orlando Magic,125,117,Reunion Arena,12558,/boxscores/199911130DAL.html
+Sat Nov 13 1999,Detroit Pistons,Seattle SuperSonics,107,99,The Palace of Auburn Hills,14266,/boxscores/199911130DET.html
+Sat Nov 13 1999,Golden State Warriors,Houston Rockets,95,103,The Arena in Oakland,11684,/boxscores/199911130GSW.html
+Sat Nov 13 1999,Indiana Pacers,Washington Wizards,105,83,Conseco Fieldhouse,18345,/boxscores/199911130IND.html
+Sat Nov 13 1999,Minnesota Timberwolves,Phoenix Suns,111,100,Target Center,20003,/boxscores/199911130MIN.html
+Sat Nov 13 1999,Portland Trail Blazers,Atlanta Hawks,131,95,Rose Garden Arena,20404,/boxscores/199911130POR.html
+Sat Nov 13 1999,San Antonio Spurs,Charlotte Hornets,95,79,Alamodome,19669,/boxscores/199911130SAS.html
+Sun Nov 14 1999,Los Angeles Lakers,Atlanta Hawks,93,88,STAPLES Center,18510,/boxscores/199911140LAL.html
+Sun Nov 14 1999,New York Knicks,Miami Heat,88,94,Madison Square Garden (IV),19763,/boxscores/199911140NYK.html
+Sun Nov 14 1999,Sacramento Kings,Denver Nuggets,126,116,ARCO Arena (II),15491,/boxscores/199911140SAC.html
+Sun Nov 14 1999,Toronto Raptors,Philadelphia 76ers,90,93,Air Canada Centre,16661,/boxscores/199911140TOR.html
+Sun Nov 14 1999,Vancouver Grizzlies,Los Angeles Clippers,109,89,General Motors Place,12774,/boxscores/199911140VAN.html
+Mon Nov 15 1999,Houston Rockets,Indiana Pacers,87,96,Compaq Center,14866,/boxscores/199911150HOU.html
+Mon Nov 15 1999,New Jersey Nets,Seattle SuperSonics,92,100,Continental Airlines Arena,12474,/boxscores/199911150NJN.html
+Mon Nov 15 1999,Phoenix Suns,Los Angeles Lakers,82,91,America West Arena,19023,/boxscores/199911150PHO.html
+Mon Nov 15 1999,Utah Jazz,San Antonio Spurs,91,85,Delta Center,19584,/boxscores/199911150UTA.html
+Tue Nov 16 1999,Atlanta Hawks,Charlotte Hornets,103,98,Philips Arena,11426,/boxscores/199911160ATL.html
+Tue Nov 16 1999,Dallas Mavericks,Houston Rockets,114,95,Reunion Arena,14371,/boxscores/199911160DAL.html
+Tue Nov 16 1999,Denver Nuggets,New York Knicks,95,102,Pepsi Center,13196,/boxscores/199911160DEN.html
+Tue Nov 16 1999,Golden State Warriors,Chicago Bulls,99,79,The Arena in Oakland,10340,/boxscores/199911160GSW.html
+Tue Nov 16 1999,Miami Heat,Portland Trail Blazers,96,101,Miami Arena,15200,/boxscores/199911160MIA.html
+Tue Nov 16 1999,Milwaukee Bucks,Los Angeles Clippers,101,93,Bradley Center,12465,/boxscores/199911160MIL.html
+Tue Nov 16 1999,Sacramento Kings,Vancouver Grizzlies,81,77,ARCO Arena (II),14169,/boxscores/199911160SAC.html
+Tue Nov 16 1999,San Antonio Spurs,Indiana Pacers,90,87,Alamodome,15905,/boxscores/199911160SAS.html
+Tue Nov 16 1999,Toronto Raptors,Detroit Pistons,89,85,Air Canada Centre,14273,/boxscores/199911160TOR.html
+Tue Nov 16 1999,Washington Wizards,Philadelphia 76ers,73,95,MCI Center,14524,/boxscores/199911160WAS.html
+Wed Nov 17 1999,Boston Celtics,Cleveland Cavaliers,114,103,FleetCenter,14140,/boxscores/199911170BOS.html
+Wed Nov 17 1999,Charlotte Hornets,Dallas Mavericks,104,99,Charlotte Coliseum,15137,/boxscores/199911170CHH.html
+Wed Nov 17 1999,Detroit Pistons,New Jersey Nets,109,107,The Palace of Auburn Hills,12683,/boxscores/199911170DET.html
+Wed Nov 17 1999,Minnesota Timberwolves,Los Angeles Clippers,85,89,Target Center,13677,/boxscores/199911170MIN.html
+Wed Nov 17 1999,Orlando Magic,Portland Trail Blazers,79,81,TD Waterhouse Centre,13542,/boxscores/199911170ORL.html
+Wed Nov 17 1999,Philadelphia 76ers,Miami Heat,93,98,First Union Center,15671,/boxscores/199911170PHI.html
+Wed Nov 17 1999,Phoenix Suns,Chicago Bulls,105,81,America West Arena,18480,/boxscores/199911170PHO.html
+Wed Nov 17 1999,Seattle SuperSonics,Golden State Warriors,111,108,KeyArena at Seattle Center,15336,/boxscores/199911170SEA.html
+Wed Nov 17 1999,Utah Jazz,New York Knicks,98,90,Delta Center,18890,/boxscores/199911170UTA.html
+Thu Nov 18 1999,Denver Nuggets,Los Angeles Lakers,93,82,Pepsi Center,15218,/boxscores/199911180DEN.html
+Thu Nov 18 1999,Houston Rockets,Sacramento Kings,110,128,Compaq Center,14898,/boxscores/199911180HOU.html
+Thu Nov 18 1999,Milwaukee Bucks,San Antonio Spurs,99,88,Bradley Center,15184,/boxscores/199911180MIL.html
+Thu Nov 18 1999,Vancouver Grizzlies,Seattle SuperSonics,108,110,General Motors Place,12275,/boxscores/199911180VAN.html
+Thu Nov 18 1999,Washington Wizards,Toronto Raptors,92,81,MCI Center,12134,/boxscores/199911180WAS.html
+Fri Nov 19 1999,Boston Celtics,New Jersey Nets,109,96,FleetCenter,15201,/boxscores/199911190BOS.html
+Fri Nov 19 1999,Dallas Mavericks,Sacramento Kings,94,103,Reunion Arena,15507,/boxscores/199911190DAL.html
+Fri Nov 19 1999,Detroit Pistons,Cleveland Cavaliers,101,90,The Palace of Auburn Hills,15377,/boxscores/199911190DET.html
+Fri Nov 19 1999,Indiana Pacers,Atlanta Hawks,99,105,Conseco Fieldhouse,18345,/boxscores/199911190IND.html
+Fri Nov 19 1999,Los Angeles Lakers,Chicago Bulls,103,95,STAPLES Center,18401,/boxscores/199911190LAL.html
+Fri Nov 19 1999,Minnesota Timberwolves,Utah Jazz,89,84,Target Center,17517,/boxscores/199911190MIN.html
+Fri Nov 19 1999,Orlando Magic,Charlotte Hornets,92,103,TD Waterhouse Centre,12936,/boxscores/199911190ORL.html
+Fri Nov 19 1999,Philadelphia 76ers,Portland Trail Blazers,91,97,First Union Center,20622,/boxscores/199911190PHI.html
+Fri Nov 19 1999,Phoenix Suns,New York Knicks,96,81,America West Arena,19023,/boxscores/199911190PHO.html
+Fri Nov 19 1999,Toronto Raptors,Los Angeles Clippers,106,100,Air Canada Centre,16368,/boxscores/199911190TOR.html
+Sat Nov 20 1999,Atlanta Hawks,Orlando Magic,103,107,Philips Arena,14338,/boxscores/199911200ATL.html
+Sat Nov 20 1999,Charlotte Hornets,Portland Trail Blazers,96,100,Charlotte Coliseum,20688,/boxscores/199911200CHH.html
+Sat Nov 20 1999,Cleveland Cavaliers,Indiana Pacers,98,107,Gund Arena,13806,/boxscores/199911200CLE.html
+Sat Nov 20 1999,Denver Nuggets,Chicago Bulls,95,86,Pepsi Center,15920,/boxscores/199911200DEN.html
+Sat Nov 20 1999,Golden State Warriors,New York Knicks,79,86,The Arena in Oakland,18533,/boxscores/199911200GSW.html
+Sat Nov 20 1999,Miami Heat,Boston Celtics,110,92,Miami Arena,15200,/boxscores/199911200MIA.html
+Sat Nov 20 1999,Milwaukee Bucks,Utah Jazz,100,111,Bradley Center,18027,/boxscores/199911200MIL.html
+Sat Nov 20 1999,New Jersey Nets,Philadelphia 76ers,96,100,Continental Airlines Arena,15118,/boxscores/199911200NJN.html
+Sat Nov 20 1999,San Antonio Spurs,Dallas Mavericks,106,90,Alamodome,16596,/boxscores/199911200SAS.html
+Sat Nov 20 1999,Seattle SuperSonics,Houston Rockets,110,107,KeyArena at Seattle Center,15816,/boxscores/199911200SEA.html
+Sat Nov 20 1999,Washington Wizards,Los Angeles Clippers,89,98,MCI Center,11753,/boxscores/199911200WAS.html
+Sun Nov 21 1999,Detroit Pistons,Milwaukee Bucks,113,94,The Palace of Auburn Hills,13163,/boxscores/199911210DET.html
+Sun Nov 21 1999,Los Angeles Lakers,Toronto Raptors,102,111,STAPLES Center,18676,/boxscores/199911210LAL.html
+Sun Nov 21 1999,Phoenix Suns,Seattle SuperSonics,99,86,America West Arena,18663,/boxscores/199911210PHO.html
+Sun Nov 21 1999,Sacramento Kings,Houston Rockets,110,105,ARCO Arena (II),17317,/boxscores/199911210SAC.html
+Sun Nov 21 1999,Vancouver Grizzlies,Minnesota Timberwolves,81,105,General Motors Place,12493,/boxscores/199911210VAN.html
+Mon Nov 22 1999,Boston Celtics,Indiana Pacers,95,85,FleetCenter,15728,/boxscores/199911220BOS.html
+Mon Nov 22 1999,Philadelphia 76ers,San Antonio Spurs,91,94,First Union Center,16553,/boxscores/199911220PHI.html
+Mon Nov 22 1999,Utah Jazz,Minnesota Timberwolves,108,93,Delta Center,19725,/boxscores/199911220UTA.html
+Tue Nov 23 1999,Atlanta Hawks,Miami Heat,113,106,Philips Arena,11279,/boxscores/199911230ATL.html
+Tue Nov 23 1999,Cleveland Cavaliers,Portland Trail Blazers,103,100,Gund Arena,13565,/boxscores/199911230CLE.html
+Tue Nov 23 1999,Houston Rockets,Dallas Mavericks,119,99,Compaq Center,15088,/boxscores/199911230HOU.html
+Tue Nov 23 1999,Los Angeles Clippers,New York Knicks,100,95,STAPLES Center,14487,/boxscores/199911230LAC.html
+Tue Nov 23 1999,Phoenix Suns,Toronto Raptors,94,93,America West Arena,18718,/boxscores/199911230PHO.html
+Tue Nov 23 1999,Sacramento Kings,New Jersey Nets,105,92,ARCO Arena (II),17021,/boxscores/199911230SAC.html
+Tue Nov 23 1999,Washington Wizards,Vancouver Grizzlies,89,87,MCI Center,11219,/boxscores/199911230WAS.html
+Wed Nov 24 1999,Boston Celtics,San Antonio Spurs,98,121,FleetCenter,17426,/boxscores/199911240BOS.html
+Wed Nov 24 1999,Charlotte Hornets,Vancouver Grizzlies,89,73,Charlotte Coliseum,16003,/boxscores/199911240CHH.html
+Wed Nov 24 1999,Denver Nuggets,Toronto Raptors,109,84,Pepsi Center,13624,/boxscores/199911240DEN.html
+Wed Nov 24 1999,Golden State Warriors,New Jersey Nets,84,92,The Arena in Oakland,10017,/boxscores/199911240GSW.html
+Wed Nov 24 1999,Los Angeles Lakers,Utah Jazz,90,82,STAPLES Center,18997,/boxscores/199911240LAL.html
+Wed Nov 24 1999,Miami Heat,Atlanta Hawks,93,91,Miami Arena,14554,/boxscores/199911240MIA.html
+Wed Nov 24 1999,Milwaukee Bucks,Chicago Bulls,102,95,Bradley Center,14209,/boxscores/199911240MIL.html
+Wed Nov 24 1999,Minnesota Timberwolves,Portland Trail Blazers,81,88,Target Center,16219,/boxscores/199911240MIN.html
+Wed Nov 24 1999,Orlando Magic,Dallas Mavericks,112,100,TD Waterhouse Centre,12741,/boxscores/199911240ORL.html
+Wed Nov 24 1999,Philadelphia 76ers,Washington Wizards,93,101,First Union Center,14616,/boxscores/199911240PHI.html
+Thu Nov 25 1999,Indiana Pacers,Detroit Pistons,99,107,Conseco Fieldhouse,18345,/boxscores/199911250IND.html
+Fri Nov 26 1999,Boston Celtics,Milwaukee Bucks,112,114,FleetCenter,18027,/boxscores/199911260BOS.html
+Fri Nov 26 1999,Charlotte Hornets,Washington Wizards,118,85,Charlotte Coliseum,18542,/boxscores/199911260CHH.html
+Fri Nov 26 1999,Denver Nuggets,Minnesota Timberwolves,114,105,Pepsi Center,18506,/boxscores/199911260DEN.html
+Fri Nov 26 1999,Detroit Pistons,Atlanta Hawks,93,91,The Palace of Auburn Hills,17891,/boxscores/199911260DET.html
+Fri Nov 26 1999,Indiana Pacers,Vancouver Grizzlies,105,86,Conseco Fieldhouse,18345,/boxscores/199911260IND.html
+Fri Nov 26 1999,Los Angeles Lakers,New Jersey Nets,103,80,STAPLES Center,18997,/boxscores/199911260LAL.html
+Fri Nov 26 1999,Philadelphia 76ers,Cleveland Cavaliers,106,83,First Union Center,16320,/boxscores/199911260PHI.html
+Fri Nov 26 1999,Portland Trail Blazers,Houston Rockets,91,88,Rose Garden Arena,20477,/boxscores/199911260POR.html
+Fri Nov 26 1999,Sacramento Kings,Golden State Warriors,124,95,ARCO Arena (II),17317,/boxscores/199911260SAC.html
+Fri Nov 26 1999,San Antonio Spurs,Chicago Bulls,101,78,Alamodome,24919,/boxscores/199911260SAS.html
+Fri Nov 26 1999,Seattle SuperSonics,Los Angeles Clippers,98,93,KeyArena at Seattle Center,14439,/boxscores/199911260SEA.html
+Fri Nov 26 1999,Utah Jazz,Toronto Raptors,87,100,Delta Center,19771,/boxscores/199911260UTA.html
+Sat Nov 27 1999,Atlanta Hawks,Boston Celtics,94,84,Philips Arena,13736,/boxscores/199911270ATL.html
+Sat Nov 27 1999,Cleveland Cavaliers,Charlotte Hornets,106,89,Gund Arena,15194,/boxscores/199911270CLE.html
+Sat Nov 27 1999,Dallas Mavericks,Chicago Bulls,95,83,Reunion Arena,14436,/boxscores/199911270DAL.html
+Sat Nov 27 1999,Golden State Warriors,Toronto Raptors,88,106,The Arena in Oakland,12251,/boxscores/199911270GSW.html
+Sat Nov 27 1999,Los Angeles Clippers,Portland Trail Blazers,71,88,STAPLES Center,14552,/boxscores/199911270LAC.html
+Sat Nov 27 1999,Miami Heat,Washington Wizards,89,86,Miami Arena,14621,/boxscores/199911270MIA.html
+Sat Nov 27 1999,Milwaukee Bucks,Philadelphia 76ers,79,82,Bradley Center,15216,/boxscores/199911270MIL.html
+Sat Nov 27 1999,Minnesota Timberwolves,Vancouver Grizzlies,113,82,Target Center,16881,/boxscores/199911270MIN.html
+Sat Nov 27 1999,New York Knicks,Orlando Magic,99,96,Madison Square Garden (IV),19763,/boxscores/199911270NYK.html
+Sat Nov 27 1999,Phoenix Suns,New Jersey Nets,129,90,America West Arena,19023,/boxscores/199911270PHO.html
+Sat Nov 27 1999,San Antonio Spurs,Denver Nuggets,106,87,Alamodome,22188,/boxscores/199911270SAS.html
+Sun Nov 28 1999,Detroit Pistons,Orlando Magic,99,108,The Palace of Auburn Hills,13212,/boxscores/199911280DET.html
+Sun Nov 28 1999,Seattle SuperSonics,Indiana Pacers,102,91,KeyArena at Seattle Center,14644,/boxscores/199911280SEA.html
+Mon Nov 29 1999,Miami Heat,Sacramento Kings,98,88,Miami Arena,14723,/boxscores/199911290MIA.html
+Mon Nov 29 1999,New York Knicks,Dallas Mavericks,107,82,Madison Square Garden (IV),19763,/boxscores/199911290NYK.html
+Mon Nov 29 1999,Portland Trail Blazers,Indiana Pacers,91,93,Rose Garden Arena,20049,/boxscores/199911290POR.html
+Mon Nov 29 1999,Utah Jazz,Golden State Warriors,115,99,Delta Center,18892,/boxscores/199911290UTA.html
+Mon Nov 29 1999,Vancouver Grizzlies,Houston Rockets,110,118,General Motors Place,15086,/boxscores/199911290VAN.html
+Tue Nov 30 1999,Cleveland Cavaliers,Dallas Mavericks,106,99,Gund Arena,11033,/boxscores/199911300CLE.html
+Tue Nov 30 1999,Los Angeles Clippers,Phoenix Suns,80,94,STAPLES Center,10233,/boxscores/199911300LAC.html
+Tue Nov 30 1999,Minnesota Timberwolves,Denver Nuggets,109,92,Target Center,13117,/boxscores/199911300MIN.html
+Tue Nov 30 1999,New Jersey Nets,Washington Wizards,78,85,Continental Airlines Arena,13507,/boxscores/199911300NJN.html
+Tue Nov 30 1999,Orlando Magic,Sacramento Kings,102,111,TD Waterhouse Centre,14439,/boxscores/199911300ORL.html
+Tue Nov 30 1999,Philadelphia 76ers,New York Knicks,74,70,First Union Center,17420,/boxscores/199911300PHI.html
+Tue Nov 30 1999,San Antonio Spurs,Detroit Pistons,106,87,Alamodome,18328,/boxscores/199911300SAS.html
+Tue Nov 30 1999,Seattle SuperSonics,Los Angeles Lakers,77,101,KeyArena at Seattle Center,17072,/boxscores/199911300SEA.html
+Tue Nov 30 1999,Toronto Raptors,Atlanta Hawks,89,107,Air Canada Centre,16862,/boxscores/199911300TOR.html

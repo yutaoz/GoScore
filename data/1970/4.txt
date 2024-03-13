@@ -1,0 +1,24 @@
+Wed Apr 1 1970,Philadelphia 76ers,Milwaukee Bucks,111,118,The Spectrum,0,/boxscores/197004010PHI.html
+Thu Apr 2 1970,New York Knicks,Baltimore Bullets,101,80,Madison Square Garden (IV),0,/boxscores/197004020NYK.html
+Thu Apr 2 1970,Phoenix Suns,Los Angeles Lakers,112,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197004020PHO.html
+Fri Apr 3 1970,Chicago Bulls,Atlanta Hawks,131,120,Chicago Stadium,0,/boxscores/197004030CHI.html
+Fri Apr 3 1970,Milwaukee Bucks,Philadelphia 76ers,115,106,University of Wisconsin Fieldhouse,0,/boxscores/197004030MIL.html
+Sat Apr 4 1970,Phoenix Suns,Los Angeles Lakers,112,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197004040PHO.html
+Sun Apr 5 1970,Atlanta Hawks,Chicago Bulls,113,107,Alexander Memorial Coliseum,0,/boxscores/197004050ATL.html
+Sun Apr 5 1970,Baltimore Bullets,New York Knicks,96,87,Baltimore Civic Center,0,/boxscores/197004050BAL.html
+Sun Apr 5 1970,Los Angeles Lakers,Phoenix Suns,138,121,The Forum,0,/boxscores/197004050LAL.html
+Mon Apr 6 1970,New York Knicks,Baltimore Bullets,127,114,Madison Square Garden (IV),0,/boxscores/197004060NYK.html
+Tue Apr 7 1970,Phoenix Suns,Los Angeles Lakers,93,104,Arizona Veterans Memorial Coliseum,0,/boxscores/197004070PHO.html
+Thu Apr 9 1970,Los Angeles Lakers,Phoenix Suns,129,94,The Forum,0,/boxscores/197004090LAL.html
+Sat Apr 11 1970,New York Knicks,Milwaukee Bucks,110,102,Madison Square Garden (IV),0,/boxscores/197004110NYK.html
+Sun Apr 12 1970,Atlanta Hawks,Los Angeles Lakers,115,119,Alexander Memorial Coliseum,0,/boxscores/197004120ATL.html
+Mon Apr 13 1970,New York Knicks,Milwaukee Bucks,112,111,Madison Square Garden (IV),0,/boxscores/197004130NYK.html
+Tue Apr 14 1970,Atlanta Hawks,Los Angeles Lakers,94,105,Alexander Memorial Coliseum,0,/boxscores/197004140ATL.html
+Fri Apr 17 1970,Los Angeles Lakers,Atlanta Hawks,115,114,The Forum,0,/boxscores/197004170LAL.html
+Fri Apr 17 1970,Milwaukee Bucks,New York Knicks,101,96,Milwaukee Arena,10746,/boxscores/197004170MIL.html
+Sun Apr 19 1970,Los Angeles Lakers,Atlanta Hawks,133,114,The Forum,0,/boxscores/197004190LAL.html
+Sun Apr 19 1970,Milwaukee Bucks,New York Knicks,105,117,Milwaukee Arena,10746,/boxscores/197004190MIL.html
+Mon Apr 20 1970,New York Knicks,Milwaukee Bucks,132,96,Madison Square Garden (IV),0,/boxscores/197004200NYK.html
+Fri Apr 24 1970,New York Knicks,Los Angeles Lakers,124,112,Madison Square Garden (IV),19500,/boxscores/197004240NYK.html
+Mon Apr 27 1970,New York Knicks,Los Angeles Lakers,103,105,Madison Square Garden (IV),19500,/boxscores/197004270NYK.html
+Wed Apr 29 1970,Los Angeles Lakers,New York Knicks,108,111,The Forum,17500,/boxscores/197004290LAL.html

@@ -1,0 +1,226 @@
+Sat Nov 1 2008,Atlanta Hawks,Philadelphia 76ers,95,88,Philips Arena,19651,/boxscores/200811010ATL.html
+Sat Nov 1 2008,Charlotte Bobcats,Miami Heat,100,87,Time Warner Cable Arena,19238,/boxscores/200811010CHA.html
+Sat Nov 1 2008,Indiana Pacers,Boston Celtics,95,79,Conseco Fieldhouse,18165,/boxscores/200811010IND.html
+Sat Nov 1 2008,Orlando Magic,Sacramento Kings,121,103,Amway Arena,16704,/boxscores/200811010ORL.html
+Sat Nov 1 2008,Detroit Pistons,Washington Wizards,117,109,The Palace of Auburn Hills,22076,/boxscores/200811010DET.html
+Sat Nov 1 2008,New Jersey Nets,Golden State Warriors,97,105,Izod Center,17390,/boxscores/200811010NJN.html
+Sat Nov 1 2008,Minnesota Timberwolves,Dallas Mavericks,85,95,Target Center,16893,/boxscores/200811010MIN.html
+Sat Nov 1 2008,New Orleans Hornets,Cleveland Cavaliers,104,92,New Orleans Arena,18150,/boxscores/200811010NOH.html
+Sat Nov 1 2008,Chicago Bulls,Memphis Grizzlies,96,86,United Center,21785,/boxscores/200811010CHI.html
+Sat Nov 1 2008,Houston Rockets,Oklahoma City Thunder,89,77,Toyota Center,16996,/boxscores/200811010HOU.html
+Sat Nov 1 2008,Milwaukee Bucks,Toronto Raptors,87,91,Bradley Center,17036,/boxscores/200811010MIL.html
+Sat Nov 1 2008,Denver Nuggets,Los Angeles Lakers,97,104,Pepsi Center,19651,/boxscores/200811010DEN.html
+Sat Nov 1 2008,Utah Jazz,Los Angeles Clippers,101,79,EnergySolutions Arena,19602,/boxscores/200811010UTA.html
+Sat Nov 1 2008,Phoenix Suns,Portland Trail Blazers,107,96,US Airways Center,18422,/boxscores/200811010PHO.html
+Sun Nov 2 2008,New York Knicks,Milwaukee Bucks,86,94,Madison Square Garden (IV),18190,/boxscores/200811020NYK.html
+Sun Nov 2 2008,Oklahoma City Thunder,Minnesota Timberwolves,88,85,Ford Center,18163,/boxscores/200811020OKC.html
+Mon Nov 3 2008,Charlotte Bobcats,Detroit Pistons,83,101,Time Warner Cable Arena,11023,/boxscores/200811030CHA.html
+Mon Nov 3 2008,Orlando Magic,Chicago Bulls,96,93,Amway Arena,15606,/boxscores/200811030ORL.html
+Mon Nov 3 2008,Philadelphia 76ers,Sacramento Kings,125,91,Wachovia Center,10100,/boxscores/200811030PHI.html
+Mon Nov 3 2008,Memphis Grizzlies,Golden State Warriors,90,79,FedEx Forum,10121,/boxscores/200811030MEM.html
+Mon Nov 3 2008,Dallas Mavericks,Cleveland Cavaliers,81,100,American Airlines Center,19923,/boxscores/200811030DAL.html
+Mon Nov 3 2008,Los Angeles Clippers,Utah Jazz,73,89,STAPLES Center,12712,/boxscores/200811030LAC.html
+Tue Nov 4 2008,New Jersey Nets,Phoenix Suns,86,114,Izod Center,15230,/boxscores/200811040NJN.html
+Tue Nov 4 2008,Houston Rockets,Boston Celtics,99,103,Toyota Center,18291,/boxscores/200811040HOU.html
+Tue Nov 4 2008,San Antonio Spurs,Dallas Mavericks,81,98,AT&T Center,17398,/boxscores/200811040SAS.html
+Wed Nov 5 2008,Indiana Pacers,Phoenix Suns,103,113,Conseco Fieldhouse,11660,/boxscores/200811050IND.html
+Wed Nov 5 2008,Toronto Raptors,Detroit Pistons,93,100,Air Canada Centre,18602,/boxscores/200811050TOR.html
+Wed Nov 5 2008,Miami Heat,Philadelphia 76ers,106,83,AmericanAirlines Arena,15103,/boxscores/200811050MIA.html
+Wed Nov 5 2008,New York Knicks,Charlotte Bobcats,101,98,Madison Square Garden (IV),17977,/boxscores/200811050NYK.html
+Wed Nov 5 2008,Cleveland Cavaliers,Chicago Bulls,107,93,Quicken Loans Arena,20562,/boxscores/200811050CLE.html
+Wed Nov 5 2008,Milwaukee Bucks,Washington Wizards,112,104,Bradley Center,13895,/boxscores/200811050MIL.html
+Wed Nov 5 2008,Minnesota Timberwolves,San Antonio Spurs,125,129,Target Center,11112,/boxscores/200811050MIN.html
+Wed Nov 5 2008,New Orleans Hornets,Atlanta Hawks,79,87,New Orleans Arena,16030,/boxscores/200811050NOH.html
+Wed Nov 5 2008,Oklahoma City Thunder,Boston Celtics,83,96,Ford Center,19136,/boxscores/200811050OKC.html
+Wed Nov 5 2008,Utah Jazz,Portland Trail Blazers,103,96,EnergySolutions Arena,19911,/boxscores/200811050UTA.html
+Wed Nov 5 2008,Sacramento Kings,Memphis Grizzlies,100,95,ARCO Arena (II),13685,/boxscores/200811050SAC.html
+Wed Nov 5 2008,Golden State Warriors,Denver Nuggets,111,101,Oracle Arena,18194,/boxscores/200811050GSW.html
+Wed Nov 5 2008,Los Angeles Lakers,Los Angeles Clippers,106,88,STAPLES Center,18997,/boxscores/200811050LAL.html
+Thu Nov 6 2008,Orlando Magic,Philadelphia 76ers,98,88,Amway Arena,16407,/boxscores/200811060ORL.html
+Thu Nov 6 2008,Portland Trail Blazers,Houston Rockets,101,99,Rose Garden Arena,20611,/boxscores/200811060POR.html
+Fri Nov 7 2008,Charlotte Bobcats,New Orleans Hornets,92,89,Time Warner Cable Arena,13435,/boxscores/200811070CHA.html
+Fri Nov 7 2008,Washington Wizards,New York Knicks,108,114,Verizon Center,20173,/boxscores/200811070WAS.html
+Fri Nov 7 2008,Atlanta Hawks,Toronto Raptors,110,92,Philips Arena,18290,/boxscores/200811070ATL.html
+Fri Nov 7 2008,Boston Celtics,Milwaukee Bucks,101,89,TD Banknorth Garden,18624,/boxscores/200811070BOS.html
+Fri Nov 7 2008,Cleveland Cavaliers,Indiana Pacers,111,107,Quicken Loans Arena,20562,/boxscores/200811070CLE.html
+Fri Nov 7 2008,New Jersey Nets,Detroit Pistons,103,96,Izod Center,17767,/boxscores/200811070NJN.html
+Fri Nov 7 2008,San Antonio Spurs,Miami Heat,83,99,AT&T Center,17387,/boxscores/200811070SAS.html
+Fri Nov 7 2008,Chicago Bulls,Phoenix Suns,100,83,United Center,21967,/boxscores/200811070CHI.html
+Fri Nov 7 2008,Utah Jazz,Oklahoma City Thunder,104,97,EnergySolutions Arena,19911,/boxscores/200811070UTA.html
+Fri Nov 7 2008,Sacramento Kings,Minnesota Timberwolves,121,109,ARCO Arena (II),10592,/boxscores/200811070SAC.html
+Fri Nov 7 2008,Denver Nuggets,Dallas Mavericks,108,105,Pepsi Center,19175,/boxscores/200811070DEN.html
+Fri Nov 7 2008,Golden State Warriors,Memphis Grizzlies,104,109,Oracle Arena,18744,/boxscores/200811070GSW.html
+Fri Nov 7 2008,Los Angeles Clippers,Houston Rockets,83,92,STAPLES Center,14670,/boxscores/200811070LAC.html
+Sat Nov 8 2008,Indiana Pacers,New Jersey Nets,98,80,Conseco Fieldhouse,14355,/boxscores/200811080IND.html
+Sat Nov 8 2008,Orlando Magic,Washington Wizards,106,81,Amway Arena,16911,/boxscores/200811080ORL.html
+Sat Nov 8 2008,New Orleans Hornets,Miami Heat,100,89,New Orleans Arena,17701,/boxscores/200811080NOH.html
+Sat Nov 8 2008,Chicago Bulls,Cleveland Cavaliers,97,106,United Center,21965,/boxscores/200811080CHI.html
+Sat Nov 8 2008,Milwaukee Bucks,Phoenix Suns,96,104,Bradley Center,17935,/boxscores/200811080MIL.html
+Sat Nov 8 2008,Portland Trail Blazers,Minnesota Timberwolves,97,93,Rose Garden Arena,20599,/boxscores/200811080POR.html
+Sun Nov 9 2008,Charlotte Bobcats,Toronto Raptors,79,89,Time Warner Cable Arena,12111,/boxscores/200811090CHA.html
+Sun Nov 9 2008,New York Knicks,Utah Jazz,107,99,Madison Square Garden (IV),19344,/boxscores/200811090NYK.html
+Sun Nov 9 2008,Los Angeles Clippers,Dallas Mavericks,103,92,STAPLES Center,14249,/boxscores/200811090LAC.html
+Sun Nov 9 2008,Detroit Pistons,Boston Celtics,76,88,The Palace of Auburn Hills,22076,/boxscores/200811090DET.html
+Sun Nov 9 2008,Oklahoma City Thunder,Atlanta Hawks,85,89,Ford Center,18231,/boxscores/200811090OKC.html
+Sun Nov 9 2008,Denver Nuggets,Memphis Grizzlies,100,90,Pepsi Center,14359,/boxscores/200811090DEN.html
+Sun Nov 9 2008,Sacramento Kings,Golden State Warriors,115,98,ARCO Arena (II),12090,/boxscores/200811090SAC.html
+Sun Nov 9 2008,Los Angeles Lakers,Houston Rockets,111,82,STAPLES Center,18997,/boxscores/200811090LAL.html
+Mon Nov 10 2008,Indiana Pacers,Oklahoma City Thunder,107,99,Conseco Fieldhouse,10165,/boxscores/200811100IND.html
+Mon Nov 10 2008,Orlando Magic,Portland Trail Blazers,99,106,Amway Arena,14210,/boxscores/200811100ORL.html
+Mon Nov 10 2008,Boston Celtics,Toronto Raptors,94,87,TD Banknorth Garden,18624,/boxscores/200811100BOS.html
+Mon Nov 10 2008,Miami Heat,New Jersey Nets,99,94,AmericanAirlines Arena,15028,/boxscores/200811100MIA.html
+Mon Nov 10 2008,Phoenix Suns,Memphis Grizzlies,107,102,US Airways Center,18422,/boxscores/200811100PHO.html
+Tue Nov 11 2008,Charlotte Bobcats,Denver Nuggets,80,88,Time Warner Cable Arena,10753,/boxscores/200811110CHA.html
+Tue Nov 11 2008,Cleveland Cavaliers,Milwaukee Bucks,99,93,Quicken Loans Arena,19842,/boxscores/200811110CLE.html
+Tue Nov 11 2008,Philadelphia 76ers,Utah Jazz,80,93,Wachovia Center,12839,/boxscores/200811110PHI.html
+Tue Nov 11 2008,Chicago Bulls,Atlanta Hawks,108,113,United Center,21738,/boxscores/200811110CHI.html
+Tue Nov 11 2008,Dallas Mavericks,Los Angeles Lakers,99,106,American Airlines Center,20391,/boxscores/200811110DAL.html
+Tue Nov 11 2008,San Antonio Spurs,New York Knicks,92,80,AT&T Center,16569,/boxscores/200811110SAS.html
+Tue Nov 11 2008,Sacramento Kings,Detroit Pistons,92,100,ARCO Arena (II),11423,/boxscores/200811110SAC.html
+Tue Nov 11 2008,Golden State Warriors,Minnesota Timberwolves,113,110,Oracle Arena,17422,/boxscores/200811110GSW.html
+Wed Nov 12 2008,Toronto Raptors,Philadelphia 76ers,96,106,Air Canada Centre,18093,/boxscores/200811120TOR.html
+Wed Nov 12 2008,Boston Celtics,Atlanta Hawks,103,102,TD Banknorth Garden,18624,/boxscores/200811120BOS.html
+Wed Nov 12 2008,New Jersey Nets,Indiana Pacers,87,98,Izod Center,13551,/boxscores/200811120NJN.html
+Wed Nov 12 2008,Memphis Grizzlies,New York Knicks,103,132,FedEx Forum,10129,/boxscores/200811120MEM.html
+Wed Nov 12 2008,Miami Heat,Portland Trail Blazers,96,104,AmericanAirlines Arena,15021,/boxscores/200811120MIA.html
+Wed Nov 12 2008,Milwaukee Bucks,San Antonio Spurs,82,78,Bradley Center,14036,/boxscores/200811120MIL.html
+Wed Nov 12 2008,New Orleans Hornets,Los Angeles Lakers,86,93,New Orleans Arena,18239,/boxscores/200811120NOH.html
+Wed Nov 12 2008,Oklahoma City Thunder,Orlando Magic,92,109,Ford Center,18185,/boxscores/200811120OKC.html
+Wed Nov 12 2008,Washington Wizards,Utah Jazz,95,87,Verizon Center,14885,/boxscores/200811120WAS.html
+Wed Nov 12 2008,Los Angeles Clippers,Sacramento Kings,98,103,STAPLES Center,13266,/boxscores/200811120LAC.html
+Wed Nov 12 2008,Phoenix Suns,Houston Rockets,82,94,US Airways Center,18422,/boxscores/200811120PHO.html
+Thu Nov 13 2008,Cleveland Cavaliers,Denver Nuggets,110,99,Quicken Loans Arena,20562,/boxscores/200811130CLE.html
+Thu Nov 13 2008,Chicago Bulls,Dallas Mavericks,98,91,United Center,21751,/boxscores/200811130CHI.html
+Thu Nov 13 2008,Golden State Warriors,Detroit Pistons,102,107,Oracle Arena,18477,/boxscores/200811130GSW.html
+Fri Nov 14 2008,Charlotte Bobcats,Utah Jazz,104,96,Time Warner Cable Arena,14189,/boxscores/200811140CHA.html
+Fri Nov 14 2008,Indiana Pacers,Philadelphia 76ers,92,94,Conseco Fieldhouse,12742,/boxscores/200811140IND.html
+Fri Nov 14 2008,Miami Heat,Washington Wizards,97,77,AmericanAirlines Arena,15284,/boxscores/200811140MIA.html
+Fri Nov 14 2008,New Jersey Nets,Atlanta Hawks,115,108,Izod Center,15309,/boxscores/200811140NJN.html
+Fri Nov 14 2008,New York Knicks,Oklahoma City Thunder,116,106,Madison Square Garden (IV),18008,/boxscores/200811140NYK.html
+Fri Nov 14 2008,Boston Celtics,Denver Nuggets,85,94,TD Banknorth Garden,18624,/boxscores/200811140BOS.html
+Fri Nov 14 2008,Memphis Grizzlies,Milwaukee Bucks,96,101,FedEx Forum,11308,/boxscores/200811140MEM.html
+Fri Nov 14 2008,New Orleans Hornets,Portland Trail Blazers,87,82,New Orleans Arena,16071,/boxscores/200811140NOH.html
+Fri Nov 14 2008,Dallas Mavericks,Orlando Magic,100,102,American Airlines Center,20085,/boxscores/200811140DAL.html
+Fri Nov 14 2008,San Antonio Spurs,Houston Rockets,77,75,AT&T Center,18797,/boxscores/200811140SAS.html
+Fri Nov 14 2008,Sacramento Kings,Phoenix Suns,95,97,ARCO Arena (II),12810,/boxscores/200811140SAC.html
+Fri Nov 14 2008,Los Angeles Lakers,Detroit Pistons,95,106,STAPLES Center,18997,/boxscores/200811140LAL.html
+Sat Nov 15 2008,Los Angeles Clippers,Golden State Warriors,103,121,STAPLES Center,12823,/boxscores/200811150LAC.html
+Sat Nov 15 2008,Atlanta Hawks,New Jersey Nets,107,119,Philips Arena,18729,/boxscores/200811150ATL.html
+Sat Nov 15 2008,Philadelphia 76ers,Oklahoma City Thunder,110,85,Wachovia Center,13385,/boxscores/200811150PHI.html
+Sat Nov 15 2008,Cleveland Cavaliers,Utah Jazz,105,93,Quicken Loans Arena,20562,/boxscores/200811150CLE.html
+Sat Nov 15 2008,Minnesota Timberwolves,Portland Trail Blazers,83,88,Target Center,12213,/boxscores/200811150MIN.html
+Sat Nov 15 2008,Chicago Bulls,Indiana Pacers,104,91,United Center,21759,/boxscores/200811150CHI.html
+Sat Nov 15 2008,Houston Rockets,New Orleans Hornets,91,82,Toyota Center,18303,/boxscores/200811150HOU.html
+Sat Nov 15 2008,Milwaukee Bucks,Boston Celtics,97,102,Bradley Center,17952,/boxscores/200811150MIL.html
+Sun Nov 16 2008,Toronto Raptors,Miami Heat,107,96,Air Canada Centre,19800,/boxscores/200811160TOR.html
+Sun Nov 16 2008,Charlotte Bobcats,Orlando Magic,85,90,Time Warner Cable Arena,12639,/boxscores/200811160CHA.html
+Sun Nov 16 2008,New York Knicks,Dallas Mavericks,114,124,Madison Square Garden (IV),19271,/boxscores/200811160NYK.html
+Sun Nov 16 2008,Denver Nuggets,Minnesota Timberwolves,90,84,Pepsi Center,16721,/boxscores/200811160DEN.html
+Sun Nov 16 2008,Phoenix Suns,Detroit Pistons,104,86,US Airways Center,18422,/boxscores/200811160PHO.html
+Sun Nov 16 2008,Sacramento Kings,San Antonio Spurs,88,90,ARCO Arena (II),11699,/boxscores/200811160SAC.html
+Mon Nov 17 2008,Oklahoma City Thunder,Houston Rockets,89,100,Ford Center,18145,/boxscores/200811170OKC.html
+Mon Nov 17 2008,Utah Jazz,Phoenix Suns,109,97,EnergySolutions Arena,19911,/boxscores/200811170UTA.html
+Mon Nov 17 2008,Los Angeles Clippers,San Antonio Spurs,83,86,STAPLES Center,14962,/boxscores/200811170LAC.html
+Tue Nov 18 2008,Charlotte Bobcats,Dallas Mavericks,83,100,Time Warner Cable Arena,10935,/boxscores/200811180CHA.html
+Tue Nov 18 2008,Indiana Pacers,Atlanta Hawks,113,96,Conseco Fieldhouse,13379,/boxscores/200811180IND.html
+Tue Nov 18 2008,Orlando Magic,Toronto Raptors,103,90,Amway Arena,16353,/boxscores/200811180ORL.html
+Tue Nov 18 2008,Washington Wizards,Miami Heat,87,94,Verizon Center,15102,/boxscores/200811180WAS.html
+Tue Nov 18 2008,Boston Celtics,New York Knicks,110,101,TD Banknorth Garden,18624,/boxscores/200811180BOS.html
+Tue Nov 18 2008,New Jersey Nets,Cleveland Cavaliers,82,106,Izod Center,16911,/boxscores/200811180NJN.html
+Tue Nov 18 2008,Memphis Grizzlies,Sacramento Kings,109,94,FedEx Forum,10834,/boxscores/200811180MEM.html
+Tue Nov 18 2008,Denver Nuggets,Milwaukee Bucks,114,105,Pepsi Center,14413,/boxscores/200811180DEN.html
+Tue Nov 18 2008,Golden State Warriors,Portland Trail Blazers,111,106,Oracle Arena,18284,/boxscores/200811180GSW.html
+Tue Nov 18 2008,Los Angeles Lakers,Chicago Bulls,116,109,STAPLES Center,18997,/boxscores/200811180LAL.html
+Wed Nov 19 2008,Atlanta Hawks,Washington Wizards,91,87,Philips Arena,14416,/boxscores/200811190ATL.html
+Wed Nov 19 2008,Detroit Pistons,Cleveland Cavaliers,96,89,The Palace of Auburn Hills,22076,/boxscores/200811190DET.html
+Wed Nov 19 2008,Miami Heat,Toronto Raptors,95,101,AmericanAirlines Arena,15014,/boxscores/200811190MIA.html
+Wed Nov 19 2008,Houston Rockets,Dallas Mavericks,86,96,Toyota Center,18203,/boxscores/200811190HOU.html
+Wed Nov 19 2008,Minnesota Timberwolves,Philadelphia 76ers,102,96,Target Center,10111,/boxscores/200811190MIN.html
+Wed Nov 19 2008,New Orleans Hornets,Sacramento Kings,96,105,New Orleans Arena,15533,/boxscores/200811190NOH.html
+Wed Nov 19 2008,Oklahoma City Thunder,Los Angeles Clippers,88,108,Ford Center,18312,/boxscores/200811190OKC.html
+Wed Nov 19 2008,San Antonio Spurs,Denver Nuggets,81,91,AT&T Center,16559,/boxscores/200811190SAS.html
+Wed Nov 19 2008,Utah Jazz,Milwaukee Bucks,105,94,EnergySolutions Arena,19911,/boxscores/200811190UTA.html
+Wed Nov 19 2008,Portland Trail Blazers,Chicago Bulls,116,74,Rose Garden Arena,20599,/boxscores/200811190POR.html
+Thu Nov 20 2008,Boston Celtics,Detroit Pistons,98,80,TD Banknorth Garden,18624,/boxscores/200811200BOS.html
+Thu Nov 20 2008,Phoenix Suns,Los Angeles Lakers,92,105,US Airways Center,18422,/boxscores/200811200PHO.html
+Fri Nov 21 2008,Indiana Pacers,Orlando Magic,98,100,Conseco Fieldhouse,14699,/boxscores/200811210IND.html
+Fri Nov 21 2008,Philadelphia 76ers,Los Angeles Clippers,89,88,Wachovia Center,13474,/boxscores/200811210PHI.html
+Fri Nov 21 2008,Toronto Raptors,New Jersey Nets,127,129,Air Canada Centre,19800,/boxscores/200811210TOR.html
+Fri Nov 21 2008,Washington Wizards,Houston Rockets,91,103,Verizon Center,20173,/boxscores/200811210WAS.html
+Fri Nov 21 2008,Atlanta Hawks,Charlotte Bobcats,88,83,Philips Arena,15068,/boxscores/200811210ATL.html
+Fri Nov 21 2008,Minnesota Timberwolves,Boston Celtics,78,95,Target Center,19107,/boxscores/200811210MIN.html
+Fri Nov 21 2008,Dallas Mavericks,Memphis Grizzlies,91,76,American Airlines Center,20035,/boxscores/200811210DAL.html
+Fri Nov 21 2008,Milwaukee Bucks,New York Knicks,104,87,Bradley Center,14898,/boxscores/200811210MIL.html
+Fri Nov 21 2008,San Antonio Spurs,Utah Jazz,119,94,AT&T Center,17354,/boxscores/200811210SAS.html
+Fri Nov 21 2008,Oklahoma City Thunder,New Orleans Hornets,80,105,Ford Center,19136,/boxscores/200811210OKC.html
+Fri Nov 21 2008,Sacramento Kings,Portland Trail Blazers,96,117,ARCO Arena (II),12056,/boxscores/200811210SAC.html
+Fri Nov 21 2008,Golden State Warriors,Chicago Bulls,110,115,Oracle Arena,19596,/boxscores/200811210GSW.html
+Fri Nov 21 2008,Los Angeles Lakers,Denver Nuggets,104,90,STAPLES Center,18997,/boxscores/200811210LAL.html
+Sat Nov 22 2008,Charlotte Bobcats,Milwaukee Bucks,74,79,Time Warner Cable Arena,12096,/boxscores/200811220CHA.html
+Sat Nov 22 2008,Orlando Magic,Houston Rockets,95,100,Amway Arena,17461,/boxscores/200811220ORL.html
+Sat Nov 22 2008,Cleveland Cavaliers,Atlanta Hawks,110,96,Quicken Loans Arena,20562,/boxscores/200811220CLE.html
+Sat Nov 22 2008,Miami Heat,Indiana Pacers,109,100,AmericanAirlines Arena,18685,/boxscores/200811220MIA.html
+Sat Nov 22 2008,New Jersey Nets,Los Angeles Clippers,112,95,Izod Center,17677,/boxscores/200811220NJN.html
+Sat Nov 22 2008,New York Knicks,Washington Wizards,122,117,Madison Square Garden (IV),19763,/boxscores/200811220NYK.html
+Sat Nov 22 2008,Memphis Grizzlies,Utah Jazz,94,103,FedEx Forum,13121,/boxscores/200811220MEM.html
+Sat Nov 22 2008,New Orleans Hornets,Oklahoma City Thunder,109,97,New Orleans Arena,16023,/boxscores/200811220NOH.html
+Sat Nov 22 2008,Phoenix Suns,Portland Trail Blazers,102,92,US Airways Center,18422,/boxscores/200811220PHO.html
+Sun Nov 23 2008,Toronto Raptors,Boston Celtics,103,118,Air Canada Centre,19800,/boxscores/200811230TOR.html
+Sun Nov 23 2008,Philadelphia 76ers,Golden State Warriors,89,81,Wachovia Center,13556,/boxscores/200811230PHI.html
+Sun Nov 23 2008,Detroit Pistons,Minnesota Timberwolves,80,106,The Palace of Auburn Hills,22076,/boxscores/200811230DET.html
+Sun Nov 23 2008,Denver Nuggets,Chicago Bulls,114,101,Pepsi Center,16202,/boxscores/200811230DEN.html
+Sun Nov 23 2008,Los Angeles Lakers,Sacramento Kings,118,108,STAPLES Center,18997,/boxscores/200811230LAL.html
+Mon Nov 24 2008,Charlotte Bobcats,Philadelphia 76ers,93,84,Time Warner Cable Arena,10848,/boxscores/200811240CHA.html
+Mon Nov 24 2008,Orlando Magic,Milwaukee Bucks,108,101,Amway Arena,16245,/boxscores/200811240ORL.html
+Mon Nov 24 2008,Miami Heat,Houston Rockets,98,107,AmericanAirlines Arena,18704,/boxscores/200811240MIA.html
+Mon Nov 24 2008,Memphis Grizzlies,San Antonio Spurs,81,94,FedEx Forum,12053,/boxscores/200811240MEM.html
+Mon Nov 24 2008,Utah Jazz,Chicago Bulls,100,101,EnergySolutions Arena,19911,/boxscores/200811240UTA.html
+Mon Nov 24 2008,Portland Trail Blazers,Sacramento Kings,91,90,Rose Garden Arena,20467,/boxscores/200811240POR.html
+Mon Nov 24 2008,Los Angeles Clippers,New Orleans Hornets,87,99,STAPLES Center,14956,/boxscores/200811240LAC.html
+Tue Nov 25 2008,Washington Wizards,Golden State Warriors,124,100,Verizon Center,13852,/boxscores/200811250WAS.html
+Tue Nov 25 2008,New York Knicks,Cleveland Cavaliers,101,119,Madison Square Garden (IV),19763,/boxscores/200811250NYK.html
+Tue Nov 25 2008,Oklahoma City Thunder,Phoenix Suns,98,99,Ford Center,19136,/boxscores/200811250OKC.html
+Tue Nov 25 2008,Dallas Mavericks,Indiana Pacers,109,106,American Airlines Center,19996,/boxscores/200811250DAL.html
+Tue Nov 25 2008,Los Angeles Lakers,New Jersey Nets,120,93,STAPLES Center,18997,/boxscores/200811250LAL.html
+Wed Nov 26 2008,Atlanta Hawks,Milwaukee Bucks,102,96,Philips Arena,15730,/boxscores/200811260ATL.html
+Wed Nov 26 2008,Cleveland Cavaliers,Oklahoma City Thunder,117,82,Quicken Loans Arena,19753,/boxscores/200811260CLE.html
+Wed Nov 26 2008,Toronto Raptors,Charlotte Bobcats,93,86,Air Canada Centre,17414,/boxscores/200811260TOR.html
+Wed Nov 26 2008,Boston Celtics,Golden State Warriors,119,111,TD Banknorth Garden,18624,/boxscores/200811260BOS.html
+Wed Nov 26 2008,Philadelphia 76ers,Orlando Magic,94,96,Wachovia Center,14985,/boxscores/200811260PHI.html
+Wed Nov 26 2008,Detroit Pistons,New York Knicks,110,96,The Palace of Auburn Hills,22076,/boxscores/200811260DET.html
+Wed Nov 26 2008,Minnesota Timberwolves,Phoenix Suns,102,110,Target Center,11708,/boxscores/200811260MIN.html
+Wed Nov 26 2008,Houston Rockets,Indiana Pacers,90,91,Toyota Center,18194,/boxscores/200811260HOU.html
+Wed Nov 26 2008,San Antonio Spurs,Chicago Bulls,98,88,AT&T Center,17837,/boxscores/200811260SAS.html
+Wed Nov 26 2008,Utah Jazz,Memphis Grizzlies,117,100,EnergySolutions Arena,19911,/boxscores/200811260UTA.html
+Wed Nov 26 2008,Portland Trail Blazers,Miami Heat,106,68,Rose Garden Arena,20528,/boxscores/200811260POR.html
+Wed Nov 26 2008,Sacramento Kings,New Jersey Nets,114,116,ARCO Arena (II),11650,/boxscores/200811260SAC.html
+Wed Nov 26 2008,Los Angeles Clippers,Denver Nuggets,105,106,STAPLES Center,14934,/boxscores/200811260LAC.html
+Thu Nov 27 2008,Washington Wizards,Orlando Magic,90,105,Verizon Center,13295,/boxscores/200811270WAS.html
+Thu Nov 27 2008,Denver Nuggets,New Orleans Hornets,101,105,Pepsi Center,15563,/boxscores/200811270DEN.html
+Fri Nov 28 2008,Toronto Raptors,Atlanta Hawks,93,88,Air Canada Centre,19200,/boxscores/200811280TOR.html
+Fri Nov 28 2008,Boston Celtics,Philadelphia 76ers,102,78,TD Banknorth Garden,18624,/boxscores/200811280BOS.html
+Fri Nov 28 2008,Cleveland Cavaliers,Golden State Warriors,112,97,Quicken Loans Arena,20562,/boxscores/200811280CLE.html
+Fri Nov 28 2008,Detroit Pistons,Milwaukee Bucks,107,97,The Palace of Auburn Hills,22076,/boxscores/200811280DET.html
+Fri Nov 28 2008,Indiana Pacers,Charlotte Bobcats,108,115,Conseco Fieldhouse,17160,/boxscores/200811280IND.html
+Fri Nov 28 2008,Oklahoma City Thunder,Minnesota Timberwolves,103,105,Ford Center,18229,/boxscores/200811280OKC.html
+Fri Nov 28 2008,Phoenix Suns,Miami Heat,92,107,US Airways Center,18422,/boxscores/200811280PHO.html
+Fri Nov 28 2008,San Antonio Spurs,Memphis Grizzlies,109,98,AT&T Center,17074,/boxscores/200811280SAS.html
+Fri Nov 28 2008,Utah Jazz,Sacramento Kings,120,94,EnergySolutions Arena,19911,/boxscores/200811280UTA.html
+Fri Nov 28 2008,Portland Trail Blazers,New Orleans Hornets,101,86,Rose Garden Arena,20638,/boxscores/200811280POR.html
+Fri Nov 28 2008,Los Angeles Lakers,Dallas Mavericks,114,107,STAPLES Center,18997,/boxscores/200811280LAL.html
+Sat Nov 29 2008,Charlotte Bobcats,Boston Celtics,84,89,Time Warner Cable Arena,19177,/boxscores/200811290CHA.html
+Sat Nov 29 2008,Orlando Magic,Indiana Pacers,110,96,Amway Arena,17172,/boxscores/200811290ORL.html
+Sat Nov 29 2008,Washington Wizards,Atlanta Hawks,98,102,Verizon Center,18110,/boxscores/200811290WAS.html
+Sat Nov 29 2008,New York Knicks,Golden State Warriors,138,125,Madison Square Garden (IV),19317,/boxscores/200811290NYK.html
+Sat Nov 29 2008,Memphis Grizzlies,Oklahoma City Thunder,103,111,FedEx Forum,11977,/boxscores/200811290MEM.html
+Sat Nov 29 2008,Minnesota Timberwolves,Denver Nuggets,97,106,Target Center,14197,/boxscores/200811290MIN.html
+Sat Nov 29 2008,Houston Rockets,San Antonio Spurs,103,84,Toyota Center,18282,/boxscores/200811290HOU.html
+Sat Nov 29 2008,Milwaukee Bucks,Cleveland Cavaliers,85,97,Bradley Center,16237,/boxscores/200811290MIL.html
+Sat Nov 29 2008,Utah Jazz,New Jersey Nets,88,105,EnergySolutions Arena,19911,/boxscores/200811290UTA.html
+Sat Nov 29 2008,Sacramento Kings,Dallas Mavericks,78,101,ARCO Arena (II),12650,/boxscores/200811290SAC.html
+Sat Nov 29 2008,Los Angeles Clippers,Miami Heat,97,96,STAPLES Center,16245,/boxscores/200811290LAC.html
+Sun Nov 30 2008,Detroit Pistons,Portland Trail Blazers,85,96,The Palace of Auburn Hills,22076,/boxscores/200811300DET.html
+Sun Nov 30 2008,Philadelphia 76ers,Chicago Bulls,92,103,Wachovia Center,13561,/boxscores/200811300PHI.html
+Sun Nov 30 2008,Denver Nuggets,Houston Rockets,104,94,Pepsi Center,17201,/boxscores/200811300DEN.html
+Sun Nov 30 2008,Phoenix Suns,New Jersey Nets,109,117,US Airways Center,18422,/boxscores/200811300PHO.html
+Sun Nov 30 2008,Los Angeles Lakers,Toronto Raptors,112,99,STAPLES Center,18997,/boxscores/200811300LAL.html

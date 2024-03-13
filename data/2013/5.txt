@@ -1,0 +1,41 @@
+Wed May 1 2013,New York Knicks,Boston Celtics,86,92,Madison Square Garden (IV),19033,/boxscores/201305010NYK.html
+Wed May 1 2013,Indiana Pacers,Atlanta Hawks,106,83,Bankers Life Fieldhouse,18165,/boxscores/201305010IND.html
+Wed May 1 2013,Oklahoma City Thunder,Houston Rockets,100,107,Chesapeake Energy Arena,18203,/boxscores/201305010OKC.html
+Thu May 2 2013,Chicago Bulls,Brooklyn Nets,92,95,United Center,21810,/boxscores/201305020CHI.html
+Thu May 2 2013,Golden State Warriors,Denver Nuggets,92,88,Oracle Arena,19596,/boxscores/201305020GSW.html
+Fri May 3 2013,Atlanta Hawks,Indiana Pacers,73,81,Philips Arena,18238,/boxscores/201305030ATL.html
+Fri May 3 2013,Boston Celtics,New York Knicks,80,88,TD Garden,18624,/boxscores/201305030BOS.html
+Fri May 3 2013,Houston Rockets,Oklahoma City Thunder,94,103,Toyota Center,18357,/boxscores/201305030HOU.html
+Fri May 3 2013,Memphis Grizzlies,Los Angeles Clippers,118,105,FedEx Forum,18119,/boxscores/201305030MEM.html
+Sat May 4 2013,Brooklyn Nets,Chicago Bulls,93,99,Barclays Center,17732,/boxscores/201305040BRK.html
+Sun May 5 2013,Oklahoma City Thunder,Memphis Grizzlies,93,91,Chesapeake Energy Arena,18203,/boxscores/201305050OKC.html
+Sun May 5 2013,New York Knicks,Indiana Pacers,95,102,Madison Square Garden (IV),19033,/boxscores/201305050NYK.html
+Mon May 6 2013,Miami Heat,Chicago Bulls,86,93,AmericanAirlines Arena,19685,/boxscores/201305060MIA.html
+Mon May 6 2013,San Antonio Spurs,Golden State Warriors,129,127,AT&T Center,18581,/boxscores/201305060SAS.html
+Tue May 7 2013,New York Knicks,Indiana Pacers,105,79,Madison Square Garden (IV),19033,/boxscores/201305070NYK.html
+Tue May 7 2013,Oklahoma City Thunder,Memphis Grizzlies,93,99,Chesapeake Energy Arena,18203,/boxscores/201305070OKC.html
+Wed May 8 2013,Miami Heat,Chicago Bulls,115,78,AmericanAirlines Arena,19817,/boxscores/201305080MIA.html
+Wed May 8 2013,San Antonio Spurs,Golden State Warriors,91,100,AT&T Center,18581,/boxscores/201305080SAS.html
+Fri May 10 2013,Chicago Bulls,Miami Heat,94,104,United Center,22675,/boxscores/201305100CHI.html
+Fri May 10 2013,Golden State Warriors,San Antonio Spurs,92,102,Oracle Arena,19596,/boxscores/201305100GSW.html
+Sat May 11 2013,Memphis Grizzlies,Oklahoma City Thunder,87,81,FedEx Forum,18119,/boxscores/201305110MEM.html
+Sat May 11 2013,Indiana Pacers,New York Knicks,82,71,Bankers Life Fieldhouse,18165,/boxscores/201305110IND.html
+Sun May 12 2013,Golden State Warriors,San Antonio Spurs,97,87,Oracle Arena,19596,/boxscores/201305120GSW.html
+Mon May 13 2013,Chicago Bulls,Miami Heat,65,88,United Center,21990,/boxscores/201305130CHI.html
+Mon May 13 2013,Memphis Grizzlies,Oklahoma City Thunder,103,97,FedEx Forum,18119,/boxscores/201305130MEM.html
+Tue May 14 2013,Indiana Pacers,New York Knicks,93,82,Bankers Life Fieldhouse,18165,/boxscores/201305140IND.html
+Tue May 14 2013,San Antonio Spurs,Golden State Warriors,109,91,AT&T Center,18581,/boxscores/201305140SAS.html
+Wed May 15 2013,Miami Heat,Chicago Bulls,94,91,AmericanAirlines Arena,20025,/boxscores/201305150MIA.html
+Wed May 15 2013,Oklahoma City Thunder,Memphis Grizzlies,84,88,Chesapeake Energy Arena,18203,/boxscores/201305150OKC.html
+Thu May 16 2013,New York Knicks,Indiana Pacers,85,75,Madison Square Garden (IV),19033,/boxscores/201305160NYK.html
+Thu May 16 2013,Golden State Warriors,San Antonio Spurs,82,94,Oracle Arena,19596,/boxscores/201305160GSW.html
+Sat May 18 2013,Indiana Pacers,New York Knicks,106,99,Bankers Life Fieldhouse,18165,/boxscores/201305180IND.html
+Sun May 19 2013,San Antonio Spurs,Memphis Grizzlies,105,83,AT&T Center,18581,/boxscores/201305190SAS.html
+Tue May 21 2013,San Antonio Spurs,Memphis Grizzlies,93,89,AT&T Center,18581,/boxscores/201305210SAS.html
+Wed May 22 2013,Miami Heat,Indiana Pacers,103,102,AmericanAirlines Arena,19679,/boxscores/201305220MIA.html
+Fri May 24 2013,Miami Heat,Indiana Pacers,93,97,AmericanAirlines Arena,20022,/boxscores/201305240MIA.html
+Sat May 25 2013,Memphis Grizzlies,San Antonio Spurs,93,104,FedEx Forum,18119,/boxscores/201305250MEM.html
+Sun May 26 2013,Indiana Pacers,Miami Heat,96,114,Bankers Life Fieldhouse,18165,/boxscores/201305260IND.html
+Mon May 27 2013,Memphis Grizzlies,San Antonio Spurs,86,93,FedEx Forum,18119,/boxscores/201305270MEM.html
+Tue May 28 2013,Indiana Pacers,Miami Heat,99,92,Bankers Life Fieldhouse,18165,/boxscores/201305280IND.html
+Thu May 30 2013,Miami Heat,Indiana Pacers,90,79,AmericanAirlines Arena,19913,/boxscores/201305300MIA.html

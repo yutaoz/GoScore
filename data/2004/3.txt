@@ -1,0 +1,224 @@
+Mon Mar 1 2004,Boston Celtics,Orlando Magic,117,96,FleetCenter,13636,/boxscores/200403010BOS.html
+Mon Mar 1 2004,Washington Wizards,New Orleans Hornets,111,106,MCI Center,13830,/boxscores/200403010WAS.html
+Mon Mar 1 2004,Chicago Bulls,Cleveland Cavaliers,92,81,United Center,19203,/boxscores/200403010CHI.html
+Mon Mar 1 2004,San Antonio Spurs,Memphis Grizzlies,80,81,SBC Center,16705,/boxscores/200403010SAS.html
+Mon Mar 1 2004,Utah Jazz,Detroit Pistons,94,86,Delta Center,19911,/boxscores/200403010UTA.html
+Tue Mar 2 2004,Atlanta Hawks,Los Angeles Lakers,94,93,Philips Arena,19445,/boxscores/200403020ATL.html
+Tue Mar 2 2004,Miami Heat,Toronto Raptors,86,89,AmericanAirlines Arena,14178,/boxscores/200403020MIA.html
+Tue Mar 2 2004,Dallas Mavericks,Seattle SuperSonics,107,96,American Airlines Center,19954,/boxscores/200403020DAL.html
+Tue Mar 2 2004,Denver Nuggets,New Jersey Nets,91,95,Pepsi Center,18044,/boxscores/200403020DEN.html
+Tue Mar 2 2004,Sacramento Kings,Los Angeles Clippers,113,106,ARCO Arena (II),17317,/boxscores/200403020SAC.html
+Tue Mar 2 2004,Golden State Warriors,Indiana Pacers,88,96,The Arena in Oakland,16836,/boxscores/200403020GSW.html
+Wed Mar 3 2004,Cleveland Cavaliers,Atlanta Hawks,112,80,Gund Arena,20562,/boxscores/200403030CLE.html
+Wed Mar 3 2004,Orlando Magic,Milwaukee Bucks,97,105,TD Waterhouse Centre,12366,/boxscores/200403030ORL.html
+Wed Mar 3 2004,Washington Wizards,Toronto Raptors,84,70,MCI Center,13921,/boxscores/200403030WAS.html
+Wed Mar 3 2004,New York Knicks,Philadelphia 76ers,88,77,Madison Square Garden (IV),19763,/boxscores/200403030NYK.html
+Wed Mar 3 2004,Minnesota Timberwolves,Dallas Mavericks,121,97,Target Center,19006,/boxscores/200403030MIN.html
+Wed Mar 3 2004,New Orleans Hornets,Chicago Bulls,100,97,New Orleans Arena,14071,/boxscores/200403030NOH.html
+Wed Mar 3 2004,San Antonio Spurs,Seattle SuperSonics,88,84,SBC Center,16611,/boxscores/200403030SAS.html
+Wed Mar 3 2004,Houston Rockets,Los Angeles Lakers,93,96,Toyota Center,18172,/boxscores/200403030HOU.html
+Wed Mar 3 2004,Phoenix Suns,New Jersey Nets,87,74,America West Arena,17332,/boxscores/200403030PHO.html
+Wed Mar 3 2004,Portland Trail Blazers,Memphis Grizzlies,88,97,Rose Garden Arena,16511,/boxscores/200403030POR.html
+Wed Mar 3 2004,Los Angeles Clippers,Indiana Pacers,94,101,STAPLES Center,17677,/boxscores/200403030LAC.html
+Thu Mar 4 2004,Miami Heat,Milwaukee Bucks,104,98,AmericanAirlines Arena,14338,/boxscores/200403040MIA.html
+Thu Mar 4 2004,Philadelphia 76ers,Sacramento Kings,105,114,Wachovia Center,18798,/boxscores/200403040PHI.html
+Thu Mar 4 2004,Portland Trail Blazers,Detroit Pistons,68,83,Rose Garden Arena,20243,/boxscores/200403040POR.html
+Fri Mar 5 2004,Orlando Magic,Atlanta Hawks,101,96,TD Waterhouse Centre,13293,/boxscores/200403050ORL.html
+Fri Mar 5 2004,Toronto Raptors,New York Knicks,103,109,Air Canada Centre,19287,/boxscores/200403050TOR.html
+Fri Mar 5 2004,Boston Celtics,Washington Wizards,94,90,FleetCenter,15046,/boxscores/200403050BOS.html
+Fri Mar 5 2004,Minnesota Timberwolves,Houston Rockets,109,112,Target Center,20109,/boxscores/200403050MIN.html
+Fri Mar 5 2004,New Orleans Hornets,Cleveland Cavaliers,85,88,New Orleans Arena,17795,/boxscores/200403050NOH.html
+Fri Mar 5 2004,San Antonio Spurs,Dallas Mavericks,113,100,SBC Center,18797,/boxscores/200403050SAS.html
+Fri Mar 5 2004,Utah Jazz,Indiana Pacers,88,96,Delta Center,19911,/boxscores/200403050UTA.html
+Fri Mar 5 2004,Golden State Warriors,New Jersey Nets,74,78,The Arena in Oakland,17354,/boxscores/200403050GSW.html
+Fri Mar 5 2004,Los Angeles Lakers,Seattle SuperSonics,99,91,STAPLES Center,18997,/boxscores/200403050LAL.html
+Sat Mar 6 2004,Los Angeles Clippers,Memphis Grizzlies,92,98,STAPLES Center,15481,/boxscores/200403060LAC.html
+Sat Mar 6 2004,Miami Heat,Sacramento Kings,102,96,AmericanAirlines Arena,16500,/boxscores/200403060MIA.html
+Sat Mar 6 2004,Philadelphia 76ers,Chicago Bulls,97,88,Wachovia Center,20647,/boxscores/200403060PHI.html
+Sat Mar 6 2004,Cleveland Cavaliers,Milwaukee Bucks,106,97,Gund Arena,20562,/boxscores/200403060CLE.html
+Sat Mar 6 2004,Denver Nuggets,Detroit Pistons,66,97,Pepsi Center,19681,/boxscores/200403060DEN.html
+Sat Mar 6 2004,Phoenix Suns,San Antonio Spurs,86,107,America West Arena,16039,/boxscores/200403060PHO.html
+Sat Mar 6 2004,Portland Trail Blazers,Utah Jazz,91,70,Rose Garden Arena,16216,/boxscores/200403060POR.html
+Sun Mar 7 2004,Houston Rockets,Dallas Mavericks,101,98,Toyota Center,18134,/boxscores/200403070HOU.html
+Sun Mar 7 2004,Toronto Raptors,New Orleans Hornets,84,76,Air Canada Centre,17031,/boxscores/200403070TOR.html
+Sun Mar 7 2004,Washington Wizards,New York Knicks,86,99,MCI Center,15314,/boxscores/200403070WAS.html
+Sun Mar 7 2004,Los Angeles Lakers,New Jersey Nets,94,88,STAPLES Center,18997,/boxscores/200403070LAL.html
+Sun Mar 7 2004,Orlando Magic,Sacramento Kings,90,107,TD Waterhouse Centre,15625,/boxscores/200403070ORL.html
+Sun Mar 7 2004,Minnesota Timberwolves,Boston Celtics,77,80,Target Center,17661,/boxscores/200403070MIN.html
+Sun Mar 7 2004,Golden State Warriors,Memphis Grizzlies,85,95,The Arena in Oakland,15181,/boxscores/200403070GSW.html
+Sun Mar 7 2004,Seattle SuperSonics,Detroit Pistons,65,86,KeyArena at Seattle Center,14739,/boxscores/200403070SEA.html
+Sun Mar 7 2004,Los Angeles Clippers,Portland Trail Blazers,91,71,STAPLES Center,15733,/boxscores/200403070LAC.html
+Sun Mar 7 2004,Denver Nuggets,Indiana Pacers,94,103,Pepsi Center,19099,/boxscores/200403070DEN.html
+Mon Mar 8 2004,Philadelphia 76ers,Milwaukee Bucks,97,92,Wachovia Center,17561,/boxscores/200403080PHI.html
+Mon Mar 8 2004,Atlanta Hawks,Cleveland Cavaliers,102,108,Philips Arena,14050,/boxscores/200403080ATL.html
+Mon Mar 8 2004,Dallas Mavericks,Phoenix Suns,103,90,American Airlines Center,20357,/boxscores/200403080DAL.html
+Mon Mar 8 2004,Utah Jazz,Los Angeles Lakers,88,83,Delta Center,19911,/boxscores/200403080UTA.html
+Tue Mar 9 2004,Indiana Pacers,Toronto Raptors,94,84,Conseco Fieldhouse,15123,/boxscores/200403090IND.html
+Tue Mar 9 2004,Washington Wizards,Denver Nuggets,87,117,MCI Center,14924,/boxscores/200403090WAS.html
+Tue Mar 9 2004,Miami Heat,Orlando Magic,100,89,AmericanAirlines Arena,14349,/boxscores/200403090MIA.html
+Tue Mar 9 2004,New York Knicks,Boston Celtics,84,87,Madison Square Garden (IV),19763,/boxscores/200403090NYK.html
+Tue Mar 9 2004,Memphis Grizzlies,San Antonio Spurs,94,88,Pyramid Arena,15544,/boxscores/200403090MEM.html
+Tue Mar 9 2004,Chicago Bulls,Philadelphia 76ers,81,89,United Center,18649,/boxscores/200403090CHI.html
+Tue Mar 9 2004,Houston Rockets,Los Angeles Clippers,90,85,Toyota Center,12533,/boxscores/200403090HOU.html
+Tue Mar 9 2004,Sacramento Kings,Golden State Warriors,96,92,ARCO Arena (II),17317,/boxscores/200403090SAC.html
+Tue Mar 9 2004,Seattle SuperSonics,Minnesota Timberwolves,92,105,KeyArena at Seattle Center,17072,/boxscores/200403090SEA.html
+Wed Mar 10 2004,Boston Celtics,Los Angeles Lakers,109,117,FleetCenter,18624,/boxscores/200403100BOS.html
+Wed Mar 10 2004,Orlando Magic,Washington Wizards,108,99,TD Waterhouse Centre,12538,/boxscores/200403100ORL.html
+Wed Mar 10 2004,Toronto Raptors,Cleveland Cavaliers,92,106,Air Canada Centre,17459,/boxscores/200403100TOR.html
+Wed Mar 10 2004,Detroit Pistons,Chicago Bulls,98,65,The Palace of Auburn Hills,22076,/boxscores/200403100DET.html
+Wed Mar 10 2004,New Jersey Nets,Denver Nuggets,98,97,Continental Airlines Arena,13083,/boxscores/200403100NJN.html
+Wed Mar 10 2004,Milwaukee Bucks,Atlanta Hawks,94,80,Bradley Center,13497,/boxscores/200403100MIL.html
+Wed Mar 10 2004,New Orleans Hornets,Miami Heat,95,84,New Orleans Arena,11036,/boxscores/200403100NOH.html
+Wed Mar 10 2004,San Antonio Spurs,Los Angeles Clippers,108,90,SBC Center,16919,/boxscores/200403100SAS.html
+Wed Mar 10 2004,Utah Jazz,Golden State Warriors,91,77,Delta Center,19587,/boxscores/200403100UTA.html
+Wed Mar 10 2004,Portland Trail Blazers,Minnesota Timberwolves,92,79,Rose Garden Arena,15456,/boxscores/200403100POR.html
+Thu Mar 11 2004,Houston Rockets,New Orleans Hornets,97,86,Toyota Center,13587,/boxscores/200403110HOU.html
+Thu Mar 11 2004,Sacramento Kings,Dallas Mavericks,120,102,ARCO Arena (II),17317,/boxscores/200403110SAC.html
+Fri Mar 12 2004,Philadelphia 76ers,New York Knicks,99,94,Wachovia Center,20859,/boxscores/200403120PHI.html
+Fri Mar 12 2004,Atlanta Hawks,Washington Wizards,138,124,Philips Arena,12591,/boxscores/200403120ATL.html
+Fri Mar 12 2004,Boston Celtics,Indiana Pacers,81,99,FleetCenter,17453,/boxscores/200403120BOS.html
+Fri Mar 12 2004,Miami Heat,Seattle SuperSonics,82,74,AmericanAirlines Arena,14422,/boxscores/200403120MIA.html
+Fri Mar 12 2004,New Jersey Nets,Chicago Bulls,88,76,Continental Airlines Arena,18126,/boxscores/200403120NJN.html
+Fri Mar 12 2004,Memphis Grizzlies,Los Angeles Clippers,98,89,Pyramid Arena,17649,/boxscores/200403120MEM.html
+Fri Mar 12 2004,Minnesota Timberwolves,Los Angeles Lakers,96,86,Target Center,20391,/boxscores/200403120MIN.html
+Fri Mar 12 2004,Milwaukee Bucks,Denver Nuggets,111,117,Bradley Center,18717,/boxscores/200403120MIL.html
+Fri Mar 12 2004,San Antonio Spurs,Golden State Warriors,99,74,SBC Center,17174,/boxscores/200403120SAS.html
+Fri Mar 12 2004,Phoenix Suns,Utah Jazz,90,99,America West Arena,14790,/boxscores/200403120PHO.html
+Fri Mar 12 2004,Portland Trail Blazers,Sacramento Kings,83,81,Rose Garden Arena,20308,/boxscores/200403120POR.html
+Sat Mar 13 2004,Orlando Magic,Seattle SuperSonics,101,115,TD Waterhouse Centre,14585,/boxscores/200403130ORL.html
+Sat Mar 13 2004,Washington Wizards,Boston Celtics,102,111,MCI Center,14789,/boxscores/200403130WAS.html
+Sat Mar 13 2004,New Orleans Hornets,Golden State Warriors,102,84,New Orleans Arena,13181,/boxscores/200403130NOH.html
+Sat Mar 13 2004,Chicago Bulls,Los Angeles Lakers,81,88,United Center,23067,/boxscores/200403130CHI.html
+Sat Mar 13 2004,Houston Rockets,Memphis Grizzlies,88,80,Toyota Center,18157,/boxscores/200403130HOU.html
+Sat Mar 13 2004,Phoenix Suns,Dallas Mavericks,90,113,America West Arena,16705,/boxscores/200403130PHO.html
+Sun Mar 14 2004,Detroit Pistons,Philadelphia 76ers,85,69,The Palace of Auburn Hills,22076,/boxscores/200403140DET.html
+Sun Mar 14 2004,Toronto Raptors,Atlanta Hawks,101,84,Air Canada Centre,17628,/boxscores/200403140TOR.html
+Sun Mar 14 2004,Cleveland Cavaliers,Indiana Pacers,107,104,Gund Arena,20562,/boxscores/200403140CLE.html
+Sun Mar 14 2004,Milwaukee Bucks,New York Knicks,100,103,Bradley Center,18279,/boxscores/200403140MIL.html
+Sun Mar 14 2004,Minnesota Timberwolves,Portland Trail Blazers,83,92,Target Center,18787,/boxscores/200403140MIN.html
+Sun Mar 14 2004,Sacramento Kings,San Antonio Spurs,101,87,ARCO Arena (II),17317,/boxscores/200403140SAC.html
+Sun Mar 14 2004,Miami Heat,New Jersey Nets,104,95,AmericanAirlines Arena,14568,/boxscores/200403140MIA.html
+Sun Mar 14 2004,Denver Nuggets,Utah Jazz,102,75,Pepsi Center,19522,/boxscores/200403140DEN.html
+Sun Mar 14 2004,Los Angeles Clippers,Dallas Mavericks,88,101,STAPLES Center,18388,/boxscores/200403140LAC.html
+Mon Mar 15 2004,Houston Rockets,Phoenix Suns,97,99,Toyota Center,16328,/boxscores/200403150HOU.html
+Mon Mar 15 2004,Golden State Warriors,San Antonio Spurs,97,80,The Arena in Oakland,14153,/boxscores/200403150GSW.html
+Mon Mar 15 2004,Los Angeles Lakers,Orlando Magic,113,110,STAPLES Center,18997,/boxscores/200403150LAL.html
+Tue Mar 16 2004,Cleveland Cavaliers,Chicago Bulls,111,87,Gund Arena,17776,/boxscores/200403160CLE.html
+Tue Mar 16 2004,Atlanta Hawks,Seattle SuperSonics,110,118,Philips Arena,9339,/boxscores/200403160ATL.html
+Tue Mar 16 2004,Miami Heat,New Orleans Hornets,96,83,AmericanAirlines Arena,14412,/boxscores/200403160MIA.html
+Tue Mar 16 2004,New Jersey Nets,Sacramento Kings,94,77,Continental Airlines Arena,16949,/boxscores/200403160NJN.html
+Tue Mar 16 2004,New York Knicks,Washington Wizards,114,110,Madison Square Garden (IV),19763,/boxscores/200403160NYK.html
+Tue Mar 16 2004,Memphis Grizzlies,Philadelphia 76ers,82,79,Pyramid Arena,18524,/boxscores/200403160MEM.html
+Tue Mar 16 2004,Milwaukee Bucks,Portland Trail Blazers,99,100,Bradley Center,14736,/boxscores/200403160MIL.html
+Tue Mar 16 2004,Phoenix Suns,Los Angeles Clippers,98,110,America West Arena,15539,/boxscores/200403160PHO.html
+Wed Mar 17 2004,Boston Celtics,Denver Nuggets,104,100,FleetCenter,17763,/boxscores/200403170BOS.html
+Wed Mar 17 2004,Indiana Pacers,Portland Trail Blazers,80,71,Conseco Fieldhouse,15617,/boxscores/200403170IND.html
+Wed Mar 17 2004,Washington Wizards,Sacramento Kings,114,108,MCI Center,15255,/boxscores/200403170WAS.html
+Wed Mar 17 2004,Toronto Raptors,Utah Jazz,85,81,Air Canada Centre,17875,/boxscores/200403170TOR.html
+Wed Mar 17 2004,New Orleans Hornets,Philadelphia 76ers,104,80,New Orleans Arena,15049,/boxscores/200403170NOH.html
+Wed Mar 17 2004,Dallas Mavericks,Atlanta Hawks,110,111,American Airlines Center,20474,/boxscores/200403170DAL.html
+Wed Mar 17 2004,Golden State Warriors,Orlando Magic,110,85,The Arena in Oakland,15697,/boxscores/200403170GSW.html
+Wed Mar 17 2004,Los Angeles Clippers,Los Angeles Lakers,103,106,STAPLES Center,19668,/boxscores/200403170LAC.html
+Thu Mar 18 2004,New Jersey Nets,Detroit Pistons,71,89,Continental Airlines Arena,14799,/boxscores/200403180NJN.html
+Thu Mar 18 2004,Memphis Grizzlies,Seattle SuperSonics,94,97,Pyramid Arena,14179,/boxscores/200403180MEM.html
+Thu Mar 18 2004,San Antonio Spurs,Minnesota Timberwolves,106,86,SBC Center,18797,/boxscores/200403180SAS.html
+Fri Mar 19 2004,Toronto Raptors,Chicago Bulls,91,96,Air Canada Centre,19348,/boxscores/200403190TOR.html
+Fri Mar 19 2004,Washington Wizards,Atlanta Hawks,94,84,MCI Center,13746,/boxscores/200403190WAS.html
+Fri Mar 19 2004,Cleveland Cavaliers,Utah Jazz,88,97,Gund Arena,20562,/boxscores/200403190CLE.html
+Fri Mar 19 2004,Indiana Pacers,Sacramento Kings,92,94,Conseco Fieldhouse,18345,/boxscores/200403190IND.html
+Fri Mar 19 2004,New York Knicks,New Jersey Nets,79,65,Madison Square Garden (IV),19763,/boxscores/200403190NYK.html
+Fri Mar 19 2004,Dallas Mavericks,Boston Celtics,120,104,American Airlines Center,20257,/boxscores/200403190DAL.html
+Fri Mar 19 2004,Detroit Pistons,Denver Nuggets,94,75,The Palace of Auburn Hills,22076,/boxscores/200403190DET.html
+Fri Mar 19 2004,New Orleans Hornets,Seattle SuperSonics,80,91,New Orleans Arena,13186,/boxscores/200403190NOH.html
+Fri Mar 19 2004,Phoenix Suns,Minnesota Timberwolves,80,93,America West Arena,18422,/boxscores/200403190PHO.html
+Fri Mar 19 2004,Golden State Warriors,Houston Rockets,90,84,The Arena in Oakland,19596,/boxscores/200403190GSW.html
+Fri Mar 19 2004,Los Angeles Lakers,Los Angeles Clippers,106,100,STAPLES Center,18997,/boxscores/200403190LAL.html
+Sat Mar 20 2004,Miami Heat,Philadelphia 76ers,101,69,AmericanAirlines Arena,16500,/boxscores/200403200MIA.html
+Sat Mar 20 2004,Atlanta Hawks,Utah Jazz,81,87,Philips Arena,14950,/boxscores/200403200ATL.html
+Sat Mar 20 2004,Memphis Grizzlies,Indiana Pacers,99,95,Pyramid Arena,16808,/boxscores/200403200MEM.html
+Sat Mar 20 2004,Chicago Bulls,New York Knicks,87,81,United Center,21465,/boxscores/200403200CHI.html
+Sat Mar 20 2004,San Antonio Spurs,Boston Celtics,103,87,SBC Center,19034,/boxscores/200403200SAS.html
+Sat Mar 20 2004,Phoenix Suns,Milwaukee Bucks,123,111,America West Arena,18422,/boxscores/200403200PHO.html
+Sat Mar 20 2004,Portland Trail Blazers,Orlando Magic,92,73,Rose Garden Arena,16693,/boxscores/200403200POR.html
+Sun Mar 21 2004,New Jersey Nets,Dallas Mavericks,98,101,Continental Airlines Arena,17745,/boxscores/200403210NJN.html
+Sun Mar 21 2004,Los Angeles Clippers,Golden State Warriors,85,96,STAPLES Center,16033,/boxscores/200403210LAC.html
+Sun Mar 21 2004,Cleveland Cavaliers,Detroit Pistons,76,96,Gund Arena,20562,/boxscores/200403210CLE.html
+Sun Mar 21 2004,Minnesota Timberwolves,Denver Nuggets,98,77,Target Center,19557,/boxscores/200403210MIN.html
+Sun Mar 21 2004,Washington Wizards,Miami Heat,81,101,MCI Center,17220,/boxscores/200403210WAS.html
+Sun Mar 21 2004,New Orleans Hornets,Toronto Raptors,120,121,New Orleans Arena,14307,/boxscores/200403210NOH.html
+Sun Mar 21 2004,Sacramento Kings,Houston Rockets,100,95,ARCO Arena (II),17317,/boxscores/200403210SAC.html
+Sun Mar 21 2004,Seattle SuperSonics,Orlando Magic,84,67,KeyArena at Seattle Center,16504,/boxscores/200403210SEA.html
+Sun Mar 21 2004,Los Angeles Lakers,Milwaukee Bucks,104,103,STAPLES Center,18997,/boxscores/200403210LAL.html
+Mon Mar 22 2004,Indiana Pacers,Chicago Bulls,101,77,Conseco Fieldhouse,14676,/boxscores/200403220IND.html
+Mon Mar 22 2004,Philadelphia 76ers,Dallas Mavericks,107,98,Wachovia Center,19176,/boxscores/200403220PHI.html
+Mon Mar 22 2004,New York Knicks,Atlanta Hawks,96,84,Madison Square Garden (IV),19763,/boxscores/200403220NYK.html
+Mon Mar 22 2004,Denver Nuggets,Los Angeles Clippers,102,80,Pepsi Center,16673,/boxscores/200403220DEN.html
+Mon Mar 22 2004,Portland Trail Blazers,Houston Rockets,85,93,Rose Garden Arena,18083,/boxscores/200403220POR.html
+Tue Mar 23 2004,Cleveland Cavaliers,Phoenix Suns,86,103,Gund Arena,19024,/boxscores/200403230CLE.html
+Tue Mar 23 2004,Memphis Grizzlies,Toronto Raptors,95,86,Pyramid Arena,13191,/boxscores/200403230MEM.html
+Tue Mar 23 2004,Minnesota Timberwolves,San Antonio Spurs,86,81,Target Center,20111,/boxscores/200403230MIN.html
+Tue Mar 23 2004,New Orleans Hornets,Detroit Pistons,82,81,New Orleans Arena,14377,/boxscores/200403230NOH.html
+Tue Mar 23 2004,Chicago Bulls,New Jersey Nets,81,84,United Center,21291,/boxscores/200403230CHI.html
+Tue Mar 23 2004,Utah Jazz,Washington Wizards,85,77,Delta Center,19911,/boxscores/200403230UTA.html
+Tue Mar 23 2004,Sacramento Kings,Milwaukee Bucks,101,112,ARCO Arena (II),17317,/boxscores/200403230SAC.html
+Wed Mar 24 2004,Orlando Magic,Miami Heat,90,105,TD Waterhouse Centre,13695,/boxscores/200403240ORL.html
+Wed Mar 24 2004,Philadelphia 76ers,Phoenix Suns,99,94,Wachovia Center,17947,/boxscores/200403240PHI.html
+Wed Mar 24 2004,New York Knicks,Memphis Grizzlies,97,111,Madison Square Garden (IV),19763,/boxscores/200403240NYK.html
+Wed Mar 24 2004,Indiana Pacers,Dallas Mavericks,103,99,Conseco Fieldhouse,16834,/boxscores/200403240IND.html
+Wed Mar 24 2004,Houston Rockets,Toronto Raptors,90,89,Toyota Center,14388,/boxscores/200403240HOU.html
+Wed Mar 24 2004,Denver Nuggets,Minnesota Timberwolves,101,92,Pepsi Center,19099,/boxscores/200403240DEN.html
+Wed Mar 24 2004,Portland Trail Blazers,Los Angeles Clippers,91,85,Rose Garden Arena,14211,/boxscores/200403240POR.html
+Wed Mar 24 2004,Seattle SuperSonics,Utah Jazz,84,77,KeyArena at Seattle Center,17072,/boxscores/200403240SEA.html
+Wed Mar 24 2004,Golden State Warriors,Milwaukee Bucks,98,89,The Arena in Oakland,14367,/boxscores/200403240GSW.html
+Wed Mar 24 2004,Los Angeles Lakers,Sacramento Kings,115,91,STAPLES Center,18997,/boxscores/200403240LAL.html
+Thu Mar 25 2004,Atlanta Hawks,New Orleans Hornets,84,76,Philips Arena,14899,/boxscores/200403250ATL.html
+Thu Mar 25 2004,San Antonio Spurs,Detroit Pistons,84,75,SBC Center,17695,/boxscores/200403250SAS.html
+Thu Mar 25 2004,Los Angeles Clippers,Washington Wizards,94,103,STAPLES Center,15293,/boxscores/200403250LAC.html
+Fri Mar 26 2004,Orlando Magic,Indiana Pacers,92,107,TD Waterhouse Centre,15571,/boxscores/200403260ORL.html
+Fri Mar 26 2004,Philadelphia 76ers,Cleveland Cavaliers,86,71,Wachovia Center,20804,/boxscores/200403260PHI.html
+Fri Mar 26 2004,New York Knicks,Toronto Raptors,108,101,Madison Square Garden (IV),19763,/boxscores/200403260NYK.html
+Fri Mar 26 2004,Boston Celtics,New Jersey Nets,102,93,FleetCenter,18624,/boxscores/200403260BOS.html
+Fri Mar 26 2004,Memphis Grizzlies,Houston Rockets,109,86,Pyramid Arena,19062,/boxscores/200403260MEM.html
+Fri Mar 26 2004,Miami Heat,Dallas Mavericks,119,118,AmericanAirlines Arena,16500,/boxscores/200403260MIA.html
+Fri Mar 26 2004,New Orleans Hornets,Phoenix Suns,94,99,New Orleans Arena,13108,/boxscores/200403260NOH.html
+Fri Mar 26 2004,Chicago Bulls,Milwaukee Bucks,105,115,United Center,21246,/boxscores/200403260CHI.html
+Fri Mar 26 2004,Golden State Warriors,Washington Wizards,99,78,The Arena in Oakland,15769,/boxscores/200403260GSW.html
+Fri Mar 26 2004,Los Angeles Lakers,Minnesota Timberwolves,90,73,STAPLES Center,18997,/boxscores/200403260LAL.html
+Fri Mar 26 2004,Seattle SuperSonics,Denver Nuggets,102,86,KeyArena at Seattle Center,17072,/boxscores/200403260SEA.html
+Sat Mar 27 2004,Atlanta Hawks,Chicago Bulls,97,88,Philips Arena,12466,/boxscores/200403270ATL.html
+Sat Mar 27 2004,Cleveland Cavaliers,New Jersey Nets,107,104,Gund Arena,20562,/boxscores/200403270CLE.html
+Sat Mar 27 2004,Detroit Pistons,New York Knicks,100,85,The Palace of Auburn Hills,22076,/boxscores/200403270DET.html
+Sat Mar 27 2004,San Antonio Spurs,Phoenix Suns,105,76,SBC Center,18797,/boxscores/200403270SAS.html
+Sat Mar 27 2004,Utah Jazz,Denver Nuggets,85,83,Delta Center,19911,/boxscores/200403270UTA.html
+Sat Mar 27 2004,Portland Trail Blazers,Seattle SuperSonics,115,108,Rose Garden Arena,18554,/boxscores/200403270POR.html
+Sat Mar 27 2004,Los Angeles Clippers,Minnesota Timberwolves,82,98,STAPLES Center,19424,/boxscores/200403270LAC.html
+Sun Mar 28 2004,Toronto Raptors,Memphis Grizzlies,88,94,Air Canada Centre,19088,/boxscores/200403280TOR.html
+Sun Mar 28 2004,Orlando Magic,Dallas Mavericks,88,118,TD Waterhouse Centre,16428,/boxscores/200403280ORL.html
+Sun Mar 28 2004,Milwaukee Bucks,Houston Rockets,107,111,Bradley Center,18717,/boxscores/200403280MIL.html
+Sun Mar 28 2004,Indiana Pacers,Miami Heat,87,80,Conseco Fieldhouse,17284,/boxscores/200403280IND.html
+Sun Mar 28 2004,Boston Celtics,Philadelphia 76ers,89,65,FleetCenter,18624,/boxscores/200403280BOS.html
+Sun Mar 28 2004,Sacramento Kings,Washington Wizards,100,92,ARCO Arena (II),17317,/boxscores/200403280SAC.html
+Sun Mar 28 2004,Golden State Warriors,Los Angeles Clippers,105,77,The Arena in Oakland,15410,/boxscores/200403280GSW.html
+Sun Mar 28 2004,Los Angeles Lakers,Utah Jazz,91,84,STAPLES Center,18997,/boxscores/200403280LAL.html
+Mon Mar 29 2004,Atlanta Hawks,Memphis Grizzlies,133,136,Philips Arena,12665,/boxscores/200403290ATL.html
+Mon Mar 29 2004,Miami Heat,Chicago Bulls,105,96,AmericanAirlines Arena,16500,/boxscores/200403290MIA.html
+Mon Mar 29 2004,New Jersey Nets,Boston Celtics,80,84,Continental Airlines Arena,14976,/boxscores/200403290NJN.html
+Mon Mar 29 2004,New York Knicks,Portland Trail Blazers,92,91,Madison Square Garden (IV),19763,/boxscores/200403290NYK.html
+Mon Mar 29 2004,Houston Rockets,Minnesota Timberwolves,88,94,Toyota Center,16270,/boxscores/200403290HOU.html
+Mon Mar 29 2004,San Antonio Spurs,Cleveland Cavaliers,101,93,SBC Center,18797,/boxscores/200403290SAS.html
+Mon Mar 29 2004,Phoenix Suns,Washington Wizards,101,95,America West Arena,15124,/boxscores/200403290PHO.html
+Tue Mar 30 2004,Philadelphia 76ers,Golden State Warriors,95,71,Wachovia Center,17048,/boxscores/200403300PHI.html
+Tue Mar 30 2004,Milwaukee Bucks,Indiana Pacers,95,86,Bradley Center,17245,/boxscores/200403300MIL.html
+Tue Mar 30 2004,Dallas Mavericks,Cleveland Cavaliers,126,109,American Airlines Center,20575,/boxscores/200403300DAL.html
+Tue Mar 30 2004,Denver Nuggets,Seattle SuperSonics,124,119,Pepsi Center,17699,/boxscores/200403300DEN.html
+Tue Mar 30 2004,Los Angeles Lakers,New Orleans Hornets,107,88,STAPLES Center,18997,/boxscores/200403300LAL.html
+Wed Mar 31 2004,Boston Celtics,Portland Trail Blazers,98,105,FleetCenter,15423,/boxscores/200403310BOS.html
+Wed Mar 31 2004,Indiana Pacers,Milwaukee Bucks,111,78,Conseco Fieldhouse,15577,/boxscores/200403310IND.html
+Wed Mar 31 2004,Orlando Magic,Chicago Bulls,91,109,TD Waterhouse Centre,13017,/boxscores/200403310ORL.html
+Wed Mar 31 2004,Washington Wizards,New Jersey Nets,99,103,MCI Center,16483,/boxscores/200403310WAS.html
+Wed Mar 31 2004,Atlanta Hawks,Miami Heat,97,100,Philips Arena,17055,/boxscores/200403310ATL.html
+Wed Mar 31 2004,Detroit Pistons,Los Angeles Clippers,108,99,The Palace of Auburn Hills,22076,/boxscores/200403310DET.html
+Wed Mar 31 2004,Toronto Raptors,Golden State Warriors,78,85,Air Canada Centre,17116,/boxscores/200403310TOR.html
+Wed Mar 31 2004,Minnesota Timberwolves,Seattle SuperSonics,90,83,Target Center,19006,/boxscores/200403310MIN.html
+Wed Mar 31 2004,San Antonio Spurs,Sacramento Kings,107,89,SBC Center,18797,/boxscores/200403310SAS.html
+Wed Mar 31 2004,Utah Jazz,New Orleans Hornets,89,76,Delta Center,19911,/boxscores/200403310UTA.html

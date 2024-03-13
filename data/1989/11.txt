@@ -1,0 +1,166 @@
+Fri Nov 4 1988,Boston Celtics,New York Knicks,122,115,Boston Garden,14890,/boxscores/198811040BOS.html
+Fri Nov 4 1988,Charlotte Hornets,Cleveland Cavaliers,93,133,Charlotte Coliseum,23338,/boxscores/198811040CHH.html
+Fri Nov 4 1988,Chicago Bulls,Detroit Pistons,94,107,Chicago Stadium,18420,/boxscores/198811040CHI.html
+Fri Nov 4 1988,Dallas Mavericks,Los Angeles Lakers,113,116,Reunion Arena,17007,/boxscores/198811040DAL.html
+Fri Nov 4 1988,Denver Nuggets,Houston Rockets,120,117,McNichols Sports Arena,14876,/boxscores/198811040DEN.html
+Fri Nov 4 1988,Indiana Pacers,Milwaukee Bucks,103,117,Market Square Arena,11153,/boxscores/198811040IND.html
+Fri Nov 4 1988,New Jersey Nets,Atlanta Hawks,105,113,Brendan Byrne Arena,14480,/boxscores/198811040NJN.html
+Fri Nov 4 1988,Philadelphia 76ers,Los Angeles Clippers,129,110,The Spectrum,13468,/boxscores/198811040PHI.html
+Fri Nov 4 1988,Portland Trail Blazers,Phoenix Suns,120,105,Memorial Coliseum,12812,/boxscores/198811040POR.html
+Fri Nov 4 1988,Utah Jazz,Seattle SuperSonics,97,104,Salt Palace,12444,/boxscores/198811040UTA.html
+Sat Nov 5 1988,Detroit Pistons,Charlotte Hornets,94,85,The Palace of Auburn Hills,21454,/boxscores/198811050DET.html
+Sat Nov 5 1988,Golden State Warriors,Phoenix Suns,117,104,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198811050GSW.html
+Sat Nov 5 1988,Houston Rockets,Dallas Mavericks,113,114,The Summit,16611,/boxscores/198811050HOU.html
+Sat Nov 5 1988,Indiana Pacers,Cleveland Cavaliers,99,105,Market Square Arena,10710,/boxscores/198811050IND.html
+Sat Nov 5 1988,Miami Heat,Los Angeles Clippers,91,111,Miami Arena,15008,/boxscores/198811050MIA.html
+Sat Nov 5 1988,Milwaukee Bucks,Atlanta Hawks,94,107,Bradley Center,18649,/boxscores/198811050MIL.html
+Sat Nov 5 1988,New Jersey Nets,New York Knicks,112,102,Brendan Byrne Arena,19469,/boxscores/198811050NJN.html
+Sat Nov 5 1988,Philadelphia 76ers,Boston Celtics,129,115,The Spectrum,17341,/boxscores/198811050PHI.html
+Sat Nov 5 1988,Portland Trail Blazers,Sacramento Kings,121,103,Memorial Coliseum,12812,/boxscores/198811050POR.html
+Sat Nov 5 1988,San Antonio Spurs,Los Angeles Lakers,122,107,HemisFair Arena,15861,/boxscores/198811050SAS.html
+Sat Nov 5 1988,Seattle SuperSonics,Denver Nuggets,142,141,Seattle Center Coliseum,14269,/boxscores/198811050SEA.html
+Sat Nov 5 1988,Washington Bullets,Chicago Bulls,98,111,Capital Centre,17235,/boxscores/198811050WSB.html
+Tue Nov 8 1988,Atlanta Hawks,Indiana Pacers,112,107,Omni Coliseum,16371,/boxscores/198811080ATL.html
+Tue Nov 8 1988,Charlotte Hornets,Los Angeles Clippers,117,105,Charlotte Coliseum,18865,/boxscores/198811080CHH.html
+Tue Nov 8 1988,Dallas Mavericks,Miami Heat,92,88,Reunion Arena,16129,/boxscores/198811080DAL.html
+Tue Nov 8 1988,Golden State Warriors,Los Angeles Lakers,102,114,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198811080GSW.html
+Tue Nov 8 1988,Houston Rockets,San Antonio Spurs,120,102,The Summit,16611,/boxscores/198811080HOU.html
+Tue Nov 8 1988,New Jersey Nets,Washington Bullets,109,101,Brendan Byrne Arena,0,/boxscores/198811080NJN.html
+Tue Nov 8 1988,New York Knicks,Chicago Bulls,126,117,Madison Square Garden (IV),19591,/boxscores/198811080NYK.html
+Tue Nov 8 1988,Philadelphia 76ers,Detroit Pistons,109,116,The Spectrum,10115,/boxscores/198811080PHI.html
+Tue Nov 8 1988,Sacramento Kings,Seattle SuperSonics,75,97,ARCO Arena (II),16517,/boxscores/198811080SAC.html
+Wed Nov 9 1988,Boston Celtics,Chicago Bulls,104,110,Boston Garden,14890,/boxscores/198811090BOS.html
+Wed Nov 9 1988,Cleveland Cavaliers,Los Angeles Clippers,108,91,Coliseum at Richfield,16513,/boxscores/198811090CLE.html
+Wed Nov 9 1988,Detroit Pistons,Atlanta Hawks,101,95,The Palace of Auburn Hills,21454,/boxscores/198811090DET.html
+Wed Nov 9 1988,Los Angeles Lakers,Denver Nuggets,128,110,Great Western Forum,17505,/boxscores/198811090LAL.html
+Wed Nov 9 1988,Milwaukee Bucks,Philadelphia 76ers,114,103,Bradley Center,14192,/boxscores/198811090MIL.html
+Wed Nov 9 1988,Phoenix Suns,Dallas Mavericks,111,103,Arizona Veterans Memorial Coliseum,0,/boxscores/198811090PHO.html
+Wed Nov 9 1988,San Antonio Spurs,Miami Heat,117,93,HemisFair Arena,0,/boxscores/198811090SAS.html
+Wed Nov 9 1988,Seattle SuperSonics,Golden State Warriors,108,113,Seattle Center Coliseum,0,/boxscores/198811090SEA.html
+Wed Nov 9 1988,Utah Jazz,Sacramento Kings,105,81,Salt Palace,11741,/boxscores/198811090UTA.html
+Wed Nov 9 1988,Washington Bullets,New York Knicks,110,117,Capital Centre,0,/boxscores/198811090WSB.html
+Thu Nov 10 1988,Denver Nuggets,Portland Trail Blazers,135,115,McNichols Sports Arena,0,/boxscores/198811100DEN.html
+Thu Nov 10 1988,Houston Rockets,Utah Jazz,106,99,The Summit,16611,/boxscores/198811100HOU.html
+Fri Nov 11 1988,Boston Celtics,Detroit Pistons,107,116,Boston Garden,14890,/boxscores/198811110BOS.html
+Fri Nov 11 1988,Chicago Bulls,New Jersey Nets,97,85,Chicago Stadium,17901,/boxscores/198811110CHI.html
+Fri Nov 11 1988,Dallas Mavericks,San Antonio Spurs,115,102,Reunion Arena,17007,/boxscores/198811110DAL.html
+Fri Nov 11 1988,Indiana Pacers,New York Knicks,120,121,Market Square Arena,10336,/boxscores/198811110IND.html
+Fri Nov 11 1988,Los Angeles Lakers,Seattle SuperSonics,114,103,Great Western Forum,17505,/boxscores/198811110LAL.html
+Fri Nov 11 1988,Miami Heat,Houston Rockets,100,121,Miami Arena,15008,/boxscores/198811110MIA.html
+Fri Nov 11 1988,Philadelphia 76ers,Atlanta Hawks,107,105,The Spectrum,13266,/boxscores/198811110PHI.html
+Fri Nov 11 1988,Phoenix Suns,Golden State Warriors,141,103,Arizona Veterans Memorial Coliseum,10045,/boxscores/198811110PHO.html
+Fri Nov 11 1988,Washington Bullets,Charlotte Hornets,96,87,Capital Centre,12731,/boxscores/198811110WSB.html
+Sat Nov 12 1988,Atlanta Hawks,Charlotte Hornets,132,111,Omni Coliseum,16155,/boxscores/198811120ATL.html
+Sat Nov 12 1988,Cleveland Cavaliers,Indiana Pacers,121,96,Coliseum at Richfield,14626,/boxscores/198811120CLE.html
+Sat Nov 12 1988,Dallas Mavericks,Sacramento Kings,111,71,Reunion Arena,17007,/boxscores/198811120DAL.html
+Sat Nov 12 1988,Denver Nuggets,Seattle SuperSonics,141,129,McNichols Sports Arena,12401,/boxscores/198811120DEN.html
+Sat Nov 12 1988,Golden State Warriors,Portland Trail Blazers,107,100,Oakland-Alameda County Coliseum Arena,12470,/boxscores/198811120GSW.html
+Sat Nov 12 1988,Los Angeles Clippers,Phoenix Suns,138,127,Los Angeles Memorial Sports Arena,13826,/boxscores/198811120LAC.html
+Sat Nov 12 1988,Milwaukee Bucks,Boston Celtics,108,100,Bradley Center,18673,/boxscores/198811120MIL.html
+Sat Nov 12 1988,New Jersey Nets,Chicago Bulls,97,91,Brendan Byrne Arena,17082,/boxscores/198811120NJN.html
+Sat Nov 12 1988,New York Knicks,Washington Bullets,111,101,Madison Square Garden (IV),16567,/boxscores/198811120NYK.html
+Sat Nov 12 1988,San Antonio Spurs,Utah Jazz,96,105,HemisFair Arena,11889,/boxscores/198811120SAS.html
+Sun Nov 13 1988,Houston Rockets,Sacramento Kings,129,127,The Summit,16611,/boxscores/198811130HOU.html
+Sun Nov 13 1988,Portland Trail Blazers,Denver Nuggets,132,143,Memorial Coliseum,12812,/boxscores/198811130POR.html
+Mon Nov 14 1988,New Jersey Nets,Golden State Warriors,96,100,Brendan Byrne Arena,0,/boxscores/198811140NJN.html
+Tue Nov 15 1988,Charlotte Hornets,New Jersey Nets,99,106,Charlotte Coliseum,21748,/boxscores/198811150CHH.html
+Tue Nov 15 1988,Chicago Bulls,Philadelphia 76ers,120,107,Chicago Stadium,17498,/boxscores/198811150CHI.html
+Tue Nov 15 1988,Cleveland Cavaliers,Atlanta Hawks,95,97,Coliseum at Richfield,15684,/boxscores/198811150CLE.html
+Tue Nov 15 1988,Dallas Mavericks,Detroit Pistons,99,108,Reunion Arena,17007,/boxscores/198811150DAL.html
+Tue Nov 15 1988,Denver Nuggets,Los Angeles Lakers,146,148,McNichols Sports Arena,15198,/boxscores/198811150DEN.html
+Tue Nov 15 1988,Houston Rockets,New York Knicks,121,126,The Summit,16611,/boxscores/198811150HOU.html
+Tue Nov 15 1988,Miami Heat,Boston Celtics,65,84,Miami Arena,15008,/boxscores/198811150MIA.html
+Tue Nov 15 1988,Portland Trail Blazers,Los Angeles Clippers,125,103,Memorial Coliseum,12812,/boxscores/198811150POR.html
+Tue Nov 15 1988,Sacramento Kings,Phoenix Suns,89,119,ARCO Arena (II),16517,/boxscores/198811150SAC.html
+Tue Nov 15 1988,Utah Jazz,Indiana Pacers,108,96,Salt Palace,12444,/boxscores/198811150UTA.html
+Wed Nov 16 1988,Boston Celtics,Golden State Warriors,107,104,Boston Garden,14890,/boxscores/198811160BOS.html
+Wed Nov 16 1988,Los Angeles Clippers,Sacramento Kings,112,101,Los Angeles Memorial Sports Arena,0,/boxscores/198811160LAC.html
+Wed Nov 16 1988,Philadelphia 76ers,Chicago Bulls,123,110,The Spectrum,14185,/boxscores/198811160PHI.html
+Wed Nov 16 1988,Phoenix Suns,Indiana Pacers,123,104,Arizona Veterans Memorial Coliseum,0,/boxscores/198811160PHO.html
+Wed Nov 16 1988,San Antonio Spurs,Detroit Pistons,88,94,HemisFair Arena,11991,/boxscores/198811160SAS.html
+Thu Nov 17 1988,Dallas Mavericks,Charlotte Hornets,105,93,Reunion Arena,16512,/boxscores/198811170DAL.html
+Thu Nov 17 1988,Denver Nuggets,San Antonio Spurs,139,112,McNichols Sports Arena,10079,/boxscores/198811170DEN.html
+Thu Nov 17 1988,Houston Rockets,Miami Heat,113,107,The Summit,16288,/boxscores/198811170HOU.html
+Thu Nov 17 1988,Milwaukee Bucks,New Jersey Nets,96,105,Bradley Center,15419,/boxscores/198811170MIL.html
+Thu Nov 17 1988,Seattle SuperSonics,Los Angeles Lakers,101,98,Seattle Center Coliseum,14576,/boxscores/198811170SEA.html
+Thu Nov 17 1988,Utah Jazz,Portland Trail Blazers,123,99,Salt Palace,12444,/boxscores/198811170UTA.html
+Fri Nov 18 1988,Boston Celtics,Washington Bullets,114,108,Boston Garden,14890,/boxscores/198811180BOS.html
+Fri Nov 18 1988,Chicago Bulls,Atlanta Hawks,115,112,Chicago Stadium,18503,/boxscores/198811180CHI.html
+Fri Nov 18 1988,Los Angeles Clippers,Indiana Pacers,113,110,Los Angeles Memorial Sports Arena,10638,/boxscores/198811180LAC.html
+Fri Nov 18 1988,Los Angeles Lakers,Portland Trail Blazers,106,105,Great Western Forum,17505,/boxscores/198811180LAL.html
+Fri Nov 18 1988,Miami Heat,Golden State Warriors,117,123,Miami Arena,13907,/boxscores/198811180MIA.html
+Fri Nov 18 1988,New Jersey Nets,Cleveland Cavaliers,94,95,Brendan Byrne Arena,0,/boxscores/198811180NJN.html
+Fri Nov 18 1988,Philadelphia 76ers,New York Knicks,137,135,The Spectrum,14322,/boxscores/198811180PHI.html
+Fri Nov 18 1988,Phoenix Suns,Detroit Pistons,105,121,Arizona Veterans Memorial Coliseum,14471,/boxscores/198811180PHO.html
+Sat Nov 19 1988,Atlanta Hawks,Golden State Warriors,111,92,Omni Coliseum,15929,/boxscores/198811190ATL.html
+Sat Nov 19 1988,Cleveland Cavaliers,Milwaukee Bucks,106,99,Coliseum at Richfield,17287,/boxscores/198811190CLE.html
+Sat Nov 19 1988,Denver Nuggets,Los Angeles Clippers,134,107,McNichols Sports Arena,10405,/boxscores/198811190DEN.html
+Sat Nov 19 1988,Houston Rockets,Detroit Pistons,109,98,The Summit,16611,/boxscores/198811190HOU.html
+Sat Nov 19 1988,New York Knicks,Philadelphia 76ers,141,122,Madison Square Garden (IV),19591,/boxscores/198811190NYK.html
+Sat Nov 19 1988,Sacramento Kings,Indiana Pacers,107,96,ARCO Arena (II),16517,/boxscores/198811190SAC.html
+Sat Nov 19 1988,San Antonio Spurs,Charlotte Hornets,105,107,HemisFair Arena,10863,/boxscores/198811190SAS.html
+Sat Nov 19 1988,Seattle SuperSonics,Dallas Mavericks,106,112,Seattle Center Coliseum,11608,/boxscores/198811190SEA.html
+Sat Nov 19 1988,Utah Jazz,Phoenix Suns,134,121,Salt Palace,12444,/boxscores/198811190UTA.html
+Sat Nov 19 1988,Washington Bullets,Boston Celtics,108,104,Capital Centre,16575,/boxscores/198811190WSB.html
+Sun Nov 20 1988,Portland Trail Blazers,New Jersey Nets,117,106,Memorial Coliseum,12848,/boxscores/198811200POR.html
+Mon Nov 21 1988,Houston Rockets,Atlanta Hawks,117,113,The Summit,16611,/boxscores/198811210HOU.html
+Mon Nov 21 1988,Utah Jazz,Los Angeles Clippers,117,98,Salt Palace,12444,/boxscores/198811210UTA.html
+Tue Nov 22 1988,Boston Celtics,Cleveland Cavaliers,102,114,Hartford Civic Center,15239,/boxscores/198811220BOS.html
+Tue Nov 22 1988,Charlotte Hornets,Detroit Pistons,93,99,Charlotte Coliseum,23388,/boxscores/198811220CHH.html
+Tue Nov 22 1988,Denver Nuggets,New Jersey Nets,141,106,McNichols Sports Arena,0,/boxscores/198811220DEN.html
+Tue Nov 22 1988,Indiana Pacers,Milwaukee Bucks,105,91,Market Square Arena,0,/boxscores/198811220IND.html
+Tue Nov 22 1988,New York Knicks,Los Angeles Lakers,98,110,Madison Square Garden (IV),19591,/boxscores/198811220NYK.html
+Tue Nov 22 1988,Sacramento Kings,Chicago Bulls,98,114,ARCO Arena (II),16517,/boxscores/198811220SAC.html
+Tue Nov 22 1988,Seattle SuperSonics,Portland Trail Blazers,104,125,Seattle Center Coliseum,10956,/boxscores/198811220SEA.html
+Tue Nov 22 1988,Washington Bullets,Philadelphia 76ers,103,130,Capital Centre,0,/boxscores/198811220WSB.html
+Wed Nov 23 1988,Boston Celtics,Charlotte Hornets,114,109,Boston Garden,14890,/boxscores/198811230BOS.html
+Wed Nov 23 1988,Dallas Mavericks,Denver Nuggets,125,106,Reunion Arena,17007,/boxscores/198811230DAL.html
+Wed Nov 23 1988,Detroit Pistons,New York Knicks,111,133,The Palace of Auburn Hills,21454,/boxscores/198811230DET.html
+Wed Nov 23 1988,Golden State Warriors,Seattle SuperSonics,85,93,Oakland-Alameda County Coliseum Arena,13770,/boxscores/198811230GSW.html
+Wed Nov 23 1988,Los Angeles Clippers,Chicago Bulls,105,97,Los Angeles Memorial Sports Arena,15352,/boxscores/198811230LAC.html
+Wed Nov 23 1988,Miami Heat,Los Angeles Lakers,91,138,Miami Arena,15008,/boxscores/198811230MIA.html
+Wed Nov 23 1988,Milwaukee Bucks,Washington Bullets,124,102,Bradley Center,15102,/boxscores/198811230MIL.html
+Wed Nov 23 1988,Philadelphia 76ers,Cleveland Cavaliers,104,91,The Spectrum,13146,/boxscores/198811230PHI.html
+Wed Nov 23 1988,Phoenix Suns,New Jersey Nets,129,133,Arizona Veterans Memorial Coliseum,0,/boxscores/198811230PHO.html
+Wed Nov 23 1988,San Antonio Spurs,Atlanta Hawks,119,109,HemisFair Arena,11874,/boxscores/198811230SAS.html
+Wed Nov 23 1988,Utah Jazz,Houston Rockets,111,108,Salt Palace,12444,/boxscores/198811230UTA.html
+Fri Nov 25 1988,Boston Celtics,Milwaukee Bucks,115,96,Boston Garden,14890,/boxscores/198811250BOS.html
+Fri Nov 25 1988,Dallas Mavericks,Atlanta Hawks,100,95,Reunion Arena,17007,/boxscores/198811250DAL.html
+Fri Nov 25 1988,Indiana Pacers,Washington Bullets,101,106,Market Square Arena,12570,/boxscores/198811250IND.html
+Fri Nov 25 1988,Los Angeles Clippers,New Jersey Nets,100,93,Los Angeles Memorial Sports Arena,0,/boxscores/198811250LAC.html
+Fri Nov 25 1988,Philadelphia 76ers,Charlotte Hornets,123,116,The Spectrum,10588,/boxscores/198811250PHI.html
+Fri Nov 25 1988,Phoenix Suns,Seattle SuperSonics,110,105,Arizona Veterans Memorial Coliseum,10710,/boxscores/198811250PHO.html
+Fri Nov 25 1988,Portland Trail Blazers,Houston Rockets,111,94,Memorial Coliseum,12848,/boxscores/198811250POR.html
+Fri Nov 25 1988,Utah Jazz,San Antonio Spurs,115,95,Salt Palace,12444,/boxscores/198811250UTA.html
+Sat Nov 26 1988,Atlanta Hawks,Boston Celtics,104,91,Omni Coliseum,16371,/boxscores/198811260ATL.html
+Sat Nov 26 1988,Charlotte Hornets,Washington Bullets,113,120,Charlotte Coliseum,23388,/boxscores/198811260CHH.html
+Sat Nov 26 1988,Dallas Mavericks,Utah Jazz,113,93,Reunion Arena,17007,/boxscores/198811260DAL.html
+Sat Nov 26 1988,Denver Nuggets,Chicago Bulls,128,123,McNichols Sports Arena,17022,/boxscores/198811260DEN.html
+Sat Nov 26 1988,Detroit Pistons,Los Angeles Lakers,102,99,The Palace of Auburn Hills,21454,/boxscores/198811260DET.html
+Sat Nov 26 1988,Golden State Warriors,Houston Rockets,109,119,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198811260GSW.html
+Sat Nov 26 1988,Milwaukee Bucks,Miami Heat,103,93,Bradley Center,18573,/boxscores/198811260MIL.html
+Sat Nov 26 1988,New York Knicks,Cleveland Cavaliers,127,112,Madison Square Garden (IV),19591,/boxscores/198811260NYK.html
+Sat Nov 26 1988,Philadelphia 76ers,Indiana Pacers,122,114,The Spectrum,0,/boxscores/198811260PHI.html
+Sat Nov 26 1988,Sacramento Kings,New Jersey Nets,97,98,ARCO Arena (II),16517,/boxscores/198811260SAC.html
+Sat Nov 26 1988,San Antonio Spurs,Phoenix Suns,117,104,HemisFair Arena,10583,/boxscores/198811260SAS.html
+Sun Nov 27 1988,Cleveland Cavaliers,Miami Heat,109,80,Coliseum at Richfield,0,/boxscores/198811270CLE.html
+Sun Nov 27 1988,Portland Trail Blazers,Golden State Warriors,109,94,Memorial Coliseum,12848,/boxscores/198811270POR.html
+Mon Nov 28 1988,Philadelphia 76ers,Los Angeles Lakers,104,109,The Spectrum,18168,/boxscores/198811280PHI.html
+Tue Nov 29 1988,Atlanta Hawks,San Antonio Spurs,120,104,Omni Coliseum,13133,/boxscores/198811290ATL.html
+Tue Nov 29 1988,Charlotte Hornets,Miami Heat,99,84,Charlotte Coliseum,23388,/boxscores/198811290CHH.html
+Tue Nov 29 1988,Denver Nuggets,New York Knicks,139,119,McNichols Sports Arena,10387,/boxscores/198811290DEN.html
+Tue Nov 29 1988,Golden State Warriors,Chicago Bulls,109,99,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198811290GSW.html
+Tue Nov 29 1988,Houston Rockets,Phoenix Suns,107,124,The Summit,16611,/boxscores/198811290HOU.html
+Tue Nov 29 1988,Indiana Pacers,Detroit Pistons,107,98,Market Square Arena,10275,/boxscores/198811290IND.html
+Tue Nov 29 1988,Milwaukee Bucks,Portland Trail Blazers,119,114,Bradley Center,13918,/boxscores/198811290MIL.html
+Tue Nov 29 1988,New Jersey Nets,Boston Celtics,93,100,Brendan Byrne Arena,15131,/boxscores/198811290NJN.html
+Tue Nov 29 1988,Sacramento Kings,Los Angeles Clippers,123,95,ARCO Arena (II),16517,/boxscores/198811290SAC.html
+Tue Nov 29 1988,Seattle SuperSonics,Utah Jazz,109,102,Seattle Center Coliseum,12336,/boxscores/198811290SEA.html
+Wed Nov 30 1988,Boston Celtics,New Jersey Nets,133,100,Boston Garden,14890,/boxscores/198811300BOS.html
+Wed Nov 30 1988,Dallas Mavericks,Houston Rockets,89,101,Reunion Arena,17007,/boxscores/198811300DAL.html
+Wed Nov 30 1988,Detroit Pistons,Indiana Pacers,114,111,The Palace of Auburn Hills,21454,/boxscores/198811300DET.html
+Wed Nov 30 1988,Los Angeles Clippers,New York Knicks,128,135,Los Angeles Memorial Sports Arena,11507,/boxscores/198811300LAC.html
+Wed Nov 30 1988,Los Angeles Lakers,Seattle SuperSonics,110,106,Great Western Forum,17505,/boxscores/198811300LAL.html
+Wed Nov 30 1988,Miami Heat,San Antonio Spurs,101,105,Miami Arena,14298,/boxscores/198811300MIA.html
+Wed Nov 30 1988,Philadelphia 76ers,Portland Trail Blazers,114,106,The Spectrum,0,/boxscores/198811300PHI.html
+Wed Nov 30 1988,Utah Jazz,Chicago Bulls,107,93,Salt Palace,12444,/boxscores/198811300UTA.html

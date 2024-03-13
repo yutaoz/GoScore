@@ -1,0 +1,154 @@
+Fri Apr 1 2011,Indiana Pacers,Milwaukee Bucks,89,88,Conseco Fieldhouse,11177,/boxscores/201104010IND.html
+Fri Apr 1 2011,Orlando Magic,Charlotte Bobcats,89,77,Amway Center,18969,/boxscores/201104010ORL.html
+Fri Apr 1 2011,Philadelphia 76ers,New Jersey Nets,115,90,Wells Fargo Center,16695,/boxscores/201104010PHI.html
+Fri Apr 1 2011,Washington Wizards,Cleveland Cavaliers,115,107,Verizon Center,17427,/boxscores/201104010WAS.html
+Fri Apr 1 2011,Detroit Pistons,Chicago Bulls,96,101,The Palace of Auburn Hills,22076,/boxscores/201104010DET.html
+Fri Apr 1 2011,Atlanta Hawks,Boston Celtics,88,83,Philips Arena,19763,/boxscores/201104010ATL.html
+Fri Apr 1 2011,Minnesota Timberwolves,Miami Heat,92,111,Target Center,19096,/boxscores/201104010MIN.html
+Fri Apr 1 2011,New Orleans Hornets,Memphis Grizzlies,81,93,New Orleans Arena,16561,/boxscores/201104010NOH.html
+Fri Apr 1 2011,Houston Rockets,San Antonio Spurs,119,114,Toyota Center,18059,/boxscores/201104010HOU.html
+Fri Apr 1 2011,Phoenix Suns,Los Angeles Clippers,111,98,US Airways Center,18422,/boxscores/201104010PHO.html
+Fri Apr 1 2011,Portland Trail Blazers,Oklahoma City Thunder,98,91,Rose Garden Arena,20709,/boxscores/201104010POR.html
+Fri Apr 1 2011,Sacramento Kings,Denver Nuggets,90,99,Power Balance Pavilion,15871,/boxscores/201104010SAC.html
+Fri Apr 1 2011,Utah Jazz,Los Angeles Lakers,85,96,EnergySolutions Arena,19911,/boxscores/201104010UTA.html
+Sat Apr 2 2011,Chicago Bulls,Toronto Raptors,113,106,United Center,22228,/boxscores/201104020CHI.html
+Sat Apr 2 2011,Memphis Grizzlies,Minnesota Timberwolves,106,89,FedEx Forum,15327,/boxscores/201104020MEM.html
+Sat Apr 2 2011,Milwaukee Bucks,Philadelphia 76ers,93,87,Bradley Center,17079,/boxscores/201104020MIL.html
+Sat Apr 2 2011,Golden State Warriors,Dallas Mavericks,99,92,Oracle Arena,18128,/boxscores/201104020GSW.html
+Sat Apr 2 2011,Los Angeles Clippers,Oklahoma City Thunder,98,92,STAPLES Center,19060,/boxscores/201104020LAC.html
+Sun Apr 3 2011,San Antonio Spurs,Phoenix Suns,114,97,AT&T Center,18581,/boxscores/201104030SAS.html
+Sun Apr 3 2011,Los Angeles Lakers,Denver Nuggets,90,95,STAPLES Center,18997,/boxscores/201104030LAL.html
+Sun Apr 3 2011,Boston Celtics,Detroit Pistons,101,90,TD Garden,18624,/boxscores/201104030BOS.html
+Sun Apr 3 2011,Charlotte Bobcats,Washington Wizards,91,97,Time Warner Cable Arena,16444,/boxscores/201104030CHA.html
+Sun Apr 3 2011,New Jersey Nets,Miami Heat,94,108,Prudential Center,18711,/boxscores/201104030NJN.html
+Sun Apr 3 2011,New York Knicks,Cleveland Cavaliers,123,107,Madison Square Garden (IV),19763,/boxscores/201104030NYK.html
+Sun Apr 3 2011,Sacramento Kings,Utah Jazz,106,97,Power Balance Pavilion,17215,/boxscores/201104030SAC.html
+Sun Apr 3 2011,Toronto Raptors,Orlando Magic,102,98,Air Canada Centre,19800,/boxscores/201104030TOR.html
+Sun Apr 3 2011,Houston Rockets,Atlanta Hawks,114,109,Toyota Center,15993,/boxscores/201104030HOU.html
+Sun Apr 3 2011,New Orleans Hornets,Indiana Pacers,108,96,New Orleans Arena,13898,/boxscores/201104030NOH.html
+Sun Apr 3 2011,Portland Trail Blazers,Dallas Mavericks,104,96,Rose Garden Arena,20534,/boxscores/201104030POR.html
+Tue Apr 5 2011,Atlanta Hawks,San Antonio Spurs,90,97,Philips Arena,17277,/boxscores/201104050ATL.html
+Tue Apr 5 2011,Cleveland Cavaliers,Charlotte Bobcats,99,89,Quicken Loans Arena,19835,/boxscores/201104050CLE.html
+Tue Apr 5 2011,New Jersey Nets,Minnesota Timberwolves,107,105,Prudential Center,13461,/boxscores/201104050NJN.html
+Tue Apr 5 2011,Orlando Magic,Milwaukee Bucks,78,72,Amway Center,18996,/boxscores/201104050ORL.html
+Tue Apr 5 2011,Washington Wizards,Detroit Pistons,107,105,Verizon Center,18131,/boxscores/201104050WAS.html
+Tue Apr 5 2011,Boston Celtics,Philadelphia 76ers,99,82,TD Garden,18624,/boxscores/201104050BOS.html
+Tue Apr 5 2011,New York Knicks,Toronto Raptors,131,118,Madison Square Garden (IV),19763,/boxscores/201104050NYK.html
+Tue Apr 5 2011,Chicago Bulls,Phoenix Suns,97,94,United Center,21873,/boxscores/201104050CHI.html
+Tue Apr 5 2011,Memphis Grizzlies,Los Angeles Clippers,81,82,FedEx Forum,15433,/boxscores/201104050MEM.html
+Tue Apr 5 2011,Houston Rockets,Sacramento Kings,101,104,Toyota Center,15523,/boxscores/201104050HOU.html
+Tue Apr 5 2011,Denver Nuggets,Oklahoma City Thunder,94,101,Pepsi Center,18203,/boxscores/201104050DEN.html
+Tue Apr 5 2011,Portland Trail Blazers,Golden State Warriors,87,108,Rose Garden Arena,20551,/boxscores/201104050POR.html
+Tue Apr 5 2011,Los Angeles Lakers,Utah Jazz,85,86,STAPLES Center,18997,/boxscores/201104050LAL.html
+Wed Apr 6 2011,Charlotte Bobcats,Orlando Magic,102,111,Time Warner Cable Arena,16234,/boxscores/201104060CHA.html
+Wed Apr 6 2011,Indiana Pacers,Washington Wizards,136,112,Conseco Fieldhouse,14222,/boxscores/201104060IND.html
+Wed Apr 6 2011,Philadelphia 76ers,New York Knicks,92,97,Wells Fargo Center,18375,/boxscores/201104060PHI.html
+Wed Apr 6 2011,Toronto Raptors,Cleveland Cavaliers,96,104,Air Canada Centre,14886,/boxscores/201104060TOR.html
+Wed Apr 6 2011,Detroit Pistons,New Jersey Nets,116,109,The Palace of Auburn Hills,14554,/boxscores/201104060DET.html
+Wed Apr 6 2011,Miami Heat,Milwaukee Bucks,85,90,AmericanAirlines Arena,20017,/boxscores/201104060MIA.html
+Wed Apr 6 2011,Minnesota Timberwolves,Phoenix Suns,98,108,Target Center,16113,/boxscores/201104060MIN.html
+Wed Apr 6 2011,New Orleans Hornets,Houston Rockets,101,93,New Orleans Arena,12728,/boxscores/201104060NOH.html
+Wed Apr 6 2011,Oklahoma City Thunder,Los Angeles Clippers,112,108,Chesapeake Energy Arena,18203,/boxscores/201104060OKC.html
+Wed Apr 6 2011,Dallas Mavericks,Denver Nuggets,96,104,American Airlines Center,20364,/boxscores/201104060DAL.html
+Wed Apr 6 2011,San Antonio Spurs,Sacramento Kings,124,92,AT&T Center,18590,/boxscores/201104060SAS.html
+Wed Apr 6 2011,Golden State Warriors,Los Angeles Lakers,95,87,Oracle Arena,20024,/boxscores/201104060GSW.html
+Thu Apr 7 2011,Chicago Bulls,Boston Celtics,97,81,United Center,23067,/boxscores/201104070CHI.html
+Thu Apr 7 2011,Utah Jazz,Portland Trail Blazers,87,98,EnergySolutions Arena,18831,/boxscores/201104070UTA.html
+Fri Apr 8 2011,Indiana Pacers,Atlanta Hawks,114,102,Conseco Fieldhouse,15879,/boxscores/201104080IND.html
+Fri Apr 8 2011,New Jersey Nets,New York Knicks,93,116,Prudential Center,18023,/boxscores/201104080NJN.html
+Fri Apr 8 2011,Philadelphia 76ers,Toronto Raptors,98,93,Wells Fargo Center,16362,/boxscores/201104080PHI.html
+Fri Apr 8 2011,Boston Celtics,Washington Wizards,104,88,TD Garden,18624,/boxscores/201104080BOS.html
+Fri Apr 8 2011,Cleveland Cavaliers,Chicago Bulls,82,93,Quicken Loans Arena,20562,/boxscores/201104080CLE.html
+Fri Apr 8 2011,Detroit Pistons,Milwaukee Bucks,110,100,The Palace of Auburn Hills,16266,/boxscores/201104080DET.html
+Fri Apr 8 2011,Miami Heat,Charlotte Bobcats,112,103,AmericanAirlines Arena,19897,/boxscores/201104080MIA.html
+Fri Apr 8 2011,Memphis Grizzlies,Sacramento Kings,101,96,FedEx Forum,16517,/boxscores/201104080MEM.html
+Fri Apr 8 2011,New Orleans Hornets,Phoenix Suns,109,97,New Orleans Arena,14950,/boxscores/201104080NOH.html
+Fri Apr 8 2011,Oklahoma City Thunder,Denver Nuggets,104,89,Chesapeake Energy Arena,18203,/boxscores/201104080OKC.html
+Fri Apr 8 2011,Dallas Mavericks,Los Angeles Clippers,107,96,American Airlines Center,20382,/boxscores/201104080DAL.html
+Fri Apr 8 2011,Portland Trail Blazers,Los Angeles Lakers,93,86,Rose Garden Arena,20697,/boxscores/201104080POR.html
+Sat Apr 9 2011,Washington Wizards,Atlanta Hawks,115,83,Verizon Center,19771,/boxscores/201104090WAS.html
+Sat Apr 9 2011,Houston Rockets,Los Angeles Clippers,99,78,Toyota Center,18089,/boxscores/201104090HOU.html
+Sat Apr 9 2011,Milwaukee Bucks,Cleveland Cavaliers,108,101,Bradley Center,18717,/boxscores/201104090MIL.html
+Sat Apr 9 2011,San Antonio Spurs,Utah Jazz,111,102,AT&T Center,18802,/boxscores/201104090SAS.html
+Sat Apr 9 2011,Denver Nuggets,Minnesota Timberwolves,130,106,Pepsi Center,19155,/boxscores/201104090DEN.html
+Sun Apr 10 2011,Orlando Magic,Chicago Bulls,99,102,Amway Center,19181,/boxscores/201104100ORL.html
+Sun Apr 10 2011,Miami Heat,Boston Celtics,100,77,AmericanAirlines Arena,19766,/boxscores/201104100MIA.html
+Sun Apr 10 2011,Charlotte Bobcats,Detroit Pistons,101,112,Time Warner Cable Arena,16234,/boxscores/201104100CHA.html
+Sun Apr 10 2011,Memphis Grizzlies,New Orleans Hornets,111,89,FedEx Forum,17041,/boxscores/201104100MEM.html
+Sun Apr 10 2011,Toronto Raptors,New Jersey Nets,99,92,Air Canada Centre,17755,/boxscores/201104100TOR.html
+Sun Apr 10 2011,Indiana Pacers,New York Knicks,109,110,Conseco Fieldhouse,13542,/boxscores/201104100IND.html
+Sun Apr 10 2011,Dallas Mavericks,Phoenix Suns,115,90,American Airlines Center,20355,/boxscores/201104100DAL.html
+Sun Apr 10 2011,Golden State Warriors,Sacramento Kings,103,104,Oracle Arena,19596,/boxscores/201104100GSW.html
+Sun Apr 10 2011,Los Angeles Lakers,Oklahoma City Thunder,106,120,STAPLES Center,18997,/boxscores/201104100LAL.html
+Mon Apr 11 2011,Atlanta Hawks,Miami Heat,90,98,Philips Arena,18529,/boxscores/201104110ATL.html
+Mon Apr 11 2011,New Jersey Nets,Charlotte Bobcats,103,105,Prudential Center,13853,/boxscores/201104110NJN.html
+Mon Apr 11 2011,Philadelphia 76ers,Orlando Magic,85,95,Wells Fargo Center,19139,/boxscores/201104110PHI.html
+Mon Apr 11 2011,Washington Wizards,Boston Celtics,95,94,Verizon Center,17787,/boxscores/201104110WAS.html
+Mon Apr 11 2011,Detroit Pistons,Cleveland Cavaliers,101,110,The Palace of Auburn Hills,15589,/boxscores/201104110DET.html
+Mon Apr 11 2011,Milwaukee Bucks,Toronto Raptors,93,86,Bradley Center,13279,/boxscores/201104110MIL.html
+Mon Apr 11 2011,New Orleans Hornets,Utah Jazz,78,90,New Orleans Arena,12558,/boxscores/201104110NOH.html
+Mon Apr 11 2011,Houston Rockets,Dallas Mavericks,91,98,Toyota Center,14898,/boxscores/201104110HOU.html
+Mon Apr 11 2011,Denver Nuggets,Golden State Warriors,134,111,Pepsi Center,19155,/boxscores/201104110DEN.html
+Mon Apr 11 2011,Phoenix Suns,Minnesota Timberwolves,135,127,US Airways Center,17485,/boxscores/201104110PHO.html
+Mon Apr 11 2011,Sacramento Kings,Oklahoma City Thunder,112,120,Power Balance Pavilion,15683,/boxscores/201104110SAC.html
+Tue Apr 12 2011,New York Knicks,Chicago Bulls,90,103,Madison Square Garden (IV),19763,/boxscores/201104120NYK.html
+Tue Apr 12 2011,Portland Trail Blazers,Memphis Grizzlies,102,89,Rose Garden Arena,20662,/boxscores/201104120POR.html
+Tue Apr 12 2011,Los Angeles Lakers,San Antonio Spurs,102,93,STAPLES Center,18997,/boxscores/201104120LAL.html
+Wed Apr 13 2011,Boston Celtics,New York Knicks,112,102,TD Garden,18624,/boxscores/201104130BOS.html
+Wed Apr 13 2011,Charlotte Bobcats,Atlanta Hawks,96,85,Time Warner Cable Arena,16138,/boxscores/201104130CHA.html
+Wed Apr 13 2011,Chicago Bulls,New Jersey Nets,97,92,United Center,22420,/boxscores/201104130CHI.html
+Wed Apr 13 2011,Cleveland Cavaliers,Washington Wizards,100,93,Quicken Loans Arena,20562,/boxscores/201104130CLE.html
+Wed Apr 13 2011,Dallas Mavericks,New Orleans Hornets,121,89,American Airlines Center,20366,/boxscores/201104130DAL.html
+Wed Apr 13 2011,Minnesota Timberwolves,Houston Rockets,102,121,Target Center,17101,/boxscores/201104130MIN.html
+Wed Apr 13 2011,Oklahoma City Thunder,Milwaukee Bucks,106,110,Chesapeake Energy Arena,18203,/boxscores/201104130OKC.html
+Wed Apr 13 2011,Orlando Magic,Indiana Pacers,92,74,Amway Center,19169,/boxscores/201104130ORL.html
+Wed Apr 13 2011,Philadelphia 76ers,Detroit Pistons,100,104,Wells Fargo Center,13760,/boxscores/201104130PHI.html
+Wed Apr 13 2011,Toronto Raptors,Miami Heat,79,97,Air Canada Centre,20108,/boxscores/201104130TOR.html
+Wed Apr 13 2011,Utah Jazz,Denver Nuggets,107,103,EnergySolutions Arena,19051,/boxscores/201104130UTA.html
+Wed Apr 13 2011,Golden State Warriors,Portland Trail Blazers,110,86,Oracle Arena,19596,/boxscores/201104130GSW.html
+Wed Apr 13 2011,Los Angeles Clippers,Memphis Grizzlies,110,103,STAPLES Center,19060,/boxscores/201104130LAC.html
+Wed Apr 13 2011,Phoenix Suns,San Antonio Spurs,106,103,US Airways Center,18195,/boxscores/201104130PHO.html
+Wed Apr 13 2011,Sacramento Kings,Los Angeles Lakers,108,116,Power Balance Pavilion,17641,/boxscores/201104130SAC.html
+Sat Apr 16 2011,Chicago Bulls,Indiana Pacers,104,99,United Center,22986,/boxscores/201104160CHI.html
+Sat Apr 16 2011,Miami Heat,Philadelphia 76ers,97,89,AmericanAirlines Arena,19600,/boxscores/201104160MIA.html
+Sat Apr 16 2011,Orlando Magic,Atlanta Hawks,93,103,Amway Center,19108,/boxscores/201104160ORL.html
+Sat Apr 16 2011,Dallas Mavericks,Portland Trail Blazers,89,81,American Airlines Center,20541,/boxscores/201104160DAL.html
+Sun Apr 17 2011,San Antonio Spurs,Memphis Grizzlies,98,101,AT&T Center,18581,/boxscores/201104170SAS.html
+Sun Apr 17 2011,Los Angeles Lakers,New Orleans Hornets,100,109,STAPLES Center,18997,/boxscores/201104170LAL.html
+Sun Apr 17 2011,Boston Celtics,New York Knicks,87,85,TD Garden,18624,/boxscores/201104170BOS.html
+Sun Apr 17 2011,Oklahoma City Thunder,Denver Nuggets,107,103,Chesapeake Energy Arena,18203,/boxscores/201104170OKC.html
+Mon Apr 18 2011,Miami Heat,Philadelphia 76ers,94,73,AmericanAirlines Arena,20204,/boxscores/201104180MIA.html
+Mon Apr 18 2011,Chicago Bulls,Indiana Pacers,96,90,United Center,22480,/boxscores/201104180CHI.html
+Tue Apr 19 2011,Boston Celtics,New York Knicks,96,93,TD Garden,18624,/boxscores/201104190BOS.html
+Tue Apr 19 2011,Orlando Magic,Atlanta Hawks,88,82,Amway Center,19160,/boxscores/201104190ORL.html
+Tue Apr 19 2011,Dallas Mavericks,Portland Trail Blazers,101,89,American Airlines Center,20620,/boxscores/201104190DAL.html
+Wed Apr 20 2011,Oklahoma City Thunder,Denver Nuggets,106,89,Chesapeake Energy Arena,18203,/boxscores/201104200OKC.html
+Wed Apr 20 2011,San Antonio Spurs,Memphis Grizzlies,93,87,AT&T Center,18760,/boxscores/201104200SAS.html
+Wed Apr 20 2011,Los Angeles Lakers,New Orleans Hornets,87,78,STAPLES Center,18997,/boxscores/201104200LAL.html
+Thu Apr 21 2011,Indiana Pacers,Chicago Bulls,84,88,Conseco Fieldhouse,18165,/boxscores/201104210IND.html
+Thu Apr 21 2011,Philadelphia 76ers,Miami Heat,94,100,Wells Fargo Center,20404,/boxscores/201104210PHI.html
+Thu Apr 21 2011,Portland Trail Blazers,Dallas Mavericks,97,92,Rose Garden Arena,20217,/boxscores/201104210POR.html
+Fri Apr 22 2011,New York Knicks,Boston Celtics,96,113,Madison Square Garden (IV),19763,/boxscores/201104220NYK.html
+Fri Apr 22 2011,Atlanta Hawks,Orlando Magic,88,84,Philips Arena,19865,/boxscores/201104220ATL.html
+Fri Apr 22 2011,New Orleans Hornets,Los Angeles Lakers,86,100,New Orleans Arena,18340,/boxscores/201104220NOH.html
+Sat Apr 23 2011,Indiana Pacers,Chicago Bulls,89,84,Conseco Fieldhouse,18165,/boxscores/201104230IND.html
+Sat Apr 23 2011,Portland Trail Blazers,Dallas Mavericks,84,82,Rose Garden Arena,20357,/boxscores/201104230POR.html
+Sat Apr 23 2011,Memphis Grizzlies,San Antonio Spurs,91,88,FedEx Forum,18119,/boxscores/201104230MEM.html
+Sat Apr 23 2011,Denver Nuggets,Oklahoma City Thunder,94,97,Pepsi Center,19958,/boxscores/201104230DEN.html
+Sun Apr 24 2011,Philadelphia 76ers,Miami Heat,86,82,Wells Fargo Center,19048,/boxscores/201104240PHI.html
+Sun Apr 24 2011,New York Knicks,Boston Celtics,89,101,Madison Square Garden (IV),19763,/boxscores/201104240NYK.html
+Sun Apr 24 2011,Atlanta Hawks,Orlando Magic,88,85,Philips Arena,19490,/boxscores/201104240ATL.html
+Sun Apr 24 2011,New Orleans Hornets,Los Angeles Lakers,93,88,New Orleans Arena,18083,/boxscores/201104240NOH.html
+Mon Apr 25 2011,Memphis Grizzlies,San Antonio Spurs,104,86,FedEx Forum,18119,/boxscores/201104250MEM.html
+Mon Apr 25 2011,Dallas Mavericks,Portland Trail Blazers,93,82,American Airlines Center,20837,/boxscores/201104250DAL.html
+Mon Apr 25 2011,Denver Nuggets,Oklahoma City Thunder,104,101,Pepsi Center,19155,/boxscores/201104250DEN.html
+Tue Apr 26 2011,Orlando Magic,Atlanta Hawks,101,76,Amway Center,19091,/boxscores/201104260ORL.html
+Tue Apr 26 2011,Chicago Bulls,Indiana Pacers,116,89,United Center,22822,/boxscores/201104260CHI.html
+Tue Apr 26 2011,Los Angeles Lakers,New Orleans Hornets,106,90,STAPLES Center,18997,/boxscores/201104260LAL.html
+Wed Apr 27 2011,Miami Heat,Philadelphia 76ers,97,91,AmericanAirlines Arena,19896,/boxscores/201104270MIA.html
+Wed Apr 27 2011,San Antonio Spurs,Memphis Grizzlies,110,103,AT&T Center,18581,/boxscores/201104270SAS.html
+Wed Apr 27 2011,Oklahoma City Thunder,Denver Nuggets,100,97,Chesapeake Energy Arena,18203,/boxscores/201104270OKC.html
+Thu Apr 28 2011,Atlanta Hawks,Orlando Magic,84,81,Philips Arena,19282,/boxscores/201104280ATL.html
+Thu Apr 28 2011,New Orleans Hornets,Los Angeles Lakers,80,98,New Orleans Arena,17949,/boxscores/201104280NOH.html
+Thu Apr 28 2011,Portland Trail Blazers,Dallas Mavericks,96,103,Rose Garden Arena,20494,/boxscores/201104280POR.html
+Fri Apr 29 2011,Memphis Grizzlies,San Antonio Spurs,99,91,FedEx Forum,18119,/boxscores/201104290MEM.html

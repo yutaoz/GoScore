@@ -1,0 +1,58 @@
+Sun May 1 1988,Boston Celtics,New York Knicks,128,102,Boston Garden,14890,/boxscores/198805010BOS.html
+Sun May 1 1988,Atlanta Hawks,Milwaukee Bucks,104,97,Omni Coliseum,11777,/boxscores/198805010ATL.html
+Sun May 1 1988,Los Angeles Lakers,San Antonio Spurs,130,112,The Forum,17505,/boxscores/198805010LAL.html
+Sun May 1 1988,Chicago Bulls,Cleveland Cavaliers,106,101,Chicago Stadium,18645,/boxscores/198805010CHI.html
+Sun May 1 1988,Denver Nuggets,Seattle SuperSonics,91,111,McNichols Sports Arena,17022,/boxscores/198805010DEN.html
+Mon May 2 1988,Washington Bullets,Detroit Pistons,114,106,Capital Centre,9673,/boxscores/198805020WSB.html
+Tue May 3 1988,Cleveland Cavaliers,Chicago Bulls,110,102,Coliseum at Richfield,20068,/boxscores/198805030CLE.html
+Tue May 3 1988,Houston Rockets,Dallas Mavericks,92,93,The Summit,16611,/boxscores/198805030HOU.html
+Tue May 3 1988,San Antonio Spurs,Los Angeles Lakers,107,109,HemisFair Arena,11542,/boxscores/198805030SAS.html
+Tue May 3 1988,Seattle SuperSonics,Denver Nuggets,114,125,Seattle Center Coliseum,14250,/boxscores/198805030SEA.html
+Wed May 4 1988,Milwaukee Bucks,Atlanta Hawks,123,115,MECCA Arena,11052,/boxscores/198805040MIL.html
+Wed May 4 1988,New York Knicks,Boston Celtics,109,100,Madison Square Garden (IV),19591,/boxscores/198805040NYK.html
+Wed May 4 1988,Utah Jazz,Portland Trail Blazers,113,108,Salt Palace,12444,/boxscores/198805040UTA.html
+Wed May 4 1988,Washington Bullets,Detroit Pistons,106,103,Capital Centre,10513,/boxscores/198805040WSB.html
+Thu May 5 1988,Seattle SuperSonics,Denver Nuggets,127,117,Seattle Center Coliseum,14250,/boxscores/198805050SEA.html
+Thu May 5 1988,Houston Rockets,Dallas Mavericks,97,107,The Summit,16611,/boxscores/198805050HOU.html
+Thu May 5 1988,Cleveland Cavaliers,Chicago Bulls,97,91,Coliseum at Richfield,20026,/boxscores/198805050CLE.html
+Fri May 6 1988,Milwaukee Bucks,Atlanta Hawks,105,99,MECCA Arena,11052,/boxscores/198805060MIL.html
+Fri May 6 1988,New York Knicks,Boston Celtics,94,102,Madison Square Garden (IV),19591,/boxscores/198805060NYK.html
+Fri May 6 1988,Utah Jazz,Portland Trail Blazers,111,96,Salt Palace,12444,/boxscores/198805060UTA.html
+Sat May 7 1988,Denver Nuggets,Seattle SuperSonics,115,96,McNichols Sports Arena,16040,/boxscores/198805070DEN.html
+Sun May 8 1988,Atlanta Hawks,Milwaukee Bucks,121,111,Omni Coliseum,12190,/boxscores/198805080ATL.html
+Sun May 8 1988,Chicago Bulls,Cleveland Cavaliers,107,101,Chicago Stadium,18008,/boxscores/198805080CHI.html
+Sun May 8 1988,Detroit Pistons,Washington Bullets,99,78,Pontiac Silverdome,18403,/boxscores/198805080DET.html
+Sun May 8 1988,Los Angeles Lakers,Utah Jazz,110,91,The Forum,17505,/boxscores/198805080LAL.html
+Tue May 10 1988,Denver Nuggets,Dallas Mavericks,126,115,McNichols Sports Arena,17022,/boxscores/198805100DEN.html
+Tue May 10 1988,Detroit Pistons,Chicago Bulls,93,82,Pontiac Silverdome,18312,/boxscores/198805100DET.html
+Tue May 10 1988,Los Angeles Lakers,Utah Jazz,97,101,The Forum,17505,/boxscores/198805100LAL.html
+Wed May 11 1988,Boston Celtics,Atlanta Hawks,110,101,Boston Garden,14890,/boxscores/198805110BOS.html
+Thu May 12 1988,Denver Nuggets,Dallas Mavericks,108,112,McNichols Sports Arena,17022,/boxscores/198805120DEN.html
+Thu May 12 1988,Detroit Pistons,Chicago Bulls,95,105,Pontiac Silverdome,20281,/boxscores/198805120DET.html
+Fri May 13 1988,Boston Celtics,Atlanta Hawks,108,97,Boston Garden,14890,/boxscores/198805130BOS.html
+Fri May 13 1988,Utah Jazz,Los Angeles Lakers,96,89,Salt Palace,12444,/boxscores/198805130UTA.html
+Sat May 14 1988,Chicago Bulls,Detroit Pistons,79,101,Chicago Stadium,18676,/boxscores/198805140CHI.html
+Sat May 14 1988,Dallas Mavericks,Denver Nuggets,105,107,Reunion Arena,17007,/boxscores/198805140DAL.html
+Sun May 15 1988,Atlanta Hawks,Boston Celtics,110,92,Omni Coliseum,16451,/boxscores/198805150ATL.html
+Sun May 15 1988,Chicago Bulls,Detroit Pistons,77,96,Chicago Stadium,18676,/boxscores/198805150CHI.html
+Sun May 15 1988,Dallas Mavericks,Denver Nuggets,124,103,Reunion Arena,17007,/boxscores/198805150DAL.html
+Sun May 15 1988,Utah Jazz,Los Angeles Lakers,100,113,Salt Palace,12444,/boxscores/198805150UTA.html
+Mon May 16 1988,Atlanta Hawks,Boston Celtics,118,109,Omni Coliseum,16451,/boxscores/198805160ATL.html
+Tue May 17 1988,Denver Nuggets,Dallas Mavericks,106,110,McNichols Sports Arena,17022,/boxscores/198805170DEN.html
+Tue May 17 1988,Los Angeles Lakers,Utah Jazz,111,109,The Forum,17505,/boxscores/198805170LAL.html
+Wed May 18 1988,Boston Celtics,Atlanta Hawks,104,112,Boston Garden,14890,/boxscores/198805180BOS.html
+Wed May 18 1988,Detroit Pistons,Chicago Bulls,102,95,Pontiac Silverdome,21371,/boxscores/198805180DET.html
+Thu May 19 1988,Dallas Mavericks,Denver Nuggets,108,95,Reunion Arena,17007,/boxscores/198805190DAL.html
+Thu May 19 1988,Utah Jazz,Los Angeles Lakers,108,80,Salt Palace,12444,/boxscores/198805190UTA.html
+Fri May 20 1988,Atlanta Hawks,Boston Celtics,100,102,Omni Coliseum,16451,/boxscores/198805200ATL.html
+Sat May 21 1988,Los Angeles Lakers,Utah Jazz,109,98,The Forum,17505,/boxscores/198805210LAL.html
+Sun May 22 1988,Boston Celtics,Atlanta Hawks,118,116,Boston Garden,14890,/boxscores/198805220BOS.html
+Mon May 23 1988,Los Angeles Lakers,Dallas Mavericks,113,98,The Forum,17505,/boxscores/198805230LAL.html
+Wed May 25 1988,Boston Celtics,Detroit Pistons,96,104,Boston Garden,14890,/boxscores/198805250BOS.html
+Wed May 25 1988,Los Angeles Lakers,Dallas Mavericks,123,101,The Forum,17505,/boxscores/198805250LAL.html
+Thu May 26 1988,Boston Celtics,Detroit Pistons,119,115,Boston Garden,14890,/boxscores/198805260BOS.html
+Fri May 27 1988,Dallas Mavericks,Los Angeles Lakers,106,94,Reunion Arena,17007,/boxscores/198805270DAL.html
+Sat May 28 1988,Detroit Pistons,Boston Celtics,98,94,Pontiac Silverdome,26481,/boxscores/198805280DET.html
+Sun May 29 1988,Dallas Mavericks,Los Angeles Lakers,118,104,Reunion Arena,17007,/boxscores/198805290DAL.html
+Mon May 30 1988,Detroit Pistons,Boston Celtics,78,79,Pontiac Silverdome,26625,/boxscores/198805300DET.html
+Tue May 31 1988,Los Angeles Lakers,Dallas Mavericks,119,102,The Forum,17505,/boxscores/198805310LAL.html

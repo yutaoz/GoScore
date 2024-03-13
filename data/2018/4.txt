@@ -1,0 +1,136 @@
+Sun Apr 1 2018,Charlotte Hornets,Philadelphia 76ers,102,119,Spectrum Center,17005,/boxscores/201804010CHO.html
+Sun Apr 1 2018,Chicago Bulls,Washington Wizards,113,94,United Center,20466,/boxscores/201804010CHI.html
+Sun Apr 1 2018,Los Angeles Clippers,Indiana Pacers,104,111,STAPLES Center,15866,/boxscores/201804010LAC.html
+Sun Apr 1 2018,San Antonio Spurs,Houston Rockets,100,83,AT&T Center,18418,/boxscores/201804010SAS.html
+Sun Apr 1 2018,Atlanta Hawks,Orlando Magic,94,88,Philips Arena,13587,/boxscores/201804010ATL.html
+Sun Apr 1 2018,Brooklyn Nets,Detroit Pistons,96,108,Barclays Center,16097,/boxscores/201804010BRK.html
+Sun Apr 1 2018,Cleveland Cavaliers,Dallas Mavericks,98,87,Quicken Loans Arena,20562,/boxscores/201804010CLE.html
+Sun Apr 1 2018,New Orleans Pelicans,Oklahoma City Thunder,104,109,Smoothie King Center,18500,/boxscores/201804010NOP.html
+Sun Apr 1 2018,Minnesota Timberwolves,Utah Jazz,97,121,Target Center,18978,/boxscores/201804010MIN.html
+Sun Apr 1 2018,Denver Nuggets,Milwaukee Bucks,128,125,Pepsi Center,19520,/boxscores/201804010DEN.html
+Sun Apr 1 2018,Golden State Warriors,Phoenix Suns,117,107,Oracle Arena,19596,/boxscores/201804010GSW.html
+Sun Apr 1 2018,Portland Trail Blazers,Memphis Grizzlies,113,98,Moda Center,19545,/boxscores/201804010POR.html
+Sun Apr 1 2018,Los Angeles Lakers,Sacramento Kings,83,84,STAPLES Center,18997,/boxscores/201804010LAL.html
+Tue Apr 3 2018,Cleveland Cavaliers,Toronto Raptors,112,106,Quicken Loans Arena,20562,/boxscores/201804030CLE.html
+Tue Apr 3 2018,Philadelphia 76ers,Brooklyn Nets,121,95,Wells Fargo Center,20710,/boxscores/201804030PHI.html
+Tue Apr 3 2018,Miami Heat,Atlanta Hawks,101,98,AmericanAirlines Arena,19600,/boxscores/201804030MIA.html
+Tue Apr 3 2018,New York Knicks,Orlando Magic,73,97,Madison Square Garden (IV),19812,/boxscores/201804030NYK.html
+Tue Apr 3 2018,Chicago Bulls,Charlotte Hornets,120,114,United Center,20139,/boxscores/201804030CHI.html
+Tue Apr 3 2018,Houston Rockets,Washington Wizards,120,104,Toyota Center,18055,/boxscores/201804030HOU.html
+Tue Apr 3 2018,Milwaukee Bucks,Boston Celtics,106,102,BMO Harris Bradley Center,16188,/boxscores/201804030MIL.html
+Tue Apr 3 2018,Oklahoma City Thunder,Golden State Warriors,107,111,Chesapeake Energy Arena,18203,/boxscores/201804030OKC.html
+Tue Apr 3 2018,Dallas Mavericks,Portland Trail Blazers,115,109,American Airlines Center,19624,/boxscores/201804030DAL.html
+Tue Apr 3 2018,Denver Nuggets,Indiana Pacers,107,104,Pepsi Center,14743,/boxscores/201804030DEN.html
+Tue Apr 3 2018,Utah Jazz,Los Angeles Lakers,117,110,Vivint Smart Home Arena,18306,/boxscores/201804030UTA.html
+Tue Apr 3 2018,Phoenix Suns,Sacramento Kings,97,94,Talking Stick Resort Arena,16826,/boxscores/201804030PHO.html
+Tue Apr 3 2018,Los Angeles Clippers,San Antonio Spurs,113,110,STAPLES Center,17449,/boxscores/201804030LAC.html
+Wed Apr 4 2018,Detroit Pistons,Philadelphia 76ers,108,115,Little Caesars Arena,18395,/boxscores/201804040DET.html
+Wed Apr 4 2018,Orlando Magic,Dallas Mavericks,105,100,Amway Center,18112,/boxscores/201804040ORL.html
+Wed Apr 4 2018,Atlanta Hawks,Miami Heat,86,115,Philips Arena,16696,/boxscores/201804040ATL.html
+Wed Apr 4 2018,New Orleans Pelicans,Memphis Grizzlies,123,95,Smoothie King Center,16521,/boxscores/201804040NOP.html
+Wed Apr 4 2018,Toronto Raptors,Boston Celtics,96,78,Air Canada Centre,19963,/boxscores/201804040TOR.html
+Wed Apr 4 2018,Los Angeles Lakers,San Antonio Spurs,122,112,STAPLES Center,18997,/boxscores/201804040LAL.html
+Thu Apr 5 2018,Indiana Pacers,Golden State Warriors,126,106,Bankers Life Fieldhouse,17923,/boxscores/201804050IND.html
+Thu Apr 5 2018,Cleveland Cavaliers,Washington Wizards,119,115,Quicken Loans Arena,20562,/boxscores/201804050CLE.html
+Thu Apr 5 2018,Houston Rockets,Portland Trail Blazers,96,94,Toyota Center,18055,/boxscores/201804050HOU.html
+Thu Apr 5 2018,Milwaukee Bucks,Brooklyn Nets,111,119,BMO Harris Bradley Center,18378,/boxscores/201804050MIL.html
+Thu Apr 5 2018,Utah Jazz,Los Angeles Clippers,117,95,Vivint Smart Home Arena,18306,/boxscores/201804050UTA.html
+Thu Apr 5 2018,Denver Nuggets,Minnesota Timberwolves,100,96,Pepsi Center,16415,/boxscores/201804050DEN.html
+Fri Apr 6 2018,Detroit Pistons,Dallas Mavericks,113,106,Little Caesars Arena,18768,/boxscores/201804060DET.html
+Fri Apr 6 2018,Orlando Magic,Charlotte Hornets,100,137,Amway Center,17018,/boxscores/201804060ORL.html
+Fri Apr 6 2018,Philadelphia 76ers,Cleveland Cavaliers,132,130,Wells Fargo Center,20769,/boxscores/201804060PHI.html
+Fri Apr 6 2018,Washington Wizards,Atlanta Hawks,97,103,Capital One Arena,19557,/boxscores/201804060WAS.html
+Fri Apr 6 2018,Boston Celtics,Chicago Bulls,111,104,TD Garden,18624,/boxscores/201804060BOS.html
+Fri Apr 6 2018,New York Knicks,Miami Heat,122,98,Madison Square Garden (IV),19569,/boxscores/201804060NYK.html
+Fri Apr 6 2018,Toronto Raptors,Indiana Pacers,92,73,Air Canada Centre,19924,/boxscores/201804060TOR.html
+Fri Apr 6 2018,Memphis Grizzlies,Sacramento Kings,93,94,FedEx Forum,16527,/boxscores/201804060MEM.html
+Fri Apr 6 2018,Phoenix Suns,New Orleans Pelicans,103,122,Talking Stick Resort Arena,18055,/boxscores/201804060PHO.html
+Fri Apr 6 2018,Los Angeles Lakers,Minnesota Timberwolves,96,113,STAPLES Center,18997,/boxscores/201804060LAL.html
+Sat Apr 7 2018,Los Angeles Clippers,Denver Nuggets,115,134,STAPLES Center,16166,/boxscores/201804070LAC.html
+Sat Apr 7 2018,New York Knicks,Milwaukee Bucks,102,115,Madison Square Garden (IV),19812,/boxscores/201804070NYK.html
+Sat Apr 7 2018,Chicago Bulls,Brooklyn Nets,96,124,United Center,21669,/boxscores/201804070CHI.html
+Sat Apr 7 2018,Golden State Warriors,New Orleans Pelicans,120,126,Oracle Arena,19596,/boxscores/201804070GSW.html
+Sat Apr 7 2018,Houston Rockets,Oklahoma City Thunder,102,108,Toyota Center,18055,/boxscores/201804070HOU.html
+Sat Apr 7 2018,San Antonio Spurs,Portland Trail Blazers,116,105,AT&T Center,18610,/boxscores/201804070SAS.html
+Sun Apr 8 2018,Boston Celtics,Atlanta Hawks,106,112,TD Garden,18624,/boxscores/201804080BOS.html
+Sun Apr 8 2018,Charlotte Hornets,Indiana Pacers,117,123,Spectrum Center,16629,/boxscores/201804080CHO.html
+Sun Apr 8 2018,Philadelphia 76ers,Dallas Mavericks,109,97,Wells Fargo Center,20846,/boxscores/201804080PHI.html
+Sun Apr 8 2018,Memphis Grizzlies,Detroit Pistons,130,117,FedEx Forum,16044,/boxscores/201804080MEM.html
+Sun Apr 8 2018,Los Angeles Lakers,Utah Jazz,97,112,STAPLES Center,18997,/boxscores/201804080LAL.html
+Sun Apr 8 2018,Toronto Raptors,Orlando Magic,112,101,Air Canada Centre,19948,/boxscores/201804080TOR.html
+Sun Apr 8 2018,Phoenix Suns,Golden State Warriors,100,117,Talking Stick Resort Arena,18055,/boxscores/201804080PHO.html
+Mon Apr 9 2018,Detroit Pistons,Toronto Raptors,98,108,Little Caesars Arena,17529,/boxscores/201804090DET.html
+Mon Apr 9 2018,Brooklyn Nets,Chicago Bulls,114,105,Barclays Center,16187,/boxscores/201804090BRK.html
+Mon Apr 9 2018,Miami Heat,Oklahoma City Thunder,93,115,AmericanAirlines Arena,19600,/boxscores/201804090MIA.html
+Mon Apr 9 2018,New York Knicks,Cleveland Cavaliers,109,123,Madison Square Garden (IV),19449,/boxscores/201804090NYK.html
+Mon Apr 9 2018,Milwaukee Bucks,Orlando Magic,102,86,BMO Harris Bradley Center,18717,/boxscores/201804090MIL.html
+Mon Apr 9 2018,Minnesota Timberwolves,Memphis Grizzlies,113,94,Target Center,17641,/boxscores/201804090MIN.html
+Mon Apr 9 2018,San Antonio Spurs,Sacramento Kings,98,85,AT&T Center,18418,/boxscores/201804090SAS.html
+Mon Apr 9 2018,Denver Nuggets,Portland Trail Blazers,88,82,Pepsi Center,17467,/boxscores/201804090DEN.html
+Mon Apr 9 2018,Los Angeles Clippers,New Orleans Pelicans,100,113,STAPLES Center,15742,/boxscores/201804090LAC.html
+Tue Apr 10 2018,Indiana Pacers,Charlotte Hornets,93,119,Bankers Life Fieldhouse,17331,/boxscores/201804100IND.html
+Tue Apr 10 2018,Atlanta Hawks,Philadelphia 76ers,113,121,Philips Arena,15673,/boxscores/201804100ATL.html
+Tue Apr 10 2018,Washington Wizards,Boston Celtics,113,101,Capital One Arena,18887,/boxscores/201804100WAS.html
+Tue Apr 10 2018,Dallas Mavericks,Phoenix Suns,97,124,American Airlines Center,20041,/boxscores/201804100DAL.html
+Tue Apr 10 2018,Utah Jazz,Golden State Warriors,119,79,Vivint Smart Home Arena,18306,/boxscores/201804100UTA.html
+Tue Apr 10 2018,Los Angeles Lakers,Houston Rockets,99,105,STAPLES Center,18997,/boxscores/201804100LAL.html
+Wed Apr 11 2018,Boston Celtics,Brooklyn Nets,110,97,TD Garden,18624,/boxscores/201804110BOS.html
+Wed Apr 11 2018,Chicago Bulls,Detroit Pistons,87,119,United Center,21342,/boxscores/201804110CHI.html
+Wed Apr 11 2018,Cleveland Cavaliers,New York Knicks,98,110,Quicken Loans Arena,20562,/boxscores/201804110CLE.html
+Wed Apr 11 2018,Miami Heat,Toronto Raptors,116,109,AmericanAirlines Arena,19600,/boxscores/201804110MIA.html
+Wed Apr 11 2018,Minnesota Timberwolves,Denver Nuggets,112,106,Target Center,18978,/boxscores/201804110MIN.html
+Wed Apr 11 2018,New Orleans Pelicans,San Antonio Spurs,122,98,Smoothie King Center,18573,/boxscores/201804110NOP.html
+Wed Apr 11 2018,Oklahoma City Thunder,Memphis Grizzlies,137,123,Chesapeake Energy Arena,18203,/boxscores/201804110OKC.html
+Wed Apr 11 2018,Orlando Magic,Washington Wizards,101,92,Amway Center,17598,/boxscores/201804110ORL.html
+Wed Apr 11 2018,Philadelphia 76ers,Milwaukee Bucks,130,95,Wells Fargo Center,20659,/boxscores/201804110PHI.html
+Wed Apr 11 2018,Los Angeles Clippers,Los Angeles Lakers,100,115,STAPLES Center,19068,/boxscores/201804110LAC.html
+Wed Apr 11 2018,Portland Trail Blazers,Utah Jazz,102,93,Moda Center,20186,/boxscores/201804110POR.html
+Wed Apr 11 2018,Sacramento Kings,Houston Rockets,96,83,Golden 1 Center,17583,/boxscores/201804110SAC.html
+Sat Apr 14 2018,Golden State Warriors,San Antonio Spurs,113,92,Oracle Arena,19596,/boxscores/201804140GSW.html
+Sat Apr 14 2018,Toronto Raptors,Washington Wizards,114,106,Air Canada Centre,19937,/boxscores/201804140TOR.html
+Sat Apr 14 2018,Philadelphia 76ers,Miami Heat,130,103,Wells Fargo Center,20617,/boxscores/201804140PHI.html
+Sat Apr 14 2018,Portland Trail Blazers,New Orleans Pelicans,95,97,Moda Center,19882,/boxscores/201804140POR.html
+Sun Apr 15 2018,Boston Celtics,Milwaukee Bucks,113,107,TD Garden,18624,/boxscores/201804150BOS.html
+Sun Apr 15 2018,Cleveland Cavaliers,Indiana Pacers,80,98,Quicken Loans Arena,20562,/boxscores/201804150CLE.html
+Sun Apr 15 2018,Oklahoma City Thunder,Utah Jazz,116,108,Chesapeake Energy Arena,18203,/boxscores/201804150OKC.html
+Sun Apr 15 2018,Houston Rockets,Minnesota Timberwolves,104,101,Toyota Center,18055,/boxscores/201804150HOU.html
+Mon Apr 16 2018,Philadelphia 76ers,Miami Heat,103,113,Wells Fargo Center,20753,/boxscores/201804160PHI.html
+Mon Apr 16 2018,Golden State Warriors,San Antonio Spurs,116,101,Oracle Arena,19596,/boxscores/201804160GSW.html
+Tue Apr 17 2018,Toronto Raptors,Washington Wizards,130,119,Air Canada Centre,20242,/boxscores/201804170TOR.html
+Tue Apr 17 2018,Boston Celtics,Milwaukee Bucks,120,106,TD Garden,18624,/boxscores/201804170BOS.html
+Tue Apr 17 2018,Portland Trail Blazers,New Orleans Pelicans,102,111,Moda Center,20066,/boxscores/201804170POR.html
+Wed Apr 18 2018,Cleveland Cavaliers,Indiana Pacers,100,97,Quicken Loans Arena,20562,/boxscores/201804180CLE.html
+Wed Apr 18 2018,Oklahoma City Thunder,Utah Jazz,95,102,Chesapeake Energy Arena,18203,/boxscores/201804180OKC.html
+Wed Apr 18 2018,Houston Rockets,Minnesota Timberwolves,102,82,Toyota Center,18055,/boxscores/201804180HOU.html
+Thu Apr 19 2018,Miami Heat,Philadelphia 76ers,108,128,AmericanAirlines Arena,19812,/boxscores/201804190MIA.html
+Thu Apr 19 2018,New Orleans Pelicans,Portland Trail Blazers,119,102,Smoothie King Center,18551,/boxscores/201804190NOP.html
+Thu Apr 19 2018,San Antonio Spurs,Golden State Warriors,97,110,AT&T Center,18418,/boxscores/201804190SAS.html
+Fri Apr 20 2018,Indiana Pacers,Cleveland Cavaliers,92,90,Bankers Life Fieldhouse,17923,/boxscores/201804200IND.html
+Fri Apr 20 2018,Washington Wizards,Toronto Raptors,122,103,Capital One Arena,20356,/boxscores/201804200WAS.html
+Fri Apr 20 2018,Milwaukee Bucks,Boston Celtics,116,92,BMO Harris Bradley Center,18717,/boxscores/201804200MIL.html
+Sat Apr 21 2018,Miami Heat,Philadelphia 76ers,102,106,AmericanAirlines Arena,19804,/boxscores/201804210MIA.html
+Sat Apr 21 2018,New Orleans Pelicans,Portland Trail Blazers,131,123,Smoothie King Center,18544,/boxscores/201804210NOP.html
+Sat Apr 21 2018,Minnesota Timberwolves,Houston Rockets,121,105,Target Center,18978,/boxscores/201804210MIN.html
+Sat Apr 21 2018,Utah Jazz,Oklahoma City Thunder,115,102,Vivint Smart Home Arena,18306,/boxscores/201804210UTA.html
+Sun Apr 22 2018,Milwaukee Bucks,Boston Celtics,104,102,BMO Harris Bradley Center,18717,/boxscores/201804220MIL.html
+Sun Apr 22 2018,San Antonio Spurs,Golden State Warriors,103,90,AT&T Center,18418,/boxscores/201804220SAS.html
+Sun Apr 22 2018,Washington Wizards,Toronto Raptors,106,98,Capital One Arena,20356,/boxscores/201804220WAS.html
+Sun Apr 22 2018,Indiana Pacers,Cleveland Cavaliers,100,104,Bankers Life Fieldhouse,17923,/boxscores/201804220IND.html
+Mon Apr 23 2018,Minnesota Timberwolves,Houston Rockets,100,119,Target Center,18978,/boxscores/201804230MIN.html
+Mon Apr 23 2018,Utah Jazz,Oklahoma City Thunder,113,96,Vivint Smart Home Arena,18306,/boxscores/201804230UTA.html
+Tue Apr 24 2018,Boston Celtics,Milwaukee Bucks,92,87,TD Garden,18624,/boxscores/201804240BOS.html
+Tue Apr 24 2018,Philadelphia 76ers,Miami Heat,104,91,Wells Fargo Center,21171,/boxscores/201804240PHI.html
+Tue Apr 24 2018,Golden State Warriors,San Antonio Spurs,99,91,Oracle Arena,19596,/boxscores/201804240GSW.html
+Wed Apr 25 2018,Cleveland Cavaliers,Indiana Pacers,98,95,Quicken Loans Arena,20562,/boxscores/201804250CLE.html
+Wed Apr 25 2018,Toronto Raptors,Washington Wizards,108,98,Air Canada Centre,19987,/boxscores/201804250TOR.html
+Wed Apr 25 2018,Houston Rockets,Minnesota Timberwolves,122,104,Toyota Center,18055,/boxscores/201804250HOU.html
+Wed Apr 25 2018,Oklahoma City Thunder,Utah Jazz,107,99,Chesapeake Energy Arena,18203,/boxscores/201804250OKC.html
+Thu Apr 26 2018,Milwaukee Bucks,Boston Celtics,97,86,BMO Harris Bradley Center,18717,/boxscores/201804260MIL.html
+Fri Apr 27 2018,Washington Wizards,Toronto Raptors,92,102,Capital One Arena,20356,/boxscores/201804270WAS.html
+Fri Apr 27 2018,Indiana Pacers,Cleveland Cavaliers,121,87,Bankers Life Fieldhouse,17923,/boxscores/201804270IND.html
+Fri Apr 27 2018,Utah Jazz,Oklahoma City Thunder,96,91,Vivint Smart Home Arena,18306,/boxscores/201804270UTA.html
+Sat Apr 28 2018,Boston Celtics,Milwaukee Bucks,112,96,TD Garden,18624,/boxscores/201804280BOS.html
+Sat Apr 28 2018,Golden State Warriors,New Orleans Pelicans,123,101,Oracle Arena,19596,/boxscores/201804280GSW.html
+Sun Apr 29 2018,Cleveland Cavaliers,Indiana Pacers,105,101,Quicken Loans Arena,20562,/boxscores/201804290CLE.html
+Sun Apr 29 2018,Houston Rockets,Utah Jazz,110,96,Toyota Center,18055,/boxscores/201804290HOU.html
+Mon Apr 30 2018,Boston Celtics,Philadelphia 76ers,117,101,TD Garden,18624,/boxscores/201804300BOS.html

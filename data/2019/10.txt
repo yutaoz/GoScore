@@ -1,0 +1,110 @@
+Tue Oct 16 2018,Boston Celtics,Philadelphia 76ers,105,87,TD Garden,18624,/boxscores/201810160BOS.html
+Tue Oct 16 2018,Golden State Warriors,Oklahoma City Thunder,108,100,Oracle Arena,19596,/boxscores/201810160GSW.html
+Wed Oct 17 2018,Charlotte Hornets,Milwaukee Bucks,112,113,Spectrum Center,17889,/boxscores/201810170CHO.html
+Wed Oct 17 2018,Detroit Pistons,Brooklyn Nets,103,100,Little Caesars Arena,20332,/boxscores/201810170DET.html
+Wed Oct 17 2018,Indiana Pacers,Memphis Grizzlies,111,83,Bankers Life Fieldhouse,17923,/boxscores/201810170IND.html
+Wed Oct 17 2018,Orlando Magic,Miami Heat,104,101,Amway Center,19191,/boxscores/201810170ORL.html
+Wed Oct 17 2018,New York Knicks,Atlanta Hawks,126,107,Madison Square Garden (IV),18249,/boxscores/201810170NYK.html
+Wed Oct 17 2018,Toronto Raptors,Cleveland Cavaliers,116,104,Scotiabank Arena,19915,/boxscores/201810170TOR.html
+Wed Oct 17 2018,Houston Rockets,New Orleans Pelicans,112,131,Toyota Center,18055,/boxscores/201810170HOU.html
+Wed Oct 17 2018,San Antonio Spurs,Minnesota Timberwolves,112,108,AT&T Center,18354,/boxscores/201810170SAS.html
+Wed Oct 17 2018,Sacramento Kings,Utah Jazz,117,123,Golden 1 Center,17583,/boxscores/201810170SAC.html
+Wed Oct 17 2018,Los Angeles Clippers,Denver Nuggets,98,107,STAPLES Center,19068,/boxscores/201810170LAC.html
+Wed Oct 17 2018,Phoenix Suns,Dallas Mavericks,121,100,Talking Stick Resort Arena,18055,/boxscores/201810170PHO.html
+Thu Oct 18 2018,Philadelphia 76ers,Chicago Bulls,127,108,Wells Fargo Center,20302,/boxscores/201810180PHI.html
+Thu Oct 18 2018,Washington Wizards,Miami Heat,112,113,Capital One Arena,20409,/boxscores/201810180WAS.html
+Thu Oct 18 2018,Portland Trail Blazers,Los Angeles Lakers,128,119,Moda Center,19996,/boxscores/201810180POR.html
+Fri Oct 19 2018,Orlando Magic,Charlotte Hornets,88,120,Amway Center,17668,/boxscores/201810190ORL.html
+Fri Oct 19 2018,Brooklyn Nets,New York Knicks,107,105,Barclays Center,17732,/boxscores/201810190BRK.html
+Fri Oct 19 2018,Memphis Grizzlies,Atlanta Hawks,131,117,FedEx Forum,17019,/boxscores/201810190MEM.html
+Fri Oct 19 2018,Minnesota Timberwolves,Cleveland Cavaliers,131,123,Target Center,18978,/boxscores/201810190MIN.html
+Fri Oct 19 2018,New Orleans Pelicans,Sacramento Kings,149,129,Smoothie King Center,18337,/boxscores/201810190NOP.html
+Fri Oct 19 2018,Toronto Raptors,Boston Celtics,113,101,Scotiabank Arena,19800,/boxscores/201810190TOR.html
+Fri Oct 19 2018,Milwaukee Bucks,Indiana Pacers,118,101,Fiserv Forum,17341,/boxscores/201810190MIL.html
+Fri Oct 19 2018,Los Angeles Clippers,Oklahoma City Thunder,108,92,STAPLES Center,14816,/boxscores/201810190LAC.html
+Fri Oct 19 2018,Utah Jazz,Golden State Warriors,123,124,Vivint Smart Home Arena,18306,/boxscores/201810190UTA.html
+Sat Oct 20 2018,Indiana Pacers,Brooklyn Nets,132,112,Bankers Life Fieldhouse,17007,/boxscores/201810200IND.html
+Sat Oct 20 2018,Washington Wizards,Toronto Raptors,113,117,Capital One Arena,16185,/boxscores/201810200WAS.html
+Sat Oct 20 2018,New York Knicks,Boston Celtics,101,103,Madison Square Garden (IV),19427,/boxscores/201810200NYK.html
+Sat Oct 20 2018,Philadelphia 76ers,Orlando Magic,116,115,Wells Fargo Center,20300,/boxscores/201810200PHI.html
+Sat Oct 20 2018,Chicago Bulls,Detroit Pistons,116,118,United Center,21289,/boxscores/201810200CHI.html
+Sat Oct 20 2018,Miami Heat,Charlotte Hornets,112,113,AmericanAirlines Arena,19600,/boxscores/201810200MIA.html
+Sat Oct 20 2018,Dallas Mavericks,Minnesota Timberwolves,140,136,American Airlines Center,20205,/boxscores/201810200DAL.html
+Sat Oct 20 2018,Denver Nuggets,Phoenix Suns,119,91,Pepsi Center,19592,/boxscores/201810200DEN.html
+Sat Oct 20 2018,Portland Trail Blazers,San Antonio Spurs,121,108,Moda Center,19461,/boxscores/201810200POR.html
+Sat Oct 20 2018,Los Angeles Lakers,Houston Rockets,115,124,STAPLES Center,18997,/boxscores/201810200LAL.html
+Sun Oct 21 2018,Cleveland Cavaliers,Atlanta Hawks,111,133,Quicken Loans Arena,19432,/boxscores/201810210CLE.html
+Sun Oct 21 2018,Oklahoma City Thunder,Sacramento Kings,120,131,Chesapeake Energy Arena,18203,/boxscores/201810210OKC.html
+Sun Oct 21 2018,Denver Nuggets,Golden State Warriors,100,98,Pepsi Center,19520,/boxscores/201810210DEN.html
+Sun Oct 21 2018,Los Angeles Clippers,Houston Rockets,115,112,STAPLES Center,16149,/boxscores/201810210LAC.html
+Mon Oct 22 2018,Boston Celtics,Orlando Magic,90,93,TD Garden,18624,/boxscores/201810220BOS.html
+Mon Oct 22 2018,Toronto Raptors,Charlotte Hornets,127,106,Scotiabank Arena,19800,/boxscores/201810220TOR.html
+Mon Oct 22 2018,Milwaukee Bucks,New York Knicks,124,113,Fiserv Forum,16228,/boxscores/201810220MIL.html
+Mon Oct 22 2018,Minnesota Timberwolves,Indiana Pacers,101,91,Target Center,10371,/boxscores/201810220MIN.html
+Mon Oct 22 2018,Dallas Mavericks,Chicago Bulls,115,109,American Airlines Center,19291,/boxscores/201810220DAL.html
+Mon Oct 22 2018,Utah Jazz,Memphis Grizzlies,84,92,Vivint Smart Home Arena,18306,/boxscores/201810220UTA.html
+Mon Oct 22 2018,Portland Trail Blazers,Washington Wizards,124,125,Moda Center,19187,/boxscores/201810220POR.html
+Mon Oct 22 2018,Golden State Warriors,Phoenix Suns,123,103,Oracle Arena,19596,/boxscores/201810220GSW.html
+Mon Oct 22 2018,Los Angeles Lakers,San Antonio Spurs,142,143,STAPLES Center,18997,/boxscores/201810220LAL.html
+Tue Oct 23 2018,Detroit Pistons,Philadelphia 76ers,133,132,Little Caesars Arena,14418,/boxscores/201810230DET.html
+Tue Oct 23 2018,New Orleans Pelicans,Los Angeles Clippers,116,109,Smoothie King Center,14625,/boxscores/201810230NOP.html
+Tue Oct 23 2018,Denver Nuggets,Sacramento Kings,126,112,Pepsi Center,13214,/boxscores/201810230DEN.html
+Wed Oct 24 2018,Atlanta Hawks,Dallas Mavericks,111,104,State Farm Arena,16705,/boxscores/201810240ATL.html
+Wed Oct 24 2018,Cleveland Cavaliers,Brooklyn Nets,86,102,Quicken Loans Arena,19432,/boxscores/201810240CLE.html
+Wed Oct 24 2018,Miami Heat,New York Knicks,110,87,AmericanAirlines Arena,19600,/boxscores/201810240MIA.html
+Wed Oct 24 2018,Toronto Raptors,Minnesota Timberwolves,112,105,Scotiabank Arena,19800,/boxscores/201810240TOR.html
+Wed Oct 24 2018,Chicago Bulls,Charlotte Hornets,112,110,United Center,19170,/boxscores/201810240CHI.html
+Wed Oct 24 2018,Houston Rockets,Utah Jazz,89,100,Toyota Center,18055,/boxscores/201810240HOU.html
+Wed Oct 24 2018,San Antonio Spurs,Indiana Pacers,96,116,AT&T Center,18354,/boxscores/201810240SAS.html
+Wed Oct 24 2018,Milwaukee Bucks,Philadelphia 76ers,123,108,Fiserv Forum,17341,/boxscores/201810240MIL.html
+Wed Oct 24 2018,Phoenix Suns,Los Angeles Lakers,113,131,Talking Stick Resort Arena,18055,/boxscores/201810240PHO.html
+Wed Oct 24 2018,Sacramento Kings,Memphis Grizzlies,97,92,Golden 1 Center,14198,/boxscores/201810240SAC.html
+Wed Oct 24 2018,Golden State Warriors,Washington Wizards,144,122,Oracle Arena,19596,/boxscores/201810240GSW.html
+Thu Oct 25 2018,Detroit Pistons,Cleveland Cavaliers,110,103,Little Caesars Arena,15896,/boxscores/201810250DET.html
+Thu Oct 25 2018,Orlando Magic,Portland Trail Blazers,114,128,Amway Center,15114,/boxscores/201810250ORL.html
+Thu Oct 25 2018,Oklahoma City Thunder,Boston Celtics,95,101,Chesapeake Energy Arena,18203,/boxscores/201810250OKC.html
+Thu Oct 25 2018,Los Angeles Lakers,Denver Nuggets,121,114,STAPLES Center,18997,/boxscores/201810250LAL.html
+Fri Oct 26 2018,Charlotte Hornets,Chicago Bulls,135,106,Spectrum Center,15220,/boxscores/201810260CHO.html
+Fri Oct 26 2018,New York Knicks,Golden State Warriors,100,128,Madison Square Garden (IV),19812,/boxscores/201810260NYK.html
+Fri Oct 26 2018,Toronto Raptors,Dallas Mavericks,116,107,Scotiabank Arena,19800,/boxscores/201810260TOR.html
+Fri Oct 26 2018,Houston Rockets,Los Angeles Clippers,113,133,Toyota Center,18055,/boxscores/201810260HOU.html
+Fri Oct 26 2018,Minnesota Timberwolves,Milwaukee Bucks,95,125,Target Center,16334,/boxscores/201810260MIN.html
+Fri Oct 26 2018,New Orleans Pelicans,Brooklyn Nets,117,115,Smoothie King Center,15272,/boxscores/201810260NOP.html
+Fri Oct 26 2018,Sacramento Kings,Washington Wizards,116,112,Golden 1 Center,14101,/boxscores/201810260SAC.html
+Sat Oct 27 2018,Detroit Pistons,Boston Celtics,89,109,Little Caesars Arena,18120,/boxscores/201810270DET.html
+Sat Oct 27 2018,New Orleans Pelicans,Utah Jazz,111,132,Smoothie King Center,16373,/boxscores/201810270NOP.html
+Sat Oct 27 2018,Atlanta Hawks,Chicago Bulls,85,97,State Farm Arena,15549,/boxscores/201810270ATL.html
+Sat Oct 27 2018,Cleveland Cavaliers,Indiana Pacers,107,119,Quicken Loans Arena,19432,/boxscores/201810270CLE.html
+Sat Oct 27 2018,Philadelphia 76ers,Charlotte Hornets,105,103,Wells Fargo Center,20203,/boxscores/201810270PHI.html
+Sat Oct 27 2018,Memphis Grizzlies,Phoenix Suns,117,96,FedEx Forum,15926,/boxscores/201810270MEM.html
+Sat Oct 27 2018,Miami Heat,Portland Trail Blazers,120,111,AmericanAirlines Arena,19600,/boxscores/201810270MIA.html
+Sat Oct 27 2018,Milwaukee Bucks,Orlando Magic,113,91,Fiserv Forum,17341,/boxscores/201810270MIL.html
+Sat Oct 27 2018,San Antonio Spurs,Los Angeles Lakers,110,106,AT&T Center,18589,/boxscores/201810270SAS.html
+Sun Oct 28 2018,Brooklyn Nets,Golden State Warriors,114,120,Barclays Center,17732,/boxscores/201810280BRK.html
+Sun Oct 28 2018,Dallas Mavericks,Utah Jazz,104,113,American Airlines Center,19571,/boxscores/201810280DAL.html
+Sun Oct 28 2018,Oklahoma City Thunder,Phoenix Suns,117,110,Chesapeake Energy Arena,18203,/boxscores/201810280OKC.html
+Sun Oct 28 2018,Los Angeles Clippers,Washington Wizards,136,104,STAPLES Center,16491,/boxscores/201810280LAC.html
+Mon Oct 29 2018,Indiana Pacers,Portland Trail Blazers,93,103,Bankers Life Fieldhouse,15788,/boxscores/201810290IND.html
+Mon Oct 29 2018,Philadelphia 76ers,Atlanta Hawks,113,92,Wells Fargo Center,20269,/boxscores/201810290PHI.html
+Mon Oct 29 2018,Miami Heat,Sacramento Kings,113,123,AmericanAirlines Arena,19600,/boxscores/201810290MIA.html
+Mon Oct 29 2018,New York Knicks,Brooklyn Nets,115,96,Madison Square Garden (IV),19221,/boxscores/201810290NYK.html
+Mon Oct 29 2018,Chicago Bulls,Golden State Warriors,124,149,United Center,21076,/boxscores/201810290CHI.html
+Mon Oct 29 2018,Milwaukee Bucks,Toronto Raptors,124,109,Fiserv Forum,17341,/boxscores/201810290MIL.html
+Mon Oct 29 2018,Minnesota Timberwolves,Los Angeles Lakers,124,120,Target Center,18978,/boxscores/201810290MIN.html
+Mon Oct 29 2018,San Antonio Spurs,Dallas Mavericks,113,108,AT&T Center,18354,/boxscores/201810290SAS.html
+Mon Oct 29 2018,Denver Nuggets,New Orleans Pelicans,116,111,Pepsi Center,15217,/boxscores/201810290DEN.html
+Tue Oct 30 2018,Charlotte Hornets,Miami Heat,125,113,Spectrum Center,14117,/boxscores/201810300CHO.html
+Tue Oct 30 2018,Cleveland Cavaliers,Atlanta Hawks,136,114,Quicken Loans Arena,19432,/boxscores/201810300CLE.html
+Tue Oct 30 2018,Orlando Magic,Sacramento Kings,99,107,Amway Center,15074,/boxscores/201810300ORL.html
+Tue Oct 30 2018,Boston Celtics,Detroit Pistons,108,105,TD Garden,18624,/boxscores/201810300BOS.html
+Tue Oct 30 2018,Toronto Raptors,Philadelphia 76ers,129,112,Scotiabank Arena,19800,/boxscores/201810300TOR.html
+Tue Oct 30 2018,Houston Rockets,Portland Trail Blazers,85,104,Toyota Center,18055,/boxscores/201810300HOU.html
+Tue Oct 30 2018,Memphis Grizzlies,Washington Wizards,107,95,FedEx Forum,14106,/boxscores/201810300MEM.html
+Tue Oct 30 2018,Oklahoma City Thunder,Los Angeles Clippers,128,110,Chesapeake Energy Arena,18203,/boxscores/201810300OKC.html
+Wed Oct 31 2018,Brooklyn Nets,Detroit Pistons,120,119,Barclays Center,12862,/boxscores/201810310BRK.html
+Wed Oct 31 2018,Chicago Bulls,Denver Nuggets,107,108,United Center,19027,/boxscores/201810310CHI.html
+Wed Oct 31 2018,Minnesota Timberwolves,Utah Jazz,128,125,Target Center,10079,/boxscores/201810310MIN.html
+Wed Oct 31 2018,New York Knicks,Indiana Pacers,101,107,Madison Square Garden (IV),18295,/boxscores/201810310NYK.html
+Wed Oct 31 2018,Golden State Warriors,New Orleans Pelicans,131,121,Oracle Arena,19596,/boxscores/201810310GSW.html
+Wed Oct 31 2018,Los Angeles Lakers,Dallas Mavericks,114,113,STAPLES Center,18997,/boxscores/201810310LAL.html
+Wed Oct 31 2018,Phoenix Suns,San Antonio Spurs,90,120,Talking Stick Resort Arena,12328,/boxscores/201810310PHO.html

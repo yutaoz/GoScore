@@ -1,0 +1,81 @@
+Tue Oct 9 1973,Buffalo Braves,Houston Rockets,107,105,Buffalo Memorial Auditorium,0,/boxscores/197310090BUF.html
+Tue Oct 9 1973,Chicago Bulls,Los Angeles Lakers,97,117,Chicago Stadium,0,/boxscores/197310090CHI.html
+Tue Oct 9 1973,New York Knicks,Detroit Pistons,101,100,Madison Square Garden (IV),0,/boxscores/197310090NYK.html
+Tue Oct 9 1973,Atlanta Hawks,Capital Bullets,128,114,Omni Coliseum,0,/boxscores/197310090ATL.html
+Wed Oct 10 1973,Kansas City-Omaha Kings,Chicago Bulls,90,105,Municipal Auditorium,0,/boxscores/197310100KCO.html
+Wed Oct 10 1973,Philadelphia 76ers,Houston Rockets,88,104,The Spectrum,0,/boxscores/197310100PHI.html
+Wed Oct 10 1973,Phoenix Suns,Seattle SuperSonics,115,111,Arizona Veterans Memorial Coliseum,0,/boxscores/197310100PHO.html
+Thu Oct 11 1973,Atlanta Hawks,Los Angeles Lakers,129,102,Omni Coliseum,0,/boxscores/197310110ATL.html
+Fri Oct 12 1973,Boston Celtics,Buffalo Braves,118,112,Boston Garden,0,/boxscores/197310120BOS.html
+Fri Oct 12 1973,Seattle SuperSonics,Capital Bullets,103,102,Seattle Center Coliseum,0,/boxscores/197310120SEA.html
+Fri Oct 12 1973,Phoenix Suns,Milwaukee Bucks,84,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197310120PHO.html
+Fri Oct 12 1973,Kansas City-Omaha Kings,Chicago Bulls,88,84,Omaha Civic Auditorium,0,/boxscores/197310120KCO.html
+Fri Oct 12 1973,Detroit Pistons,Atlanta Hawks,122,105,Cobo Arena,0,/boxscores/197310120DET.html
+Fri Oct 12 1973,Cleveland Cavaliers,Houston Rockets,99,106,Cleveland Arena,0,/boxscores/197310120CLE.html
+Sat Oct 13 1973,Philadelphia 76ers,Boston Celtics,106,111,The Spectrum,0,/boxscores/197310130PHI.html
+Sat Oct 13 1973,Portland Trail Blazers,Capital Bullets,132,87,Memorial Coliseum,0,/boxscores/197310130POR.html
+Sat Oct 13 1973,New York Knicks,Houston Rockets,85,86,Madison Square Garden (IV),0,/boxscores/197310130NYK.html
+Sat Oct 13 1973,Chicago Bulls,Detroit Pistons,101,94,Chicago Stadium,0,/boxscores/197310130CHI.html
+Sat Oct 13 1973,Atlanta Hawks,Kansas City-Omaha Kings,102,117,Omni Coliseum,0,/boxscores/197310130ATL.html
+Sat Oct 13 1973,Buffalo Braves,Los Angeles Lakers,122,125,Buffalo Memorial Auditorium,0,/boxscores/197310130BUF.html
+Sat Oct 13 1973,Golden State Warriors,Milwaukee Bucks,85,97,Oakland-Alameda County Coliseum Arena,0,/boxscores/197310130GSW.html
+Sun Oct 14 1973,Cleveland Cavaliers,Detroit Pistons,83,95,Cleveland Arena,0,/boxscores/197310140CLE.html
+Sun Oct 14 1973,Phoenix Suns,Golden State Warriors,95,120,Arizona Veterans Memorial Coliseum,0,/boxscores/197310140PHO.html
+Sun Oct 14 1973,Seattle SuperSonics,Milwaukee Bucks,109,100,Seattle Center Coliseum,0,/boxscores/197310140SEA.html
+Tue Oct 16 1973,Houston Rockets,Philadelphia 76ers,101,106,Hofheinz Pavilion,0,/boxscores/197310160HOU.html
+Tue Oct 16 1973,New York Knicks,Buffalo Braves,117,91,Madison Square Garden (IV),0,/boxscores/197310160NYK.html
+Wed Oct 17 1973,Seattle SuperSonics,Kansas City-Omaha Kings,106,108,Seattle Center Coliseum,0,/boxscores/197310170SEA.html
+Wed Oct 17 1973,Milwaukee Bucks,Golden State Warriors,109,95,Milwaukee Arena,0,/boxscores/197310170MIL.html
+Fri Oct 19 1973,Boston Celtics,Philadelphia 76ers,133,102,Boston Garden,0,/boxscores/197310190BOS.html
+Fri Oct 19 1973,Chicago Bulls,Capital Bullets,117,103,Chicago Stadium,0,/boxscores/197310190CHI.html
+Fri Oct 19 1973,Cleveland Cavaliers,New York Knicks,90,92,Cleveland Arena,0,/boxscores/197310190CLE.html
+Fri Oct 19 1973,Detroit Pistons,Milwaukee Bucks,94,96,Cobo Arena,0,/boxscores/197310190DET.html
+Fri Oct 19 1973,Los Angeles Lakers,Seattle SuperSonics,118,91,The Forum,0,/boxscores/197310190LAL.html
+Fri Oct 19 1973,Portland Trail Blazers,Kansas City-Omaha Kings,111,99,Memorial Coliseum,0,/boxscores/197310190POR.html
+Sat Oct 20 1973,Portland Trail Blazers,Seattle SuperSonics,123,108,Memorial Coliseum,0,/boxscores/197310200POR.html
+Sat Oct 20 1973,Phoenix Suns,Atlanta Hawks,118,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197310200PHO.html
+Sat Oct 20 1973,New York Knicks,Chicago Bulls,69,85,Madison Square Garden (IV),0,/boxscores/197310200NYK.html
+Sat Oct 20 1973,Milwaukee Bucks,Cleveland Cavaliers,101,88,Milwaukee Arena,0,/boxscores/197310200MIL.html
+Sat Oct 20 1973,Golden State Warriors,Kansas City-Omaha Kings,100,81,Oakland-Alameda County Coliseum Arena,0,/boxscores/197310200GSW.html
+Sat Oct 20 1973,Houston Rockets,Detroit Pistons,104,107,Hofheinz Pavilion,0,/boxscores/197310200HOU.html
+Sat Oct 20 1973,Buffalo Braves,Philadelphia 76ers,116,110,Buffalo Memorial Auditorium,0,/boxscores/197310200BUF.html
+Sat Oct 20 1973,Capital Bullets,Boston Celtics,96,87,Cole Field House,0,/boxscores/197310200CAP.html
+Sun Oct 21 1973,Capital Bullets,Chicago Bulls,99,107,Cole Field House,0,/boxscores/197310210CAP.html
+Sun Oct 21 1973,Los Angeles Lakers,Atlanta Hawks,100,119,The Forum,0,/boxscores/197310210LAL.html
+Sun Oct 21 1973,Seattle SuperSonics,Phoenix Suns,116,112,Seattle Center Coliseum,0,/boxscores/197310210SEA.html
+Tue Oct 23 1973,Cleveland Cavaliers,Portland Trail Blazers,103,96,Cleveland Arena,0,/boxscores/197310230CLE.html
+Tue Oct 23 1973,Golden State Warriors,Phoenix Suns,121,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197310230GSW.html
+Tue Oct 23 1973,Houston Rockets,Los Angeles Lakers,98,107,Hofheinz Pavilion,0,/boxscores/197310230HOU.html
+Tue Oct 23 1973,New York Knicks,Capital Bullets,84,101,Madison Square Garden (IV),0,/boxscores/197310230NYK.html
+Wed Oct 24 1973,Kansas City-Omaha Kings,Los Angeles Lakers,91,92,Omaha Civic Auditorium,0,/boxscores/197310240KCO.html
+Wed Oct 24 1973,Seattle SuperSonics,Atlanta Hawks,106,131,Seattle Center Coliseum,0,/boxscores/197310240SEA.html
+Wed Oct 24 1973,Phoenix Suns,Detroit Pistons,99,115,Arizona Veterans Memorial Coliseum,0,/boxscores/197310240PHO.html
+Wed Oct 24 1973,Philadelphia 76ers,Portland Trail Blazers,132,110,The Spectrum,0,/boxscores/197310240PHI.html
+Wed Oct 24 1973,Milwaukee Bucks,Buffalo Braves,130,113,Milwaukee Arena,0,/boxscores/197310240MIL.html
+Wed Oct 24 1973,Boston Celtics,Houston Rockets,117,132,Boston Garden,0,/boxscores/197310240BOS.html
+Fri Oct 26 1973,Seattle SuperSonics,Golden State Warriors,110,117,Seattle Center Coliseum,0,/boxscores/197310260SEA.html
+Fri Oct 26 1973,Portland Trail Blazers,Atlanta Hawks,127,110,Memorial Coliseum,0,/boxscores/197310260POR.html
+Fri Oct 26 1973,Philadelphia 76ers,Milwaukee Bucks,92,98,The Spectrum,0,/boxscores/197310260PHI.html
+Fri Oct 26 1973,Los Angeles Lakers,Detroit Pistons,94,92,The Forum,0,/boxscores/197310260LAL.html
+Fri Oct 26 1973,Chicago Bulls,Houston Rockets,121,113,Chicago Stadium,0,/boxscores/197310260CHI.html
+Fri Oct 26 1973,Buffalo Braves,Cleveland Cavaliers,104,97,Maple Leaf Gardens,0,/boxscores/197310260BUF.html
+Fri Oct 26 1973,Boston Celtics,New York Knicks,113,101,Boston Garden,0,/boxscores/197310260BOS.html
+Fri Oct 26 1973,Kansas City-Omaha Kings,Phoenix Suns,98,93,Municipal Auditorium,0,/boxscores/197310260KCO.html
+Sat Oct 27 1973,Cleveland Cavaliers,Buffalo Braves,101,111,Cleveland Arena,0,/boxscores/197310270CLE.html
+Sat Oct 27 1973,Golden State Warriors,Atlanta Hawks,116,125,Oakland-Alameda County Coliseum Arena,0,/boxscores/197310270GSW.html
+Sat Oct 27 1973,Houston Rockets,Chicago Bulls,92,102,Hofheinz Pavilion,0,/boxscores/197310270HOU.html
+Sat Oct 27 1973,Milwaukee Bucks,Phoenix Suns,104,95,Milwaukee Arena,0,/boxscores/197310270MIL.html
+Sat Oct 27 1973,New York Knicks,Philadelphia 76ers,96,90,Madison Square Garden (IV),0,/boxscores/197310270NYK.html
+Sat Oct 27 1973,Portland Trail Blazers,Detroit Pistons,98,111,Memorial Coliseum,0,/boxscores/197310270POR.html
+Sun Oct 28 1973,Cleveland Cavaliers,Boston Celtics,102,99,Cleveland Arena,0,/boxscores/197310280CLE.html
+Sun Oct 28 1973,Seattle SuperSonics,Detroit Pistons,93,115,Seattle Center Coliseum,0,/boxscores/197310280SEA.html
+Sun Oct 28 1973,Los Angeles Lakers,Portland Trail Blazers,111,98,The Forum,0,/boxscores/197310280LAL.html
+Sun Oct 28 1973,Kansas City-Omaha Kings,Buffalo Braves,100,112,Municipal Auditorium,0,/boxscores/197310280KCO.html
+Sun Oct 28 1973,Capital Bullets,Philadelphia 76ers,119,99,Cole Field House,0,/boxscores/197310280CAP.html
+Tue Oct 30 1973,Atlanta Hawks,Phoenix Suns,122,101,Omni Coliseum,0,/boxscores/197310300ATL.html
+Tue Oct 30 1973,Buffalo Braves,Seattle SuperSonics,105,103,Buffalo Memorial Auditorium,0,/boxscores/197310300BUF.html
+Tue Oct 30 1973,Kansas City-Omaha Kings,Milwaukee Bucks,78,112,Municipal Auditorium,0,/boxscores/197310300KCO.html
+Tue Oct 30 1973,Portland Trail Blazers,Los Angeles Lakers,114,112,Memorial Coliseum,0,/boxscores/197310300POR.html
+Wed Oct 31 1973,Boston Celtics,Cleveland Cavaliers,128,110,Boston Garden,0,/boxscores/197310310BOS.html
+Wed Oct 31 1973,Detroit Pistons,Seattle SuperSonics,114,107,Cobo Arena,0,/boxscores/197310310DET.html
+Wed Oct 31 1973,Houston Rockets,New York Knicks,91,102,Hofheinz Pavilion,0,/boxscores/197310310HOU.html

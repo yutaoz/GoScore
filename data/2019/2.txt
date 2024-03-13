@@ -1,0 +1,158 @@
+Fri Feb 1 2019,Charlotte Hornets,Memphis Grizzlies,100,92,Spectrum Center,15387,/boxscores/201902010CHO.html
+Fri Feb 1 2019,New York Knicks,Boston Celtics,99,113,Madison Square Garden (IV),18343,/boxscores/201902010NYK.html
+Fri Feb 1 2019,Miami Heat,Oklahoma City Thunder,102,118,AmericanAirlines Arena,19600,/boxscores/201902010MIA.html
+Fri Feb 1 2019,Utah Jazz,Atlanta Hawks,128,112,Vivint Smart Home Arena,18306,/boxscores/201902010UTA.html
+Fri Feb 1 2019,Denver Nuggets,Houston Rockets,136,122,Pepsi Center,20106,/boxscores/201902010DEN.html
+Sat Feb 2 2019,Detroit Pistons,Los Angeles Clippers,101,111,Little Caesars Arena,17862,/boxscores/201902020DET.html
+Sat Feb 2 2019,Charlotte Hornets,Chicago Bulls,125,118,Spectrum Center,19114,/boxscores/201902020CHO.html
+Sat Feb 2 2019,Orlando Magic,Brooklyn Nets,102,89,Amway Center,17385,/boxscores/201902020ORL.html
+Sat Feb 2 2019,Washington Wizards,Milwaukee Bucks,115,131,Capital One Arena,20409,/boxscores/201902020WAS.html
+Sat Feb 2 2019,Cleveland Cavaliers,Dallas Mavericks,98,111,Quicken Loans Arena,19432,/boxscores/201902020CLE.html
+Sat Feb 2 2019,Miami Heat,Indiana Pacers,88,95,AmericanAirlines Arena,19600,/boxscores/201902020MIA.html
+Sat Feb 2 2019,Golden State Warriors,Los Angeles Lakers,115,101,Oracle Arena,19596,/boxscores/201902020GSW.html
+Sat Feb 2 2019,San Antonio Spurs,New Orleans Pelicans,113,108,AT&T Center,18354,/boxscores/201902020SAS.html
+Sat Feb 2 2019,Minnesota Timberwolves,Denver Nuggets,106,107,Target Center,17208,/boxscores/201902020MIN.html
+Sat Feb 2 2019,Phoenix Suns,Atlanta Hawks,112,118,Talking Stick Resort Arena,15534,/boxscores/201902020PHO.html
+Sat Feb 2 2019,Utah Jazz,Houston Rockets,98,125,Vivint Smart Home Arena,18306,/boxscores/201902020UTA.html
+Sat Feb 2 2019,Sacramento Kings,Philadelphia 76ers,115,108,Golden 1 Center,17583,/boxscores/201902020SAC.html
+Sun Feb 3 2019,New York Knicks,Memphis Grizzlies,84,96,Madison Square Garden (IV),17025,/boxscores/201902030NYK.html
+Sun Feb 3 2019,Boston Celtics,Oklahoma City Thunder,134,129,TD Garden,18624,/boxscores/201902030BOS.html
+Sun Feb 3 2019,Toronto Raptors,Los Angeles Clippers,121,103,Scotiabank Arena,19800,/boxscores/201902030TOR.html
+Mon Feb 4 2019,Detroit Pistons,Denver Nuggets,129,103,Little Caesars Arena,12589,/boxscores/201902040DET.html
+Mon Feb 4 2019,Washington Wizards,Atlanta Hawks,129,137,Capital One Arena,15025,/boxscores/201902040WAS.html
+Mon Feb 4 2019,Brooklyn Nets,Milwaukee Bucks,94,113,Barclays Center,16209,/boxscores/201902040BRK.html
+Mon Feb 4 2019,New Orleans Pelicans,Indiana Pacers,107,109,Smoothie King Center,15780,/boxscores/201902040NOP.html
+Mon Feb 4 2019,Phoenix Suns,Houston Rockets,110,118,Talking Stick Resort Arena,15740,/boxscores/201902040PHO.html
+Mon Feb 4 2019,Sacramento Kings,San Antonio Spurs,127,112,Golden 1 Center,16245,/boxscores/201902040SAC.html
+Tue Feb 5 2019,Charlotte Hornets,Los Angeles Clippers,115,117,Spectrum Center,14300,/boxscores/201902050CHO.html
+Tue Feb 5 2019,Cleveland Cavaliers,Boston Celtics,96,103,Quicken Loans Arena,19432,/boxscores/201902050CLE.html
+Tue Feb 5 2019,Indiana Pacers,Los Angeles Lakers,136,94,Bankers Life Fieldhouse,17265,/boxscores/201902050IND.html
+Tue Feb 5 2019,New York Knicks,Detroit Pistons,92,105,Madison Square Garden (IV),17853,/boxscores/201902050NYK.html
+Tue Feb 5 2019,Memphis Grizzlies,Minnesota Timberwolves,108,106,FedEx Forum,13454,/boxscores/201902050MEM.html
+Tue Feb 5 2019,Oklahoma City Thunder,Orlando Magic,132,122,Chesapeake Energy Arena,18203,/boxscores/201902050OKC.html
+Tue Feb 5 2019,Philadelphia 76ers,Toronto Raptors,107,119,Wells Fargo Center,20472,/boxscores/201902050PHI.html
+Tue Feb 5 2019,Portland Trail Blazers,Miami Heat,108,118,Moda Center,19468,/boxscores/201902050POR.html
+Wed Feb 6 2019,Brooklyn Nets,Denver Nuggets,135,130,Barclays Center,14516,/boxscores/201902060BRK.html
+Wed Feb 6 2019,Chicago Bulls,New Orleans Pelicans,120,125,United Center,18116,/boxscores/201902060CHI.html
+Wed Feb 6 2019,Milwaukee Bucks,Washington Wizards,148,129,Fiserv Forum,17360,/boxscores/201902060MIL.html
+Wed Feb 6 2019,Dallas Mavericks,Charlotte Hornets,99,93,American Airlines Center,19606,/boxscores/201902060DAL.html
+Wed Feb 6 2019,Utah Jazz,Phoenix Suns,116,88,Vivint Smart Home Arena,18306,/boxscores/201902060UTA.html
+Wed Feb 6 2019,Sacramento Kings,Houston Rockets,101,127,Golden 1 Center,17583,/boxscores/201902060SAC.html
+Wed Feb 6 2019,Golden State Warriors,San Antonio Spurs,141,102,Oracle Arena,19596,/boxscores/201902060GSW.html
+Thu Feb 7 2019,Indiana Pacers,Los Angeles Clippers,116,92,Bankers Life Fieldhouse,15756,/boxscores/201902070IND.html
+Thu Feb 7 2019,Orlando Magic,Minnesota Timberwolves,122,112,Amway Center,17184,/boxscores/201902070ORL.html
+Thu Feb 7 2019,Atlanta Hawks,Toronto Raptors,101,119,State Farm Arena,16036,/boxscores/201902070ATL.html
+Thu Feb 7 2019,Boston Celtics,Los Angeles Lakers,128,129,TD Garden,18624,/boxscores/201902070BOS.html
+Thu Feb 7 2019,Oklahoma City Thunder,Memphis Grizzlies,117,95,Chesapeake Energy Arena,18203,/boxscores/201902070OKC.html
+Thu Feb 7 2019,Portland Trail Blazers,San Antonio Spurs,127,118,Moda Center,19393,/boxscores/201902070POR.html
+Fri Feb 8 2019,Detroit Pistons,New York Knicks,120,103,Little Caesars Arena,14430,/boxscores/201902080DET.html
+Fri Feb 8 2019,Philadelphia 76ers,Denver Nuggets,117,110,Wells Fargo Center,20627,/boxscores/201902080PHI.html
+Fri Feb 8 2019,Washington Wizards,Cleveland Cavaliers,119,106,Capital One Arena,16682,/boxscores/201902080WAS.html
+Fri Feb 8 2019,Brooklyn Nets,Chicago Bulls,106,125,Barclays Center,15267,/boxscores/201902080BRK.html
+Fri Feb 8 2019,Dallas Mavericks,Milwaukee Bucks,107,122,American Airlines Center,20420,/boxscores/201902080DAL.html
+Fri Feb 8 2019,Phoenix Suns,Golden State Warriors,107,117,Talking Stick Resort Arena,17081,/boxscores/201902080PHO.html
+Fri Feb 8 2019,New Orleans Pelicans,Minnesota Timberwolves,122,117,Smoothie King Center,16980,/boxscores/201902080NOP.html
+Fri Feb 8 2019,Sacramento Kings,Miami Heat,102,96,Golden 1 Center,17583,/boxscores/201902080SAC.html
+Sat Feb 9 2019,Utah Jazz,San Antonio Spurs,125,105,Vivint Smart Home Arena,18306,/boxscores/201902090UTA.html
+Sat Feb 9 2019,Indiana Pacers,Cleveland Cavaliers,105,90,Bankers Life Fieldhouse,17923,/boxscores/201902090IND.html
+Sat Feb 9 2019,Atlanta Hawks,Charlotte Hornets,120,129,State Farm Arena,15048,/boxscores/201902090ATL.html
+Sat Feb 9 2019,New York Knicks,Toronto Raptors,99,104,Madison Square Garden (IV),18886,/boxscores/201902090NYK.html
+Sat Feb 9 2019,Boston Celtics,Los Angeles Clippers,112,123,TD Garden,18624,/boxscores/201902090BOS.html
+Sat Feb 9 2019,Chicago Bulls,Washington Wizards,125,134,United Center,19942,/boxscores/201902090CHI.html
+Sat Feb 9 2019,Memphis Grizzlies,New Orleans Pelicans,99,90,FedEx Forum,16841,/boxscores/201902090MEM.html
+Sat Feb 9 2019,Houston Rockets,Oklahoma City Thunder,112,117,Toyota Center,18061,/boxscores/201902090HOU.html
+Sat Feb 9 2019,Milwaukee Bucks,Orlando Magic,83,103,Fiserv Forum,17812,/boxscores/201902090MIL.html
+Sun Feb 10 2019,Dallas Mavericks,Portland Trail Blazers,102,101,American Airlines Center,20340,/boxscores/201902100DAL.html
+Sun Feb 10 2019,Philadelphia 76ers,Los Angeles Lakers,143,120,Wells Fargo Center,20683,/boxscores/201902100PHI.html
+Sun Feb 10 2019,Sacramento Kings,Phoenix Suns,117,104,Golden 1 Center,17583,/boxscores/201902100SAC.html
+Sun Feb 10 2019,Atlanta Hawks,Orlando Magic,108,124,State Farm Arena,13370,/boxscores/201902100ATL.html
+Sun Feb 10 2019,Golden State Warriors,Miami Heat,120,118,Oracle Arena,19596,/boxscores/201902100GSW.html
+Mon Feb 11 2019,Cleveland Cavaliers,New York Knicks,107,104,Quicken Loans Arena,19432,/boxscores/201902110CLE.html
+Mon Feb 11 2019,Detroit Pistons,Washington Wizards,121,112,Little Caesars Arena,15246,/boxscores/201902110DET.html
+Mon Feb 11 2019,Indiana Pacers,Charlotte Hornets,99,90,Bankers Life Fieldhouse,15734,/boxscores/201902110IND.html
+Mon Feb 11 2019,Toronto Raptors,Brooklyn Nets,127,125,Scotiabank Arena,19800,/boxscores/201902110TOR.html
+Mon Feb 11 2019,Chicago Bulls,Milwaukee Bucks,99,112,United Center,18833,/boxscores/201902110CHI.html
+Mon Feb 11 2019,Houston Rockets,Dallas Mavericks,120,104,Toyota Center,18055,/boxscores/201902110HOU.html
+Mon Feb 11 2019,Minnesota Timberwolves,Los Angeles Clippers,130,120,Target Center,13782,/boxscores/201902110MIN.html
+Mon Feb 11 2019,Oklahoma City Thunder,Portland Trail Blazers,120,111,Chesapeake Energy Arena,18203,/boxscores/201902110OKC.html
+Mon Feb 11 2019,Denver Nuggets,Miami Heat,103,87,Pepsi Center,18378,/boxscores/201902110DEN.html
+Tue Feb 12 2019,Atlanta Hawks,Los Angeles Lakers,117,113,State Farm Arena,16824,/boxscores/201902120ATL.html
+Tue Feb 12 2019,Memphis Grizzlies,San Antonio Spurs,107,108,FedEx Forum,13788,/boxscores/201902120MEM.html
+Tue Feb 12 2019,New Orleans Pelicans,Orlando Magic,88,118,Smoothie King Center,15733,/boxscores/201902120NOP.html
+Tue Feb 12 2019,Philadelphia 76ers,Boston Celtics,109,112,Wells Fargo Center,20582,/boxscores/201902120PHI.html
+Tue Feb 12 2019,Golden State Warriors,Utah Jazz,115,108,Oracle Arena,19596,/boxscores/201902120GSW.html
+Wed Feb 13 2019,Cleveland Cavaliers,Brooklyn Nets,139,148,Quicken Loans Arena,17434,/boxscores/201902130CLE.html
+Wed Feb 13 2019,Indiana Pacers,Milwaukee Bucks,97,106,Bankers Life Fieldhouse,17311,/boxscores/201902130IND.html
+Wed Feb 13 2019,Boston Celtics,Detroit Pistons,118,110,TD Garden,18624,/boxscores/201902130BOS.html
+Wed Feb 13 2019,New York Knicks,Philadelphia 76ers,111,126,Madison Square Garden (IV),18983,/boxscores/201902130NYK.html
+Wed Feb 13 2019,Toronto Raptors,Washington Wizards,129,120,Scotiabank Arena,19800,/boxscores/201902130TOR.html
+Wed Feb 13 2019,Chicago Bulls,Memphis Grizzlies,122,110,United Center,19114,/boxscores/201902130CHI.html
+Wed Feb 13 2019,Minnesota Timberwolves,Houston Rockets,121,111,Target Center,15131,/boxscores/201902130MIN.html
+Wed Feb 13 2019,Dallas Mavericks,Miami Heat,101,112,American Airlines Center,20364,/boxscores/201902130DAL.html
+Wed Feb 13 2019,Denver Nuggets,Sacramento Kings,120,118,Pepsi Center,17938,/boxscores/201902130DEN.html
+Wed Feb 13 2019,Los Angeles Clippers,Phoenix Suns,134,107,STAPLES Center,17703,/boxscores/201902130LAC.html
+Wed Feb 13 2019,Portland Trail Blazers,Golden State Warriors,129,107,Moda Center,19549,/boxscores/201902130POR.html
+Thu Feb 14 2019,Orlando Magic,Charlotte Hornets,127,89,Amway Center,18846,/boxscores/201902140ORL.html
+Thu Feb 14 2019,Atlanta Hawks,New York Knicks,91,106,State Farm Arena,14179,/boxscores/201902140ATL.html
+Thu Feb 14 2019,New Orleans Pelicans,Oklahoma City Thunder,131,122,Smoothie King Center,15686,/boxscores/201902140NOP.html
+Thu Feb 21 2019,Cleveland Cavaliers,Phoenix Suns,111,98,Quicken Loans Arena,19022,/boxscores/201902210CLE.html
+Thu Feb 21 2019,Philadelphia 76ers,Miami Heat,106,102,Wells Fargo Center,20505,/boxscores/201902210PHI.html
+Thu Feb 21 2019,Brooklyn Nets,Portland Trail Blazers,99,113,Barclays Center,17732,/boxscores/201902210BRK.html
+Thu Feb 21 2019,Milwaukee Bucks,Boston Celtics,98,97,Fiserv Forum,17926,/boxscores/201902210MIL.html
+Thu Feb 21 2019,Golden State Warriors,Sacramento Kings,125,123,Oracle Arena,19596,/boxscores/201902210GSW.html
+Thu Feb 21 2019,Los Angeles Lakers,Houston Rockets,111,106,STAPLES Center,18997,/boxscores/201902210LAL.html
+Fri Feb 22 2019,Charlotte Hornets,Washington Wizards,123,110,Spectrum Center,15572,/boxscores/201902220CHO.html
+Fri Feb 22 2019,Indiana Pacers,New Orleans Pelicans,126,111,Bankers Life Fieldhouse,16962,/boxscores/201902220IND.html
+Fri Feb 22 2019,Orlando Magic,Chicago Bulls,109,110,Amway Center,18846,/boxscores/201902220ORL.html
+Fri Feb 22 2019,Toronto Raptors,San Antonio Spurs,120,117,Scotiabank Arena,20058,/boxscores/201902220TOR.html
+Fri Feb 22 2019,Atlanta Hawks,Detroit Pistons,122,125,State Farm Arena,14067,/boxscores/201902220ATL.html
+Fri Feb 22 2019,New York Knicks,Minnesota Timberwolves,104,115,Madison Square Garden (IV),19096,/boxscores/201902220NYK.html
+Fri Feb 22 2019,Memphis Grizzlies,Los Angeles Clippers,106,112,FedEx Forum,16444,/boxscores/201902220MEM.html
+Fri Feb 22 2019,Dallas Mavericks,Denver Nuggets,104,114,American Airlines Center,20382,/boxscores/201902220DAL.html
+Fri Feb 22 2019,Oklahoma City Thunder,Utah Jazz,148,147,Chesapeake Energy Arena,18203,/boxscores/201902220OKC.html
+Sat Feb 23 2019,Philadelphia 76ers,Portland Trail Blazers,115,130,Wells Fargo Center,20619,/boxscores/201902230PHI.html
+Sat Feb 23 2019,Atlanta Hawks,Phoenix Suns,120,112,State Farm Arena,15214,/boxscores/201902230ATL.html
+Sat Feb 23 2019,Charlotte Hornets,Brooklyn Nets,115,117,Spectrum Center,19158,/boxscores/201902230CHO.html
+Sat Feb 23 2019,Cleveland Cavaliers,Memphis Grizzlies,112,107,Quicken Loans Arena,19432,/boxscores/201902230CLE.html
+Sat Feb 23 2019,New Orleans Pelicans,Los Angeles Lakers,128,115,Smoothie King Center,18626,/boxscores/201902230NOP.html
+Sat Feb 23 2019,Washington Wizards,Indiana Pacers,112,119,Capital One Arena,19648,/boxscores/201902230WAS.html
+Sat Feb 23 2019,Miami Heat,Detroit Pistons,96,119,AmericanAirlines Arena,19600,/boxscores/201902230MIA.html
+Sat Feb 23 2019,Chicago Bulls,Boston Celtics,126,116,United Center,21295,/boxscores/201902230CHI.html
+Sat Feb 23 2019,Oklahoma City Thunder,Sacramento Kings,116,119,Chesapeake Energy Arena,18203,/boxscores/201902230OKC.html
+Sat Feb 23 2019,Golden State Warriors,Houston Rockets,112,118,Oracle Arena,19596,/boxscores/201902230GSW.html
+Sat Feb 23 2019,Milwaukee Bucks,Minnesota Timberwolves,140,128,Fiserv Forum,17972,/boxscores/201902230MIL.html
+Sat Feb 23 2019,Utah Jazz,Dallas Mavericks,125,109,Vivint Smart Home Arena,18306,/boxscores/201902230UTA.html
+Sun Feb 24 2019,Toronto Raptors,Orlando Magic,98,113,Scotiabank Arena,19800,/boxscores/201902240TOR.html
+Sun Feb 24 2019,Denver Nuggets,Los Angeles Clippers,123,96,Pepsi Center,19956,/boxscores/201902240DEN.html
+Sun Feb 24 2019,New York Knicks,San Antonio Spurs,130,118,Madison Square Garden (IV),18019,/boxscores/201902240NYK.html
+Mon Feb 25 2019,Charlotte Hornets,Golden State Warriors,110,121,Spectrum Center,19419,/boxscores/201902250CHO.html
+Mon Feb 25 2019,Cleveland Cavaliers,Portland Trail Blazers,110,123,Quicken Loans Arena,19432,/boxscores/201902250CLE.html
+Mon Feb 25 2019,Detroit Pistons,Indiana Pacers,113,109,Little Caesars Arena,15321,/boxscores/201902250DET.html
+Mon Feb 25 2019,Brooklyn Nets,San Antonio Spurs,101,85,Barclays Center,13479,/boxscores/201902250BRK.html
+Mon Feb 25 2019,Miami Heat,Phoenix Suns,121,124,AmericanAirlines Arena,19600,/boxscores/201902250MIA.html
+Mon Feb 25 2019,Chicago Bulls,Milwaukee Bucks,106,117,United Center,20936,/boxscores/201902250CHI.html
+Mon Feb 25 2019,Houston Rockets,Atlanta Hawks,119,111,Toyota Center,18055,/boxscores/201902250HOU.html
+Mon Feb 25 2019,Memphis Grizzlies,Los Angeles Lakers,110,105,FedEx Forum,17794,/boxscores/201902250MEM.html
+Mon Feb 25 2019,Minnesota Timberwolves,Sacramento Kings,112,105,Target Center,13691,/boxscores/201902250MIN.html
+Mon Feb 25 2019,New Orleans Pelicans,Philadelphia 76ers,110,111,Smoothie King Center,17194,/boxscores/201902250NOP.html
+Mon Feb 25 2019,Los Angeles Clippers,Dallas Mavericks,121,112,STAPLES Center,19068,/boxscores/201902250LAC.html
+Tue Feb 26 2019,New York Knicks,Orlando Magic,108,103,Madison Square Garden (IV),17833,/boxscores/201902260NYK.html
+Tue Feb 26 2019,Toronto Raptors,Boston Celtics,118,95,Scotiabank Arena,19800,/boxscores/201902260TOR.html
+Tue Feb 26 2019,Denver Nuggets,Oklahoma City Thunder,121,112,Pepsi Center,18378,/boxscores/201902260DEN.html
+Wed Feb 27 2019,Charlotte Hornets,Houston Rockets,113,118,Spectrum Center,17903,/boxscores/201902270CHO.html
+Wed Feb 27 2019,Atlanta Hawks,Minnesota Timberwolves,131,123,State Farm Arena,14101,/boxscores/201902270ATL.html
+Wed Feb 27 2019,Brooklyn Nets,Washington Wizards,116,125,Barclays Center,13683,/boxscores/201902270BRK.html
+Wed Feb 27 2019,Miami Heat,Golden State Warriors,126,125,AmericanAirlines Arena,19647,/boxscores/201902270MIA.html
+Wed Feb 27 2019,Boston Celtics,Portland Trail Blazers,92,97,TD Garden,18624,/boxscores/201902270BOS.html
+Wed Feb 27 2019,Memphis Grizzlies,Chicago Bulls,107,109,FedEx Forum,13711,/boxscores/201902270MEM.html
+Wed Feb 27 2019,Dallas Mavericks,Indiana Pacers,110,101,American Airlines Center,19978,/boxscores/201902270DAL.html
+Wed Feb 27 2019,San Antonio Spurs,Detroit Pistons,105,93,AT&T Center,18354,/boxscores/201902270SAS.html
+Wed Feb 27 2019,Utah Jazz,Los Angeles Clippers,111,105,Vivint Smart Home Arena,18306,/boxscores/201902270UTA.html
+Wed Feb 27 2019,Sacramento Kings,Milwaukee Bucks,140,141,Golden 1 Center,17583,/boxscores/201902270SAC.html
+Wed Feb 27 2019,Los Angeles Lakers,New Orleans Pelicans,125,119,STAPLES Center,18997,/boxscores/201902270LAL.html
+Thu Feb 28 2019,Indiana Pacers,Minnesota Timberwolves,122,115,Bankers Life Fieldhouse,17003,/boxscores/201902280IND.html
+Thu Feb 28 2019,Orlando Magic,Golden State Warriors,103,96,Amway Center,18846,/boxscores/201902280ORL.html
+Thu Feb 28 2019,New York Knicks,Cleveland Cavaliers,118,125,Madison Square Garden (IV),17573,/boxscores/201902280NYK.html
+Thu Feb 28 2019,Houston Rockets,Miami Heat,121,118,Toyota Center,18119,/boxscores/201902280HOU.html
+Thu Feb 28 2019,Oklahoma City Thunder,Philadelphia 76ers,104,108,Chesapeake Energy Arena,18203,/boxscores/201902280OKC.html
+Thu Feb 28 2019,Denver Nuggets,Utah Jazz,104,111,Pepsi Center,19520,/boxscores/201902280DEN.html

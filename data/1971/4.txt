@@ -1,0 +1,25 @@
+Thu Apr 1 1971,Los Angeles Lakers,Chicago Bulls,115,89,The Forum,0,/boxscores/197104010LAL.html
+Thu Apr 1 1971,New York Knicks,Atlanta Hawks,111,107,Madison Square Garden (IV),0,/boxscores/197104010NYK.html
+Thu Apr 1 1971,San Francisco Warriors,Milwaukee Bucks,106,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197104010SFW.html
+Thu Apr 1 1971,Baltimore Bullets,Philadelphia 76ers,103,104,Baltimore Civic Center,0,/boxscores/197104010BAL.html
+Sat Apr 3 1971,Philadelphia 76ers,Baltimore Bullets,98,94,The Spectrum,0,/boxscores/197104030PHI.html
+Sun Apr 4 1971,Baltimore Bullets,Philadelphia 76ers,128,120,Baltimore Civic Center,0,/boxscores/197104040BAL.html
+Sun Apr 4 1971,Chicago Bulls,Los Angeles Lakers,113,99,Chicago Stadium,0,/boxscores/197104040CHI.html
+Sun Apr 4 1971,Milwaukee Bucks,San Francisco Warriors,136,86,University of Wisconsin Fieldhouse,0,/boxscores/197104040MIL.html
+Tue Apr 6 1971,Los Angeles Lakers,Chicago Bulls,109,98,The Forum,0,/boxscores/197104060LAL.html
+Tue Apr 6 1971,New York Knicks,Baltimore Bullets,112,111,Madison Square Garden (IV),0,/boxscores/197104060NYK.html
+Fri Apr 9 1971,Milwaukee Bucks,Los Angeles Lakers,106,85,Milwaukee Arena,0,/boxscores/197104090MIL.html
+Fri Apr 9 1971,New York Knicks,Baltimore Bullets,107,88,Madison Square Garden (IV),0,/boxscores/197104090NYK.html
+Sun Apr 11 1971,Baltimore Bullets,New York Knicks,114,88,Baltimore Civic Center,0,/boxscores/197104110BAL.html
+Sun Apr 11 1971,Milwaukee Bucks,Los Angeles Lakers,91,73,Milwaukee Arena,0,/boxscores/197104110MIL.html
+Wed Apr 14 1971,Baltimore Bullets,New York Knicks,101,80,Baltimore Civic Center,0,/boxscores/197104140BAL.html
+Wed Apr 14 1971,Los Angeles Lakers,Milwaukee Bucks,118,107,The Forum,0,/boxscores/197104140LAL.html
+Fri Apr 16 1971,Los Angeles Lakers,Milwaukee Bucks,94,117,The Forum,0,/boxscores/197104160LAL.html
+Fri Apr 16 1971,New York Knicks,Baltimore Bullets,89,84,Madison Square Garden (IV),0,/boxscores/197104160NYK.html
+Sun Apr 18 1971,Baltimore Bullets,New York Knicks,113,96,Baltimore Civic Center,0,/boxscores/197104180BAL.html
+Sun Apr 18 1971,Milwaukee Bucks,Los Angeles Lakers,116,98,Milwaukee Arena,0,/boxscores/197104180MIL.html
+Mon Apr 19 1971,New York Knicks,Baltimore Bullets,91,93,Madison Square Garden (IV),0,/boxscores/197104190NYK.html
+Wed Apr 21 1971,Milwaukee Bucks,Baltimore Bullets,98,88,Milwaukee Arena,10746,/boxscores/197104210MIL.html
+Sun Apr 25 1971,Baltimore Bullets,Milwaukee Bucks,83,102,Baltimore Civic Center,12289,/boxscores/197104250BAL.html
+Wed Apr 28 1971,Milwaukee Bucks,Baltimore Bullets,107,99,Milwaukee Arena,10746,/boxscores/197104280MIL.html
+Fri Apr 30 1971,Baltimore Bullets,Milwaukee Bucks,106,118,Baltimore Civic Center,11842,/boxscores/197104300BAL.html

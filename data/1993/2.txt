@@ -1,0 +1,171 @@
+Mon Feb 1 1993,Charlotte Hornets,Seattle SuperSonics,112,100,Charlotte Coliseum,23698,/boxscores/199302010CHH.html
+Mon Feb 1 1993,Dallas Mavericks,New Jersey Nets,96,115,Reunion Arena,10452,/boxscores/199302010DAL.html
+Mon Feb 1 1993,Milwaukee Bucks,Golden State Warriors,116,102,Bradley Center,16236,/boxscores/199302010MIL.html
+Mon Feb 1 1993,Sacramento Kings,Orlando Magic,115,119,ARCO Arena (II),17317,/boxscores/199302010SAC.html
+Mon Feb 1 1993,Utah Jazz,Chicago Bulls,92,96,Delta Center,19911,/boxscores/199302010UTA.html
+Tue Feb 2 1993,Atlanta Hawks,Seattle SuperSonics,118,109,Omni Coliseum,10163,/boxscores/199302020ATL.html
+Tue Feb 2 1993,Cleveland Cavaliers,Golden State Warriors,100,90,Coliseum at Richfield,16681,/boxscores/199302020CLE.html
+Tue Feb 2 1993,Houston Rockets,Indiana Pacers,115,104,The Summit,9502,/boxscores/199302020HOU.html
+Tue Feb 2 1993,Los Angeles Clippers,Phoenix Suns,112,108,Los Angeles Memorial Sports Arena,15989,/boxscores/199302020LAC.html
+Tue Feb 2 1993,Los Angeles Lakers,Orlando Magic,97,110,Great Western Forum,17505,/boxscores/199302020LAL.html
+Tue Feb 2 1993,New York Knicks,Washington Bullets,105,100,Madison Square Garden (IV),17302,/boxscores/199302020NYK.html
+Tue Feb 2 1993,Portland Trail Blazers,Minnesota Timberwolves,91,104,Memorial Coliseum,12888,/boxscores/199302020POR.html
+Tue Feb 2 1993,San Antonio Spurs,New Jersey Nets,111,93,HemisFair Arena,16057,/boxscores/199302020SAS.html
+Wed Feb 3 1993,Dallas Mavericks,Houston Rockets,102,119,Reunion Arena,10771,/boxscores/199302030DAL.html
+Wed Feb 3 1993,Miami Heat,Atlanta Hawks,116,96,Miami Arena,15008,/boxscores/199302030MIA.html
+Wed Feb 3 1993,Milwaukee Bucks,Cleveland Cavaliers,100,108,Bradley Center,14297,/boxscores/199302030MIL.html
+Wed Feb 3 1993,Philadelphia 76ers,Charlotte Hornets,118,129,The Spectrum,15180,/boxscores/199302030PHI.html
+Wed Feb 3 1993,Phoenix Suns,Minnesota Timberwolves,122,102,America West Arena,19023,/boxscores/199302030PHO.html
+Wed Feb 3 1993,Sacramento Kings,Chicago Bulls,88,107,ARCO Arena (II),17317,/boxscores/199302030SAC.html
+Wed Feb 3 1993,Utah Jazz,Denver Nuggets,100,96,Delta Center,19911,/boxscores/199302030UTA.html
+Thu Feb 4 1993,Los Angeles Clippers,Chicago Bulls,105,107,Los Angeles Memorial Sports Arena,15989,/boxscores/199302040LAC.html
+Thu Feb 4 1993,Los Angeles Lakers,Utah Jazz,114,110,Great Western Forum,14629,/boxscores/199302040LAL.html
+Thu Feb 4 1993,New Jersey Nets,Seattle SuperSonics,113,103,Brendan Byrne Arena,12774,/boxscores/199302040NJN.html
+Thu Feb 4 1993,New York Knicks,Golden State Warriors,105,101,Madison Square Garden (IV),19763,/boxscores/199302040NYK.html
+Thu Feb 4 1993,San Antonio Spurs,Indiana Pacers,133,115,HemisFair Arena,16057,/boxscores/199302040SAS.html
+Fri Feb 5 1993,Boston Celtics,Philadelphia 76ers,105,93,Boston Garden,14890,/boxscores/199302050BOS.html
+Fri Feb 5 1993,Charlotte Hornets,Milwaukee Bucks,118,111,Charlotte Coliseum,23698,/boxscores/199302050CHH.html
+Fri Feb 5 1993,Cleveland Cavaliers,Detroit Pistons,109,89,Coliseum at Richfield,20273,/boxscores/199302050CLE.html
+Fri Feb 5 1993,Dallas Mavericks,Indiana Pacers,105,104,Reunion Arena,11715,/boxscores/199302050DAL.html
+Fri Feb 5 1993,Denver Nuggets,Sacramento Kings,116,103,McNichols Sports Arena,14409,/boxscores/199302050DEN.html
+Fri Feb 5 1993,Houston Rockets,Minnesota Timberwolves,105,112,The Summit,12513,/boxscores/199302050HOU.html
+Fri Feb 5 1993,Miami Heat,New York Knicks,105,108,Miami Arena,15008,/boxscores/199302050MIA.html
+Fri Feb 5 1993,Phoenix Suns,Los Angeles Lakers,132,104,America West Arena,19023,/boxscores/199302050PHO.html
+Fri Feb 5 1993,Portland Trail Blazers,Orlando Magic,106,114,Memorial Coliseum,12888,/boxscores/199302050POR.html
+Fri Feb 5 1993,Washington Bullets,Golden State Warriors,138,111,Capital Centre,18756,/boxscores/199302050WSB.html
+Sat Feb 6 1993,Atlanta Hawks,Cleveland Cavaliers,109,120,Omni Coliseum,15381,/boxscores/199302060ATL.html
+Sat Feb 6 1993,Denver Nuggets,Dallas Mavericks,111,93,McNichols Sports Arena,13546,/boxscores/199302060DEN.html
+Sat Feb 6 1993,Los Angeles Clippers,Sacramento Kings,119,110,Los Angeles Memorial Sports Arena,12803,/boxscores/199302060LAC.html
+Sat Feb 6 1993,San Antonio Spurs,Minnesota Timberwolves,104,95,HemisFair Arena,16057,/boxscores/199302060SAS.html
+Sat Feb 6 1993,Washington Bullets,Seattle SuperSonics,92,120,Capital Centre,10015,/boxscores/199302060WSB.html
+Sun Feb 7 1993,Boston Celtics,Golden State Warriors,87,82,Boston Garden,14890,/boxscores/199302070BOS.html
+Sun Feb 7 1993,Detroit Pistons,Seattle SuperSonics,101,103,The Palace of Auburn Hills,31454,/boxscores/199302070DET.html
+Sun Feb 7 1993,Milwaukee Bucks,New Jersey Nets,102,105,Bradley Center,18633,/boxscores/199302070MIL.html
+Sun Feb 7 1993,New York Knicks,Miami Heat,104,82,Madison Square Garden (IV),19763,/boxscores/199302070NYK.html
+Sun Feb 7 1993,Phoenix Suns,Orlando Magic,121,105,America West Arena,19023,/boxscores/199302070PHO.html
+Sun Feb 7 1993,Portland Trail Blazers,Chicago Bulls,91,101,Memorial Coliseum,12888,/boxscores/199302070POR.html
+Mon Feb 8 1993,Houston Rockets,Washington Bullets,100,106,The Summit,9622,/boxscores/199302080HOU.html
+Mon Feb 8 1993,Los Angeles Lakers,Dallas Mavericks,108,100,Great Western Forum,14202,/boxscores/199302080LAL.html
+Mon Feb 8 1993,Philadelphia 76ers,New York Knicks,115,120,The Spectrum,13427,/boxscores/199302080PHI.html
+Mon Feb 8 1993,Utah Jazz,Orlando Magic,108,96,Delta Center,19911,/boxscores/199302080UTA.html
+Tue Feb 9 1993,Boston Celtics,Milwaukee Bucks,104,92,Hartford Civic Center,14137,/boxscores/199302090BOS.html
+Tue Feb 9 1993,Charlotte Hornets,Cleveland Cavaliers,103,107,Charlotte Coliseum,23698,/boxscores/199302090CHH.html
+Tue Feb 9 1993,Detroit Pistons,Miami Heat,105,106,The Palace of Auburn Hills,21454,/boxscores/199302090DET.html
+Tue Feb 9 1993,Golden State Warriors,Atlanta Hawks,114,125,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302090GSW.html
+Tue Feb 9 1993,Sacramento Kings,Utah Jazz,114,119,ARCO Arena (II),17317,/boxscores/199302090SAC.html
+Tue Feb 9 1993,San Antonio Spurs,Los Angeles Clippers,112,97,HemisFair Arena,16057,/boxscores/199302090SAS.html
+Tue Feb 9 1993,Seattle SuperSonics,Denver Nuggets,92,96,Seattle Center Coliseum,12093,/boxscores/199302090SEA.html
+Wed Feb 10 1993,Dallas Mavericks,Washington Bullets,102,110,Reunion Arena,10661,/boxscores/199302100DAL.html
+Wed Feb 10 1993,Indiana Pacers,Chicago Bulls,104,115,Market Square Arena,16530,/boxscores/199302100IND.html
+Wed Feb 10 1993,Los Angeles Lakers,Denver Nuggets,111,102,Great Western Forum,14351,/boxscores/199302100LAL.html
+Wed Feb 10 1993,Minnesota Timberwolves,Miami Heat,90,101,Target Center,18289,/boxscores/199302100MIN.html
+Wed Feb 10 1993,New Jersey Nets,Detroit Pistons,109,86,Brendan Byrne Arena,13225,/boxscores/199302100NJN.html
+Wed Feb 10 1993,Orlando Magic,Cleveland Cavaliers,96,87,Orlando Arena,15151,/boxscores/199302100ORL.html
+Wed Feb 10 1993,Philadelphia 76ers,Houston Rockets,90,98,The Spectrum,9808,/boxscores/199302100PHI.html
+Wed Feb 10 1993,Phoenix Suns,Los Angeles Clippers,122,100,America West Arena,19023,/boxscores/199302100PHO.html
+Thu Feb 11 1993,Charlotte Hornets,Orlando Magic,116,107,Charlotte Coliseum,23698,/boxscores/199302110CHH.html
+Thu Feb 11 1993,Golden State Warriors,Phoenix Suns,100,122,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302110GSW.html
+Thu Feb 11 1993,New York Knicks,Houston Rockets,125,95,Madison Square Garden (IV),19763,/boxscores/199302110NYK.html
+Thu Feb 11 1993,Sacramento Kings,Atlanta Hawks,116,105,ARCO Arena (II),17317,/boxscores/199302110SAC.html
+Thu Feb 11 1993,San Antonio Spurs,Washington Bullets,105,95,HemisFair Arena,16057,/boxscores/199302110SAS.html
+Thu Feb 11 1993,Seattle SuperSonics,Utah Jazz,96,101,Seattle Center Coliseum,14433,/boxscores/199302110SEA.html
+Fri Feb 12 1993,Chicago Bulls,New York Knicks,98,104,Chicago Stadium,18676,/boxscores/199302120CHI.html
+Fri Feb 12 1993,Cleveland Cavaliers,Milwaukee Bucks,120,98,Coliseum at Richfield,19427,/boxscores/199302120CLE.html
+Fri Feb 12 1993,Dallas Mavericks,Boston Celtics,100,109,Reunion Arena,15548,/boxscores/199302120DAL.html
+Fri Feb 12 1993,Denver Nuggets,Philadelphia 76ers,126,122,McNichols Sports Arena,16211,/boxscores/199302120DEN.html
+Fri Feb 12 1993,Detroit Pistons,New Jersey Nets,106,97,The Palace of Auburn Hills,21454,/boxscores/199302120DET.html
+Fri Feb 12 1993,Indiana Pacers,Minnesota Timberwolves,100,102,Market Square Arena,13975,/boxscores/199302120IND.html
+Fri Feb 12 1993,Los Angeles Clippers,Portland Trail Blazers,104,111,Los Angeles Memorial Sports Arena,14031,/boxscores/199302120LAC.html
+Fri Feb 12 1993,Miami Heat,Charlotte Hornets,107,116,Miami Arena,15008,/boxscores/199302120MIA.html
+Sat Feb 13 1993,Chicago Bulls,Cleveland Cavaliers,111,116,Chicago Stadium,18676,/boxscores/199302130CHI.html
+Sat Feb 13 1993,Dallas Mavericks,Philadelphia 76ers,96,119,Reunion Arena,13408,/boxscores/199302130DAL.html
+Sat Feb 13 1993,Denver Nuggets,Washington Bullets,123,104,McNichols Sports Arena,17022,/boxscores/199302130DEN.html
+Sat Feb 13 1993,Milwaukee Bucks,Indiana Pacers,117,115,Bradley Center,16294,/boxscores/199302130MIL.html
+Sat Feb 13 1993,Minnesota Timberwolves,Houston Rockets,88,97,Target Center,19006,/boxscores/199302130MIN.html
+Sat Feb 13 1993,Sacramento Kings,Golden State Warriors,110,111,ARCO Arena (II),17317,/boxscores/199302130SAC.html
+Sat Feb 13 1993,San Antonio Spurs,Boston Celtics,90,85,HemisFair Arena,16057,/boxscores/199302130SAS.html
+Sat Feb 13 1993,Seattle SuperSonics,Phoenix Suns,95,94,Seattle Center Coliseum,14812,/boxscores/199302130SEA.html
+Sat Feb 13 1993,Utah Jazz,Atlanta Hawks,112,121,Delta Center,19911,/boxscores/199302130UTA.html
+Sun Feb 14 1993,Charlotte Hornets,Detroit Pistons,117,107,Charlotte Coliseum,23698,/boxscores/199302140CHH.html
+Sun Feb 14 1993,Golden State Warriors,Washington Bullets,114,94,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302140GSW.html
+Sun Feb 14 1993,Los Angeles Lakers,Atlanta Hawks,135,96,Great Western Forum,16219,/boxscores/199302140LAL.html
+Sun Feb 14 1993,New Jersey Nets,Miami Heat,117,111,Brendan Byrne Arena,16299,/boxscores/199302140NJN.html
+Sun Feb 14 1993,Orlando Magic,New York Knicks,102,100,Orlando Arena,15151,/boxscores/199302140ORL.html
+Sun Feb 14 1993,Portland Trail Blazers,Los Angeles Clippers,86,96,Memorial Coliseum,12888,/boxscores/199302140POR.html
+Mon Feb 15 1993,Chicago Bulls,Sacramento Kings,119,101,Chicago Stadium,18237,/boxscores/199302150CHI.html
+Mon Feb 15 1993,Cleveland Cavaliers,Indiana Pacers,110,105,Coliseum at Richfield,19109,/boxscores/199302150CLE.html
+Mon Feb 15 1993,Los Angeles Clippers,San Antonio Spurs,99,102,Los Angeles Memorial Sports Arena,15989,/boxscores/199302150LAC.html
+Mon Feb 15 1993,Miami Heat,Denver Nuggets,130,129,Miami Arena,14888,/boxscores/199302150MIA.html
+Mon Feb 15 1993,Milwaukee Bucks,Charlotte Hornets,128,122,Bradley Center,18633,/boxscores/199302150MIL.html
+Mon Feb 15 1993,Minnesota Timberwolves,Utah Jazz,91,112,Target Center,18493,/boxscores/199302150MIN.html
+Tue Feb 16 1993,Detroit Pistons,Orlando Magic,124,120,The Palace of Auburn Hills,21454,/boxscores/199302160DET.html
+Tue Feb 16 1993,Golden State Warriors,San Antonio Spurs,133,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302160GSW.html
+Tue Feb 16 1993,Houston Rockets,Philadelphia 76ers,149,111,The Summit,9064,/boxscores/199302160HOU.html
+Tue Feb 16 1993,New Jersey Nets,Milwaukee Bucks,100,88,Brendan Byrne Arena,10720,/boxscores/199302160NJN.html
+Tue Feb 16 1993,New York Knicks,Dallas Mavericks,117,87,Madison Square Garden (IV),19763,/boxscores/199302160NYK.html
+Tue Feb 16 1993,Phoenix Suns,Boston Celtics,110,97,America West Arena,19023,/boxscores/199302160PHO.html
+Tue Feb 16 1993,Portland Trail Blazers,Atlanta Hawks,105,90,Memorial Coliseum,12888,/boxscores/199302160POR.html
+Tue Feb 16 1993,Seattle SuperSonics,Washington Bullets,112,102,Seattle Center Coliseum,13585,/boxscores/199302160SEA.html
+Wed Feb 17 1993,Charlotte Hornets,New York Knicks,116,124,Charlotte Coliseum,23698,/boxscores/199302170CHH.html
+Wed Feb 17 1993,Chicago Bulls,Utah Jazz,114,96,Chicago Stadium,18676,/boxscores/199302170CHI.html
+Wed Feb 17 1993,Cleveland Cavaliers,Dallas Mavericks,124,97,Coliseum at Richfield,17083,/boxscores/199302170CLE.html
+Wed Feb 17 1993,Indiana Pacers,Sacramento Kings,125,99,Market Square Arena,10537,/boxscores/199302170IND.html
+Wed Feb 17 1993,Miami Heat,Detroit Pistons,111,107,Miami Arena,15008,/boxscores/199302170MIA.html
+Wed Feb 17 1993,Orlando Magic,Denver Nuggets,111,99,Orlando Arena,15151,/boxscores/199302170ORL.html
+Thu Feb 18 1993,Golden State Warriors,Seattle SuperSonics,116,131,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302180GSW.html
+Thu Feb 18 1993,Houston Rockets,Boston Celtics,119,84,The Summit,13672,/boxscores/199302180HOU.html
+Thu Feb 18 1993,Los Angeles Clippers,Washington Bullets,108,95,Los Angeles Memorial Sports Arena,9549,/boxscores/199302180LAC.html
+Thu Feb 18 1993,Milwaukee Bucks,Utah Jazz,94,105,Bradley Center,14263,/boxscores/199302180MIL.html
+Thu Feb 18 1993,Minnesota Timberwolves,Sacramento Kings,121,114,Target Center,17813,/boxscores/199302180MIN.html
+Thu Feb 18 1993,Phoenix Suns,Atlanta Hawks,131,119,America West Arena,19023,/boxscores/199302180PHO.html
+Thu Feb 18 1993,Portland Trail Blazers,Los Angeles Lakers,105,103,Memorial Coliseum,12888,/boxscores/199302180POR.html
+Thu Feb 18 1993,San Antonio Spurs,Philadelphia 76ers,103,98,HemisFair Arena,16057,/boxscores/199302180SAS.html
+Tue Feb 23 1993,Atlanta Hawks,Washington Bullets,109,94,Omni Coliseum,16009,/boxscores/199302230ATL.html
+Tue Feb 23 1993,Charlotte Hornets,New Jersey Nets,104,95,Charlotte Coliseum,23698,/boxscores/199302230CHH.html
+Tue Feb 23 1993,Chicago Bulls,Milwaukee Bucks,99,95,Chicago Stadium,18197,/boxscores/199302230CHI.html
+Tue Feb 23 1993,Cleveland Cavaliers,Miami Heat,102,100,Coliseum at Richfield,18648,/boxscores/199302230CLE.html
+Tue Feb 23 1993,Denver Nuggets,Seattle SuperSonics,99,103,McNichols Sports Arena,15102,/boxscores/199302230DEN.html
+Tue Feb 23 1993,Detroit Pistons,Philadelphia 76ers,101,89,The Palace of Auburn Hills,21454,/boxscores/199302230DET.html
+Tue Feb 23 1993,Indiana Pacers,Boston Celtics,113,86,Market Square Arena,11658,/boxscores/199302230IND.html
+Tue Feb 23 1993,Los Angeles Clippers,Sacramento Kings,123,116,Los Angeles Memorial Sports Arena,10206,/boxscores/199302230LAC.html
+Tue Feb 23 1993,New York Knicks,Minnesota Timberwolves,95,91,Madison Square Garden (IV),19763,/boxscores/199302230NYK.html
+Tue Feb 23 1993,Orlando Magic,Portland Trail Blazers,125,107,Orlando Arena,15151,/boxscores/199302230ORL.html
+Tue Feb 23 1993,San Antonio Spurs,Phoenix Suns,103,105,HemisFair Arena,16057,/boxscores/199302230SAS.html
+Tue Feb 23 1993,Utah Jazz,Houston Rockets,78,105,Delta Center,19911,/boxscores/199302230UTA.html
+Wed Feb 24 1993,Boston Celtics,New Jersey Nets,103,88,Boston Garden,14890,/boxscores/199302240BOS.html
+Wed Feb 24 1993,Dallas Mavericks,Denver Nuggets,92,113,Reunion Arena,10780,/boxscores/199302240DAL.html
+Wed Feb 24 1993,Golden State Warriors,Utah Jazz,120,108,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302240GSW.html
+Wed Feb 24 1993,Miami Heat,Portland Trail Blazers,102,91,Miami Arena,15008,/boxscores/199302240MIA.html
+Wed Feb 24 1993,Milwaukee Bucks,New York Knicks,90,91,Bradley Center,14368,/boxscores/199302240MIL.html
+Wed Feb 24 1993,Minnesota Timberwolves,Seattle SuperSonics,77,89,Target Center,17824,/boxscores/199302240MIN.html
+Wed Feb 24 1993,Philadelphia 76ers,Atlanta Hawks,107,132,The Spectrum,11385,/boxscores/199302240PHI.html
+Wed Feb 24 1993,Sacramento Kings,Los Angeles Lakers,99,104,ARCO Arena (II),17317,/boxscores/199302240SAC.html
+Wed Feb 24 1993,Washington Bullets,Indiana Pacers,105,101,Capital Centre,10223,/boxscores/199302240WSB.html
+Thu Feb 25 1993,Charlotte Hornets,San Antonio Spurs,111,104,Charlotte Coliseum,23698,/boxscores/199302250CHH.html
+Thu Feb 25 1993,Houston Rockets,Phoenix Suns,131,104,The Summit,16611,/boxscores/199302250HOU.html
+Thu Feb 25 1993,Orlando Magic,Chicago Bulls,106,108,Orlando Arena,15151,/boxscores/199302250ORL.html
+Fri Feb 26 1993,Atlanta Hawks,Boston Celtics,99,110,Omni Coliseum,15477,/boxscores/199302260ATL.html
+Fri Feb 26 1993,Detroit Pistons,New York Knicks,108,80,The Palace of Auburn Hills,21454,/boxscores/199302260DET.html
+Fri Feb 26 1993,Golden State Warriors,Los Angeles Clippers,98,106,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199302260GSW.html
+Fri Feb 26 1993,Indiana Pacers,Charlotte Hornets,137,105,Market Square Arena,14782,/boxscores/199302260IND.html
+Fri Feb 26 1993,Los Angeles Lakers,Cleveland Cavaliers,102,114,Great Western Forum,16054,/boxscores/199302260LAL.html
+Fri Feb 26 1993,Miami Heat,San Antonio Spurs,93,86,Miami Arena,15008,/boxscores/199302260MIA.html
+Fri Feb 26 1993,Minnesota Timberwolves,Dallas Mavericks,99,89,Target Center,18011,/boxscores/199302260MIN.html
+Fri Feb 26 1993,New Jersey Nets,Portland Trail Blazers,91,102,Brendan Byrne Arena,20049,/boxscores/199302260NJN.html
+Fri Feb 26 1993,Philadelphia 76ers,Milwaukee Bucks,114,111,The Spectrum,11715,/boxscores/199302260PHI.html
+Fri Feb 26 1993,Phoenix Suns,Utah Jazz,113,106,America West Arena,19023,/boxscores/199302260PHO.html
+Fri Feb 26 1993,Sacramento Kings,Seattle SuperSonics,120,141,ARCO Arena (II),17317,/boxscores/199302260SAC.html
+Fri Feb 26 1993,Washington Bullets,Orlando Magic,91,92,Capital Centre,18756,/boxscores/199302260WSB.html
+Sat Feb 27 1993,Chicago Bulls,Atlanta Hawks,112,92,Chicago Stadium,18676,/boxscores/199302270CHI.html
+Sat Feb 27 1993,Detroit Pistons,Milwaukee Bucks,93,95,The Palace of Auburn Hills,21454,/boxscores/199302270DET.html
+Sat Feb 27 1993,Houston Rockets,Denver Nuggets,107,102,The Summit,15244,/boxscores/199302270HOU.html
+Sat Feb 27 1993,Seattle SuperSonics,Golden State Warriors,109,92,Seattle Center Coliseum,14656,/boxscores/199302270SEA.html
+Sat Feb 27 1993,Utah Jazz,Sacramento Kings,117,121,Delta Center,19911,/boxscores/199302270UTA.html
+Sun Feb 28 1993,Boston Celtics,Portland Trail Blazers,122,110,Boston Garden,14890,/boxscores/199302280BOS.html
+Sun Feb 28 1993,Denver Nuggets,Charlotte Hornets,110,103,McNichols Sports Arena,17022,/boxscores/199302280DEN.html
+Sun Feb 28 1993,Indiana Pacers,Dallas Mavericks,110,96,Market Square Arena,11560,/boxscores/199302280IND.html
+Sun Feb 28 1993,Los Angeles Lakers,Los Angeles Clippers,124,112,Great Western Forum,16895,/boxscores/199302280LAL.html
+Sun Feb 28 1993,Miami Heat,Minnesota Timberwolves,105,93,Miami Arena,15008,/boxscores/199302280MIA.html
+Sun Feb 28 1993,New Jersey Nets,New York Knicks,102,76,Brendan Byrne Arena,20049,/boxscores/199302280NJN.html
+Sun Feb 28 1993,Orlando Magic,San Antonio Spurs,90,94,Orlando Arena,15151,/boxscores/199302280ORL.html
+Sun Feb 28 1993,Phoenix Suns,Cleveland Cavaliers,94,101,America West Arena,19023,/boxscores/199302280PHO.html

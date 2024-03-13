@@ -1,0 +1,160 @@
+Tue Dec 1 1987,Atlanta Hawks,Boston Celtics,120,106,Omni Coliseum,16451,/boxscores/198712010ATL.html
+Tue Dec 1 1987,Golden State Warriors,Chicago Bulls,97,98,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198712010GSW.html
+Tue Dec 1 1987,Houston Rockets,Denver Nuggets,106,101,The Summit,16611,/boxscores/198712010HOU.html
+Tue Dec 1 1987,New Jersey Nets,Detroit Pistons,115,124,Brendan Byrne Arena,8232,/boxscores/198712010NJN.html
+Tue Dec 1 1987,New York Knicks,Seattle SuperSonics,109,112,Madison Square Garden (IV),11424,/boxscores/198712010NYK.html
+Tue Dec 1 1987,Portland Trail Blazers,Phoenix Suns,102,100,Memorial Coliseum,12666,/boxscores/198712010POR.html
+Tue Dec 1 1987,Sacramento Kings,Los Angeles Lakers,120,125,ARCO Arena (I),10333,/boxscores/198712010SAC.html
+Wed Dec 2 1987,Boston Celtics,New Jersey Nets,130,99,Boston Garden,14890,/boxscores/198712020BOS.html
+Wed Dec 2 1987,Cleveland Cavaliers,Seattle SuperSonics,104,102,Coliseum at Richfield,6207,/boxscores/198712020CLE.html
+Wed Dec 2 1987,Denver Nuggets,Sacramento Kings,147,120,McNichols Sports Arena,7779,/boxscores/198712020DEN.html
+Wed Dec 2 1987,Detroit Pistons,Milwaukee Bucks,115,105,Pontiac Silverdome,18780,/boxscores/198712020DET.html
+Wed Dec 2 1987,Indiana Pacers,Washington Bullets,108,102,Market Square Arena,8220,/boxscores/198712020IND.html
+Wed Dec 2 1987,Los Angeles Clippers,Philadelphia 76ers,88,85,Los Angeles Memorial Sports Arena,8232,/boxscores/198712020LAC.html
+Wed Dec 2 1987,Los Angeles Lakers,Portland Trail Blazers,104,117,The Forum,17505,/boxscores/198712020LAL.html
+Wed Dec 2 1987,San Antonio Spurs,Houston Rockets,97,93,HemisFair Arena,8025,/boxscores/198712020SAS.html
+Wed Dec 2 1987,Utah Jazz,Chicago Bulls,101,105,Salt Palace,12212,/boxscores/198712020UTA.html
+Thu Dec 3 1987,Phoenix Suns,New York Knicks,120,114,Arizona Veterans Memorial Coliseum,9678,/boxscores/198712030PHO.html
+Thu Dec 3 1987,Washington Bullets,Atlanta Hawks,94,102,Capital Centre,6464,/boxscores/198712030WSB.html
+Fri Dec 4 1987,Atlanta Hawks,New Jersey Nets,139,102,Omni Coliseum,9868,/boxscores/198712040ATL.html
+Fri Dec 4 1987,Dallas Mavericks,Golden State Warriors,116,95,Reunion Arena,17007,/boxscores/198712040DAL.html
+Fri Dec 4 1987,Denver Nuggets,Chicago Bulls,105,89,McNichols Sports Arena,17022,/boxscores/198712040DEN.html
+Fri Dec 4 1987,Detroit Pistons,Boston Celtics,128,105,Pontiac Silverdome,34523,/boxscores/198712040DET.html
+Fri Dec 4 1987,Indiana Pacers,Cleveland Cavaliers,90,108,Market Square Arena,11151,/boxscores/198712040IND.html
+Fri Dec 4 1987,Los Angeles Clippers,Sacramento Kings,98,84,Los Angeles Memorial Sports Arena,3205,/boxscores/198712040LAC.html
+Fri Dec 4 1987,Milwaukee Bucks,Los Angeles Lakers,85,83,MECCA Arena,11052,/boxscores/198712040MIL.html
+Fri Dec 4 1987,Philadelphia 76ers,Seattle SuperSonics,118,105,The Spectrum,13115,/boxscores/198712040PHI.html
+Fri Dec 4 1987,Utah Jazz,New York Knicks,104,92,Salt Palace,12212,/boxscores/198712040UTA.html
+Sat Dec 5 1987,Cleveland Cavaliers,Los Angeles Lakers,97,95,Coliseum at Richfield,20015,/boxscores/198712050CLE.html
+Sat Dec 5 1987,Dallas Mavericks,Denver Nuggets,109,96,Reunion Arena,17007,/boxscores/198712050DAL.html
+Sat Dec 5 1987,Houston Rockets,Golden State Warriors,121,96,The Summit,16611,/boxscores/198712050HOU.html
+Sat Dec 5 1987,Phoenix Suns,Portland Trail Blazers,115,133,Arizona Veterans Memorial Coliseum,11411,/boxscores/198712050PHO.html
+Sat Dec 5 1987,Sacramento Kings,Utah Jazz,117,126,ARCO Arena (I),10333,/boxscores/198712050SAC.html
+Sat Dec 5 1987,San Antonio Spurs,Chicago Bulls,110,101,HemisFair Arena,15786,/boxscores/198712050SAS.html
+Sat Dec 5 1987,Washington Bullets,Seattle SuperSonics,99,115,Capital Centre,11604,/boxscores/198712050WSB.html
+Sun Dec 6 1987,Los Angeles Clippers,Phoenix Suns,96,97,Los Angeles Memorial Sports Arena,5467,/boxscores/198712060LAC.html
+Sun Dec 6 1987,Portland Trail Blazers,New York Knicks,117,99,Memorial Coliseum,12666,/boxscores/198712060POR.html
+Tue Dec 8 1987,Chicago Bulls,Philadelphia 76ers,96,109,Chicago Stadium,17715,/boxscores/198712080CHI.html
+Tue Dec 8 1987,Detroit Pistons,Portland Trail Blazers,127,117,Pontiac Silverdome,17267,/boxscores/198712080DET.html
+Tue Dec 8 1987,Houston Rockets,Sacramento Kings,106,97,The Summit,16611,/boxscores/198712080HOU.html
+Tue Dec 8 1987,Indiana Pacers,Milwaukee Bucks,103,101,Market Square Arena,8535,/boxscores/198712080IND.html
+Tue Dec 8 1987,Los Angeles Clippers,Atlanta Hawks,79,90,Los Angeles Memorial Sports Arena,9245,/boxscores/198712080LAC.html
+Tue Dec 8 1987,New Jersey Nets,Los Angeles Lakers,81,98,Brendan Byrne Arena,18008,/boxscores/198712080NJN.html
+Tue Dec 8 1987,New York Knicks,Washington Bullets,116,92,Madison Square Garden (IV),12931,/boxscores/198712080NYK.html
+Tue Dec 8 1987,San Antonio Spurs,Utah Jazz,105,100,HemisFair Arena,5263,/boxscores/198712080SAS.html
+Tue Dec 8 1987,Seattle SuperSonics,Cleveland Cavaliers,107,96,Seattle Center Coliseum,8520,/boxscores/198712080SEA.html
+Wed Dec 9 1987,Boston Celtics,Denver Nuggets,119,124,Boston Garden,14890,/boxscores/198712090BOS.html
+Wed Dec 9 1987,Dallas Mavericks,Sacramento Kings,125,98,Reunion Arena,16393,/boxscores/198712090DAL.html
+Wed Dec 9 1987,Golden State Warriors,Cleveland Cavaliers,113,112,Oakland-Alameda County Coliseum Arena,10257,/boxscores/198712090GSW.html
+Wed Dec 9 1987,Philadelphia 76ers,Portland Trail Blazers,94,86,The Spectrum,12764,/boxscores/198712090PHI.html
+Wed Dec 9 1987,Phoenix Suns,Atlanta Hawks,117,105,Arizona Veterans Memorial Coliseum,10795,/boxscores/198712090PHO.html
+Wed Dec 9 1987,Washington Bullets,Los Angeles Lakers,120,112,Capital Centre,18643,/boxscores/198712090WSB.html
+Thu Dec 10 1987,Chicago Bulls,Milwaukee Bucks,111,105,Chicago Stadium,17820,/boxscores/198712100CHI.html
+Thu Dec 10 1987,Houston Rockets,Utah Jazz,98,93,The Summit,16611,/boxscores/198712100HOU.html
+Thu Dec 10 1987,Los Angeles Clippers,Seattle SuperSonics,113,96,Los Angeles Memorial Sports Arena,5852,/boxscores/198712100LAC.html
+Thu Dec 10 1987,New Jersey Nets,Indiana Pacers,91,108,Brendan Byrne Arena,7846,/boxscores/198712100NJN.html
+Thu Dec 10 1987,New York Knicks,Denver Nuggets,113,97,Madison Square Garden (IV),9499,/boxscores/198712100NYK.html
+Fri Dec 11 1987,Boston Celtics,Los Angeles Lakers,114,115,Boston Garden,14890,/boxscores/198712110BOS.html
+Fri Dec 11 1987,Dallas Mavericks,Phoenix Suns,108,104,Reunion Arena,17007,/boxscores/198712110DAL.html
+Fri Dec 11 1987,Detroit Pistons,Washington Bullets,114,108,Pontiac Silverdome,17884,/boxscores/198712110DET.html
+Fri Dec 11 1987,Golden State Warriors,Atlanta Hawks,93,109,Oakland-Alameda County Coliseum Arena,13972,/boxscores/198712110GSW.html
+Fri Dec 11 1987,Milwaukee Bucks,Portland Trail Blazers,125,112,MECCA Arena,11052,/boxscores/198712110MIL.html
+Fri Dec 11 1987,Sacramento Kings,Cleveland Cavaliers,113,115,ARCO Arena (I),10333,/boxscores/198712110SAC.html
+Sat Dec 12 1987,Chicago Bulls,Houston Rockets,112,103,Chicago Stadium,18096,/boxscores/198712120CHI.html
+Sat Dec 12 1987,Detroit Pistons,New York Knicks,124,96,Pontiac Silverdome,21368,/boxscores/198712120DET.html
+Sat Dec 12 1987,Indiana Pacers,Portland Trail Blazers,101,108,Market Square Arena,11485,/boxscores/198712120IND.html
+Sat Dec 12 1987,New Jersey Nets,Washington Bullets,107,122,Brendan Byrne Arena,11746,/boxscores/198712120NJN.html
+Sat Dec 12 1987,Philadelphia 76ers,Denver Nuggets,121,131,The Spectrum,9857,/boxscores/198712120PHI.html
+Sat Dec 12 1987,San Antonio Spurs,Phoenix Suns,129,110,HemisFair Arena,7262,/boxscores/198712120SAS.html
+Sat Dec 12 1987,Seattle SuperSonics,Los Angeles Clippers,116,95,Seattle Center Coliseum,10623,/boxscores/198712120SEA.html
+Sat Dec 12 1987,Utah Jazz,Golden State Warriors,127,93,Salt Palace,12212,/boxscores/198712120UTA.html
+Sun Dec 13 1987,Los Angeles Lakers,Cleveland Cavaliers,90,89,The Forum,17505,/boxscores/198712130LAL.html
+Sun Dec 13 1987,Milwaukee Bucks,Dallas Mavericks,99,113,MECCA Arena,11052,/boxscores/198712130MIL.html
+Sun Dec 13 1987,Sacramento Kings,Atlanta Hawks,100,106,ARCO Arena (I),10333,/boxscores/198712130SAC.html
+Mon Dec 14 1987,Utah Jazz,Seattle SuperSonics,116,95,Salt Palace,12212,/boxscores/198712140UTA.html
+Tue Dec 15 1987,Atlanta Hawks,Indiana Pacers,93,91,Omni Coliseum,13118,/boxscores/198712150ATL.html
+Tue Dec 15 1987,Cleveland Cavaliers,Dallas Mavericks,106,93,Coliseum at Richfield,6852,/boxscores/198712150CLE.html
+Tue Dec 15 1987,Detroit Pistons,Chicago Bulls,127,123,Pontiac Silverdome,23729,/boxscores/198712150DET.html
+Tue Dec 15 1987,Los Angeles Lakers,Phoenix Suns,122,97,The Forum,17371,/boxscores/198712150LAL.html
+Tue Dec 15 1987,New Jersey Nets,San Antonio Spurs,104,98,Brendan Byrne Arena,8010,/boxscores/198712150NJN.html
+Tue Dec 15 1987,New York Knicks,Milwaukee Bucks,98,103,Madison Square Garden (IV),9016,/boxscores/198712150NYK.html
+Tue Dec 15 1987,Portland Trail Blazers,Seattle SuperSonics,128,109,Memorial Coliseum,12666,/boxscores/198712150POR.html
+Tue Dec 15 1987,Sacramento Kings,Los Angeles Clippers,128,108,ARCO Arena (I),10333,/boxscores/198712150SAC.html
+Tue Dec 15 1987,Washington Bullets,Boston Celtics,102,122,Capital Centre,15896,/boxscores/198712150WSB.html
+Wed Dec 16 1987,Boston Celtics,Utah Jazz,121,111,Boston Garden,14890,/boxscores/198712160BOS.html
+Wed Dec 16 1987,Denver Nuggets,Houston Rockets,132,113,McNichols Sports Arena,13834,/boxscores/198712160DEN.html
+Wed Dec 16 1987,New Jersey Nets,Dallas Mavericks,105,109,Brendan Byrne Arena,9877,/boxscores/198712160NJN.html
+Wed Dec 16 1987,Philadelphia 76ers,San Antonio Spurs,114,102,The Spectrum,9278,/boxscores/198712160PHI.html
+Thu Dec 17 1987,Chicago Bulls,Cleveland Cavaliers,111,100,Chicago Stadium,17560,/boxscores/198712170CHI.html
+Thu Dec 17 1987,Golden State Warriors,Los Angeles Lakers,106,113,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198712170GSW.html
+Thu Dec 17 1987,Los Angeles Clippers,Houston Rockets,98,92,Los Angeles Memorial Sports Arena,6519,/boxscores/198712170LAC.html
+Thu Dec 17 1987,New York Knicks,Philadelphia 76ers,96,106,Madison Square Garden (IV),13027,/boxscores/198712170NYK.html
+Thu Dec 17 1987,Seattle SuperSonics,Sacramento Kings,114,109,Seattle Center Coliseum,10238,/boxscores/198712170SEA.html
+Thu Dec 17 1987,Washington Bullets,Indiana Pacers,115,111,Capital Centre,5433,/boxscores/198712170WSB.html
+Fri Dec 18 1987,Cleveland Cavaliers,New Jersey Nets,103,94,Coliseum at Richfield,6493,/boxscores/198712180CLE.html
+Fri Dec 18 1987,Detroit Pistons,Dallas Mavericks,117,112,Pontiac Silverdome,19426,/boxscores/198712180DET.html
+Fri Dec 18 1987,Indiana Pacers,Utah Jazz,121,97,Market Square Arena,10613,/boxscores/198712180IND.html
+Fri Dec 18 1987,Milwaukee Bucks,Atlanta Hawks,87,94,MECCA Arena,11052,/boxscores/198712180MIL.html
+Fri Dec 18 1987,Phoenix Suns,Portland Trail Blazers,114,129,Arizona Veterans Memorial Coliseum,9971,/boxscores/198712180PHO.html
+Fri Dec 18 1987,San Antonio Spurs,Denver Nuggets,133,114,HemisFair Arena,7401,/boxscores/198712180SAS.html
+Sat Dec 19 1987,Atlanta Hawks,Utah Jazz,130,124,Omni Coliseum,12215,/boxscores/198712190ATL.html
+Sat Dec 19 1987,Golden State Warriors,Seattle SuperSonics,102,129,Oakland-Alameda County Coliseum Arena,12998,/boxscores/198712190GSW.html
+Sat Dec 19 1987,Houston Rockets,Denver Nuggets,117,121,The Summit,16611,/boxscores/198712190HOU.html
+Sat Dec 19 1987,Los Angeles Clippers,Los Angeles Lakers,97,108,Los Angeles Memorial Sports Arena,14417,/boxscores/198712190LAC.html
+Sat Dec 19 1987,New York Knicks,New Jersey Nets,125,93,Madison Square Garden (IV),10756,/boxscores/198712190NYK.html
+Sat Dec 19 1987,Philadelphia 76ers,Dallas Mavericks,95,90,The Spectrum,12477,/boxscores/198712190PHI.html
+Sat Dec 19 1987,Washington Bullets,Chicago Bulls,109,96,Capital Centre,14353,/boxscores/198712190WSB.html
+Sun Dec 20 1987,Boston Celtics,Philadelphia 76ers,124,87,Boston Garden,14890,/boxscores/198712200BOS.html
+Sun Dec 20 1987,Cleveland Cavaliers,Indiana Pacers,127,116,Coliseum at Richfield,8115,/boxscores/198712200CLE.html
+Sun Dec 20 1987,Los Angeles Lakers,Seattle SuperSonics,103,94,The Forum,17505,/boxscores/198712200LAL.html
+Sun Dec 20 1987,Portland Trail Blazers,San Antonio Spurs,148,126,Memorial Coliseum,12666,/boxscores/198712200POR.html
+Sun Dec 20 1987,Sacramento Kings,Phoenix Suns,109,120,ARCO Arena (I),10333,/boxscores/198712200SAC.html
+Mon Dec 21 1987,New Jersey Nets,Utah Jazz,106,95,Brendan Byrne Arena,7651,/boxscores/198712210NJN.html
+Tue Dec 22 1987,Chicago Bulls,Dallas Mavericks,100,111,Chicago Stadium,18103,/boxscores/198712220CHI.html
+Tue Dec 22 1987,Denver Nuggets,Phoenix Suns,119,104,McNichols Sports Arena,8823,/boxscores/198712220DEN.html
+Tue Dec 22 1987,Houston Rockets,Atlanta Hawks,122,103,The Summit,16611,/boxscores/198712220HOU.html
+Tue Dec 22 1987,Milwaukee Bucks,New York Knicks,122,105,MECCA Arena,11052,/boxscores/198712220MIL.html
+Tue Dec 22 1987,Philadelphia 76ers,Boston Celtics,115,118,The Spectrum,18168,/boxscores/198712220PHI.html
+Tue Dec 22 1987,Portland Trail Blazers,Golden State Warriors,136,91,Memorial Coliseum,12666,/boxscores/198712220POR.html
+Tue Dec 22 1987,Sacramento Kings,San Antonio Spurs,120,96,ARCO Arena (I),10333,/boxscores/198712220SAC.html
+Tue Dec 22 1987,Washington Bullets,Cleveland Cavaliers,102,106,Capital Centre,4464,/boxscores/198712220WSB.html
+Wed Dec 23 1987,Cleveland Cavaliers,Utah Jazz,83,91,Coliseum at Richfield,9202,/boxscores/198712230CLE.html
+Wed Dec 23 1987,Golden State Warriors,Denver Nuggets,129,117,Oakland-Alameda County Coliseum Arena,10071,/boxscores/198712230GSW.html
+Wed Dec 23 1987,Indiana Pacers,Dallas Mavericks,109,110,Market Square Arena,14572,/boxscores/198712230IND.html
+Wed Dec 23 1987,Los Angeles Clippers,San Antonio Spurs,97,111,Los Angeles Memorial Sports Arena,7763,/boxscores/198712230LAC.html
+Wed Dec 23 1987,Los Angeles Lakers,Sacramento Kings,117,103,The Forum,17505,/boxscores/198712230LAL.html
+Wed Dec 23 1987,New Jersey Nets,Philadelphia 76ers,106,110,Brendan Byrne Arena,9122,/boxscores/198712230NJN.html
+Wed Dec 23 1987,New York Knicks,Chicago Bulls,90,89,Madison Square Garden (IV),19591,/boxscores/198712230NYK.html
+Wed Dec 23 1987,Phoenix Suns,Seattle SuperSonics,102,103,Arizona Veterans Memorial Coliseum,10351,/boxscores/198712230PHO.html
+Fri Dec 25 1987,New York Knicks,Detroit Pistons,87,91,Madison Square Garden (IV),14549,/boxscores/198712250NYK.html
+Fri Dec 25 1987,Philadelphia 76ers,Atlanta Hawks,100,106,The Spectrum,14133,/boxscores/198712250PHI.html
+Sat Dec 26 1987,Atlanta Hawks,New York Knicks,125,98,Omni Coliseum,16451,/boxscores/198712260ATL.html
+Sat Dec 26 1987,Cleveland Cavaliers,Portland Trail Blazers,120,117,Coliseum at Richfield,14225,/boxscores/198712260CLE.html
+Sat Dec 26 1987,Dallas Mavericks,Houston Rockets,105,100,Reunion Arena,17007,/boxscores/198712260DAL.html
+Sat Dec 26 1987,Denver Nuggets,Seattle SuperSonics,115,111,McNichols Sports Arena,12403,/boxscores/198712260DEN.html
+Sat Dec 26 1987,Detroit Pistons,New Jersey Nets,110,75,Pontiac Silverdome,23330,/boxscores/198712260DET.html
+Sat Dec 26 1987,Indiana Pacers,Chicago Bulls,106,92,Market Square Arena,16041,/boxscores/198712260IND.html
+Sat Dec 26 1987,Los Angeles Clippers,Boston Celtics,97,106,Los Angeles Memorial Sports Arena,15167,/boxscores/198712260LAC.html
+Sat Dec 26 1987,Milwaukee Bucks,Washington Bullets,102,97,MECCA Arena,11052,/boxscores/198712260MIL.html
+Sat Dec 26 1987,Phoenix Suns,Sacramento Kings,110,112,Arizona Veterans Memorial Coliseum,10328,/boxscores/198712260PHO.html
+Sat Dec 26 1987,San Antonio Spurs,Golden State Warriors,105,96,HemisFair Arena,10632,/boxscores/198712260SAS.html
+Sat Dec 26 1987,Utah Jazz,Los Angeles Lakers,109,117,Salt Palace,12212,/boxscores/198712260UTA.html
+Sun Dec 27 1987,New Jersey Nets,Cleveland Cavaliers,101,83,Brendan Byrne Arena,9216,/boxscores/198712270NJN.html
+Sun Dec 27 1987,Sacramento Kings,Boston Celtics,102,114,ARCO Arena (I),10333,/boxscores/198712270SAC.html
+Mon Dec 28 1987,Phoenix Suns,Philadelphia 76ers,117,101,Arizona Veterans Memorial Coliseum,13041,/boxscores/198712280PHO.html
+Mon Dec 28 1987,Seattle SuperSonics,Denver Nuggets,108,100,Seattle Center Coliseum,13007,/boxscores/198712280SEA.html
+Tue Dec 29 1987,Chicago Bulls,Atlanta Hawks,98,108,Chicago Stadium,18678,/boxscores/198712290CHI.html
+Tue Dec 29 1987,Dallas Mavericks,Sacramento Kings,126,117,Reunion Arena,17007,/boxscores/198712290DAL.html
+Tue Dec 29 1987,Denver Nuggets,Utah Jazz,97,98,McNichols Sports Arena,10621,/boxscores/198712290DEN.html
+Tue Dec 29 1987,Detroit Pistons,Houston Rockets,91,101,Pontiac Silverdome,26498,/boxscores/198712290DET.html
+Tue Dec 29 1987,Los Angeles Lakers,Philadelphia 76ers,131,115,The Forum,17505,/boxscores/198712290LAL.html
+Tue Dec 29 1987,New Jersey Nets,Milwaukee Bucks,88,106,Brendan Byrne Arena,9035,/boxscores/198712290NJN.html
+Tue Dec 29 1987,New York Knicks,Portland Trail Blazers,123,110,Madison Square Garden (IV),13798,/boxscores/198712290NYK.html
+Wed Dec 30 1987,Cleveland Cavaliers,Atlanta Hawks,110,117,Coliseum at Richfield,19029,/boxscores/198712300CLE.html
+Wed Dec 30 1987,Indiana Pacers,Detroit Pistons,95,105,Market Square Arena,12945,/boxscores/198712300IND.html
+Wed Dec 30 1987,Los Angeles Clippers,Phoenix Suns,102,121,Los Angeles Memorial Sports Arena,7420,/boxscores/198712300LAC.html
+Wed Dec 30 1987,Milwaukee Bucks,Houston Rockets,93,102,MECCA Arena,11052,/boxscores/198712300MIL.html
+Wed Dec 30 1987,San Antonio Spurs,Sacramento Kings,140,108,HemisFair Arena,7294,/boxscores/198712300SAS.html
+Wed Dec 30 1987,Seattle SuperSonics,Boston Celtics,111,105,Seattle Center Coliseum,14850,/boxscores/198712300SEA.html
+Wed Dec 30 1987,Utah Jazz,Golden State Warriors,104,103,Salt Palace,12212,/boxscores/198712300UTA.html
+Wed Dec 30 1987,Washington Bullets,Portland Trail Blazers,112,117,Capital Centre,6338,/boxscores/198712300WSB.html

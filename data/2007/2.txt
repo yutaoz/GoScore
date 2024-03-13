@@ -1,0 +1,179 @@
+Thu Feb 1 2007,Miami Heat,Cleveland Cavaliers,92,89,AmericanAirlines Arena,20125,/boxscores/200702010MIA.html
+Thu Feb 1 2007,Phoenix Suns,San Antonio Spurs,103,87,US Airways Center,18422,/boxscores/200702010PHO.html
+Fri Feb 2 2007,Indiana Pacers,Los Angeles Lakers,95,84,Conseco Fieldhouse,17662,/boxscores/200702020IND.html
+Fri Feb 2 2007,Philadelphia 76ers,Golden State Warriors,101,102,Wachovia Center,12768,/boxscores/200702020PHI.html
+Fri Feb 2 2007,Atlanta Hawks,Toronto Raptors,91,103,Philips Arena,13200,/boxscores/200702020ATL.html
+Fri Feb 2 2007,Boston Celtics,Los Angeles Clippers,89,100,TD Banknorth Garden,15740,/boxscores/200702020BOS.html
+Fri Feb 2 2007,Cleveland Cavaliers,Charlotte Bobcats,101,81,Quicken Loans Arena,20562,/boxscores/200702020CLE.html
+Fri Feb 2 2007,Detroit Pistons,Milwaukee Bucks,96,86,The Palace of Auburn Hills,22076,/boxscores/200702020DET.html
+Fri Feb 2 2007,New Orleans/Oklahoma City Hornets,Minnesota Timberwolves,90,83,Ford Center,18032,/boxscores/200702020NOK.html
+Fri Feb 2 2007,Orlando Magic,New Jersey Nets,119,86,Amway Arena,17451,/boxscores/200702020ORL.html
+Fri Feb 2 2007,Denver Nuggets,Portland Trail Blazers,114,107,Pepsi Center,19290,/boxscores/200702020DEN.html
+Fri Feb 2 2007,Seattle SuperSonics,Chicago Bulls,101,107,KeyArena at Seattle Center,16291,/boxscores/200702020SEA.html
+Sat Feb 3 2007,Charlotte Bobcats,Golden State Warriors,98,90,Charlotte Bobcats Arena,15171,/boxscores/200702030CHA.html
+Sat Feb 3 2007,Orlando Magic,New York Knicks,86,94,Amway Arena,17451,/boxscores/200702030ORL.html
+Sat Feb 3 2007,Washington Wizards,Los Angeles Lakers,102,118,Verizon Center,20173,/boxscores/200702030WAS.html
+Sat Feb 3 2007,Memphis Grizzlies,Indiana Pacers,110,116,FedEx Forum,16163,/boxscores/200702030MEM.html
+Sat Feb 3 2007,Dallas Mavericks,Minnesota Timberwolves,94,93,American Airlines Center,20467,/boxscores/200702030DAL.html
+Sat Feb 3 2007,Houston Rockets,New Orleans/Oklahoma City Hornets,74,87,Toyota Center,18081,/boxscores/200702030HOU.html
+Sat Feb 3 2007,Milwaukee Bucks,Miami Heat,98,117,Bradley Center,17836,/boxscores/200702030MIL.html
+Sat Feb 3 2007,Phoenix Suns,Utah Jazz,105,108,US Airways Center,18422,/boxscores/200702030PHO.html
+Sat Feb 3 2007,Portland Trail Blazers,Chicago Bulls,86,88,Rose Garden Arena,19980,/boxscores/200702030POR.html
+Sat Feb 3 2007,Sacramento Kings,Denver Nuggets,94,87,ARCO Arena (II),17317,/boxscores/200702030SAC.html
+Sun Feb 4 2007,New Jersey Nets,Atlanta Hawks,99,101,Continental Airlines Arena,14824,/boxscores/200702040NJN.html
+Sun Feb 4 2007,Toronto Raptors,Los Angeles Clippers,122,110,Air Canada Centre,17214,/boxscores/200702040TOR.html
+Sun Feb 4 2007,Cleveland Cavaliers,Detroit Pistons,78,90,Quicken Loans Arena,20140,/boxscores/200702040CLE.html
+Mon Feb 5 2007,Atlanta Hawks,Los Angeles Lakers,83,90,Philips Arena,19600,/boxscores/200702050ATL.html
+Mon Feb 5 2007,Indiana Pacers,Golden State Warriors,98,113,Conseco Fieldhouse,12736,/boxscores/200702050IND.html
+Mon Feb 5 2007,Philadelphia 76ers,New Jersey Nets,100,98,Wachovia Center,12251,/boxscores/200702050PHI.html
+Mon Feb 5 2007,Washington Wizards,Seattle SuperSonics,118,108,Verizon Center,15332,/boxscores/200702050WAS.html
+Mon Feb 5 2007,Miami Heat,Charlotte Bobcats,113,93,AmericanAirlines Arena,19600,/boxscores/200702050MIA.html
+Mon Feb 5 2007,Houston Rockets,Minnesota Timberwolves,105,77,Toyota Center,10761,/boxscores/200702050HOU.html
+Mon Feb 5 2007,Denver Nuggets,Phoenix Suns,108,113,Pepsi Center,19155,/boxscores/200702050DEN.html
+Mon Feb 5 2007,Utah Jazz,Chicago Bulls,100,95,EnergySolutions Arena,19911,/boxscores/200702050UTA.html
+Mon Feb 5 2007,Sacramento Kings,New Orleans/Oklahoma City Hornets,105,99,ARCO Arena (II),17317,/boxscores/200702050SAC.html
+Tue Feb 6 2007,Detroit Pistons,Boston Celtics,109,102,The Palace of Auburn Hills,22076,/boxscores/200702060DET.html
+Tue Feb 6 2007,New York Knicks,Los Angeles Clippers,102,90,Madison Square Garden (IV),18539,/boxscores/200702060NYK.html
+Tue Feb 6 2007,Memphis Grizzlies,Houston Rockets,90,98,FedEx Forum,12496,/boxscores/200702060MEM.html
+Tue Feb 6 2007,Milwaukee Bucks,Orlando Magic,116,111,Bradley Center,13579,/boxscores/200702060MIL.html
+Tue Feb 6 2007,Portland Trail Blazers,Phoenix Suns,102,109,Rose Garden Arena,17171,/boxscores/200702060POR.html
+Wed Feb 7 2007,Atlanta Hawks,New Jersey Nets,85,87,Philips Arena,14109,/boxscores/200702070ATL.html
+Wed Feb 7 2007,Cleveland Cavaliers,Los Angeles Clippers,94,77,Quicken Loans Arena,20129,/boxscores/200702070CLE.html
+Wed Feb 7 2007,Indiana Pacers,Seattle SuperSonics,102,103,Conseco Fieldhouse,12923,/boxscores/200702070IND.html
+Wed Feb 7 2007,Philadelphia 76ers,Charlotte Bobcats,92,83,Wachovia Center,11027,/boxscores/200702070PHI.html
+Wed Feb 7 2007,Toronto Raptors,Orlando Magic,113,103,Air Canada Centre,15157,/boxscores/200702070TOR.html
+Wed Feb 7 2007,Washington Wizards,San Antonio Spurs,83,110,Verizon Center,20173,/boxscores/200702070WAS.html
+Wed Feb 7 2007,Boston Celtics,Miami Heat,79,91,TD Banknorth Garden,17088,/boxscores/200702070BOS.html
+Wed Feb 7 2007,Minnesota Timberwolves,Golden State Warriors,121,93,Target Center,13212,/boxscores/200702070MIN.html
+Wed Feb 7 2007,Dallas Mavericks,Memphis Grizzlies,113,97,American Airlines Center,20263,/boxscores/200702070DAL.html
+Wed Feb 7 2007,Denver Nuggets,New Orleans/Oklahoma City Hornets,112,114,Pepsi Center,15298,/boxscores/200702070DEN.html
+Thu Feb 8 2007,Detroit Pistons,Los Angeles Lakers,93,78,The Palace of Auburn Hills,22076,/boxscores/200702080DET.html
+Thu Feb 8 2007,New Orleans/Oklahoma City Hornets,Milwaukee Bucks,109,101,Ford Center,17364,/boxscores/200702080NOK.html
+Thu Feb 8 2007,Sacramento Kings,Chicago Bulls,86,77,ARCO Arena (II),17317,/boxscores/200702080SAC.html
+Fri Feb 9 2007,Charlotte Bobcats,Portland Trail Blazers,100,108,Charlotte Bobcats Arena,15013,/boxscores/200702090CHA.html
+Fri Feb 9 2007,Indiana Pacers,Denver Nuggets,95,102,Conseco Fieldhouse,17435,/boxscores/200702090IND.html
+Fri Feb 9 2007,Orlando Magic,San Antonio Spurs,106,104,Amway Arena,17451,/boxscores/200702090ORL.html
+Fri Feb 9 2007,Philadelphia 76ers,Los Angeles Clippers,89,90,Wachovia Center,13696,/boxscores/200702090PHI.html
+Fri Feb 9 2007,Toronto Raptors,Los Angeles Lakers,96,92,Air Canada Centre,20012,/boxscores/200702090TOR.html
+Fri Feb 9 2007,Boston Celtics,New Jersey Nets,78,92,TD Banknorth Garden,17829,/boxscores/200702090BOS.html
+Fri Feb 9 2007,Cleveland Cavaliers,Miami Heat,103,79,Quicken Loans Arena,20562,/boxscores/200702090CLE.html
+Fri Feb 9 2007,Memphis Grizzlies,Minnesota Timberwolves,105,97,FedEx Forum,15963,/boxscores/200702090MEM.html
+Fri Feb 9 2007,Dallas Mavericks,Houston Rockets,95,74,American Airlines Center,20446,/boxscores/200702090DAL.html
+Fri Feb 9 2007,Phoenix Suns,Atlanta Hawks,111,120,US Airways Center,18422,/boxscores/200702090PHO.html
+Fri Feb 9 2007,Golden State Warriors,Chicago Bulls,123,121,Oracle Arena,18168,/boxscores/200702090GSW.html
+Sat Feb 10 2007,Detroit Pistons,Toronto Raptors,98,92,The Palace of Auburn Hills,22076,/boxscores/200702100DET.html
+Sat Feb 10 2007,New Jersey Nets,Orlando Magic,93,78,Continental Airlines Arena,18657,/boxscores/200702100NJN.html
+Sat Feb 10 2007,New Orleans/Oklahoma City Hornets,Memphis Grizzlies,114,99,Ford Center,17139,/boxscores/200702100NOK.html
+Sat Feb 10 2007,Houston Rockets,Charlotte Bobcats,104,83,Toyota Center,18061,/boxscores/200702100HOU.html
+Sat Feb 10 2007,Milwaukee Bucks,Denver Nuggets,102,109,Bradley Center,18317,/boxscores/200702100MIL.html
+Sat Feb 10 2007,Utah Jazz,New York Knicks,104,102,EnergySolutions Arena,19911,/boxscores/200702100UTA.html
+Sat Feb 10 2007,Seattle SuperSonics,Sacramento Kings,93,114,KeyArena at Seattle Center,17072,/boxscores/200702100SEA.html
+Sun Feb 11 2007,Miami Heat,San Antonio Spurs,100,85,AmericanAirlines Arena,20210,/boxscores/200702110MIA.html
+Sun Feb 11 2007,Washington Wizards,Portland Trail Blazers,73,94,Verizon Center,20173,/boxscores/200702110WAS.html
+Sun Feb 11 2007,Indiana Pacers,Los Angeles Clippers,94,80,Conseco Fieldhouse,12489,/boxscores/200702110IND.html
+Sun Feb 11 2007,Cleveland Cavaliers,Los Angeles Lakers,99,90,Quicken Loans Arena,20562,/boxscores/200702110CLE.html
+Sun Feb 11 2007,Minnesota Timberwolves,Boston Celtics,109,107,Target Center,19538,/boxscores/200702110MIN.html
+Sun Feb 11 2007,Philadelphia 76ers,Dallas Mavericks,89,106,Wachovia Center,13673,/boxscores/200702110PHI.html
+Sun Feb 11 2007,Phoenix Suns,Chicago Bulls,103,116,US Airways Center,18422,/boxscores/200702110PHO.html
+Sun Feb 11 2007,Golden State Warriors,Atlanta Hawks,105,106,Oracle Arena,17111,/boxscores/200702110GSW.html
+Sun Feb 11 2007,Sacramento Kings,Seattle SuperSonics,103,114,ARCO Arena (II),17317,/boxscores/200702110SAC.html
+Mon Feb 12 2007,Detroit Pistons,Los Angeles Clippers,92,74,The Palace of Auburn Hills,22076,/boxscores/200702120DET.html
+Mon Feb 12 2007,Denver Nuggets,Golden State Warriors,123,111,Pepsi Center,15513,/boxscores/200702120DEN.html
+Mon Feb 12 2007,Utah Jazz,Atlanta Hawks,102,76,EnergySolutions Arena,19911,/boxscores/200702120UTA.html
+Tue Feb 13 2007,Miami Heat,Portland Trail Blazers,104,85,AmericanAirlines Arena,19600,/boxscores/200702130MIA.html
+Tue Feb 13 2007,New Jersey Nets,San Antonio Spurs,82,107,Continental Airlines Arena,14936,/boxscores/200702130NJN.html
+Tue Feb 13 2007,Memphis Grizzlies,New Orleans/Oklahoma City Hornets,108,104,FedEx Forum,10641,/boxscores/200702130MEM.html
+Tue Feb 13 2007,Milwaukee Bucks,Dallas Mavericks,93,99,Bradley Center,16514,/boxscores/200702130MIL.html
+Tue Feb 13 2007,Chicago Bulls,Toronto Raptors,111,112,United Center,21776,/boxscores/200702130CHI.html
+Tue Feb 13 2007,Houston Rockets,Sacramento Kings,109,104,Toyota Center,13185,/boxscores/200702130HOU.html
+Tue Feb 13 2007,Los Angeles Lakers,New York Knicks,106,107,STAPLES Center,18997,/boxscores/200702130LAL.html
+Wed Feb 14 2007,Charlotte Bobcats,Chicago Bulls,100,85,Charlotte Bobcats Arena,14908,/boxscores/200702140CHA.html
+Wed Feb 14 2007,Indiana Pacers,Memphis Grizzlies,114,104,Conseco Fieldhouse,13037,/boxscores/200702140IND.html
+Wed Feb 14 2007,Orlando Magic,Portland Trail Blazers,103,91,Amway Arena,16902,/boxscores/200702140ORL.html
+Wed Feb 14 2007,Philadelphia 76ers,Washington Wizards,85,92,Wachovia Center,10744,/boxscores/200702140PHI.html
+Wed Feb 14 2007,Toronto Raptors,New Jersey Nets,120,109,Air Canada Centre,19800,/boxscores/200702140TOR.html
+Wed Feb 14 2007,Boston Celtics,Milwaukee Bucks,117,97,TD Banknorth Garden,14482,/boxscores/200702140BOS.html
+Wed Feb 14 2007,Detroit Pistons,San Antonio Spurs,81,90,The Palace of Auburn Hills,22076,/boxscores/200702140DET.html
+Wed Feb 14 2007,Minnesota Timberwolves,Denver Nuggets,99,94,Target Center,15797,/boxscores/200702140MIN.html
+Wed Feb 14 2007,New Orleans/Oklahoma City Hornets,Sacramento Kings,110,93,Ford Center,16753,/boxscores/200702140NOK.html
+Wed Feb 14 2007,Utah Jazz,Cleveland Cavaliers,99,98,EnergySolutions Arena,19911,/boxscores/200702140UTA.html
+Wed Feb 14 2007,Seattle SuperSonics,Phoenix Suns,114,90,KeyArena at Seattle Center,16809,/boxscores/200702140SEA.html
+Wed Feb 14 2007,Golden State Warriors,New York Knicks,120,101,Oracle Arena,17023,/boxscores/200702140GSW.html
+Wed Feb 14 2007,Los Angeles Clippers,Atlanta Hawks,93,96,STAPLES Center,17769,/boxscores/200702140LAC.html
+Thu Feb 15 2007,Houston Rockets,Dallas Mavericks,77,80,Toyota Center,18270,/boxscores/200702150HOU.html
+Thu Feb 15 2007,Los Angeles Lakers,Cleveland Cavaliers,108,114,STAPLES Center,18997,/boxscores/200702150LAL.html
+Tue Feb 20 2007,Charlotte Bobcats,New Orleans/Oklahoma City Hornets,104,100,Charlotte Bobcats Arena,13007,/boxscores/200702200CHA.html
+Tue Feb 20 2007,Washington Wizards,Minnesota Timberwolves,112,100,Verizon Center,16799,/boxscores/200702200WAS.html
+Tue Feb 20 2007,New York Knicks,Orlando Magic,100,94,Madison Square Garden (IV),19763,/boxscores/200702200NYK.html
+Tue Feb 20 2007,Milwaukee Bucks,Detroit Pistons,83,84,Bradley Center,14873,/boxscores/200702200MIL.html
+Tue Feb 20 2007,San Antonio Spurs,Denver Nuggets,95,80,AT&T Center,18586,/boxscores/200702200SAS.html
+Tue Feb 20 2007,Chicago Bulls,Atlanta Hawks,106,81,United Center,21849,/boxscores/200702200CHI.html
+Tue Feb 20 2007,Portland Trail Blazers,Utah Jazz,103,100,Rose Garden Arena,14852,/boxscores/200702200POR.html
+Tue Feb 20 2007,Sacramento Kings,Boston Celtics,104,101,ARCO Arena (II),17317,/boxscores/200702200SAC.html
+Tue Feb 20 2007,Seattle SuperSonics,Memphis Grizzlies,121,105,KeyArena at Seattle Center,16006,/boxscores/200702200SEA.html
+Tue Feb 20 2007,Los Angeles Clippers,Phoenix Suns,90,115,STAPLES Center,19898,/boxscores/200702200LAC.html
+Wed Feb 21 2007,Atlanta Hawks,San Antonio Spurs,96,103,Philips Arena,15565,/boxscores/200702210ATL.html
+Wed Feb 21 2007,Indiana Pacers,Milwaukee Bucks,136,129,Conseco Fieldhouse,14019,/boxscores/200702210IND.html
+Wed Feb 21 2007,Philadelphia 76ers,New York Knicks,104,84,Wachovia Center,13712,/boxscores/200702210PHI.html
+Wed Feb 21 2007,Toronto Raptors,Cleveland Cavaliers,85,86,Air Canada Centre,19800,/boxscores/200702210TOR.html
+Wed Feb 21 2007,Detroit Pistons,Orlando Magic,110,88,The Palace of Auburn Hills,22076,/boxscores/200702210DET.html
+Wed Feb 21 2007,New Jersey Nets,New Orleans/Oklahoma City Hornets,107,111,Continental Airlines Arena,15751,/boxscores/200702210NJN.html
+Wed Feb 21 2007,Minnesota Timberwolves,Charlotte Bobcats,95,100,Target Center,16576,/boxscores/200702210MIN.html
+Wed Feb 21 2007,Houston Rockets,Miami Heat,112,102,Toyota Center,18324,/boxscores/200702210HOU.html
+Wed Feb 21 2007,Phoenix Suns,Boston Celtics,118,108,US Airways Center,18422,/boxscores/200702210PHO.html
+Wed Feb 21 2007,Golden State Warriors,Memphis Grizzlies,118,115,Oracle Arena,16967,/boxscores/200702210GSW.html
+Wed Feb 21 2007,Los Angeles Lakers,Portland Trail Blazers,108,112,STAPLES Center,18997,/boxscores/200702210LAL.html
+Thu Feb 22 2007,Cleveland Cavaliers,Chicago Bulls,78,84,Quicken Loans Arena,20562,/boxscores/200702220CLE.html
+Thu Feb 22 2007,Washington Wizards,Sacramento Kings,109,106,Verizon Center,15508,/boxscores/200702220WAS.html
+Thu Feb 22 2007,Dallas Mavericks,Miami Heat,112,100,American Airlines Center,20448,/boxscores/200702220DAL.html
+Fri Feb 23 2007,Charlotte Bobcats,Philadelphia 76ers,102,87,Charlotte Bobcats Arena,15781,/boxscores/200702230CHA.html
+Fri Feb 23 2007,Orlando Magic,Detroit Pistons,89,94,Amway Arena,17451,/boxscores/200702230ORL.html
+Fri Feb 23 2007,Toronto Raptors,Indiana Pacers,110,88,Air Canada Centre,19481,/boxscores/200702230TOR.html
+Fri Feb 23 2007,Atlanta Hawks,Houston Rockets,105,99,Philips Arena,16041,/boxscores/200702230ATL.html
+Fri Feb 23 2007,New Jersey Nets,Sacramento Kings,109,96,Continental Airlines Arena,18902,/boxscores/200702230NJN.html
+Fri Feb 23 2007,New York Knicks,Milwaukee Bucks,95,93,Madison Square Garden (IV),19763,/boxscores/200702230NYK.html
+Fri Feb 23 2007,Chicago Bulls,Washington Wizards,105,90,United Center,22618,/boxscores/200702230CHI.html
+Fri Feb 23 2007,Minnesota Timberwolves,Phoenix Suns,104,116,Target Center,20196,/boxscores/200702230MIN.html
+Fri Feb 23 2007,New Orleans/Oklahoma City Hornets,Seattle SuperSonics,98,97,New Orleans Arena,17961,/boxscores/200702230NOK.html
+Fri Feb 23 2007,Portland Trail Blazers,Memphis Grizzlies,102,103,Rose Garden Arena,14875,/boxscores/200702230POR.html
+Fri Feb 23 2007,Denver Nuggets,Utah Jazz,104,114,Pepsi Center,19565,/boxscores/200702230DEN.html
+Fri Feb 23 2007,Los Angeles Lakers,Boston Celtics,122,96,STAPLES Center,18997,/boxscores/200702230LAL.html
+Sat Feb 24 2007,Los Angeles Clippers,Golden State Warriors,103,90,STAPLES Center,19060,/boxscores/200702240LAC.html
+Sat Feb 24 2007,Charlotte Bobcats,Toronto Raptors,76,93,Charlotte Bobcats Arena,17091,/boxscores/200702240CHA.html
+Sat Feb 24 2007,San Antonio Spurs,Seattle SuperSonics,102,71,AT&T Center,18797,/boxscores/200702240SAS.html
+Sat Feb 24 2007,Milwaukee Bucks,Philadelphia 76ers,109,90,Bradley Center,16978,/boxscores/200702240MIL.html
+Sat Feb 24 2007,Dallas Mavericks,Denver Nuggets,115,95,American Airlines Center,20455,/boxscores/200702240DAL.html
+Sat Feb 24 2007,Utah Jazz,Boston Celtics,105,87,EnergySolutions Arena,19911,/boxscores/200702240UTA.html
+Sun Feb 25 2007,Detroit Pistons,Chicago Bulls,95,93,The Palace of Auburn Hills,22076,/boxscores/200702250DET.html
+Sun Feb 25 2007,Orlando Magic,Houston Rockets,93,97,Amway Arena,17451,/boxscores/200702250ORL.html
+Sun Feb 25 2007,Miami Heat,Cleveland Cavaliers,86,81,AmericanAirlines Arena,20255,/boxscores/200702250MIA.html
+Sun Feb 25 2007,Minnesota Timberwolves,Washington Wizards,98,94,Target Center,15347,/boxscores/200702250MIN.html
+Sun Feb 25 2007,Atlanta Hawks,Phoenix Suns,106,115,Philips Arena,18022,/boxscores/200702250ATL.html
+Sun Feb 25 2007,Golden State Warriors,Los Angeles Lakers,85,102,Oracle Arena,20107,/boxscores/200702250GSW.html
+Sun Feb 25 2007,New Jersey Nets,New York Knicks,101,92,Continental Airlines Arena,20032,/boxscores/200702250NJN.html
+Sun Feb 25 2007,Indiana Pacers,Sacramento Kings,93,110,Conseco Fieldhouse,12258,/boxscores/200702250IND.html
+Mon Feb 26 2007,Philadelphia 76ers,Sacramento Kings,89,82,Wachovia Center,11034,/boxscores/200702260PHI.html
+Mon Feb 26 2007,New York Knicks,Miami Heat,99,93,Madison Square Garden (IV),19763,/boxscores/200702260NYK.html
+Mon Feb 26 2007,Memphis Grizzlies,Denver Nuggets,107,111,FedEx Forum,14736,/boxscores/200702260MEM.html
+Mon Feb 26 2007,San Antonio Spurs,Toronto Raptors,107,91,AT&T Center,18563,/boxscores/200702260SAS.html
+Mon Feb 26 2007,Chicago Bulls,Orlando Magic,87,94,United Center,22031,/boxscores/200702260CHI.html
+Mon Feb 26 2007,Dallas Mavericks,Atlanta Hawks,110,87,American Airlines Center,20245,/boxscores/200702260DAL.html
+Mon Feb 26 2007,Houston Rockets,Boston Celtics,72,77,Toyota Center,14037,/boxscores/200702260HOU.html
+Mon Feb 26 2007,Utah Jazz,Los Angeles Lakers,94,102,EnergySolutions Arena,19911,/boxscores/200702260UTA.html
+Mon Feb 26 2007,Seattle SuperSonics,Portland Trail Blazers,97,73,KeyArena at Seattle Center,16538,/boxscores/200702260SEA.html
+Mon Feb 26 2007,Los Angeles Clippers,Charlotte Bobcats,100,93,STAPLES Center,18442,/boxscores/200702260LAC.html
+Tue Feb 27 2007,Cleveland Cavaliers,New Orleans/Oklahoma City Hornets,97,89,Quicken Loans Arena,19619,/boxscores/200702270CLE.html
+Tue Feb 27 2007,Indiana Pacers,Phoenix Suns,92,103,Conseco Fieldhouse,13742,/boxscores/200702270IND.html
+Tue Feb 27 2007,New Jersey Nets,Washington Wizards,113,101,Continental Airlines Arena,15102,/boxscores/200702270NJN.html
+Tue Feb 27 2007,Milwaukee Bucks,Golden State Warriors,122,101,Bradley Center,13409,/boxscores/200702270MIL.html
+Tue Feb 27 2007,Minnesota Timberwolves,Dallas Mavericks,65,91,Target Center,13326,/boxscores/200702270MIN.html
+Wed Feb 28 2007,Philadelphia 76ers,Phoenix Suns,99,94,Wachovia Center,15914,/boxscores/200702280PHI.html
+Wed Feb 28 2007,Washington Wizards,Miami Heat,83,92,Verizon Center,20173,/boxscores/200702280WAS.html
+Wed Feb 28 2007,Boston Celtics,New York Knicks,102,94,TD Banknorth Garden,17003,/boxscores/200702280BOS.html
+Wed Feb 28 2007,Memphis Grizzlies,Utah Jazz,88,104,FedEx Forum,15117,/boxscores/200702280MEM.html
+Wed Feb 28 2007,New Orleans/Oklahoma City Hornets,Atlanta Hawks,107,100,Ford Center,17402,/boxscores/200702280NOK.html
+Wed Feb 28 2007,Chicago Bulls,Golden State Warriors,113,83,United Center,21814,/boxscores/200702280CHI.html
+Wed Feb 28 2007,Houston Rockets,Toronto Raptors,90,106,Toyota Center,14071,/boxscores/200702280HOU.html
+Wed Feb 28 2007,Denver Nuggets,Orlando Magic,111,101,Pepsi Center,15371,/boxscores/200702280DEN.html
+Wed Feb 28 2007,Sacramento Kings,Charlotte Bobcats,135,120,ARCO Arena (II),17317,/boxscores/200702280SAC.html
+Wed Feb 28 2007,Los Angeles Clippers,Seattle SuperSonics,96,91,STAPLES Center,19317,/boxscores/200702280LAC.html

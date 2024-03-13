@@ -1,0 +1,240 @@
+Thu Apr 1 2021,Cleveland Cavaliers,Philadelphia 76ers,94,114,Rocket Mortgage Fieldhouse,4100,/boxscores/202104010CLE.html
+Thu Apr 1 2021,Detroit Pistons,Washington Wizards,120,91,Little Caesars Arena,750,/boxscores/202104010DET.html
+Thu Apr 1 2021,Brooklyn Nets,Charlotte Hornets,111,89,Barclays Center,1773,/boxscores/202104010BRK.html
+Thu Apr 1 2021,Miami Heat,Golden State Warriors,116,109,AmericanAirlines Arena,0,/boxscores/202104010MIA.html
+Thu Apr 1 2021,New Orleans Pelicans,Orlando Magic,110,115,Smoothie King Center,3700,/boxscores/202104010NOP.html
+Thu Apr 1 2021,San Antonio Spurs,Atlanta Hawks,129,134,AT&T Center,2949,/boxscores/202104010SAS.html
+Thu Apr 1 2021,Los Angeles Clippers,Denver Nuggets,94,101,STAPLES Center,0,/boxscores/202104010LAC.html
+Fri Apr 2 2021,Toronto Raptors,Golden State Warriors,130,77,Amalie Arena,3085,/boxscores/202104020TOR.html
+Fri Apr 2 2021,Boston Celtics,Houston Rockets,118,102,TD Garden,0,/boxscores/202104020BOS.html
+Fri Apr 2 2021,New York Knicks,Dallas Mavericks,86,99,Madison Square Garden (IV),1981,/boxscores/202104020NYK.html
+Fri Apr 2 2021,Indiana Pacers,Charlotte Hornets,97,114,Bankers Life Fieldhouse,0,/boxscores/202104020IND.html
+Fri Apr 2 2021,Memphis Grizzlies,Minnesota Timberwolves,120,108,FedEx Forum,2987,/boxscores/202104020MEM.html
+Fri Apr 2 2021,New Orleans Pelicans,Atlanta Hawks,103,126,Smoothie King Center,3700,/boxscores/202104020NOP.html
+Fri Apr 2 2021,Utah Jazz,Chicago Bulls,113,106,Vivint Smart Home Arena,5546,/boxscores/202104020UTA.html
+Fri Apr 2 2021,Phoenix Suns,Oklahoma City Thunder,140,103,Phoenix Suns Arena,3422,/boxscores/202104020PHO.html
+Fri Apr 2 2021,Portland Trail Blazers,Milwaukee Bucks,109,127,Moda Center,0,/boxscores/202104020POR.html
+Fri Apr 2 2021,Sacramento Kings,Los Angeles Lakers,94,115,Golden 1 Center,0,/boxscores/202104020SAC.html
+Sat Apr 3 2021,Washington Wizards,Dallas Mavericks,87,109,Capital One Arena,0,/boxscores/202104030WAS.html
+Sat Apr 3 2021,Detroit Pistons,New York Knicks,81,125,Little Caesars Arena,750,/boxscores/202104030DET.html
+Sat Apr 3 2021,Miami Heat,Cleveland Cavaliers,115,101,AmericanAirlines Arena,0,/boxscores/202104030MIA.html
+Sat Apr 3 2021,Philadelphia 76ers,Minnesota Timberwolves,122,113,Wells Fargo Center,3071,/boxscores/202104030PHI.html
+Sat Apr 3 2021,San Antonio Spurs,Indiana Pacers,133,139,AT&T Center,3276,/boxscores/202104030SAS.html
+Sat Apr 3 2021,Utah Jazz,Orlando Magic,137,91,Vivint Smart Home Arena,5546,/boxscores/202104030UTA.html
+Sat Apr 3 2021,Portland Trail Blazers,Oklahoma City Thunder,133,85,Moda Center,0,/boxscores/202104030POR.html
+Sat Apr 3 2021,Sacramento Kings,Milwaukee Bucks,128,129,Golden 1 Center,0,/boxscores/202104030SAC.html
+Sun Apr 4 2021,Chicago Bulls,Brooklyn Nets,115,107,United Center,0,/boxscores/202104040CHI.html
+Sun Apr 4 2021,Los Angeles Clippers,Los Angeles Lakers,104,86,STAPLES Center,0,/boxscores/202104040LAC.html
+Sun Apr 4 2021,Boston Celtics,Charlotte Hornets,116,86,TD Garden,0,/boxscores/202104040BOS.html
+Sun Apr 4 2021,Philadelphia 76ers,Memphis Grizzlies,100,116,Wells Fargo Center,4094,/boxscores/202104040PHI.html
+Sun Apr 4 2021,Atlanta Hawks,Golden State Warriors,117,111,State Farm Arena,2937,/boxscores/202104040ATL.html
+Sun Apr 4 2021,Houston Rockets,New Orleans Pelicans,115,122,Toyota Center,3268,/boxscores/202104040HOU.html
+Sun Apr 4 2021,Denver Nuggets,Orlando Magic,119,109,Ball Arena,3927,/boxscores/202104040DEN.html
+Mon Apr 5 2021,Brooklyn Nets,New York Knicks,114,112,Barclays Center,1773,/boxscores/202104050BRK.html
+Mon Apr 5 2021,Dallas Mavericks,Utah Jazz,111,103,American Airlines Center,4261,/boxscores/202104050DAL.html
+Mon Apr 5 2021,Minnesota Timberwolves,Sacramento Kings,116,106,Target Center,1436,/boxscores/202104050MIN.html
+Mon Apr 5 2021,Oklahoma City Thunder,Detroit Pistons,108,132,Chesapeake Energy Arena,0,/boxscores/202104050OKC.html
+Mon Apr 5 2021,San Antonio Spurs,Cleveland Cavaliers,101,125,AT&T Center,2482,/boxscores/202104050SAS.html
+Mon Apr 5 2021,Toronto Raptors,Washington Wizards,103,101,Amalie Arena,1620,/boxscores/202104050TOR.html
+Mon Apr 5 2021,Houston Rockets,Phoenix Suns,130,133,Toyota Center,3093,/boxscores/202104050HOU.html
+Tue Apr 6 2021,Indiana Pacers,Chicago Bulls,97,113,Bankers Life Fieldhouse,0,/boxscores/202104060IND.html
+Tue Apr 6 2021,Atlanta Hawks,New Orleans Pelicans,123,107,State Farm Arena,2816,/boxscores/202104060ATL.html
+Tue Apr 6 2021,Boston Celtics,Philadelphia 76ers,96,106,TD Garden,2298,/boxscores/202104060BOS.html
+Tue Apr 6 2021,Toronto Raptors,Los Angeles Lakers,101,110,Amalie Arena,0,/boxscores/202104060TOR.html
+Tue Apr 6 2021,Miami Heat,Memphis Grizzlies,112,124,AmericanAirlines Arena,0,/boxscores/202104060MIA.html
+Tue Apr 6 2021,Denver Nuggets,Detroit Pistons,134,119,Ball Arena,3556,/boxscores/202104060DEN.html
+Tue Apr 6 2021,Golden State Warriors,Milwaukee Bucks,122,121,Chase Center,0,/boxscores/202104060GSW.html
+Tue Apr 6 2021,Los Angeles Clippers,Portland Trail Blazers,133,116,STAPLES Center,0,/boxscores/202104060LAC.html
+Wed Apr 7 2021,Indiana Pacers,Minnesota Timberwolves,141,137,Bankers Life Fieldhouse,0,/boxscores/202104070IND.html
+Wed Apr 7 2021,Orlando Magic,Washington Wizards,116,131,Amway Center,3991,/boxscores/202104070ORL.html
+Wed Apr 7 2021,Boston Celtics,New York Knicks,101,99,TD Garden,2298,/boxscores/202104070BOS.html
+Wed Apr 7 2021,Brooklyn Nets,New Orleans Pelicans,139,111,Barclays Center,1773,/boxscores/202104070BRK.html
+Wed Apr 7 2021,Atlanta Hawks,Memphis Grizzlies,113,131,State Farm Arena,2774,/boxscores/202104070ATL.html
+Wed Apr 7 2021,Houston Rockets,Dallas Mavericks,102,93,Toyota Center,3399,/boxscores/202104070HOU.html
+Wed Apr 7 2021,Oklahoma City Thunder,Charlotte Hornets,102,113,Chesapeake Energy Arena,0,/boxscores/202104070OKC.html
+Wed Apr 7 2021,Denver Nuggets,San Antonio Spurs,106,96,Ball Arena,3715,/boxscores/202104070DEN.html
+Wed Apr 7 2021,Phoenix Suns,Utah Jazz,117,113,Phoenix Suns Arena,5110,/boxscores/202104070PHO.html
+Thu Apr 8 2021,Miami Heat,Los Angeles Lakers,110,104,AmericanAirlines Arena,0,/boxscores/202104080MIA.html
+Thu Apr 8 2021,Toronto Raptors,Chicago Bulls,113,122,Amalie Arena,0,/boxscores/202104080TOR.html
+Thu Apr 8 2021,Oklahoma City Thunder,Cleveland Cavaliers,102,129,Chesapeake Energy Arena,0,/boxscores/202104080OKC.html
+Thu Apr 8 2021,Dallas Mavericks,Milwaukee Bucks,116,101,American Airlines Center,4190,/boxscores/202104080DAL.html
+Thu Apr 8 2021,Los Angeles Clippers,Phoenix Suns,113,103,STAPLES Center,0,/boxscores/202104080LAC.html
+Thu Apr 8 2021,Sacramento Kings,Detroit Pistons,101,113,Golden 1 Center,0,/boxscores/202104080SAC.html
+Thu Apr 8 2021,Utah Jazz,Portland Trail Blazers,122,103,Vivint Smart Home Arena,5546,/boxscores/202104080UTA.html
+Fri Apr 9 2021,Orlando Magic,Indiana Pacers,106,111,Amway Center,3777,/boxscores/202104090ORL.html
+Fri Apr 9 2021,Boston Celtics,Minnesota Timberwolves,145,136,TD Garden,2298,/boxscores/202104090BOS.html
+Fri Apr 9 2021,New York Knicks,Memphis Grizzlies,133,129,Madison Square Garden (IV),1912,/boxscores/202104090NYK.html
+Fri Apr 9 2021,Atlanta Hawks,Chicago Bulls,120,108,State Farm Arena,996,/boxscores/202104090ATL.html
+Fri Apr 9 2021,New Orleans Pelicans,Philadelphia 76ers,101,94,Smoothie King Center,3700,/boxscores/202104090NOP.html
+Fri Apr 9 2021,Denver Nuggets,San Antonio Spurs,121,119,Ball Arena,3750,/boxscores/202104090DEN.html
+Fri Apr 9 2021,Milwaukee Bucks,Charlotte Hornets,119,127,Fiserv Forum,3280,/boxscores/202104090MIL.html
+Fri Apr 9 2021,Golden State Warriors,Washington Wizards,107,110,Chase Center,0,/boxscores/202104090GSW.html
+Fri Apr 9 2021,Los Angeles Clippers,Houston Rockets,126,109,STAPLES Center,0,/boxscores/202104090LAC.html
+Sat Apr 10 2021,Cleveland Cavaliers,Toronto Raptors,115,135,Rocket Mortgage Fieldhouse,4148,/boxscores/202104100CLE.html
+Sat Apr 10 2021,Brooklyn Nets,Los Angeles Lakers,101,126,Barclays Center,1773,/boxscores/202104100BRK.html
+Sat Apr 10 2021,Oklahoma City Thunder,Philadelphia 76ers,93,117,Chesapeake Energy Arena,0,/boxscores/202104100OKC.html
+Sat Apr 10 2021,Utah Jazz,Sacramento Kings,128,112,Vivint Smart Home Arena,5546,/boxscores/202104100UTA.html
+Sat Apr 10 2021,Golden State Warriors,Houston Rockets,125,109,Chase Center,0,/boxscores/202104100GSW.html
+Sat Apr 10 2021,Phoenix Suns,Washington Wizards,134,106,Phoenix Suns Arena,5028,/boxscores/202104100PHO.html
+Sat Apr 10 2021,Portland Trail Blazers,Detroit Pistons,118,103,Moda Center,0,/boxscores/202104100POR.html
+Sun Apr 11 2021,Charlotte Hornets,Atlanta Hawks,101,105,Spectrum Center,4148,/boxscores/202104110CHO.html
+Sun Apr 11 2021,Denver Nuggets,Boston Celtics,87,105,Ball Arena,4032,/boxscores/202104110DEN.html
+Sun Apr 11 2021,Cleveland Cavaliers,New Orleans Pelicans,109,116,Rocket Mortgage Fieldhouse,4148,/boxscores/202104110CLE.html
+Sun Apr 11 2021,Orlando Magic,Milwaukee Bucks,87,124,Amway Center,3316,/boxscores/202104110ORL.html
+Sun Apr 11 2021,Dallas Mavericks,San Antonio Spurs,117,119,American Airlines Center,4054,/boxscores/202104110DAL.html
+Sun Apr 11 2021,Memphis Grizzlies,Indiana Pacers,125,132,FedEx Forum,2341,/boxscores/202104110MEM.html
+Sun Apr 11 2021,Minnesota Timberwolves,Chicago Bulls,121,117,Target Center,1436,/boxscores/202104110MIN.html
+Sun Apr 11 2021,New York Knicks,Toronto Raptors,102,96,Madison Square Garden (IV),1833,/boxscores/202104110NYK.html
+Sun Apr 11 2021,Los Angeles Clippers,Detroit Pistons,131,124,STAPLES Center,0,/boxscores/202104110LAC.html
+Sun Apr 11 2021,Portland Trail Blazers,Miami Heat,98,107,Moda Center,0,/boxscores/202104110POR.html
+Mon Apr 12 2021,Dallas Mavericks,Philadelphia 76ers,95,113,American Airlines Center,4016,/boxscores/202104120DAL.html
+Mon Apr 12 2021,New York Knicks,Los Angeles Lakers,111,96,Madison Square Garden (IV),1981,/boxscores/202104120NYK.html
+Mon Apr 12 2021,Orlando Magic,San Antonio Spurs,97,120,Amway Center,3107,/boxscores/202104120ORL.html
+Mon Apr 12 2021,Memphis Grizzlies,Chicago Bulls,101,90,FedEx Forum,2194,/boxscores/202104120MEM.html
+Mon Apr 12 2021,New Orleans Pelicans,Sacramento Kings,117,110,Smoothie King Center,3700,/boxscores/202104120NOP.html
+Mon Apr 12 2021,Utah Jazz,Washington Wizards,121,125,Vivint Smart Home Arena,5546,/boxscores/202104120UTA.html
+Mon Apr 12 2021,Golden State Warriors,Denver Nuggets,116,107,Chase Center,0,/boxscores/202104120GSW.html
+Mon Apr 12 2021,Phoenix Suns,Houston Rockets,126,120,Phoenix Suns Arena,4145,/boxscores/202104120PHO.html
+Tue Apr 13 2021,Minnesota Timberwolves,Brooklyn Nets,97,127,Target Center,0,/boxscores/202104130MIN.html
+Tue Apr 13 2021,Indiana Pacers,Los Angeles Clippers,115,126,Bankers Life Fieldhouse,0,/boxscores/202104130IND.html
+Tue Apr 13 2021,Toronto Raptors,Atlanta Hawks,103,108,Amalie Arena,1427,/boxscores/202104130TOR.html
+Tue Apr 13 2021,Charlotte Hornets,Los Angeles Lakers,93,101,Spectrum Center,3676,/boxscores/202104130CHO.html
+Tue Apr 13 2021,Utah Jazz,Oklahoma City Thunder,106,96,Vivint Smart Home Arena,5546,/boxscores/202104130UTA.html
+Tue Apr 13 2021,Phoenix Suns,Miami Heat,106,86,Phoenix Suns Arena,5024,/boxscores/202104130PHO.html
+Tue Apr 13 2021,Portland Trail Blazers,Boston Celtics,115,116,Moda Center,0,/boxscores/202104130POR.html
+Wed Apr 14 2021,Minnesota Timberwolves,Milwaukee Bucks,105,130,Target Center,0,/boxscores/202104140MIN.html
+Wed Apr 14 2021,Charlotte Hornets,Cleveland Cavaliers,90,103,Spectrum Center,2955,/boxscores/202104140CHO.html
+Wed Apr 14 2021,Philadelphia 76ers,Brooklyn Nets,123,117,Wells Fargo Center,4094,/boxscores/202104140PHI.html
+Wed Apr 14 2021,Toronto Raptors,San Antonio Spurs,117,112,Amalie Arena,1184,/boxscores/202104140TOR.html
+Wed Apr 14 2021,Chicago Bulls,Orlando Magic,106,115,United Center,0,/boxscores/202104140CHI.html
+Wed Apr 14 2021,Detroit Pistons,Los Angeles Clippers,98,100,Little Caesars Arena,750,/boxscores/202104140DET.html
+Wed Apr 14 2021,New Orleans Pelicans,New York Knicks,106,116,Smoothie King Center,3700,/boxscores/202104140NOP.html
+Wed Apr 14 2021,Houston Rockets,Indiana Pacers,124,132,Toyota Center,3293,/boxscores/202104140HOU.html
+Wed Apr 14 2021,Oklahoma City Thunder,Golden State Warriors,109,147,Chesapeake Energy Arena,0,/boxscores/202104140OKC.html
+Wed Apr 14 2021,Memphis Grizzlies,Dallas Mavericks,113,114,FedEx Forum,2141,/boxscores/202104140MEM.html
+Wed Apr 14 2021,Denver Nuggets,Miami Heat,123,106,Ball Arena,4017,/boxscores/202104140DEN.html
+Wed Apr 14 2021,Sacramento Kings,Washington Wizards,111,123,Golden 1 Center,0,/boxscores/202104140SAC.html
+Thu Apr 15 2021,Atlanta Hawks,Milwaukee Bucks,109,120,State Farm Arena,0,/boxscores/202104150ATL.html
+Thu Apr 15 2021,Cleveland Cavaliers,Golden State Warriors,101,119,Rocket Mortgage Fieldhouse,4148,/boxscores/202104150CLE.html
+Thu Apr 15 2021,Los Angeles Lakers,Boston Celtics,113,121,STAPLES Center,1915,/boxscores/202104150LAL.html
+Thu Apr 15 2021,Phoenix Suns,Sacramento Kings,122,114,Phoenix Suns Arena,4568,/boxscores/202104150PHO.html
+Fri Apr 16 2021,Utah Jazz,Indiana Pacers,119,111,Vivint Smart Home Arena,5546,/boxscores/202104160UTA.html
+Fri Apr 16 2021,Detroit Pistons,Oklahoma City Thunder,110,104,Little Caesars Arena,750,/boxscores/202104160DET.html
+Fri Apr 16 2021,Philadelphia 76ers,Los Angeles Clippers,106,103,Wells Fargo Center,4094,/boxscores/202104160PHI.html
+Fri Apr 16 2021,Washington Wizards,New Orleans Pelicans,117,115,Capital One Arena,0,/boxscores/202104160WAS.html
+Fri Apr 16 2021,Brooklyn Nets,Charlotte Hornets,130,115,Barclays Center,1773,/boxscores/202104160BRK.html
+Fri Apr 16 2021,Toronto Raptors,Orlando Magic,113,102,Amalie Arena,0,/boxscores/202104160TOR.html
+Fri Apr 16 2021,Chicago Bulls,Memphis Grizzlies,115,126,United Center,0,/boxscores/202104160CHI.html
+Fri Apr 16 2021,Houston Rockets,Denver Nuggets,99,128,Toyota Center,3342,/boxscores/202104160HOU.html
+Fri Apr 16 2021,Minnesota Timberwolves,Miami Heat,119,111,Target Center,1638,/boxscores/202104160MIN.html
+Fri Apr 16 2021,San Antonio Spurs,Portland Trail Blazers,106,107,AT&T Center,4303,/boxscores/202104160SAS.html
+Fri Apr 16 2021,Dallas Mavericks,New York Knicks,109,117,American Airlines Center,4246,/boxscores/202104160DAL.html
+Sat Apr 17 2021,Los Angeles Lakers,Utah Jazz,127,115,STAPLES Center,1710,/boxscores/202104170LAL.html
+Sat Apr 17 2021,Chicago Bulls,Cleveland Cavaliers,106,96,United Center,0,/boxscores/202104170CHI.html
+Sat Apr 17 2021,Washington Wizards,Detroit Pistons,121,100,Capital One Arena,0,/boxscores/202104170WAS.html
+Sat Apr 17 2021,Boston Celtics,Golden State Warriors,119,114,TD Garden,2298,/boxscores/202104170BOS.html
+Sat Apr 17 2021,Milwaukee Bucks,Memphis Grizzlies,115,128,Fiserv Forum,3280,/boxscores/202104170MIL.html
+Sat Apr 17 2021,Phoenix Suns,San Antonio Spurs,85,111,Phoenix Suns Arena,5078,/boxscores/202104170PHO.html
+Sun Apr 18 2021,Atlanta Hawks,Indiana Pacers,129,117,State Farm Arena,0,/boxscores/202104180ATL.html
+Sun Apr 18 2021,New York Knicks,New Orleans Pelicans,122,112,Madison Square Garden (IV),1981,/boxscores/202104180NYK.html
+Sun Apr 18 2021,Miami Heat,Brooklyn Nets,109,107,AmericanAirlines Arena,0,/boxscores/202104180MIA.html
+Sun Apr 18 2021,Charlotte Hornets,Portland Trail Blazers,109,101,Spectrum Center,3880,/boxscores/202104180CHO.html
+Sun Apr 18 2021,Orlando Magic,Houston Rockets,110,114,Amway Center,3772,/boxscores/202104180ORL.html
+Sun Apr 18 2021,Toronto Raptors,Oklahoma City Thunder,112,106,Amalie Arena,0,/boxscores/202104180TOR.html
+Sun Apr 18 2021,Dallas Mavericks,Sacramento Kings,107,121,American Airlines Center,4193,/boxscores/202104180DAL.html
+Sun Apr 18 2021,Los Angeles Clippers,Minnesota Timberwolves,124,105,STAPLES Center,1734,/boxscores/202104180LAC.html
+Mon Apr 19 2021,Detroit Pistons,Cleveland Cavaliers,109,105,Little Caesars Arena,750,/boxscores/202104190DET.html
+Mon Apr 19 2021,Boston Celtics,Chicago Bulls,96,102,TD Garden,0,/boxscores/202104190BOS.html
+Mon Apr 19 2021,Philadelphia 76ers,Golden State Warriors,96,107,Wells Fargo Center,4094,/boxscores/202104190PHI.html
+Mon Apr 19 2021,Indiana Pacers,San Antonio Spurs,94,109,Bankers Life Fieldhouse,0,/boxscores/202104190IND.html
+Mon Apr 19 2021,Miami Heat,Houston Rockets,113,91,AmericanAirlines Arena,0,/boxscores/202104190MIA.html
+Mon Apr 19 2021,Milwaukee Bucks,Phoenix Suns,127,128,Fiserv Forum,3280,/boxscores/202104190MIL.html
+Mon Apr 19 2021,Washington Wizards,Oklahoma City Thunder,119,107,Capital One Arena,0,/boxscores/202104190WAS.html
+Mon Apr 19 2021,Denver Nuggets,Memphis Grizzlies,139,137,Ball Arena,4005,/boxscores/202104190DEN.html
+Mon Apr 19 2021,Los Angeles Lakers,Utah Jazz,97,111,STAPLES Center,1709,/boxscores/202104190LAL.html
+Tue Apr 20 2021,Atlanta Hawks,Orlando Magic,112,96,State Farm Arena,2219,/boxscores/202104200ATL.html
+Tue Apr 20 2021,New Orleans Pelicans,Brooklyn Nets,129,134,Smoothie King Center,3700,/boxscores/202104200NOP.html
+Tue Apr 20 2021,New York Knicks,Charlotte Hornets,109,97,Madison Square Garden (IV),1753,/boxscores/202104200NYK.html
+Tue Apr 20 2021,Portland Trail Blazers,Los Angeles Clippers,112,113,Moda Center,0,/boxscores/202104200POR.html
+Tue Apr 20 2021,Sacramento Kings,Minnesota Timberwolves,120,134,Golden 1 Center,0,/boxscores/202104200SAC.html
+Wed Apr 21 2021,Cleveland Cavaliers,Chicago Bulls,121,105,Rocket Mortgage Fieldhouse,0,/boxscores/202104210CLE.html
+Wed Apr 21 2021,Indiana Pacers,Oklahoma City Thunder,122,116,Bankers Life Fieldhouse,0,/boxscores/202104210IND.html
+Wed Apr 21 2021,Philadelphia 76ers,Phoenix Suns,113,116,Wells Fargo Center,4094,/boxscores/202104210PHI.html
+Wed Apr 21 2021,Toronto Raptors,Brooklyn Nets,114,103,Amalie Arena,0,/boxscores/202104210TOR.html
+Wed Apr 21 2021,Washington Wizards,Golden State Warriors,118,114,Capital One Arena,2133,/boxscores/202104210WAS.html
+Wed Apr 21 2021,Houston Rockets,Utah Jazz,89,112,Toyota Center,3253,/boxscores/202104210HOU.html
+Wed Apr 21 2021,New York Knicks,Atlanta Hawks,137,127,Madison Square Garden (IV),1981,/boxscores/202104210NYK.html
+Wed Apr 21 2021,Dallas Mavericks,Detroit Pistons,127,117,American Airlines Center,4043,/boxscores/202104210DAL.html
+Wed Apr 21 2021,San Antonio Spurs,Miami Heat,87,107,AT&T Center,4229,/boxscores/202104210SAS.html
+Wed Apr 21 2021,Los Angeles Clippers,Memphis Grizzlies,117,105,STAPLES Center,1782,/boxscores/202104210LAC.html
+Wed Apr 21 2021,Portland Trail Blazers,Denver Nuggets,105,106,Moda Center,0,/boxscores/202104210POR.html
+Wed Apr 21 2021,Sacramento Kings,Minnesota Timberwolves,128,125,Golden 1 Center,0,/boxscores/202104210SAC.html
+Thu Apr 22 2021,Boston Celtics,Phoenix Suns,99,86,TD Garden,2298,/boxscores/202104220BOS.html
+Thu Apr 22 2021,Milwaukee Bucks,Philadelphia 76ers,124,117,Fiserv Forum,3280,/boxscores/202104220MIL.html
+Thu Apr 22 2021,Orlando Magic,New Orleans Pelicans,100,135,Amway Center,3411,/boxscores/202104220ORL.html
+Thu Apr 22 2021,San Antonio Spurs,Detroit Pistons,106,91,AT&T Center,3334,/boxscores/202104220SAS.html
+Thu Apr 22 2021,Chicago Bulls,Charlotte Hornets,108,91,United Center,0,/boxscores/202104220CHI.html
+Thu Apr 22 2021,Dallas Mavericks,Los Angeles Lakers,115,110,American Airlines Center,4443,/boxscores/202104220DAL.html
+Fri Apr 23 2021,Atlanta Hawks,Miami Heat,118,103,State Farm Arena,2985,/boxscores/202104230ATL.html
+Fri Apr 23 2021,Brooklyn Nets,Boston Celtics,109,104,Barclays Center,1773,/boxscores/202104230BRK.html
+Fri Apr 23 2021,Charlotte Hornets,Cleveland Cavaliers,108,102,Spectrum Center,4060,/boxscores/202104230CHO.html
+Fri Apr 23 2021,Houston Rockets,Los Angeles Clippers,104,109,Toyota Center,3313,/boxscores/202104230HOU.html
+Fri Apr 23 2021,Oklahoma City Thunder,Washington Wizards,109,129,Chesapeake Energy Arena,0,/boxscores/202104230OKC.html
+Fri Apr 23 2021,Golden State Warriors,Denver Nuggets,118,97,Chase Center,1935,/boxscores/202104230GSW.html
+Fri Apr 23 2021,Portland Trail Blazers,Memphis Grizzlies,128,130,Moda Center,0,/boxscores/202104230POR.html
+Sat Apr 24 2021,New York Knicks,Toronto Raptors,120,103,Madison Square Garden (IV),1981,/boxscores/202104240NYK.html
+Sat Apr 24 2021,Milwaukee Bucks,Philadelphia 76ers,132,94,Fiserv Forum,3280,/boxscores/202104240MIL.html
+Sat Apr 24 2021,Indiana Pacers,Detroit Pistons,115,109,Bankers Life Fieldhouse,0,/boxscores/202104240IND.html
+Sat Apr 24 2021,Miami Heat,Chicago Bulls,106,101,AmericanAirlines Arena,0,/boxscores/202104240MIA.html
+Sat Apr 24 2021,New Orleans Pelicans,San Antonio Spurs,108,110,Smoothie King Center,3700,/boxscores/202104240NOP.html
+Sat Apr 24 2021,Dallas Mavericks,Los Angeles Lakers,108,93,American Airlines Center,4561,/boxscores/202104240DAL.html
+Sat Apr 24 2021,Utah Jazz,Minnesota Timberwolves,96,101,Vivint Smart Home Arena,0,/boxscores/202104240UTA.html
+Sat Apr 24 2021,Denver Nuggets,Houston Rockets,129,116,Ball Arena,4035,/boxscores/202104240DEN.html
+Sun Apr 25 2021,Charlotte Hornets,Boston Celtics,125,104,Spectrum Center,4493,/boxscores/202104250CHO.html
+Sun Apr 25 2021,Brooklyn Nets,Phoenix Suns,128,119,Barclays Center,1773,/boxscores/202104250BRK.html
+Sun Apr 25 2021,Portland Trail Blazers,Memphis Grizzlies,113,120,Moda Center,0,/boxscores/202104250POR.html
+Sun Apr 25 2021,Washington Wizards,Cleveland Cavaliers,119,110,Capital One Arena,2133,/boxscores/202104250WAS.html
+Sun Apr 25 2021,Atlanta Hawks,Milwaukee Bucks,111,104,State Farm Arena,3010,/boxscores/202104250ATL.html
+Sun Apr 25 2021,Orlando Magic,Indiana Pacers,112,131,Amway Center,3519,/boxscores/202104250ORL.html
+Sun Apr 25 2021,Golden State Warriors,Sacramento Kings,117,113,Chase Center,3252,/boxscores/202104250GSW.html
+Mon Apr 26 2021,Detroit Pistons,Atlanta Hawks,100,86,Little Caesars Arena,750,/boxscores/202104260DET.html
+Mon Apr 26 2021,Orlando Magic,Los Angeles Lakers,103,114,Amway Center,4099,/boxscores/202104260ORL.html
+Mon Apr 26 2021,Philadelphia 76ers,Oklahoma City Thunder,121,90,Wells Fargo Center,4094,/boxscores/202104260PHI.html
+Mon Apr 26 2021,Washington Wizards,San Antonio Spurs,143,146,Capital One Arena,2133,/boxscores/202104260WAS.html
+Mon Apr 26 2021,New York Knicks,Phoenix Suns,110,118,Madison Square Garden (IV),1981,/boxscores/202104260NYK.html
+Mon Apr 26 2021,Toronto Raptors,Cleveland Cavaliers,112,96,Amalie Arena,1626,/boxscores/202104260TOR.html
+Mon Apr 26 2021,Miami Heat,Chicago Bulls,102,110,AmericanAirlines Arena,0,/boxscores/202104260MIA.html
+Mon Apr 26 2021,Minnesota Timberwolves,Utah Jazz,105,104,Target Center,1638,/boxscores/202104260MIN.html
+Mon Apr 26 2021,New Orleans Pelicans,Los Angeles Clippers,120,103,Smoothie King Center,3700,/boxscores/202104260NOP.html
+Mon Apr 26 2021,Denver Nuggets,Memphis Grizzlies,120,96,Ball Arena,3823,/boxscores/202104260DEN.html
+Mon Apr 26 2021,Sacramento Kings,Dallas Mavericks,113,106,Golden 1 Center,0,/boxscores/202104260SAC.html
+Tue Apr 27 2021,Boston Celtics,Oklahoma City Thunder,115,119,TD Garden,2298,/boxscores/202104270BOS.html
+Tue Apr 27 2021,Charlotte Hornets,Milwaukee Bucks,104,114,Spectrum Center,3240,/boxscores/202104270CHO.html
+Tue Apr 27 2021,Indiana Pacers,Portland Trail Blazers,112,133,Bankers Life Fieldhouse,0,/boxscores/202104270IND.html
+Tue Apr 27 2021,Toronto Raptors,Brooklyn Nets,103,116,Amalie Arena,0,/boxscores/202104270TOR.html
+Tue Apr 27 2021,Houston Rockets,Minnesota Timberwolves,107,114,Toyota Center,3225,/boxscores/202104270HOU.html
+Tue Apr 27 2021,Golden State Warriors,Dallas Mavericks,103,133,Chase Center,3613,/boxscores/202104270GSW.html
+Wed Apr 28 2021,Cleveland Cavaliers,Orlando Magic,104,109,Rocket Mortgage Fieldhouse,4148,/boxscores/202104280CLE.html
+Wed Apr 28 2021,Philadelphia 76ers,Atlanta Hawks,127,83,Wells Fargo Center,4094,/boxscores/202104280PHI.html
+Wed Apr 28 2021,Boston Celtics,Charlotte Hornets,120,111,TD Garden,2298,/boxscores/202104280BOS.html
+Wed Apr 28 2021,New York Knicks,Chicago Bulls,113,94,Madison Square Garden (IV),1981,/boxscores/202104280NYK.html
+Wed Apr 28 2021,Washington Wizards,Los Angeles Lakers,116,107,Capital One Arena,2133,/boxscores/202104280WAS.html
+Wed Apr 28 2021,Miami Heat,San Antonio Spurs,116,111,AmericanAirlines Arena,0,/boxscores/202104280MIA.html
+Wed Apr 28 2021,Denver Nuggets,New Orleans Pelicans,114,112,Ball Arena,4022,/boxscores/202104280DEN.html
+Wed Apr 28 2021,Memphis Grizzlies,Portland Trail Blazers,109,130,FedEx Forum,3427,/boxscores/202104280MEM.html
+Wed Apr 28 2021,Phoenix Suns,Los Angeles Clippers,109,101,Phoenix Suns Arena,5917,/boxscores/202104280PHO.html
+Wed Apr 28 2021,Sacramento Kings,Utah Jazz,105,154,Golden 1 Center,0,/boxscores/202104280SAC.html
+Thu Apr 29 2021,Detroit Pistons,Dallas Mavericks,105,115,Little Caesars Arena,750,/boxscores/202104290DET.html
+Thu Apr 29 2021,Indiana Pacers,Brooklyn Nets,113,130,Bankers Life Fieldhouse,0,/boxscores/202104290IND.html
+Thu Apr 29 2021,Houston Rockets,Milwaukee Bucks,143,136,Toyota Center,3232,/boxscores/202104290HOU.html
+Thu Apr 29 2021,Minnesota Timberwolves,Golden State Warriors,126,114,Target Center,1638,/boxscores/202104290MIN.html
+Thu Apr 29 2021,Denver Nuggets,Toronto Raptors,121,111,Ball Arena,4025,/boxscores/202104290DEN.html
+Thu Apr 29 2021,Oklahoma City Thunder,New Orleans Pelicans,95,109,Chesapeake Energy Arena,0,/boxscores/202104290OKC.html
+Fri Apr 30 2021,Philadelphia 76ers,Atlanta Hawks,126,104,Wells Fargo Center,4094,/boxscores/202104300PHI.html
+Fri Apr 30 2021,Boston Celtics,San Antonio Spurs,143,140,TD Garden,2298,/boxscores/202104300BOS.html
+Fri Apr 30 2021,Cleveland Cavaliers,Washington Wizards,93,122,Rocket Mortgage Fieldhouse,4148,/boxscores/202104300CLE.html
+Fri Apr 30 2021,Brooklyn Nets,Portland Trail Blazers,109,128,Barclays Center,1773,/boxscores/202104300BRK.html
+Fri Apr 30 2021,Memphis Grizzlies,Orlando Magic,92,75,FedEx Forum,2850,/boxscores/202104300MEM.html
+Fri Apr 30 2021,Chicago Bulls,Milwaukee Bucks,98,108,United Center,0,/boxscores/202104300CHI.html
+Fri Apr 30 2021,Phoenix Suns,Utah Jazz,121,100,Phoenix Suns Arena,6065,/boxscores/202104300PHO.html
+Fri Apr 30 2021,Los Angeles Lakers,Sacramento Kings,106,110,STAPLES Center,2691,/boxscores/202104300LAL.html

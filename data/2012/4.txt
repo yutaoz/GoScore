@@ -1,0 +1,225 @@
+Sun Apr 1 2012,Oklahoma City Thunder,Chicago Bulls,92,78,Chesapeake Energy Arena,18203,/boxscores/201204010OKC.html
+Sun Apr 1 2012,Boston Celtics,Miami Heat,91,72,TD Garden,18624,/boxscores/201204010BOS.html
+Sun Apr 1 2012,Orlando Magic,Denver Nuggets,101,104,Amway Center,18846,/boxscores/201204010ORL.html
+Sun Apr 1 2012,Toronto Raptors,Washington Wizards,99,92,Air Canada Centre,16858,/boxscores/201204010TOR.html
+Sun Apr 1 2012,Houston Rockets,Indiana Pacers,102,104,Toyota Center,18197,/boxscores/201204010HOU.html
+Sun Apr 1 2012,Phoenix Suns,New Orleans Hornets,92,75,US Airways Center,15753,/boxscores/201204010PHO.html
+Sun Apr 1 2012,Portland Trail Blazers,Minnesota Timberwolves,119,106,Rose Garden Arena,20359,/boxscores/201204010POR.html
+Sun Apr 1 2012,Los Angeles Lakers,Golden State Warriors,120,112,STAPLES Center,18997,/boxscores/201204010LAL.html
+Mon Apr 2 2012,Washington Wizards,Milwaukee Bucks,98,112,Verizon Center,16234,/boxscores/201204020WAS.html
+Mon Apr 2 2012,Chicago Bulls,Houston Rockets,93,99,United Center,21936,/boxscores/201204020CHI.html
+Mon Apr 2 2012,Oklahoma City Thunder,Memphis Grizzlies,88,94,Chesapeake Energy Arena,18203,/boxscores/201204020OKC.html
+Mon Apr 2 2012,Dallas Mavericks,Los Angeles Clippers,75,94,American Airlines Center,20479,/boxscores/201204020DAL.html
+Mon Apr 2 2012,Portland Trail Blazers,Utah Jazz,97,102,Rose Garden Arena,20050,/boxscores/201204020POR.html
+Mon Apr 2 2012,Sacramento Kings,Minnesota Timberwolves,116,108,Power Balance Pavilion,12279,/boxscores/201204020SAC.html
+Tue Apr 3 2012,Cleveland Cavaliers,San Antonio Spurs,90,125,Quicken Loans Arena,14759,/boxscores/201204030CLE.html
+Tue Apr 3 2012,Indiana Pacers,New York Knicks,112,104,Bankers Life Fieldhouse,17042,/boxscores/201204030IND.html
+Tue Apr 3 2012,Toronto Raptors,Charlotte Bobcats,92,87,Air Canada Centre,14640,/boxscores/201204030TOR.html
+Tue Apr 3 2012,Detroit Pistons,Orlando Magic,102,95,The Palace of Auburn Hills,16741,/boxscores/201204030DET.html
+Tue Apr 3 2012,Miami Heat,Philadelphia 76ers,99,93,AmericanAirlines Arena,20015,/boxscores/201204030MIA.html
+Tue Apr 3 2012,Memphis Grizzlies,Golden State Warriors,98,94,FedEx Forum,14310,/boxscores/201204030MEM.html
+Tue Apr 3 2012,Sacramento Kings,Phoenix Suns,100,109,Power Balance Pavilion,12462,/boxscores/201204030SAC.html
+Tue Apr 3 2012,Los Angeles Lakers,New Jersey Nets,91,87,STAPLES Center,18997,/boxscores/201204030LAL.html
+Wed Apr 4 2012,Philadelphia 76ers,Toronto Raptors,78,99,Wells Fargo Center,18186,/boxscores/201204040PHI.html
+Wed Apr 4 2012,Washington Wizards,Indiana Pacers,96,109,Verizon Center,14561,/boxscores/201204040WAS.html
+Wed Apr 4 2012,Atlanta Hawks,Charlotte Bobcats,120,93,Philips Arena,13046,/boxscores/201204040ATL.html
+Wed Apr 4 2012,Boston Celtics,San Antonio Spurs,86,87,TD Garden,18624,/boxscores/201204040BOS.html
+Wed Apr 4 2012,Miami Heat,Oklahoma City Thunder,98,93,AmericanAirlines Arena,20104,/boxscores/201204040MIA.html
+Wed Apr 4 2012,Milwaukee Bucks,Cleveland Cavaliers,107,98,Bradley Center,11849,/boxscores/201204040MIL.html
+Wed Apr 4 2012,Minnesota Timberwolves,Golden State Warriors,94,97,Target Center,17161,/boxscores/201204040MIN.html
+Wed Apr 4 2012,New Orleans Hornets,Denver Nuggets,94,92,New Orleans Arena,15020,/boxscores/201204040NOH.html
+Wed Apr 4 2012,Dallas Mavericks,Memphis Grizzlies,95,85,American Airlines Center,20233,/boxscores/201204040DAL.html
+Wed Apr 4 2012,Utah Jazz,Phoenix Suns,105,107,EnergySolutions Arena,19911,/boxscores/201204040UTA.html
+Wed Apr 4 2012,Portland Trail Blazers,New Jersey Nets,101,88,Rose Garden Arena,20464,/boxscores/201204040POR.html
+Wed Apr 4 2012,Los Angeles Clippers,Los Angeles Lakers,108,113,STAPLES Center,19819,/boxscores/201204040LAC.html
+Thu Apr 5 2012,Orlando Magic,New York Knicks,80,96,Amway Center,19098,/boxscores/201204050ORL.html
+Thu Apr 5 2012,Detroit Pistons,Washington Wizards,99,94,The Palace of Auburn Hills,12681,/boxscores/201204050DET.html
+Thu Apr 5 2012,Chicago Bulls,Boston Celtics,93,86,United Center,22423,/boxscores/201204050CHI.html
+Thu Apr 5 2012,Sacramento Kings,Los Angeles Clippers,85,93,Power Balance Pavilion,14411,/boxscores/201204050SAC.html
+Fri Apr 6 2012,Indiana Pacers,Oklahoma City Thunder,103,98,Bankers Life Fieldhouse,18165,/boxscores/201204060IND.html
+Fri Apr 6 2012,Atlanta Hawks,Detroit Pistons,101,96,Philips Arena,15143,/boxscores/201204060ATL.html
+Fri Apr 6 2012,Miami Heat,Memphis Grizzlies,82,97,AmericanAirlines Arena,20008,/boxscores/201204060MIA.html
+Fri Apr 6 2012,New Jersey Nets,Washington Wizards,110,98,Prudential Center,12783,/boxscores/201204060NJN.html
+Fri Apr 6 2012,Toronto Raptors,Cleveland Cavaliers,80,84,Air Canada Centre,16565,/boxscores/201204060TOR.html
+Fri Apr 6 2012,Dallas Mavericks,Portland Trail Blazers,97,99,American Airlines Center,20544,/boxscores/201204060DAL.html
+Fri Apr 6 2012,Milwaukee Bucks,Charlotte Bobcats,95,90,Bradley Center,13374,/boxscores/201204060MIL.html
+Fri Apr 6 2012,San Antonio Spurs,New Orleans Hornets,128,103,AT&T Center,18581,/boxscores/201204060SAS.html
+Fri Apr 6 2012,Denver Nuggets,Phoenix Suns,105,99,Pepsi Center,19155,/boxscores/201204060DEN.html
+Fri Apr 6 2012,Utah Jazz,Golden State Warriors,104,98,EnergySolutions Arena,18933,/boxscores/201204060UTA.html
+Fri Apr 6 2012,Los Angeles Lakers,Houston Rockets,107,112,STAPLES Center,18997,/boxscores/201204060LAL.html
+Sat Apr 7 2012,Indiana Pacers,Boston Celtics,72,86,Bankers Life Fieldhouse,16892,/boxscores/201204070IND.html
+Sat Apr 7 2012,Charlotte Bobcats,Atlanta Hawks,96,116,Time Warner Cable Arena,14715,/boxscores/201204070CHA.html
+Sat Apr 7 2012,Memphis Grizzlies,Dallas Mavericks,94,89,FedEx Forum,18119,/boxscores/201204070MEM.html
+Sat Apr 7 2012,New Orleans Hornets,Minnesota Timberwolves,99,90,New Orleans Arena,15520,/boxscores/201204070NOH.html
+Sat Apr 7 2012,Philadelphia 76ers,Orlando Magic,82,88,Wells Fargo Center,19775,/boxscores/201204070PHI.html
+Sat Apr 7 2012,Milwaukee Bucks,Portland Trail Blazers,116,94,Bradley Center,14969,/boxscores/201204070MIL.html
+Sat Apr 7 2012,Phoenix Suns,Los Angeles Lakers,125,105,US Airways Center,18237,/boxscores/201204070PHO.html
+Sat Apr 7 2012,Golden State Warriors,Denver Nuggets,112,97,Oracle Arena,18942,/boxscores/201204070GSW.html
+Sat Apr 7 2012,Los Angeles Clippers,Sacramento Kings,109,94,STAPLES Center,19060,/boxscores/201204070LAC.html
+Sun Apr 8 2012,New York Knicks,Chicago Bulls,100,99,Madison Square Garden (IV),19763,/boxscores/201204080NYK.html
+Sun Apr 8 2012,Boston Celtics,Philadelphia 76ers,103,79,TD Garden,18624,/boxscores/201204080BOS.html
+Sun Apr 8 2012,Miami Heat,Detroit Pistons,98,75,AmericanAirlines Arena,20017,/boxscores/201204080MIA.html
+Sun Apr 8 2012,New Jersey Nets,Cleveland Cavaliers,122,117,Prudential Center,11341,/boxscores/201204080NJN.html
+Sun Apr 8 2012,Oklahoma City Thunder,Toronto Raptors,91,75,Chesapeake Energy Arena,18203,/boxscores/201204080OKC.html
+Sun Apr 8 2012,San Antonio Spurs,Utah Jazz,114,104,AT&T Center,18581,/boxscores/201204080SAS.html
+Sun Apr 8 2012,Sacramento Kings,Houston Rockets,87,104,Power Balance Pavilion,13299,/boxscores/201204080SAC.html
+Mon Apr 9 2012,Charlotte Bobcats,Washington Wizards,85,113,Time Warner Cable Arena,10303,/boxscores/201204090CHA.html
+Mon Apr 9 2012,Indiana Pacers,Toronto Raptors,103,98,Bankers Life Fieldhouse,11021,/boxscores/201204090IND.html
+Mon Apr 9 2012,Orlando Magic,Detroit Pistons,119,89,Amway Center,18998,/boxscores/201204090ORL.html
+Mon Apr 9 2012,Memphis Grizzlies,Los Angeles Clippers,94,85,FedEx Forum,17219,/boxscores/201204090MEM.html
+Mon Apr 9 2012,Milwaukee Bucks,Oklahoma City Thunder,89,109,Bradley Center,14111,/boxscores/201204090MIL.html
+Mon Apr 9 2012,New Orleans Hornets,Los Angeles Lakers,91,93,New Orleans Arena,17275,/boxscores/201204090NOH.html
+Mon Apr 9 2012,Denver Nuggets,Golden State Warriors,123,84,Pepsi Center,15530,/boxscores/201204090DEN.html
+Mon Apr 9 2012,Minnesota Timberwolves,Phoenix Suns,90,114,Target Center,17274,/boxscores/201204090MIN.html
+Mon Apr 9 2012,Utah Jazz,San Antonio Spurs,91,84,EnergySolutions Arena,19911,/boxscores/201204090UTA.html
+Mon Apr 9 2012,Portland Trail Blazers,Houston Rockets,89,94,Rose Garden Arena,20487,/boxscores/201204090POR.html
+Tue Apr 10 2012,Cleveland Cavaliers,Charlotte Bobcats,103,90,Quicken Loans Arena,13576,/boxscores/201204100CLE.html
+Tue Apr 10 2012,Miami Heat,Boston Celtics,107,115,AmericanAirlines Arena,19954,/boxscores/201204100MIA.html
+Tue Apr 10 2012,Washington Wizards,Orlando Magic,93,85,Verizon Center,15355,/boxscores/201204100WAS.html
+Tue Apr 10 2012,New Jersey Nets,Philadelphia 76ers,88,107,Prudential Center,15376,/boxscores/201204100NJN.html
+Tue Apr 10 2012,Dallas Mavericks,Sacramento Kings,110,100,American Airlines Center,20241,/boxscores/201204100DAL.html
+Tue Apr 10 2012,Chicago Bulls,New York Knicks,98,86,United Center,22131,/boxscores/201204100CHI.html
+Wed Apr 11 2012,Cleveland Cavaliers,Indiana Pacers,98,104,Quicken Loans Arena,14307,/boxscores/201204110CLE.html
+Wed Apr 11 2012,Toronto Raptors,Philadelphia 76ers,75,93,Air Canada Centre,16324,/boxscores/201204110TOR.html
+Wed Apr 11 2012,Boston Celtics,Atlanta Hawks,88,86,TD Garden,18624,/boxscores/201204110BOS.html
+Wed Apr 11 2012,Houston Rockets,Utah Jazz,91,103,Toyota Center,18273,/boxscores/201204110HOU.html
+Wed Apr 11 2012,Memphis Grizzlies,Phoenix Suns,104,93,FedEx Forum,15239,/boxscores/201204110MEM.html
+Wed Apr 11 2012,Milwaukee Bucks,New York Knicks,107,111,Bradley Center,15534,/boxscores/201204110MIL.html
+Wed Apr 11 2012,New Orleans Hornets,Sacramento Kings,105,96,New Orleans Arena,16906,/boxscores/201204110NOH.html
+Wed Apr 11 2012,Oklahoma City Thunder,Los Angeles Clippers,98,100,Chesapeake Energy Arena,18203,/boxscores/201204110OKC.html
+Wed Apr 11 2012,San Antonio Spurs,Los Angeles Lakers,84,98,AT&T Center,18581,/boxscores/201204110SAS.html
+Wed Apr 11 2012,Denver Nuggets,Minnesota Timberwolves,113,107,Pepsi Center,15823,/boxscores/201204110DEN.html
+Wed Apr 11 2012,Portland Trail Blazers,Golden State Warriors,118,110,Rose Garden Arena,20502,/boxscores/201204110POR.html
+Thu Apr 12 2012,Charlotte Bobcats,Detroit Pistons,85,109,Time Warner Cable Arena,10828,/boxscores/201204120CHA.html
+Thu Apr 12 2012,Chicago Bulls,Miami Heat,96,86,United Center,23015,/boxscores/201204120CHI.html
+Thu Apr 12 2012,Minnesota Timberwolves,Los Angeles Clippers,82,95,Target Center,16016,/boxscores/201204120MIN.html
+Thu Apr 12 2012,San Antonio Spurs,Memphis Grizzlies,107,97,AT&T Center,18581,/boxscores/201204120SAS.html
+Thu Apr 12 2012,Golden State Warriors,Dallas Mavericks,103,112,Oracle Arena,17929,/boxscores/201204120GSW.html
+Fri Apr 13 2012,Indiana Pacers,Cleveland Cavaliers,102,83,Bankers Life Fieldhouse,13356,/boxscores/201204130IND.html
+Fri Apr 13 2012,Orlando Magic,Atlanta Hawks,81,109,Amway Center,18846,/boxscores/201204130ORL.html
+Fri Apr 13 2012,Philadelphia 76ers,New Jersey Nets,89,95,Wells Fargo Center,19169,/boxscores/201204130PHI.html
+Fri Apr 13 2012,Toronto Raptors,Boston Celtics,84,79,Air Canada Centre,17270,/boxscores/201204130TOR.html
+Fri Apr 13 2012,Miami Heat,Charlotte Bobcats,105,82,AmericanAirlines Arena,19600,/boxscores/201204130MIA.html
+Fri Apr 13 2012,New York Knicks,Washington Wizards,103,65,Madison Square Garden (IV),19763,/boxscores/201204130NYK.html
+Fri Apr 13 2012,Detroit Pistons,Milwaukee Bucks,97,113,The Palace of Auburn Hills,15255,/boxscores/201204130DET.html
+Fri Apr 13 2012,Houston Rockets,Phoenix Suns,105,112,Toyota Center,18223,/boxscores/201204130HOU.html
+Fri Apr 13 2012,New Orleans Hornets,Utah Jazz,96,85,New Orleans Arena,16326,/boxscores/201204130NOH.html
+Fri Apr 13 2012,Oklahoma City Thunder,Sacramento Kings,115,89,Chesapeake Energy Arena,18203,/boxscores/201204130OKC.html
+Fri Apr 13 2012,Los Angeles Lakers,Denver Nuggets,103,97,STAPLES Center,18997,/boxscores/201204130LAL.html
+Fri Apr 13 2012,Portland Trail Blazers,Dallas Mavericks,94,97,Rose Garden Arena,20304,/boxscores/201204130POR.html
+Sat Apr 14 2012,Los Angeles Clippers,Golden State Warriors,112,104,STAPLES Center,19060,/boxscores/201204140LAC.html
+Sat Apr 14 2012,Washington Wizards,Cleveland Cavaliers,89,98,Verizon Center,17200,/boxscores/201204140WAS.html
+Sat Apr 14 2012,New Jersey Nets,Boston Celtics,82,94,Prudential Center,18711,/boxscores/201204140NJN.html
+Sat Apr 14 2012,Memphis Grizzlies,Utah Jazz,103,98,FedEx Forum,17190,/boxscores/201204140MEM.html
+Sat Apr 14 2012,Minnesota Timberwolves,Oklahoma City Thunder,110,115,Target Center,19552,/boxscores/201204140MIN.html
+Sat Apr 14 2012,Milwaukee Bucks,Indiana Pacers,99,105,Bradley Center,15143,/boxscores/201204140MIL.html
+Sat Apr 14 2012,San Antonio Spurs,Phoenix Suns,105,91,AT&T Center,18581,/boxscores/201204140SAS.html
+Sun Apr 15 2012,New York Knicks,Miami Heat,85,93,Madison Square Garden (IV),19763,/boxscores/201204150NYK.html
+Sun Apr 15 2012,Los Angeles Lakers,Dallas Mavericks,112,108,STAPLES Center,18997,/boxscores/201204150LAL.html
+Sun Apr 15 2012,Atlanta Hawks,Toronto Raptors,86,102,Philips Arena,13845,/boxscores/201204150ATL.html
+Sun Apr 15 2012,Charlotte Bobcats,Boston Celtics,82,94,Time Warner Cable Arena,15169,/boxscores/201204150CHA.html
+Sun Apr 15 2012,Cleveland Cavaliers,Orlando Magic,84,100,Quicken Loans Arena,16305,/boxscores/201204150CLE.html
+Sun Apr 15 2012,Detroit Pistons,Chicago Bulls,94,100,The Palace of Auburn Hills,17450,/boxscores/201204150DET.html
+Sun Apr 15 2012,Sacramento Kings,Portland Trail Blazers,104,103,Power Balance Pavilion,16012,/boxscores/201204150SAC.html
+Sun Apr 15 2012,New Orleans Hornets,Memphis Grizzlies,88,75,New Orleans Arena,15570,/boxscores/201204150NOH.html
+Sun Apr 15 2012,Denver Nuggets,Houston Rockets,101,86,Pepsi Center,17954,/boxscores/201204150DEN.html
+Mon Apr 16 2012,Charlotte Bobcats,New Orleans Hornets,67,75,Time Warner Cable Arena,10876,/boxscores/201204160CHA.html
+Mon Apr 16 2012,Indiana Pacers,Minnesota Timberwolves,111,88,Bankers Life Fieldhouse,11845,/boxscores/201204160IND.html
+Mon Apr 16 2012,Orlando Magic,Philadelphia 76ers,113,100,Amway Center,18846,/boxscores/201204160ORL.html
+Mon Apr 16 2012,Toronto Raptors,Atlanta Hawks,87,109,Air Canada Centre,15992,/boxscores/201204160TOR.html
+Mon Apr 16 2012,New Jersey Nets,Miami Heat,98,101,Prudential Center,18711,/boxscores/201204160NJN.html
+Mon Apr 16 2012,Chicago Bulls,Washington Wizards,84,87,United Center,22307,/boxscores/201204160CHI.html
+Mon Apr 16 2012,Houston Rockets,Denver Nuggets,102,105,Toyota Center,15988,/boxscores/201204160HOU.html
+Mon Apr 16 2012,Utah Jazz,Dallas Mavericks,123,121,EnergySolutions Arena,19363,/boxscores/201204160UTA.html
+Mon Apr 16 2012,Phoenix Suns,Portland Trail Blazers,125,107,US Airways Center,15322,/boxscores/201204160PHO.html
+Mon Apr 16 2012,Golden State Warriors,San Antonio Spurs,99,120,Oracle Arena,18471,/boxscores/201204160GSW.html
+Mon Apr 16 2012,Los Angeles Clippers,Oklahoma City Thunder,92,77,STAPLES Center,19516,/boxscores/201204160LAC.html
+Tue Apr 17 2012,Philadelphia 76ers,Indiana Pacers,97,102,Wells Fargo Center,18969,/boxscores/201204170PHI.html
+Tue Apr 17 2012,Detroit Pistons,Cleveland Cavaliers,116,77,The Palace of Auburn Hills,11595,/boxscores/201204170DET.html
+Tue Apr 17 2012,Minnesota Timberwolves,Memphis Grizzlies,84,91,Target Center,16709,/boxscores/201204170MIN.html
+Tue Apr 17 2012,New York Knicks,Boston Celtics,118,110,Madison Square Garden (IV),19763,/boxscores/201204170NYK.html
+Tue Apr 17 2012,Los Angeles Lakers,San Antonio Spurs,91,112,STAPLES Center,18997,/boxscores/201204170LAL.html
+Wed Apr 18 2012,Charlotte Bobcats,Chicago Bulls,68,100,Time Warner Cable Arena,14221,/boxscores/201204180CHA.html
+Wed Apr 18 2012,Cleveland Cavaliers,Philadelphia 76ers,87,103,Quicken Loans Arena,14678,/boxscores/201204180CLE.html
+Wed Apr 18 2012,Washington Wizards,Milwaukee Bucks,121,112,Verizon Center,14141,/boxscores/201204180WAS.html
+Wed Apr 18 2012,Atlanta Hawks,Detroit Pistons,116,84,Philips Arena,14392,/boxscores/201204180ATL.html
+Wed Apr 18 2012,Miami Heat,Toronto Raptors,96,72,AmericanAirlines Arena,19600,/boxscores/201204180MIA.html
+Wed Apr 18 2012,New Jersey Nets,New York Knicks,95,104,Prudential Center,18711,/boxscores/201204180NJN.html
+Wed Apr 18 2012,Boston Celtics,Orlando Magic,102,98,TD Garden,18624,/boxscores/201204180BOS.html
+Wed Apr 18 2012,Memphis Grizzlies,New Orleans Hornets,103,91,FedEx Forum,14507,/boxscores/201204180MEM.html
+Wed Apr 18 2012,Dallas Mavericks,Houston Rockets,117,110,American Airlines Center,20508,/boxscores/201204180DAL.html
+Wed Apr 18 2012,Denver Nuggets,Los Angeles Clippers,98,104,Pepsi Center,17219,/boxscores/201204180DEN.html
+Wed Apr 18 2012,Phoenix Suns,Oklahoma City Thunder,97,109,US Airways Center,14873,/boxscores/201204180PHO.html
+Wed Apr 18 2012,Portland Trail Blazers,Utah Jazz,91,112,Rose Garden Arena,20545,/boxscores/201204180POR.html
+Wed Apr 18 2012,Sacramento Kings,San Antonio Spurs,102,127,Power Balance Pavilion,16954,/boxscores/201204180SAC.html
+Wed Apr 18 2012,Golden State Warriors,Los Angeles Lakers,87,99,Oracle Arena,18547,/boxscores/201204180GSW.html
+Thu Apr 19 2012,Indiana Pacers,Milwaukee Bucks,118,109,Bankers Life Fieldhouse,12453,/boxscores/201204190IND.html
+Thu Apr 19 2012,Detroit Pistons,Minnesota Timberwolves,80,91,The Palace of Auburn Hills,12458,/boxscores/201204190DET.html
+Thu Apr 19 2012,Miami Heat,Chicago Bulls,83,72,AmericanAirlines Arena,20008,/boxscores/201204190MIA.html
+Thu Apr 19 2012,New Orleans Hornets,Houston Rockets,105,99,New Orleans Arena,18315,/boxscores/201204190NOH.html
+Thu Apr 19 2012,Phoenix Suns,Los Angeles Clippers,93,90,US Airways Center,14644,/boxscores/201204190PHO.html
+Fri Apr 20 2012,Atlanta Hawks,Boston Celtics,97,92,Philips Arena,16214,/boxscores/201204200ATL.html
+Fri Apr 20 2012,Charlotte Bobcats,Memphis Grizzlies,80,85,Time Warner Cable Arena,13428,/boxscores/201204200CHA.html
+Fri Apr 20 2012,Cleveland Cavaliers,New York Knicks,98,90,Quicken Loans Arena,19349,/boxscores/201204200CLE.html
+Fri Apr 20 2012,Dallas Mavericks,Golden State Warriors,104,94,American Airlines Center,20547,/boxscores/201204200DAL.html
+Fri Apr 20 2012,San Antonio Spurs,Los Angeles Lakers,121,97,AT&T Center,18581,/boxscores/201204200SAS.html
+Fri Apr 20 2012,Sacramento Kings,Oklahoma City Thunder,92,103,Power Balance Pavilion,16882,/boxscores/201204200SAC.html
+Sat Apr 21 2012,Phoenix Suns,Denver Nuggets,107,118,US Airways Center,15877,/boxscores/201204210PHO.html
+Sat Apr 21 2012,Indiana Pacers,Philadelphia 76ers,106,109,Bankers Life Fieldhouse,17701,/boxscores/201204210IND.html
+Sat Apr 21 2012,Miami Heat,Washington Wizards,84,86,AmericanAirlines Arena,19722,/boxscores/201204210MIA.html
+Sat Apr 21 2012,Chicago Bulls,Dallas Mavericks,93,83,United Center,22945,/boxscores/201204210CHI.html
+Sat Apr 21 2012,Houston Rockets,Golden State Warriors,99,96,Toyota Center,15436,/boxscores/201204210HOU.html
+Sat Apr 21 2012,Memphis Grizzlies,Portland Trail Blazers,93,89,FedEx Forum,17904,/boxscores/201204210MEM.html
+Sat Apr 21 2012,Milwaukee Bucks,New Jersey Nets,106,95,Bradley Center,15939,/boxscores/201204210MIL.html
+Sat Apr 21 2012,Utah Jazz,Orlando Magic,117,107,EnergySolutions Arena,19580,/boxscores/201204210UTA.html
+Sun Apr 22 2012,Atlanta Hawks,New York Knicks,112,113,Philips Arena,18158,/boxscores/201204220ATL.html
+Sun Apr 22 2012,Los Angeles Lakers,Oklahoma City Thunder,114,106,STAPLES Center,18997,/boxscores/201204220LAL.html
+Sun Apr 22 2012,Charlotte Bobcats,Sacramento Kings,88,114,Time Warner Cable Arena,11317,/boxscores/201204220CHA.html
+Sun Apr 22 2012,Detroit Pistons,Toronto Raptors,76,73,The Palace of Auburn Hills,14370,/boxscores/201204220DET.html
+Sun Apr 22 2012,Miami Heat,Houston Rockets,97,88,AmericanAirlines Arena,19859,/boxscores/201204220MIA.html
+Sun Apr 22 2012,Minnesota Timberwolves,Golden State Warriors,88,93,Target Center,15872,/boxscores/201204220MIN.html
+Sun Apr 22 2012,San Antonio Spurs,Cleveland Cavaliers,114,98,AT&T Center,18581,/boxscores/201204220SAS.html
+Sun Apr 22 2012,Denver Nuggets,Orlando Magic,101,74,Pepsi Center,19155,/boxscores/201204220DEN.html
+Sun Apr 22 2012,Los Angeles Clippers,New Orleans Hornets,107,98,STAPLES Center,19060,/boxscores/201204220LAC.html
+Mon Apr 23 2012,Indiana Pacers,Detroit Pistons,103,97,Bankers Life Fieldhouse,13584,/boxscores/201204230IND.html
+Mon Apr 23 2012,Washington Wizards,Charlotte Bobcats,101,73,Verizon Center,17355,/boxscores/201204230WAS.html
+Mon Apr 23 2012,New Jersey Nets,Philadelphia 76ers,87,105,Prudential Center,18711,/boxscores/201204230NJN.html
+Mon Apr 23 2012,Memphis Grizzlies,Cleveland Cavaliers,109,101,FedEx Forum,15504,/boxscores/201204230MEM.html
+Mon Apr 23 2012,Milwaukee Bucks,Toronto Raptors,92,86,Bradley Center,13867,/boxscores/201204230MIL.html
+Mon Apr 23 2012,San Antonio Spurs,Portland Trail Blazers,124,89,AT&T Center,18581,/boxscores/201204230SAS.html
+Tue Apr 24 2012,Atlanta Hawks,Los Angeles Clippers,109,102,Philips Arena,18223,/boxscores/201204240ATL.html
+Tue Apr 24 2012,Boston Celtics,Miami Heat,78,66,TD Garden,18624,/boxscores/201204240BOS.html
+Tue Apr 24 2012,Oklahoma City Thunder,Sacramento Kings,118,110,Chesapeake Energy Arena,18203,/boxscores/201204240OKC.html
+Tue Apr 24 2012,Golden State Warriors,New Orleans Hornets,81,83,Oracle Arena,17598,/boxscores/201204240GSW.html
+Tue Apr 24 2012,Utah Jazz,Phoenix Suns,100,88,EnergySolutions Arena,19911,/boxscores/201204240UTA.html
+Wed Apr 25 2012,Cleveland Cavaliers,Washington Wizards,85,96,Quicken Loans Arena,18086,/boxscores/201204250CLE.html
+Wed Apr 25 2012,Indiana Pacers,Chicago Bulls,87,92,Bankers Life Fieldhouse,18165,/boxscores/201204250IND.html
+Wed Apr 25 2012,Orlando Magic,Charlotte Bobcats,102,95,Amway Center,19152,/boxscores/201204250ORL.html
+Wed Apr 25 2012,Milwaukee Bucks,Philadelphia 76ers,85,90,Bradley Center,13489,/boxscores/201204250MIL.html
+Wed Apr 25 2012,New York Knicks,Los Angeles Clippers,99,93,Madison Square Garden (IV),19763,/boxscores/201204250NYK.html
+Wed Apr 25 2012,Oklahoma City Thunder,Denver Nuggets,101,106,Chesapeake Energy Arena,18203,/boxscores/201204250OKC.html
+Wed Apr 25 2012,Phoenix Suns,San Antonio Spurs,106,110,US Airways Center,17172,/boxscores/201204250PHO.html
+Thu Apr 26 2012,Toronto Raptors,New Jersey Nets,98,67,Air Canada Centre,18161,/boxscores/201204260TOR.html
+Thu Apr 26 2012,Atlanta Hawks,Dallas Mavericks,106,89,Philips Arena,14595,/boxscores/201204260ATL.html
+Thu Apr 26 2012,Boston Celtics,Milwaukee Bucks,87,74,TD Garden,18624,/boxscores/201204260BOS.html
+Thu Apr 26 2012,Charlotte Bobcats,New York Knicks,84,104,Time Warner Cable Arena,16023,/boxscores/201204260CHA.html
+Thu Apr 26 2012,Chicago Bulls,Cleveland Cavaliers,107,75,United Center,22563,/boxscores/201204260CHI.html
+Thu Apr 26 2012,Detroit Pistons,Philadelphia 76ers,108,86,The Palace of Auburn Hills,15372,/boxscores/201204260DET.html
+Thu Apr 26 2012,Houston Rockets,New Orleans Hornets,84,77,Toyota Center,16602,/boxscores/201204260HOU.html
+Thu Apr 26 2012,Memphis Grizzlies,Orlando Magic,88,76,FedEx Forum,17215,/boxscores/201204260MEM.html
+Thu Apr 26 2012,Minnesota Timberwolves,Denver Nuggets,102,131,Target Center,14824,/boxscores/201204260MIN.html
+Thu Apr 26 2012,Utah Jazz,Portland Trail Blazers,96,94,EnergySolutions Arena,19554,/boxscores/201204260UTA.html
+Thu Apr 26 2012,Washington Wizards,Miami Heat,104,70,Verizon Center,19537,/boxscores/201204260WAS.html
+Thu Apr 26 2012,Golden State Warriors,San Antonio Spurs,101,107,Oracle Arena,18124,/boxscores/201204260GSW.html
+Thu Apr 26 2012,Sacramento Kings,Los Angeles Lakers,113,96,Power Balance Pavilion,16281,/boxscores/201204260SAC.html
+Sat Apr 28 2012,Chicago Bulls,Philadelphia 76ers,103,91,United Center,21943,/boxscores/201204280CHI.html
+Sat Apr 28 2012,Miami Heat,New York Knicks,100,67,AmericanAirlines Arena,19621,/boxscores/201204280MIA.html
+Sat Apr 28 2012,Indiana Pacers,Orlando Magic,77,81,Bankers Life Fieldhouse,18165,/boxscores/201204280IND.html
+Sat Apr 28 2012,Oklahoma City Thunder,Dallas Mavericks,99,98,Chesapeake Energy Arena,18203,/boxscores/201204280OKC.html
+Sun Apr 29 2012,San Antonio Spurs,Utah Jazz,106,91,AT&T Center,18581,/boxscores/201204290SAS.html
+Sun Apr 29 2012,Los Angeles Lakers,Denver Nuggets,103,88,STAPLES Center,18997,/boxscores/201204290LAL.html
+Sun Apr 29 2012,Atlanta Hawks,Boston Celtics,83,74,Philips Arena,19292,/boxscores/201204290ATL.html
+Sun Apr 29 2012,Memphis Grizzlies,Los Angeles Clippers,98,99,FedEx Forum,18119,/boxscores/201204290MEM.html
+Mon Apr 30 2012,Miami Heat,New York Knicks,104,94,AmericanAirlines Arena,19684,/boxscores/201204300MIA.html
+Mon Apr 30 2012,Indiana Pacers,Orlando Magic,93,78,Bankers Life Fieldhouse,18165,/boxscores/201204300IND.html
+Mon Apr 30 2012,Oklahoma City Thunder,Dallas Mavericks,102,99,Chesapeake Energy Arena,18203,/boxscores/201204300OKC.html

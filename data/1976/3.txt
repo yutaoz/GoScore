@@ -1,0 +1,138 @@
+Tue Mar 2 1976,Buffalo Braves,Golden State Warriors,93,100,Buffalo Memorial Auditorium,0,/boxscores/197603020BUF.html
+Tue Mar 2 1976,Kansas City Kings,Detroit Pistons,127,113,Kemper Arena,0,/boxscores/197603020KCK.html
+Tue Mar 2 1976,Milwaukee Bucks,New Orleans Jazz,111,109,MECCA Arena,0,/boxscores/197603020MIL.html
+Tue Mar 2 1976,New York Knicks,Seattle SuperSonics,105,109,Madison Square Garden (IV),0,/boxscores/197603020NYK.html
+Tue Mar 2 1976,Portland Trail Blazers,Chicago Bulls,116,105,Memorial Coliseum,0,/boxscores/197603020POR.html
+Tue Mar 2 1976,Washington Bullets,Philadelphia 76ers,128,111,Capital Centre,0,/boxscores/197603020WSB.html
+Wed Mar 3 1976,Detroit Pistons,Seattle SuperSonics,114,110,Cobo Arena,0,/boxscores/197603030DET.html
+Wed Mar 3 1976,New Orleans Jazz,Houston Rockets,105,113,Louisiana Superdome,0,/boxscores/197603030NOJ.html
+Wed Mar 3 1976,Philadelphia 76ers,Boston Celtics,123,110,The Spectrum,0,/boxscores/197603030PHI.html
+Wed Mar 3 1976,Phoenix Suns,Cleveland Cavaliers,108,92,Arizona Veterans Memorial Coliseum,0,/boxscores/197603030PHO.html
+Thu Mar 4 1976,Atlanta Hawks,Boston Celtics,103,98,Omni Coliseum,0,/boxscores/197603040ATL.html
+Thu Mar 4 1976,Golden State Warriors,Chicago Bulls,124,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603040GSW.html
+Thu Mar 4 1976,Houston Rockets,Washington Bullets,106,113,The Summit,0,/boxscores/197603040HOU.html
+Thu Mar 4 1976,Milwaukee Bucks,Kansas City Kings,99,95,MECCA Arena,0,/boxscores/197603040MIL.html
+Fri Mar 5 1976,Kansas City Kings,Seattle SuperSonics,111,93,Kemper Arena,0,/boxscores/197603050KCK.html
+Fri Mar 5 1976,Los Angeles Lakers,Golden State Warriors,106,99,The Forum,0,/boxscores/197603050LAL.html
+Fri Mar 5 1976,New Orleans Jazz,Boston Celtics,93,98,Louisiana Superdome,0,/boxscores/197603050NOJ.html
+Fri Mar 5 1976,Philadelphia 76ers,Detroit Pistons,123,112,The Spectrum,0,/boxscores/197603050PHI.html
+Fri Mar 5 1976,Phoenix Suns,Chicago Bulls,99,97,Arizona Veterans Memorial Coliseum,0,/boxscores/197603050PHO.html
+Fri Mar 5 1976,Portland Trail Blazers,Cleveland Cavaliers,100,113,Memorial Coliseum,0,/boxscores/197603050POR.html
+Sat Mar 6 1976,Buffalo Braves,Philadelphia 76ers,105,99,Buffalo Memorial Auditorium,0,/boxscores/197603060BUF.html
+Sat Mar 6 1976,Golden State Warriors,Cleveland Cavaliers,117,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603060GSW.html
+Sat Mar 6 1976,Houston Rockets,Atlanta Hawks,101,97,The Summit,0,/boxscores/197603060HOU.html
+Sat Mar 6 1976,New York Knicks,Washington Bullets,116,107,Madison Square Garden (IV),0,/boxscores/197603060NYK.html
+Sat Mar 6 1976,Portland Trail Blazers,Phoenix Suns,118,99,Memorial Coliseum,0,/boxscores/197603060POR.html
+Sun Mar 7 1976,Atlanta Hawks,Houston Rockets,123,106,Omni Coliseum,0,/boxscores/197603070ATL.html
+Sun Mar 7 1976,Boston Celtics,Detroit Pistons,88,87,Boston Garden,0,/boxscores/197603070BOS.html
+Sun Mar 7 1976,Kansas City Kings,Milwaukee Bucks,113,97,Kemper Arena,0,/boxscores/197603070KCK.html
+Sun Mar 7 1976,Los Angeles Lakers,Chicago Bulls,88,91,The Forum,0,/boxscores/197603070LAL.html
+Sun Mar 7 1976,New Orleans Jazz,Seattle SuperSonics,124,106,Louisiana Superdome,0,/boxscores/197603070NOJ.html
+Sun Mar 7 1976,Phoenix Suns,Portland Trail Blazers,106,84,Arizona Veterans Memorial Coliseum,0,/boxscores/197603070PHO.html
+Sun Mar 7 1976,Washington Bullets,New York Knicks,92,81,Capital Centre,0,/boxscores/197603070WSB.html
+Tue Mar 9 1976,Boston Celtics,New Orleans Jazz,99,117,Hartford Civic Center,0,/boxscores/197603090BOS.html
+Tue Mar 9 1976,Chicago Bulls,Seattle SuperSonics,102,101,Chicago Stadium,0,/boxscores/197603090CHI.html
+Tue Mar 9 1976,Detroit Pistons,Golden State Warriors,108,112,Cobo Arena,0,/boxscores/197603090DET.html
+Tue Mar 9 1976,New York Knicks,Los Angeles Lakers,101,96,Madison Square Garden (IV),0,/boxscores/197603090NYK.html
+Wed Mar 10 1976,Boston Celtics,Los Angeles Lakers,92,89,Boston Garden,0,/boxscores/197603100BOS.html
+Wed Mar 10 1976,Houston Rockets,Portland Trail Blazers,113,110,The Summit,0,/boxscores/197603100HOU.html
+Wed Mar 10 1976,Milwaukee Bucks,Seattle SuperSonics,105,110,MECCA Arena,0,/boxscores/197603100MIL.html
+Wed Mar 10 1976,New Orleans Jazz,Buffalo Braves,105,120,Louisiana Superdome,0,/boxscores/197603100NOJ.html
+Wed Mar 10 1976,Philadelphia 76ers,Phoenix Suns,125,108,The Spectrum,0,/boxscores/197603100PHI.html
+Thu Mar 11 1976,Atlanta Hawks,Phoenix Suns,99,104,Omni Coliseum,0,/boxscores/197603110ATL.html
+Thu Mar 11 1976,Cleveland Cavaliers,Golden State Warriors,110,99,Coliseum at Richfield,0,/boxscores/197603110CLE.html
+Fri Mar 12 1976,Buffalo Braves,Houston Rockets,100,113,Buffalo Memorial Auditorium,0,/boxscores/197603120BUF.html
+Fri Mar 12 1976,Chicago Bulls,Kansas City Kings,73,95,Chicago Stadium,0,/boxscores/197603120CHI.html
+Fri Mar 12 1976,Los Angeles Lakers,New York Knicks,113,95,The Forum,0,/boxscores/197603120LAL.html
+Fri Mar 12 1976,Milwaukee Bucks,Detroit Pistons,101,117,MECCA Arena,0,/boxscores/197603120MIL.html
+Fri Mar 12 1976,New Orleans Jazz,Portland Trail Blazers,110,101,Louisiana Superdome,0,/boxscores/197603120NOJ.html
+Fri Mar 12 1976,Philadelphia 76ers,Atlanta Hawks,109,107,The Spectrum,0,/boxscores/197603120PHI.html
+Sat Mar 13 1976,Chicago Bulls,New Orleans Jazz,111,117,Chicago Stadium,0,/boxscores/197603130CHI.html
+Sat Mar 13 1976,Cleveland Cavaliers,Phoenix Suns,99,77,Coliseum at Richfield,0,/boxscores/197603130CLE.html
+Sat Mar 13 1976,Houston Rockets,Golden State Warriors,97,111,The Summit,0,/boxscores/197603130HOU.html
+Sat Mar 13 1976,Kansas City Kings,Milwaukee Bucks,118,121,Omaha Civic Auditorium,0,/boxscores/197603130KCK.html
+Sun Mar 14 1976,Boston Celtics,Washington Bullets,89,102,Boston Garden,0,/boxscores/197603140BOS.html
+Sun Mar 14 1976,Kansas City Kings,Atlanta Hawks,114,113,Kemper Arena,0,/boxscores/197603140KCK.html
+Sun Mar 14 1976,Los Angeles Lakers,Buffalo Braves,137,109,The Forum,0,/boxscores/197603140LAL.html
+Sun Mar 14 1976,Milwaukee Bucks,Phoenix Suns,106,108,MECCA Arena,0,/boxscores/197603140MIL.html
+Sun Mar 14 1976,New Orleans Jazz,Golden State Warriors,118,103,Louisiana Superdome,0,/boxscores/197603140NOJ.html
+Sun Mar 14 1976,Portland Trail Blazers,Detroit Pistons,114,103,Memorial Coliseum,0,/boxscores/197603140POR.html
+Sun Mar 14 1976,Seattle SuperSonics,New York Knicks,113,103,Seattle Center Coliseum,0,/boxscores/197603140SEA.html
+Tue Mar 16 1976,Chicago Bulls,Phoenix Suns,120,87,Chicago Stadium,0,/boxscores/197603160CHI.html
+Tue Mar 16 1976,Cleveland Cavaliers,Los Angeles Lakers,105,109,Coliseum at Richfield,0,/boxscores/197603160CLE.html
+Tue Mar 16 1976,Golden State Warriors,Detroit Pistons,110,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603160GSW.html
+Tue Mar 16 1976,Houston Rockets,New York Knicks,116,111,The Summit,0,/boxscores/197603160HOU.html
+Tue Mar 16 1976,Portland Trail Blazers,Buffalo Braves,95,112,Memorial Coliseum,0,/boxscores/197603160POR.html
+Wed Mar 17 1976,Houston Rockets,Atlanta Hawks,124,112,The Summit,0,/boxscores/197603170HOU.html
+Wed Mar 17 1976,Milwaukee Bucks,Los Angeles Lakers,109,96,MECCA Arena,0,/boxscores/197603170MIL.html
+Wed Mar 17 1976,New Orleans Jazz,New York Knicks,107,112,Louisiana Superdome,0,/boxscores/197603170NOJ.html
+Wed Mar 17 1976,Philadelphia 76ers,Chicago Bulls,108,101,The Spectrum,0,/boxscores/197603170PHI.html
+Wed Mar 17 1976,Seattle SuperSonics,Buffalo Braves,122,111,Seattle Center Coliseum,0,/boxscores/197603170SEA.html
+Thu Mar 18 1976,Cleveland Cavaliers,Philadelphia 76ers,110,104,Coliseum at Richfield,0,/boxscores/197603180CLE.html
+Thu Mar 18 1976,Golden State Warriors,Buffalo Braves,110,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603180GSW.html
+Thu Mar 18 1976,Phoenix Suns,Detroit Pistons,106,100,Arizona Veterans Memorial Coliseum,0,/boxscores/197603180PHO.html
+Thu Mar 18 1976,Washington Bullets,Kansas City Kings,110,102,Capital Centre,0,/boxscores/197603180WSB.html
+Fri Mar 19 1976,Boston Celtics,Kansas City Kings,120,117,Boston Garden,0,/boxscores/197603190BOS.html
+Fri Mar 19 1976,Chicago Bulls,Atlanta Hawks,108,101,Chicago Stadium,0,/boxscores/197603190CHI.html
+Fri Mar 19 1976,Los Angeles Lakers,Detroit Pistons,122,107,The Forum,0,/boxscores/197603190LAL.html
+Fri Mar 19 1976,New Orleans Jazz,Cleveland Cavaliers,103,81,Louisiana Superdome,0,/boxscores/197603190NOJ.html
+Fri Mar 19 1976,Portland Trail Blazers,Houston Rockets,111,105,Memorial Coliseum,0,/boxscores/197603190POR.html
+Sat Mar 20 1976,Atlanta Hawks,Cleveland Cavaliers,99,107,Omni Coliseum,0,/boxscores/197603200ATL.html
+Sat Mar 20 1976,Buffalo Braves,New Orleans Jazz,115,101,Buffalo Memorial Auditorium,0,/boxscores/197603200BUF.html
+Sat Mar 20 1976,Golden State Warriors,Milwaukee Bucks,120,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603200GSW.html
+Sat Mar 20 1976,Philadelphia 76ers,Boston Celtics,96,103,The Spectrum,0,/boxscores/197603200PHI.html
+Sat Mar 20 1976,Phoenix Suns,Los Angeles Lakers,106,93,Arizona Veterans Memorial Coliseum,0,/boxscores/197603200PHO.html
+Sat Mar 20 1976,Washington Bullets,New York Knicks,109,104,Capital Centre,0,/boxscores/197603200WSB.html
+Sun Mar 21 1976,Boston Celtics,Philadelphia 76ers,108,100,Boston Garden,0,/boxscores/197603210BOS.html
+Sun Mar 21 1976,Cleveland Cavaliers,Washington Bullets,95,92,Coliseum at Richfield,0,/boxscores/197603210CLE.html
+Sun Mar 21 1976,Detroit Pistons,Buffalo Braves,118,112,Cobo Arena,0,/boxscores/197603210DET.html
+Sun Mar 21 1976,Kansas City Kings,Chicago Bulls,112,101,Kemper Arena,0,/boxscores/197603210KCK.html
+Sun Mar 21 1976,Los Angeles Lakers,Milwaukee Bucks,111,130,The Forum,0,/boxscores/197603210LAL.html
+Sun Mar 21 1976,Seattle SuperSonics,Houston Rockets,117,107,Seattle Center Coliseum,0,/boxscores/197603210SEA.html
+Tue Mar 23 1976,Buffalo Braves,Chicago Bulls,122,109,Buffalo Memorial Auditorium,0,/boxscores/197603230BUF.html
+Tue Mar 23 1976,Golden State Warriors,Atlanta Hawks,118,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603230GSW.html
+Tue Mar 23 1976,Kansas City Kings,Washington Bullets,106,101,Kemper Arena,0,/boxscores/197603230KCK.html
+Tue Mar 23 1976,Los Angeles Lakers,Houston Rockets,125,106,The Forum,0,/boxscores/197603230LAL.html
+Tue Mar 23 1976,New Orleans Jazz,Boston Celtics,97,101,Louisiana Superdome,0,/boxscores/197603230NOJ.html
+Tue Mar 23 1976,New York Knicks,Detroit Pistons,116,122,Madison Square Garden (IV),0,/boxscores/197603230NYK.html
+Tue Mar 23 1976,Phoenix Suns,Seattle SuperSonics,104,97,Arizona Veterans Memorial Coliseum,0,/boxscores/197603230PHO.html
+Tue Mar 23 1976,Portland Trail Blazers,Milwaukee Bucks,100,97,Memorial Coliseum,0,/boxscores/197603230POR.html
+Wed Mar 24 1976,Boston Celtics,Chicago Bulls,94,87,Boston Garden,0,/boxscores/197603240BOS.html
+Wed Mar 24 1976,Detroit Pistons,Kansas City Kings,130,117,Cobo Arena,0,/boxscores/197603240DET.html
+Wed Mar 24 1976,Philadelphia 76ers,New York Knicks,118,100,The Spectrum,0,/boxscores/197603240PHI.html
+Wed Mar 24 1976,Seattle SuperSonics,Milwaukee Bucks,135,110,Seattle Center Coliseum,0,/boxscores/197603240SEA.html
+Thu Mar 25 1976,Cleveland Cavaliers,Buffalo Braves,94,109,Coliseum at Richfield,0,/boxscores/197603250CLE.html
+Thu Mar 25 1976,Golden State Warriors,Houston Rockets,104,123,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603250GSW.html
+Thu Mar 25 1976,Phoenix Suns,Atlanta Hawks,107,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197603250PHO.html
+Thu Mar 25 1976,Washington Bullets,Portland Trail Blazers,105,108,Capital Centre,0,/boxscores/197603250WSB.html
+Fri Mar 26 1976,Boston Celtics,Cleveland Cavaliers,95,93,Boston Garden,0,/boxscores/197603260BOS.html
+Fri Mar 26 1976,Chicago Bulls,Detroit Pistons,77,85,Chicago Stadium,0,/boxscores/197603260CHI.html
+Fri Mar 26 1976,Los Angeles Lakers,Atlanta Hawks,107,85,The Forum,0,/boxscores/197603260LAL.html
+Fri Mar 26 1976,Milwaukee Bucks,Buffalo Braves,123,92,MECCA Arena,0,/boxscores/197603260MIL.html
+Fri Mar 26 1976,New Orleans Jazz,Washington Bullets,131,126,Louisiana Superdome,0,/boxscores/197603260NOJ.html
+Sat Mar 27 1976,Cleveland Cavaliers,Milwaukee Bucks,103,99,Coliseum at Richfield,0,/boxscores/197603270CLE.html
+Sat Mar 27 1976,Detroit Pistons,Portland Trail Blazers,112,94,Cobo Arena,0,/boxscores/197603270DET.html
+Sat Mar 27 1976,Golden State Warriors,Los Angeles Lakers,113,97,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603270GSW.html
+Sat Mar 27 1976,Houston Rockets,Philadelphia 76ers,109,95,The Summit,0,/boxscores/197603270HOU.html
+Sat Mar 27 1976,New York Knicks,Boston Celtics,105,103,Madison Square Garden (IV),0,/boxscores/197603270NYK.html
+Sat Mar 27 1976,Phoenix Suns,Kansas City Kings,117,100,Arizona Veterans Memorial Coliseum,0,/boxscores/197603270PHO.html
+Sat Mar 27 1976,Washington Bullets,Chicago Bulls,99,84,Capital Centre,0,/boxscores/197603270WSB.html
+Sun Mar 28 1976,Boston Celtics,New York Knicks,100,94,Boston Garden,0,/boxscores/197603280BOS.html
+Sun Mar 28 1976,Golden State Warriors,Kansas City Kings,134,117,Oakland-Alameda County Coliseum Arena,0,/boxscores/197603280GSW.html
+Sun Mar 28 1976,Los Angeles Lakers,Phoenix Suns,97,100,The Forum,0,/boxscores/197603280LAL.html
+Sun Mar 28 1976,Milwaukee Bucks,Portland Trail Blazers,115,100,MECCA Arena,0,/boxscores/197603280MIL.html
+Sun Mar 28 1976,New Orleans Jazz,Philadelphia 76ers,110,107,Louisiana Superdome,0,/boxscores/197603280NOJ.html
+Sun Mar 28 1976,Seattle SuperSonics,Atlanta Hawks,127,112,Seattle Center Coliseum,0,/boxscores/197603280SEA.html
+Sun Mar 28 1976,Washington Bullets,Buffalo Braves,113,90,Capital Centre,0,/boxscores/197603280WSB.html
+Tue Mar 30 1976,Buffalo Braves,Boston Celtics,93,83,Buffalo Memorial Auditorium,0,/boxscores/197603300BUF.html
+Tue Mar 30 1976,Chicago Bulls,Golden State Warriors,84,94,Chicago Stadium,0,/boxscores/197603300CHI.html
+Tue Mar 30 1976,Cleveland Cavaliers,Houston Rockets,95,86,Coliseum at Richfield,0,/boxscores/197603300CLE.html
+Tue Mar 30 1976,Milwaukee Bucks,Atlanta Hawks,130,126,MECCA Arena,0,/boxscores/197603300MIL.html
+Tue Mar 30 1976,New York Knicks,Phoenix Suns,97,113,Madison Square Garden (IV),0,/boxscores/197603300NYK.html
+Tue Mar 30 1976,Portland Trail Blazers,Kansas City Kings,114,113,Memorial Coliseum,0,/boxscores/197603300POR.html
+Wed Mar 31 1976,Boston Celtics,Phoenix Suns,122,102,Boston Garden,0,/boxscores/197603310BOS.html
+Wed Mar 31 1976,Detroit Pistons,Chicago Bulls,102,96,Cobo Arena,0,/boxscores/197603310DET.html
+Wed Mar 31 1976,New Orleans Jazz,Cleveland Cavaliers,101,110,Louisiana Superdome,0,/boxscores/197603310NOJ.html
+Wed Mar 31 1976,Philadelphia 76ers,Buffalo Braves,107,103,The Spectrum,0,/boxscores/197603310PHI.html
+Wed Mar 31 1976,Seattle SuperSonics,Los Angeles Lakers,120,109,Seattle Center Coliseum,0,/boxscores/197603310SEA.html
+Wed Mar 31 1976,Washington Bullets,Golden State Warriors,88,95,Capital Centre,0,/boxscores/197603310WSB.html

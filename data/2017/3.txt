@@ -1,0 +1,241 @@
+Wed Mar 1 2017,Orlando Magic,New York Knicks,90,101,Amway Center,16005,/boxscores/201703010ORL.html
+Wed Mar 1 2017,Atlanta Hawks,Dallas Mavericks,100,95,Philips Arena,12483,/boxscores/201703010ATL.html
+Wed Mar 1 2017,Miami Heat,Philadelphia 76ers,125,98,AmericanAirlines Arena,19609,/boxscores/201703010MIA.html
+Wed Mar 1 2017,Toronto Raptors,Washington Wizards,96,105,Air Canada Centre,19800,/boxscores/201703010TOR.html
+Wed Mar 1 2017,Boston Celtics,Cleveland Cavaliers,103,99,TD Garden,18624,/boxscores/201703010BOS.html
+Wed Mar 1 2017,Milwaukee Bucks,Denver Nuggets,98,110,BMO Harris Bradley Center,13214,/boxscores/201703010MIL.html
+Wed Mar 1 2017,New Orleans Pelicans,Detroit Pistons,109,86,Smoothie King Center,14406,/boxscores/201703010NOP.html
+Wed Mar 1 2017,San Antonio Spurs,Indiana Pacers,100,99,AT&T Center,18418,/boxscores/201703010SAS.html
+Wed Mar 1 2017,Utah Jazz,Minnesota Timberwolves,80,107,Vivint Smart Home Arena,19127,/boxscores/201703010UTA.html
+Wed Mar 1 2017,Los Angeles Clippers,Houston Rockets,103,122,STAPLES Center,19060,/boxscores/201703010LAC.html
+Wed Mar 1 2017,Sacramento Kings,Brooklyn Nets,100,109,Golden 1 Center,17608,/boxscores/201703010SAC.html
+Thu Mar 2 2017,Chicago Bulls,Golden State Warriors,94,87,United Center,22253,/boxscores/201703020CHI.html
+Thu Mar 2 2017,Phoenix Suns,Charlotte Hornets,120,103,Talking Stick Resort Arena,16572,/boxscores/201703020PHO.html
+Thu Mar 2 2017,Portland Trail Blazers,Oklahoma City Thunder,114,109,Moda Center,19875,/boxscores/201703020POR.html
+Fri Mar 3 2017,Atlanta Hawks,Cleveland Cavaliers,130,135,Philips Arena,18877,/boxscores/201703030ATL.html
+Fri Mar 3 2017,Orlando Magic,Miami Heat,110,99,Amway Center,17136,/boxscores/201703030ORL.html
+Fri Mar 3 2017,Philadelphia 76ers,New York Knicks,105,102,Wells Fargo Center,18518,/boxscores/201703030PHI.html
+Fri Mar 3 2017,Washington Wizards,Toronto Raptors,106,114,Verizon Center,20356,/boxscores/201703030WAS.html
+Fri Mar 3 2017,Milwaukee Bucks,Los Angeles Clippers,112,101,BMO Harris Bradley Center,16208,/boxscores/201703030MIL.html
+Fri Mar 3 2017,Dallas Mavericks,Memphis Grizzlies,104,100,American Airlines Center,19480,/boxscores/201703030DAL.html
+Fri Mar 3 2017,Phoenix Suns,Oklahoma City Thunder,118,111,Talking Stick Resort Arena,18055,/boxscores/201703030PHO.html
+Fri Mar 3 2017,Utah Jazz,Brooklyn Nets,112,97,Vivint Smart Home Arena,19911,/boxscores/201703030UTA.html
+Fri Mar 3 2017,New Orleans Pelicans,San Antonio Spurs,98,101,Smoothie King Center,17669,/boxscores/201703030NOP.html
+Fri Mar 3 2017,Los Angeles Lakers,Boston Celtics,95,115,STAPLES Center,18997,/boxscores/201703030LAL.html
+Sat Mar 4 2017,Philadelphia 76ers,Detroit Pistons,106,136,Wells Fargo Center,19523,/boxscores/201703040PHI.html
+Sat Mar 4 2017,Miami Heat,Cleveland Cavaliers,120,92,AmericanAirlines Arena,19600,/boxscores/201703040MIA.html
+Sat Mar 4 2017,Milwaukee Bucks,Toronto Raptors,101,94,BMO Harris Bradley Center,16775,/boxscores/201703040MIL.html
+Sat Mar 4 2017,Chicago Bulls,Los Angeles Clippers,91,101,United Center,22807,/boxscores/201703040CHI.html
+Sat Mar 4 2017,Denver Nuggets,Charlotte Hornets,102,112,Pepsi Center,14708,/boxscores/201703040DEN.html
+Sat Mar 4 2017,Houston Rockets,Memphis Grizzlies,123,108,Toyota Center,18055,/boxscores/201703040HOU.html
+Sat Mar 4 2017,San Antonio Spurs,Minnesota Timberwolves,97,90,AT&T Center,18418,/boxscores/201703040SAS.html
+Sat Mar 4 2017,Portland Trail Blazers,Brooklyn Nets,130,116,Moda Center,19638,/boxscores/201703040POR.html
+Sun Mar 5 2017,Atlanta Hawks,Indiana Pacers,96,97,Philips Arena,15366,/boxscores/201703050ATL.html
+Sun Mar 5 2017,New York Knicks,Golden State Warriors,105,112,Madison Square Garden (IV),19812,/boxscores/201703050NYK.html
+Sun Mar 5 2017,Phoenix Suns,Boston Celtics,109,106,Talking Stick Resort Arena,16790,/boxscores/201703050PHO.html
+Sun Mar 5 2017,Washington Wizards,Orlando Magic,115,114,Verizon Center,19195,/boxscores/201703050WAS.html
+Sun Mar 5 2017,Sacramento Kings,Utah Jazz,109,110,Golden 1 Center,17608,/boxscores/201703050SAC.html
+Sun Mar 5 2017,Dallas Mavericks,Oklahoma City Thunder,104,89,American Airlines Center,20232,/boxscores/201703050DAL.html
+Sun Mar 5 2017,Los Angeles Lakers,New Orleans Pelicans,97,105,STAPLES Center,18997,/boxscores/201703050LAL.html
+Mon Mar 6 2017,Cleveland Cavaliers,Miami Heat,98,106,Quicken Loans Arena,20562,/boxscores/201703060CLE.html
+Mon Mar 6 2017,Orlando Magic,New York Knicks,105,113,Amway Center,16046,/boxscores/201703060ORL.html
+Mon Mar 6 2017,Philadelphia 76ers,Milwaukee Bucks,98,112,Wells Fargo Center,18351,/boxscores/201703060PHI.html
+Mon Mar 6 2017,Atlanta Hawks,Golden State Warriors,111,119,Philips Arena,18890,/boxscores/201703060ATL.html
+Mon Mar 6 2017,Detroit Pistons,Chicago Bulls,109,95,The Palace of Auburn Hills,16039,/boxscores/201703060DET.html
+Mon Mar 6 2017,Charlotte Hornets,Indiana Pacers,100,88,Spectrum Center,16387,/boxscores/201703060CHO.html
+Mon Mar 6 2017,Memphis Grizzlies,Brooklyn Nets,109,122,FedEx Forum,15505,/boxscores/201703060MEM.html
+Mon Mar 6 2017,San Antonio Spurs,Houston Rockets,112,110,AT&T Center,18418,/boxscores/201703060SAS.html
+Mon Mar 6 2017,Denver Nuggets,Sacramento Kings,108,96,Pepsi Center,11614,/boxscores/201703060DEN.html
+Mon Mar 6 2017,Utah Jazz,New Orleans Pelicans,88,83,Vivint Smart Home Arena,19649,/boxscores/201703060UTA.html
+Mon Mar 6 2017,Los Angeles Clippers,Boston Celtics,116,102,STAPLES Center,19283,/boxscores/201703060LAC.html
+Tue Mar 7 2017,Oklahoma City Thunder,Portland Trail Blazers,121,126,Chesapeake Energy Arena,18203,/boxscores/201703070OKC.html
+Tue Mar 7 2017,Dallas Mavericks,Los Angeles Lakers,122,111,American Airlines Center,20484,/boxscores/201703070DAL.html
+Tue Mar 7 2017,Phoenix Suns,Washington Wizards,127,131,Talking Stick Resort Arena,16372,/boxscores/201703070PHO.html
+Wed Mar 8 2017,Orlando Magic,Chicago Bulls,98,91,Amway Center,16063,/boxscores/201703080ORL.html
+Wed Mar 8 2017,Atlanta Hawks,Brooklyn Nets,110,105,Philips Arena,11931,/boxscores/201703080ATL.html
+Wed Mar 8 2017,Miami Heat,Charlotte Hornets,108,101,AmericanAirlines Arena,19600,/boxscores/201703080MIA.html
+Wed Mar 8 2017,Houston Rockets,Utah Jazz,108,115,Toyota Center,16230,/boxscores/201703080HOU.html
+Wed Mar 8 2017,Indiana Pacers,Detroit Pistons,115,98,Bankers Life Fieldhouse,14353,/boxscores/201703080IND.html
+Wed Mar 8 2017,Milwaukee Bucks,New York Knicks,104,93,BMO Harris Bradley Center,13767,/boxscores/201703080MIL.html
+Wed Mar 8 2017,Minnesota Timberwolves,Los Angeles Clippers,107,91,Target Center,14933,/boxscores/201703080MIN.html
+Wed Mar 8 2017,New Orleans Pelicans,Toronto Raptors,87,94,Smoothie King Center,14543,/boxscores/201703080NOP.html
+Wed Mar 8 2017,San Antonio Spurs,Sacramento Kings,114,104,AT&T Center,18418,/boxscores/201703080SAS.html
+Wed Mar 8 2017,Denver Nuggets,Washington Wizards,113,123,Pepsi Center,12323,/boxscores/201703080DEN.html
+Wed Mar 8 2017,Golden State Warriors,Boston Celtics,86,99,Oracle Arena,19596,/boxscores/201703080GSW.html
+Thu Mar 9 2017,Detroit Pistons,Cleveland Cavaliers,106,101,The Palace of Auburn Hills,19421,/boxscores/201703090DET.html
+Thu Mar 9 2017,Memphis Grizzlies,Los Angeles Clippers,98,114,FedEx Forum,16642,/boxscores/201703090MEM.html
+Thu Mar 9 2017,Oklahoma City Thunder,San Antonio Spurs,102,92,Chesapeake Energy Arena,18203,/boxscores/201703090OKC.html
+Thu Mar 9 2017,Portland Trail Blazers,Philadelphia 76ers,114,108,Moda Center,19240,/boxscores/201703090POR.html
+Thu Mar 9 2017,Phoenix Suns,Los Angeles Lakers,110,122,Talking Stick Resort Arena,17552,/boxscores/201703090PHO.html
+Fri Mar 10 2017,Charlotte Hornets,Orlando Magic,121,81,Spectrum Center,17444,/boxscores/201703100CHO.html
+Fri Mar 10 2017,Atlanta Hawks,Toronto Raptors,105,99,Philips Arena,16078,/boxscores/201703100ATL.html
+Fri Mar 10 2017,Chicago Bulls,Houston Rockets,94,115,United Center,21995,/boxscores/201703100CHI.html
+Fri Mar 10 2017,Milwaukee Bucks,Indiana Pacers,99,85,BMO Harris Bradley Center,16177,/boxscores/201703100MIL.html
+Fri Mar 10 2017,Minnesota Timberwolves,Golden State Warriors,103,102,Target Center,20412,/boxscores/201703100MIN.html
+Fri Mar 10 2017,Dallas Mavericks,Brooklyn Nets,105,96,American Airlines Center,20022,/boxscores/201703100DAL.html
+Fri Mar 10 2017,Denver Nuggets,Boston Celtics,119,99,Pepsi Center,17147,/boxscores/201703100DEN.html
+Fri Mar 10 2017,Sacramento Kings,Washington Wizards,122,130,Golden 1 Center,17608,/boxscores/201703100SAC.html
+Sat Mar 11 2017,Oklahoma City Thunder,Utah Jazz,112,104,Chesapeake Energy Arena,18203,/boxscores/201703110OKC.html
+Sat Mar 11 2017,Los Angeles Clippers,Philadelphia 76ers,112,100,STAPLES Center,19060,/boxscores/201703110LAC.html
+Sat Mar 11 2017,Detroit Pistons,New York Knicks,112,92,The Palace of Auburn Hills,19607,/boxscores/201703110DET.html
+Sat Mar 11 2017,Charlotte Hornets,New Orleans Pelicans,122,125,Spectrum Center,18196,/boxscores/201703110CHO.html
+Sat Mar 11 2017,Orlando Magic,Cleveland Cavaliers,104,116,Amway Center,18846,/boxscores/201703110ORL.html
+Sat Mar 11 2017,Miami Heat,Toronto Raptors,104,89,AmericanAirlines Arena,19745,/boxscores/201703110MIA.html
+Sat Mar 11 2017,Milwaukee Bucks,Minnesota Timberwolves,102,95,BMO Harris Bradley Center,18717,/boxscores/201703110MIL.html
+Sat Mar 11 2017,San Antonio Spurs,Golden State Warriors,107,85,AT&T Center,18418,/boxscores/201703110SAS.html
+Sat Mar 11 2017,Dallas Mavericks,Phoenix Suns,98,100,American Airlines Center,20324,/boxscores/201703110DAL.html
+Sat Mar 11 2017,Memphis Grizzlies,Atlanta Hawks,90,107,FedEx Forum,17523,/boxscores/201703110MEM.html
+Sat Mar 11 2017,Portland Trail Blazers,Washington Wizards,124,125,Moda Center,19482,/boxscores/201703110POR.html
+Sat Mar 11 2017,Sacramento Kings,Denver Nuggets,92,105,Golden 1 Center,17608,/boxscores/201703110SAC.html
+Sun Mar 12 2017,Boston Celtics,Chicago Bulls,100,80,TD Garden,18624,/boxscores/201703120BOS.html
+Sun Mar 12 2017,Brooklyn Nets,New York Knicks,120,112,Barclays Center,17732,/boxscores/201703120BRK.html
+Sun Mar 12 2017,Indiana Pacers,Miami Heat,102,98,Bankers Life Fieldhouse,17923,/boxscores/201703120IND.html
+Sun Mar 12 2017,Houston Rockets,Cleveland Cavaliers,117,112,Toyota Center,18055,/boxscores/201703120HOU.html
+Sun Mar 12 2017,Phoenix Suns,Portland Trail Blazers,101,110,Talking Stick Resort Arena,16664,/boxscores/201703120PHO.html
+Sun Mar 12 2017,Los Angeles Lakers,Philadelphia 76ers,116,118,STAPLES Center,18997,/boxscores/201703120LAL.html
+Mon Mar 13 2017,Charlotte Hornets,Chicago Bulls,109,115,Spectrum Center,16489,/boxscores/201703130CHO.html
+Mon Mar 13 2017,Toronto Raptors,Dallas Mavericks,100,78,Air Canada Centre,19800,/boxscores/201703130TOR.html
+Mon Mar 13 2017,Memphis Grizzlies,Milwaukee Bucks,113,93,FedEx Forum,16770,/boxscores/201703130MEM.html
+Mon Mar 13 2017,Minnesota Timberwolves,Washington Wizards,119,104,Target Center,15747,/boxscores/201703130MIN.html
+Mon Mar 13 2017,San Antonio Spurs,Atlanta Hawks,107,99,AT&T Center,18418,/boxscores/201703130SAS.html
+Mon Mar 13 2017,Utah Jazz,Los Angeles Clippers,114,108,Vivint Smart Home Arena,19911,/boxscores/201703130UTA.html
+Mon Mar 13 2017,Denver Nuggets,Los Angeles Lakers,129,101,Pepsi Center,17344,/boxscores/201703130DEN.html
+Mon Mar 13 2017,Sacramento Kings,Orlando Magic,120,115,Golden 1 Center,17608,/boxscores/201703130SAC.html
+Tue Mar 14 2017,Cleveland Cavaliers,Detroit Pistons,128,96,Quicken Loans Arena,20562,/boxscores/201703140CLE.html
+Tue Mar 14 2017,Brooklyn Nets,Oklahoma City Thunder,104,122,Barclays Center,13911,/boxscores/201703140BRK.html
+Tue Mar 14 2017,New York Knicks,Indiana Pacers,87,81,Madison Square Garden (IV),18261,/boxscores/201703140NYK.html
+Tue Mar 14 2017,New Orleans Pelicans,Portland Trail Blazers,100,77,Smoothie King Center,15530,/boxscores/201703140NOP.html
+Tue Mar 14 2017,Golden State Warriors,Philadelphia 76ers,106,104,Oracle Arena,19596,/boxscores/201703140GSW.html
+Wed Mar 15 2017,Indiana Pacers,Charlotte Hornets,98,77,Bankers Life Fieldhouse,14169,/boxscores/201703150IND.html
+Wed Mar 15 2017,Washington Wizards,Dallas Mavericks,107,112,Verizon Center,17844,/boxscores/201703150WAS.html
+Wed Mar 15 2017,Boston Celtics,Minnesota Timberwolves,117,104,TD Garden,18624,/boxscores/201703150BOS.html
+Wed Mar 15 2017,Detroit Pistons,Utah Jazz,83,97,The Palace of Auburn Hills,14033,/boxscores/201703150DET.html
+Wed Mar 15 2017,Miami Heat,New Orleans Pelicans,120,112,AmericanAirlines Arena,19678,/boxscores/201703150MIA.html
+Wed Mar 15 2017,Chicago Bulls,Memphis Grizzlies,91,98,United Center,21583,/boxscores/201703150CHI.html
+Wed Mar 15 2017,Houston Rockets,Los Angeles Lakers,139,100,Toyota Center,18055,/boxscores/201703150HOU.html
+Wed Mar 15 2017,San Antonio Spurs,Portland Trail Blazers,106,110,AT&T Center,18418,/boxscores/201703150SAS.html
+Wed Mar 15 2017,Phoenix Suns,Sacramento Kings,101,107,Talking Stick Resort Arena,17196,/boxscores/201703150PHO.html
+Wed Mar 15 2017,Los Angeles Clippers,Milwaukee Bucks,96,97,STAPLES Center,19060,/boxscores/201703150LAC.html
+Thu Mar 16 2017,Cleveland Cavaliers,Utah Jazz,91,83,Quicken Loans Arena,20562,/boxscores/201703160CLE.html
+Thu Mar 16 2017,Toronto Raptors,Oklahoma City Thunder,102,123,Air Canada Centre,19800,/boxscores/201703160TOR.html
+Thu Mar 16 2017,Atlanta Hawks,Memphis Grizzlies,91,103,Philips Arena,17063,/boxscores/201703160ATL.html
+Thu Mar 16 2017,New York Knicks,Brooklyn Nets,110,121,Madison Square Garden (IV),19812,/boxscores/201703160NYK.html
+Thu Mar 16 2017,Denver Nuggets,Los Angeles Clippers,129,114,Pepsi Center,14179,/boxscores/201703160DEN.html
+Thu Mar 16 2017,Golden State Warriors,Orlando Magic,122,92,Oracle Arena,19596,/boxscores/201703160GSW.html
+Fri Mar 17 2017,Philadelphia 76ers,Dallas Mavericks,116,74,Wells Fargo Center,17642,/boxscores/201703170PHI.html
+Fri Mar 17 2017,Washington Wizards,Chicago Bulls,112,107,Verizon Center,20356,/boxscores/201703170WAS.html
+Fri Mar 17 2017,Brooklyn Nets,Boston Celtics,95,98,Barclays Center,17732,/boxscores/201703170BRK.html
+Fri Mar 17 2017,Detroit Pistons,Toronto Raptors,75,87,The Palace of Auburn Hills,16541,/boxscores/201703170DET.html
+Fri Mar 17 2017,Miami Heat,Minnesota Timberwolves,123,105,AmericanAirlines Arena,19600,/boxscores/201703170MIA.html
+Fri Mar 17 2017,New Orleans Pelicans,Houston Rockets,128,112,Smoothie King Center,17972,/boxscores/201703170NOP.html
+Fri Mar 17 2017,Phoenix Suns,Orlando Magic,103,109,Talking Stick Resort Arena,16880,/boxscores/201703170PHO.html
+Fri Mar 17 2017,Los Angeles Lakers,Milwaukee Bucks,103,107,STAPLES Center,18997,/boxscores/201703170LAL.html
+Sat Mar 18 2017,Oklahoma City Thunder,Sacramento Kings,110,94,Chesapeake Energy Arena,18203,/boxscores/201703180OKC.html
+Sat Mar 18 2017,Atlanta Hawks,Portland Trail Blazers,97,113,Philips Arena,16543,/boxscores/201703180ATL.html
+Sat Mar 18 2017,Charlotte Hornets,Washington Wizards,98,93,Spectrum Center,19361,/boxscores/201703180CHO.html
+Sat Mar 18 2017,Los Angeles Clippers,Cleveland Cavaliers,108,78,STAPLES Center,19379,/boxscores/201703180LAC.html
+Sat Mar 18 2017,Chicago Bulls,Utah Jazz,95,86,United Center,21953,/boxscores/201703180CHI.html
+Sat Mar 18 2017,Memphis Grizzlies,San Antonio Spurs,104,96,FedEx Forum,18119,/boxscores/201703180MEM.html
+Sat Mar 18 2017,Denver Nuggets,Houston Rockets,105,109,Pepsi Center,17512,/boxscores/201703180DEN.html
+Sat Mar 18 2017,Golden State Warriors,Milwaukee Bucks,117,92,Oracle Arena,19596,/boxscores/201703180GSW.html
+Sun Mar 19 2017,Brooklyn Nets,Dallas Mavericks,104,111,Barclays Center,14045,/boxscores/201703190BRK.html
+Sun Mar 19 2017,Philadelphia 76ers,Boston Celtics,105,99,Wells Fargo Center,19446,/boxscores/201703190PHI.html
+Sun Mar 19 2017,Detroit Pistons,Phoenix Suns,112,95,The Palace of Auburn Hills,19588,/boxscores/201703190DET.html
+Sun Mar 19 2017,Miami Heat,Portland Trail Blazers,104,115,AmericanAirlines Arena,19600,/boxscores/201703190MIA.html
+Sun Mar 19 2017,New Orleans Pelicans,Minnesota Timberwolves,123,109,Smoothie King Center,16111,/boxscores/201703190NOP.html
+Sun Mar 19 2017,Toronto Raptors,Indiana Pacers,116,91,Air Canada Centre,19800,/boxscores/201703190TOR.html
+Sun Mar 19 2017,San Antonio Spurs,Sacramento Kings,118,102,AT&T Center,18418,/boxscores/201703190SAS.html
+Sun Mar 19 2017,Los Angeles Lakers,Cleveland Cavaliers,120,125,STAPLES Center,18997,/boxscores/201703190LAL.html
+Mon Mar 20 2017,Charlotte Hornets,Atlanta Hawks,105,90,Spectrum Center,14278,/boxscores/201703200CHO.html
+Mon Mar 20 2017,Indiana Pacers,Utah Jazz,107,100,Bankers Life Fieldhouse,15458,/boxscores/201703200IND.html
+Mon Mar 20 2017,Orlando Magic,Philadelphia 76ers,112,109,Amway Center,16236,/boxscores/201703200ORL.html
+Mon Mar 20 2017,Boston Celtics,Washington Wizards,110,102,TD Garden,18624,/boxscores/201703200BOS.html
+Mon Mar 20 2017,Houston Rockets,Denver Nuggets,125,124,Toyota Center,16080,/boxscores/201703200HOU.html
+Mon Mar 20 2017,Oklahoma City Thunder,Golden State Warriors,95,111,Chesapeake Energy Arena,18203,/boxscores/201703200OKC.html
+Mon Mar 20 2017,Los Angeles Clippers,New York Knicks,114,105,STAPLES Center,19060,/boxscores/201703200LAC.html
+Tue Mar 21 2017,Toronto Raptors,Chicago Bulls,122,120,Air Canada Centre,19800,/boxscores/201703210TOR.html
+Tue Mar 21 2017,Brooklyn Nets,Detroit Pistons,98,96,Barclays Center,14343,/boxscores/201703210BRK.html
+Tue Mar 21 2017,Miami Heat,Phoenix Suns,112,97,AmericanAirlines Arena,19600,/boxscores/201703210MIA.html
+Tue Mar 21 2017,New Orleans Pelicans,Memphis Grizzlies,95,82,Smoothie King Center,15973,/boxscores/201703210NOP.html
+Tue Mar 21 2017,Dallas Mavericks,Golden State Warriors,87,112,American Airlines Center,20453,/boxscores/201703210DAL.html
+Tue Mar 21 2017,Minnesota Timberwolves,San Antonio Spurs,93,100,Target Center,13742,/boxscores/201703210MIN.html
+Tue Mar 21 2017,Portland Trail Blazers,Milwaukee Bucks,90,93,Moda Center,19525,/boxscores/201703210POR.html
+Tue Mar 21 2017,Los Angeles Lakers,Los Angeles Clippers,109,133,STAPLES Center,18724,/boxscores/201703210LAL.html
+Wed Mar 22 2017,Orlando Magic,Charlotte Hornets,102,109,Amway Center,16034,/boxscores/201703220ORL.html
+Wed Mar 22 2017,Boston Celtics,Indiana Pacers,109,100,TD Garden,18624,/boxscores/201703220BOS.html
+Wed Mar 22 2017,Chicago Bulls,Detroit Pistons,117,95,United Center,21503,/boxscores/201703220CHI.html
+Wed Mar 22 2017,Oklahoma City Thunder,Philadelphia 76ers,122,97,Chesapeake Energy Arena,18203,/boxscores/201703220OKC.html
+Wed Mar 22 2017,Washington Wizards,Atlanta Hawks,104,100,Verizon Center,18137,/boxscores/201703220WAS.html
+Wed Mar 22 2017,Denver Nuggets,Cleveland Cavaliers,126,113,Pepsi Center,19718,/boxscores/201703220DEN.html
+Wed Mar 22 2017,Sacramento Kings,Milwaukee Bucks,98,116,Golden 1 Center,17608,/boxscores/201703220SAC.html
+Wed Mar 22 2017,Utah Jazz,New York Knicks,108,101,Vivint Smart Home Arena,19911,/boxscores/201703220UTA.html
+Thu Mar 23 2017,Brooklyn Nets,Phoenix Suns,126,98,Barclays Center,15141,/boxscores/201703230BRK.html
+Thu Mar 23 2017,Miami Heat,Toronto Raptors,84,101,AmericanAirlines Arena,19745,/boxscores/201703230MIA.html
+Thu Mar 23 2017,Dallas Mavericks,Los Angeles Clippers,97,95,American Airlines Center,19703,/boxscores/201703230DAL.html
+Thu Mar 23 2017,San Antonio Spurs,Memphis Grizzlies,97,90,AT&T Center,18418,/boxscores/201703230SAS.html
+Thu Mar 23 2017,Portland Trail Blazers,New York Knicks,110,95,Moda Center,19020,/boxscores/201703230POR.html
+Fri Mar 24 2017,Charlotte Hornets,Cleveland Cavaliers,105,112,Spectrum Center,19511,/boxscores/201703240CHO.html
+Fri Mar 24 2017,Indiana Pacers,Denver Nuggets,117,125,Bankers Life Fieldhouse,17923,/boxscores/201703240IND.html
+Fri Mar 24 2017,Orlando Magic,Detroit Pistons,115,87,Amway Center,18076,/boxscores/201703240ORL.html
+Fri Mar 24 2017,Washington Wizards,Brooklyn Nets,129,108,Verizon Center,19616,/boxscores/201703240WAS.html
+Fri Mar 24 2017,Boston Celtics,Phoenix Suns,130,120,TD Garden,18624,/boxscores/201703240BOS.html
+Fri Mar 24 2017,Chicago Bulls,Philadelphia 76ers,107,117,United Center,21558,/boxscores/201703240CHI.html
+Fri Mar 24 2017,Houston Rockets,New Orleans Pelicans,117,107,Toyota Center,18055,/boxscores/201703240HOU.html
+Fri Mar 24 2017,Milwaukee Bucks,Atlanta Hawks,100,97,BMO Harris Bradley Center,16786,/boxscores/201703240MIL.html
+Fri Mar 24 2017,Golden State Warriors,Sacramento Kings,114,100,Oracle Arena,19596,/boxscores/201703240GSW.html
+Fri Mar 24 2017,Los Angeles Lakers,Minnesota Timberwolves,130,119,STAPLES Center,18997,/boxscores/201703240LAL.html
+Sat Mar 25 2017,Los Angeles Clippers,Utah Jazz,108,95,STAPLES Center,19060,/boxscores/201703250LAC.html
+Sat Mar 25 2017,Cleveland Cavaliers,Washington Wizards,115,127,Quicken Loans Arena,20562,/boxscores/201703250CLE.html
+Sat Mar 25 2017,Dallas Mavericks,Toronto Raptors,86,94,American Airlines Center,19934,/boxscores/201703250DAL.html
+Sat Mar 25 2017,San Antonio Spurs,New York Knicks,106,98,AT&T Center,18418,/boxscores/201703250SAS.html
+Sat Mar 25 2017,Portland Trail Blazers,Minnesota Timberwolves,112,100,Moda Center,19580,/boxscores/201703250POR.html
+Sun Mar 26 2017,Atlanta Hawks,Brooklyn Nets,92,107,Philips Arena,15921,/boxscores/201703260ATL.html
+Sun Mar 26 2017,Charlotte Hornets,Phoenix Suns,120,106,Spectrum Center,17292,/boxscores/201703260CHO.html
+Sun Mar 26 2017,Houston Rockets,Oklahoma City Thunder,137,125,Toyota Center,18055,/boxscores/201703260HOU.html
+Sun Mar 26 2017,Los Angeles Clippers,Sacramento Kings,97,98,STAPLES Center,19060,/boxscores/201703260LAC.html
+Sun Mar 26 2017,Milwaukee Bucks,Chicago Bulls,94,109,BMO Harris Bradley Center,17669,/boxscores/201703260MIL.html
+Sun Mar 26 2017,Boston Celtics,Miami Heat,112,108,TD Garden,18624,/boxscores/201703260BOS.html
+Sun Mar 26 2017,Indiana Pacers,Philadelphia 76ers,107,94,Bankers Life Fieldhouse,16467,/boxscores/201703260IND.html
+Sun Mar 26 2017,Denver Nuggets,New Orleans Pelicans,90,115,Pepsi Center,19850,/boxscores/201703260DEN.html
+Sun Mar 26 2017,Golden State Warriors,Memphis Grizzlies,106,94,Oracle Arena,19596,/boxscores/201703260GSW.html
+Sun Mar 26 2017,Los Angeles Lakers,Portland Trail Blazers,81,97,STAPLES Center,18698,/boxscores/201703260LAL.html
+Mon Mar 27 2017,New York Knicks,Detroit Pistons,109,95,Madison Square Garden (IV),19812,/boxscores/201703270NYK.html
+Mon Mar 27 2017,Toronto Raptors,Orlando Magic,131,112,Air Canada Centre,19800,/boxscores/201703270TOR.html
+Mon Mar 27 2017,San Antonio Spurs,Cleveland Cavaliers,103,74,AT&T Center,18418,/boxscores/201703270SAS.html
+Mon Mar 27 2017,Dallas Mavericks,Oklahoma City Thunder,91,92,American Airlines Center,19970,/boxscores/201703270DAL.html
+Mon Mar 27 2017,Sacramento Kings,Memphis Grizzlies,91,90,Golden 1 Center,17608,/boxscores/201703270SAC.html
+Mon Mar 27 2017,Utah Jazz,New Orleans Pelicans,108,100,Vivint Smart Home Arena,18924,/boxscores/201703270UTA.html
+Tue Mar 28 2017,Charlotte Hornets,Milwaukee Bucks,108,118,Spectrum Center,16505,/boxscores/201703280CHO.html
+Tue Mar 28 2017,Indiana Pacers,Minnesota Timberwolves,114,115,Bankers Life Fieldhouse,17534,/boxscores/201703280IND.html
+Tue Mar 28 2017,Atlanta Hawks,Phoenix Suns,95,91,Philips Arena,13412,/boxscores/201703280ATL.html
+Tue Mar 28 2017,Brooklyn Nets,Philadelphia 76ers,101,106,Barclays Center,15471,/boxscores/201703280BRK.html
+Tue Mar 28 2017,Detroit Pistons,Miami Heat,96,97,The Palace of Auburn Hills,17160,/boxscores/201703280DET.html
+Tue Mar 28 2017,Houston Rockets,Golden State Warriors,106,113,Toyota Center,18055,/boxscores/201703280HOU.html
+Tue Mar 28 2017,Portland Trail Blazers,Denver Nuggets,122,113,Moda Center,20003,/boxscores/201703280POR.html
+Tue Mar 28 2017,Los Angeles Lakers,Washington Wizards,108,119,STAPLES Center,18997,/boxscores/201703280LAL.html
+Wed Mar 29 2017,Orlando Magic,Oklahoma City Thunder,106,114,Amway Center,18408,/boxscores/201703290ORL.html
+Wed Mar 29 2017,Philadelphia 76ers,Atlanta Hawks,92,99,Wells Fargo Center,15212,/boxscores/201703290PHI.html
+Wed Mar 29 2017,Boston Celtics,Milwaukee Bucks,100,103,TD Garden,18624,/boxscores/201703290BOS.html
+Wed Mar 29 2017,New York Knicks,Miami Heat,88,105,Madison Square Garden (IV),19812,/boxscores/201703290NYK.html
+Wed Mar 29 2017,Toronto Raptors,Charlotte Hornets,106,110,Air Canada Centre,19800,/boxscores/201703290TOR.html
+Wed Mar 29 2017,Memphis Grizzlies,Indiana Pacers,110,97,FedEx Forum,16367,/boxscores/201703290MEM.html
+Wed Mar 29 2017,New Orleans Pelicans,Dallas Mavericks,121,118,Smoothie King Center,16000,/boxscores/201703290NOP.html
+Wed Mar 29 2017,San Antonio Spurs,Golden State Warriors,98,110,AT&T Center,18418,/boxscores/201703290SAS.html
+Wed Mar 29 2017,Los Angeles Clippers,Washington Wizards,133,124,STAPLES Center,19060,/boxscores/201703290LAC.html
+Wed Mar 29 2017,Sacramento Kings,Utah Jazz,82,112,Golden 1 Center,17608,/boxscores/201703290SAC.html
+Thu Mar 30 2017,Detroit Pistons,Brooklyn Nets,90,89,The Palace of Auburn Hills,15804,/boxscores/201703300DET.html
+Thu Mar 30 2017,Chicago Bulls,Cleveland Cavaliers,99,93,United Center,22282,/boxscores/201703300CHI.html
+Thu Mar 30 2017,Minnesota Timberwolves,Los Angeles Lakers,119,104,Target Center,18179,/boxscores/201703300MIN.html
+Thu Mar 30 2017,Phoenix Suns,Los Angeles Clippers,118,124,Talking Stick Resort Arena,16736,/boxscores/201703300PHO.html
+Thu Mar 30 2017,Portland Trail Blazers,Houston Rockets,117,107,Moda Center,20049,/boxscores/201703300POR.html
+Fri Mar 31 2017,Charlotte Hornets,Denver Nuggets,122,114,Spectrum Center,18353,/boxscores/201703310CHO.html
+Fri Mar 31 2017,Toronto Raptors,Indiana Pacers,111,100,Air Canada Centre,19800,/boxscores/201703310TOR.html
+Fri Mar 31 2017,Boston Celtics,Orlando Magic,117,116,TD Garden,18624,/boxscores/201703310BOS.html
+Fri Mar 31 2017,Cleveland Cavaliers,Philadelphia 76ers,122,105,Quicken Loans Arena,20562,/boxscores/201703310CLE.html
+Fri Mar 31 2017,Memphis Grizzlies,Dallas Mavericks,99,90,FedEx Forum,17317,/boxscores/201703310MEM.html
+Fri Mar 31 2017,Miami Heat,New York Knicks,94,98,AmericanAirlines Arena,19600,/boxscores/201703310MIA.html
+Fri Mar 31 2017,Milwaukee Bucks,Detroit Pistons,108,105,BMO Harris Bradley Center,18717,/boxscores/201703310MIL.html
+Fri Mar 31 2017,New Orleans Pelicans,Sacramento Kings,117,89,Smoothie King Center,17304,/boxscores/201703310NOP.html
+Fri Mar 31 2017,Oklahoma City Thunder,San Antonio Spurs,95,100,Chesapeake Energy Arena,18203,/boxscores/201703310OKC.html
+Fri Mar 31 2017,Utah Jazz,Washington Wizards,95,88,Vivint Smart Home Arena,19911,/boxscores/201703310UTA.html
+Fri Mar 31 2017,Golden State Warriors,Houston Rockets,107,98,Oracle Arena,19596,/boxscores/201703310GSW.html

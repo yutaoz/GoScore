@@ -1,0 +1,41 @@
+Tue May 2 1989,Denver Nuggets,Phoenix Suns,121,130,McNichols Sports Arena,12660,/boxscores/198905020DEN.html
+Tue May 2 1989,Boston Celtics,Detroit Pistons,85,100,Boston Garden,14890,/boxscores/198905020BOS.html
+Tue May 2 1989,Philadelphia 76ers,New York Knicks,115,116,The Spectrum,16236,/boxscores/198905020PHI.html
+Tue May 2 1989,Golden State Warriors,Utah Jazz,120,106,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198905020GSW.html
+Tue May 2 1989,Milwaukee Bucks,Atlanta Hawks,117,113,Bradley Center,18469,/boxscores/198905020MIL.html
+Wed May 3 1989,Chicago Bulls,Cleveland Cavaliers,101,94,Chicago Stadium,17721,/boxscores/198905030CHI.html
+Wed May 3 1989,Houston Rockets,Seattle SuperSonics,126,107,The Summit,16611,/boxscores/198905030HOU.html
+Wed May 3 1989,Portland Trail Blazers,Los Angeles Lakers,108,116,Memorial Coliseum,12880,/boxscores/198905030POR.html
+Fri May 5 1989,Chicago Bulls,Cleveland Cavaliers,105,108,Chicago Stadium,18264,/boxscores/198905050CHI.html
+Fri May 5 1989,Houston Rockets,Seattle SuperSonics,96,98,The Summit,16611,/boxscores/198905050HOU.html
+Fri May 5 1989,Milwaukee Bucks,Atlanta Hawks,106,113,Bradley Center,18633,/boxscores/198905050MIL.html
+Sat May 6 1989,Phoenix Suns,Golden State Warriors,130,103,Arizona Veterans Memorial Coliseum,14471,/boxscores/198905060PHO.html
+Sun May 7 1989,Atlanta Hawks,Milwaukee Bucks,92,96,Omni Coliseum,16220,/boxscores/198905070ATL.html
+Sun May 7 1989,Cleveland Cavaliers,Chicago Bulls,100,101,Coliseum at Richfield,20273,/boxscores/198905070CLE.html
+Sun May 7 1989,Los Angeles Lakers,Seattle SuperSonics,113,102,Great Western Forum,17505,/boxscores/198905070LAL.html
+Tue May 9 1989,New York Knicks,Chicago Bulls,109,120,Madison Square Garden (IV),19591,/boxscores/198905090NYK.html
+Tue May 9 1989,Phoenix Suns,Golden State Warriors,122,127,Arizona Veterans Memorial Coliseum,14471,/boxscores/198905090PHO.html
+Wed May 10 1989,Detroit Pistons,Milwaukee Bucks,85,80,The Palace of Auburn Hills,21454,/boxscores/198905100DET.html
+Wed May 10 1989,Los Angeles Lakers,Seattle SuperSonics,130,108,Great Western Forum,17505,/boxscores/198905100LAL.html
+Thu May 11 1989,New York Knicks,Chicago Bulls,114,97,Madison Square Garden (IV),19591,/boxscores/198905110NYK.html
+Thu May 11 1989,Golden State Warriors,Phoenix Suns,104,113,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198905110GSW.html
+Fri May 12 1989,Detroit Pistons,Milwaukee Bucks,112,92,The Palace of Auburn Hills,21454,/boxscores/198905120DET.html
+Fri May 12 1989,Seattle SuperSonics,Los Angeles Lakers,86,91,Seattle Kingdome,14541,/boxscores/198905120SEA.html
+Sat May 13 1989,Chicago Bulls,New York Knicks,111,88,Chicago Stadium,18599,/boxscores/198905130CHI.html
+Sat May 13 1989,Golden State Warriors,Phoenix Suns,99,135,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198905130GSW.html
+Sun May 14 1989,Chicago Bulls,New York Knicks,106,93,Chicago Stadium,18637,/boxscores/198905140CHI.html
+Sun May 14 1989,Milwaukee Bucks,Detroit Pistons,90,110,Bradley Center,18633,/boxscores/198905140MIL.html
+Sun May 14 1989,Seattle SuperSonics,Los Angeles Lakers,95,97,Seattle Kingdome,14006,/boxscores/198905140SEA.html
+Mon May 15 1989,Milwaukee Bucks,Detroit Pistons,94,96,Bradley Center,18633,/boxscores/198905150MIL.html
+Tue May 16 1989,Phoenix Suns,Golden State Warriors,116,104,Arizona Veterans Memorial Coliseum,14471,/boxscores/198905160PHO.html
+Tue May 16 1989,New York Knicks,Chicago Bulls,121,114,Madison Square Garden (IV),19591,/boxscores/198905160NYK.html
+Fri May 19 1989,Chicago Bulls,New York Knicks,113,111,Chicago Stadium,18676,/boxscores/198905190CHI.html
+Sat May 20 1989,Los Angeles Lakers,Phoenix Suns,127,119,Great Western Forum,17505,/boxscores/198905200LAL.html
+Sun May 21 1989,Detroit Pistons,Chicago Bulls,88,94,The Palace of Auburn Hills,21454,/boxscores/198905210DET.html
+Tue May 23 1989,Detroit Pistons,Chicago Bulls,100,91,The Palace of Auburn Hills,21454,/boxscores/198905230DET.html
+Tue May 23 1989,Los Angeles Lakers,Phoenix Suns,101,95,Great Western Forum,17505,/boxscores/198905230LAL.html
+Fri May 26 1989,Phoenix Suns,Los Angeles Lakers,107,110,Arizona Veterans Memorial Coliseum,14471,/boxscores/198905260PHO.html
+Sat May 27 1989,Chicago Bulls,Detroit Pistons,99,97,Chicago Stadium,18676,/boxscores/198905270CHI.html
+Sun May 28 1989,Phoenix Suns,Los Angeles Lakers,117,122,Arizona Veterans Memorial Coliseum,14471,/boxscores/198905280PHO.html
+Mon May 29 1989,Chicago Bulls,Detroit Pistons,80,86,Chicago Stadium,18676,/boxscores/198905290CHI.html
+Wed May 31 1989,Detroit Pistons,Chicago Bulls,94,85,The Palace of Auburn Hills,21454,/boxscores/198905310DET.html

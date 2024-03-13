@@ -1,0 +1,42 @@
+Mon May 1 2000,Philadelphia 76ers,Charlotte Hornets,105,99,First Union Center,20712,/boxscores/200005010PHI.html
+Mon May 1 2000,Milwaukee Bucks,Indiana Pacers,100,87,Bradley Center,18072,/boxscores/200005010MIL.html
+Tue May 2 2000,Phoenix Suns,San Antonio Spurs,89,78,America West Arena,19023,/boxscores/200005020PHO.html
+Tue May 2 2000,Sacramento Kings,Los Angeles Lakers,101,88,ARCO Arena (II),17317,/boxscores/200005020SAC.html
+Tue May 2 2000,Minnesota Timberwolves,Portland Trail Blazers,77,85,Target Center,19006,/boxscores/200005020MIN.html
+Wed May 3 2000,Seattle SuperSonics,Utah Jazz,104,93,KeyArena at Seattle Center,16631,/boxscores/200005030SEA.html
+Thu May 4 2000,Indiana Pacers,Milwaukee Bucks,96,95,Conseco Fieldhouse,18345,/boxscores/200005040IND.html
+Fri May 5 2000,Los Angeles Lakers,Sacramento Kings,113,86,STAPLES Center,18997,/boxscores/200005050LAL.html
+Fri May 5 2000,Utah Jazz,Seattle SuperSonics,96,93,Delta Center,19911,/boxscores/200005050UTA.html
+Sat May 6 2000,Indiana Pacers,Philadelphia 76ers,108,91,Conseco Fieldhouse,18345,/boxscores/200005060IND.html
+Sun May 7 2000,Portland Trail Blazers,Utah Jazz,94,75,Rose Garden Arena,20351,/boxscores/200005070POR.html
+Sun May 7 2000,Miami Heat,New York Knicks,87,83,AmericanAirlines Arena,20053,/boxscores/200005070MIA.html
+Sun May 7 2000,Los Angeles Lakers,Phoenix Suns,105,77,STAPLES Center,18997,/boxscores/200005070LAL.html
+Mon May 8 2000,Indiana Pacers,Philadelphia 76ers,103,97,Conseco Fieldhouse,18345,/boxscores/200005080IND.html
+Tue May 9 2000,Miami Heat,New York Knicks,76,82,AmericanAirlines Arena,20078,/boxscores/200005090MIA.html
+Tue May 9 2000,Portland Trail Blazers,Utah Jazz,103,85,Rose Garden Arena,20463,/boxscores/200005090POR.html
+Wed May 10 2000,Los Angeles Lakers,Phoenix Suns,97,96,STAPLES Center,18997,/boxscores/200005100LAL.html
+Wed May 10 2000,Philadelphia 76ers,Indiana Pacers,89,97,First Union Center,20823,/boxscores/200005100PHI.html
+Thu May 11 2000,Utah Jazz,Portland Trail Blazers,84,103,Delta Center,19911,/boxscores/200005110UTA.html
+Fri May 12 2000,New York Knicks,Miami Heat,76,77,Madison Square Garden (IV),19763,/boxscores/200005120NYK.html
+Fri May 12 2000,Phoenix Suns,Los Angeles Lakers,99,105,America West Arena,19023,/boxscores/200005120PHO.html
+Sat May 13 2000,Philadelphia 76ers,Indiana Pacers,92,90,First Union Center,20675,/boxscores/200005130PHI.html
+Sun May 14 2000,Phoenix Suns,Los Angeles Lakers,117,98,America West Arena,19023,/boxscores/200005140PHO.html
+Sun May 14 2000,Utah Jazz,Portland Trail Blazers,88,85,Delta Center,19627,/boxscores/200005140UTA.html
+Sun May 14 2000,New York Knicks,Miami Heat,91,83,Madison Square Garden (IV),19763,/boxscores/200005140NYK.html
+Mon May 15 2000,Indiana Pacers,Philadelphia 76ers,86,107,Conseco Fieldhouse,18345,/boxscores/200005150IND.html
+Tue May 16 2000,Los Angeles Lakers,Phoenix Suns,87,65,STAPLES Center,18997,/boxscores/200005160LAL.html
+Tue May 16 2000,Portland Trail Blazers,Utah Jazz,81,79,Rose Garden Arena,20043,/boxscores/200005160POR.html
+Wed May 17 2000,Miami Heat,New York Knicks,87,81,AmericanAirlines Arena,20021,/boxscores/200005170MIA.html
+Fri May 19 2000,New York Knicks,Miami Heat,72,70,Madison Square Garden (IV),19763,/boxscores/200005190NYK.html
+Fri May 19 2000,Philadelphia 76ers,Indiana Pacers,90,106,First Union Center,20969,/boxscores/200005190PHI.html
+Sat May 20 2000,Los Angeles Lakers,Portland Trail Blazers,109,94,STAPLES Center,18997,/boxscores/200005200LAL.html
+Sun May 21 2000,Miami Heat,New York Knicks,82,83,AmericanAirlines Arena,20063,/boxscores/200005210MIA.html
+Mon May 22 2000,Los Angeles Lakers,Portland Trail Blazers,77,106,STAPLES Center,18997,/boxscores/200005220LAL.html
+Tue May 23 2000,Indiana Pacers,New York Knicks,102,88,Conseco Fieldhouse,18345,/boxscores/200005230IND.html
+Thu May 25 2000,Indiana Pacers,New York Knicks,88,84,Conseco Fieldhouse,18345,/boxscores/200005250IND.html
+Fri May 26 2000,Portland Trail Blazers,Los Angeles Lakers,91,93,Rose Garden Arena,20135,/boxscores/200005260POR.html
+Sat May 27 2000,New York Knicks,Indiana Pacers,98,95,Madison Square Garden (IV),19763,/boxscores/200005270NYK.html
+Sun May 28 2000,Portland Trail Blazers,Los Angeles Lakers,91,103,Rose Garden Arena,20209,/boxscores/200005280POR.html
+Mon May 29 2000,New York Knicks,Indiana Pacers,91,89,Madison Square Garden (IV),19763,/boxscores/200005290NYK.html
+Tue May 30 2000,Los Angeles Lakers,Portland Trail Blazers,88,96,STAPLES Center,18997,/boxscores/200005300LAL.html
+Wed May 31 2000,Indiana Pacers,New York Knicks,88,79,Conseco Fieldhouse,18345,/boxscores/200005310IND.html

@@ -1,0 +1,119 @@
+Tue Nov 2 1971,Chicago Bulls,Phoenix Suns,108,101,Chicago Stadium,0,/boxscores/197111020CHI.html
+Tue Nov 2 1971,Golden State Warriors,Baltimore Bullets,106,91,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111020GSW.html
+Wed Nov 3 1971,Atlanta Hawks,Chicago Bulls,100,113,Alexander Memorial Coliseum,0,/boxscores/197111030ATL.html
+Wed Nov 3 1971,Buffalo Braves,Phoenix Suns,98,100,Buffalo Memorial Auditorium,0,/boxscores/197111030BUF.html
+Wed Nov 3 1971,Cincinnati Royals,Philadelphia 76ers,124,100,Cincinnati Gardens,0,/boxscores/197111030CIN.html
+Wed Nov 3 1971,Houston Rockets,New York Knicks,98,117,Astrodome,0,/boxscores/197111030HOU.html
+Thu Nov 4 1971,Golden State Warriors,Seattle SuperSonics,98,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111040GSW.html
+Thu Nov 4 1971,Houston Rockets,Portland Trail Blazers,110,112,Astrohall,0,/boxscores/197111040HOU.html
+Fri Nov 5 1971,Atlanta Hawks,Buffalo Braves,117,122,Alexander Memorial Coliseum,0,/boxscores/197111050ATL.html
+Fri Nov 5 1971,Boston Celtics,Detroit Pistons,103,102,Boston Garden,0,/boxscores/197111050BOS.html
+Fri Nov 5 1971,Chicago Bulls,Milwaukee Bucks,102,104,Chicago Stadium,0,/boxscores/197111050CHI.html
+Fri Nov 5 1971,Cleveland Cavaliers,Phoenix Suns,87,107,Cleveland Arena,0,/boxscores/197111050CLE.html
+Fri Nov 5 1971,Los Angeles Lakers,Baltimore Bullets,110,106,The Forum,0,/boxscores/197111050LAL.html
+Fri Nov 5 1971,Seattle SuperSonics,New York Knicks,101,97,Seattle Center Coliseum,0,/boxscores/197111050SEA.html
+Sat Nov 6 1971,Boston Celtics,Portland Trail Blazers,124,109,Boston Garden,0,/boxscores/197111060BOS.html
+Sat Nov 6 1971,Buffalo Braves,Chicago Bulls,130,99,Buffalo Memorial Auditorium,0,/boxscores/197111060BUF.html
+Sat Nov 6 1971,Cincinnati Royals,Phoenix Suns,110,95,Cincinnati Gardens,0,/boxscores/197111060CIN.html
+Sat Nov 6 1971,Golden State Warriors,Los Angeles Lakers,89,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111060GSW.html
+Sat Nov 6 1971,Milwaukee Bucks,Detroit Pistons,106,78,Milwaukee Arena,0,/boxscores/197111060MIL.html
+Sat Nov 6 1971,Philadelphia 76ers,Atlanta Hawks,101,96,The Spectrum,0,/boxscores/197111060PHI.html
+Sun Nov 7 1971,Cleveland Cavaliers,Portland Trail Blazers,120,99,Cleveland Arena,0,/boxscores/197111070CLE.html
+Sun Nov 7 1971,Houston Rockets,Baltimore Bullets,106,109,Astrohall,0,/boxscores/197111070HOU.html
+Sun Nov 7 1971,Los Angeles Lakers,New York Knicks,103,96,The Forum,0,/boxscores/197111070LAL.html
+Sun Nov 7 1971,Seattle SuperSonics,Golden State Warriors,102,109,Seattle Center Coliseum,0,/boxscores/197111070SEA.html
+Mon Nov 8 1971,Boston Celtics,Cincinnati Royals,120,109,Omaha Civic Auditorium,0,/boxscores/197111080BOS.html
+Tue Nov 9 1971,Buffalo Braves,Portland Trail Blazers,109,100,Buffalo Memorial Auditorium,0,/boxscores/197111090BUF.html
+Tue Nov 9 1971,Chicago Bulls,Los Angeles Lakers,109,122,Chicago Stadium,0,/boxscores/197111090CHI.html
+Tue Nov 9 1971,Golden State Warriors,Houston Rockets,115,99,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111090GSW.html
+Tue Nov 9 1971,Milwaukee Bucks,Phoenix Suns,118,113,Milwaukee Arena,0,/boxscores/197111090MIL.html
+Wed Nov 10 1971,Atlanta Hawks,Milwaukee Bucks,110,116,Alexander Memorial Coliseum,0,/boxscores/197111100ATL.html
+Wed Nov 10 1971,Baltimore Bullets,Chicago Bulls,106,125,Baltimore Civic Center,0,/boxscores/197111100BAL.html
+Wed Nov 10 1971,Cincinnati Royals,New York Knicks,99,85,Cincinnati Gardens,0,/boxscores/197111100CIN.html
+Wed Nov 10 1971,Detroit Pistons,Portland Trail Blazers,139,122,Cobo Arena,0,/boxscores/197111100DET.html
+Wed Nov 10 1971,Houston Rockets,Boston Celtics,103,142,Astrodome,0,/boxscores/197111100HOU.html
+Wed Nov 10 1971,Philadelphia 76ers,Los Angeles Lakers,103,143,The Spectrum,0,/boxscores/197111100PHI.html
+Thu Nov 11 1971,New York Knicks,Golden State Warriors,103,112,Madison Square Garden (IV),0,/boxscores/197111110NYK.html
+Thu Nov 11 1971,Seattle SuperSonics,Cleveland Cavaliers,110,91,Seattle Center Coliseum,0,/boxscores/197111110SEA.html
+Fri Nov 12 1971,Atlanta Hawks,Golden State Warriors,106,104,Alexander Memorial Coliseum,0,/boxscores/197111120ATL.html
+Fri Nov 12 1971,Los Angeles Lakers,Seattle SuperSonics,115,107,The Forum,0,/boxscores/197111120LAL.html
+Fri Nov 12 1971,Milwaukee Bucks,Houston Rockets,111,102,Milwaukee Arena,0,/boxscores/197111120MIL.html
+Fri Nov 12 1971,Philadelphia 76ers,Detroit Pistons,115,101,The Spectrum,0,/boxscores/197111120PHI.html
+Fri Nov 12 1971,Phoenix Suns,Boston Celtics,128,119,Arizona Veterans Memorial Coliseum,0,/boxscores/197111120PHO.html
+Fri Nov 12 1971,Portland Trail Blazers,Cleveland Cavaliers,104,106,Memorial Coliseum,0,/boxscores/197111120POR.html
+Sat Nov 13 1971,Baltimore Bullets,Philadelphia 76ers,111,105,Baltimore Civic Center,0,/boxscores/197111130BAL.html
+Sat Nov 13 1971,Buffalo Braves,Milwaukee Bucks,106,127,Buffalo Memorial Auditorium,0,/boxscores/197111130BUF.html
+Sat Nov 13 1971,Chicago Bulls,Houston Rockets,111,102,Chicago Stadium,0,/boxscores/197111130CHI.html
+Sat Nov 13 1971,Cincinnati Royals,Golden State Warriors,110,101,Cincinnati Gardens,0,/boxscores/197111130CIN.html
+Sat Nov 13 1971,New York Knicks,Detroit Pistons,127,105,Madison Square Garden (IV),0,/boxscores/197111130NYK.html
+Sat Nov 13 1971,Portland Trail Blazers,Los Angeles Lakers,108,130,Memorial Coliseum,0,/boxscores/197111130POR.html
+Sat Nov 13 1971,Seattle SuperSonics,Boston Celtics,116,112,Seattle Center Coliseum,0,/boxscores/197111130SEA.html
+Sun Nov 14 1971,Los Angeles Lakers,Boston Celtics,128,115,The Forum,0,/boxscores/197111140LAL.html
+Sun Nov 14 1971,Milwaukee Bucks,Philadelphia 76ers,125,114,Dane County Veteran Memorial Coliseum,0,/boxscores/197111140MIL.html
+Sun Nov 14 1971,Phoenix Suns,Cleveland Cavaliers,119,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197111140PHO.html
+Tue Nov 16 1971,Baltimore Bullets,Houston Rockets,110,107,Baltimore Civic Center,0,/boxscores/197111160BAL.html
+Tue Nov 16 1971,Buffalo Braves,Cincinnati Royals,102,98,Buffalo Memorial Auditorium,0,/boxscores/197111160BUF.html
+Tue Nov 16 1971,Chicago Bulls,Seattle SuperSonics,95,87,Chicago Stadium,0,/boxscores/197111160CHI.html
+Tue Nov 16 1971,Detroit Pistons,Golden State Warriors,101,122,Cobo Arena,0,/boxscores/197111160DET.html
+Tue Nov 16 1971,Los Angeles Lakers,Cleveland Cavaliers,108,90,The Forum,0,/boxscores/197111160LAL.html
+Tue Nov 16 1971,New York Knicks,Phoenix Suns,112,111,Madison Square Garden (IV),0,/boxscores/197111160NYK.html
+Tue Nov 16 1971,Portland Trail Blazers,Milwaukee Bucks,105,125,Memorial Coliseum,0,/boxscores/197111160POR.html
+Wed Nov 17 1971,Atlanta Hawks,Seattle SuperSonics,104,112,Alexander Memorial Coliseum,0,/boxscores/197111170ATL.html
+Wed Nov 17 1971,Boston Celtics,Phoenix Suns,140,121,Boston Garden,0,/boxscores/197111170BOS.html
+Wed Nov 17 1971,Cincinnati Royals,Baltimore Bullets,103,113,Cincinnati Gardens,0,/boxscores/197111170CIN.html
+Wed Nov 17 1971,Philadelphia 76ers,Houston Rockets,112,118,The Spectrum,0,/boxscores/197111170PHI.html
+Thu Nov 18 1971,Detroit Pistons,Phoenix Suns,128,126,Cobo Arena,0,/boxscores/197111180DET.html
+Thu Nov 18 1971,Golden State Warriors,Portland Trail Blazers,115,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111180GSW.html
+Fri Nov 19 1971,Baltimore Bullets,Buffalo Braves,126,105,Baltimore Civic Center,0,/boxscores/197111190BAL.html
+Fri Nov 19 1971,Boston Celtics,Cincinnati Royals,106,110,Boston Garden,0,/boxscores/197111190BOS.html
+Fri Nov 19 1971,Los Angeles Lakers,Houston Rockets,106,99,The Forum,0,/boxscores/197111190LAL.html
+Fri Nov 19 1971,Philadelphia 76ers,Chicago Bulls,104,148,The Spectrum,0,/boxscores/197111190PHI.html
+Fri Nov 19 1971,Portland Trail Blazers,Cleveland Cavaliers,118,105,Memorial Coliseum,0,/boxscores/197111190POR.html
+Fri Nov 19 1971,Seattle SuperSonics,Milwaukee Bucks,107,108,Seattle Center Coliseum,0,/boxscores/197111190SEA.html
+Sat Nov 20 1971,Atlanta Hawks,Phoenix Suns,115,109,Alexander Memorial Coliseum,0,/boxscores/197111200ATL.html
+Sat Nov 20 1971,Buffalo Braves,Detroit Pistons,96,105,Buffalo Memorial Auditorium,0,/boxscores/197111200BUF.html
+Sat Nov 20 1971,Chicago Bulls,Boston Celtics,123,106,Chicago Stadium,0,/boxscores/197111200CHI.html
+Sat Nov 20 1971,Golden State Warriors,Milwaukee Bucks,107,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111200GSW.html
+Sat Nov 20 1971,New York Knicks,Baltimore Bullets,125,114,Madison Square Garden (IV),0,/boxscores/197111200NYK.html
+Sat Nov 20 1971,Portland Trail Blazers,Seattle SuperSonics,100,104,Memorial Coliseum,0,/boxscores/197111200POR.html
+Sun Nov 21 1971,Cleveland Cavaliers,Boston Celtics,105,128,Cleveland Arena,0,/boxscores/197111210CLE.html
+Sun Nov 21 1971,Golden State Warriors,Houston Rockets,96,115,San Diego Sports Arena,0,/boxscores/197111210GSW.html
+Sun Nov 21 1971,Los Angeles Lakers,Milwaukee Bucks,112,105,The Forum,0,/boxscores/197111210LAL.html
+Sun Nov 21 1971,Seattle SuperSonics,Philadelphia 76ers,127,117,Seattle Center Coliseum,0,/boxscores/197111210SEA.html
+Tue Nov 23 1971,Buffalo Braves,Atlanta Hawks,102,97,Buffalo Memorial Auditorium,0,/boxscores/197111230BUF.html
+Tue Nov 23 1971,Chicago Bulls,Portland Trail Blazers,130,94,Chicago Stadium,0,/boxscores/197111230CHI.html
+Tue Nov 23 1971,Cleveland Cavaliers,Baltimore Bullets,104,102,Cleveland Arena,0,/boxscores/197111230CLE.html
+Tue Nov 23 1971,Detroit Pistons,Milwaukee Bucks,104,112,Cobo Arena,0,/boxscores/197111230DET.html
+Tue Nov 23 1971,New York Knicks,Cincinnati Royals,125,110,Madison Square Garden (IV),0,/boxscores/197111230NYK.html
+Tue Nov 23 1971,Phoenix Suns,Philadelphia 76ers,128,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197111230PHO.html
+Wed Nov 24 1971,Baltimore Bullets,New York Knicks,94,114,Baltimore Civic Center,0,/boxscores/197111240BAL.html
+Wed Nov 24 1971,Boston Celtics,Buffalo Braves,108,100,Boston Garden,0,/boxscores/197111240BOS.html
+Wed Nov 24 1971,Cincinnati Royals,Portland Trail Blazers,114,112,Cincinnati Gardens,0,/boxscores/197111240CIN.html
+Wed Nov 24 1971,Houston Rockets,Philadelphia 76ers,109,108,Astrohall,0,/boxscores/197111240HOU.html
+Wed Nov 24 1971,Milwaukee Bucks,Atlanta Hawks,141,107,Milwaukee Arena,0,/boxscores/197111240MIL.html
+Thu Nov 25 1971,Golden State Warriors,Philadelphia 76ers,111,112,Oakland-Alameda County Coliseum Arena,0,/boxscores/197111250GSW.html
+Thu Nov 25 1971,Phoenix Suns,Detroit Pistons,122,103,Arizona Veterans Memorial Coliseum,0,/boxscores/197111250PHO.html
+Thu Nov 25 1971,Seattle SuperSonics,Los Angeles Lakers,115,139,Seattle Center Coliseum,0,/boxscores/197111250SEA.html
+Fri Nov 26 1971,Atlanta Hawks,Baltimore Bullets,105,118,Alexander Memorial Coliseum,0,/boxscores/197111260ATL.html
+Fri Nov 26 1971,Boston Celtics,New York Knicks,89,104,Boston Garden,0,/boxscores/197111260BOS.html
+Fri Nov 26 1971,Chicago Bulls,Golden State Warriors,121,89,Chicago Stadium,0,/boxscores/197111260CHI.html
+Fri Nov 26 1971,Cleveland Cavaliers,Cincinnati Royals,128,114,Cleveland Arena,0,/boxscores/197111260CLE.html
+Fri Nov 26 1971,Los Angeles Lakers,Detroit Pistons,132,113,The Forum,0,/boxscores/197111260LAL.html
+Fri Nov 26 1971,Milwaukee Bucks,Portland Trail Blazers,120,105,Milwaukee Arena,0,/boxscores/197111260MIL.html
+Sat Nov 27 1971,Atlanta Hawks,Cleveland Cavaliers,95,103,Alexander Memorial Coliseum,0,/boxscores/197111270ATL.html
+Sat Nov 27 1971,Baltimore Bullets,Boston Celtics,125,120,Cole Field House,0,/boxscores/197111270BAL.html
+Sat Nov 27 1971,Buffalo Braves,Golden State Warriors,91,110,Buffalo Memorial Auditorium,0,/boxscores/197111270BUF.html
+Sat Nov 27 1971,Cincinnati Royals,Milwaukee Bucks,81,114,Cincinnati Gardens,0,/boxscores/197111270CIN.html
+Sat Nov 27 1971,New York Knicks,Chicago Bulls,100,99,Madison Square Garden (IV),0,/boxscores/197111270NYK.html
+Sat Nov 27 1971,Philadelphia 76ers,Portland Trail Blazers,116,93,The Spectrum,0,/boxscores/197111270PHI.html
+Sat Nov 27 1971,Seattle SuperSonics,Detroit Pistons,124,102,Seattle Center Coliseum,0,/boxscores/197111270SEA.html
+Sun Nov 28 1971,Boston Celtics,Atlanta Hawks,130,108,Boston Garden,0,/boxscores/197111280BOS.html
+Sun Nov 28 1971,Cleveland Cavaliers,Philadelphia 76ers,124,120,Cleveland Arena,0,/boxscores/197111280CLE.html
+Sun Nov 28 1971,Houston Rockets,Phoenix Suns,110,116,Astrohall,0,/boxscores/197111280HOU.html
+Sun Nov 28 1971,Los Angeles Lakers,Seattle SuperSonics,138,121,The Forum,0,/boxscores/197111280LAL.html
+Tue Nov 30 1971,Baltimore Bullets,Cincinnati Royals,103,118,Baltimore Civic Center,0,/boxscores/197111300BAL.html
+Tue Nov 30 1971,Buffalo Braves,Houston Rockets,101,115,Buffalo Memorial Auditorium,0,/boxscores/197111300BUF.html
+Tue Nov 30 1971,Chicago Bulls,Atlanta Hawks,86,85,Chicago Stadium,0,/boxscores/197111300CHI.html
+Tue Nov 30 1971,Milwaukee Bucks,Golden State Warriors,103,106,Milwaukee Arena,0,/boxscores/197111300MIL.html
+Tue Nov 30 1971,New York Knicks,Seattle SuperSonics,109,110,Madison Square Garden (IV),0,/boxscores/197111300NYK.html
+Tue Nov 30 1971,Portland Trail Blazers,Phoenix Suns,111,121,Memorial Coliseum,0,/boxscores/197111300POR.html

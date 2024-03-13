@@ -1,0 +1,127 @@
+Fri Feb 1 1974,Boston Celtics,Philadelphia 76ers,106,105,Hersheypark Arena,0,/boxscores/197402010BOS.html
+Fri Feb 1 1974,Chicago Bulls,Kansas City-Omaha Kings,99,88,Chicago Stadium,0,/boxscores/197402010CHI.html
+Fri Feb 1 1974,Cleveland Cavaliers,Capital Bullets,99,107,Cleveland Arena,0,/boxscores/197402010CLE.html
+Fri Feb 1 1974,Detroit Pistons,New York Knicks,96,91,Cobo Arena,0,/boxscores/197402010DET.html
+Fri Feb 1 1974,Los Angeles Lakers,Phoenix Suns,121,110,The Forum,0,/boxscores/197402010LAL.html
+Fri Feb 1 1974,Seattle SuperSonics,Milwaukee Bucks,110,85,Seattle Center Coliseum,0,/boxscores/197402010SEA.html
+Sat Feb 2 1974,Atlanta Hawks,Houston Rockets,117,107,Omni Coliseum,0,/boxscores/197402020ATL.html
+Sat Feb 2 1974,Golden State Warriors,Milwaukee Bucks,120,91,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402020GSW.html
+Sat Feb 2 1974,New York Knicks,Cleveland Cavaliers,103,87,Madison Square Garden (IV),0,/boxscores/197402020NYK.html
+Sat Feb 2 1974,Philadelphia 76ers,Chicago Bulls,89,105,The Spectrum,0,/boxscores/197402020PHI.html
+Sat Feb 2 1974,Phoenix Suns,Los Angeles Lakers,119,112,Arizona Veterans Memorial Coliseum,0,/boxscores/197402020PHO.html
+Sat Feb 2 1974,Portland Trail Blazers,Seattle SuperSonics,102,97,Memorial Coliseum,0,/boxscores/197402020POR.html
+Sun Feb 3 1974,Boston Celtics,Capital Bullets,99,112,Boston Garden,0,/boxscores/197402030BOS.html
+Sun Feb 3 1974,Buffalo Braves,Philadelphia 76ers,112,98,Maple Leaf Gardens,0,/boxscores/197402030BUF.html
+Sun Feb 3 1974,Cleveland Cavaliers,Chicago Bulls,94,108,Cleveland Arena,0,/boxscores/197402030CLE.html
+Sun Feb 3 1974,Houston Rockets,Atlanta Hawks,123,112,Hofheinz Pavilion,0,/boxscores/197402030HOU.html
+Sun Feb 3 1974,Los Angeles Lakers,Portland Trail Blazers,124,91,The Forum,0,/boxscores/197402030LAL.html
+Sun Feb 3 1974,Seattle SuperSonics,Detroit Pistons,100,114,Seattle Center Coliseum,0,/boxscores/197402030SEA.html
+Tue Feb 5 1974,Atlanta Hawks,Capital Bullets,121,103,Omni Coliseum,0,/boxscores/197402050ATL.html
+Tue Feb 5 1974,Chicago Bulls,Boston Celtics,100,98,Chicago Stadium,0,/boxscores/197402050CHI.html
+Tue Feb 5 1974,Cleveland Cavaliers,Milwaukee Bucks,87,102,Cleveland Arena,0,/boxscores/197402050CLE.html
+Tue Feb 5 1974,Golden State Warriors,Seattle SuperSonics,129,113,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402050GSW.html
+Tue Feb 5 1974,Houston Rockets,Los Angeles Lakers,116,112,Hofheinz Pavilion,0,/boxscores/197402050HOU.html
+Tue Feb 5 1974,New York Knicks,Phoenix Suns,106,90,Madison Square Garden (IV),0,/boxscores/197402050NYK.html
+Tue Feb 5 1974,Portland Trail Blazers,Detroit Pistons,102,104,Memorial Coliseum,0,/boxscores/197402050POR.html
+Wed Feb 6 1974,Atlanta Hawks,Los Angeles Lakers,107,103,Omni Coliseum,0,/boxscores/197402060ATL.html
+Wed Feb 6 1974,Capital Bullets,Phoenix Suns,109,101,Capital Centre,0,/boxscores/197402060CAP.html
+Wed Feb 6 1974,Kansas City-Omaha Kings,Chicago Bulls,95,112,Omaha Civic Auditorium,0,/boxscores/197402060KCO.html
+Wed Feb 6 1974,Milwaukee Bucks,Boston Celtics,104,105,Milwaukee Arena,0,/boxscores/197402060MIL.html
+Wed Feb 6 1974,Philadelphia 76ers,Buffalo Braves,98,114,The Spectrum,0,/boxscores/197402060PHI.html
+Wed Feb 6 1974,Seattle SuperSonics,Portland Trail Blazers,107,94,Seattle Center Coliseum,0,/boxscores/197402060SEA.html
+Thu Feb 7 1974,Golden State Warriors,Detroit Pistons,86,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402070GSW.html
+Fri Feb 8 1974,Boston Celtics,New York Knicks,125,97,Boston Garden,0,/boxscores/197402080BOS.html
+Fri Feb 8 1974,Buffalo Braves,Chicago Bulls,106,101,Buffalo Memorial Auditorium,0,/boxscores/197402080BUF.html
+Fri Feb 8 1974,Houston Rockets,Cleveland Cavaliers,120,106,Hofheinz Pavilion,0,/boxscores/197402080HOU.html
+Fri Feb 8 1974,Milwaukee Bucks,Capital Bullets,105,96,Milwaukee Arena,0,/boxscores/197402080MIL.html
+Fri Feb 8 1974,Philadelphia 76ers,Atlanta Hawks,104,84,The Spectrum,0,/boxscores/197402080PHI.html
+Fri Feb 8 1974,Phoenix Suns,Detroit Pistons,94,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197402080PHO.html
+Fri Feb 8 1974,Portland Trail Blazers,Kansas City-Omaha Kings,99,104,Memorial Coliseum,0,/boxscores/197402080POR.html
+Sat Feb 9 1974,Atlanta Hawks,Cleveland Cavaliers,99,90,Omni Coliseum,0,/boxscores/197402090ATL.html
+Sat Feb 9 1974,Capital Bullets,Philadelphia 76ers,108,75,Capital Centre,0,/boxscores/197402090CAP.html
+Sat Feb 9 1974,Golden State Warriors,Kansas City-Omaha Kings,120,121,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402090GSW.html
+Sat Feb 9 1974,New York Knicks,Buffalo Braves,100,103,Madison Square Garden (IV),0,/boxscores/197402090NYK.html
+Sun Feb 10 1974,Boston Celtics,Milwaukee Bucks,86,95,Providence Civic Center,0,/boxscores/197402100BOS.html
+Sun Feb 10 1974,Chicago Bulls,Los Angeles Lakers,96,86,Chicago Stadium,0,/boxscores/197402100CHI.html
+Sun Feb 10 1974,Cleveland Cavaliers,Buffalo Braves,125,121,Cleveland Arena,0,/boxscores/197402100CLE.html
+Sun Feb 10 1974,Philadelphia 76ers,Capital Bullets,95,94,The Spectrum,0,/boxscores/197402100PHI.html
+Sun Feb 10 1974,Phoenix Suns,Golden State Warriors,105,121,Arizona Veterans Memorial Coliseum,0,/boxscores/197402100PHO.html
+Sun Feb 10 1974,Portland Trail Blazers,Houston Rockets,106,112,Memorial Coliseum,0,/boxscores/197402100POR.html
+Sun Feb 10 1974,Seattle SuperSonics,Kansas City-Omaha Kings,119,103,Seattle Center Coliseum,0,/boxscores/197402100SEA.html
+Mon Feb 11 1974,Atlanta Hawks,Philadelphia 76ers,95,116,Omni Coliseum,0,/boxscores/197402110ATL.html
+Tue Feb 12 1974,Buffalo Braves,New York Knicks,93,100,Buffalo Memorial Auditorium,0,/boxscores/197402120BUF.html
+Tue Feb 12 1974,Chicago Bulls,Milwaukee Bucks,93,81,Chicago Stadium,0,/boxscores/197402120CHI.html
+Tue Feb 12 1974,Cleveland Cavaliers,Capital Bullets,99,107,Cleveland Arena,0,/boxscores/197402120CLE.html
+Tue Feb 12 1974,Detroit Pistons,Kansas City-Omaha Kings,113,106,Cobo Arena,0,/boxscores/197402120DET.html
+Tue Feb 12 1974,Golden State Warriors,Boston Celtics,102,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402120GSW.html
+Tue Feb 12 1974,Los Angeles Lakers,Houston Rockets,119,129,The Forum,0,/boxscores/197402120LAL.html
+Tue Feb 12 1974,Portland Trail Blazers,Phoenix Suns,113,104,Memorial Coliseum,0,/boxscores/197402120POR.html
+Wed Feb 13 1974,Capital Bullets,Kansas City-Omaha Kings,89,87,Capital Centre,0,/boxscores/197402130CAP.html
+Wed Feb 13 1974,New York Knicks,Chicago Bulls,89,80,Madison Square Garden (IV),0,/boxscores/197402130NYK.html
+Wed Feb 13 1974,Philadelphia 76ers,Buffalo Braves,106,129,The Spectrum,0,/boxscores/197402130PHI.html
+Wed Feb 13 1974,Seattle SuperSonics,Boston Celtics,118,100,Seattle Center Coliseum,0,/boxscores/197402130SEA.html
+Thu Feb 14 1974,Detroit Pistons,Milwaukee Bucks,99,102,Cobo Arena,0,/boxscores/197402140DET.html
+Thu Feb 14 1974,Golden State Warriors,Atlanta Hawks,121,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402140GSW.html
+Thu Feb 14 1974,Phoenix Suns,Houston Rockets,107,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197402140PHO.html
+Fri Feb 15 1974,Buffalo Braves,Detroit Pistons,118,116,Buffalo Memorial Auditorium,0,/boxscores/197402150BUF.html
+Fri Feb 15 1974,Los Angeles Lakers,Seattle SuperSonics,112,96,The Forum,0,/boxscores/197402150LAL.html
+Fri Feb 15 1974,Milwaukee Bucks,Chicago Bulls,90,92,Milwaukee Arena,0,/boxscores/197402150MIL.html
+Fri Feb 15 1974,Philadelphia 76ers,Kansas City-Omaha Kings,92,89,The Spectrum,0,/boxscores/197402150PHI.html
+Fri Feb 15 1974,Portland Trail Blazers,Boston Celtics,104,106,Memorial Coliseum,0,/boxscores/197402150POR.html
+Sat Feb 16 1974,Capital Bullets,Buffalo Braves,101,92,Capital Centre,0,/boxscores/197402160CAP.html
+Sat Feb 16 1974,New York Knicks,Golden State Warriors,117,107,Madison Square Garden (IV),0,/boxscores/197402160NYK.html
+Sat Feb 16 1974,Phoenix Suns,Atlanta Hawks,124,123,Arizona Veterans Memorial Coliseum,0,/boxscores/197402160PHO.html
+Sat Feb 16 1974,Portland Trail Blazers,Cleveland Cavaliers,101,106,Memorial Coliseum,0,/boxscores/197402160POR.html
+Sun Feb 17 1974,Capital Bullets,Boston Celtics,99,95,Capital Centre,0,/boxscores/197402170CAP.html
+Sun Feb 17 1974,Chicago Bulls,Golden State Warriors,105,108,Chicago Stadium,0,/boxscores/197402170CHI.html
+Sun Feb 17 1974,Houston Rockets,Buffalo Braves,118,135,Hofheinz Pavilion,0,/boxscores/197402170HOU.html
+Sun Feb 17 1974,Los Angeles Lakers,Atlanta Hawks,110,113,The Forum,0,/boxscores/197402170LAL.html
+Sun Feb 17 1974,Milwaukee Bucks,New York Knicks,97,86,Milwaukee Arena,0,/boxscores/197402170MIL.html
+Sun Feb 17 1974,Philadelphia 76ers,Detroit Pistons,107,118,The Spectrum,0,/boxscores/197402170PHI.html
+Sun Feb 17 1974,Phoenix Suns,Portland Trail Blazers,112,100,Arizona Veterans Memorial Coliseum,0,/boxscores/197402170PHO.html
+Sun Feb 17 1974,Seattle SuperSonics,Cleveland Cavaliers,106,97,Seattle Center Coliseum,0,/boxscores/197402170SEA.html
+Tue Feb 19 1974,Boston Celtics,Detroit Pistons,107,97,Boston Garden,0,/boxscores/197402190BOS.html
+Tue Feb 19 1974,Buffalo Braves,Milwaukee Bucks,145,109,Buffalo Memorial Auditorium,0,/boxscores/197402190BUF.html
+Tue Feb 19 1974,Chicago Bulls,Phoenix Suns,130,96,Chicago Stadium,0,/boxscores/197402190CHI.html
+Tue Feb 19 1974,Cleveland Cavaliers,Golden State Warriors,98,104,Cleveland Arena,0,/boxscores/197402190CLE.html
+Tue Feb 19 1974,Kansas City-Omaha Kings,Los Angeles Lakers,92,86,Municipal Auditorium,0,/boxscores/197402190KCO.html
+Tue Feb 19 1974,New York Knicks,Portland Trail Blazers,119,116,Madison Square Garden (IV),0,/boxscores/197402190NYK.html
+Wed Feb 20 1974,Atlanta Hawks,Milwaukee Bucks,94,110,Dane County Veteran Memorial Coliseum,0,/boxscores/197402200ATL.html
+Wed Feb 20 1974,Capital Bullets,Portland Trail Blazers,116,101,Capital Centre,0,/boxscores/197402200CAP.html
+Wed Feb 20 1974,Detroit Pistons,Los Angeles Lakers,112,110,Cobo Arena,0,/boxscores/197402200DET.html
+Wed Feb 20 1974,Houston Rockets,Philadelphia 76ers,115,98,Hofheinz Pavilion,0,/boxscores/197402200HOU.html
+Wed Feb 20 1974,Kansas City-Omaha Kings,Golden State Warriors,116,97,Omaha Civic Auditorium,0,/boxscores/197402200KCO.html
+Thu Feb 21 1974,Buffalo Braves,New York Knicks,119,97,Maple Leaf Gardens,0,/boxscores/197402210BUF.html
+Thu Feb 21 1974,Cleveland Cavaliers,Golden State Warriors,103,122,Cleveland Arena,0,/boxscores/197402210CLE.html
+Fri Feb 22 1974,Buffalo Braves,Boston Celtics,109,116,Buffalo Memorial Auditorium,0,/boxscores/197402220BUF.html
+Fri Feb 22 1974,Chicago Bulls,Portland Trail Blazers,117,100,Chicago Stadium,0,/boxscores/197402220CHI.html
+Fri Feb 22 1974,Cleveland Cavaliers,New York Knicks,110,117,Cleveland Arena,0,/boxscores/197402220CLE.html
+Fri Feb 22 1974,Detroit Pistons,Capital Bullets,84,83,Cobo Arena,0,/boxscores/197402220DET.html
+Fri Feb 22 1974,Houston Rockets,Milwaukee Bucks,113,122,Hofheinz Pavilion,0,/boxscores/197402220HOU.html
+Fri Feb 22 1974,Kansas City-Omaha Kings,Phoenix Suns,119,104,Municipal Auditorium,0,/boxscores/197402220KCO.html
+Fri Feb 22 1974,Los Angeles Lakers,Philadelphia 76ers,104,103,The Forum,0,/boxscores/197402220LAL.html
+Sat Feb 23 1974,Capital Bullets,Cleveland Cavaliers,101,104,Capital Centre,0,/boxscores/197402230CAP.html
+Sat Feb 23 1974,Detroit Pistons,Phoenix Suns,119,107,Cobo Arena,0,/boxscores/197402230DET.html
+Sat Feb 23 1974,Golden State Warriors,Philadelphia 76ers,125,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402230GSW.html
+Sat Feb 23 1974,New York Knicks,Atlanta Hawks,98,90,Madison Square Garden (IV),0,/boxscores/197402230NYK.html
+Sat Feb 23 1974,Seattle SuperSonics,Los Angeles Lakers,116,118,Seattle Center Coliseum,0,/boxscores/197402230SEA.html
+Sun Feb 24 1974,Atlanta Hawks,Boston Celtics,96,111,Providence Civic Center,0,/boxscores/197402240ATL.html
+Sun Feb 24 1974,Capital Bullets,Detroit Pistons,94,84,Capital Centre,0,/boxscores/197402240CAP.html
+Sun Feb 24 1974,Cleveland Cavaliers,Phoenix Suns,101,97,Cleveland Arena,0,/boxscores/197402240CLE.html
+Sun Feb 24 1974,Houston Rockets,Portland Trail Blazers,133,115,Hofheinz Pavilion,0,/boxscores/197402240HOU.html
+Sun Feb 24 1974,Kansas City-Omaha Kings,Milwaukee Bucks,93,100,Municipal Auditorium,0,/boxscores/197402240KCO.html
+Sun Feb 24 1974,Los Angeles Lakers,Chicago Bulls,100,90,The Forum,0,/boxscores/197402240LAL.html
+Sun Feb 24 1974,Seattle SuperSonics,Philadelphia 76ers,115,105,Seattle Center Coliseum,0,/boxscores/197402240SEA.html
+Tue Feb 26 1974,Buffalo Braves,Los Angeles Lakers,112,119,Buffalo Memorial Auditorium,0,/boxscores/197402260BUF.html
+Tue Feb 26 1974,Detroit Pistons,Boston Celtics,83,86,Cobo Arena,0,/boxscores/197402260DET.html
+Tue Feb 26 1974,Golden State Warriors,Phoenix Suns,120,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402260GSW.html
+Tue Feb 26 1974,Houston Rockets,Kansas City-Omaha Kings,118,101,Hofheinz Pavilion,0,/boxscores/197402260HOU.html
+Tue Feb 26 1974,New York Knicks,Capital Bullets,85,71,Madison Square Garden (IV),0,/boxscores/197402260NYK.html
+Tue Feb 26 1974,Portland Trail Blazers,Philadelphia 76ers,110,118,Memorial Coliseum,0,/boxscores/197402260POR.html
+Wed Feb 27 1974,Atlanta Hawks,Kansas City-Omaha Kings,76,85,Omni Coliseum,0,/boxscores/197402270ATL.html
+Wed Feb 27 1974,Boston Celtics,Buffalo Braves,104,122,Providence Civic Center,0,/boxscores/197402270BOS.html
+Wed Feb 27 1974,Capital Bullets,Seattle SuperSonics,104,100,Capital Centre,0,/boxscores/197402270CAP.html
+Wed Feb 27 1974,Milwaukee Bucks,Los Angeles Lakers,108,110,Milwaukee Arena,0,/boxscores/197402270MIL.html
+Wed Feb 27 1974,Phoenix Suns,Chicago Bulls,95,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197402270PHO.html
+Thu Feb 28 1974,Golden State Warriors,Portland Trail Blazers,129,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197402280GSW.html
+Thu Feb 28 1974,Milwaukee Bucks,Detroit Pistons,113,90,Milwaukee Arena,0,/boxscores/197402280MIL.html

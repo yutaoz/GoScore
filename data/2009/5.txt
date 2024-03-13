@@ -1,0 +1,38 @@
+Fri May 1 2009,Miami Heat,Atlanta Hawks,98,72,AmericanAirlines Arena,19600,/boxscores/200905010MIA.html
+Sat May 2 2009,Boston Celtics,Chicago Bulls,109,99,TD Banknorth Garden,18624,/boxscores/200905020BOS.html
+Sun May 3 2009,Atlanta Hawks,Miami Heat,91,78,Philips Arena,18864,/boxscores/200905030ATL.html
+Sun May 3 2009,Denver Nuggets,Dallas Mavericks,109,95,Pepsi Center,19631,/boxscores/200905030DEN.html
+Mon May 4 2009,Boston Celtics,Orlando Magic,90,95,TD Banknorth Garden,18624,/boxscores/200905040BOS.html
+Mon May 4 2009,Los Angeles Lakers,Houston Rockets,92,100,STAPLES Center,18997,/boxscores/200905040LAL.html
+Tue May 5 2009,Cleveland Cavaliers,Atlanta Hawks,99,72,Quicken Loans Arena,20562,/boxscores/200905050CLE.html
+Tue May 5 2009,Denver Nuggets,Dallas Mavericks,117,105,Pepsi Center,19890,/boxscores/200905050DEN.html
+Wed May 6 2009,Boston Celtics,Orlando Magic,112,94,TD Banknorth Garden,18624,/boxscores/200905060BOS.html
+Wed May 6 2009,Los Angeles Lakers,Houston Rockets,111,98,STAPLES Center,18997,/boxscores/200905060LAL.html
+Thu May 7 2009,Cleveland Cavaliers,Atlanta Hawks,105,85,Quicken Loans Arena,20562,/boxscores/200905070CLE.html
+Fri May 8 2009,Orlando Magic,Boston Celtics,117,96,Amway Arena,17461,/boxscores/200905080ORL.html
+Fri May 8 2009,Houston Rockets,Los Angeles Lakers,94,108,Toyota Center,18495,/boxscores/200905080HOU.html
+Sat May 9 2009,Dallas Mavericks,Denver Nuggets,105,106,American Airlines Center,20620,/boxscores/200905090DAL.html
+Sat May 9 2009,Atlanta Hawks,Cleveland Cavaliers,82,97,Philips Arena,20143,/boxscores/200905090ATL.html
+Sun May 10 2009,Houston Rockets,Los Angeles Lakers,99,87,Toyota Center,18313,/boxscores/200905100HOU.html
+Sun May 10 2009,Orlando Magic,Boston Celtics,94,95,Amway Arena,17461,/boxscores/200905100ORL.html
+Mon May 11 2009,Atlanta Hawks,Cleveland Cavaliers,74,84,Philips Arena,19241,/boxscores/200905110ATL.html
+Mon May 11 2009,Dallas Mavericks,Denver Nuggets,119,117,American Airlines Center,20523,/boxscores/200905110DAL.html
+Tue May 12 2009,Boston Celtics,Orlando Magic,92,88,TD Banknorth Garden,18624,/boxscores/200905120BOS.html
+Tue May 12 2009,Los Angeles Lakers,Houston Rockets,118,78,STAPLES Center,18997,/boxscores/200905120LAL.html
+Wed May 13 2009,Denver Nuggets,Dallas Mavericks,124,110,Pepsi Center,19962,/boxscores/200905130DEN.html
+Thu May 14 2009,Orlando Magic,Boston Celtics,83,75,Amway Arena,17461,/boxscores/200905140ORL.html
+Thu May 14 2009,Houston Rockets,Los Angeles Lakers,95,80,Toyota Center,18501,/boxscores/200905140HOU.html
+Sun May 17 2009,Los Angeles Lakers,Houston Rockets,89,70,STAPLES Center,18997,/boxscores/200905170LAL.html
+Sun May 17 2009,Boston Celtics,Orlando Magic,82,101,TD Banknorth Garden,18624,/boxscores/200905170BOS.html
+Tue May 19 2009,Los Angeles Lakers,Denver Nuggets,105,103,STAPLES Center,18997,/boxscores/200905190LAL.html
+Wed May 20 2009,Cleveland Cavaliers,Orlando Magic,106,107,Quicken Loans Arena,20562,/boxscores/200905200CLE.html
+Thu May 21 2009,Los Angeles Lakers,Denver Nuggets,103,106,STAPLES Center,18997,/boxscores/200905210LAL.html
+Fri May 22 2009,Cleveland Cavaliers,Orlando Magic,96,95,Quicken Loans Arena,20562,/boxscores/200905220CLE.html
+Sat May 23 2009,Denver Nuggets,Los Angeles Lakers,97,103,Pepsi Center,19939,/boxscores/200905230DEN.html
+Sun May 24 2009,Orlando Magic,Cleveland Cavaliers,99,89,Amway Arena,17461,/boxscores/200905240ORL.html
+Mon May 25 2009,Denver Nuggets,Los Angeles Lakers,120,101,Pepsi Center,20037,/boxscores/200905250DEN.html
+Tue May 26 2009,Orlando Magic,Cleveland Cavaliers,116,114,Amway Arena,17461,/boxscores/200905260ORL.html
+Wed May 27 2009,Los Angeles Lakers,Denver Nuggets,103,94,STAPLES Center,18997,/boxscores/200905270LAL.html
+Thu May 28 2009,Cleveland Cavaliers,Orlando Magic,112,102,Quicken Loans Arena,20562,/boxscores/200905280CLE.html
+Fri May 29 2009,Denver Nuggets,Los Angeles Lakers,92,119,Pepsi Center,20053,/boxscores/200905290DEN.html
+Sat May 30 2009,Orlando Magic,Cleveland Cavaliers,103,90,Amway Arena,17461,/boxscores/200905300ORL.html

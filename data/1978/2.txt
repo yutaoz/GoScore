@@ -1,0 +1,142 @@
+Wed Feb 1 1978,Boston Celtics,Los Angeles Lakers,103,100,Boston Garden,0,/boxscores/197802010BOS.html
+Wed Feb 1 1978,Detroit Pistons,Phoenix Suns,127,120,Cobo Arena,0,/boxscores/197802010DET.html
+Wed Feb 1 1978,Houston Rockets,New Jersey Nets,124,103,The Summit,0,/boxscores/197802010HOU.html
+Wed Feb 1 1978,New Orleans Jazz,Chicago Bulls,117,111,Louisiana Superdome,0,/boxscores/197802010NOJ.html
+Wed Feb 1 1978,Philadelphia 76ers,Denver Nuggets,104,101,The Spectrum,0,/boxscores/197802010PHI.html
+Thu Feb 2 1978,Cleveland Cavaliers,Washington Bullets,110,93,Coliseum at Richfield,0,/boxscores/197802020CLE.html
+Thu Feb 2 1978,Golden State Warriors,Milwaukee Bucks,105,102,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802020GSW.html
+Thu Feb 2 1978,Indiana Pacers,Atlanta Hawks,105,107,Market Square Arena,0,/boxscores/197802020IND.html
+Thu Feb 2 1978,Kansas City Kings,Detroit Pistons,113,101,Kemper Arena,0,/boxscores/197802020KCK.html
+Thu Feb 2 1978,San Antonio Spurs,New York Knicks,123,113,HemisFair Arena,0,/boxscores/197802020SAS.html
+Fri Feb 3 1978,Boston Celtics,Washington Bullets,116,94,Boston Garden,0,/boxscores/197802030BOS.html
+Fri Feb 3 1978,Buffalo Braves,Cleveland Cavaliers,101,104,Buffalo Memorial Auditorium,0,/boxscores/197802030BUF.html
+Fri Feb 3 1978,Chicago Bulls,San Antonio Spurs,110,107,Chicago Stadium,0,/boxscores/197802030CHI.html
+Fri Feb 3 1978,Denver Nuggets,Detroit Pistons,115,102,McNichols Sports Arena,0,/boxscores/197802030DEN.html
+Fri Feb 3 1978,Houston Rockets,New York Knicks,112,102,The Summit,0,/boxscores/197802030HOU.html
+Fri Feb 3 1978,New Jersey Nets,Los Angeles Lakers,99,105,Rutgers Athletic Center,0,/boxscores/197802030NJN.html
+Fri Feb 3 1978,Philadelphia 76ers,Indiana Pacers,116,104,The Spectrum,0,/boxscores/197802030PHI.html
+Fri Feb 3 1978,Phoenix Suns,Milwaukee Bucks,115,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197802030PHO.html
+Fri Feb 3 1978,Portland Trail Blazers,Golden State Warriors,112,92,Memorial Coliseum,0,/boxscores/197802030POR.html
+Tue Feb 7 1978,Buffalo Braves,Los Angeles Lakers,105,132,Buffalo Memorial Auditorium,0,/boxscores/197802070BUF.html
+Tue Feb 7 1978,Chicago Bulls,Philadelphia 76ers,108,106,Chicago Stadium,0,/boxscores/197802070CHI.html
+Tue Feb 7 1978,Cleveland Cavaliers,New Orleans Jazz,122,99,Coliseum at Richfield,0,/boxscores/197802070CLE.html
+Tue Feb 7 1978,Golden State Warriors,Washington Bullets,105,102,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802070GSW.html
+Tue Feb 7 1978,Indiana Pacers,Boston Celtics,89,92,Market Square Arena,0,/boxscores/197802070IND.html
+Wed Feb 8 1978,Denver Nuggets,Atlanta Hawks,114,109,McNichols Sports Arena,0,/boxscores/197802080DEN.html
+Wed Feb 8 1978,Detroit Pistons,Los Angeles Lakers,95,105,Cobo Arena,0,/boxscores/197802080DET.html
+Wed Feb 8 1978,Houston Rockets,Chicago Bulls,105,101,The Summit,0,/boxscores/197802080HOU.html
+Wed Feb 8 1978,Kansas City Kings,Boston Celtics,104,100,Kemper Arena,0,/boxscores/197802080KCK.html
+Wed Feb 8 1978,Milwaukee Bucks,Buffalo Braves,104,103,MECCA Arena,0,/boxscores/197802080MIL.html
+Wed Feb 8 1978,New Jersey Nets,Indiana Pacers,140,138,Rutgers Athletic Center,0,/boxscores/197802080NJN.html
+Wed Feb 8 1978,Philadelphia 76ers,New Orleans Jazz,117,104,The Spectrum,0,/boxscores/197802080PHI.html
+Wed Feb 8 1978,Seattle SuperSonics,Washington Bullets,100,106,Seattle Center Coliseum,0,/boxscores/197802080SEA.html
+Thu Feb 9 1978,Cleveland Cavaliers,Portland Trail Blazers,88,94,Coliseum at Richfield,0,/boxscores/197802090CLE.html
+Thu Feb 9 1978,Golden State Warriors,Denver Nuggets,119,108,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802090GSW.html
+Thu Feb 9 1978,New York Knicks,Indiana Pacers,126,117,Madison Square Garden (IV),0,/boxscores/197802090NYK.html
+Thu Feb 9 1978,Phoenix Suns,Atlanta Hawks,125,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197802090PHO.html
+Thu Feb 9 1978,San Antonio Spurs,Houston Rockets,104,94,HemisFair Arena,0,/boxscores/197802090SAS.html
+Fri Feb 10 1978,Buffalo Braves,Philadelphia 76ers,116,110,Buffalo Memorial Auditorium,0,/boxscores/197802100BUF.html
+Fri Feb 10 1978,Houston Rockets,San Antonio Spurs,114,125,The Summit,0,/boxscores/197802100HOU.html
+Fri Feb 10 1978,Indiana Pacers,Portland Trail Blazers,108,112,Market Square Arena,0,/boxscores/197802100IND.html
+Fri Feb 10 1978,Kansas City Kings,Chicago Bulls,106,93,Kemper Arena,0,/boxscores/197802100KCK.html
+Fri Feb 10 1978,Los Angeles Lakers,Golden State Warriors,135,107,The Forum,0,/boxscores/197802100LAL.html
+Fri Feb 10 1978,Milwaukee Bucks,Cleveland Cavaliers,108,98,MECCA Arena,0,/boxscores/197802100MIL.html
+Fri Feb 10 1978,New Jersey Nets,Detroit Pistons,117,112,Rutgers Athletic Center,0,/boxscores/197802100NJN.html
+Fri Feb 10 1978,Seattle SuperSonics,Denver Nuggets,126,123,Seattle Center Coliseum,0,/boxscores/197802100SEA.html
+Sat Feb 11 1978,Chicago Bulls,Kansas City Kings,90,95,Chicago Stadium,0,/boxscores/197802110CHI.html
+Sat Feb 11 1978,Detroit Pistons,New Orleans Jazz,106,96,Cobo Arena,0,/boxscores/197802110DET.html
+Sat Feb 11 1978,Golden State Warriors,San Antonio Spurs,122,131,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802110GSW.html
+Sat Feb 11 1978,New York Knicks,Milwaukee Bucks,133,122,Madison Square Garden (IV),0,/boxscores/197802110NYK.html
+Sun Feb 12 1978,Indiana Pacers,Chicago Bulls,111,94,Market Square Arena,0,/boxscores/197802120IND.html
+Sun Feb 12 1978,Kansas City Kings,Cleveland Cavaliers,101,88,Kemper Arena,0,/boxscores/197802120KCK.html
+Sun Feb 12 1978,Los Angeles Lakers,Atlanta Hawks,103,116,The Forum,0,/boxscores/197802120LAL.html
+Sun Feb 12 1978,New Jersey Nets,New York Knicks,112,110,Rutgers Athletic Center,0,/boxscores/197802120NJN.html
+Sun Feb 12 1978,New Orleans Jazz,Houston Rockets,112,119,Mississippi Coast Coliseum,0,/boxscores/197802120NOJ.html
+Sun Feb 12 1978,Philadelphia 76ers,Seattle SuperSonics,109,99,The Spectrum,0,/boxscores/197802120PHI.html
+Sun Feb 12 1978,Phoenix Suns,Washington Bullets,121,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197802120PHO.html
+Sun Feb 12 1978,Portland Trail Blazers,Denver Nuggets,101,103,Memorial Coliseum,0,/boxscores/197802120POR.html
+Mon Feb 13 1978,Detroit Pistons,New Jersey Nets,125,115,Cobo Arena,0,/boxscores/197802130DET.html
+Tue Feb 14 1978,Buffalo Braves,Seattle SuperSonics,101,100,Buffalo Memorial Auditorium,0,/boxscores/197802140BUF.html
+Tue Feb 14 1978,Chicago Bulls,New Orleans Jazz,102,95,Chicago Stadium,0,/boxscores/197802140CHI.html
+Tue Feb 14 1978,Cleveland Cavaliers,New York Knicks,136,127,Coliseum at Richfield,0,/boxscores/197802140CLE.html
+Tue Feb 14 1978,Denver Nuggets,Washington Bullets,103,98,McNichols Sports Arena,0,/boxscores/197802140DEN.html
+Tue Feb 14 1978,Golden State Warriors,Boston Celtics,75,98,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802140GSW.html
+Tue Feb 14 1978,Indiana Pacers,Philadelphia 76ers,116,119,Market Square Arena,0,/boxscores/197802140IND.html
+Tue Feb 14 1978,Kansas City Kings,Houston Rockets,125,102,Kemper Arena,0,/boxscores/197802140KCK.html
+Tue Feb 14 1978,Los Angeles Lakers,San Antonio Spurs,128,114,The Forum,0,/boxscores/197802140LAL.html
+Tue Feb 14 1978,Portland Trail Blazers,Phoenix Suns,113,100,Memorial Coliseum,0,/boxscores/197802140POR.html
+Wed Feb 15 1978,Detroit Pistons,Philadelphia 76ers,113,116,Cobo Arena,0,/boxscores/197802150DET.html
+Wed Feb 15 1978,Houston Rockets,Indiana Pacers,126,122,The Summit,0,/boxscores/197802150HOU.html
+Wed Feb 15 1978,Milwaukee Bucks,New Orleans Jazz,112,99,MECCA Arena,0,/boxscores/197802150MIL.html
+Wed Feb 15 1978,Portland Trail Blazers,Atlanta Hawks,102,99,Memorial Coliseum,0,/boxscores/197802150POR.html
+Thu Feb 16 1978,Cleveland Cavaliers,Denver Nuggets,119,87,Coliseum at Richfield,0,/boxscores/197802160CLE.html
+Thu Feb 16 1978,New Jersey Nets,Seattle SuperSonics,101,92,Rutgers Athletic Center,0,/boxscores/197802160NJN.html
+Thu Feb 16 1978,Phoenix Suns,Boston Celtics,95,98,Arizona Veterans Memorial Coliseum,0,/boxscores/197802160PHO.html
+Thu Feb 16 1978,Washington Bullets,Buffalo Braves,123,109,Capital Centre,0,/boxscores/197802160WSB.html
+Fri Feb 17 1978,Buffalo Braves,Kansas City Kings,100,108,Buffalo Memorial Auditorium,0,/boxscores/197802170BUF.html
+Fri Feb 17 1978,Chicago Bulls,Seattle SuperSonics,98,106,Chicago Stadium,0,/boxscores/197802170CHI.html
+Fri Feb 17 1978,Denver Nuggets,Portland Trail Blazers,112,105,McNichols Sports Arena,0,/boxscores/197802170DEN.html
+Fri Feb 17 1978,Detroit Pistons,New York Knicks,108,128,Cobo Arena,0,/boxscores/197802170DET.html
+Fri Feb 17 1978,Golden State Warriors,Phoenix Suns,111,92,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802170GSW.html
+Fri Feb 17 1978,Indiana Pacers,Washington Bullets,123,111,Market Square Arena,0,/boxscores/197802170IND.html
+Fri Feb 17 1978,Los Angeles Lakers,Boston Celtics,114,106,The Forum,0,/boxscores/197802170LAL.html
+Fri Feb 17 1978,Milwaukee Bucks,Houston Rockets,115,98,MECCA Arena,0,/boxscores/197802170MIL.html
+Fri Feb 17 1978,New Jersey Nets,Cleveland Cavaliers,96,99,Rutgers Athletic Center,0,/boxscores/197802170NJN.html
+Fri Feb 17 1978,New Orleans Jazz,Atlanta Hawks,102,111,Riverside Centroplex,0,/boxscores/197802170NOJ.html
+Fri Feb 17 1978,Philadelphia 76ers,San Antonio Spurs,125,116,The Spectrum,0,/boxscores/197802170PHI.html
+Sat Feb 18 1978,Cleveland Cavaliers,Kansas City Kings,105,101,Coliseum at Richfield,0,/boxscores/197802180CLE.html
+Sat Feb 18 1978,Houston Rockets,Atlanta Hawks,121,112,The Summit,0,/boxscores/197802180HOU.html
+Sat Feb 18 1978,New York Knicks,Buffalo Braves,112,122,Madison Square Garden (IV),0,/boxscores/197802180NYK.html
+Sat Feb 18 1978,Phoenix Suns,Indiana Pacers,114,101,Arizona Veterans Memorial Coliseum,0,/boxscores/197802180PHO.html
+Sat Feb 18 1978,San Antonio Spurs,Chicago Bulls,124,103,HemisFair Arena,0,/boxscores/197802180SAS.html
+Sun Feb 19 1978,Denver Nuggets,Boston Celtics,118,115,McNichols Sports Arena,0,/boxscores/197802190DEN.html
+Sun Feb 19 1978,Detroit Pistons,Kansas City Kings,110,107,Cobo Arena,0,/boxscores/197802190DET.html
+Sun Feb 19 1978,Golden State Warriors,Los Angeles Lakers,93,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/197802190GSW.html
+Sun Feb 19 1978,Milwaukee Bucks,Seattle SuperSonics,103,108,MECCA Arena,0,/boxscores/197802190MIL.html
+Sun Feb 19 1978,Philadelphia 76ers,New Jersey Nets,120,110,The Spectrum,0,/boxscores/197802190PHI.html
+Sun Feb 19 1978,Portland Trail Blazers,Indiana Pacers,127,104,Memorial Coliseum,0,/boxscores/197802190POR.html
+Sun Feb 19 1978,Washington Bullets,New Orleans Jazz,130,111,Capital Centre,0,/boxscores/197802190WSB.html
+Mon Feb 20 1978,Chicago Bulls,Cleveland Cavaliers,106,95,Chicago Stadium,0,/boxscores/197802200CHI.html
+Tue Feb 21 1978,Buffalo Braves,Phoenix Suns,111,114,Buffalo Memorial Auditorium,0,/boxscores/197802210BUF.html
+Tue Feb 21 1978,Chicago Bulls,Los Angeles Lakers,104,106,Chicago Stadium,0,/boxscores/197802210CHI.html
+Tue Feb 21 1978,Cleveland Cavaliers,Philadelphia 76ers,114,127,Coliseum at Richfield,0,/boxscores/197802210CLE.html
+Tue Feb 21 1978,Houston Rockets,Boston Celtics,111,96,The Summit,0,/boxscores/197802210HOU.html
+Tue Feb 21 1978,New York Knicks,Seattle SuperSonics,122,120,Madison Square Garden (IV),0,/boxscores/197802210NYK.html
+Tue Feb 21 1978,San Antonio Spurs,Portland Trail Blazers,114,118,HemisFair Arena,0,/boxscores/197802210SAS.html
+Wed Feb 22 1978,Atlanta Hawks,Phoenix Suns,107,95,Charlotte Coliseum,0,/boxscores/197802220ATL.html
+Wed Feb 22 1978,Denver Nuggets,Indiana Pacers,96,99,McNichols Sports Arena,0,/boxscores/197802220DEN.html
+Wed Feb 22 1978,Detroit Pistons,Houston Rockets,119,108,Cobo Arena,0,/boxscores/197802220DET.html
+Wed Feb 22 1978,Kansas City Kings,Los Angeles Lakers,127,122,Kemper Arena,0,/boxscores/197802220KCK.html
+Wed Feb 22 1978,New Jersey Nets,Seattle SuperSonics,83,94,Rutgers Athletic Center,0,/boxscores/197802220NJN.html
+Wed Feb 22 1978,New Orleans Jazz,Golden State Warriors,116,91,Louisiana Superdome,0,/boxscores/197802220NOJ.html
+Wed Feb 22 1978,Washington Bullets,Portland Trail Blazers,97,105,Capital Centre,0,/boxscores/197802220WSB.html
+Thu Feb 23 1978,San Antonio Spurs,Atlanta Hawks,118,105,HemisFair Arena,0,/boxscores/197802230SAS.html
+Fri Feb 24 1978,Atlanta Hawks,Golden State Warriors,96,97,Omni Coliseum,0,/boxscores/197802240ATL.html
+Fri Feb 24 1978,Buffalo Braves,Boston Celtics,99,106,Buffalo Memorial Auditorium,0,/boxscores/197802240BUF.html
+Fri Feb 24 1978,Chicago Bulls,Milwaukee Bucks,109,112,Chicago Stadium,0,/boxscores/197802240CHI.html
+Fri Feb 24 1978,Kansas City Kings,Portland Trail Blazers,96,107,Kemper Arena,0,/boxscores/197802240KCK.html
+Fri Feb 24 1978,Los Angeles Lakers,Denver Nuggets,109,99,The Forum,0,/boxscores/197802240LAL.html
+Fri Feb 24 1978,New Jersey Nets,Houston Rockets,126,112,Rutgers Athletic Center,0,/boxscores/197802240NJN.html
+Fri Feb 24 1978,New Orleans Jazz,Cleveland Cavaliers,101,98,Louisiana Superdome,0,/boxscores/197802240NOJ.html
+Fri Feb 24 1978,Washington Bullets,Phoenix Suns,121,120,Capital Centre,0,/boxscores/197802240WSB.html
+Sat Feb 25 1978,Buffalo Braves,Houston Rockets,106,110,Buffalo Memorial Auditorium,0,/boxscores/197802250BUF.html
+Sat Feb 25 1978,Denver Nuggets,Philadelphia 76ers,124,115,McNichols Sports Arena,0,/boxscores/197802250DEN.html
+Sat Feb 25 1978,New York Knicks,Phoenix Suns,122,115,Madison Square Garden (IV),0,/boxscores/197802250NYK.html
+Sat Feb 25 1978,San Antonio Spurs,Cleveland Cavaliers,112,108,HemisFair Arena,0,/boxscores/197802250SAS.html
+Sat Feb 25 1978,Seattle SuperSonics,Detroit Pistons,118,104,Seattle Center Coliseum,0,/boxscores/197802250SEA.html
+Sun Feb 26 1978,Atlanta Hawks,Buffalo Braves,119,117,Omni Coliseum,0,/boxscores/197802260ATL.html
+Sun Feb 26 1978,Chicago Bulls,Portland Trail Blazers,99,100,Chicago Stadium,0,/boxscores/197802260CHI.html
+Sun Feb 26 1978,Los Angeles Lakers,Detroit Pistons,124,127,The Forum,0,/boxscores/197802260LAL.html
+Sun Feb 26 1978,New Jersey Nets,Boston Celtics,92,94,Rutgers Athletic Center,0,/boxscores/197802260NJN.html
+Sun Feb 26 1978,New Orleans Jazz,Milwaukee Bucks,120,122,Louisiana Superdome,0,/boxscores/197802260NOJ.html
+Sun Feb 26 1978,Seattle SuperSonics,Philadelphia 76ers,99,97,Seattle Center Coliseum,0,/boxscores/197802260SEA.html
+Sun Feb 26 1978,Washington Bullets,Golden State Warriors,121,110,Capital Centre,0,/boxscores/197802260WSB.html
+Mon Feb 27 1978,Houston Rockets,Cleveland Cavaliers,97,110,The Summit,0,/boxscores/197802270HOU.html
+Tue Feb 28 1978,Atlanta Hawks,Boston Celtics,117,85,Omni Coliseum,0,/boxscores/197802280ATL.html
+Tue Feb 28 1978,Chicago Bulls,Phoenix Suns,126,115,Chicago Stadium,0,/boxscores/197802280CHI.html
+Tue Feb 28 1978,Indiana Pacers,Denver Nuggets,106,122,Market Square Arena,0,/boxscores/197802280IND.html
+Tue Feb 28 1978,Kansas City Kings,Seattle SuperSonics,107,114,Omaha Civic Auditorium,0,/boxscores/197802280KCK.html
+Tue Feb 28 1978,Milwaukee Bucks,Washington Bullets,136,135,MECCA Arena,0,/boxscores/197802280MIL.html
+Tue Feb 28 1978,New Orleans Jazz,Buffalo Braves,125,108,Louisiana Superdome,0,/boxscores/197802280NOJ.html
+Tue Feb 28 1978,New York Knicks,San Antonio Spurs,138,123,Madison Square Garden (IV),0,/boxscores/197802280NYK.html
+Tue Feb 28 1978,Portland Trail Blazers,Philadelphia 76ers,113,92,Memorial Coliseum,0,/boxscores/197802280POR.html

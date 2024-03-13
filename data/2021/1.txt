@@ -1,0 +1,222 @@
+Fri Jan 1 2021,Charlotte Hornets,Memphis Grizzlies,93,108,Spectrum Center,0,/boxscores/202101010CHO.html
+Fri Jan 1 2021,Dallas Mavericks,Miami Heat,93,83,American Airlines Center,0,/boxscores/202101010DAL.html
+Fri Jan 1 2021,Detroit Pistons,Boston Celtics,96,93,Little Caesars Arena,0,/boxscores/202101010DET.html
+Fri Jan 1 2021,Brooklyn Nets,Atlanta Hawks,96,114,Barclays Center,0,/boxscores/202101010BRK.html
+Fri Jan 1 2021,Milwaukee Bucks,Chicago Bulls,126,96,Fiserv Forum,0,/boxscores/202101010MIL.html
+Fri Jan 1 2021,Minnesota Timberwolves,Washington Wizards,109,130,Target Center,0,/boxscores/202101010MIN.html
+Fri Jan 1 2021,San Antonio Spurs,Los Angeles Lakers,103,109,AT&T Center,0,/boxscores/202101010SAS.html
+Fri Jan 1 2021,Denver Nuggets,Phoenix Suns,103,106,Ball Arena,0,/boxscores/202101010DEN.html
+Fri Jan 1 2021,Utah Jazz,Los Angeles Clippers,106,100,Vivint Smart Home Arena,1932,/boxscores/202101010UTA.html
+Fri Jan 1 2021,Golden State Warriors,Portland Trail Blazers,98,123,Chase Center,0,/boxscores/202101010GSW.html
+Sat Jan 2 2021,Houston Rockets,Sacramento Kings,102,94,Toyota Center,3065,/boxscores/202101020HOU.html
+Sat Jan 2 2021,Indiana Pacers,New York Knicks,102,106,Bankers Life Fieldhouse,0,/boxscores/202101020IND.html
+Sat Jan 2 2021,Orlando Magic,Oklahoma City Thunder,99,108,Amway Center,3339,/boxscores/202101020ORL.html
+Sat Jan 2 2021,Philadelphia 76ers,Charlotte Hornets,127,112,Wells Fargo Center,0,/boxscores/202101020PHI.html
+Sat Jan 2 2021,Atlanta Hawks,Cleveland Cavaliers,91,96,State Farm Arena,0,/boxscores/202101020ATL.html
+Sat Jan 2 2021,New Orleans Pelicans,Toronto Raptors,120,116,Smoothie King Center,750,/boxscores/202101020NOP.html
+Sun Jan 3 2021,Detroit Pistons,Boston Celtics,120,122,Little Caesars Arena,0,/boxscores/202101030DET.html
+Sun Jan 3 2021,Brooklyn Nets,Washington Wizards,122,123,Barclays Center,0,/boxscores/202101030BRK.html
+Sun Jan 3 2021,Memphis Grizzlies,Los Angeles Lakers,94,108,FedEx Forum,0,/boxscores/202101030MEM.html
+Sun Jan 3 2021,Minnesota Timberwolves,Denver Nuggets,109,124,Target Center,0,/boxscores/202101030MIN.html
+Sun Jan 3 2021,San Antonio Spurs,Utah Jazz,109,130,AT&T Center,0,/boxscores/202101030SAS.html
+Sun Jan 3 2021,Chicago Bulls,Dallas Mavericks,118,108,United Center,0,/boxscores/202101030CHI.html
+Sun Jan 3 2021,Phoenix Suns,Los Angeles Clippers,107,112,Phoenix Suns Arena,0,/boxscores/202101030PHO.html
+Sun Jan 3 2021,Golden State Warriors,Portland Trail Blazers,137,122,Chase Center,0,/boxscores/202101030GSW.html
+Mon Jan 4 2021,Orlando Magic,Cleveland Cavaliers,103,83,Amway Center,2726,/boxscores/202101040ORL.html
+Mon Jan 4 2021,Philadelphia 76ers,Charlotte Hornets,118,101,Wells Fargo Center,0,/boxscores/202101040PHI.html
+Mon Jan 4 2021,Atlanta Hawks,New York Knicks,108,113,State Farm Arena,0,/boxscores/202101040ATL.html
+Mon Jan 4 2021,Miami Heat,Oklahoma City Thunder,118,90,AmericanAirlines Arena,0,/boxscores/202101040MIA.html
+Mon Jan 4 2021,Toronto Raptors,Boston Celtics,114,126,Amalie Arena,3740,/boxscores/202101040TOR.html
+Mon Jan 4 2021,Houston Rockets,Dallas Mavericks,100,113,Toyota Center,3070,/boxscores/202101040HOU.html
+Mon Jan 4 2021,Milwaukee Bucks,Detroit Pistons,125,115,Fiserv Forum,0,/boxscores/202101040MIL.html
+Mon Jan 4 2021,New Orleans Pelicans,Indiana Pacers,116,118,Smoothie King Center,750,/boxscores/202101040NOP.html
+Mon Jan 4 2021,Golden State Warriors,Sacramento Kings,137,106,Chase Center,0,/boxscores/202101040GSW.html
+Tue Jan 5 2021,Brooklyn Nets,Utah Jazz,130,96,Barclays Center,0,/boxscores/202101050BRK.html
+Tue Jan 5 2021,Memphis Grizzlies,Los Angeles Lakers,92,94,FedEx Forum,0,/boxscores/202101050MEM.html
+Tue Jan 5 2021,Denver Nuggets,Minnesota Timberwolves,123,116,Ball Arena,0,/boxscores/202101050DEN.html
+Tue Jan 5 2021,Los Angeles Clippers,San Antonio Spurs,113,116,STAPLES Center,0,/boxscores/202101050LAC.html
+Tue Jan 5 2021,Portland Trail Blazers,Chicago Bulls,108,111,Moda Center,0,/boxscores/202101050POR.html
+Wed Jan 6 2021,Indiana Pacers,Houston Rockets,114,107,Bankers Life Fieldhouse,0,/boxscores/202101060IND.html
+Wed Jan 6 2021,Orlando Magic,Cleveland Cavaliers,105,94,Amway Center,2948,/boxscores/202101060ORL.html
+Wed Jan 6 2021,Philadelphia 76ers,Washington Wizards,141,136,Wells Fargo Center,0,/boxscores/202101060PHI.html
+Wed Jan 6 2021,Atlanta Hawks,Charlotte Hornets,94,102,State Farm Arena,0,/boxscores/202101060ATL.html
+Wed Jan 6 2021,Miami Heat,Boston Celtics,105,107,AmericanAirlines Arena,0,/boxscores/202101060MIA.html
+Wed Jan 6 2021,New York Knicks,Utah Jazz,112,100,Madison Square Garden (IV),0,/boxscores/202101060NYK.html
+Wed Jan 6 2021,Milwaukee Bucks,Detroit Pistons,130,115,Fiserv Forum,0,/boxscores/202101060MIL.html
+Wed Jan 6 2021,New Orleans Pelicans,Oklahoma City Thunder,110,111,Smoothie King Center,750,/boxscores/202101060NOP.html
+Wed Jan 6 2021,Phoenix Suns,Toronto Raptors,123,115,Phoenix Suns Arena,0,/boxscores/202101060PHO.html
+Wed Jan 6 2021,Golden State Warriors,Los Angeles Clippers,101,108,Chase Center,0,/boxscores/202101060GSW.html
+Wed Jan 6 2021,Sacramento Kings,Chicago Bulls,128,124,Golden 1 Center,0,/boxscores/202101060SAC.html
+Thu Jan 7 2021,Brooklyn Nets,Philadelphia 76ers,122,109,Barclays Center,0,/boxscores/202101070BRK.html
+Thu Jan 7 2021,Memphis Grizzlies,Cleveland Cavaliers,90,94,FedEx Forum,0,/boxscores/202101070MEM.html
+Thu Jan 7 2021,Denver Nuggets,Dallas Mavericks,117,124,Ball Arena,0,/boxscores/202101070DEN.html
+Thu Jan 7 2021,Los Angeles Lakers,San Antonio Spurs,109,118,STAPLES Center,0,/boxscores/202101070LAL.html
+Thu Jan 7 2021,Portland Trail Blazers,Minnesota Timberwolves,135,117,Moda Center,0,/boxscores/202101070POR.html
+Fri Jan 8 2021,Detroit Pistons,Phoenix Suns,110,105,Little Caesars Arena,0,/boxscores/202101080DET.html
+Fri Jan 8 2021,Boston Celtics,Washington Wizards,116,107,TD Garden,0,/boxscores/202101080BOS.html
+Fri Jan 8 2021,New Orleans Pelicans,Charlotte Hornets,110,118,Smoothie King Center,750,/boxscores/202101080NOP.html
+Fri Jan 8 2021,New York Knicks,Oklahoma City Thunder,89,101,Madison Square Garden (IV),0,/boxscores/202101080NYK.html
+Fri Jan 8 2021,Houston Rockets,Orlando Magic,132,90,Toyota Center,3039,/boxscores/202101080HOU.html
+Fri Jan 8 2021,Memphis Grizzlies,Brooklyn Nets,115,110,FedEx Forum,0,/boxscores/202101080MEM.html
+Fri Jan 8 2021,Milwaukee Bucks,Utah Jazz,118,131,Fiserv Forum,0,/boxscores/202101080MIL.html
+Fri Jan 8 2021,Golden State Warriors,Los Angeles Clippers,115,105,Chase Center,0,/boxscores/202101080GSW.html
+Fri Jan 8 2021,Los Angeles Lakers,Chicago Bulls,117,115,STAPLES Center,0,/boxscores/202101080LAL.html
+Fri Jan 8 2021,Sacramento Kings,Toronto Raptors,123,144,Golden 1 Center,0,/boxscores/202101080SAC.html
+Sat Jan 9 2021,Philadelphia 76ers,Denver Nuggets,103,115,Wells Fargo Center,0,/boxscores/202101090PHI.html
+Sat Jan 9 2021,Charlotte Hornets,Atlanta Hawks,113,105,Spectrum Center,0,/boxscores/202101090CHO.html
+Sat Jan 9 2021,Indiana Pacers,Phoenix Suns,117,125,Bankers Life Fieldhouse,0,/boxscores/202101090IND.html
+Sat Jan 9 2021,Washington Wizards,Miami Heat,124,128,Capital One Arena,0,/boxscores/202101090WAS.html
+Sat Jan 9 2021,Milwaukee Bucks,Cleveland Cavaliers,100,90,Fiserv Forum,0,/boxscores/202101090MIL.html
+Sat Jan 9 2021,Minnesota Timberwolves,San Antonio Spurs,122,125,Target Center,0,/boxscores/202101090MIN.html
+Sat Jan 9 2021,Dallas Mavericks,Orlando Magic,112,98,American Airlines Center,0,/boxscores/202101090DAL.html
+Sat Jan 9 2021,Sacramento Kings,Portland Trail Blazers,99,125,Golden 1 Center,0,/boxscores/202101090SAC.html
+Sun Jan 10 2021,Detroit Pistons,Utah Jazz,86,96,Little Caesars Arena,0,/boxscores/202101100DET.html
+Sun Jan 10 2021,Los Angeles Clippers,Chicago Bulls,130,127,STAPLES Center,0,/boxscores/202101100LAC.html
+Sun Jan 10 2021,Brooklyn Nets,Oklahoma City Thunder,116,129,Barclays Center,0,/boxscores/202101100BRK.html
+Sun Jan 10 2021,New York Knicks,Denver Nuggets,89,114,Madison Square Garden (IV),0,/boxscores/202101100NYK.html
+Sun Jan 10 2021,Houston Rockets,Los Angeles Lakers,102,120,Toyota Center,3327,/boxscores/202101100HOU.html
+Sun Jan 10 2021,Minnesota Timberwolves,San Antonio Spurs,96,88,Target Center,0,/boxscores/202101100MIN.html
+Sun Jan 10 2021,Golden State Warriors,Toronto Raptors,106,105,Chase Center,0,/boxscores/202101100GSW.html
+Mon Jan 11 2021,Charlotte Hornets,New York Knicks,109,88,Spectrum Center,0,/boxscores/202101110CHO.html
+Mon Jan 11 2021,Cleveland Cavaliers,Memphis Grizzlies,91,101,Rocket Mortgage Fieldhouse,1944,/boxscores/202101110CLE.html
+Mon Jan 11 2021,Orlando Magic,Milwaukee Bucks,99,121,Amway Center,3248,/boxscores/202101110ORL.html
+Mon Jan 11 2021,Washington Wizards,Phoenix Suns,128,107,Capital One Arena,0,/boxscores/202101110WAS.html
+Mon Jan 11 2021,Atlanta Hawks,Philadelphia 76ers,112,94,State Farm Arena,0,/boxscores/202101110ATL.html
+Mon Jan 11 2021,Portland Trail Blazers,Toronto Raptors,112,111,Moda Center,0,/boxscores/202101110POR.html
+Mon Jan 11 2021,Sacramento Kings,Indiana Pacers,127,122,Golden 1 Center,0,/boxscores/202101110SAC.html
+Tue Jan 12 2021,Philadelphia 76ers,Miami Heat,137,134,Wells Fargo Center,0,/boxscores/202101120PHI.html
+Tue Jan 12 2021,Brooklyn Nets,Denver Nuggets,122,116,Barclays Center,0,/boxscores/202101120BRK.html
+Tue Jan 12 2021,Cleveland Cavaliers,Utah Jazz,87,117,Rocket Mortgage Fieldhouse,1944,/boxscores/202101120CLE.html
+Tue Jan 12 2021,Houston Rockets,Los Angeles Lakers,100,117,Toyota Center,3221,/boxscores/202101120HOU.html
+Tue Jan 12 2021,Oklahoma City Thunder,San Antonio Spurs,102,112,Chesapeake Energy Arena,0,/boxscores/202101120OKC.html
+Tue Jan 12 2021,Golden State Warriors,Indiana Pacers,95,104,Chase Center,0,/boxscores/202101120GSW.html
+Wed Jan 13 2021,Charlotte Hornets,Dallas Mavericks,93,104,Spectrum Center,0,/boxscores/202101130CHO.html
+Wed Jan 13 2021,Detroit Pistons,Milwaukee Bucks,101,110,Little Caesars Arena,0,/boxscores/202101130DET.html
+Wed Jan 13 2021,New York Knicks,Brooklyn Nets,109,116,Madison Square Garden (IV),0,/boxscores/202101130NYK.html
+Wed Jan 13 2021,Minnesota Timberwolves,Memphis Grizzlies,107,118,Target Center,0,/boxscores/202101130MIN.html
+Wed Jan 13 2021,Oklahoma City Thunder,Los Angeles Lakers,99,128,Chesapeake Energy Arena,0,/boxscores/202101130OKC.html
+Wed Jan 13 2021,Los Angeles Clippers,New Orleans Pelicans,111,106,STAPLES Center,0,/boxscores/202101130LAC.html
+Wed Jan 13 2021,Sacramento Kings,Portland Trail Blazers,126,132,Golden 1 Center,0,/boxscores/202101130SAC.html
+Thu Jan 14 2021,Philadelphia 76ers,Miami Heat,125,108,Wells Fargo Center,0,/boxscores/202101140PHI.html
+Thu Jan 14 2021,San Antonio Spurs,Houston Rockets,105,109,AT&T Center,0,/boxscores/202101140SAS.html
+Thu Jan 14 2021,Toronto Raptors,Charlotte Hornets,111,108,Amalie Arena,0,/boxscores/202101140TOR.html
+Thu Jan 14 2021,Denver Nuggets,Golden State Warriors,114,104,Ball Arena,0,/boxscores/202101140DEN.html
+Thu Jan 14 2021,Portland Trail Blazers,Indiana Pacers,87,111,Moda Center,0,/boxscores/202101140POR.html
+Fri Jan 15 2021,Boston Celtics,Orlando Magic,124,97,TD Garden,0,/boxscores/202101150BOS.html
+Fri Jan 15 2021,Cleveland Cavaliers,New York Knicks,106,103,Rocket Mortgage Fieldhouse,1944,/boxscores/202101150CLE.html
+Fri Jan 15 2021,Milwaukee Bucks,Dallas Mavericks,112,109,Fiserv Forum,0,/boxscores/202101150MIL.html
+Fri Jan 15 2021,Oklahoma City Thunder,Chicago Bulls,127,125,Chesapeake Energy Arena,0,/boxscores/202101150OKC.html
+Fri Jan 15 2021,Utah Jazz,Atlanta Hawks,116,92,Vivint Smart Home Arena,1932,/boxscores/202101150UTA.html
+Fri Jan 15 2021,Los Angeles Lakers,New Orleans Pelicans,112,95,STAPLES Center,0,/boxscores/202101150LAL.html
+Fri Jan 15 2021,Sacramento Kings,Los Angeles Clippers,100,138,Golden 1 Center,0,/boxscores/202101150SAC.html
+Sat Jan 16 2021,San Antonio Spurs,Houston Rockets,103,91,AT&T Center,0,/boxscores/202101160SAS.html
+Sat Jan 16 2021,Brooklyn Nets,Orlando Magic,122,115,Barclays Center,0,/boxscores/202101160BRK.html
+Sat Jan 16 2021,Toronto Raptors,Charlotte Hornets,116,113,Amalie Arena,0,/boxscores/202101160TOR.html
+Sat Jan 16 2021,Memphis Grizzlies,Philadelphia 76ers,106,104,FedEx Forum,206,/boxscores/202101160MEM.html
+Sat Jan 16 2021,Miami Heat,Detroit Pistons,100,120,AmericanAirlines Arena,0,/boxscores/202101160MIA.html
+Sat Jan 16 2021,Portland Trail Blazers,Atlanta Hawks,112,106,Moda Center,0,/boxscores/202101160POR.html
+Sun Jan 17 2021,Boston Celtics,New York Knicks,75,105,TD Garden,0,/boxscores/202101170BOS.html
+Sun Jan 17 2021,Dallas Mavericks,Chicago Bulls,101,117,American Airlines Center,0,/boxscores/202101170DAL.html
+Sun Jan 17 2021,Denver Nuggets,Utah Jazz,105,109,Ball Arena,0,/boxscores/202101170DEN.html
+Sun Jan 17 2021,Sacramento Kings,New Orleans Pelicans,123,128,Golden 1 Center,0,/boxscores/202101170SAC.html
+Sun Jan 17 2021,Los Angeles Clippers,Indiana Pacers,129,96,STAPLES Center,0,/boxscores/202101170LAC.html
+Mon Jan 18 2021,New York Knicks,Orlando Magic,91,84,Madison Square Garden (IV),0,/boxscores/202101180NYK.html
+Mon Jan 18 2021,Atlanta Hawks,Minnesota Timberwolves,108,97,State Farm Arena,0,/boxscores/202101180ATL.html
+Mon Jan 18 2021,Portland Trail Blazers,San Antonio Spurs,104,125,Moda Center,0,/boxscores/202101180POR.html
+Mon Jan 18 2021,Memphis Grizzlies,Phoenix Suns,108,104,FedEx Forum,204,/boxscores/202101180MEM.html
+Mon Jan 18 2021,Brooklyn Nets,Milwaukee Bucks,125,123,Barclays Center,0,/boxscores/202101180BRK.html
+Mon Jan 18 2021,Toronto Raptors,Dallas Mavericks,116,93,Amalie Arena,0,/boxscores/202101180TOR.html
+Mon Jan 18 2021,Chicago Bulls,Houston Rockets,125,120,United Center,0,/boxscores/202101180CHI.html
+Mon Jan 18 2021,Miami Heat,Detroit Pistons,113,107,AmericanAirlines Arena,0,/boxscores/202101180MIA.html
+Mon Jan 18 2021,Los Angeles Lakers,Golden State Warriors,113,115,STAPLES Center,0,/boxscores/202101180LAL.html
+Tue Jan 19 2021,Denver Nuggets,Oklahoma City Thunder,119,101,Ball Arena,0,/boxscores/202101190DEN.html
+Tue Jan 19 2021,Utah Jazz,New Orleans Pelicans,118,102,Vivint Smart Home Arena,1932,/boxscores/202101190UTA.html
+Wed Jan 20 2021,Cleveland Cavaliers,Brooklyn Nets,147,135,Rocket Mortgage Fieldhouse,1944,/boxscores/202101200CLE.html
+Wed Jan 20 2021,Indiana Pacers,Dallas Mavericks,112,124,Bankers Life Fieldhouse,0,/boxscores/202101200IND.html
+Wed Jan 20 2021,Philadelphia 76ers,Boston Celtics,117,109,Wells Fargo Center,0,/boxscores/202101200PHI.html
+Wed Jan 20 2021,Atlanta Hawks,Detroit Pistons,123,115,State Farm Arena,0,/boxscores/202101200ATL.html
+Wed Jan 20 2021,Toronto Raptors,Miami Heat,102,111,Amalie Arena,0,/boxscores/202101200TOR.html
+Wed Jan 20 2021,Minnesota Timberwolves,Orlando Magic,96,97,Target Center,0,/boxscores/202101200MIN.html
+Wed Jan 20 2021,Houston Rockets,Phoenix Suns,103,109,Toyota Center,3022,/boxscores/202101200HOU.html
+Wed Jan 20 2021,Golden State Warriors,San Antonio Spurs,121,99,Chase Center,0,/boxscores/202101200GSW.html
+Wed Jan 20 2021,Los Angeles Clippers,Sacramento Kings,115,96,STAPLES Center,0,/boxscores/202101200LAC.html
+Thu Jan 21 2021,Milwaukee Bucks,Los Angeles Lakers,106,113,Fiserv Forum,0,/boxscores/202101210MIL.html
+Thu Jan 21 2021,Golden State Warriors,New York Knicks,104,119,Chase Center,0,/boxscores/202101210GSW.html
+Thu Jan 21 2021,Utah Jazz,New Orleans Pelicans,129,118,Vivint Smart Home Arena,1932,/boxscores/202101210UTA.html
+Fri Jan 22 2021,Charlotte Hornets,Chicago Bulls,110,123,Spectrum Center,0,/boxscores/202101220CHO.html
+Fri Jan 22 2021,Detroit Pistons,Houston Rockets,102,103,Little Caesars Arena,0,/boxscores/202101220DET.html
+Fri Jan 22 2021,Indiana Pacers,Orlando Magic,120,118,Bankers Life Fieldhouse,0,/boxscores/202101220IND.html
+Fri Jan 22 2021,Cleveland Cavaliers,Brooklyn Nets,125,113,Rocket Mortgage Fieldhouse,1944,/boxscores/202101220CLE.html
+Fri Jan 22 2021,Philadelphia 76ers,Boston Celtics,122,110,Wells Fargo Center,0,/boxscores/202101220PHI.html
+Fri Jan 22 2021,Toronto Raptors,Miami Heat,101,81,Amalie Arena,0,/boxscores/202101220TOR.html
+Fri Jan 22 2021,Minnesota Timberwolves,Atlanta Hawks,98,116,Target Center,0,/boxscores/202101220MIN.html
+Fri Jan 22 2021,San Antonio Spurs,Dallas Mavericks,117,122,AT&T Center,0,/boxscores/202101220SAS.html
+Fri Jan 22 2021,Los Angeles Clippers,Oklahoma City Thunder,120,106,STAPLES Center,0,/boxscores/202101220LAC.html
+Fri Jan 22 2021,Phoenix Suns,Denver Nuggets,126,130,Phoenix Suns Arena,0,/boxscores/202101220PHO.html
+Fri Jan 22 2021,Sacramento Kings,New York Knicks,103,94,Golden 1 Center,0,/boxscores/202101220SAC.html
+Sat Jan 23 2021,Brooklyn Nets,Miami Heat,128,124,Barclays Center,0,/boxscores/202101230BRK.html
+Sat Jan 23 2021,Detroit Pistons,Philadelphia 76ers,110,114,Little Caesars Arena,0,/boxscores/202101230DET.html
+Sat Jan 23 2021,Minnesota Timberwolves,New Orleans Pelicans,120,110,Target Center,0,/boxscores/202101230MIN.html
+Sat Jan 23 2021,Chicago Bulls,Los Angeles Lakers,90,101,United Center,0,/boxscores/202101230CHI.html
+Sat Jan 23 2021,Dallas Mavericks,Houston Rockets,108,133,American Airlines Center,0,/boxscores/202101230DAL.html
+Sat Jan 23 2021,Phoenix Suns,Denver Nuggets,112,120,Phoenix Suns Arena,0,/boxscores/202101230PHO.html
+Sat Jan 23 2021,Utah Jazz,Golden State Warriors,127,108,Vivint Smart Home Arena,1932,/boxscores/202101230UTA.html
+Sun Jan 24 2021,Indiana Pacers,Toronto Raptors,102,107,Bankers Life Fieldhouse,0,/boxscores/202101240IND.html
+Sun Jan 24 2021,Los Angeles Clippers,Oklahoma City Thunder,108,100,STAPLES Center,0,/boxscores/202101240LAC.html
+Sun Jan 24 2021,Boston Celtics,Cleveland Cavaliers,141,103,TD Garden,0,/boxscores/202101240BOS.html
+Sun Jan 24 2021,Orlando Magic,Charlotte Hornets,104,107,Amway Center,3507,/boxscores/202101240ORL.html
+Sun Jan 24 2021,Milwaukee Bucks,Atlanta Hawks,129,115,Fiserv Forum,0,/boxscores/202101240MIL.html
+Sun Jan 24 2021,San Antonio Spurs,Washington Wizards,121,101,AT&T Center,0,/boxscores/202101240SAS.html
+Sun Jan 24 2021,Portland Trail Blazers,New York Knicks,116,113,Moda Center,0,/boxscores/202101240POR.html
+Mon Jan 25 2021,Detroit Pistons,Philadelphia 76ers,119,104,Little Caesars Arena,0,/boxscores/202101250DET.html
+Mon Jan 25 2021,Indiana Pacers,Toronto Raptors,129,114,Bankers Life Fieldhouse,0,/boxscores/202101250IND.html
+Mon Jan 25 2021,Orlando Magic,Charlotte Hornets,117,108,Amway Center,3167,/boxscores/202101250ORL.html
+Mon Jan 25 2021,Brooklyn Nets,Miami Heat,98,85,Barclays Center,0,/boxscores/202101250BRK.html
+Mon Jan 25 2021,Cleveland Cavaliers,Los Angeles Lakers,108,115,Rocket Mortgage Fieldhouse,0,/boxscores/202101250CLE.html
+Mon Jan 25 2021,Dallas Mavericks,Denver Nuggets,113,117,American Airlines Center,0,/boxscores/202101250DAL.html
+Mon Jan 25 2021,Chicago Bulls,Boston Celtics,103,119,United Center,0,/boxscores/202101250CHI.html
+Mon Jan 25 2021,Golden State Warriors,Minnesota Timberwolves,130,108,Chase Center,0,/boxscores/202101250GSW.html
+Mon Jan 25 2021,Portland Trail Blazers,Oklahoma City Thunder,122,125,Moda Center,0,/boxscores/202101250POR.html
+Tue Jan 26 2021,Atlanta Hawks,Los Angeles Clippers,108,99,State Farm Arena,1180,/boxscores/202101260ATL.html
+Tue Jan 26 2021,Houston Rockets,Washington Wizards,107,88,Toyota Center,2996,/boxscores/202101260HOU.html
+Tue Jan 26 2021,Utah Jazz,New York Knicks,108,94,Vivint Smart Home Arena,1932,/boxscores/202101260UTA.html
+Wed Jan 27 2021,Charlotte Hornets,Indiana Pacers,106,116,Spectrum Center,0,/boxscores/202101270CHO.html
+Wed Jan 27 2021,Cleveland Cavaliers,Detroit Pistons,122,107,Rocket Mortgage Fieldhouse,1944,/boxscores/202101270CLE.html
+Wed Jan 27 2021,Orlando Magic,Sacramento Kings,107,121,Amway Center,3216,/boxscores/202101270ORL.html
+Wed Jan 27 2021,Atlanta Hawks,Brooklyn Nets,128,132,State Farm Arena,1008,/boxscores/202101270ATL.html
+Wed Jan 27 2021,Miami Heat,Denver Nuggets,82,109,AmericanAirlines Arena,0,/boxscores/202101270MIA.html
+Wed Jan 27 2021,Philadelphia 76ers,Los Angeles Lakers,107,106,Wells Fargo Center,0,/boxscores/202101270PHI.html
+Wed Jan 27 2021,Toronto Raptors,Milwaukee Bucks,108,115,Amalie Arena,0,/boxscores/202101270TOR.html
+Wed Jan 27 2021,San Antonio Spurs,Boston Celtics,110,106,AT&T Center,0,/boxscores/202101270SAS.html
+Wed Jan 27 2021,New Orleans Pelicans,Washington Wizards,124,106,Smoothie King Center,750,/boxscores/202101270NOP.html
+Wed Jan 27 2021,Phoenix Suns,Oklahoma City Thunder,97,102,Phoenix Suns Arena,0,/boxscores/202101270PHO.html
+Wed Jan 27 2021,Utah Jazz,Dallas Mavericks,116,104,Vivint Smart Home Arena,0,/boxscores/202101270UTA.html
+Wed Jan 27 2021,Golden State Warriors,Minnesota Timberwolves,123,111,Chase Center,0,/boxscores/202101270GSW.html
+Thu Jan 28 2021,Houston Rockets,Portland Trail Blazers,104,101,Toyota Center,3154,/boxscores/202101280HOU.html
+Thu Jan 28 2021,Detroit Pistons,Los Angeles Lakers,107,92,Little Caesars Arena,0,/boxscores/202101280DET.html
+Thu Jan 28 2021,Miami Heat,Los Angeles Clippers,105,109,AmericanAirlines Arena,0,/boxscores/202101280MIA.html
+Thu Jan 28 2021,Phoenix Suns,Golden State Warriors,114,93,Phoenix Suns Arena,0,/boxscores/202101280PHO.html
+Fri Jan 29 2021,Charlotte Hornets,Indiana Pacers,108,105,Spectrum Center,0,/boxscores/202101290CHO.html
+Fri Jan 29 2021,Washington Wizards,Atlanta Hawks,100,116,Capital One Arena,0,/boxscores/202101290WAS.html
+Fri Jan 29 2021,New Orleans Pelicans,Milwaukee Bucks,131,126,Smoothie King Center,1440,/boxscores/202101290NOP.html
+Fri Jan 29 2021,New York Knicks,Cleveland Cavaliers,102,81,Madison Square Garden (IV),0,/boxscores/202101290NYK.html
+Fri Jan 29 2021,Toronto Raptors,Sacramento Kings,124,126,Amalie Arena,0,/boxscores/202101290TOR.html
+Fri Jan 29 2021,Minnesota Timberwolves,Philadelphia 76ers,94,118,Target Center,0,/boxscores/202101290MIN.html
+Fri Jan 29 2021,Oklahoma City Thunder,Brooklyn Nets,125,147,Chesapeake Energy Arena,0,/boxscores/202101290OKC.html
+Fri Jan 29 2021,Orlando Magic,Los Angeles Clippers,90,116,Amway Center,3763,/boxscores/202101290ORL.html
+Fri Jan 29 2021,San Antonio Spurs,Denver Nuggets,119,109,AT&T Center,0,/boxscores/202101290SAS.html
+Fri Jan 29 2021,Utah Jazz,Dallas Mavericks,120,101,Vivint Smart Home Arena,1932,/boxscores/202101290UTA.html
+Sat Jan 30 2021,Chicago Bulls,Portland Trail Blazers,122,123,United Center,0,/boxscores/202101300CHI.html
+Sat Jan 30 2021,Charlotte Hornets,Milwaukee Bucks,126,114,Spectrum Center,0,/boxscores/202101300CHO.html
+Sat Jan 30 2021,Miami Heat,Sacramento Kings,105,104,AmericanAirlines Arena,0,/boxscores/202101300MIA.html
+Sat Jan 30 2021,New Orleans Pelicans,Houston Rockets,112,126,Smoothie King Center,1440,/boxscores/202101300NOP.html
+Sat Jan 30 2021,Boston Celtics,Los Angeles Lakers,95,96,TD Garden,0,/boxscores/202101300BOS.html
+Sat Jan 30 2021,San Antonio Spurs,Memphis Grizzlies,112,129,AT&T Center,0,/boxscores/202101300SAS.html
+Sat Jan 30 2021,Dallas Mavericks,Phoenix Suns,105,111,American Airlines Center,0,/boxscores/202101300DAL.html
+Sat Jan 30 2021,Golden State Warriors,Detroit Pistons,118,91,Chase Center,0,/boxscores/202101300GSW.html
+Sun Jan 31 2021,New York Knicks,Los Angeles Clippers,115,129,Madison Square Garden (IV),0,/boxscores/202101310NYK.html
+Sun Jan 31 2021,Denver Nuggets,Utah Jazz,128,117,Ball Arena,0,/boxscores/202101310DEN.html
+Sun Jan 31 2021,Indiana Pacers,Philadelphia 76ers,110,119,Bankers Life Fieldhouse,0,/boxscores/202101310IND.html
+Sun Jan 31 2021,Toronto Raptors,Orlando Magic,115,102,Amalie Arena,0,/boxscores/202101310TOR.html
+Sun Jan 31 2021,Washington Wizards,Brooklyn Nets,149,146,Capital One Arena,0,/boxscores/202101310WAS.html
+Sun Jan 31 2021,Minnesota Timberwolves,Cleveland Cavaliers,109,104,Target Center,0,/boxscores/202101310MIN.html

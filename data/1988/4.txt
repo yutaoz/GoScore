@@ -1,0 +1,154 @@
+Fri Apr 1 1988,Boston Celtics,Detroit Pistons,121,110,Boston Garden,14890,/boxscores/198804010BOS.html
+Fri Apr 1 1988,Los Angeles Clippers,San Antonio Spurs,91,105,Los Angeles Memorial Sports Arena,8966,/boxscores/198804010LAC.html
+Fri Apr 1 1988,Philadelphia 76ers,Atlanta Hawks,93,105,The Spectrum,13207,/boxscores/198804010PHI.html
+Fri Apr 1 1988,Portland Trail Blazers,Chicago Bulls,101,116,Memorial Coliseum,12666,/boxscores/198804010POR.html
+Fri Apr 1 1988,Washington Bullets,Dallas Mavericks,118,103,Capital Centre,13783,/boxscores/198804010WSB.html
+Sat Apr 2 1988,Cleveland Cavaliers,Indiana Pacers,108,94,Coliseum at Richfield,14347,/boxscores/198804020CLE.html
+Sat Apr 2 1988,Denver Nuggets,Golden State Warriors,123,107,McNichols Sports Arena,11824,/boxscores/198804020DEN.html
+Sat Apr 2 1988,Milwaukee Bucks,New Jersey Nets,125,111,MECCA Arena,11052,/boxscores/198804020MIL.html
+Sat Apr 2 1988,New York Knicks,Houston Rockets,104,98,Madison Square Garden (IV),16333,/boxscores/198804020NYK.html
+Sat Apr 2 1988,Sacramento Kings,Los Angeles Clippers,103,105,ARCO Arena (I),10333,/boxscores/198804020SAC.html
+Sat Apr 2 1988,Seattle SuperSonics,Phoenix Suns,151,107,Seattle Center Coliseum,9790,/boxscores/198804020SEA.html
+Sat Apr 2 1988,Utah Jazz,Los Angeles Lakers,106,92,Salt Palace,12444,/boxscores/198804020UTA.html
+Sun Apr 3 1988,Boston Celtics,Dallas Mavericks,110,101,Boston Garden,14890,/boxscores/198804030BOS.html
+Sun Apr 3 1988,Detroit Pistons,Chicago Bulls,110,112,Pontiac Silverdome,23712,/boxscores/198804030DET.html
+Sun Apr 3 1988,Indiana Pacers,Atlanta Hawks,100,102,Market Square Arena,8920,/boxscores/198804030IND.html
+Sun Apr 3 1988,Los Angeles Lakers,Sacramento Kings,108,104,The Forum,11505,/boxscores/198804030LAL.html
+Sun Apr 3 1988,New Jersey Nets,Washington Bullets,103,105,Brendan Byrne Arena,8558,/boxscores/198804030NJN.html
+Sun Apr 3 1988,Portland Trail Blazers,San Antonio Spurs,110,107,Memorial Coliseum,12666,/boxscores/198804030POR.html
+Tue Apr 5 1988,Atlanta Hawks,Milwaukee Bucks,121,110,Omni Coliseum,15442,/boxscores/198804050ATL.html
+Tue Apr 5 1988,Chicago Bulls,Washington Bullets,94,105,Chicago Stadium,17700,/boxscores/198804050CHI.html
+Tue Apr 5 1988,Golden State Warriors,San Antonio Spurs,104,117,Oakland-Alameda County Coliseum Arena,8283,/boxscores/198804050GSW.html
+Tue Apr 5 1988,Houston Rockets,Denver Nuggets,97,110,The Summit,16611,/boxscores/198804050HOU.html
+Tue Apr 5 1988,Indiana Pacers,Cleveland Cavaliers,106,105,Market Square Arena,12580,/boxscores/198804050IND.html
+Tue Apr 5 1988,Los Angeles Lakers,Seattle SuperSonics,94,90,The Forum,17505,/boxscores/198804050LAL.html
+Tue Apr 5 1988,New Jersey Nets,Detroit Pistons,95,107,Brendan Byrne Arena,11586,/boxscores/198804050NJN.html
+Tue Apr 5 1988,Philadelphia 76ers,New York Knicks,119,136,The Spectrum,8577,/boxscores/198804050PHI.html
+Tue Apr 5 1988,Phoenix Suns,Utah Jazz,111,106,Arizona Veterans Memorial Coliseum,9829,/boxscores/198804050PHO.html
+Tue Apr 5 1988,Portland Trail Blazers,Los Angeles Clippers,141,119,Memorial Coliseum,12666,/boxscores/198804050POR.html
+Wed Apr 6 1988,Cleveland Cavaliers,Washington Bullets,98,87,Coliseum at Richfield,10165,/boxscores/198804060CLE.html
+Wed Apr 6 1988,Dallas Mavericks,Phoenix Suns,119,93,Reunion Arena,16452,/boxscores/198804060DAL.html
+Wed Apr 6 1988,Los Angeles Clippers,Portland Trail Blazers,103,111,Los Angeles Memorial Sports Arena,7593,/boxscores/198804060LAC.html
+Wed Apr 6 1988,Milwaukee Bucks,Chicago Bulls,110,119,MECCA Arena,0,/boxscores/198804060MIL.html
+Wed Apr 6 1988,Sacramento Kings,San Antonio Spurs,115,109,ARCO Arena (I),10333,/boxscores/198804060SAC.html
+Wed Apr 6 1988,Seattle SuperSonics,Golden State Warriors,114,102,Seattle Center Coliseum,9520,/boxscores/198804060SEA.html
+Thu Apr 7 1988,Atlanta Hawks,New Jersey Nets,120,94,Omni Coliseum,11547,/boxscores/198804070ATL.html
+Thu Apr 7 1988,Houston Rockets,Utah Jazz,113,107,The Summit,16611,/boxscores/198804070HOU.html
+Fri Apr 8 1988,Boston Celtics,New Jersey Nets,127,90,Boston Garden,14890,/boxscores/198804080BOS.html
+Fri Apr 8 1988,Chicago Bulls,New York Knicks,131,122,Chicago Stadium,18001,/boxscores/198804080CHI.html
+Fri Apr 8 1988,Cleveland Cavaliers,Milwaukee Bucks,104,85,Coliseum at Richfield,16475,/boxscores/198804080CLE.html
+Fri Apr 8 1988,Dallas Mavericks,Utah Jazz,118,95,Reunion Arena,17007,/boxscores/198804080DAL.html
+Fri Apr 8 1988,Golden State Warriors,Phoenix Suns,112,111,Oakland-Alameda County Coliseum Arena,8317,/boxscores/198804080GSW.html
+Fri Apr 8 1988,Los Angeles Lakers,Los Angeles Clippers,126,107,The Forum,17505,/boxscores/198804080LAL.html
+Fri Apr 8 1988,Philadelphia 76ers,Detroit Pistons,86,96,The Spectrum,15164,/boxscores/198804080PHI.html
+Fri Apr 8 1988,San Antonio Spurs,Denver Nuggets,124,129,HemisFair Arena,6697,/boxscores/198804080SAS.html
+Fri Apr 8 1988,Seattle SuperSonics,Portland Trail Blazers,114,100,Seattle Center Coliseum,14438,/boxscores/198804080SEA.html
+Fri Apr 8 1988,Washington Bullets,Indiana Pacers,107,100,Capital Centre,12236,/boxscores/198804080WSB.html
+Sat Apr 9 1988,Atlanta Hawks,Detroit Pistons,102,115,Omni Coliseum,16451,/boxscores/198804090ATL.html
+Sat Apr 9 1988,Dallas Mavericks,Denver Nuggets,135,109,Reunion Arena,17007,/boxscores/198804090DAL.html
+Sat Apr 9 1988,Milwaukee Bucks,Indiana Pacers,105,100,MECCA Arena,11052,/boxscores/198804090MIL.html
+Sat Apr 9 1988,Phoenix Suns,Sacramento Kings,95,92,Arizona Veterans Memorial Coliseum,10575,/boxscores/198804090PHO.html
+Sat Apr 9 1988,Portland Trail Blazers,Los Angeles Lakers,119,109,Memorial Coliseum,12666,/boxscores/198804090POR.html
+Sat Apr 9 1988,Seattle SuperSonics,Houston Rockets,104,108,Seattle Center Coliseum,13584,/boxscores/198804090SEA.html
+Sun Apr 10 1988,Los Angeles Clippers,Houston Rockets,122,105,Los Angeles Memorial Sports Arena,10660,/boxscores/198804100LAC.html
+Sun Apr 10 1988,New Jersey Nets,Cleveland Cavaliers,105,119,Brendan Byrne Arena,8985,/boxscores/198804100NJN.html
+Sun Apr 10 1988,Philadelphia 76ers,Boston Celtics,108,117,The Spectrum,18168,/boxscores/198804100PHI.html
+Sun Apr 10 1988,Sacramento Kings,Golden State Warriors,121,115,ARCO Arena (I),10333,/boxscores/198804100SAC.html
+Sun Apr 10 1988,Washington Bullets,New York Knicks,98,118,Capital Centre,13761,/boxscores/198804100WSB.html
+Mon Apr 11 1988,Atlanta Hawks,Washington Bullets,85,86,Omni Coliseum,10473,/boxscores/198804110ATL.html
+Mon Apr 11 1988,Golden State Warriors,Utah Jazz,102,113,Oakland-Alameda County Coliseum Arena,9168,/boxscores/198804110GSW.html
+Mon Apr 11 1988,Indiana Pacers,New Jersey Nets,95,93,Market Square Arena,12520,/boxscores/198804110IND.html
+Mon Apr 11 1988,Milwaukee Bucks,Philadelphia 76ers,102,115,MECCA Arena,11052,/boxscores/198804110MIL.html
+Mon Apr 11 1988,New York Knicks,Detroit Pistons,114,111,Madison Square Garden (IV),13312,/boxscores/198804110NYK.html
+Mon Apr 11 1988,Phoenix Suns,Denver Nuggets,119,123,Arizona Veterans Memorial Coliseum,9708,/boxscores/198804110PHO.html
+Tue Apr 12 1988,Cleveland Cavaliers,Atlanta Hawks,116,103,Coliseum at Richfield,12418,/boxscores/198804120CLE.html
+Tue Apr 12 1988,Los Angeles Lakers,Portland Trail Blazers,109,103,The Forum,17505,/boxscores/198804120LAL.html
+Tue Apr 12 1988,Sacramento Kings,Dallas Mavericks,96,104,ARCO Arena (I),10333,/boxscores/198804120SAC.html
+Tue Apr 12 1988,San Antonio Spurs,Houston Rockets,127,119,HemisFair Arena,0,/boxscores/198804120SAS.html
+Tue Apr 12 1988,Utah Jazz,Los Angeles Clippers,100,93,Salt Palace,12444,/boxscores/198804120UTA.html
+Wed Apr 13 1988,Boston Celtics,Milwaukee Bucks,123,104,Boston Garden,14890,/boxscores/198804130BOS.html
+Wed Apr 13 1988,Denver Nuggets,Los Angeles Lakers,120,106,McNichols Sports Arena,17022,/boxscores/198804130DEN.html
+Wed Apr 13 1988,Detroit Pistons,Cleveland Cavaliers,115,98,Pontiac Silverdome,18808,/boxscores/198804130DET.html
+Wed Apr 13 1988,Golden State Warriors,Dallas Mavericks,112,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/198804130GSW.html
+Wed Apr 13 1988,New York Knicks,Indiana Pacers,127,107,Madison Square Garden (IV),11587,/boxscores/198804130NYK.html
+Wed Apr 13 1988,Philadelphia 76ers,Washington Bullets,98,97,The Spectrum,0,/boxscores/198804130PHI.html
+Wed Apr 13 1988,Phoenix Suns,San Antonio Spurs,123,116,Arizona Veterans Memorial Coliseum,10822,/boxscores/198804130PHO.html
+Wed Apr 13 1988,Seattle SuperSonics,Los Angeles Clippers,113,92,Seattle Center Coliseum,0,/boxscores/198804130SEA.html
+Thu Apr 14 1988,Houston Rockets,Sacramento Kings,123,105,The Summit,16611,/boxscores/198804140HOU.html
+Thu Apr 14 1988,Indiana Pacers,Chicago Bulls,110,116,Market Square Arena,14750,/boxscores/198804140IND.html
+Thu Apr 14 1988,Utah Jazz,Portland Trail Blazers,123,128,Salt Palace,12444,/boxscores/198804140UTA.html
+Fri Apr 15 1988,Cleveland Cavaliers,Boston Celtics,120,109,Coliseum at Richfield,20146,/boxscores/198804150CLE.html
+Fri Apr 15 1988,Denver Nuggets,Houston Rockets,132,125,McNichols Sports Arena,17022,/boxscores/198804150DEN.html
+Fri Apr 15 1988,Detroit Pistons,Milwaukee Bucks,92,91,Pontiac Silverdome,27126,/boxscores/198804150DET.html
+Fri Apr 15 1988,Los Angeles Lakers,Phoenix Suns,117,114,The Forum,17505,/boxscores/198804150LAL.html
+Fri Apr 15 1988,New Jersey Nets,Chicago Bulls,99,100,Brendan Byrne Arena,20039,/boxscores/198804150NJN.html
+Fri Apr 15 1988,New York Knicks,Washington Bullets,97,106,Madison Square Garden (IV),17631,/boxscores/198804150NYK.html
+Fri Apr 15 1988,Philadelphia 76ers,Atlanta Hawks,101,103,The Spectrum,12262,/boxscores/198804150PHI.html
+Fri Apr 15 1988,Portland Trail Blazers,Golden State Warriors,147,113,Memorial Coliseum,12666,/boxscores/198804150POR.html
+Fri Apr 15 1988,San Antonio Spurs,Sacramento Kings,116,112,HemisFair Arena,0,/boxscores/198804150SAS.html
+Fri Apr 15 1988,Seattle SuperSonics,Dallas Mavericks,115,88,Seattle Center Coliseum,12576,/boxscores/198804150SEA.html
+Sat Apr 16 1988,Atlanta Hawks,New York Knicks,93,95,Omni Coliseum,15269,/boxscores/198804160ATL.html
+Sat Apr 16 1988,Detroit Pistons,New Jersey Nets,114,96,Pontiac Silverdome,22767,/boxscores/198804160DET.html
+Sat Apr 16 1988,Golden State Warriors,Los Angeles Clippers,113,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/198804160GSW.html
+Sat Apr 16 1988,Indiana Pacers,Philadelphia 76ers,126,92,Market Square Arena,13454,/boxscores/198804160IND.html
+Sat Apr 16 1988,Phoenix Suns,Seattle SuperSonics,121,119,Arizona Veterans Memorial Coliseum,11406,/boxscores/198804160PHO.html
+Sat Apr 16 1988,Utah Jazz,San Antonio Spurs,107,82,Salt Palace,12444,/boxscores/198804160UTA.html
+Sun Apr 17 1988,Chicago Bulls,Milwaukee Bucks,105,97,Chicago Stadium,18551,/boxscores/198804170CHI.html
+Sun Apr 17 1988,Denver Nuggets,Dallas Mavericks,133,122,McNichols Sports Arena,17022,/boxscores/198804170DEN.html
+Sun Apr 17 1988,Houston Rockets,Los Angeles Lakers,127,119,The Summit,16611,/boxscores/198804170HOU.html
+Sun Apr 17 1988,Portland Trail Blazers,Sacramento Kings,112,102,Memorial Coliseum,12666,/boxscores/198804170POR.html
+Sun Apr 17 1988,Washington Bullets,Boston Celtics,98,92,Capital Centre,18643,/boxscores/198804170WSB.html
+Mon Apr 18 1988,Cleveland Cavaliers,Indiana Pacers,112,107,Coliseum at Richfield,10180,/boxscores/198804180CLE.html
+Tue Apr 19 1988,Boston Celtics,Detroit Pistons,121,110,Boston Garden,14890,/boxscores/198804190BOS.html
+Tue Apr 19 1988,Denver Nuggets,Seattle SuperSonics,134,114,McNichols Sports Arena,14478,/boxscores/198804190DEN.html
+Tue Apr 19 1988,Houston Rockets,Dallas Mavericks,96,104,The Summit,16611,/boxscores/198804190HOU.html
+Tue Apr 19 1988,New Jersey Nets,Atlanta Hawks,109,119,Brendan Byrne Arena,11122,/boxscores/198804190NJN.html
+Tue Apr 19 1988,New York Knicks,Chicago Bulls,118,121,Madison Square Garden (IV),19591,/boxscores/198804190NYK.html
+Tue Apr 19 1988,Philadelphia 76ers,Milwaukee Bucks,115,102,The Spectrum,18168,/boxscores/198804190PHI.html
+Tue Apr 19 1988,Phoenix Suns,Golden State Warriors,122,107,Arizona Veterans Memorial Coliseum,0,/boxscores/198804190PHO.html
+Tue Apr 19 1988,Portland Trail Blazers,Utah Jazz,122,129,Memorial Coliseum,12666,/boxscores/198804190POR.html
+Tue Apr 19 1988,Sacramento Kings,Los Angeles Clippers,120,105,ARCO Arena (I),10333,/boxscores/198804190SAC.html
+Tue Apr 19 1988,San Antonio Spurs,Los Angeles Lakers,126,133,HemisFair Arena,12456,/boxscores/198804190SAS.html
+Wed Apr 20 1988,Atlanta Hawks,Indiana Pacers,98,116,Omni Coliseum,11784,/boxscores/198804200ATL.html
+Wed Apr 20 1988,Dallas Mavericks,Los Angeles Lakers,107,114,Reunion Arena,17007,/boxscores/198804200DAL.html
+Wed Apr 20 1988,Golden State Warriors,Portland Trail Blazers,117,131,Oakland-Alameda County Coliseum Arena,0,/boxscores/198804200GSW.html
+Wed Apr 20 1988,Los Angeles Clippers,Utah Jazz,106,112,Los Angeles Memorial Sports Arena,0,/boxscores/198804200LAC.html
+Wed Apr 20 1988,Milwaukee Bucks,Washington Bullets,132,94,MECCA Arena,11052,/boxscores/198804200MIL.html
+Wed Apr 20 1988,Seattle SuperSonics,Phoenix Suns,121,98,Seattle Center Coliseum,0,/boxscores/198804200SEA.html
+Thu Apr 21 1988,Boston Celtics,Chicago Bulls,126,119,Boston Garden,14890,/boxscores/198804210BOS.html
+Thu Apr 21 1988,Houston Rockets,San Antonio Spurs,116,117,The Summit,16611,/boxscores/198804210HOU.html
+Thu Apr 21 1988,Philadelphia 76ers,New Jersey Nets,104,101,The Spectrum,7641,/boxscores/198804210PHI.html
+Thu Apr 21 1988,Washington Bullets,Detroit Pistons,87,99,Capital Centre,11713,/boxscores/198804210WSB.html
+Fri Apr 22 1988,Atlanta Hawks,Boston Celtics,133,106,Omni Coliseum,16451,/boxscores/198804220ATL.html
+Fri Apr 22 1988,Chicago Bulls,Cleveland Cavaliers,103,107,Chicago Stadium,17726,/boxscores/198804220CHI.html
+Fri Apr 22 1988,Dallas Mavericks,San Antonio Spurs,127,96,Reunion Arena,17007,/boxscores/198804220DAL.html
+Fri Apr 22 1988,Detroit Pistons,Indiana Pacers,98,103,Pontiac Silverdome,27881,/boxscores/198804220DET.html
+Fri Apr 22 1988,Golden State Warriors,Sacramento Kings,109,117,Oakland-Alameda County Coliseum Arena,10577,/boxscores/198804220GSW.html
+Fri Apr 22 1988,Milwaukee Bucks,New York Knicks,118,109,MECCA Arena,11052,/boxscores/198804220MIL.html
+Fri Apr 22 1988,Phoenix Suns,Los Angeles Lakers,112,117,Arizona Veterans Memorial Coliseum,14077,/boxscores/198804220PHO.html
+Fri Apr 22 1988,Portland Trail Blazers,Denver Nuggets,141,135,Memorial Coliseum,12666,/boxscores/198804220POR.html
+Fri Apr 22 1988,Seattle SuperSonics,Utah Jazz,109,110,Seattle Center Coliseum,14250,/boxscores/198804220SEA.html
+Sat Apr 23 1988,Cleveland Cavaliers,Philadelphia 76ers,104,99,Coliseum at Richfield,20121,/boxscores/198804230CLE.html
+Sat Apr 23 1988,Denver Nuggets,Los Angeles Clippers,134,109,McNichols Sports Arena,17022,/boxscores/198804230DEN.html
+Sat Apr 23 1988,Indiana Pacers,New York Knicks,86,88,Market Square Arena,15962,/boxscores/198804230IND.html
+Sat Apr 23 1988,New Jersey Nets,Milwaukee Bucks,118,105,Brendan Byrne Arena,13375,/boxscores/198804230NJN.html
+Sat Apr 23 1988,Sacramento Kings,Portland Trail Blazers,110,124,ARCO Arena (I),10333,/boxscores/198804230SAC.html
+Sat Apr 23 1988,Utah Jazz,Houston Rockets,125,107,Salt Palace,12444,/boxscores/198804230UTA.html
+Sat Apr 23 1988,Washington Bullets,Atlanta Hawks,106,96,Capital Centre,15638,/boxscores/198804230WSB.html
+Sun Apr 24 1988,Chicago Bulls,Boston Celtics,115,108,Chicago Stadium,18636,/boxscores/198804240CHI.html
+Sun Apr 24 1988,Detroit Pistons,Philadelphia 76ers,128,118,Pontiac Silverdome,27854,/boxscores/198804240DET.html
+Sun Apr 24 1988,Houston Rockets,Phoenix Suns,127,119,The Summit,16611,/boxscores/198804240HOU.html
+Sun Apr 24 1988,Los Angeles Clippers,Seattle SuperSonics,100,109,Los Angeles Memorial Sports Arena,0,/boxscores/198804240LAC.html
+Sun Apr 24 1988,Los Angeles Lakers,Golden State Warriors,136,100,The Forum,17505,/boxscores/198804240LAL.html
+Sun Apr 24 1988,San Antonio Spurs,Dallas Mavericks,109,119,HemisFair Arena,0,/boxscores/198804240SAS.html
+Thu Apr 28 1988,Chicago Bulls,Cleveland Cavaliers,104,93,Chicago Stadium,18676,/boxscores/198804280CHI.html
+Thu Apr 28 1988,Dallas Mavericks,Houston Rockets,120,110,Reunion Arena,17007,/boxscores/198804280DAL.html
+Thu Apr 28 1988,Detroit Pistons,Washington Bullets,96,87,Pontiac Silverdome,17356,/boxscores/198804280DET.html
+Thu Apr 28 1988,Portland Trail Blazers,Utah Jazz,108,96,Memorial Coliseum,12666,/boxscores/198804280POR.html
+Fri Apr 29 1988,Atlanta Hawks,Milwaukee Bucks,110,107,Omni Coliseum,11517,/boxscores/198804290ATL.html
+Fri Apr 29 1988,Boston Celtics,New York Knicks,112,92,Boston Garden,14890,/boxscores/198804290BOS.html
+Fri Apr 29 1988,Denver Nuggets,Seattle SuperSonics,126,123,McNichols Sports Arena,17022,/boxscores/198804290DEN.html
+Fri Apr 29 1988,Los Angeles Lakers,San Antonio Spurs,122,110,The Forum,17505,/boxscores/198804290LAL.html
+Sat Apr 30 1988,Dallas Mavericks,Houston Rockets,108,119,Reunion Arena,17007,/boxscores/198804300DAL.html
+Sat Apr 30 1988,Detroit Pistons,Washington Bullets,102,101,Pontiac Silverdome,18293,/boxscores/198804300DET.html
+Sat Apr 30 1988,Portland Trail Blazers,Utah Jazz,105,114,Memorial Coliseum,12666,/boxscores/198804300POR.html

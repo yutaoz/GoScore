@@ -1,0 +1,115 @@
+Tue Apr 1 1986,Atlanta Hawks,Washington Bullets,107,91,Omni Coliseum,6835,/boxscores/198604010ATL.html
+Tue Apr 1 1986,Cleveland Cavaliers,Boston Celtics,105,123,Coliseum at Richfield,17495,/boxscores/198604010CLE.html
+Tue Apr 1 1986,Dallas Mavericks,Phoenix Suns,128,98,Reunion Arena,17007,/boxscores/198604010DAL.html
+Tue Apr 1 1986,Detroit Pistons,Indiana Pacers,116,108,Pontiac Silverdome,25816,/boxscores/198604010DET.html
+Tue Apr 1 1986,Houston Rockets,Golden State Warriors,125,121,The Summit,14803,/boxscores/198604010HOU.html
+Tue Apr 1 1986,Los Angeles Lakers,Seattle SuperSonics,109,104,The Forum,17505,/boxscores/198604010LAL.html
+Tue Apr 1 1986,Milwaukee Bucks,Chicago Bulls,116,107,MECCA Arena,11052,/boxscores/198604010MIL.html
+Tue Apr 1 1986,New York Knicks,New Jersey Nets,93,111,Madison Square Garden (IV),11746,/boxscores/198604010NYK.html
+Tue Apr 1 1986,Portland Trail Blazers,Denver Nuggets,127,110,Memorial Coliseum,12666,/boxscores/198604010POR.html
+Tue Apr 1 1986,San Antonio Spurs,Sacramento Kings,99,109,HemisFair Arena,5371,/boxscores/198604010SAS.html
+Tue Apr 1 1986,Utah Jazz,Los Angeles Clippers,109,113,Salt Palace,12281,/boxscores/198604010UTA.html
+Wed Apr 2 1986,Boston Celtics,Detroit Pistons,122,106,Boston Garden,14890,/boxscores/198604020BOS.html
+Wed Apr 2 1986,Los Angeles Clippers,Utah Jazz,97,94,Los Angeles Memorial Sports Arena,8993,/boxscores/198604020LAC.html
+Wed Apr 2 1986,Philadelphia 76ers,New York Knicks,93,87,The Spectrum,9611,/boxscores/198604020PHI.html
+Wed Apr 2 1986,Phoenix Suns,Golden State Warriors,110,101,Arizona Veterans Memorial Coliseum,10383,/boxscores/198604020PHO.html
+Wed Apr 2 1986,Seattle SuperSonics,Portland Trail Blazers,109,121,Seattle Center Coliseum,5958,/boxscores/198604020SEA.html
+Thu Apr 3 1986,Dallas Mavericks,Denver Nuggets,115,114,Reunion Arena,17007,/boxscores/198604030DAL.html
+Thu Apr 3 1986,Indiana Pacers,Chicago Bulls,108,109,Market Square Arena,11599,/boxscores/198604030IND.html
+Thu Apr 3 1986,Los Angeles Lakers,Sacramento Kings,135,105,The Forum,17505,/boxscores/198604030LAL.html
+Thu Apr 3 1986,Milwaukee Bucks,Cleveland Cavaliers,114,93,MECCA Arena,10907,/boxscores/198604030MIL.html
+Thu Apr 3 1986,San Antonio Spurs,Houston Rockets,110,136,HemisFair Arena,7219,/boxscores/198604030SAS.html
+Thu Apr 3 1986,New Jersey Nets,Washington Bullets,108,120,Brendan Byrne Arena,14378,/boxscores/198604030NJN.html
+Fri Apr 4 1986,Boston Celtics,New York Knicks,119,98,Boston Garden,14890,/boxscores/198604040BOS.html
+Fri Apr 4 1986,Detroit Pistons,Milwaukee Bucks,108,115,Pontiac Silverdome,28964,/boxscores/198604040DET.html
+Fri Apr 4 1986,Philadelphia 76ers,Cleveland Cavaliers,122,102,The Spectrum,10189,/boxscores/198604040PHI.html
+Fri Apr 4 1986,Phoenix Suns,Houston Rockets,89,112,Arizona Veterans Memorial Coliseum,12936,/boxscores/198604040PHO.html
+Fri Apr 4 1986,Washington Bullets,Atlanta Hawks,135,129,Capital Centre,9113,/boxscores/198604040WSB.html
+Sat Apr 5 1986,Chicago Bulls,Atlanta Hawks,102,97,Chicago Stadium,17769,/boxscores/198604050CHI.html
+Sat Apr 5 1986,Dallas Mavericks,Seattle SuperSonics,109,111,Reunion Arena,17007,/boxscores/198604050DAL.html
+Sat Apr 5 1986,Indiana Pacers,Detroit Pistons,106,115,Market Square Arena,13837,/boxscores/198604050IND.html
+Sat Apr 5 1986,Los Angeles Clippers,Golden State Warriors,106,107,Los Angeles Memorial Sports Arena,10832,/boxscores/198604050LAC.html
+Sat Apr 5 1986,Sacramento Kings,Phoenix Suns,119,100,ARCO Arena (I),10333,/boxscores/198604050SAC.html
+Sat Apr 5 1986,Utah Jazz,Portland Trail Blazers,114,103,Salt Palace,12629,/boxscores/198604050UTA.html
+Sat Apr 5 1986,New Jersey Nets,New York Knicks,107,93,Brendan Byrne Arena,14267,/boxscores/198604050NJN.html
+Sun Apr 6 1986,Houston Rockets,Los Angeles Lakers,109,103,The Summit,16016,/boxscores/198604060HOU.html
+Sun Apr 6 1986,Philadelphia 76ers,Boston Celtics,95,94,The Spectrum,17941,/boxscores/198604060PHI.html
+Sun Apr 6 1986,San Antonio Spurs,Denver Nuggets,106,124,HemisFair Arena,6266,/boxscores/198604060SAS.html
+Sun Apr 6 1986,Washington Bullets,Cleveland Cavaliers,106,95,Capital Centre,5586,/boxscores/198604060WSB.html
+Mon Apr 7 1986,Chicago Bulls,Milwaukee Bucks,107,101,Chicago Stadium,10249,/boxscores/198604070CHI.html
+Mon Apr 7 1986,Detroit Pistons,Cleveland Cavaliers,128,104,Pontiac Silverdome,21793,/boxscores/198604070DET.html
+Mon Apr 7 1986,New York Knicks,Indiana Pacers,106,104,Madison Square Garden (IV),11282,/boxscores/198604070NYK.html
+Mon Apr 7 1986,Phoenix Suns,Denver Nuggets,123,131,Arizona Veterans Memorial Coliseum,9185,/boxscores/198604070PHO.html
+Mon Apr 7 1986,Sacramento Kings,Dallas Mavericks,122,115,ARCO Arena (I),10333,/boxscores/198604070SAC.html
+Tue Apr 8 1986,Atlanta Hawks,Chicago Bulls,131,118,Omni Coliseum,8806,/boxscores/198604080ATL.html
+Tue Apr 8 1986,Golden State Warriors,Dallas Mavericks,129,115,Oakland-Alameda County Coliseum Arena,5452,/boxscores/198604080GSW.html
+Tue Apr 8 1986,Houston Rockets,Seattle SuperSonics,109,95,The Summit,14649,/boxscores/198604080HOU.html
+Tue Apr 8 1986,Milwaukee Bucks,Boston Celtics,114,126,MECCA Arena,11052,/boxscores/198604080MIL.html
+Tue Apr 8 1986,Philadelphia 76ers,Detroit Pistons,116,112,The Spectrum,12575,/boxscores/198604080PHI.html
+Tue Apr 8 1986,Portland Trail Blazers,Los Angeles Lakers,114,120,Memorial Coliseum,12666,/boxscores/198604080POR.html
+Tue Apr 8 1986,Washington Bullets,Indiana Pacers,104,111,Capital Centre,4043,/boxscores/198604080WSB.html
+Wed Apr 9 1986,Los Angeles Clippers,Denver Nuggets,132,127,Los Angeles Memorial Sports Arena,8931,/boxscores/198604090LAC.html
+Wed Apr 9 1986,Phoenix Suns,San Antonio Spurs,102,114,Arizona Veterans Memorial Coliseum,9384,/boxscores/198604090PHO.html
+Wed Apr 9 1986,Utah Jazz,Sacramento Kings,108,113,Salt Palace,12230,/boxscores/198604090UTA.html
+Wed Apr 9 1986,New Jersey Nets,Boston Celtics,108,98,Brendan Byrne Arena,18092,/boxscores/198604090NJN.html
+Thu Apr 10 1986,Atlanta Hawks,New Jersey Nets,126,117,Omni Coliseum,9902,/boxscores/198604100ATL.html
+Thu Apr 10 1986,Cleveland Cavaliers,Milwaukee Bucks,101,102,Coliseum at Richfield,6189,/boxscores/198604100CLE.html
+Thu Apr 10 1986,Denver Nuggets,Phoenix Suns,115,113,McNichols Sports Arena,12295,/boxscores/198604100DEN.html
+Thu Apr 10 1986,Los Angeles Lakers,Houston Rockets,117,113,The Forum,17505,/boxscores/198604100LAL.html
+Thu Apr 10 1986,Portland Trail Blazers,Los Angeles Clippers,115,100,Memorial Coliseum,12666,/boxscores/198604100POR.html
+Thu Apr 10 1986,Sacramento Kings,Utah Jazz,108,119,ARCO Arena (I),10333,/boxscores/198604100SAC.html
+Thu Apr 10 1986,Seattle SuperSonics,Dallas Mavericks,109,115,Seattle Center Coliseum,10445,/boxscores/198604100SEA.html
+Fri Apr 11 1986,Boston Celtics,Cleveland Cavaliers,117,104,Boston Garden,14890,/boxscores/198604110BOS.html
+Fri Apr 11 1986,Chicago Bulls,Washington Bullets,105,103,Chicago Stadium,18869,/boxscores/198604110CHI.html
+Fri Apr 11 1986,Golden State Warriors,Portland Trail Blazers,130,131,Oakland-Alameda County Coliseum Arena,6863,/boxscores/198604110GSW.html
+Fri Apr 11 1986,New York Knicks,Detroit Pistons,95,108,Madison Square Garden (IV),14022,/boxscores/198604110NYK.html
+Fri Apr 11 1986,Philadelphia 76ers,Indiana Pacers,130,122,The Spectrum,15177,/boxscores/198604110PHI.html
+Sat Apr 12 1986,Atlanta Hawks,Indiana Pacers,108,91,Omni Coliseum,9846,/boxscores/198604120ATL.html
+Sat Apr 12 1986,Denver Nuggets,Utah Jazz,99,117,McNichols Sports Arena,15209,/boxscores/198604120DEN.html
+Sat Apr 12 1986,Houston Rockets,Phoenix Suns,92,110,The Summit,16016,/boxscores/198604120HOU.html
+Sat Apr 12 1986,Los Angeles Clippers,Dallas Mavericks,115,108,Los Angeles Memorial Sports Arena,9894,/boxscores/198604120LAC.html
+Sat Apr 12 1986,Milwaukee Bucks,New York Knicks,116,78,MECCA Arena,11052,/boxscores/198604120MIL.html
+Sat Apr 12 1986,Sacramento Kings,Los Angeles Lakers,92,105,ARCO Arena (I),10333,/boxscores/198604120SAC.html
+Sat Apr 12 1986,Seattle SuperSonics,Golden State Warriors,121,101,Seattle Center Coliseum,12019,/boxscores/198604120SEA.html
+Sun Apr 13 1986,Boston Celtics,New Jersey Nets,135,107,Boston Garden,14890,/boxscores/198604130BOS.html
+Sun Apr 13 1986,Cleveland Cavaliers,Chicago Bulls,104,97,Coliseum at Richfield,8056,/boxscores/198604130CLE.html
+Sun Apr 13 1986,Los Angeles Lakers,Dallas Mavericks,104,127,The Forum,17505,/boxscores/198604130LAL.html
+Sun Apr 13 1986,Phoenix Suns,Los Angeles Clippers,118,99,Arizona Veterans Memorial Coliseum,10217,/boxscores/198604130PHO.html
+Sun Apr 13 1986,San Antonio Spurs,Portland Trail Blazers,123,118,HemisFair Arena,6573,/boxscores/198604130SAS.html
+Sun Apr 13 1986,Washington Bullets,Philadelphia 76ers,98,97,Capital Centre,16242,/boxscores/198604130WSB.html
+Thu Apr 17 1986,Atlanta Hawks,Detroit Pistons,140,122,Omni Coliseum,12538,/boxscores/198604170ATL.html
+Thu Apr 17 1986,Boston Celtics,Chicago Bulls,123,104,Boston Garden,14890,/boxscores/198604170BOS.html
+Thu Apr 17 1986,Houston Rockets,Sacramento Kings,107,87,The Summit,15101,/boxscores/198604170HOU.html
+Thu Apr 17 1986,Los Angeles Lakers,San Antonio Spurs,135,88,The Forum,17505,/boxscores/198604170LAL.html
+Fri Apr 18 1986,Dallas Mavericks,Utah Jazz,101,93,Reunion Arena,17007,/boxscores/198604180DAL.html
+Fri Apr 18 1986,Denver Nuggets,Portland Trail Blazers,133,126,McNichols Sports Arena,13209,/boxscores/198604180DEN.html
+Fri Apr 18 1986,Milwaukee Bucks,New Jersey Nets,119,107,MECCA Arena,11052,/boxscores/198604180MIL.html
+Fri Apr 18 1986,Philadelphia 76ers,Washington Bullets,94,95,The Spectrum,9148,/boxscores/198604180PHI.html
+Sat Apr 19 1986,Atlanta Hawks,Detroit Pistons,137,125,Omni Coliseum,12964,/boxscores/198604190ATL.html
+Sat Apr 19 1986,Houston Rockets,Sacramento Kings,111,103,The Summit,16016,/boxscores/198604190HOU.html
+Sat Apr 19 1986,Los Angeles Lakers,San Antonio Spurs,122,94,The Forum,17505,/boxscores/198604190LAL.html
+Sun Apr 20 1986,Boston Celtics,Chicago Bulls,135,131,Boston Garden,14890,/boxscores/198604200BOS.html
+Sun Apr 20 1986,Dallas Mavericks,Utah Jazz,113,106,Reunion Arena,17007,/boxscores/198604200DAL.html
+Sun Apr 20 1986,Denver Nuggets,Portland Trail Blazers,106,108,McNichols Sports Arena,11724,/boxscores/198604200DEN.html
+Sun Apr 20 1986,Milwaukee Bucks,New Jersey Nets,111,97,MECCA Arena,11052,/boxscores/198604200MIL.html
+Sun Apr 20 1986,Philadelphia 76ers,Washington Bullets,102,97,The Spectrum,9057,/boxscores/198604200PHI.html
+Tue Apr 22 1986,Chicago Bulls,Boston Celtics,104,122,Chicago Stadium,18968,/boxscores/198604220CHI.html
+Tue Apr 22 1986,Detroit Pistons,Atlanta Hawks,106,97,Pontiac Silverdome,13312,/boxscores/198604220DET.html
+Tue Apr 22 1986,Portland Trail Blazers,Denver Nuggets,104,115,Memorial Coliseum,12666,/boxscores/198604220POR.html
+Tue Apr 22 1986,Sacramento Kings,Houston Rockets,98,113,ARCO Arena (I),10333,/boxscores/198604220SAC.html
+Tue Apr 22 1986,Washington Bullets,Philadelphia 76ers,86,91,Capital Centre,17137,/boxscores/198604220WSB.html
+Tue Apr 22 1986,New Jersey Nets,Milwaukee Bucks,113,118,Brendan Byrne Arena,7784,/boxscores/198604220NJN.html
+Wed Apr 23 1986,San Antonio Spurs,Los Angeles Lakers,94,114,HemisFair Arena,7918,/boxscores/198604230SAS.html
+Wed Apr 23 1986,Utah Jazz,Dallas Mavericks,100,98,Salt Palace,11635,/boxscores/198604230UTA.html
+Thu Apr 24 1986,Portland Trail Blazers,Denver Nuggets,112,116,Memorial Coliseum,12666,/boxscores/198604240POR.html
+Thu Apr 24 1986,Washington Bullets,Philadelphia 76ers,116,111,Capital Centre,12588,/boxscores/198604240WSB.html
+Fri Apr 25 1986,Detroit Pistons,Atlanta Hawks,113,114,Pontiac Silverdome,15288,/boxscores/198604250DET.html
+Fri Apr 25 1986,Utah Jazz,Dallas Mavericks,113,117,Salt Palace,12683,/boxscores/198604250UTA.html
+Sat Apr 26 1986,Houston Rockets,Denver Nuggets,126,119,The Summit,15448,/boxscores/198604260HOU.html
+Sun Apr 27 1986,Boston Celtics,Atlanta Hawks,103,91,Boston Garden,14890,/boxscores/198604270BOS.html
+Sun Apr 27 1986,Los Angeles Lakers,Dallas Mavericks,130,116,The Forum,17505,/boxscores/198604270LAL.html
+Sun Apr 27 1986,Philadelphia 76ers,Washington Bullets,134,109,The Spectrum,15162,/boxscores/198604270PHI.html
+Tue Apr 29 1986,Boston Celtics,Atlanta Hawks,119,108,Boston Garden,14890,/boxscores/198604290BOS.html
+Tue Apr 29 1986,Houston Rockets,Denver Nuggets,119,101,The Summit,16016,/boxscores/198604290HOU.html
+Tue Apr 29 1986,Milwaukee Bucks,Philadelphia 76ers,112,118,MECCA Arena,11052,/boxscores/198604290MIL.html
+Wed Apr 30 1986,Los Angeles Lakers,Dallas Mavericks,117,113,The Forum,17505,/boxscores/198604300LAL.html

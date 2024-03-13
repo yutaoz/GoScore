@@ -1,0 +1,214 @@
+Fri Mar 1 1991,Boston Celtics,San Antonio Spurs,108,98,Boston Garden,14890,/boxscores/199103010BOS.html
+Fri Mar 1 1991,Chicago Bulls,Dallas Mavericks,109,86,Chicago Stadium,18676,/boxscores/199103010CHI.html
+Fri Mar 1 1991,Detroit Pistons,Utah Jazz,92,94,The Palace of Auburn Hills,21454,/boxscores/199103010DET.html
+Fri Mar 1 1991,Indiana Pacers,Cleveland Cavaliers,118,115,Market Square Arena,11193,/boxscores/199103010IND.html
+Fri Mar 1 1991,Los Angeles Lakers,Orlando Magic,115,101,Great Western Forum,17326,/boxscores/199103010LAL.html
+Fri Mar 1 1991,Milwaukee Bucks,Washington Bullets,106,105,Bradley Center,18633,/boxscores/199103010MIL.html
+Fri Mar 1 1991,Philadelphia 76ers,Portland Trail Blazers,121,111,The Spectrum,18168,/boxscores/199103010PHI.html
+Fri Mar 1 1991,Phoenix Suns,Sacramento Kings,112,106,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103010PHO.html
+Fri Mar 1 1991,Seattle SuperSonics,Charlotte Hornets,122,105,Seattle Center Coliseum,13230,/boxscores/199103010SEA.html
+Sat Mar 2 1991,Dallas Mavericks,Miami Heat,103,109,Reunion Arena,17007,/boxscores/199103020DAL.html
+Sat Mar 2 1991,Denver Nuggets,Orlando Magic,126,111,McNichols Sports Arena,7519,/boxscores/199103020DEN.html
+Sat Mar 2 1991,Golden State Warriors,Charlotte Hornets,121,108,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103020GSW.html
+Sat Mar 2 1991,Indiana Pacers,Chicago Bulls,135,114,Market Square Arena,16530,/boxscores/199103020IND.html
+Sat Mar 2 1991,Minnesota Timberwolves,Los Angeles Clippers,102,104,Target Center,19006,/boxscores/199103020MIN.html
+Sat Mar 2 1991,New Jersey Nets,New York Knicks,105,115,Brendan Byrne Arena,17070,/boxscores/199103020NJN.html
+Sat Mar 2 1991,Seattle SuperSonics,Sacramento Kings,120,106,Seattle Center Coliseum,12182,/boxscores/199103020SEA.html
+Sun Mar 3 1991,Boston Celtics,Portland Trail Blazers,107,116,Boston Garden,14890,/boxscores/199103030BOS.html
+Sun Mar 3 1991,Detroit Pistons,Los Angeles Clippers,107,98,The Palace of Auburn Hills,21454,/boxscores/199103030DET.html
+Sun Mar 3 1991,Los Angeles Lakers,Houston Rockets,95,104,Great Western Forum,17505,/boxscores/199103030LAL.html
+Sun Mar 3 1991,Milwaukee Bucks,Atlanta Hawks,106,115,Bradley Center,16341,/boxscores/199103030MIL.html
+Sun Mar 3 1991,Philadelphia 76ers,Utah Jazz,92,95,The Spectrum,18168,/boxscores/199103030PHI.html
+Sun Mar 3 1991,Washington Bullets,San Antonio Spurs,85,107,Capital Centre,17902,/boxscores/199103030WSB.html
+Mon Mar 4 1991,Boston Celtics,Indiana Pacers,126,101,Hartford Civic Center,15239,/boxscores/199103040BOS.html
+Mon Mar 4 1991,Charlotte Hornets,Phoenix Suns,93,126,Charlotte Coliseum,23901,/boxscores/199103040CHH.html
+Mon Mar 4 1991,Dallas Mavericks,New Jersey Nets,102,100,Reunion Arena,15770,/boxscores/199103040DAL.html
+Mon Mar 4 1991,Golden State Warriors,Seattle SuperSonics,99,105,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103040GSW.html
+Mon Mar 4 1991,Orlando Magic,Utah Jazz,88,106,Orlando Arena,15077,/boxscores/199103040ORL.html
+Tue Mar 5 1991,Atlanta Hawks,Denver Nuggets,139,127,Omni Coliseum,13500,/boxscores/199103050ATL.html
+Tue Mar 5 1991,Chicago Bulls,Milwaukee Bucks,104,86,Chicago Stadium,18335,/boxscores/199103050CHI.html
+Tue Mar 5 1991,Houston Rockets,New Jersey Nets,112,100,The Summit,15051,/boxscores/199103050HOU.html
+Tue Mar 5 1991,Indiana Pacers,Charlotte Hornets,112,101,Market Square Arena,8368,/boxscores/199103050IND.html
+Tue Mar 5 1991,Miami Heat,Los Angeles Clippers,116,113,Miami Arena,15008,/boxscores/199103050MIA.html
+Tue Mar 5 1991,Minnesota Timberwolves,Los Angeles Lakers,94,85,Target Center,19006,/boxscores/199103050MIN.html
+Tue Mar 5 1991,New York Knicks,Phoenix Suns,102,107,Madison Square Garden (IV),16420,/boxscores/199103050NYK.html
+Tue Mar 5 1991,Sacramento Kings,Golden State Warriors,100,92,ARCO Arena (II),17014,/boxscores/199103050SAC.html
+Tue Mar 5 1991,San Antonio Spurs,Philadelphia 76ers,104,99,HemisFair Arena,15908,/boxscores/199103050SAS.html
+Tue Mar 5 1991,Seattle SuperSonics,Cleveland Cavaliers,111,113,Seattle Center Coliseum,10623,/boxscores/199103050SEA.html
+Wed Mar 6 1991,Boston Celtics,Miami Heat,126,117,Boston Garden,14890,/boxscores/199103060BOS.html
+Wed Mar 6 1991,Dallas Mavericks,Philadelphia 76ers,92,97,Reunion Arena,17007,/boxscores/199103060DAL.html
+Wed Mar 6 1991,Detroit Pistons,New York Knicks,99,102,The Palace of Auburn Hills,21454,/boxscores/199103060DET.html
+Wed Mar 6 1991,Orlando Magic,Los Angeles Clippers,89,86,Orlando Arena,15077,/boxscores/199103060ORL.html
+Wed Mar 6 1991,Washington Bullets,Utah Jazz,93,104,Capital Centre,11729,/boxscores/199103060WSB.html
+Thu Mar 7 1991,Atlanta Hawks,Phoenix Suns,104,106,Omni Coliseum,12184,/boxscores/199103070ATL.html
+Thu Mar 7 1991,Golden State Warriors,Cleveland Cavaliers,122,92,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103070GSW.html
+Thu Mar 7 1991,Houston Rockets,Dallas Mavericks,122,90,The Summit,14012,/boxscores/199103070HOU.html
+Thu Mar 7 1991,Indiana Pacers,Denver Nuggets,145,125,Market Square Arena,9598,/boxscores/199103070IND.html
+Thu Mar 7 1991,Milwaukee Bucks,Los Angeles Lakers,99,94,Bradley Center,18633,/boxscores/199103070MIL.html
+Thu Mar 7 1991,Minnesota Timberwolves,Seattle SuperSonics,86,91,Target Center,19006,/boxscores/199103070MIN.html
+Thu Mar 7 1991,San Antonio Spurs,New Jersey Nets,111,99,HemisFair Arena,15908,/boxscores/199103070SAS.html
+Fri Mar 8 1991,Chicago Bulls,Utah Jazz,99,89,Chicago Stadium,18676,/boxscores/199103080CHI.html
+Fri Mar 8 1991,Los Angeles Clippers,Boston Celtics,98,104,Los Angeles Memorial Sports Arena,15350,/boxscores/199103080LAC.html
+Fri Mar 8 1991,Miami Heat,Atlanta Hawks,96,102,Miami Arena,15008,/boxscores/199103080MIA.html
+Fri Mar 8 1991,Orlando Magic,Denver Nuggets,129,113,Orlando Arena,15077,/boxscores/199103080ORL.html
+Fri Mar 8 1991,Sacramento Kings,Cleveland Cavaliers,87,79,ARCO Arena (II),17014,/boxscores/199103080SAC.html
+Fri Mar 8 1991,Washington Bullets,Phoenix Suns,91,117,Capital Centre,15311,/boxscores/199103080WSB.html
+Sat Mar 9 1991,Houston Rockets,Philadelphia 76ers,97,80,The Summit,16611,/boxscores/199103090HOU.html
+Sat Mar 9 1991,Indiana Pacers,Detroit Pistons,112,114,Market Square Arena,16530,/boxscores/199103090IND.html
+Sat Mar 9 1991,Milwaukee Bucks,Charlotte Hornets,98,107,Bradley Center,18633,/boxscores/199103090MIL.html
+Sat Mar 9 1991,New York Knicks,Utah Jazz,101,92,Madison Square Garden (IV),18032,/boxscores/199103090NYK.html
+Sat Mar 9 1991,San Antonio Spurs,Seattle SuperSonics,112,99,HemisFair Arena,15906,/boxscores/199103090SAS.html
+Sat Mar 9 1991,Washington Bullets,Los Angeles Lakers,72,87,Capital Centre,18758,/boxscores/199103090WSB.html
+Sun Mar 10 1991,Atlanta Hawks,Chicago Bulls,87,122,Omni Coliseum,16371,/boxscores/199103100ATL.html
+Sun Mar 10 1991,Denver Nuggets,Dallas Mavericks,124,110,McNichols Sports Arena,11520,/boxscores/199103100DEN.html
+Sun Mar 10 1991,Golden State Warriors,Sacramento Kings,97,87,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103100GSW.html
+Sun Mar 10 1991,Los Angeles Clippers,Cleveland Cavaliers,93,98,Los Angeles Memorial Sports Arena,12050,/boxscores/199103100LAC.html
+Sun Mar 10 1991,Miami Heat,New Jersey Nets,101,88,Miami Arena,15008,/boxscores/199103100MIA.html
+Sun Mar 10 1991,Minnesota Timberwolves,Phoenix Suns,109,123,Target Center,19006,/boxscores/199103100MIN.html
+Sun Mar 10 1991,Orlando Magic,Los Angeles Lakers,101,115,Orlando Arena,15077,/boxscores/199103100ORL.html
+Sun Mar 10 1991,Portland Trail Blazers,Boston Celtics,109,111,Memorial Coliseum,12884,/boxscores/199103100POR.html
+Mon Mar 11 1991,Detroit Pistons,Milwaukee Bucks,85,96,The Palace of Auburn Hills,21454,/boxscores/199103110DET.html
+Mon Mar 11 1991,New York Knicks,New Jersey Nets,90,85,Madison Square Garden (IV),15389,/boxscores/199103110NYK.html
+Mon Mar 11 1991,Portland Trail Blazers,Cleveland Cavaliers,104,96,Memorial Coliseum,12884,/boxscores/199103110POR.html
+Mon Mar 11 1991,San Antonio Spurs,Utah Jazz,105,96,HemisFair Arena,15908,/boxscores/199103110SAS.html
+Tue Mar 12 1991,Atlanta Hawks,Philadelphia 76ers,129,133,Omni Coliseum,13372,/boxscores/199103120ATL.html
+Tue Mar 12 1991,Charlotte Hornets,Washington Bullets,100,103,Charlotte Coliseum,23901,/boxscores/199103120CHH.html
+Tue Mar 12 1991,Chicago Bulls,Minnesota Timberwolves,131,99,Chicago Stadium,18268,/boxscores/199103120CHI.html
+Tue Mar 12 1991,Denver Nuggets,Los Angeles Clippers,123,126,McNichols Sports Arena,7424,/boxscores/199103120DEN.html
+Tue Mar 12 1991,Golden State Warriors,Indiana Pacers,129,117,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103120GSW.html
+Tue Mar 12 1991,Houston Rockets,Seattle SuperSonics,93,91,The Summit,15508,/boxscores/199103120HOU.html
+Tue Mar 12 1991,Miami Heat,Los Angeles Lakers,95,102,Miami Arena,15008,/boxscores/199103120MIA.html
+Tue Mar 12 1991,Sacramento Kings,Boston Celtics,95,110,ARCO Arena (II),17014,/boxscores/199103120SAC.html
+Wed Mar 13 1991,Dallas Mavericks,Seattle SuperSonics,98,96,Reunion Arena,15813,/boxscores/199103130DAL.html
+Wed Mar 13 1991,Detroit Pistons,Charlotte Hornets,94,83,The Palace of Auburn Hills,21454,/boxscores/199103130DET.html
+Wed Mar 13 1991,Los Angeles Clippers,San Antonio Spurs,97,93,Los Angeles Memorial Sports Arena,11907,/boxscores/199103130LAC.html
+Wed Mar 13 1991,Milwaukee Bucks,Chicago Bulls,101,102,Bradley Center,18633,/boxscores/199103130MIL.html
+Wed Mar 13 1991,Philadelphia 76ers,New York Knicks,94,102,The Spectrum,15617,/boxscores/199103130PHI.html
+Wed Mar 13 1991,Phoenix Suns,Portland Trail Blazers,116,108,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103130PHO.html
+Wed Mar 13 1991,Utah Jazz,Boston Celtics,112,109,Salt Palace,12616,/boxscores/199103130UTA.html
+Thu Mar 14 1991,Cleveland Cavaliers,Milwaukee Bucks,103,101,Coliseum at Richfield,13649,/boxscores/199103140CLE.html
+Thu Mar 14 1991,Denver Nuggets,Minnesota Timberwolves,112,105,McNichols Sports Arena,7308,/boxscores/199103140DEN.html
+Thu Mar 14 1991,Golden State Warriors,San Antonio Spurs,99,101,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103140GSW.html
+Thu Mar 14 1991,Houston Rockets,Orlando Magic,119,95,The Summit,15015,/boxscores/199103140HOU.html
+Thu Mar 14 1991,New Jersey Nets,Detroit Pistons,118,110,Brendan Byrne Arena,14325,/boxscores/199103140NJN.html
+Thu Mar 14 1991,New York Knicks,Miami Heat,125,121,Madison Square Garden (IV),15514,/boxscores/199103140NYK.html
+Thu Mar 14 1991,Sacramento Kings,Indiana Pacers,103,107,ARCO Arena (II),17014,/boxscores/199103140SAC.html
+Fri Mar 15 1991,Charlotte Hornets,Chicago Bulls,92,105,Charlotte Coliseum,23901,/boxscores/199103150CHH.html
+Fri Mar 15 1991,Dallas Mavericks,Atlanta Hawks,117,127,Reunion Arena,12007,/boxscores/199103150DAL.html
+Fri Mar 15 1991,Los Angeles Clippers,Indiana Pacers,109,121,Los Angeles Memorial Sports Arena,11181,/boxscores/199103150LAC.html
+Fri Mar 15 1991,Los Angeles Lakers,Denver Nuggets,127,117,Great Western Forum,17506,/boxscores/199103150LAL.html
+Fri Mar 15 1991,Philadelphia 76ers,Miami Heat,105,103,The Spectrum,16349,/boxscores/199103150PHI.html
+Fri Mar 15 1991,Phoenix Suns,Houston Rockets,128,135,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103150PHO.html
+Fri Mar 15 1991,Seattle SuperSonics,Minnesota Timberwolves,96,100,Seattle Center Coliseum,11947,/boxscores/199103150SEA.html
+Fri Mar 15 1991,Utah Jazz,Portland Trail Blazers,96,106,Salt Palace,12616,/boxscores/199103150UTA.html
+Fri Mar 15 1991,Washington Bullets,Boston Celtics,86,94,Capital Centre,18756,/boxscores/199103150WSB.html
+Sat Mar 16 1991,Cleveland Cavaliers,Chicago Bulls,98,102,Coliseum at Richfield,20273,/boxscores/199103160CLE.html
+Sat Mar 16 1991,Dallas Mavericks,Golden State Warriors,105,117,Reunion Arena,17007,/boxscores/199103160DAL.html
+Sat Mar 16 1991,Detroit Pistons,Orlando Magic,106,99,The Palace of Auburn Hills,21454,/boxscores/199103160DET.html
+Sat Mar 16 1991,New Jersey Nets,Washington Bullets,110,86,Brendan Byrne Arena,13106,/boxscores/199103160NJN.html
+Sat Mar 16 1991,Phoenix Suns,Atlanta Hawks,128,116,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103160PHO.html
+Sat Mar 16 1991,Sacramento Kings,San Antonio Spurs,92,85,ARCO Arena (II),17014,/boxscores/199103160SAC.html
+Sat Mar 16 1991,Seattle SuperSonics,Utah Jazz,98,104,Seattle Center Coliseum,13535,/boxscores/199103160SEA.html
+Sun Mar 17 1991,Boston Celtics,Philadelphia 76ers,110,105,Boston Garden,14890,/boxscores/199103170BOS.html
+Sun Mar 17 1991,Denver Nuggets,Indiana Pacers,92,130,McNichols Sports Arena,10027,/boxscores/199103170DEN.html
+Sun Mar 17 1991,Houston Rockets,Golden State Warriors,123,119,The Summit,15345,/boxscores/199103170HOU.html
+Sun Mar 17 1991,Los Angeles Lakers,San Antonio Spurs,98,91,Great Western Forum,17505,/boxscores/199103170LAL.html
+Sun Mar 17 1991,Milwaukee Bucks,New York Knicks,102,101,Bradley Center,17212,/boxscores/199103170MIL.html
+Sun Mar 17 1991,Minnesota Timberwolves,Miami Heat,90,87,Target Center,19006,/boxscores/199103170MIN.html
+Sun Mar 17 1991,New Jersey Nets,Charlotte Hornets,108,121,Brendan Byrne Arena,9015,/boxscores/199103170NJN.html
+Sun Mar 17 1991,Portland Trail Blazers,Los Angeles Clippers,97,107,Memorial Coliseum,12884,/boxscores/199103170POR.html
+Mon Mar 18 1991,Chicago Bulls,Denver Nuggets,121,108,Chicago Stadium,18163,/boxscores/199103180CHI.html
+Mon Mar 18 1991,Dallas Mavericks,Sacramento Kings,104,86,Reunion Arena,15727,/boxscores/199103180DAL.html
+Mon Mar 18 1991,Philadelphia 76ers,Orlando Magic,99,91,The Spectrum,16804,/boxscores/199103180PHI.html
+Mon Mar 18 1991,Phoenix Suns,Indiana Pacers,111,103,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103180PHO.html
+Tue Mar 19 1991,Atlanta Hawks,Boston Celtics,104,92,Omni Coliseum,15793,/boxscores/199103190ATL.html
+Tue Mar 19 1991,Charlotte Hornets,New York Knicks,79,97,Charlotte Coliseum,23901,/boxscores/199103190CHH.html
+Tue Mar 19 1991,Golden State Warriors,Portland Trail Blazers,136,126,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103190GSW.html
+Tue Mar 19 1991,Los Angeles Lakers,Los Angeles Clippers,119,105,Great Western Forum,17303,/boxscores/199103190LAL.html
+Tue Mar 19 1991,Milwaukee Bucks,Miami Heat,101,88,Bradley Center,16274,/boxscores/199103190MIL.html
+Tue Mar 19 1991,Minnesota Timberwolves,Houston Rockets,85,98,Target Center,19006,/boxscores/199103190MIN.html
+Tue Mar 19 1991,San Antonio Spurs,Sacramento Kings,104,101,HemisFair Arena,15908,/boxscores/199103190SAS.html
+Wed Mar 20 1991,Boston Celtics,Washington Bullets,102,81,Boston Garden,14890,/boxscores/199103200BOS.html
+Wed Mar 20 1991,Chicago Bulls,Atlanta Hawks,129,107,Chicago Stadium,18439,/boxscores/199103200CHI.html
+Wed Mar 20 1991,Dallas Mavericks,Phoenix Suns,96,110,Reunion Arena,17007,/boxscores/199103200DAL.html
+Wed Mar 20 1991,Denver Nuggets,Utah Jazz,98,106,McNichols Sports Arena,10631,/boxscores/199103200DEN.html
+Wed Mar 20 1991,Indiana Pacers,Miami Heat,117,107,Market Square Arena,8532,/boxscores/199103200IND.html
+Wed Mar 20 1991,Los Angeles Clippers,Portland Trail Blazers,96,100,Los Angeles Memorial Sports Arena,12270,/boxscores/199103200LAC.html
+Wed Mar 20 1991,New Jersey Nets,Minnesota Timberwolves,118,111,Brendan Byrne Arena,8209,/boxscores/199103200NJN.html
+Wed Mar 20 1991,New York Knicks,Cleveland Cavaliers,102,97,Madison Square Garden (IV),15647,/boxscores/199103200NYK.html
+Wed Mar 20 1991,Philadelphia 76ers,Detroit Pistons,107,103,The Spectrum,16148,/boxscores/199103200PHI.html
+Wed Mar 20 1991,Seattle SuperSonics,Los Angeles Lakers,114,106,Seattle Center Coliseum,14392,/boxscores/199103200SEA.html
+Thu Mar 21 1991,Golden State Warriors,Denver Nuggets,136,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103210GSW.html
+Thu Mar 21 1991,Houston Rockets,Sacramento Kings,98,87,The Summit,16337,/boxscores/199103210HOU.html
+Thu Mar 21 1991,Orlando Magic,San Antonio Spurs,105,102,Orlando Arena,15077,/boxscores/199103210ORL.html
+Thu Mar 21 1991,Utah Jazz,Charlotte Hornets,100,94,Salt Palace,12616,/boxscores/199103210UTA.html
+Fri Mar 22 1991,Dallas Mavericks,New York Knicks,104,102,Reunion Arena,17007,/boxscores/199103220DAL.html
+Fri Mar 22 1991,Detroit Pistons,New Jersey Nets,109,93,The Palace of Auburn Hills,21454,/boxscores/199103220DET.html
+Fri Mar 22 1991,Indiana Pacers,Boston Celtics,121,109,Market Square Arena,16530,/boxscores/199103220IND.html
+Fri Mar 22 1991,Los Angeles Clippers,Charlotte Hornets,106,100,Los Angeles Memorial Sports Arena,13752,/boxscores/199103220LAC.html
+Fri Mar 22 1991,Los Angeles Lakers,Milwaukee Bucks,92,99,Great Western Forum,17505,/boxscores/199103220LAL.html
+Fri Mar 22 1991,Miami Heat,San Antonio Spurs,90,97,Miami Arena,15008,/boxscores/199103220MIA.html
+Fri Mar 22 1991,Minnesota Timberwolves,Cleveland Cavaliers,110,105,Target Center,19006,/boxscores/199103220MIN.html
+Fri Mar 22 1991,Philadelphia 76ers,Chicago Bulls,95,90,The Spectrum,18168,/boxscores/199103220PHI.html
+Fri Mar 22 1991,Phoenix Suns,Seattle SuperSonics,105,111,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103220PHO.html
+Fri Mar 22 1991,Washington Bullets,Atlanta Hawks,121,116,Baltimore Arena,10409,/boxscores/199103220WSB.html
+Sat Mar 23 1991,Atlanta Hawks,Miami Heat,108,93,Omni Coliseum,14159,/boxscores/199103230ATL.html
+Sat Mar 23 1991,Chicago Bulls,Indiana Pacers,133,119,Chicago Stadium,18676,/boxscores/199103230CHI.html
+Sat Mar 23 1991,Cleveland Cavaliers,New Jersey Nets,108,82,Coliseum at Richfield,16752,/boxscores/199103230CLE.html
+Sat Mar 23 1991,Denver Nuggets,Milwaukee Bucks,136,140,McNichols Sports Arena,10750,/boxscores/199103230DEN.html
+Sat Mar 23 1991,Golden State Warriors,Los Angeles Clippers,104,107,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199103230GSW.html
+Sat Mar 23 1991,Houston Rockets,New York Knicks,111,98,The Summit,16611,/boxscores/199103230HOU.html
+Sat Mar 23 1991,Orlando Magic,Dallas Mavericks,105,93,Orlando Arena,15077,/boxscores/199103230ORL.html
+Sat Mar 23 1991,Sacramento Kings,Phoenix Suns,95,100,ARCO Arena (II),17014,/boxscores/199103230SAC.html
+Sat Mar 23 1991,Utah Jazz,Minnesota Timberwolves,95,89,Salt Palace,12616,/boxscores/199103230UTA.html
+Sat Mar 23 1991,Washington Bullets,Philadelphia 76ers,102,99,Capital Centre,18750,/boxscores/199103230WSB.html
+Sun Mar 24 1991,Los Angeles Lakers,Seattle SuperSonics,113,96,Great Western Forum,17506,/boxscores/199103240LAL.html
+Sun Mar 24 1991,Portland Trail Blazers,Charlotte Hornets,117,102,Memorial Coliseum,12884,/boxscores/199103240POR.html
+Sun Mar 24 1991,San Antonio Spurs,Detroit Pistons,85,78,HemisFair Arena,15908,/boxscores/199103240SAS.html
+Mon Mar 25 1991,Chicago Bulls,Houston Rockets,90,100,Chicago Stadium,18676,/boxscores/199103250CHI.html
+Mon Mar 25 1991,Denver Nuggets,Detroit Pistons,94,118,McNichols Sports Arena,13553,/boxscores/199103250DEN.html
+Mon Mar 25 1991,Los Angeles Clippers,Phoenix Suns,106,94,Los Angeles Memorial Sports Arena,12000,/boxscores/199103250LAC.html
+Mon Mar 25 1991,Orlando Magic,Golden State Warriors,115,106,Orlando Arena,15077,/boxscores/199103250ORL.html
+Mon Mar 25 1991,Sacramento Kings,Los Angeles Lakers,89,99,ARCO Arena (II),17014,/boxscores/199103250SAC.html
+Mon Mar 25 1991,Utah Jazz,Milwaukee Bucks,109,98,Salt Palace,12616,/boxscores/199103250UTA.html
+Mon Mar 25 1991,Washington Bullets,New Jersey Nets,113,106,Capital Centre,5979,/boxscores/199103250WSB.html
+Tue Mar 26 1991,Charlotte Hornets,Golden State Warriors,97,94,Charlotte Coliseum,23901,/boxscores/199103260CHH.html
+Tue Mar 26 1991,Indiana Pacers,Atlanta Hawks,123,113,Market Square Arena,10278,/boxscores/199103260IND.html
+Tue Mar 26 1991,Miami Heat,Cleveland Cavaliers,104,98,Miami Arena,15008,/boxscores/199103260MIA.html
+Tue Mar 26 1991,New Jersey Nets,Philadelphia 76ers,98,95,Brendan Byrne Arena,12138,/boxscores/199103260NJN.html
+Tue Mar 26 1991,Phoenix Suns,Minnesota Timberwolves,117,95,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103260PHO.html
+Tue Mar 26 1991,Portland Trail Blazers,Seattle SuperSonics,126,113,Memorial Coliseum,12884,/boxscores/199103260POR.html
+Tue Mar 26 1991,San Antonio Spurs,New York Knicks,129,119,HemisFair Arena,15908,/boxscores/199103260SAS.html
+Wed Mar 27 1991,Dallas Mavericks,Orlando Magic,85,97,Reunion Arena,16473,/boxscores/199103270DAL.html
+Wed Mar 27 1991,Detroit Pistons,Indiana Pacers,102,93,The Palace of Auburn Hills,21454,/boxscores/199103270DET.html
+Wed Mar 27 1991,Los Angeles Clippers,Utah Jazz,95,89,Los Angeles Memorial Sports Arena,13324,/boxscores/199103270LAC.html
+Wed Mar 27 1991,Seattle SuperSonics,Portland Trail Blazers,107,112,Tacoma Dome,18167,/boxscores/199103270SEA.html
+Thu Mar 28 1991,Atlanta Hawks,Houston Rockets,111,112,Omni Coliseum,13208,/boxscores/199103280ATL.html
+Thu Mar 28 1991,Charlotte Hornets,Philadelphia 76ers,94,90,Charlotte Coliseum,23901,/boxscores/199103280CHH.html
+Thu Mar 28 1991,Cleveland Cavaliers,Washington Bullets,102,95,Coliseum at Richfield,13882,/boxscores/199103280CLE.html
+Thu Mar 28 1991,Miami Heat,Boston Celtics,90,88,Miami Arena,15008,/boxscores/199103280MIA.html
+Thu Mar 28 1991,New Jersey Nets,Chicago Bulls,94,128,Brendan Byrne Arena,20049,/boxscores/199103280NJN.html
+Thu Mar 28 1991,New York Knicks,Golden State Warriors,104,106,Madison Square Garden (IV),14180,/boxscores/199103280NYK.html
+Thu Mar 28 1991,Phoenix Suns,Milwaukee Bucks,102,88,Arizona Veterans Memorial Coliseum,14487,/boxscores/199103280PHO.html
+Thu Mar 28 1991,Sacramento Kings,Utah Jazz,116,96,ARCO Arena (II),17014,/boxscores/199103280SAC.html
+Thu Mar 28 1991,San Antonio Spurs,Orlando Magic,119,95,HemisFair Arena,15908,/boxscores/199103280SAS.html
+Fri Mar 29 1991,Boston Celtics,Cleveland Cavaliers,110,108,Boston Garden,14890,/boxscores/199103290BOS.html
+Fri Mar 29 1991,Denver Nuggets,Sacramento Kings,140,122,McNichols Sports Arena,9554,/boxscores/199103290DEN.html
+Fri Mar 29 1991,Detroit Pistons,Golden State Warriors,111,105,The Palace of Auburn Hills,21454,/boxscores/199103290DET.html
+Fri Mar 29 1991,Los Angeles Clippers,Dallas Mavericks,105,96,Los Angeles Memorial Sports Arena,12320,/boxscores/199103290LAC.html
+Fri Mar 29 1991,Los Angeles Lakers,Portland Trail Blazers,105,109,Great Western Forum,17505,/boxscores/199103290LAL.html
+Fri Mar 29 1991,Philadelphia 76ers,Charlotte Hornets,124,107,The Spectrum,17112,/boxscores/199103290PHI.html
+Fri Mar 29 1991,Seattle SuperSonics,Minnesota Timberwolves,117,107,Seattle Center Coliseum,12969,/boxscores/199103290SEA.html
+Fri Mar 29 1991,Washington Bullets,Chicago Bulls,94,112,Capital Centre,18756,/boxscores/199103290WSB.html
+Sat Mar 30 1991,Milwaukee Bucks,Atlanta Hawks,104,96,Bradley Center,17683,/boxscores/199103300MIL.html
+Sat Mar 30 1991,New Jersey Nets,New York Knicks,117,130,Brendan Byrne Arena,15090,/boxscores/199103300NJN.html
+Sat Mar 30 1991,Orlando Magic,Houston Rockets,114,82,Orlando Arena,15077,/boxscores/199103300ORL.html
+Sat Mar 30 1991,Portland Trail Blazers,Minnesota Timberwolves,121,91,Memorial Coliseum,12884,/boxscores/199103300POR.html
+Sat Mar 30 1991,San Antonio Spurs,Denver Nuggets,130,116,HemisFair Arena,15908,/boxscores/199103300SAS.html
+Sat Mar 30 1991,Seattle SuperSonics,Dallas Mavericks,115,102,Seattle Center Coliseum,11756,/boxscores/199103300SEA.html
+Sun Mar 31 1991,Boston Celtics,Chicago Bulls,135,132,Boston Garden,14890,/boxscores/199103310BOS.html
+Sun Mar 31 1991,Indiana Pacers,Golden State Warriors,127,120,Market Square Arena,12127,/boxscores/199103310IND.html
+Sun Mar 31 1991,Los Angeles Lakers,Sacramento Kings,115,87,Great Western Forum,16522,/boxscores/199103310LAL.html
+Sun Mar 31 1991,Miami Heat,Houston Rockets,103,123,Miami Arena,15000,/boxscores/199103310MIA.html
+Sun Mar 31 1991,Philadelphia 76ers,Cleveland Cavaliers,110,101,The Spectrum,13935,/boxscores/199103310PHI.html
+Sun Mar 31 1991,Washington Bullets,Charlotte Hornets,92,102,Capital Centre,6711,/boxscores/199103310WSB.html

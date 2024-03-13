@@ -1,0 +1,91 @@
+Fri Mar 1 1968,Detroit Pistons,St. Louis Hawks,131,121,Cobo Arena,0,/boxscores/196803010DET.html
+Fri Mar 1 1968,Boston Celtics,Chicago Bulls,94,87,Boston Garden,0,/boxscores/196803010BOS.html
+Fri Mar 1 1968,San Francisco Warriors,Cincinnati Royals,101,122,Cow Palace,0,/boxscores/196803010SFW.html
+Fri Mar 1 1968,San Diego Rockets,Baltimore Bullets,114,156,San Diego Sports Arena,0,/boxscores/196803010SDR.html
+Sat Mar 2 1968,Los Angeles Lakers,Seattle SuperSonics,127,121,The Forum,0,/boxscores/196803020LAL.html
+Sat Mar 2 1968,New York Knicks,Detroit Pistons,133,107,Madison Square Garden (IV),0,/boxscores/196803020NYK.html
+Sat Mar 2 1968,San Francisco Warriors,Baltimore Bullets,117,109,Cow Palace,0,/boxscores/196803020SFW.html
+Sun Mar 3 1968,Boston Celtics,Philadelphia 76ers,127,133,Boston Garden,0,/boxscores/196803030BOS.html
+Sun Mar 3 1968,Detroit Pistons,Chicago Bulls,134,123,Cobo Arena,0,/boxscores/196803030DET.html
+Sun Mar 3 1968,Los Angeles Lakers,Baltimore Bullets,121,114,The Forum,0,/boxscores/196803030LAL.html
+Sun Mar 3 1968,Seattle SuperSonics,Cincinnati Royals,128,138,Seattle Center Coliseum,0,/boxscores/196803030SEA.html
+Sun Mar 3 1968,St. Louis Hawks,San Diego Rockets,106,104,Kiel Auditorium,0,/boxscores/196803030STL.html
+Tue Mar 5 1968,New York Knicks,Boston Celtics,91,113,Madison Square Garden (IV),0,/boxscores/196803050NYK.html
+Tue Mar 5 1968,San Francisco Warriors,St. Louis Hawks,117,134,Oakland-Alameda County Coliseum Arena,0,/boxscores/196803050SFW.html
+Tue Mar 5 1968,Seattle SuperSonics,Baltimore Bullets,121,126,Seattle Center Coliseum,0,/boxscores/196803050SEA.html
+Tue Mar 5 1968,Philadelphia 76ers,San Diego Rockets,134,103,Convention Hall,0,/boxscores/196803050PHI.html
+Tue Mar 5 1968,Chicago Bulls,Detroit Pistons,119,121,Chicago Stadium,0,/boxscores/196803050CHI.html
+Wed Mar 6 1968,Boston Celtics,New York Knicks,103,91,Boston Garden,0,/boxscores/196803060BOS.html
+Wed Mar 6 1968,Cincinnati Royals,Philadelphia 76ers,108,106,Cincinnati Gardens,0,/boxscores/196803060CIN.html
+Wed Mar 6 1968,Detroit Pistons,San Diego Rockets,140,118,Cobo Arena,0,/boxscores/196803060DET.html
+Wed Mar 6 1968,Los Angeles Lakers,St. Louis Hawks,96,112,The Forum,0,/boxscores/196803060LAL.html
+Thu Mar 7 1968,Seattle SuperSonics,St. Louis Hawks,133,150,Memorial Coliseum,0,/boxscores/196803070SEA.html
+Thu Mar 7 1968,San Diego Rockets,Los Angeles Lakers,102,119,San Diego Sports Arena,0,/boxscores/196803070SDR.html
+Thu Mar 7 1968,Chicago Bulls,Boston Celtics,118,112,Chicago Stadium,0,/boxscores/196803070CHI.html
+Thu Mar 7 1968,Cincinnati Royals,Philadelphia 76ers,117,125,Cleveland Arena,0,/boxscores/196803070CIN.html
+Fri Mar 8 1968,Baltimore Bullets,Seattle SuperSonics,122,116,St. Martin's College Capitol Pavilion,0,/boxscores/196803080BAL.html
+Fri Mar 8 1968,Cincinnati Royals,Detroit Pistons,118,129,Cincinnati Gardens,0,/boxscores/196803080CIN.html
+Fri Mar 8 1968,Los Angeles Lakers,San Diego Rockets,130,122,The Forum,0,/boxscores/196803080LAL.html
+Fri Mar 8 1968,Philadelphia 76ers,Boston Celtics,101,96,Convention Hall,0,/boxscores/196803080PHI.html
+Sat Mar 9 1968,Chicago Bulls,St. Louis Hawks,109,115,Chicago Stadium,0,/boxscores/196803090CHI.html
+Sat Mar 9 1968,San Diego Rockets,Seattle SuperSonics,111,115,San Diego Sports Arena,0,/boxscores/196803090SDR.html
+Sat Mar 9 1968,San Francisco Warriors,Los Angeles Lakers,132,137,Cow Palace,0,/boxscores/196803090SFW.html
+Sun Mar 10 1968,New York Knicks,Philadelphia 76ers,108,119,Madison Square Garden (IV),0,/boxscores/196803100NYK.html
+Sun Mar 10 1968,St. Louis Hawks,Detroit Pistons,121,133,Kiel Auditorium,0,/boxscores/196803100STL.html
+Sun Mar 10 1968,Seattle SuperSonics,San Francisco Warriors,112,118,Seattle Center Coliseum,0,/boxscores/196803100SEA.html
+Sun Mar 10 1968,Los Angeles Lakers,Baltimore Bullets,89,119,The Forum,0,/boxscores/196803100LAL.html
+Sun Mar 10 1968,Boston Celtics,Cincinnati Royals,111,137,Boston Garden,0,/boxscores/196803100BOS.html
+Mon Mar 11 1968,Chicago Bulls,Cincinnati Royals,104,98,Chicago Stadium,0,/boxscores/196803110CHI.html
+Mon Mar 11 1968,Seattle SuperSonics,Boston Celtics,112,119,Seattle Center Coliseum,0,/boxscores/196803110SEA.html
+Tue Mar 12 1968,Chicago Bulls,Philadelphia 76ers,115,139,Chicago Stadium,0,/boxscores/196803120CHI.html
+Tue Mar 12 1968,Detroit Pistons,Seattle SuperSonics,139,123,Cobo Arena,0,/boxscores/196803120DET.html
+Tue Mar 12 1968,New York Knicks,Baltimore Bullets,107,104,Madison Square Garden (IV),0,/boxscores/196803120NYK.html
+Tue Mar 12 1968,San Francisco Warriors,Boston Celtics,121,124,Oakland-Alameda County Coliseum Arena,0,/boxscores/196803120SFW.html
+Wed Mar 13 1968,San Diego Rockets,Boston Celtics,118,144,San Diego Sports Arena,0,/boxscores/196803130SDR.html
+Wed Mar 13 1968,Philadelphia 76ers,New York Knicks,120,130,The Palestra,0,/boxscores/196803130PHI.html
+Wed Mar 13 1968,Los Angeles Lakers,San Francisco Warriors,142,106,The Forum,0,/boxscores/196803130LAL.html
+Wed Mar 13 1968,Baltimore Bullets,Chicago Bulls,96,100,Baltimore Civic Center,0,/boxscores/196803130BAL.html
+Wed Mar 13 1968,Cincinnati Royals,Seattle SuperSonics,142,123,Cincinnati Gardens,0,/boxscores/196803130CIN.html
+Thu Mar 14 1968,Cincinnati Royals,St. Louis Hawks,102,96,Cleveland Arena,0,/boxscores/196803140CIN.html
+Fri Mar 15 1968,Chicago Bulls,Seattle SuperSonics,101,113,Chicago Stadium,0,/boxscores/196803150CHI.html
+Fri Mar 15 1968,Los Angeles Lakers,New York Knicks,123,112,The Forum,0,/boxscores/196803150LAL.html
+Fri Mar 15 1968,Philadelphia 76ers,Baltimore Bullets,122,115,Convention Hall,0,/boxscores/196803150PHI.html
+Fri Mar 15 1968,San Francisco Warriors,Detroit Pistons,118,122,Oakland-Alameda County Coliseum Arena,0,/boxscores/196803150SFW.html
+Sat Mar 16 1968,Baltimore Bullets,Boston Celtics,111,136,Baltimore Civic Center,0,/boxscores/196803160BAL.html
+Sat Mar 16 1968,Chicago Bulls,Philadelphia 76ers,122,144,Chicago Stadium,0,/boxscores/196803160CHI.html
+Sat Mar 16 1968,Los Angeles Lakers,Detroit Pistons,135,108,The Forum,0,/boxscores/196803160LAL.html
+Sat Mar 16 1968,St. Louis Hawks,Seattle SuperSonics,124,106,Kiel Auditorium,0,/boxscores/196803160STL.html
+Sun Mar 17 1968,Los Angeles Lakers,Detroit Pistons,120,116,The Forum,0,/boxscores/196803170LAL.html
+Sun Mar 17 1968,San Francisco Warriors,New York Knicks,104,130,Cow Palace,0,/boxscores/196803170SFW.html
+Sun Mar 17 1968,San Diego Rockets,Chicago Bulls,121,129,San Diego Sports Arena,0,/boxscores/196803170SDR.html
+Sun Mar 17 1968,Boston Celtics,Baltimore Bullets,139,147,Boston Garden,0,/boxscores/196803170BOS.html
+Mon Mar 18 1968,Philadelphia 76ers,Los Angeles Lakers,158,128,Convention Hall,0,/boxscores/196803180PHI.html
+Mon Mar 18 1968,Seattle SuperSonics,Detroit Pistons,82,88,Seattle Center Coliseum,0,/boxscores/196803180SEA.html
+Mon Mar 18 1968,San Francisco Warriors,New York Knicks,118,123,Cow Palace,0,/boxscores/196803180SFW.html
+Tue Mar 19 1968,Los Angeles Lakers,San Diego Rockets,121,109,The Forum,0,/boxscores/196803190LAL.html
+Tue Mar 19 1968,Philadelphia 76ers,Cincinnati Royals,130,131,Convention Hall,0,/boxscores/196803190PHI.html
+Tue Mar 19 1968,Seattle SuperSonics,Chicago Bulls,122,104,Seattle Center Coliseum,0,/boxscores/196803190SEA.html
+Wed Mar 20 1968,San Diego Rockets,Chicago Bulls,112,121,San Diego Sports Arena,0,/boxscores/196803200SDR.html
+Wed Mar 20 1968,Boston Celtics,Detroit Pistons,116,125,Boston Garden,0,/boxscores/196803200BOS.html
+Wed Mar 20 1968,Baltimore Bullets,Philadelphia 76ers,119,137,Baltimore Civic Center,0,/boxscores/196803200BAL.html
+Wed Mar 20 1968,New York Knicks,Cincinnati Royals,108,106,Madison Square Garden (IV),0,/boxscores/196803200NYK.html
+Fri Mar 22 1968,Philadelphia 76ers,New York Knicks,118,110,Convention Hall,0,/boxscores/196803220PHI.html
+Fri Mar 22 1968,St. Louis Hawks,San Francisco Warriors,106,111,Kiel Auditorium,0,/boxscores/196803220STL.html
+Sat Mar 23 1968,New York Knicks,Philadelphia 76ers,128,117,Madison Square Garden (IV),0,/boxscores/196803230NYK.html
+Sat Mar 23 1968,St. Louis Hawks,San Francisco Warriors,111,103,Kiel Auditorium,0,/boxscores/196803230STL.html
+Sun Mar 24 1968,Boston Celtics,Detroit Pistons,123,116,Boston Garden,0,/boxscores/196803240BOS.html
+Sun Mar 24 1968,Los Angeles Lakers,Chicago Bulls,109,101,The Forum,0,/boxscores/196803240LAL.html
+Mon Mar 25 1968,Detroit Pistons,Boston Celtics,126,116,Cobo Arena,0,/boxscores/196803250DET.html
+Mon Mar 25 1968,Los Angeles Lakers,Chicago Bulls,111,106,The Forum,0,/boxscores/196803250LAL.html
+Tue Mar 26 1968,San Francisco Warriors,St. Louis Hawks,124,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/196803260SFW.html
+Wed Mar 27 1968,Boston Celtics,Detroit Pistons,98,109,Boston Garden,0,/boxscores/196803270BOS.html
+Wed Mar 27 1968,Philadelphia 76ers,New York Knicks,138,132,The Palestra,0,/boxscores/196803270PHI.html
+Wed Mar 27 1968,Chicago Bulls,Los Angeles Lakers,104,98,Chicago Stadium,0,/boxscores/196803270CHI.html
+Thu Mar 28 1968,Detroit Pistons,Boston Celtics,110,135,Cobo Arena,0,/boxscores/196803280DET.html
+Fri Mar 29 1968,Chicago Bulls,Los Angeles Lakers,87,93,Chicago Stadium,0,/boxscores/196803290CHI.html
+Fri Mar 29 1968,San Francisco Warriors,St. Louis Hawks,108,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/196803290SFW.html
+Sat Mar 30 1968,New York Knicks,Philadelphia 76ers,107,98,Madison Square Garden (IV),0,/boxscores/196803300NYK.html
+Sun Mar 31 1968,Boston Celtics,Detroit Pistons,110,96,Boston Garden,0,/boxscores/196803310BOS.html
+Sun Mar 31 1968,Los Angeles Lakers,Chicago Bulls,122,99,The Forum,0,/boxscores/196803310LAL.html
+Sun Mar 31 1968,Philadelphia 76ers,New York Knicks,123,105,Convention Hall,0,/boxscores/196803310PHI.html
+Sun Mar 31 1968,St. Louis Hawks,San Francisco Warriors,129,103,Washington University Fieldhouse,0,/boxscores/196803310STL.html

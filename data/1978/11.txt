@@ -1,0 +1,156 @@
+Tue Nov 1 1977,Atlanta Hawks,Seattle SuperSonics,102,99,Omni Coliseum,0,/boxscores/197711010ATL.html
+Tue Nov 1 1977,Cleveland Cavaliers,Denver Nuggets,110,93,Coliseum at Richfield,0,/boxscores/197711010CLE.html
+Tue Nov 1 1977,Milwaukee Bucks,Kansas City Kings,115,95,MECCA Arena,0,/boxscores/197711010MIL.html
+Tue Nov 1 1977,New Orleans Jazz,Chicago Bulls,99,88,Louisiana Superdome,0,/boxscores/197711010NOJ.html
+Tue Nov 1 1977,Portland Trail Blazers,New York Knicks,113,104,Memorial Coliseum,0,/boxscores/197711010POR.html
+Tue Nov 1 1977,San Antonio Spurs,Golden State Warriors,97,108,HemisFair Arena,0,/boxscores/197711010SAS.html
+Wed Nov 2 1977,Boston Celtics,Cleveland Cavaliers,101,104,Boston Garden,0,/boxscores/197711020BOS.html
+Wed Nov 2 1977,Buffalo Braves,Denver Nuggets,104,100,Buffalo Memorial Auditorium,0,/boxscores/197711020BUF.html
+Wed Nov 2 1977,Detroit Pistons,Atlanta Hawks,89,102,Cobo Arena,0,/boxscores/197711020DET.html
+Wed Nov 2 1977,Indiana Pacers,Seattle SuperSonics,104,106,Market Square Arena,0,/boxscores/197711020IND.html
+Wed Nov 2 1977,Kansas City Kings,New Orleans Jazz,104,102,Kemper Arena,0,/boxscores/197711020KCK.html
+Wed Nov 2 1977,New Jersey Nets,Los Angeles Lakers,102,107,Rutgers Athletic Center,0,/boxscores/197711020NJN.html
+Wed Nov 2 1977,Philadelphia 76ers,Chicago Bulls,102,103,The Spectrum,0,/boxscores/197711020PHI.html
+Thu Nov 3 1977,Cleveland Cavaliers,Milwaukee Bucks,100,91,Coliseum at Richfield,0,/boxscores/197711030CLE.html
+Thu Nov 3 1977,Houston Rockets,Golden State Warriors,113,111,The Summit,0,/boxscores/197711030HOU.html
+Thu Nov 3 1977,San Antonio Spurs,Phoenix Suns,89,110,HemisFair Arena,0,/boxscores/197711030SAS.html
+Fri Nov 4 1977,Boston Celtics,Denver Nuggets,107,109,Boston Garden,0,/boxscores/197711040BOS.html
+Fri Nov 4 1977,Chicago Bulls,Buffalo Braves,92,100,Chicago Stadium,0,/boxscores/197711040CHI.html
+Fri Nov 4 1977,Kansas City Kings,Atlanta Hawks,110,111,Kemper Arena,0,/boxscores/197711040KCK.html
+Fri Nov 4 1977,Los Angeles Lakers,Indiana Pacers,111,99,The Forum,0,/boxscores/197711040LAL.html
+Fri Nov 4 1977,Milwaukee Bucks,Houston Rockets,110,108,MECCA Arena,0,/boxscores/197711040MIL.html
+Fri Nov 4 1977,New Jersey Nets,Philadelphia 76ers,104,107,Rutgers Athletic Center,0,/boxscores/197711040NJN.html
+Fri Nov 4 1977,New Orleans Jazz,Golden State Warriors,105,102,Louisiana Superdome,0,/boxscores/197711040NOJ.html
+Fri Nov 4 1977,Seattle SuperSonics,New York Knicks,92,95,Seattle Center Coliseum,0,/boxscores/197711040SEA.html
+Fri Nov 4 1977,Washington Bullets,Phoenix Suns,113,96,Capital Centre,0,/boxscores/197711040WSB.html
+Sat Nov 5 1977,Atlanta Hawks,Golden State Warriors,100,94,Omni Coliseum,0,/boxscores/197711050ATL.html
+Sat Nov 5 1977,Buffalo Braves,San Antonio Spurs,101,111,Buffalo Memorial Auditorium,0,/boxscores/197711050BUF.html
+Sat Nov 5 1977,Chicago Bulls,Phoenix Suns,111,94,Chicago Stadium,0,/boxscores/197711050CHI.html
+Sat Nov 5 1977,Cleveland Cavaliers,New Jersey Nets,105,93,Coliseum at Richfield,0,/boxscores/197711050CLE.html
+Sat Nov 5 1977,Houston Rockets,Washington Bullets,116,105,The Summit,0,/boxscores/197711050HOU.html
+Sat Nov 5 1977,Philadelphia 76ers,Denver Nuggets,132,101,The Spectrum,0,/boxscores/197711050PHI.html
+Sat Nov 5 1977,Portland Trail Blazers,Seattle SuperSonics,116,94,Memorial Coliseum,0,/boxscores/197711050POR.html
+Sun Nov 6 1977,Los Angeles Lakers,New York Knicks,102,106,The Forum,0,/boxscores/197711060LAL.html
+Sun Nov 6 1977,New Orleans Jazz,Washington Bullets,97,108,Louisiana Superdome,0,/boxscores/197711060NOJ.html
+Sun Nov 6 1977,Portland Trail Blazers,Indiana Pacers,108,106,Memorial Coliseum,0,/boxscores/197711060POR.html
+Sun Nov 6 1977,Seattle SuperSonics,Kansas City Kings,83,99,Seattle Center Coliseum,0,/boxscores/197711060SEA.html
+Tue Nov 8 1977,Chicago Bulls,Houston Rockets,117,104,Chicago Stadium,0,/boxscores/197711080CHI.html
+Tue Nov 8 1977,Milwaukee Bucks,Denver Nuggets,101,111,MECCA Arena,0,/boxscores/197711080MIL.html
+Tue Nov 8 1977,New York Knicks,San Antonio Spurs,123,117,Madison Square Garden (IV),0,/boxscores/197711080NYK.html
+Tue Nov 8 1977,Portland Trail Blazers,Kansas City Kings,130,104,Memorial Coliseum,0,/boxscores/197711080POR.html
+Wed Nov 9 1977,Boston Celtics,San Antonio Spurs,114,129,Boston Garden,0,/boxscores/197711090BOS.html
+Wed Nov 9 1977,Buffalo Braves,New York Knicks,124,113,Buffalo Memorial Auditorium,0,/boxscores/197711090BUF.html
+Wed Nov 9 1977,Denver Nuggets,New Orleans Jazz,115,112,McNichols Sports Arena,0,/boxscores/197711090DEN.html
+Wed Nov 9 1977,Detroit Pistons,Houston Rockets,127,107,Cobo Arena,0,/boxscores/197711090DET.html
+Wed Nov 9 1977,Golden State Warriors,Indiana Pacers,132,129,Oakland-Alameda County Coliseum Arena,0,/boxscores/197711090GSW.html
+Wed Nov 9 1977,Philadelphia 76ers,New Jersey Nets,130,107,The Spectrum,0,/boxscores/197711090PHI.html
+Thu Nov 10 1977,Houston Rockets,Atlanta Hawks,101,132,The Summit,0,/boxscores/197711100HOU.html
+Thu Nov 10 1977,Phoenix Suns,New Orleans Jazz,127,111,Arizona Veterans Memorial Coliseum,0,/boxscores/197711100PHO.html
+Thu Nov 10 1977,Washington Bullets,Milwaukee Bucks,103,106,Capital Centre,0,/boxscores/197711100WSB.html
+Fri Nov 11 1977,Atlanta Hawks,Portland Trail Blazers,92,132,Omni Coliseum,0,/boxscores/197711110ATL.html
+Fri Nov 11 1977,Boston Celtics,Buffalo Braves,109,103,Boston Garden,0,/boxscores/197711110BOS.html
+Fri Nov 11 1977,Detroit Pistons,San Antonio Spurs,104,107,Cobo Arena,0,/boxscores/197711110DET.html
+Fri Nov 11 1977,Golden State Warriors,Kansas City Kings,105,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197711110GSW.html
+Fri Nov 11 1977,Los Angeles Lakers,New Orleans Jazz,123,107,The Forum,0,/boxscores/197711110LAL.html
+Fri Nov 11 1977,Milwaukee Bucks,Cleveland Cavaliers,82,88,MECCA Arena,0,/boxscores/197711110MIL.html
+Fri Nov 11 1977,New Jersey Nets,Chicago Bulls,91,89,Rutgers Athletic Center,0,/boxscores/197711110NJN.html
+Fri Nov 11 1977,Philadelphia 76ers,New York Knicks,127,119,The Spectrum,0,/boxscores/197711110PHI.html
+Fri Nov 11 1977,Seattle SuperSonics,Indiana Pacers,117,111,Seattle Center Coliseum,0,/boxscores/197711110SEA.html
+Sat Nov 12 1977,Buffalo Braves,Chicago Bulls,106,103,Buffalo Memorial Auditorium,0,/boxscores/197711120BUF.html
+Sat Nov 12 1977,Denver Nuggets,Kansas City Kings,119,114,McNichols Sports Arena,0,/boxscores/197711120DEN.html
+Sat Nov 12 1977,Houston Rockets,Portland Trail Blazers,104,102,The Summit,0,/boxscores/197711120HOU.html
+Sat Nov 12 1977,New York Knicks,New Jersey Nets,101,90,Madison Square Garden (IV),0,/boxscores/197711120NYK.html
+Sat Nov 12 1977,San Antonio Spurs,Atlanta Hawks,116,99,HemisFair Arena,0,/boxscores/197711120SAS.html
+Sat Nov 12 1977,Washington Bullets,Philadelphia 76ers,116,98,Capital Centre,0,/boxscores/197711120WSB.html
+Sun Nov 13 1977,Detroit Pistons,Washington Bullets,104,102,Cobo Arena,0,/boxscores/197711130DET.html
+Sun Nov 13 1977,Los Angeles Lakers,Golden State Warriors,97,95,The Forum,0,/boxscores/197711130LAL.html
+Sun Nov 13 1977,Milwaukee Bucks,Boston Celtics,119,127,MECCA Arena,0,/boxscores/197711130MIL.html
+Sun Nov 13 1977,Phoenix Suns,Indiana Pacers,116,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197711130PHO.html
+Sun Nov 13 1977,Seattle SuperSonics,New Orleans Jazz,117,83,Seattle Center Coliseum,0,/boxscores/197711130SEA.html
+Tue Nov 15 1977,Atlanta Hawks,Philadelphia 76ers,93,114,Omni Coliseum,0,/boxscores/197711150ATL.html
+Tue Nov 15 1977,Buffalo Braves,Indiana Pacers,94,100,Buffalo Memorial Auditorium,0,/boxscores/197711150BUF.html
+Tue Nov 15 1977,Denver Nuggets,Detroit Pistons,123,113,McNichols Sports Arena,0,/boxscores/197711150DEN.html
+Tue Nov 15 1977,Los Angeles Lakers,Cleveland Cavaliers,95,102,The Forum,0,/boxscores/197711150LAL.html
+Tue Nov 15 1977,Milwaukee Bucks,Portland Trail Blazers,106,109,MECCA Arena,0,/boxscores/197711150MIL.html
+Tue Nov 15 1977,New York Knicks,New Orleans Jazz,108,105,Madison Square Garden (IV),0,/boxscores/197711150NYK.html
+Tue Nov 15 1977,San Antonio Spurs,Kansas City Kings,113,107,HemisFair Arena,0,/boxscores/197711150SAS.html
+Tue Nov 15 1977,Washington Bullets,Seattle SuperSonics,111,109,Capital Centre,0,/boxscores/197711150WSB.html
+Wed Nov 16 1977,Boston Celtics,Atlanta Hawks,131,105,Boston Garden,0,/boxscores/197711160BOS.html
+Wed Nov 16 1977,Houston Rockets,Buffalo Braves,97,101,The Summit,0,/boxscores/197711160HOU.html
+Wed Nov 16 1977,Indiana Pacers,Portland Trail Blazers,111,104,Market Square Arena,0,/boxscores/197711160IND.html
+Wed Nov 16 1977,New Jersey Nets,Milwaukee Bucks,106,116,Rutgers Athletic Center,0,/boxscores/197711160NJN.html
+Wed Nov 16 1977,Philadelphia 76ers,Seattle SuperSonics,101,96,The Spectrum,0,/boxscores/197711160PHI.html
+Thu Nov 17 1977,New Orleans Jazz,Seattle SuperSonics,127,116,Louisiana Superdome,0,/boxscores/197711170NOJ.html
+Thu Nov 17 1977,San Antonio Spurs,Buffalo Braves,111,108,HemisFair Arena,0,/boxscores/197711170SAS.html
+Fri Nov 18 1977,Boston Celtics,Philadelphia 76ers,112,121,Boston Garden,0,/boxscores/197711180BOS.html
+Fri Nov 18 1977,Denver Nuggets,San Antonio Spurs,105,94,McNichols Sports Arena,0,/boxscores/197711180DEN.html
+Fri Nov 18 1977,Golden State Warriors,Cleveland Cavaliers,108,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197711180GSW.html
+Fri Nov 18 1977,Los Angeles Lakers,Detroit Pistons,116,83,The Forum,0,/boxscores/197711180LAL.html
+Fri Nov 18 1977,New Jersey Nets,Indiana Pacers,116,124,Rutgers Athletic Center,0,/boxscores/197711180NJN.html
+Fri Nov 18 1977,Phoenix Suns,Chicago Bulls,103,101,Arizona Veterans Memorial Coliseum,0,/boxscores/197711180PHO.html
+Fri Nov 18 1977,Washington Bullets,New York Knicks,123,103,Capital Centre,0,/boxscores/197711180WSB.html
+Sat Nov 19 1977,Atlanta Hawks,New Jersey Nets,129,114,Omni Coliseum,0,/boxscores/197711190ATL.html
+Sat Nov 19 1977,Buffalo Braves,Boston Celtics,102,98,Buffalo Memorial Auditorium,0,/boxscores/197711190BUF.html
+Sat Nov 19 1977,Golden State Warriors,Detroit Pistons,128,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197711190GSW.html
+Sat Nov 19 1977,Houston Rockets,New Orleans Jazz,101,103,The Summit,0,/boxscores/197711190HOU.html
+Sat Nov 19 1977,Kansas City Kings,Washington Bullets,125,131,Omaha Civic Auditorium,0,/boxscores/197711190KCK.html
+Sat Nov 19 1977,New York Knicks,Indiana Pacers,129,127,Madison Square Garden (IV),0,/boxscores/197711190NYK.html
+Sat Nov 19 1977,Philadelphia 76ers,Milwaukee Bucks,111,100,The Spectrum,0,/boxscores/197711190PHI.html
+Sat Nov 19 1977,Portland Trail Blazers,Cleveland Cavaliers,109,67,Memorial Coliseum,0,/boxscores/197711190POR.html
+Sun Nov 20 1977,Los Angeles Lakers,Chicago Bulls,80,102,The Forum,0,/boxscores/197711200LAL.html
+Sun Nov 20 1977,New Jersey Nets,Denver Nuggets,118,125,Rutgers Athletic Center,0,/boxscores/197711200NJN.html
+Sun Nov 20 1977,Phoenix Suns,San Antonio Spurs,134,112,Arizona Veterans Memorial Coliseum,0,/boxscores/197711200PHO.html
+Sun Nov 20 1977,Portland Trail Blazers,Detroit Pistons,118,101,Memorial Coliseum,0,/boxscores/197711200POR.html
+Sun Nov 20 1977,Seattle SuperSonics,Cleveland Cavaliers,108,115,Seattle Center Coliseum,0,/boxscores/197711200SEA.html
+Mon Nov 21 1977,Buffalo Braves,Washington Bullets,97,114,Buffalo Memorial Auditorium,0,/boxscores/197711210BUF.html
+Tue Nov 22 1977,Milwaukee Bucks,Golden State Warriors,109,88,MECCA Arena,0,/boxscores/197711220MIL.html
+Tue Nov 22 1977,New Orleans Jazz,Indiana Pacers,123,108,Louisiana Superdome,0,/boxscores/197711220NOJ.html
+Tue Nov 22 1977,New York Knicks,Buffalo Braves,101,102,Madison Square Garden (IV),0,/boxscores/197711220NYK.html
+Tue Nov 22 1977,Philadelphia 76ers,Houston Rockets,105,99,The Spectrum,0,/boxscores/197711220PHI.html
+Tue Nov 22 1977,Phoenix Suns,Los Angeles Lakers,118,107,Arizona Veterans Memorial Coliseum,0,/boxscores/197711220PHO.html
+Tue Nov 22 1977,Washington Bullets,Denver Nuggets,114,119,Capital Centre,0,/boxscores/197711220WSB.html
+Wed Nov 23 1977,Atlanta Hawks,Denver Nuggets,105,104,Omni Coliseum,0,/boxscores/197711230ATL.html
+Wed Nov 23 1977,Boston Celtics,Houston Rockets,109,100,Boston Garden,0,/boxscores/197711230BOS.html
+Wed Nov 23 1977,Detroit Pistons,Philadelphia 76ers,105,106,Cobo Arena,0,/boxscores/197711230DET.html
+Wed Nov 23 1977,Indiana Pacers,Golden State Warriors,126,116,Market Square Arena,0,/boxscores/197711230IND.html
+Wed Nov 23 1977,Kansas City Kings,Milwaukee Bucks,116,122,Kemper Arena,0,/boxscores/197711230KCK.html
+Wed Nov 23 1977,Portland Trail Blazers,Chicago Bulls,116,111,Memorial Coliseum,0,/boxscores/197711230POR.html
+Wed Nov 23 1977,San Antonio Spurs,New Jersey Nets,132,119,HemisFair Arena,0,/boxscores/197711230SAS.html
+Wed Nov 23 1977,Seattle SuperSonics,Los Angeles Lakers,113,89,Seattle Center Coliseum,0,/boxscores/197711230SEA.html
+Thu Nov 24 1977,Cleveland Cavaliers,Phoenix Suns,97,82,Coliseum at Richfield,0,/boxscores/197711240CLE.html
+Thu Nov 24 1977,New Orleans Jazz,Denver Nuggets,131,129,Louisiana Superdome,0,/boxscores/197711240NOJ.html
+Fri Nov 25 1977,Atlanta Hawks,Milwaukee Bucks,115,117,Omni Coliseum,0,/boxscores/197711250ATL.html
+Fri Nov 25 1977,Boston Celtics,New York Knicks,121,119,Boston Garden,0,/boxscores/197711250BOS.html
+Fri Nov 25 1977,Indiana Pacers,Phoenix Suns,110,118,Market Square Arena,0,/boxscores/197711250IND.html
+Fri Nov 25 1977,Los Angeles Lakers,New Jersey Nets,129,117,The Forum,0,/boxscores/197711250LAL.html
+Fri Nov 25 1977,Philadelphia 76ers,Golden State Warriors,125,119,The Spectrum,0,/boxscores/197711250PHI.html
+Fri Nov 25 1977,Seattle SuperSonics,Chicago Bulls,89,106,Seattle Center Coliseum,0,/boxscores/197711250SEA.html
+Sat Nov 26 1977,Buffalo Braves,Philadelphia 76ers,107,112,Buffalo Memorial Auditorium,0,/boxscores/197711260BUF.html
+Sat Nov 26 1977,Denver Nuggets,Indiana Pacers,136,123,McNichols Sports Arena,0,/boxscores/197711260DEN.html
+Sat Nov 26 1977,Detroit Pistons,Cleveland Cavaliers,87,105,Cobo Arena,0,/boxscores/197711260DET.html
+Sat Nov 26 1977,Kansas City Kings,Boston Celtics,110,108,Kemper Arena,0,/boxscores/197711260KCK.html
+Sat Nov 26 1977,New York Knicks,Golden State Warriors,112,106,Madison Square Garden (IV),0,/boxscores/197711260NYK.html
+Sat Nov 26 1977,Portland Trail Blazers,New Jersey Nets,114,102,Memorial Coliseum,0,/boxscores/197711260POR.html
+Sat Nov 26 1977,San Antonio Spurs,Milwaukee Bucks,129,107,HemisFair Arena,0,/boxscores/197711260SAS.html
+Sat Nov 26 1977,Washington Bullets,Houston Rockets,93,91,Capital Centre,0,/boxscores/197711260WSB.html
+Sun Nov 27 1977,Los Angeles Lakers,Portland Trail Blazers,93,100,The Forum,0,/boxscores/197711270LAL.html
+Sun Nov 27 1977,New Orleans Jazz,Kansas City Kings,115,106,Louisiana Superdome,0,/boxscores/197711270NOJ.html
+Sun Nov 27 1977,Phoenix Suns,Denver Nuggets,115,97,Arizona Veterans Memorial Coliseum,0,/boxscores/197711270PHO.html
+Sun Nov 27 1977,Seattle SuperSonics,New Jersey Nets,96,99,Seattle Center Coliseum,0,/boxscores/197711270SEA.html
+Mon Nov 28 1977,New York Knicks,Houston Rockets,104,86,Madison Square Garden (IV),0,/boxscores/197711280NYK.html
+Tue Nov 29 1977,Atlanta Hawks,Boston Celtics,108,101,Omni Coliseum,0,/boxscores/197711290ATL.html
+Tue Nov 29 1977,Chicago Bulls,New Orleans Jazz,95,87,Chicago Stadium,0,/boxscores/197711290CHI.html
+Tue Nov 29 1977,Cleveland Cavaliers,Los Angeles Lakers,118,101,Coliseum at Richfield,0,/boxscores/197711290CLE.html
+Tue Nov 29 1977,Denver Nuggets,Seattle SuperSonics,115,99,McNichols Sports Arena,0,/boxscores/197711290DEN.html
+Tue Nov 29 1977,Golden State Warriors,New Jersey Nets,110,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197711290GSW.html
+Tue Nov 29 1977,Houston Rockets,New York Knicks,120,103,The Summit,0,/boxscores/197711290HOU.html
+Tue Nov 29 1977,Milwaukee Bucks,Detroit Pistons,99,100,MECCA Arena,0,/boxscores/197711290MIL.html
+Tue Nov 29 1977,Portland Trail Blazers,Phoenix Suns,108,96,Memorial Coliseum,0,/boxscores/197711290POR.html
+Tue Nov 29 1977,San Antonio Spurs,Philadelphia 76ers,117,129,HemisFair Arena,0,/boxscores/197711290SAS.html
+Wed Nov 30 1977,Boston Celtics,Chicago Bulls,98,92,Boston Garden,0,/boxscores/197711300BOS.html
+Wed Nov 30 1977,Buffalo Braves,Atlanta Hawks,105,93,Buffalo Memorial Auditorium,0,/boxscores/197711300BUF.html
+Wed Nov 30 1977,Detroit Pistons,Los Angeles Lakers,104,98,Cobo Arena,0,/boxscores/197711300DET.html
+Wed Nov 30 1977,Indiana Pacers,Milwaukee Bucks,113,120,Market Square Arena,0,/boxscores/197711300IND.html
+Wed Nov 30 1977,Kansas City Kings,Seattle SuperSonics,84,86,Kemper Arena,0,/boxscores/197711300KCK.html
+Wed Nov 30 1977,New Orleans Jazz,Philadelphia 76ers,114,117,Louisiana Superdome,0,/boxscores/197711300NOJ.html
+Wed Nov 30 1977,Washington Bullets,San Antonio Spurs,116,105,Capital Centre,0,/boxscores/197711300WSB.html

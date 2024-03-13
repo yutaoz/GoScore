@@ -1,0 +1,29 @@
+Mon May 1 2017,Cleveland Cavaliers,Toronto Raptors,116,105,Quicken Loans Arena,20562,/boxscores/201705010CLE.html
+Mon May 1 2017,San Antonio Spurs,Houston Rockets,99,126,AT&T Center,18418,/boxscores/201705010SAS.html
+Tue May 2 2017,Boston Celtics,Washington Wizards,129,119,TD Garden,18624,/boxscores/201705020BOS.html
+Tue May 2 2017,Golden State Warriors,Utah Jazz,106,94,Oracle Arena,19596,/boxscores/201705020GSW.html
+Wed May 3 2017,Cleveland Cavaliers,Toronto Raptors,125,103,Quicken Loans Arena,20562,/boxscores/201705030CLE.html
+Wed May 3 2017,San Antonio Spurs,Houston Rockets,121,96,AT&T Center,18418,/boxscores/201705030SAS.html
+Thu May 4 2017,Washington Wizards,Boston Celtics,116,89,Verizon Center,20356,/boxscores/201705040WAS.html
+Thu May 4 2017,Golden State Warriors,Utah Jazz,115,104,Oracle Arena,19596,/boxscores/201705040GSW.html
+Fri May 5 2017,Toronto Raptors,Cleveland Cavaliers,94,115,Air Canada Centre,20384,/boxscores/201705050TOR.html
+Fri May 5 2017,Houston Rockets,San Antonio Spurs,92,103,Toyota Center,18187,/boxscores/201705050HOU.html
+Sat May 6 2017,Utah Jazz,Golden State Warriors,91,102,Vivint Smart Home Arena,19911,/boxscores/201705060UTA.html
+Sun May 7 2017,Toronto Raptors,Cleveland Cavaliers,102,109,Air Canada Centre,20307,/boxscores/201705070TOR.html
+Sun May 7 2017,Washington Wizards,Boston Celtics,121,102,Verizon Center,20356,/boxscores/201705070WAS.html
+Sun May 7 2017,Houston Rockets,San Antonio Spurs,125,104,Toyota Center,18055,/boxscores/201705070HOU.html
+Mon May 8 2017,Utah Jazz,Golden State Warriors,95,121,Vivint Smart Home Arena,19911,/boxscores/201705080UTA.html
+Tue May 9 2017,San Antonio Spurs,Houston Rockets,110,107,AT&T Center,18418,/boxscores/201705090SAS.html
+Wed May 10 2017,Boston Celtics,Washington Wizards,123,101,TD Garden,18624,/boxscores/201705100BOS.html
+Thu May 11 2017,Houston Rockets,San Antonio Spurs,75,114,Toyota Center,18055,/boxscores/201705110HOU.html
+Fri May 12 2017,Washington Wizards,Boston Celtics,92,91,Verizon Center,20356,/boxscores/201705120WAS.html
+Sun May 14 2017,Golden State Warriors,San Antonio Spurs,113,111,Oracle Arena,19596,/boxscores/201705140GSW.html
+Mon May 15 2017,Boston Celtics,Washington Wizards,115,105,TD Garden,18624,/boxscores/201705150BOS.html
+Tue May 16 2017,Golden State Warriors,San Antonio Spurs,136,100,Oracle Arena,19596,/boxscores/201705160GSW.html
+Wed May 17 2017,Boston Celtics,Cleveland Cavaliers,104,117,TD Garden,18624,/boxscores/201705170BOS.html
+Fri May 19 2017,Boston Celtics,Cleveland Cavaliers,86,130,TD Garden,18624,/boxscores/201705190BOS.html
+Sat May 20 2017,San Antonio Spurs,Golden State Warriors,108,120,AT&T Center,18792,/boxscores/201705200SAS.html
+Sun May 21 2017,Cleveland Cavaliers,Boston Celtics,108,111,Quicken Loans Arena,20562,/boxscores/201705210CLE.html
+Mon May 22 2017,San Antonio Spurs,Golden State Warriors,115,129,AT&T Center,18466,/boxscores/201705220SAS.html
+Tue May 23 2017,Cleveland Cavaliers,Boston Celtics,112,99,Quicken Loans Arena,20562,/boxscores/201705230CLE.html
+Thu May 25 2017,Boston Celtics,Cleveland Cavaliers,102,135,TD Garden,18624,/boxscores/201705250BOS.html

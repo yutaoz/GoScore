@@ -1,0 +1,124 @@
+Sat Nov 1 1975,Buffalo Braves,Detroit Pistons,97,93,Buffalo Memorial Auditorium,0,/boxscores/197511010BUF.html
+Sat Nov 1 1975,Chicago Bulls,Boston Celtics,84,82,Chicago Stadium,0,/boxscores/197511010CHI.html
+Sat Nov 1 1975,Cleveland Cavaliers,New Orleans Jazz,91,103,Coliseum at Richfield,0,/boxscores/197511010CLE.html
+Sat Nov 1 1975,Golden State Warriors,Washington Bullets,100,89,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511010GSW.html
+Sat Nov 1 1975,Kansas City Kings,Phoenix Suns,106,100,Kemper Arena,0,/boxscores/197511010KCK.html
+Sat Nov 1 1975,Milwaukee Bucks,Portland Trail Blazers,97,113,MECCA Arena,0,/boxscores/197511010MIL.html
+Sat Nov 1 1975,New York Knicks,Philadelphia 76ers,110,98,Madison Square Garden (IV),0,/boxscores/197511010NYK.html
+Sun Nov 2 1975,Houston Rockets,Milwaukee Bucks,104,89,The Summit,0,/boxscores/197511020HOU.html
+Sun Nov 2 1975,Los Angeles Lakers,Atlanta Hawks,116,113,The Forum,0,/boxscores/197511020LAL.html
+Sun Nov 2 1975,Seattle SuperSonics,Washington Bullets,85,94,Seattle Center Coliseum,0,/boxscores/197511020SEA.html
+Tue Nov 4 1975,Buffalo Braves,Philadelphia 76ers,114,121,Buffalo Memorial Auditorium,0,/boxscores/197511040BUF.html
+Tue Nov 4 1975,Chicago Bulls,Phoenix Suns,80,96,Chicago Stadium,0,/boxscores/197511040CHI.html
+Tue Nov 4 1975,Houston Rockets,New York Knicks,119,106,The Summit,0,/boxscores/197511040HOU.html
+Tue Nov 4 1975,Kansas City Kings,Los Angeles Lakers,116,98,Kemper Arena,0,/boxscores/197511040KCK.html
+Tue Nov 4 1975,Milwaukee Bucks,Detroit Pistons,103,101,MECCA Arena,0,/boxscores/197511040MIL.html
+Tue Nov 4 1975,Portland Trail Blazers,Atlanta Hawks,97,98,Memorial Coliseum,0,/boxscores/197511040POR.html
+Tue Nov 4 1975,Washington Bullets,Cleveland Cavaliers,113,96,Capital Centre,0,/boxscores/197511040WSB.html
+Wed Nov 5 1975,Boston Celtics,Buffalo Braves,105,95,Boston Garden,0,/boxscores/197511050BOS.html
+Wed Nov 5 1975,Detroit Pistons,Seattle SuperSonics,124,107,Cobo Arena,0,/boxscores/197511050DET.html
+Wed Nov 5 1975,New Orleans Jazz,Los Angeles Lakers,113,110,Louisiana Superdome,26511,/boxscores/197511050NOJ.html
+Wed Nov 5 1975,Philadelphia 76ers,Chicago Bulls,115,82,The Spectrum,0,/boxscores/197511050PHI.html
+Thu Nov 6 1975,Atlanta Hawks,Cleveland Cavaliers,108,113,Omni Coliseum,0,/boxscores/197511060ATL.html
+Thu Nov 6 1975,Golden State Warriors,New York Knicks,111,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511060GSW.html
+Thu Nov 6 1975,Washington Bullets,Seattle SuperSonics,110,100,Capital Centre,0,/boxscores/197511060WSB.html
+Fri Nov 7 1975,Chicago Bulls,Detroit Pistons,122,124,Chicago Stadium,0,/boxscores/197511070CHI.html
+Fri Nov 7 1975,Los Angeles Lakers,New York Knicks,105,97,The Forum,0,/boxscores/197511070LAL.html
+Fri Nov 7 1975,Milwaukee Bucks,Boston Celtics,104,101,MECCA Arena,0,/boxscores/197511070MIL.html
+Fri Nov 7 1975,New Orleans Jazz,Cleveland Cavaliers,90,94,Louisiana Superdome,0,/boxscores/197511070NOJ.html
+Fri Nov 7 1975,Philadelphia 76ers,Phoenix Suns,103,99,The Spectrum,0,/boxscores/197511070PHI.html
+Fri Nov 7 1975,Portland Trail Blazers,Kansas City Kings,92,88,Memorial Coliseum,0,/boxscores/197511070POR.html
+Sat Nov 8 1975,Atlanta Hawks,Seattle SuperSonics,107,94,Omni Coliseum,0,/boxscores/197511080ATL.html
+Sat Nov 8 1975,Buffalo Braves,Phoenix Suns,110,105,Buffalo Memorial Auditorium,0,/boxscores/197511080BUF.html
+Sat Nov 8 1975,Detroit Pistons,Boston Celtics,104,118,Cobo Arena,0,/boxscores/197511080DET.html
+Sat Nov 8 1975,Golden State Warriors,Los Angeles Lakers,114,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511080GSW.html
+Sat Nov 8 1975,Houston Rockets,Cleveland Cavaliers,116,112,The Summit,0,/boxscores/197511080HOU.html
+Sat Nov 8 1975,Washington Bullets,Milwaukee Bucks,95,99,Capital Centre,0,/boxscores/197511080WSB.html
+Sun Nov 9 1975,Los Angeles Lakers,Kansas City Kings,125,112,The Forum,0,/boxscores/197511090LAL.html
+Sun Nov 9 1975,New Orleans Jazz,Seattle SuperSonics,97,111,Louisiana Superdome,0,/boxscores/197511090NOJ.html
+Sun Nov 9 1975,Portland Trail Blazers,New York Knicks,115,96,Memorial Coliseum,0,/boxscores/197511090POR.html
+Tue Nov 11 1975,Boston Celtics,Atlanta Hawks,91,100,Hartford Civic Center,0,/boxscores/197511110BOS.html
+Tue Nov 11 1975,Buffalo Braves,Washington Bullets,90,105,Buffalo Memorial Auditorium,0,/boxscores/197511110BUF.html
+Tue Nov 11 1975,Golden State Warriors,Cleveland Cavaliers,103,98,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511110GSW.html
+Tue Nov 11 1975,Milwaukee Bucks,Philadelphia 76ers,108,81,MECCA Arena,0,/boxscores/197511110MIL.html
+Tue Nov 11 1975,Phoenix Suns,New York Knicks,112,81,Arizona Veterans Memorial Coliseum,0,/boxscores/197511110PHO.html
+Tue Nov 11 1975,Portland Trail Blazers,New Orleans Jazz,106,104,Memorial Coliseum,0,/boxscores/197511110POR.html
+Wed Nov 12 1975,Detroit Pistons,Atlanta Hawks,106,109,Cobo Arena,0,/boxscores/197511120DET.html
+Wed Nov 12 1975,Houston Rockets,Buffalo Braves,80,93,The Summit,0,/boxscores/197511120HOU.html
+Wed Nov 12 1975,Los Angeles Lakers,New Orleans Jazz,116,100,The Forum,0,/boxscores/197511120LAL.html
+Wed Nov 12 1975,Philadelphia 76ers,Milwaukee Bucks,84,107,The Spectrum,0,/boxscores/197511120PHI.html
+Wed Nov 12 1975,Seattle SuperSonics,Kansas City Kings,92,107,Seattle Center Coliseum,0,/boxscores/197511120SEA.html
+Thu Nov 13 1975,Golden State Warriors,Chicago Bulls,98,87,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511130GSW.html
+Thu Nov 13 1975,New York Knicks,Houston Rockets,108,102,Madison Square Garden (IV),0,/boxscores/197511130NYK.html
+Thu Nov 13 1975,Phoenix Suns,Seattle SuperSonics,106,103,Arizona Veterans Memorial Coliseum,0,/boxscores/197511130PHO.html
+Thu Nov 13 1975,Washington Bullets,Boston Celtics,110,107,Capital Centre,0,/boxscores/197511130WSB.html
+Fri Nov 14 1975,Atlanta Hawks,Washington Bullets,97,88,Omni Coliseum,0,/boxscores/197511140ATL.html
+Fri Nov 14 1975,Boston Celtics,Philadelphia 76ers,109,119,Boston Garden,0,/boxscores/197511140BOS.html
+Fri Nov 14 1975,Los Angeles Lakers,Phoenix Suns,114,107,The Forum,0,/boxscores/197511140LAL.html
+Fri Nov 14 1975,Milwaukee Bucks,Buffalo Braves,98,112,MECCA Arena,0,/boxscores/197511140MIL.html
+Fri Nov 14 1975,Portland Trail Blazers,Chicago Bulls,93,89,Memorial Coliseum,0,/boxscores/197511140POR.html
+Fri Nov 14 1975,Seattle SuperSonics,Cleveland Cavaliers,100,97,Seattle Center Coliseum,0,/boxscores/197511140SEA.html
+Sat Nov 15 1975,Buffalo Braves,Boston Celtics,110,112,Buffalo Memorial Auditorium,0,/boxscores/197511150BUF.html
+Sat Nov 15 1975,Detroit Pistons,Milwaukee Bucks,101,89,Cobo Arena,0,/boxscores/197511150DET.html
+Sat Nov 15 1975,Golden State Warriors,Kansas City Kings,123,92,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511150GSW.html
+Sat Nov 15 1975,Houston Rockets,New Orleans Jazz,103,101,The Summit,0,/boxscores/197511150HOU.html
+Sat Nov 15 1975,New York Knicks,Atlanta Hawks,92,86,Madison Square Garden (IV),0,/boxscores/197511150NYK.html
+Sat Nov 15 1975,Philadelphia 76ers,Washington Bullets,110,109,The Spectrum,0,/boxscores/197511150PHI.html
+Sat Nov 15 1975,Portland Trail Blazers,Cleveland Cavaliers,95,99,Memorial Coliseum,0,/boxscores/197511150POR.html
+Sun Nov 16 1975,Atlanta Hawks,New York Knicks,97,96,Omni Coliseum,0,/boxscores/197511160ATL.html
+Sun Nov 16 1975,Los Angeles Lakers,Chicago Bulls,110,93,The Forum,0,/boxscores/197511160LAL.html
+Sun Nov 16 1975,Seattle SuperSonics,Golden State Warriors,102,98,Seattle Center Coliseum,0,/boxscores/197511160SEA.html
+Tue Nov 18 1975,Buffalo Braves,Los Angeles Lakers,120,106,Buffalo Memorial Auditorium,0,/boxscores/197511180BUF.html
+Tue Nov 18 1975,Cleveland Cavaliers,Houston Rockets,91,95,Coliseum at Richfield,0,/boxscores/197511180CLE.html
+Tue Nov 18 1975,New Orleans Jazz,Golden State Warriors,104,112,Louisiana Superdome,0,/boxscores/197511180NOJ.html
+Tue Nov 18 1975,New York Knicks,Portland Trail Blazers,101,92,Madison Square Garden (IV),0,/boxscores/197511180NYK.html
+Wed Nov 19 1975,Atlanta Hawks,Golden State Warriors,104,98,Omni Coliseum,0,/boxscores/197511190ATL.html
+Wed Nov 19 1975,Detroit Pistons,Portland Trail Blazers,120,114,Cobo Arena,0,/boxscores/197511190DET.html
+Wed Nov 19 1975,Houston Rockets,Los Angeles Lakers,110,118,The Summit,0,/boxscores/197511190HOU.html
+Wed Nov 19 1975,Philadelphia 76ers,Kansas City Kings,113,103,The Spectrum,0,/boxscores/197511190PHI.html
+Wed Nov 19 1975,Phoenix Suns,Milwaukee Bucks,94,96,Arizona Veterans Memorial Coliseum,0,/boxscores/197511190PHO.html
+Wed Nov 19 1975,Seattle SuperSonics,Chicago Bulls,97,87,Seattle Center Coliseum,0,/boxscores/197511190SEA.html
+Thu Nov 20 1975,Cleveland Cavaliers,Buffalo Braves,115,118,Coliseum at Richfield,0,/boxscores/197511200CLE.html
+Thu Nov 20 1975,Washington Bullets,Atlanta Hawks,105,96,Capital Centre,0,/boxscores/197511200WSB.html
+Fri Nov 21 1975,Boston Celtics,New York Knicks,110,101,Boston Garden,0,/boxscores/197511210BOS.html
+Fri Nov 21 1975,Detroit Pistons,Buffalo Braves,104,94,Cobo Arena,0,/boxscores/197511210DET.html
+Fri Nov 21 1975,Kansas City Kings,Chicago Bulls,107,98,Omaha Civic Auditorium,0,/boxscores/197511210KCK.html
+Fri Nov 21 1975,Los Angeles Lakers,Milwaukee Bucks,116,104,The Forum,0,/boxscores/197511210LAL.html
+Fri Nov 21 1975,Philadelphia 76ers,Portland Trail Blazers,131,111,The Spectrum,0,/boxscores/197511210PHI.html
+Fri Nov 21 1975,Phoenix Suns,Houston Rockets,107,92,Arizona Veterans Memorial Coliseum,0,/boxscores/197511210PHO.html
+Sat Nov 22 1975,Atlanta Hawks,New Orleans Jazz,85,89,Omni Coliseum,0,/boxscores/197511220ATL.html
+Sat Nov 22 1975,Buffalo Braves,Portland Trail Blazers,104,109,Buffalo Memorial Auditorium,0,/boxscores/197511220BUF.html
+Sat Nov 22 1975,New York Knicks,Cleveland Cavaliers,94,95,Madison Square Garden (IV),0,/boxscores/197511220NYK.html
+Sat Nov 22 1975,Washington Bullets,Golden State Warriors,71,111,Capital Centre,0,/boxscores/197511220WSB.html
+Sun Nov 23 1975,Atlanta Hawks,Philadelphia 76ers,115,111,Omni Coliseum,0,/boxscores/197511230ATL.html
+Sun Nov 23 1975,Cleveland Cavaliers,Boston Celtics,90,105,Coliseum at Richfield,0,/boxscores/197511230CLE.html
+Sun Nov 23 1975,Los Angeles Lakers,Houston Rockets,110,99,The Forum,0,/boxscores/197511230LAL.html
+Sun Nov 23 1975,Seattle SuperSonics,Milwaukee Bucks,112,104,Seattle Center Coliseum,0,/boxscores/197511230SEA.html
+Tue Nov 25 1975,Chicago Bulls,Cleveland Cavaliers,94,98,Chicago Stadium,0,/boxscores/197511250CHI.html
+Tue Nov 25 1975,New York Knicks,Seattle SuperSonics,127,128,Madison Square Garden (IV),0,/boxscores/197511250NYK.html
+Tue Nov 25 1975,Philadelphia 76ers,Golden State Warriors,109,108,The Spectrum,0,/boxscores/197511250PHI.html
+Tue Nov 25 1975,Washington Bullets,Houston Rockets,89,100,Capital Centre,0,/boxscores/197511250WSB.html
+Wed Nov 26 1975,Boston Celtics,Seattle SuperSonics,109,110,Boston Garden,0,/boxscores/197511260BOS.html
+Wed Nov 26 1975,Detroit Pistons,Kansas City Kings,120,104,Cobo Arena,0,/boxscores/197511260DET.html
+Wed Nov 26 1975,Houston Rockets,Washington Bullets,97,85,The Summit,0,/boxscores/197511260HOU.html
+Wed Nov 26 1975,New Orleans Jazz,Atlanta Hawks,108,113,Louisiana Superdome,0,/boxscores/197511260NOJ.html
+Wed Nov 26 1975,Phoenix Suns,Buffalo Braves,107,106,Arizona Veterans Memorial Coliseum,0,/boxscores/197511260PHO.html
+Wed Nov 26 1975,Portland Trail Blazers,Los Angeles Lakers,118,101,Memorial Coliseum,0,/boxscores/197511260POR.html
+Thu Nov 27 1975,Cleveland Cavaliers,Kansas City Kings,91,95,Coliseum at Richfield,0,/boxscores/197511270CLE.html
+Thu Nov 27 1975,Milwaukee Bucks,Golden State Warriors,105,106,MECCA Arena,0,/boxscores/197511270MIL.html
+Thu Nov 27 1975,Washington Bullets,New York Knicks,90,96,Capital Centre,0,/boxscores/197511270WSB.html
+Fri Nov 28 1975,Boston Celtics,Atlanta Hawks,114,107,Boston Garden,0,/boxscores/197511280BOS.html
+Fri Nov 28 1975,Chicago Bulls,Milwaukee Bucks,89,69,Chicago Stadium,0,/boxscores/197511280CHI.html
+Fri Nov 28 1975,Kansas City Kings,New Orleans Jazz,98,97,Kemper Arena,0,/boxscores/197511280KCK.html
+Fri Nov 28 1975,Los Angeles Lakers,Buffalo Braves,126,105,The Forum,0,/boxscores/197511280LAL.html
+Fri Nov 28 1975,Philadelphia 76ers,Seattle SuperSonics,113,94,The Spectrum,0,/boxscores/197511280PHI.html
+Fri Nov 28 1975,Phoenix Suns,Portland Trail Blazers,110,101,Arizona Veterans Memorial Coliseum,0,/boxscores/197511280PHO.html
+Sat Nov 29 1975,Cleveland Cavaliers,Seattle SuperSonics,124,108,Coliseum at Richfield,0,/boxscores/197511290CLE.html
+Sat Nov 29 1975,Golden State Warriors,Phoenix Suns,112,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197511290GSW.html
+Sat Nov 29 1975,Houston Rockets,Philadelphia 76ers,99,98,The Summit,0,/boxscores/197511290HOU.html
+Sat Nov 29 1975,Milwaukee Bucks,Chicago Bulls,88,85,MECCA Arena,0,/boxscores/197511290MIL.html
+Sat Nov 29 1975,New York Knicks,Detroit Pistons,110,115,Madison Square Garden (IV),0,/boxscores/197511290NYK.html
+Sat Nov 29 1975,Portland Trail Blazers,Buffalo Braves,130,115,Memorial Coliseum,0,/boxscores/197511290POR.html
+Sun Nov 30 1975,Kansas City Kings,New York Knicks,110,98,Kemper Arena,0,/boxscores/197511300KCK.html
+Sun Nov 30 1975,Los Angeles Lakers,Portland Trail Blazers,116,109,The Forum,0,/boxscores/197511300LAL.html
+Sun Nov 30 1975,New Orleans Jazz,Philadelphia 76ers,96,113,Louisiana Superdome,0,/boxscores/197511300NOJ.html

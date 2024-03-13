@@ -1,0 +1,222 @@
+Sun Jan 1 2023,Denver Nuggets,Boston Celtics,123,111,Ball Arena,19641,/boxscores/202301010DEN.html
+Sun Jan 1 2023,Memphis Grizzlies,Sacramento Kings,118,108,FedEx Forum,17794,/boxscores/202301010MEM.html
+Sun Jan 1 2023,Milwaukee Bucks,Washington Wizards,95,118,Fiserv Forum,17341,/boxscores/202301010MIL.html
+Mon Jan 2 2023,New York Knicks,Phoenix Suns,102,83,Madison Square Garden (IV),19812,/boxscores/202301020NYK.html
+Mon Jan 2 2023,Charlotte Hornets,Los Angeles Lakers,115,121,Spectrum Center,19210,/boxscores/202301020CHO.html
+Mon Jan 2 2023,Cleveland Cavaliers,Chicago Bulls,145,134,Rocket Mortgage Fieldhouse,19432,/boxscores/202301020CLE.html
+Mon Jan 2 2023,Indiana Pacers,Toronto Raptors,122,114,Gainbridge Fieldhouse,14054,/boxscores/202301020IND.html
+Mon Jan 2 2023,Philadelphia 76ers,New Orleans Pelicans,120,111,Wells Fargo Center,20531,/boxscores/202301020PHI.html
+Mon Jan 2 2023,Brooklyn Nets,San Antonio Spurs,139,103,Barclays Center,18224,/boxscores/202301020BRK.html
+Mon Jan 2 2023,Houston Rockets,Dallas Mavericks,106,111,Toyota Center,18055,/boxscores/202301020HOU.html
+Mon Jan 2 2023,Minnesota Timberwolves,Denver Nuggets,124,111,Target Center,15962,/boxscores/202301020MIN.html
+Mon Jan 2 2023,Golden State Warriors,Atlanta Hawks,143,141,Chase Center,18064,/boxscores/202301020GSW.html
+Mon Jan 2 2023,Portland Trail Blazers,Detroit Pistons,135,106,Moda Center,19393,/boxscores/202301020POR.html
+Mon Jan 2 2023,Los Angeles Clippers,Miami Heat,100,110,Crypto.com Arena,19068,/boxscores/202301020LAC.html
+Tue Jan 3 2023,Milwaukee Bucks,Washington Wizards,123,113,Fiserv Forum,17341,/boxscores/202301030MIL.html
+Tue Jan 3 2023,Oklahoma City Thunder,Boston Celtics,150,117,Paycom Center,16778,/boxscores/202301030OKC.html
+Tue Jan 3 2023,Utah Jazz,Sacramento Kings,115,117,Vivint Arena,18206,/boxscores/202301030UTA.html
+Wed Jan 4 2023,Charlotte Hornets,Memphis Grizzlies,107,131,Spectrum Center,19249,/boxscores/202301040CHO.html
+Wed Jan 4 2023,Cleveland Cavaliers,Phoenix Suns,90,88,Rocket Mortgage Fieldhouse,19432,/boxscores/202301040CLE.html
+Wed Jan 4 2023,Orlando Magic,Oklahoma City Thunder,126,115,Amway Center,18925,/boxscores/202301040ORL.html
+Wed Jan 4 2023,Philadelphia 76ers,Indiana Pacers,129,126,Wells Fargo Center,20033,/boxscores/202301040PHI.html
+Wed Jan 4 2023,New York Knicks,San Antonio Spurs,117,114,Madison Square Garden (IV),19812,/boxscores/202301040NYK.html
+Wed Jan 4 2023,Toronto Raptors,Milwaukee Bucks,101,104,Scotiabank Arena,19800,/boxscores/202301040TOR.html
+Wed Jan 4 2023,Chicago Bulls,Brooklyn Nets,121,112,United Center,21418,/boxscores/202301040CHI.html
+Wed Jan 4 2023,Minnesota Timberwolves,Portland Trail Blazers,113,106,Target Center,15434,/boxscores/202301040MIN.html
+Wed Jan 4 2023,New Orleans Pelicans,Houston Rockets,119,108,Smoothie King Center,17295,/boxscores/202301040NOP.html
+Wed Jan 4 2023,Golden State Warriors,Detroit Pistons,119,122,Chase Center,18064,/boxscores/202301040GSW.html
+Wed Jan 4 2023,Los Angeles Lakers,Miami Heat,112,109,Crypto.com Arena,18997,/boxscores/202301040LAL.html
+Wed Jan 4 2023,Sacramento Kings,Atlanta Hawks,117,120,Golden 1 Center,17611,/boxscores/202301040SAC.html
+Thu Jan 5 2023,Orlando Magic,Memphis Grizzlies,115,123,Amway Center,19184,/boxscores/202301050ORL.html
+Thu Jan 5 2023,Dallas Mavericks,Boston Celtics,95,124,American Airlines Center,20413,/boxscores/202301050DAL.html
+Thu Jan 5 2023,Houston Rockets,Utah Jazz,114,131,Toyota Center,16320,/boxscores/202301050HOU.html
+Thu Jan 5 2023,Denver Nuggets,Los Angeles Clippers,122,91,Ball Arena,19087,/boxscores/202301050DEN.html
+Fri Jan 6 2023,Indiana Pacers,Portland Trail Blazers,108,99,Gainbridge Fieldhouse,16548,/boxscores/202301060IND.html
+Fri Jan 6 2023,Philadelphia 76ers,Chicago Bulls,112,126,Wells Fargo Center,20766,/boxscores/202301060PHI.html
+Fri Jan 6 2023,New Orleans Pelicans,Brooklyn Nets,102,108,Smoothie King Center,18636,/boxscores/202301060NOP.html
+Fri Jan 6 2023,Toronto Raptors,New York Knicks,108,112,Scotiabank Arena,19800,/boxscores/202301060TOR.html
+Fri Jan 6 2023,Milwaukee Bucks,Charlotte Hornets,109,138,Fiserv Forum,17627,/boxscores/202301060MIL.html
+Fri Jan 6 2023,Oklahoma City Thunder,Washington Wizards,127,110,Paycom Center,14790,/boxscores/202301060OKC.html
+Fri Jan 6 2023,San Antonio Spurs,Detroit Pistons,121,109,AT&T Center,13107,/boxscores/202301060SAS.html
+Fri Jan 6 2023,Denver Nuggets,Cleveland Cavaliers,121,108,Ball Arena,19638,/boxscores/202301060DEN.html
+Fri Jan 6 2023,Minnesota Timberwolves,Los Angeles Clippers,128,115,Target Center,17136,/boxscores/202301060MIN.html
+Fri Jan 6 2023,Phoenix Suns,Miami Heat,96,104,Footprint Center,17071,/boxscores/202301060PHO.html
+Fri Jan 6 2023,Los Angeles Lakers,Atlanta Hawks,130,114,Crypto.com Arena,18997,/boxscores/202301060LAL.html
+Sat Jan 7 2023,San Antonio Spurs,Boston Celtics,116,121,AT&T Center,18354,/boxscores/202301070SAS.html
+Sat Jan 7 2023,Chicago Bulls,Utah Jazz,126,118,United Center,21694,/boxscores/202301070CHI.html
+Sat Jan 7 2023,Dallas Mavericks,New Orleans Pelicans,127,117,American Airlines Center,20300,/boxscores/202301070DAL.html
+Sat Jan 7 2023,Golden State Warriors,Orlando Magic,101,115,Chase Center,18064,/boxscores/202301070GSW.html
+Sat Jan 7 2023,Sacramento Kings,Los Angeles Lakers,134,136,Golden 1 Center,17611,/boxscores/202301070SAC.html
+Sun Jan 8 2023,Detroit Pistons,Philadelphia 76ers,111,123,Little Caesars Arena,18898,/boxscores/202301080DET.html
+Sun Jan 8 2023,Toronto Raptors,Portland Trail Blazers,117,105,Scotiabank Arena,19800,/boxscores/202301080TOR.html
+Sun Jan 8 2023,Indiana Pacers,Charlotte Hornets,116,111,Gainbridge Fieldhouse,15805,/boxscores/202301080IND.html
+Sun Jan 8 2023,Memphis Grizzlies,Utah Jazz,123,118,FedEx Forum,17794,/boxscores/202301080MEM.html
+Sun Jan 8 2023,Miami Heat,Brooklyn Nets,101,102,Kaseya Center,19901,/boxscores/202301080MIA.html
+Sun Jan 8 2023,Houston Rockets,Minnesota Timberwolves,96,104,Toyota Center,18055,/boxscores/202301080HOU.html
+Sun Jan 8 2023,Oklahoma City Thunder,Dallas Mavericks,120,109,Paycom Center,16317,/boxscores/202301080OKC.html
+Sun Jan 8 2023,Phoenix Suns,Cleveland Cavaliers,98,112,Footprint Center,17071,/boxscores/202301080PHO.html
+Sun Jan 8 2023,Los Angeles Clippers,Atlanta Hawks,108,112,Crypto.com Arena,19068,/boxscores/202301080LAC.html
+Mon Jan 9 2023,Washington Wizards,New Orleans Pelicans,112,132,Capital One Arena,16223,/boxscores/202301090WAS.html
+Mon Jan 9 2023,Boston Celtics,Chicago Bulls,107,99,TD Garden,19156,/boxscores/202301090BOS.html
+Mon Jan 9 2023,New York Knicks,Milwaukee Bucks,107,111,Madison Square Garden (IV),18167,/boxscores/202301090NYK.html
+Mon Jan 9 2023,Memphis Grizzlies,San Antonio Spurs,121,113,FedEx Forum,16013,/boxscores/202301090MEM.html
+Mon Jan 9 2023,Denver Nuggets,Los Angeles Lakers,122,109,Ball Arena,19609,/boxscores/202301090DEN.html
+Mon Jan 9 2023,Sacramento Kings,Orlando Magic,136,111,Golden 1 Center,16499,/boxscores/202301090SAC.html
+Tue Jan 10 2023,Philadelphia 76ers,Detroit Pistons,147,116,Wells Fargo Center,20221,/boxscores/202301100PHI.html
+Tue Jan 10 2023,Miami Heat,Oklahoma City Thunder,112,111,Kaseya Center,19600,/boxscores/202301100MIA.html
+Tue Jan 10 2023,Toronto Raptors,Charlotte Hornets,132,120,Scotiabank Arena,19800,/boxscores/202301100TOR.html
+Tue Jan 10 2023,Utah Jazz,Cleveland Cavaliers,116,114,Vivint Arena,18206,/boxscores/202301100UTA.html
+Tue Jan 10 2023,Golden State Warriors,Phoenix Suns,113,125,Chase Center,18064,/boxscores/202301100GSW.html
+Tue Jan 10 2023,Portland Trail Blazers,Orlando Magic,106,109,Moda Center,18176,/boxscores/202301100POR.html
+Tue Jan 10 2023,Los Angeles Clippers,Dallas Mavericks,113,101,Crypto.com Arena,15828,/boxscores/202301100LAC.html
+Wed Jan 11 2023,Detroit Pistons,Minnesota Timberwolves,135,118,Little Caesars Arena,15906,/boxscores/202301110DET.html
+Wed Jan 11 2023,Washington Wizards,Chicago Bulls,100,97,Capital One Arena,17032,/boxscores/202301110WAS.html
+Wed Jan 11 2023,Atlanta Hawks,Milwaukee Bucks,105,114,State Farm Arena,17154,/boxscores/202301110ATL.html
+Wed Jan 11 2023,Boston Celtics,New Orleans Pelicans,125,114,TD Garden,19156,/boxscores/202301110BOS.html
+Wed Jan 11 2023,New York Knicks,Indiana Pacers,119,113,Madison Square Garden (IV),18249,/boxscores/202301110NYK.html
+Wed Jan 11 2023,Memphis Grizzlies,San Antonio Spurs,135,129,FedEx Forum,16454,/boxscores/202301110MEM.html
+Wed Jan 11 2023,Denver Nuggets,Phoenix Suns,126,97,Ball Arena,18872,/boxscores/202301110DEN.html
+Wed Jan 11 2023,Sacramento Kings,Houston Rockets,135,115,Golden 1 Center,16057,/boxscores/202301110SAC.html
+Thu Jan 12 2023,Philadelphia 76ers,Oklahoma City Thunder,114,133,Wells Fargo Center,20892,/boxscores/202301120PHI.html
+Thu Jan 12 2023,Brooklyn Nets,Boston Celtics,98,109,Barclays Center,18125,/boxscores/202301120BRK.html
+Thu Jan 12 2023,Miami Heat,Milwaukee Bucks,108,102,Kaseya Center,19600,/boxscores/202301120MIA.html
+Thu Jan 12 2023,Toronto Raptors,Charlotte Hornets,124,114,Scotiabank Arena,19800,/boxscores/202301120TOR.html
+Thu Jan 12 2023,Los Angeles Lakers,Dallas Mavericks,115,119,Crypto.com Arena,18997,/boxscores/202301120LAL.html
+Thu Jan 12 2023,Portland Trail Blazers,Cleveland Cavaliers,113,119,Moda Center,18105,/boxscores/202301120POR.html
+Fri Jan 13 2023,Detroit Pistons,New Orleans Pelicans,110,116,Little Caesars Arena,18989,/boxscores/202301130DET.html
+Fri Jan 13 2023,Indiana Pacers,Atlanta Hawks,111,113,Gainbridge Fieldhouse,16071,/boxscores/202301130IND.html
+Fri Jan 13 2023,Washington Wizards,New York Knicks,108,112,Capital One Arena,20476,/boxscores/202301130WAS.html
+Fri Jan 13 2023,San Antonio Spurs,Golden State Warriors,113,144,Alamodome,68323,/boxscores/202301130SAS.html
+Fri Jan 13 2023,Chicago Bulls,Oklahoma City Thunder,110,124,United Center,21342,/boxscores/202301130CHI.html
+Fri Jan 13 2023,Minnesota Timberwolves,Phoenix Suns,121,116,Target Center,16460,/boxscores/202301130MIN.html
+Fri Jan 13 2023,Utah Jazz,Orlando Magic,112,108,Vivint Arena,18206,/boxscores/202301130UTA.html
+Fri Jan 13 2023,Los Angeles Clippers,Denver Nuggets,103,115,Crypto.com Arena,16005,/boxscores/202301130LAC.html
+Fri Jan 13 2023,Sacramento Kings,Houston Rockets,139,114,Golden 1 Center,17894,/boxscores/202301130SAC.html
+Sat Jan 14 2023,Miami Heat,Milwaukee Bucks,111,95,Kaseya Center,19620,/boxscores/202301140MIA.html
+Sat Jan 14 2023,Charlotte Hornets,Boston Celtics,106,122,Spectrum Center,19608,/boxscores/202301140CHO.html
+Sat Jan 14 2023,Indiana Pacers,Memphis Grizzlies,112,130,Gainbridge Fieldhouse,17274,/boxscores/202301140IND.html
+Sat Jan 14 2023,Toronto Raptors,Atlanta Hawks,103,114,Scotiabank Arena,19800,/boxscores/202301140TOR.html
+Sat Jan 14 2023,Minnesota Timberwolves,Cleveland Cavaliers,110,102,Target Center,17136,/boxscores/202301140MIN.html
+Sat Jan 14 2023,Utah Jazz,Philadelphia 76ers,117,118,Vivint Arena,18206,/boxscores/202301140UTA.html
+Sat Jan 14 2023,Portland Trail Blazers,Dallas Mavericks,136,119,Moda Center,19393,/boxscores/202301140POR.html
+Sun Jan 15 2023,Detroit Pistons,New York Knicks,104,117,Little Caesars Arena,19894,/boxscores/202301150DET.html
+Sun Jan 15 2023,Los Angeles Clippers,Houston Rockets,121,100,Crypto.com Arena,17238,/boxscores/202301150LAC.html
+Sun Jan 15 2023,Chicago Bulls,Golden State Warriors,132,118,United Center,20139,/boxscores/202301150CHI.html
+Sun Jan 15 2023,Brooklyn Nets,Oklahoma City Thunder,102,112,Barclays Center,18165,/boxscores/202301150BRK.html
+Sun Jan 15 2023,San Antonio Spurs,Sacramento Kings,119,132,AT&T Center,12339,/boxscores/202301150SAS.html
+Sun Jan 15 2023,Denver Nuggets,Orlando Magic,119,116,Ball Arena,19641,/boxscores/202301150DEN.html
+Sun Jan 15 2023,Portland Trail Blazers,Dallas Mavericks,140,123,Moda Center,19393,/boxscores/202301150POR.html
+Sun Jan 15 2023,Los Angeles Lakers,Philadelphia 76ers,112,113,Crypto.com Arena,18020,/boxscores/202301150LAL.html
+Mon Jan 16 2023,Charlotte Hornets,Boston Celtics,118,130,Spectrum Center,19227,/boxscores/202301160CHO.html
+Mon Jan 16 2023,Milwaukee Bucks,Indiana Pacers,132,119,Fiserv Forum,17412,/boxscores/202301160MIL.html
+Mon Jan 16 2023,Cleveland Cavaliers,New Orleans Pelicans,113,103,Rocket Mortgage Fieldhouse,19432,/boxscores/202301160CLE.html
+Mon Jan 16 2023,New York Knicks,Toronto Raptors,121,123,Madison Square Garden (IV),19812,/boxscores/202301160NYK.html
+Mon Jan 16 2023,Washington Wizards,Golden State Warriors,118,127,Capital One Arena,20476,/boxscores/202301160WAS.html
+Mon Jan 16 2023,Atlanta Hawks,Miami Heat,121,113,State Farm Arena,18007,/boxscores/202301160ATL.html
+Mon Jan 16 2023,Minnesota Timberwolves,Utah Jazz,125,126,Target Center,16477,/boxscores/202301160MIN.html
+Mon Jan 16 2023,Memphis Grizzlies,Phoenix Suns,136,106,FedEx Forum,17794,/boxscores/202301160MEM.html
+Mon Jan 16 2023,Los Angeles Lakers,Houston Rockets,140,132,Crypto.com Arena,17657,/boxscores/202301160LAL.html
+Tue Jan 17 2023,Milwaukee Bucks,Toronto Raptors,130,122,Fiserv Forum,17341,/boxscores/202301170MIL.html
+Tue Jan 17 2023,San Antonio Spurs,Brooklyn Nets,106,98,AT&T Center,13532,/boxscores/202301170SAS.html
+Tue Jan 17 2023,Denver Nuggets,Portland Trail Blazers,122,113,Ball Arena,18258,/boxscores/202301170DEN.html
+Tue Jan 17 2023,Los Angeles Clippers,Philadelphia 76ers,110,120,Crypto.com Arena,15155,/boxscores/202301170LAC.html
+Wed Jan 18 2023,Dallas Mavericks,Atlanta Hawks,122,130,American Airlines Center,20125,/boxscores/202301180DAL.html
+Wed Jan 18 2023,New York Knicks,Washington Wizards,105,116,Madison Square Garden (IV),19164,/boxscores/202301180NYK.html
+Wed Jan 18 2023,Houston Rockets,Charlotte Hornets,117,122,Toyota Center,15678,/boxscores/202301180HOU.html
+Wed Jan 18 2023,Memphis Grizzlies,Cleveland Cavaliers,115,114,FedEx Forum,16892,/boxscores/202301180MEM.html
+Wed Jan 18 2023,New Orleans Pelicans,Miami Heat,98,124,Smoothie King Center,17736,/boxscores/202301180NOP.html
+Wed Jan 18 2023,Oklahoma City Thunder,Indiana Pacers,126,106,Paycom Center,14748,/boxscores/202301180OKC.html
+Wed Jan 18 2023,Utah Jazz,Los Angeles Clippers,126,103,Vivint Arena,18206,/boxscores/202301180UTA.html
+Wed Jan 18 2023,Denver Nuggets,Minnesota Timberwolves,122,118,Ball Arena,16112,/boxscores/202301180DEN.html
+Wed Jan 18 2023,Los Angeles Lakers,Sacramento Kings,111,116,Crypto.com Arena,18142,/boxscores/202301180LAL.html
+Thu Jan 19 2023,Detroit Pistons,Chicago Bulls,108,126,AccorHotels Arena,15885,/boxscores/202301190DET.html
+Thu Jan 19 2023,Boston Celtics,Golden State Warriors,121,118,TD Garden,19156,/boxscores/202301190BOS.html
+Thu Jan 19 2023,Minnesota Timberwolves,Toronto Raptors,128,126,Target Center,16318,/boxscores/202301190MIN.html
+Thu Jan 19 2023,Phoenix Suns,Brooklyn Nets,117,112,Footprint Center,17071,/boxscores/202301190PHO.html
+Thu Jan 19 2023,Portland Trail Blazers,Philadelphia 76ers,95,105,Moda Center,18113,/boxscores/202301190POR.html
+Fri Jan 20 2023,Orlando Magic,New Orleans Pelicans,123,110,Amway Center,19025,/boxscores/202301200ORL.html
+Fri Jan 20 2023,Atlanta Hawks,New York Knicks,139,124,State Farm Arena,17711,/boxscores/202301200ATL.html
+Fri Jan 20 2023,Cleveland Cavaliers,Golden State Warriors,114,120,Rocket Mortgage Fieldhouse,19432,/boxscores/202301200CLE.html
+Fri Jan 20 2023,Dallas Mavericks,Miami Heat,115,90,American Airlines Center,20326,/boxscores/202301200DAL.html
+Fri Jan 20 2023,San Antonio Spurs,Los Angeles Clippers,126,131,AT&T Center,15190,/boxscores/202301200SAS.html
+Fri Jan 20 2023,Denver Nuggets,Indiana Pacers,134,111,Ball Arena,19609,/boxscores/202301200DEN.html
+Fri Jan 20 2023,Utah Jazz,Brooklyn Nets,106,117,Vivint Arena,18206,/boxscores/202301200UTA.html
+Fri Jan 20 2023,Los Angeles Lakers,Memphis Grizzlies,122,121,Crypto.com Arena,18997,/boxscores/202301200LAL.html
+Fri Jan 20 2023,Sacramento Kings,Oklahoma City Thunder,118,113,Golden 1 Center,17932,/boxscores/202301200SAC.html
+Sat Jan 21 2023,Toronto Raptors,Boston Celtics,104,106,Scotiabank Arena,19800,/boxscores/202301210TOR.html
+Sat Jan 21 2023,Washington Wizards,Orlando Magic,138,118,Capital One Arena,18171,/boxscores/202301210WAS.html
+Sat Jan 21 2023,Atlanta Hawks,Charlotte Hornets,118,122,State Farm Arena,17928,/boxscores/202301210ATL.html
+Sat Jan 21 2023,Cleveland Cavaliers,Milwaukee Bucks,114,102,Rocket Mortgage Fieldhouse,19432,/boxscores/202301210CLE.html
+Sat Jan 21 2023,Minnesota Timberwolves,Houston Rockets,113,104,Target Center,17136,/boxscores/202301210MIN.html
+Sat Jan 21 2023,Phoenix Suns,Indiana Pacers,112,107,Footprint Center,17071,/boxscores/202301210PHO.html
+Sat Jan 21 2023,Sacramento Kings,Philadelphia 76ers,127,129,Golden 1 Center,17861,/boxscores/202301210SAC.html
+Sun Jan 22 2023,Dallas Mavericks,Los Angeles Clippers,98,112,American Airlines Center,20026,/boxscores/202301220DAL.html
+Sun Jan 22 2023,Miami Heat,New Orleans Pelicans,100,96,Kaseya Center,19600,/boxscores/202301220MIA.html
+Sun Jan 22 2023,Toronto Raptors,New York Knicks,125,116,Scotiabank Arena,19261,/boxscores/202301220TOR.html
+Sun Jan 22 2023,Denver Nuggets,Oklahoma City Thunder,99,101,Ball Arena,19557,/boxscores/202301220DEN.html
+Sun Jan 22 2023,Phoenix Suns,Memphis Grizzlies,112,110,Footprint Center,17071,/boxscores/202301220PHO.html
+Sun Jan 22 2023,Golden State Warriors,Brooklyn Nets,116,120,Chase Center,18064,/boxscores/202301220GSW.html
+Sun Jan 22 2023,Portland Trail Blazers,Los Angeles Lakers,112,121,Moda Center,19393,/boxscores/202301220POR.html
+Mon Jan 23 2023,Detroit Pistons,Milwaukee Bucks,130,150,Little Caesars Arena,18011,/boxscores/202301230DET.html
+Mon Jan 23 2023,Orlando Magic,Boston Celtics,113,98,Amway Center,19196,/boxscores/202301230ORL.html
+Mon Jan 23 2023,Chicago Bulls,Atlanta Hawks,111,100,United Center,20938,/boxscores/202301230CHI.html
+Mon Jan 23 2023,Houston Rockets,Minnesota Timberwolves,119,114,Toyota Center,13811,/boxscores/202301230HOU.html
+Mon Jan 23 2023,Utah Jazz,Charlotte Hornets,120,102,Vivint Arena,18206,/boxscores/202301230UTA.html
+Mon Jan 23 2023,Portland Trail Blazers,San Antonio Spurs,147,127,Moda Center,17874,/boxscores/202301230POR.html
+Mon Jan 23 2023,Sacramento Kings,Memphis Grizzlies,133,100,Golden 1 Center,17821,/boxscores/202301230SAC.html
+Tue Jan 24 2023,Indiana Pacers,Chicago Bulls,116,110,Gainbridge Fieldhouse,16102,/boxscores/202301240IND.html
+Tue Jan 24 2023,Miami Heat,Boston Celtics,98,95,Kaseya Center,19705,/boxscores/202301240MIA.html
+Tue Jan 24 2023,New York Knicks,Cleveland Cavaliers,105,103,Madison Square Garden (IV),19812,/boxscores/202301240NYK.html
+Tue Jan 24 2023,New Orleans Pelicans,Denver Nuggets,98,99,Smoothie King Center,14699,/boxscores/202301240NOP.html
+Tue Jan 24 2023,Dallas Mavericks,Washington Wizards,126,127,American Airlines Center,20077,/boxscores/202301240DAL.html
+Tue Jan 24 2023,Phoenix Suns,Charlotte Hornets,128,97,Footprint Center,17071,/boxscores/202301240PHO.html
+Tue Jan 24 2023,Los Angeles Lakers,Los Angeles Clippers,115,133,Crypto.com Arena,17604,/boxscores/202301240LAL.html
+Wed Jan 25 2023,Orlando Magic,Indiana Pacers,126,120,Amway Center,18846,/boxscores/202301250ORL.html
+Wed Jan 25 2023,Philadelphia 76ers,Brooklyn Nets,137,133,Wells Fargo Center,19772,/boxscores/202301250PHI.html
+Wed Jan 25 2023,Houston Rockets,Washington Wizards,103,108,Toyota Center,15302,/boxscores/202301250HOU.html
+Wed Jan 25 2023,Milwaukee Bucks,Denver Nuggets,107,99,Fiserv Forum,17352,/boxscores/202301250MIL.html
+Wed Jan 25 2023,New Orleans Pelicans,Minnesota Timberwolves,102,111,Smoothie King Center,14887,/boxscores/202301250NOP.html
+Wed Jan 25 2023,Oklahoma City Thunder,Atlanta Hawks,132,137,Paycom Center,15079,/boxscores/202301250OKC.html
+Wed Jan 25 2023,Golden State Warriors,Memphis Grizzlies,122,120,Chase Center,18064,/boxscores/202301250GSW.html
+Wed Jan 25 2023,Portland Trail Blazers,Utah Jazz,134,124,Moda Center,18154,/boxscores/202301250POR.html
+Wed Jan 25 2023,Sacramento Kings,Toronto Raptors,95,113,Golden 1 Center,17767,/boxscores/202301250SAC.html
+Wed Jan 25 2023,Los Angeles Lakers,San Antonio Spurs,113,104,Crypto.com Arena,17955,/boxscores/202301250LAL.html
+Thu Jan 26 2023,Boston Celtics,New York Knicks,117,120,TD Garden,19156,/boxscores/202301260BOS.html
+Thu Jan 26 2023,Brooklyn Nets,Detroit Pistons,122,130,Barclays Center,17732,/boxscores/202301260BRK.html
+Thu Jan 26 2023,Charlotte Hornets,Chicago Bulls,111,96,Spectrum Center,17697,/boxscores/202301260CHO.html
+Thu Jan 26 2023,Houston Rockets,Cleveland Cavaliers,95,113,Toyota Center,16327,/boxscores/202301260HOU.html
+Thu Jan 26 2023,Phoenix Suns,Dallas Mavericks,95,99,Footprint Center,17071,/boxscores/202301260PHO.html
+Thu Jan 26 2023,Los Angeles Clippers,San Antonio Spurs,138,100,Crypto.com Arena,16958,/boxscores/202301260LAC.html
+Fri Jan 27 2023,Indiana Pacers,Milwaukee Bucks,131,141,Gainbridge Fieldhouse,16090,/boxscores/202301270IND.html
+Fri Jan 27 2023,Minnesota Timberwolves,Memphis Grizzlies,111,100,Target Center,17136,/boxscores/202301270MIN.html
+Fri Jan 27 2023,Miami Heat,Orlando Magic,110,105,Kaseya Center,19788,/boxscores/202301270MIA.html
+Fri Jan 27 2023,Oklahoma City Thunder,Cleveland Cavaliers,112,100,Paycom Center,16236,/boxscores/202301270OKC.html
+Fri Jan 27 2023,Golden State Warriors,Toronto Raptors,129,117,Chase Center,18064,/boxscores/202301270GSW.html
+Sat Jan 28 2023,Philadelphia 76ers,Denver Nuggets,126,119,Wells Fargo Center,21255,/boxscores/202301280PHI.html
+Sat Jan 28 2023,Brooklyn Nets,New York Knicks,122,115,Barclays Center,18100,/boxscores/202301280BRK.html
+Sat Jan 28 2023,Detroit Pistons,Houston Rockets,114,117,Little Caesars Arena,19411,/boxscores/202301280DET.html
+Sat Jan 28 2023,Orlando Magic,Chicago Bulls,109,128,Amway Center,18846,/boxscores/202301280ORL.html
+Sat Jan 28 2023,Atlanta Hawks,Los Angeles Clippers,113,120,State Farm Arena,18448,/boxscores/202301280ATL.html
+Sat Jan 28 2023,Minnesota Timberwolves,Sacramento Kings,117,110,Target Center,17136,/boxscores/202301280MIN.html
+Sat Jan 28 2023,New Orleans Pelicans,Washington Wizards,103,113,Smoothie King Center,17692,/boxscores/202301280NOP.html
+Sat Jan 28 2023,San Antonio Spurs,Phoenix Suns,118,128,AT&T Center,18354,/boxscores/202301280SAS.html
+Sat Jan 28 2023,Boston Celtics,Los Angeles Lakers,125,121,TD Garden,19156,/boxscores/202301280BOS.html
+Sat Jan 28 2023,Utah Jazz,Dallas Mavericks,108,100,Vivint Arena,18206,/boxscores/202301280UTA.html
+Sat Jan 28 2023,Portland Trail Blazers,Toronto Raptors,105,123,Moda Center,19393,/boxscores/202301280POR.html
+Sun Jan 29 2023,Charlotte Hornets,Miami Heat,122,117,Spectrum Center,19254,/boxscores/202301290CHO.html
+Sun Jan 29 2023,Memphis Grizzlies,Indiana Pacers,112,100,FedEx Forum,17794,/boxscores/202301290MEM.html
+Sun Jan 29 2023,Cleveland Cavaliers,Los Angeles Clippers,122,99,Rocket Mortgage Fieldhouse,19432,/boxscores/202301290CLE.html
+Sun Jan 29 2023,Milwaukee Bucks,New Orleans Pelicans,135,110,Fiserv Forum,17341,/boxscores/202301290MIL.html
+Mon Jan 30 2023,Philadelphia 76ers,Orlando Magic,109,119,Wells Fargo Center,19812,/boxscores/202301300PHI.html
+Mon Jan 30 2023,Brooklyn Nets,Los Angeles Lakers,121,104,Barclays Center,17924,/boxscores/202301300BRK.html
+Mon Jan 30 2023,Minnesota Timberwolves,Sacramento Kings,111,118,Target Center,15342,/boxscores/202301300MIN.html
+Mon Jan 30 2023,Oklahoma City Thunder,Golden State Warriors,120,128,Paycom Center,16854,/boxscores/202301300OKC.html
+Mon Jan 30 2023,San Antonio Spurs,Washington Wizards,106,127,AT&T Center,11970,/boxscores/202301300SAS.html
+Mon Jan 30 2023,Dallas Mavericks,Detroit Pistons,111,105,American Airlines Center,19777,/boxscores/202301300DAL.html
+Mon Jan 30 2023,Phoenix Suns,Toronto Raptors,114,106,Footprint Center,17071,/boxscores/202301300PHO.html
+Mon Jan 30 2023,Portland Trail Blazers,Atlanta Hawks,129,125,Moda Center,18262,/boxscores/202301300POR.html
+Tue Jan 31 2023,Cleveland Cavaliers,Miami Heat,97,100,Rocket Mortgage Fieldhouse,19432,/boxscores/202301310CLE.html
+Tue Jan 31 2023,New York Knicks,Los Angeles Lakers,123,129,Madison Square Garden (IV),19812,/boxscores/202301310NYK.html
+Tue Jan 31 2023,Chicago Bulls,Los Angeles Clippers,103,108,United Center,20068,/boxscores/202301310CHI.html
+Tue Jan 31 2023,Milwaukee Bucks,Charlotte Hornets,124,115,Fiserv Forum,17341,/boxscores/202301310MIL.html
+Tue Jan 31 2023,Denver Nuggets,New Orleans Pelicans,122,113,Ball Arena,18868,/boxscores/202301310DEN.html

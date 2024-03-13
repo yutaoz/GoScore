@@ -1,0 +1,13 @@
+Fri Jun 1 2012,Boston Celtics,Miami Heat,101,91,TD Garden,18624,/boxscores/201206010BOS.html
+Sat Jun 2 2012,Oklahoma City Thunder,San Antonio Spurs,109,103,Chesapeake Energy Arena,18203,/boxscores/201206020OKC.html
+Sun Jun 3 2012,Boston Celtics,Miami Heat,93,91,TD Garden,18624,/boxscores/201206030BOS.html
+Mon Jun 4 2012,San Antonio Spurs,Oklahoma City Thunder,103,108,AT&T Center,18581,/boxscores/201206040SAS.html
+Tue Jun 5 2012,Miami Heat,Boston Celtics,90,94,AmericanAirlines Arena,20021,/boxscores/201206050MIA.html
+Wed Jun 6 2012,Oklahoma City Thunder,San Antonio Spurs,107,99,Chesapeake Energy Arena,18203,/boxscores/201206060OKC.html
+Thu Jun 7 2012,Boston Celtics,Miami Heat,79,98,TD Garden,18624,/boxscores/201206070BOS.html
+Sat Jun 9 2012,Miami Heat,Boston Celtics,101,88,AmericanAirlines Arena,20114,/boxscores/201206090MIA.html
+Tue Jun 12 2012,Oklahoma City Thunder,Miami Heat,105,94,Chesapeake Energy Arena,18203,/boxscores/201206120OKC.html
+Thu Jun 14 2012,Oklahoma City Thunder,Miami Heat,96,100,Chesapeake Energy Arena,18203,/boxscores/201206140OKC.html
+Sun Jun 17 2012,Miami Heat,Oklahoma City Thunder,91,85,AmericanAirlines Arena,20003,/boxscores/201206170MIA.html
+Tue Jun 19 2012,Miami Heat,Oklahoma City Thunder,104,98,AmericanAirlines Arena,20003,/boxscores/201206190MIA.html
+Thu Jun 21 2012,Miami Heat,Oklahoma City Thunder,121,106,AmericanAirlines Arena,20003,/boxscores/201206210MIA.html

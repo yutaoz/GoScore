@@ -1,0 +1,230 @@
+Sat Jan 1 2011,Chicago Bulls,Cleveland Cavaliers,100,91,United Center,21416,/boxscores/201101010CHI.html
+Sat Jan 1 2011,Washington Wizards,New Orleans Hornets,81,92,Verizon Center,16026,/boxscores/201101010WAS.html
+Sat Jan 1 2011,Miami Heat,Golden State Warriors,114,107,AmericanAirlines Arena,20254,/boxscores/201101010MIA.html
+Sat Jan 1 2011,Minnesota Timberwolves,New Jersey Nets,103,88,Target Center,12665,/boxscores/201101010MIN.html
+Sat Jan 1 2011,San Antonio Spurs,Oklahoma City Thunder,101,74,AT&T Center,18581,/boxscores/201101010SAS.html
+Sat Jan 1 2011,Denver Nuggets,Sacramento Kings,104,86,Pepsi Center,17466,/boxscores/201101010DEN.html
+Sat Jan 1 2011,Milwaukee Bucks,Dallas Mavericks,99,87,Bradley Center,13194,/boxscores/201101010MIL.html
+Sat Jan 1 2011,Utah Jazz,Memphis Grizzlies,98,92,EnergySolutions Arena,19732,/boxscores/201101010UTA.html
+Sun Jan 2 2011,New York Knicks,Indiana Pacers,98,92,Madison Square Garden (IV),19763,/boxscores/201101020NYK.html
+Sun Jan 2 2011,Los Angeles Clippers,Atlanta Hawks,98,107,STAPLES Center,16750,/boxscores/201101020LAC.html
+Sun Jan 2 2011,Toronto Raptors,Boston Celtics,79,93,Air Canada Centre,19986,/boxscores/201101020TOR.html
+Sun Jan 2 2011,Cleveland Cavaliers,Dallas Mavericks,95,104,Quicken Loans Arena,20562,/boxscores/201101020CLE.html
+Sun Jan 2 2011,Portland Trail Blazers,Houston Rockets,100,85,Rose Garden Arena,20416,/boxscores/201101020POR.html
+Sun Jan 2 2011,Sacramento Kings,Phoenix Suns,94,89,Power Balance Pavilion,12500,/boxscores/201101020SAC.html
+Sun Jan 2 2011,Los Angeles Lakers,Memphis Grizzlies,85,104,STAPLES Center,18997,/boxscores/201101020LAL.html
+Mon Jan 3 2011,Charlotte Bobcats,Miami Heat,82,96,Time Warner Cable Arena,19233,/boxscores/201101030CHA.html
+Mon Jan 3 2011,Orlando Magic,Golden State Warriors,110,90,Amway Center,18846,/boxscores/201101030ORL.html
+Mon Jan 3 2011,Boston Celtics,Minnesota Timberwolves,96,93,TD Garden,18624,/boxscores/201101030BOS.html
+Mon Jan 3 2011,New Orleans Hornets,Philadelphia 76ers,84,77,New Orleans Arena,13433,/boxscores/201101030NOH.html
+Mon Jan 3 2011,Denver Nuggets,Houston Rockets,113,106,Pepsi Center,17136,/boxscores/201101030DEN.html
+Mon Jan 3 2011,Utah Jazz,Detroit Pistons,102,97,EnergySolutions Arena,19911,/boxscores/201101030UTA.html
+Tue Jan 4 2011,Miami Heat,Milwaukee Bucks,101,89,AmericanAirlines Arena,20215,/boxscores/201101040MIA.html
+Tue Jan 4 2011,New York Knicks,San Antonio Spurs,128,115,Madison Square Garden (IV),19763,/boxscores/201101040NYK.html
+Tue Jan 4 2011,Chicago Bulls,Toronto Raptors,111,91,United Center,21290,/boxscores/201101040CHI.html
+Tue Jan 4 2011,Memphis Grizzlies,Oklahoma City Thunder,110,105,FedEx Forum,12765,/boxscores/201101040MEM.html
+Tue Jan 4 2011,Dallas Mavericks,Portland Trail Blazers,84,81,American Airlines Center,19514,/boxscores/201101040DAL.html
+Tue Jan 4 2011,Sacramento Kings,Atlanta Hawks,102,108,Power Balance Pavilion,11472,/boxscores/201101040SAC.html
+Tue Jan 4 2011,Los Angeles Lakers,Detroit Pistons,108,83,STAPLES Center,18997,/boxscores/201101040LAL.html
+Wed Jan 5 2011,Cleveland Cavaliers,Toronto Raptors,105,120,Quicken Loans Arena,20562,/boxscores/201101050CLE.html
+Wed Jan 5 2011,New Jersey Nets,Chicago Bulls,96,94,Prudential Center,15025,/boxscores/201101050NJN.html
+Wed Jan 5 2011,Orlando Magic,Milwaukee Bucks,97,87,Amway Center,18846,/boxscores/201101050ORL.html
+Wed Jan 5 2011,Philadelphia 76ers,Washington Wizards,109,97,Wells Fargo Center,12434,/boxscores/201101050PHI.html
+Wed Jan 5 2011,Boston Celtics,San Antonio Spurs,105,103,TD Garden,18624,/boxscores/201101050BOS.html
+Wed Jan 5 2011,Minnesota Timberwolves,Charlotte Bobcats,105,108,Target Center,14881,/boxscores/201101050MIN.html
+Wed Jan 5 2011,New Orleans Hornets,Golden State Warriors,103,110,New Orleans Arena,13532,/boxscores/201101050NOH.html
+Wed Jan 5 2011,Houston Rockets,Portland Trail Blazers,100,103,Toyota Center,14125,/boxscores/201101050HOU.html
+Wed Jan 5 2011,Utah Jazz,Atlanta Hawks,87,110,EnergySolutions Arena,19911,/boxscores/201101050UTA.html
+Wed Jan 5 2011,Los Angeles Clippers,Denver Nuggets,106,93,STAPLES Center,17540,/boxscores/201101050LAC.html
+Wed Jan 5 2011,Phoenix Suns,Los Angeles Lakers,95,99,US Airways Center,18105,/boxscores/201101050PHO.html
+Thu Jan 6 2011,Dallas Mavericks,Oklahoma City Thunder,95,99,American Airlines Center,20282,/boxscores/201101060DAL.html
+Thu Jan 6 2011,Sacramento Kings,Denver Nuggets,122,102,Power Balance Pavilion,13184,/boxscores/201101060SAC.html
+Fri Jan 7 2011,Indiana Pacers,San Antonio Spurs,87,90,Conseco Fieldhouse,14157,/boxscores/201101070IND.html
+Fri Jan 7 2011,Philadelphia 76ers,Chicago Bulls,105,99,Wells Fargo Center,15303,/boxscores/201101070PHI.html
+Fri Jan 7 2011,Washington Wizards,New Jersey Nets,97,77,Verizon Center,16017,/boxscores/201101070WAS.html
+Fri Jan 7 2011,Boston Celtics,Toronto Raptors,122,102,TD Garden,18624,/boxscores/201101070BOS.html
+Fri Jan 7 2011,Memphis Grizzlies,Utah Jazz,110,99,FedEx Forum,14781,/boxscores/201101070MEM.html
+Fri Jan 7 2011,Minnesota Timberwolves,Portland Trail Blazers,98,108,Target Center,12213,/boxscores/201101070MIN.html
+Fri Jan 7 2011,Orlando Magic,Houston Rockets,110,95,Amway Center,19107,/boxscores/201101070ORL.html
+Fri Jan 7 2011,Milwaukee Bucks,Miami Heat,95,101,Bradley Center,18717,/boxscores/201101070MIL.html
+Fri Jan 7 2011,Golden State Warriors,Cleveland Cavaliers,116,98,Oracle Arena,18858,/boxscores/201101070GSW.html
+Fri Jan 7 2011,Los Angeles Lakers,New Orleans Hornets,101,97,STAPLES Center,18997,/boxscores/201101070LAL.html
+Fri Jan 7 2011,Phoenix Suns,New York Knicks,96,121,US Airways Center,17621,/boxscores/201101070PHO.html
+Sat Jan 8 2011,Atlanta Hawks,Indiana Pacers,108,93,Philips Arena,13547,/boxscores/201101080ATL.html
+Sat Jan 8 2011,Charlotte Bobcats,Washington Wizards,104,89,Time Warner Cable Arena,16038,/boxscores/201101080CHA.html
+Sat Jan 8 2011,New Jersey Nets,Milwaukee Bucks,92,115,Prudential Center,12898,/boxscores/201101080NJN.html
+Sat Jan 8 2011,Detroit Pistons,Philadelphia 76ers,112,109,The Palace of Auburn Hills,20038,/boxscores/201101080DET.html
+Sat Jan 8 2011,Chicago Bulls,Boston Celtics,90,79,United Center,22663,/boxscores/201101080CHI.html
+Sat Jan 8 2011,Oklahoma City Thunder,Memphis Grizzlies,109,100,Chesapeake Energy Arena,18203,/boxscores/201101080OKC.html
+Sat Jan 8 2011,Dallas Mavericks,Orlando Magic,107,117,American Airlines Center,20178,/boxscores/201101080DAL.html
+Sat Jan 8 2011,Houston Rockets,Utah Jazz,99,103,Toyota Center,16113,/boxscores/201101080HOU.html
+Sun Jan 9 2011,Toronto Raptors,Sacramento Kings,118,112,Air Canada Centre,17206,/boxscores/201101090TOR.html
+Sun Jan 9 2011,Los Angeles Clippers,Golden State Warriors,105,91,STAPLES Center,17696,/boxscores/201101090LAC.html
+Sun Jan 9 2011,San Antonio Spurs,Minnesota Timberwolves,94,91,AT&T Center,18581,/boxscores/201101090SAS.html
+Sun Jan 9 2011,Phoenix Suns,Cleveland Cavaliers,108,100,US Airways Center,17031,/boxscores/201101090PHO.html
+Sun Jan 9 2011,Denver Nuggets,New Orleans Hornets,87,96,Pepsi Center,16283,/boxscores/201101090DEN.html
+Sun Jan 9 2011,Portland Trail Blazers,Miami Heat,100,107,Rose Garden Arena,20636,/boxscores/201101090POR.html
+Sun Jan 9 2011,Los Angeles Lakers,New York Knicks,109,87,STAPLES Center,18997,/boxscores/201101090LAL.html
+Mon Jan 10 2011,Charlotte Bobcats,Memphis Grizzlies,96,82,Time Warner Cable Arena,10188,/boxscores/201101100CHA.html
+Mon Jan 10 2011,Boston Celtics,Houston Rockets,102,108,TD Garden,18624,/boxscores/201101100BOS.html
+Mon Jan 10 2011,Chicago Bulls,Detroit Pistons,95,82,United Center,21407,/boxscores/201101100CHI.html
+Tue Jan 11 2011,Philadelphia 76ers,Indiana Pacers,103,111,Wells Fargo Center,10890,/boxscores/201101110PHI.html
+Tue Jan 11 2011,Washington Wizards,Sacramento Kings,136,133,Verizon Center,16226,/boxscores/201101110WAS.html
+Tue Jan 11 2011,Minnesota Timberwolves,San Antonio Spurs,96,107,Target Center,11209,/boxscores/201101110MIN.html
+Tue Jan 11 2011,Denver Nuggets,Phoenix Suns,132,98,Pepsi Center,14874,/boxscores/201101110DEN.html
+Tue Jan 11 2011,Portland Trail Blazers,New York Knicks,86,100,Rose Garden Arena,20604,/boxscores/201101110POR.html
+Tue Jan 11 2011,Los Angeles Lakers,Cleveland Cavaliers,112,57,STAPLES Center,18997,/boxscores/201101110LAL.html
+Wed Jan 12 2011,Charlotte Bobcats,Chicago Bulls,96,91,Time Warner Cable Arena,12468,/boxscores/201101120CHA.html
+Wed Jan 12 2011,Indiana Pacers,Dallas Mavericks,102,89,Conseco Fieldhouse,11204,/boxscores/201101120IND.html
+Wed Jan 12 2011,Toronto Raptors,Atlanta Hawks,101,104,Air Canada Centre,14186,/boxscores/201101120TOR.html
+Wed Jan 12 2011,Boston Celtics,Sacramento Kings,119,95,TD Garden,18624,/boxscores/201101120BOS.html
+Wed Jan 12 2011,Detroit Pistons,Memphis Grizzlies,99,107,The Palace of Auburn Hills,13068,/boxscores/201101120DET.html
+Wed Jan 12 2011,Milwaukee Bucks,San Antonio Spurs,84,91,Bradley Center,14061,/boxscores/201101120MIL.html
+Wed Jan 12 2011,New Orleans Hornets,Orlando Magic,92,89,New Orleans Arena,13688,/boxscores/201101120NOH.html
+Wed Jan 12 2011,Houston Rockets,Oklahoma City Thunder,112,118,Toyota Center,16158,/boxscores/201101120HOU.html
+Wed Jan 12 2011,Phoenix Suns,New Jersey Nets,118,109,US Airways Center,16334,/boxscores/201101120PHO.html
+Wed Jan 12 2011,Utah Jazz,New York Knicks,131,125,EnergySolutions Arena,19911,/boxscores/201101120UTA.html
+Wed Jan 12 2011,Golden State Warriors,Los Angeles Lakers,110,115,Oracle Arena,19596,/boxscores/201101120GSW.html
+Wed Jan 12 2011,Los Angeles Clippers,Miami Heat,111,105,STAPLES Center,19803,/boxscores/201101120LAC.html
+Thu Jan 13 2011,Minnesota Timberwolves,Washington Wizards,109,97,Target Center,11437,/boxscores/201101130MIN.html
+Thu Jan 13 2011,Oklahoma City Thunder,Orlando Magic,125,124,Chesapeake Energy Arena,18203,/boxscores/201101130OKC.html
+Thu Jan 13 2011,Denver Nuggets,Miami Heat,130,102,Pepsi Center,19155,/boxscores/201101130DEN.html
+Fri Jan 14 2011,Indiana Pacers,Chicago Bulls,86,99,Conseco Fieldhouse,18165,/boxscores/201101140IND.html
+Fri Jan 14 2011,Philadelphia 76ers,Milwaukee Bucks,95,94,Wells Fargo Center,12650,/boxscores/201101140PHI.html
+Fri Jan 14 2011,Toronto Raptors,Detroit Pistons,95,101,Air Canada Centre,16924,/boxscores/201101140TOR.html
+Fri Jan 14 2011,Boston Celtics,Charlotte Bobcats,99,94,TD Garden,18624,/boxscores/201101140BOS.html
+Fri Jan 14 2011,New York Knicks,Sacramento Kings,83,93,Madison Square Garden (IV),19763,/boxscores/201101140NYK.html
+Fri Jan 14 2011,San Antonio Spurs,Dallas Mavericks,101,89,AT&T Center,18581,/boxscores/201101140SAS.html
+Fri Jan 14 2011,Houston Rockets,New Orleans Hornets,105,110,Toyota Center,13616,/boxscores/201101140HOU.html
+Fri Jan 14 2011,Utah Jazz,Cleveland Cavaliers,121,99,EnergySolutions Arena,19911,/boxscores/201101140UTA.html
+Fri Jan 14 2011,Golden State Warriors,Los Angeles Clippers,122,112,Oracle Arena,19273,/boxscores/201101140GSW.html
+Fri Jan 14 2011,Los Angeles Lakers,New Jersey Nets,100,88,STAPLES Center,18997,/boxscores/201101140LAL.html
+Fri Jan 14 2011,Phoenix Suns,Portland Trail Blazers,115,111,US Airways Center,17412,/boxscores/201101140PHO.html
+Sat Jan 15 2011,Atlanta Hawks,Houston Rockets,106,112,Philips Arena,13420,/boxscores/201101150ATL.html
+Sat Jan 15 2011,Charlotte Bobcats,New Orleans Hornets,81,88,Time Warner Cable Arena,17486,/boxscores/201101150CHA.html
+Sat Jan 15 2011,Washington Wizards,Toronto Raptors,98,95,Verizon Center,14652,/boxscores/201101150WAS.html
+Sat Jan 15 2011,Detroit Pistons,Sacramento Kings,110,106,The Palace of Auburn Hills,18784,/boxscores/201101150DET.html
+Sat Jan 15 2011,Chicago Bulls,Miami Heat,99,96,United Center,23017,/boxscores/201101150CHI.html
+Sat Jan 15 2011,Memphis Grizzlies,Dallas Mavericks,89,70,FedEx Forum,15812,/boxscores/201101150MEM.html
+Sat Jan 15 2011,Minnesota Timberwolves,Orlando Magic,99,108,Target Center,17391,/boxscores/201101150MIN.html
+Sat Jan 15 2011,Denver Nuggets,Cleveland Cavaliers,127,99,Pepsi Center,17668,/boxscores/201101150DEN.html
+Sat Jan 15 2011,Portland Trail Blazers,New Jersey Nets,96,89,Rose Garden Arena,20441,/boxscores/201101150POR.html
+Sun Jan 16 2011,Los Angeles Clippers,Los Angeles Lakers,99,92,STAPLES Center,19905,/boxscores/201101160LAC.html
+Sun Jan 16 2011,San Antonio Spurs,Denver Nuggets,110,97,AT&T Center,18581,/boxscores/201101160SAS.html
+Mon Jan 17 2011,Memphis Grizzlies,Chicago Bulls,84,96,FedEx Forum,18119,/boxscores/201101170MEM.html
+Mon Jan 17 2011,New York Knicks,Phoenix Suns,121,129,Madison Square Garden (IV),19763,/boxscores/201101170NYK.html
+Mon Jan 17 2011,Washington Wizards,Utah Jazz,108,101,Verizon Center,14925,/boxscores/201101170WAS.html
+Mon Jan 17 2011,Philadelphia 76ers,Charlotte Bobcats,96,92,Wells Fargo Center,13508,/boxscores/201101170PHI.html
+Mon Jan 17 2011,Houston Rockets,Milwaukee Bucks,93,84,Toyota Center,16186,/boxscores/201101170HOU.html
+Mon Jan 17 2011,New Orleans Hornets,Toronto Raptors,85,81,New Orleans Arena,15155,/boxscores/201101170NOH.html
+Mon Jan 17 2011,Detroit Pistons,Dallas Mavericks,103,89,The Palace of Auburn Hills,12660,/boxscores/201101170DET.html
+Mon Jan 17 2011,Los Angeles Clippers,Indiana Pacers,114,107,STAPLES Center,15863,/boxscores/201101170LAC.html
+Mon Jan 17 2011,Atlanta Hawks,Sacramento Kings,100,98,Philips Arena,14820,/boxscores/201101170ATL.html
+Mon Jan 17 2011,Golden State Warriors,New Jersey Nets,109,100,Oracle Arena,18563,/boxscores/201101170GSW.html
+Mon Jan 17 2011,Boston Celtics,Orlando Magic,109,106,TD Garden,18624,/boxscores/201101170BOS.html
+Mon Jan 17 2011,Portland Trail Blazers,Minnesota Timberwolves,113,102,Rose Garden Arena,20239,/boxscores/201101170POR.html
+Mon Jan 17 2011,Los Angeles Lakers,Oklahoma City Thunder,101,94,STAPLES Center,18997,/boxscores/201101170LAL.html
+Tue Jan 18 2011,Miami Heat,Atlanta Hawks,89,93,AmericanAirlines Arena,19600,/boxscores/201101180MIA.html
+Tue Jan 18 2011,Chicago Bulls,Charlotte Bobcats,82,83,United Center,21263,/boxscores/201101180CHI.html
+Wed Jan 19 2011,Cleveland Cavaliers,Phoenix Suns,98,106,Quicken Loans Arena,20562,/boxscores/201101190CLE.html
+Wed Jan 19 2011,New Jersey Nets,Utah Jazz,103,95,Prudential Center,13251,/boxscores/201101190NJN.html
+Wed Jan 19 2011,Orlando Magic,Philadelphia 76ers,99,98,Amway Center,18846,/boxscores/201101190ORL.html
+Wed Jan 19 2011,Boston Celtics,Detroit Pistons,86,82,TD Garden,18624,/boxscores/201101190BOS.html
+Wed Jan 19 2011,Milwaukee Bucks,Washington Wizards,100,87,Bradley Center,14007,/boxscores/201101190MIL.html
+Wed Jan 19 2011,New Orleans Hornets,Memphis Grizzlies,103,102,New Orleans Arena,15951,/boxscores/201101190NOH.html
+Wed Jan 19 2011,Houston Rockets,New York Knicks,104,89,Toyota Center,15903,/boxscores/201101190HOU.html
+Wed Jan 19 2011,San Antonio Spurs,Toronto Raptors,104,95,AT&T Center,18581,/boxscores/201101190SAS.html
+Wed Jan 19 2011,Dallas Mavericks,Los Angeles Lakers,109,100,American Airlines Center,20365,/boxscores/201101190DAL.html
+Wed Jan 19 2011,Denver Nuggets,Oklahoma City Thunder,112,107,Pepsi Center,16872,/boxscores/201101190DEN.html
+Wed Jan 19 2011,Sacramento Kings,Portland Trail Blazers,90,94,Power Balance Pavilion,12722,/boxscores/201101190SAC.html
+Wed Jan 19 2011,Golden State Warriors,Indiana Pacers,110,108,Oracle Arena,18185,/boxscores/201101190GSW.html
+Wed Jan 19 2011,Los Angeles Clippers,Minnesota Timberwolves,126,111,STAPLES Center,17793,/boxscores/201101190LAC.html
+Thu Jan 20 2011,Charlotte Bobcats,Philadelphia 76ers,100,97,Time Warner Cable Arena,14326,/boxscores/201101200CHA.html
+Thu Jan 20 2011,Chicago Bulls,Dallas Mavericks,82,77,United Center,21397,/boxscores/201101200CHI.html
+Thu Jan 20 2011,Portland Trail Blazers,Los Angeles Clippers,108,93,Rose Garden Arena,20630,/boxscores/201101200POR.html
+Fri Jan 21 2011,New Jersey Nets,Detroit Pistons,89,74,Prudential Center,13316,/boxscores/201101210NJN.html
+Fri Jan 21 2011,Orlando Magic,Toronto Raptors,112,72,Amway Center,19047,/boxscores/201101210ORL.html
+Fri Jan 21 2011,Washington Wizards,Phoenix Suns,91,109,Verizon Center,15716,/boxscores/201101210WAS.html
+Fri Jan 21 2011,Atlanta Hawks,New Orleans Hornets,59,100,Philips Arena,14875,/boxscores/201101210ATL.html
+Fri Jan 21 2011,Boston Celtics,Utah Jazz,110,86,TD Garden,18624,/boxscores/201101210BOS.html
+Fri Jan 21 2011,Cleveland Cavaliers,Milwaukee Bucks,88,102,Quicken Loans Arena,20562,/boxscores/201101210CLE.html
+Fri Jan 21 2011,Memphis Grizzlies,Houston Rockets,115,110,FedEx Forum,13458,/boxscores/201101210MEM.html
+Fri Jan 21 2011,San Antonio Spurs,New York Knicks,101,92,AT&T Center,18581,/boxscores/201101210SAS.html
+Fri Jan 21 2011,Denver Nuggets,Los Angeles Lakers,97,107,Pepsi Center,19155,/boxscores/201101210DEN.html
+Fri Jan 21 2011,Golden State Warriors,Sacramento Kings,119,112,Oracle Arena,18428,/boxscores/201101210GSW.html
+Sat Jan 22 2011,Charlotte Bobcats,Atlanta Hawks,87,103,Time Warner Cable Arena,17286,/boxscores/201101220CHA.html
+Sat Jan 22 2011,New Jersey Nets,Dallas Mavericks,86,87,Prudential Center,14051,/boxscores/201101220NJN.html
+Sat Jan 22 2011,Washington Wizards,Boston Celtics,85,83,Verizon Center,20278,/boxscores/201101220WAS.html
+Sat Jan 22 2011,Detroit Pistons,Phoenix Suns,75,74,The Palace of Auburn Hills,21326,/boxscores/201101220DET.html
+Sat Jan 22 2011,Miami Heat,Toronto Raptors,120,103,AmericanAirlines Arena,20025,/boxscores/201101220MIA.html
+Sat Jan 22 2011,Philadelphia 76ers,Utah Jazz,96,85,Wells Fargo Center,14036,/boxscores/201101220PHI.html
+Sat Jan 22 2011,Chicago Bulls,Cleveland Cavaliers,92,79,United Center,21389,/boxscores/201101220CHI.html
+Sat Jan 22 2011,New Orleans Hornets,San Antonio Spurs,96,72,New Orleans Arena,18023,/boxscores/201101220NOH.html
+Sat Jan 22 2011,Oklahoma City Thunder,New York Knicks,101,98,Chesapeake Energy Arena,18203,/boxscores/201101220OKC.html
+Sat Jan 22 2011,Houston Rockets,Orlando Magic,104,118,Toyota Center,18052,/boxscores/201101220HOU.html
+Sat Jan 22 2011,Milwaukee Bucks,Memphis Grizzlies,81,94,Bradley Center,16157,/boxscores/201101220MIL.html
+Sat Jan 22 2011,Portland Trail Blazers,Indiana Pacers,97,92,Rose Garden Arena,20563,/boxscores/201101220POR.html
+Sat Jan 22 2011,Los Angeles Clippers,Golden State Warriors,113,109,STAPLES Center,19373,/boxscores/201101220LAC.html
+Sun Jan 23 2011,Denver Nuggets,Indiana Pacers,121,107,Pepsi Center,17047,/boxscores/201101230DEN.html
+Mon Jan 24 2011,New Jersey Nets,Cleveland Cavaliers,103,101,Prudential Center,10197,/boxscores/201101240NJN.html
+Mon Jan 24 2011,Orlando Magic,Detroit Pistons,96,103,Amway Center,19098,/boxscores/201101240ORL.html
+Mon Jan 24 2011,Philadelphia 76ers,Phoenix Suns,105,95,Wells Fargo Center,14881,/boxscores/201101240PHI.html
+Mon Jan 24 2011,Toronto Raptors,Memphis Grizzlies,98,100,Air Canada Centre,14127,/boxscores/201101240TOR.html
+Mon Jan 24 2011,New York Knicks,Washington Wizards,115,106,Madison Square Garden (IV),19763,/boxscores/201101240NYK.html
+Mon Jan 24 2011,Chicago Bulls,Milwaukee Bucks,92,83,United Center,21126,/boxscores/201101240CHI.html
+Mon Jan 24 2011,Minnesota Timberwolves,Houston Rockets,125,129,Target Center,11983,/boxscores/201101240MIN.html
+Mon Jan 24 2011,New Orleans Hornets,Oklahoma City Thunder,91,89,New Orleans Arena,17233,/boxscores/201101240NOH.html
+Mon Jan 24 2011,Portland Trail Blazers,Sacramento Kings,81,96,Rose Garden Arena,20488,/boxscores/201101240POR.html
+Mon Jan 24 2011,Golden State Warriors,San Antonio Spurs,102,113,Oracle Arena,18523,/boxscores/201101240GSW.html
+Tue Jan 25 2011,Washington Wizards,Denver Nuggets,109,120,Verizon Center,16121,/boxscores/201101250WAS.html
+Tue Jan 25 2011,Boston Celtics,Cleveland Cavaliers,112,95,TD Garden,18624,/boxscores/201101250BOS.html
+Tue Jan 25 2011,Dallas Mavericks,Los Angeles Clippers,112,105,American Airlines Center,20335,/boxscores/201101250DAL.html
+Tue Jan 25 2011,Sacramento Kings,Charlotte Bobcats,89,94,Power Balance Pavilion,13984,/boxscores/201101250SAC.html
+Tue Jan 25 2011,Los Angeles Lakers,Utah Jazz,120,91,STAPLES Center,18997,/boxscores/201101250LAL.html
+Wed Jan 26 2011,Indiana Pacers,Orlando Magic,96,111,Conseco Fieldhouse,12164,/boxscores/201101260IND.html
+Wed Jan 26 2011,New Jersey Nets,Memphis Grizzlies,93,88,Prudential Center,8866,/boxscores/201101260NJN.html
+Wed Jan 26 2011,Toronto Raptors,Philadelphia 76ers,94,107,Air Canada Centre,14552,/boxscores/201101260TOR.html
+Wed Jan 26 2011,Detroit Pistons,Denver Nuggets,100,109,The Palace of Auburn Hills,16212,/boxscores/201101260DET.html
+Wed Jan 26 2011,Milwaukee Bucks,Atlanta Hawks,98,90,Bradley Center,13274,/boxscores/201101260MIL.html
+Wed Jan 26 2011,Minnesota Timberwolves,Oklahoma City Thunder,117,118,Target Center,14979,/boxscores/201101260MIN.html
+Wed Jan 26 2011,Houston Rockets,Los Angeles Clippers,96,83,Toyota Center,18147,/boxscores/201101260HOU.html
+Wed Jan 26 2011,Phoenix Suns,Charlotte Bobcats,107,114,US Airways Center,16986,/boxscores/201101260PHO.html
+Wed Jan 26 2011,Utah Jazz,San Antonio Spurs,105,112,EnergySolutions Arena,19911,/boxscores/201101260UTA.html
+Wed Jan 26 2011,Golden State Warriors,New Orleans Hornets,103,112,Oracle Arena,18108,/boxscores/201101260GSW.html
+Thu Jan 27 2011,New York Knicks,Miami Heat,93,88,Madison Square Garden (IV),19763,/boxscores/201101270NYK.html
+Thu Jan 27 2011,Dallas Mavericks,Houston Rockets,111,106,American Airlines Center,20088,/boxscores/201101270DAL.html
+Thu Jan 27 2011,Portland Trail Blazers,Boston Celtics,78,88,Rose Garden Arena,20706,/boxscores/201101270POR.html
+Fri Jan 28 2011,Indiana Pacers,New Jersey Nets,124,92,Conseco Fieldhouse,11337,/boxscores/201101280IND.html
+Fri Jan 28 2011,Philadelphia 76ers,Memphis Grizzlies,94,99,Wells Fargo Center,14289,/boxscores/201101280PHI.html
+Fri Jan 28 2011,Toronto Raptors,Milwaukee Bucks,110,116,Air Canada Centre,15159,/boxscores/201101280TOR.html
+Fri Jan 28 2011,Atlanta Hawks,New York Knicks,111,102,Philips Arena,19069,/boxscores/201101280ATL.html
+Fri Jan 28 2011,Cleveland Cavaliers,Denver Nuggets,103,117,Quicken Loans Arena,19642,/boxscores/201101280CLE.html
+Fri Jan 28 2011,Miami Heat,Detroit Pistons,88,87,AmericanAirlines Arena,19805,/boxscores/201101280MIA.html
+Fri Jan 28 2011,Chicago Bulls,Orlando Magic,99,90,United Center,21676,/boxscores/201101280CHI.html
+Fri Jan 28 2011,Oklahoma City Thunder,Washington Wizards,124,117,Chesapeake Energy Arena,18203,/boxscores/201101280OKC.html
+Fri Jan 28 2011,Utah Jazz,Minnesota Timberwolves,108,100,EnergySolutions Arena,19911,/boxscores/201101280UTA.html
+Fri Jan 28 2011,Golden State Warriors,Charlotte Bobcats,113,121,Oracle Arena,18407,/boxscores/201101280GSW.html
+Fri Jan 28 2011,Los Angeles Lakers,Sacramento Kings,95,100,STAPLES Center,18997,/boxscores/201101280LAL.html
+Fri Jan 28 2011,Phoenix Suns,Boston Celtics,88,71,US Airways Center,18422,/boxscores/201101280PHO.html
+Sat Jan 29 2011,Chicago Bulls,Indiana Pacers,110,89,United Center,21611,/boxscores/201101290CHI.html
+Sat Jan 29 2011,Memphis Grizzlies,Washington Wizards,107,93,FedEx Forum,14722,/boxscores/201101290MEM.html
+Sat Jan 29 2011,Minnesota Timberwolves,Toronto Raptors,103,87,Target Center,14991,/boxscores/201101290MIN.html
+Sat Jan 29 2011,Dallas Mavericks,Atlanta Hawks,102,91,American Airlines Center,20309,/boxscores/201101290DAL.html
+Sat Jan 29 2011,Milwaukee Bucks,New Jersey Nets,91,81,Bradley Center,17173,/boxscores/201101290MIL.html
+Sat Jan 29 2011,San Antonio Spurs,Houston Rockets,108,95,AT&T Center,18581,/boxscores/201101290SAS.html
+Sat Jan 29 2011,Sacramento Kings,New Orleans Hornets,102,96,Power Balance Pavilion,14534,/boxscores/201101290SAC.html
+Sat Jan 29 2011,Los Angeles Clippers,Charlotte Bobcats,103,88,STAPLES Center,18332,/boxscores/201101290LAC.html
+Sun Jan 30 2011,Oklahoma City Thunder,Miami Heat,103,108,Chesapeake Energy Arena,18203,/boxscores/201101300OKC.html
+Sun Jan 30 2011,Los Angeles Lakers,Boston Celtics,96,109,STAPLES Center,18997,/boxscores/201101300LAL.html
+Sun Jan 30 2011,Orlando Magic,Cleveland Cavaliers,103,87,Amway Center,18846,/boxscores/201101300ORL.html
+Sun Jan 30 2011,Philadelphia 76ers,Denver Nuggets,110,99,Wells Fargo Center,15612,/boxscores/201101300PHI.html
+Sun Jan 30 2011,New York Knicks,Detroit Pistons,124,106,Madison Square Garden (IV),19763,/boxscores/201101300NYK.html
+Sun Jan 30 2011,Phoenix Suns,New Orleans Hornets,104,102,US Airways Center,17921,/boxscores/201101300PHO.html
+Sun Jan 30 2011,Golden State Warriors,Utah Jazz,96,81,Oracle Arena,18187,/boxscores/201101300GSW.html
+Mon Jan 31 2011,Indiana Pacers,Toronto Raptors,104,93,Conseco Fieldhouse,10258,/boxscores/201101310IND.html
+Mon Jan 31 2011,New Jersey Nets,Denver Nuggets,115,99,Prudential Center,14039,/boxscores/201101310NJN.html
+Mon Jan 31 2011,Miami Heat,Cleveland Cavaliers,117,90,AmericanAirlines Arena,19600,/boxscores/201101310MIA.html
+Mon Jan 31 2011,Memphis Grizzlies,Orlando Magic,100,97,FedEx Forum,13513,/boxscores/201101310MEM.html
+Mon Jan 31 2011,Dallas Mavericks,Washington Wizards,102,92,American Airlines Center,19724,/boxscores/201101310DAL.html
+Mon Jan 31 2011,Utah Jazz,Charlotte Bobcats,83,78,EnergySolutions Arena,19499,/boxscores/201101310UTA.html
+Mon Jan 31 2011,Los Angeles Clippers,Milwaukee Bucks,105,98,STAPLES Center,17218,/boxscores/201101310LAC.html

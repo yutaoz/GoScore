@@ -1,0 +1,120 @@
+Fri Oct 10 1980,Boston Celtics,Cleveland Cavaliers,130,103,Boston Garden,15320,/boxscores/198010100BOS.html
+Fri Oct 10 1980,Denver Nuggets,San Antonio Spurs,112,113,McNichols Sports Arena,10027,/boxscores/198010100DEN.html
+Fri Oct 10 1980,Detroit Pistons,Washington Bullets,85,95,Pontiac Silverdome,9129,/boxscores/198010100DET.html
+Fri Oct 10 1980,New Jersey Nets,Indiana Pacers,91,110,Rutgers Athletic Center,6661,/boxscores/198010100NJN.html
+Fri Oct 10 1980,Philadelphia 76ers,Milwaukee Bucks,103,106,The Spectrum,15136,/boxscores/198010100PHI.html
+Fri Oct 10 1980,Phoenix Suns,Golden State Warriors,121,101,Arizona Veterans Memorial Coliseum,11590,/boxscores/198010100PHO.html
+Fri Oct 10 1980,San Diego Clippers,Houston Rockets,120,104,San Diego Sports Arena,5623,/boxscores/198010100SDC.html
+Fri Oct 10 1980,Seattle SuperSonics,Los Angeles Lakers,98,99,Seattle Kingdome,35233,/boxscores/198010100SEA.html
+Fri Oct 10 1980,Utah Jazz,Portland Trail Blazers,96,86,Salt Palace,8150,/boxscores/198010100UTA.html
+Sat Oct 11 1980,Atlanta Hawks,Chicago Bulls,101,93,Omni Coliseum,11275,/boxscores/198010110ATL.html
+Sat Oct 11 1980,Cleveland Cavaliers,New Jersey Nets,96,99,Coliseum at Richfield,5731,/boxscores/198010110CLE.html
+Sat Oct 11 1980,Dallas Mavericks,San Antonio Spurs,103,92,Reunion Arena,10373,/boxscores/198010110DAL.html
+Sat Oct 11 1980,Golden State Warriors,San Diego Clippers,104,91,Oakland-Alameda County Coliseum Arena,8024,/boxscores/198010110GSW.html
+Sat Oct 11 1980,Indiana Pacers,Detroit Pistons,100,87,Market Square Arena,9756,/boxscores/198010110IND.html
+Sat Oct 11 1980,Kansas City Kings,Utah Jazz,98,91,Kemper Arena,7342,/boxscores/198010110KCK.html
+Sat Oct 11 1980,New York Knicks,Milwaukee Bucks,114,109,Madison Square Garden (IV),17229,/boxscores/198010110NYK.html
+Sat Oct 11 1980,Washington Bullets,Philadelphia 76ers,120,126,Capital Centre,16208,/boxscores/198010110WSB.html
+Sun Oct 12 1980,Denver Nuggets,Utah Jazz,121,125,McNichols Sports Arena,8401,/boxscores/198010120DEN.html
+Sun Oct 12 1980,Los Angeles Lakers,Houston Rockets,114,103,The Forum,11142,/boxscores/198010120LAL.html
+Sun Oct 12 1980,Phoenix Suns,Kansas City Kings,109,100,Arizona Veterans Memorial Coliseum,10131,/boxscores/198010120PHO.html
+Sun Oct 12 1980,Portland Trail Blazers,Seattle SuperSonics,107,96,Memorial Coliseum,12666,/boxscores/198010120POR.html
+Mon Oct 13 1980,New Jersey Nets,Detroit Pistons,108,92,Rutgers Athletic Center,5307,/boxscores/198010130NJN.html
+Tue Oct 14 1980,Atlanta Hawks,Boston Celtics,122,116,Omni Coliseum,8091,/boxscores/198010140ATL.html
+Tue Oct 14 1980,Cleveland Cavaliers,Detroit Pistons,99,91,Coliseum at Richfield,4071,/boxscores/198010140CLE.html
+Tue Oct 14 1980,Dallas Mavericks,Seattle SuperSonics,83,85,Reunion Arena,7004,/boxscores/198010140DAL.html
+Tue Oct 14 1980,New York Knicks,Philadelphia 76ers,113,93,Madison Square Garden (IV),13514,/boxscores/198010140NYK.html
+Tue Oct 14 1980,San Antonio Spurs,Kansas City Kings,109,103,HemisFair Arena,9876,/boxscores/198010140SAS.html
+Wed Oct 15 1980,Denver Nuggets,Dallas Mavericks,133,98,McNichols Sports Arena,6658,/boxscores/198010150DEN.html
+Wed Oct 15 1980,Golden State Warriors,Portland Trail Blazers,95,92,Oakland-Alameda County Coliseum Arena,6855,/boxscores/198010150GSW.html
+Wed Oct 15 1980,Houston Rockets,Seattle SuperSonics,103,100,The Summit,6127,/boxscores/198010150HOU.html
+Wed Oct 15 1980,Indiana Pacers,Chicago Bulls,97,108,Market Square Arena,6909,/boxscores/198010150IND.html
+Wed Oct 15 1980,Kansas City Kings,Los Angeles Lakers,107,112,Kemper Arena,5753,/boxscores/198010150KCK.html
+Wed Oct 15 1980,New Jersey Nets,Philadelphia 76ers,111,119,Rutgers Athletic Center,6127,/boxscores/198010150NJN.html
+Wed Oct 15 1980,Utah Jazz,Phoenix Suns,93,107,Salt Palace,6300,/boxscores/198010150UTA.html
+Thu Oct 16 1980,Cleveland Cavaliers,Washington Bullets,90,88,Coliseum at Richfield,4046,/boxscores/198010160CLE.html
+Thu Oct 16 1980,Detroit Pistons,San Antonio Spurs,99,102,Pontiac Silverdome,4569,/boxscores/198010160DET.html
+Thu Oct 16 1980,Milwaukee Bucks,Boston Celtics,103,110,MECCA Arena,11052,/boxscores/198010160MIL.html
+Fri Oct 17 1980,Atlanta Hawks,New York Knicks,113,101,Omni Coliseum,9496,/boxscores/198010170ATL.html
+Fri Oct 17 1980,Chicago Bulls,Cleveland Cavaliers,98,79,Chicago Stadium,8336,/boxscores/198010170CHI.html
+Fri Oct 17 1980,Dallas Mavericks,Kansas City Kings,91,103,Reunion Arena,7017,/boxscores/198010170DAL.html
+Fri Oct 17 1980,Los Angeles Lakers,Phoenix Suns,116,109,The Forum,10411,/boxscores/198010170LAL.html
+Fri Oct 17 1980,Portland Trail Blazers,Houston Rockets,99,102,Memorial Coliseum,12666,/boxscores/198010170POR.html
+Fri Oct 17 1980,San Diego Clippers,Denver Nuggets,116,129,San Diego Sports Arena,4032,/boxscores/198010170SDC.html
+Fri Oct 17 1980,Washington Bullets,New Jersey Nets,112,114,Capital Centre,6711,/boxscores/198010170WSB.html
+Sat Oct 18 1980,Chicago Bulls,New Jersey Nets,90,107,Chicago Stadium,8539,/boxscores/198010180CHI.html
+Sat Oct 18 1980,Cleveland Cavaliers,Milwaukee Bucks,105,107,Coliseum at Richfield,5103,/boxscores/198010180CLE.html
+Sat Oct 18 1980,Detroit Pistons,Atlanta Hawks,123,125,Pontiac Silverdome,4036,/boxscores/198010180DET.html
+Sat Oct 18 1980,Golden State Warriors,Houston Rockets,108,101,Oakland-Alameda County Coliseum Arena,7696,/boxscores/198010180GSW.html
+Sat Oct 18 1980,Indiana Pacers,Boston Celtics,103,99,Market Square Arena,11713,/boxscores/198010180IND.html
+Sat Oct 18 1980,Kansas City Kings,Seattle SuperSonics,122,127,Kemper Arena,6214,/boxscores/198010180KCK.html
+Sat Oct 18 1980,Philadelphia 76ers,Washington Bullets,117,101,The Spectrum,8120,/boxscores/198010180PHI.html
+Sat Oct 18 1980,San Antonio Spurs,Dallas Mavericks,110,96,HemisFair Arena,9542,/boxscores/198010180SAS.html
+Sat Oct 18 1980,Utah Jazz,Denver Nuggets,117,115,Salt Palace,7250,/boxscores/198010180UTA.html
+Sun Oct 19 1980,Los Angeles Lakers,Golden State Warriors,125,107,The Forum,10644,/boxscores/198010190LAL.html
+Sun Oct 19 1980,Milwaukee Bucks,New Jersey Nets,105,93,MECCA Arena,9514,/boxscores/198010190MIL.html
+Sun Oct 19 1980,San Diego Clippers,Phoenix Suns,84,102,San Diego Sports Arena,4022,/boxscores/198010190SDC.html
+Mon Oct 20 1980,Utah Jazz,Seattle SuperSonics,92,98,Salt Palace,6633,/boxscores/198010200UTA.html
+Tue Oct 21 1980,Atlanta Hawks,Indiana Pacers,116,121,Omni Coliseum,6582,/boxscores/198010210ATL.html
+Tue Oct 21 1980,Denver Nuggets,Houston Rockets,117,119,McNichols Sports Arena,7711,/boxscores/198010210DEN.html
+Tue Oct 21 1980,Kansas City Kings,Golden State Warriors,111,116,Kemper Arena,5097,/boxscores/198010210KCK.html
+Tue Oct 21 1980,Milwaukee Bucks,Cleveland Cavaliers,115,95,MECCA Arena,8615,/boxscores/198010210MIL.html
+Tue Oct 21 1980,New York Knicks,Chicago Bulls,105,97,Madison Square Garden (IV),15756,/boxscores/198010210NYK.html
+Tue Oct 21 1980,Phoenix Suns,Dallas Mavericks,111,99,Arizona Veterans Memorial Coliseum,10507,/boxscores/198010210PHO.html
+Tue Oct 21 1980,Portland Trail Blazers,Los Angeles Lakers,107,103,Memorial Coliseum,12666,/boxscores/198010210POR.html
+Tue Oct 21 1980,San Antonio Spurs,San Diego Clippers,123,120,HemisFair Arena,7821,/boxscores/198010210SAS.html
+Wed Oct 22 1980,Detroit Pistons,Philadelphia 76ers,93,94,Pontiac Silverdome,5279,/boxscores/198010220DET.html
+Wed Oct 22 1980,Indiana Pacers,Milwaukee Bucks,105,119,Market Square Arena,7138,/boxscores/198010220IND.html
+Wed Oct 22 1980,New Jersey Nets,Boston Celtics,104,108,Rutgers Athletic Center,6626,/boxscores/198010220NJN.html
+Wed Oct 22 1980,Seattle SuperSonics,Dallas Mavericks,102,107,Seattle Kingdome,14125,/boxscores/198010220SEA.html
+Wed Oct 22 1980,Washington Bullets,Cleveland Cavaliers,109,96,Capital Centre,5118,/boxscores/198010220WSB.html
+Thu Oct 23 1980,Boston Celtics,New York Knicks,107,109,Hartford Civic Center,12941,/boxscores/198010230BOS.html
+Thu Oct 23 1980,Houston Rockets,Kansas City Kings,96,105,The Summit,7227,/boxscores/198010230HOU.html
+Thu Oct 23 1980,San Antonio Spurs,Golden State Warriors,128,109,HemisFair Arena,11531,/boxscores/198010230SAS.html
+Fri Oct 24 1980,Chicago Bulls,Washington Bullets,104,96,Chicago Stadium,8437,/boxscores/198010240CHI.html
+Fri Oct 24 1980,Denver Nuggets,Phoenix Suns,94,117,McNichols Sports Arena,8359,/boxscores/198010240DEN.html
+Fri Oct 24 1980,Indiana Pacers,Atlanta Hawks,104,97,Market Square Arena,7168,/boxscores/198010240IND.html
+Fri Oct 24 1980,Los Angeles Lakers,Seattle SuperSonics,104,98,The Forum,12201,/boxscores/198010240LAL.html
+Fri Oct 24 1980,New Jersey Nets,Cleveland Cavaliers,112,126,Rutgers Athletic Center,6177,/boxscores/198010240NJN.html
+Fri Oct 24 1980,Portland Trail Blazers,Dallas Mavericks,120,105,Memorial Coliseum,12666,/boxscores/198010240POR.html
+Fri Oct 24 1980,San Diego Clippers,Utah Jazz,103,100,San Diego Sports Arena,5005,/boxscores/198010240SDC.html
+Sat Oct 25 1980,Atlanta Hawks,Philadelphia 76ers,100,113,Omni Coliseum,13593,/boxscores/198010250ATL.html
+Sat Oct 25 1980,Cleveland Cavaliers,Indiana Pacers,118,100,Coliseum at Richfield,4811,/boxscores/198010250CLE.html
+Sat Oct 25 1980,Golden State Warriors,Dallas Mavericks,86,79,Oakland-Alameda County Coliseum Arena,6570,/boxscores/198010250GSW.html
+Sat Oct 25 1980,Houston Rockets,Detroit Pistons,109,112,The Summit,6595,/boxscores/198010250HOU.html
+Sat Oct 25 1980,Kansas City Kings,Denver Nuggets,125,122,Kemper Arena,6988,/boxscores/198010250KCK.html
+Sat Oct 25 1980,Milwaukee Bucks,Chicago Bulls,109,93,MECCA Arena,11052,/boxscores/198010250MIL.html
+Sat Oct 25 1980,New York Knicks,New Jersey Nets,105,101,Madison Square Garden (IV),16198,/boxscores/198010250NYK.html
+Sat Oct 25 1980,San Diego Clippers,San Antonio Spurs,98,116,San Diego Sports Arena,4613,/boxscores/198010250SDC.html
+Sat Oct 25 1980,Seattle SuperSonics,Phoenix Suns,75,100,Seattle Kingdome,16715,/boxscores/198010250SEA.html
+Sat Oct 25 1980,Utah Jazz,Los Angeles Lakers,99,127,Salt Palace,12058,/boxscores/198010250UTA.html
+Sat Oct 25 1980,Washington Bullets,Boston Celtics,87,103,Capital Centre,10628,/boxscores/198010250WSB.html
+Sun Oct 26 1980,Los Angeles Lakers,San Antonio Spurs,102,108,The Forum,11906,/boxscores/198010260LAL.html
+Sun Oct 26 1980,Milwaukee Bucks,Washington Bullets,111,88,MECCA Arena,11052,/boxscores/198010260MIL.html
+Sun Oct 26 1980,Seattle SuperSonics,Portland Trail Blazers,111,98,Seattle Kingdome,12027,/boxscores/198010260SEA.html
+Tue Oct 28 1980,Atlanta Hawks,Kansas City Kings,119,109,Omni Coliseum,6786,/boxscores/198010280ATL.html
+Tue Oct 28 1980,Chicago Bulls,Milwaukee Bucks,99,106,Chicago Stadium,7828,/boxscores/198010280CHI.html
+Tue Oct 28 1980,Cleveland Cavaliers,Philadelphia 76ers,101,119,Coliseum at Richfield,6153,/boxscores/198010280CLE.html
+Tue Oct 28 1980,Dallas Mavericks,Utah Jazz,96,104,Reunion Arena,5720,/boxscores/198010280DAL.html
+Tue Oct 28 1980,San Antonio Spurs,Portland Trail Blazers,120,112,HemisFair Arena,9702,/boxscores/198010280SAS.html
+Tue Oct 28 1980,San Diego Clippers,Los Angeles Lakers,101,131,San Diego Sports Arena,8663,/boxscores/198010280SDC.html
+Tue Oct 28 1980,Seattle SuperSonics,Golden State Warriors,119,102,Seattle Kingdome,12221,/boxscores/198010280SEA.html
+Wed Oct 29 1980,Detroit Pistons,Boston Celtics,85,103,Pontiac Silverdome,5349,/boxscores/198010290DET.html
+Wed Oct 29 1980,Golden State Warriors,Denver Nuggets,115,109,Oakland-Alameda County Coliseum Arena,7305,/boxscores/198010290GSW.html
+Wed Oct 29 1980,Houston Rockets,Dallas Mavericks,109,103,The Summit,6123,/boxscores/198010290HOU.html
+Wed Oct 29 1980,Indiana Pacers,New York Knicks,102,95,Market Square Arena,7630,/boxscores/198010290IND.html
+Wed Oct 29 1980,Kansas City Kings,Portland Trail Blazers,115,98,Kemper Arena,6648,/boxscores/198010290KCK.html
+Wed Oct 29 1980,New Jersey Nets,Milwaukee Bucks,116,132,Rutgers Athletic Center,6060,/boxscores/198010290NJN.html
+Wed Oct 29 1980,Philadelphia 76ers,Chicago Bulls,115,102,The Spectrum,6145,/boxscores/198010290PHI.html
+Wed Oct 29 1980,Phoenix Suns,San Diego Clippers,105,89,Arizona Veterans Memorial Coliseum,11174,/boxscores/198010290PHO.html
+Wed Oct 29 1980,Utah Jazz,San Antonio Spurs,109,96,Salt Palace,5047,/boxscores/198010290UTA.html
+Thu Oct 30 1980,New York Knicks,Atlanta Hawks,116,115,Madison Square Garden (IV),13057,/boxscores/198010300NYK.html
+Fri Oct 31 1980,Boston Celtics,Kansas City Kings,115,110,Boston Garden,14035,/boxscores/198010310BOS.html
+Fri Oct 31 1980,Chicago Bulls,Indiana Pacers,114,121,Chicago Stadium,5127,/boxscores/198010310CHI.html
+Fri Oct 31 1980,Detroit Pistons,Phoenix Suns,98,103,Pontiac Silverdome,3619,/boxscores/198010310DET.html
+Fri Oct 31 1980,Los Angeles Lakers,Cleveland Cavaliers,107,98,The Forum,9728,/boxscores/198010310LAL.html
+Fri Oct 31 1980,New Jersey Nets,Washington Bullets,100,98,Rutgers Athletic Center,6183,/boxscores/198010310NJN.html
+Fri Oct 31 1980,Philadelphia 76ers,Atlanta Hawks,107,96,The Spectrum,7990,/boxscores/198010310PHI.html
+Fri Oct 31 1980,San Diego Clippers,Golden State Warriors,120,104,San Diego Sports Arena,4030,/boxscores/198010310SDC.html
+Fri Oct 31 1980,Seattle SuperSonics,San Antonio Spurs,96,112,Seattle Kingdome,12368,/boxscores/198010310SEA.html
+Fri Oct 31 1980,Utah Jazz,Dallas Mavericks,144,122,Salt Palace,5703,/boxscores/198010310UTA.html

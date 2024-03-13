@@ -1,0 +1,210 @@
+Fri Dec 1 1995,Atlanta Hawks,Dallas Mavericks,98,106,Omni Coliseum,9982,/boxscores/199512010ATL.html
+Fri Dec 1 1995,Boston Celtics,New Jersey Nets,123,131,FleetCenter,16294,/boxscores/199512010BOS.html
+Fri Dec 1 1995,Los Angeles Lakers,Vancouver Grizzlies,113,100,Great Western Forum,12426,/boxscores/199512010LAL.html
+Fri Dec 1 1995,Miami Heat,Charlotte Hornets,108,101,Miami Arena,15200,/boxscores/199512010MIA.html
+Fri Dec 1 1995,Phoenix Suns,Minnesota Timberwolves,111,105,America West Arena,19023,/boxscores/199512010PHO.html
+Fri Dec 1 1995,Seattle SuperSonics,Milwaukee Bucks,110,99,KeyArena at Seattle Center,17072,/boxscores/199512010SEA.html
+Fri Dec 1 1995,Toronto Raptors,Philadelphia 76ers,105,102,SkyDome,19789,/boxscores/199512010TOR.html
+Sat Dec 2 1995,Denver Nuggets,Minnesota Timberwolves,109,105,McNichols Sports Arena,16789,/boxscores/199512020DEN.html
+Sat Dec 2 1995,Detroit Pistons,Atlanta Hawks,104,96,The Palace of Auburn Hills,15580,/boxscores/199512020DET.html
+Sat Dec 2 1995,Golden State Warriors,Indiana Pacers,100,97,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512020GSW.html
+Sat Dec 2 1995,Houston Rockets,Charlotte Hornets,113,98,The Summit,16285,/boxscores/199512020HOU.html
+Sat Dec 2 1995,Los Angeles Clippers,Chicago Bulls,98,104,Arrowhead Pond,18321,/boxscores/199512020LAC.html
+Sat Dec 2 1995,New Jersey Nets,Cleveland Cavaliers,79,78,Brendan Byrne Arena,10406,/boxscores/199512020NJN.html
+Sat Dec 2 1995,Philadelphia 76ers,New York Knicks,85,94,CoreStates Spectrum,17551,/boxscores/199512020PHI.html
+Sat Dec 2 1995,Sacramento Kings,Orlando Magic,109,106,ARCO Arena (II),17317,/boxscores/199512020SAC.html
+Sat Dec 2 1995,San Antonio Spurs,Phoenix Suns,101,93,Alamodome,27566,/boxscores/199512020SAS.html
+Sat Dec 2 1995,Washington Bullets,Boston Celtics,135,107,Baltimore Arena,12756,/boxscores/199512020WSB.html
+Sun Dec 3 1995,Cleveland Cavaliers,Dallas Mavericks,108,107,Gund Arena,16673,/boxscores/199512030CLE.html
+Sun Dec 3 1995,Los Angeles Lakers,Indiana Pacers,104,96,Great Western Forum,14223,/boxscores/199512030LAL.html
+Sun Dec 3 1995,New York Knicks,Washington Bullets,107,83,Madison Square Garden (IV),19763,/boxscores/199512030NYK.html
+Sun Dec 3 1995,Portland Trail Blazers,Orlando Magic,93,82,Rose Garden Arena,21401,/boxscores/199512030POR.html
+Sun Dec 3 1995,Toronto Raptors,Miami Heat,94,112,SkyDome,21238,/boxscores/199512030TOR.html
+Sun Dec 3 1995,Vancouver Grizzlies,Milwaukee Bucks,95,109,General Motors Place,14149,/boxscores/199512030VAN.html
+Mon Dec 4 1995,Boston Celtics,Miami Heat,121,120,FleetCenter,17540,/boxscores/199512040BOS.html
+Mon Dec 4 1995,Denver Nuggets,Detroit Pistons,85,82,McNichols Sports Arena,15116,/boxscores/199512040DEN.html
+Tue Dec 5 1995,Indiana Pacers,Philadelphia 76ers,108,91,Market Square Arena,14824,/boxscores/199512050IND.html
+Tue Dec 5 1995,Los Angeles Clippers,Orlando Magic,105,114,Los Angeles Memorial Sports Arena,8199,/boxscores/199512050LAC.html
+Tue Dec 5 1995,New York Knicks,Dallas Mavericks,92,87,Madison Square Garden (IV),19763,/boxscores/199512050NYK.html
+Tue Dec 5 1995,Phoenix Suns,Vancouver Grizzlies,112,108,America West Arena,19023,/boxscores/199512050PHO.html
+Tue Dec 5 1995,San Antonio Spurs,Los Angeles Lakers,117,89,Alamodome,14551,/boxscores/199512050SAS.html
+Tue Dec 5 1995,Seattle SuperSonics,Toronto Raptors,119,89,KeyArena at Seattle Center,17072,/boxscores/199512050SEA.html
+Tue Dec 5 1995,Utah Jazz,Houston Rockets,100,103,Delta Center,19911,/boxscores/199512050UTA.html
+Wed Dec 6 1995,Charlotte Hornets,Cleveland Cavaliers,94,82,Charlotte Coliseum,24042,/boxscores/199512060CHH.html
+Wed Dec 6 1995,Chicago Bulls,New York Knicks,101,94,United Center,23828,/boxscores/199512060CHI.html
+Wed Dec 6 1995,Golden State Warriors,Orlando Magic,107,109,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512060GSW.html
+Wed Dec 6 1995,Houston Rockets,Los Angeles Lakers,112,99,The Summit,16285,/boxscores/199512060HOU.html
+Wed Dec 6 1995,Miami Heat,Boston Celtics,101,105,Miami Arena,15200,/boxscores/199512060MIA.html
+Wed Dec 6 1995,Minnesota Timberwolves,New Jersey Nets,108,97,Target Center,10471,/boxscores/199512060MIN.html
+Wed Dec 6 1995,Philadelphia 76ers,Dallas Mavericks,108,87,CoreStates Spectrum,10693,/boxscores/199512060PHI.html
+Wed Dec 6 1995,Washington Bullets,Atlanta Hawks,96,79,USAir Arena,10403,/boxscores/199512060WSB.html
+Thu Dec 7 1995,Atlanta Hawks,San Antonio Spurs,102,104,Omni Coliseum,8717,/boxscores/199512070ATL.html
+Thu Dec 7 1995,Milwaukee Bucks,Los Angeles Clippers,112,103,Bradley Center,13718,/boxscores/199512070MIL.html
+Thu Dec 7 1995,Portland Trail Blazers,Toronto Raptors,96,88,Rose Garden Arena,20039,/boxscores/199512070POR.html
+Thu Dec 7 1995,Utah Jazz,Denver Nuggets,119,124,Delta Center,19911,/boxscores/199512070UTA.html
+Thu Dec 7 1995,Vancouver Grizzlies,Detroit Pistons,84,93,General Motors Place,14685,/boxscores/199512070VAN.html
+Fri Dec 8 1995,Chicago Bulls,San Antonio Spurs,106,87,United Center,23802,/boxscores/199512080CHI.html
+Fri Dec 8 1995,Cleveland Cavaliers,Philadelphia 76ers,113,85,Gund Arena,17118,/boxscores/199512080CLE.html
+Fri Dec 8 1995,Denver Nuggets,Phoenix Suns,103,98,McNichols Sports Arena,17171,/boxscores/199512080DEN.html
+Fri Dec 8 1995,Golden State Warriors,Detroit Pistons,114,121,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512080GSW.html
+Fri Dec 8 1995,Houston Rockets,Washington Bullets,113,107,The Summit,16285,/boxscores/199512080HOU.html
+Fri Dec 8 1995,Los Angeles Lakers,Toronto Raptors,120,103,Great Western Forum,12982,/boxscores/199512080LAL.html
+Fri Dec 8 1995,Minnesota Timberwolves,Los Angeles Clippers,112,94,Target Center,10948,/boxscores/199512080MIN.html
+Fri Dec 8 1995,New Jersey Nets,Indiana Pacers,91,89,Brendan Byrne Arena,20049,/boxscores/199512080NJN.html
+Fri Dec 8 1995,Orlando Magic,Charlotte Hornets,105,95,Orlando Arena,17248,/boxscores/199512080ORL.html
+Fri Dec 8 1995,Sacramento Kings,Seattle SuperSonics,103,120,ARCO Arena (II),17317,/boxscores/199512080SAC.html
+Sat Dec 9 1995,Atlanta Hawks,New York Knicks,92,101,Omni Coliseum,14369,/boxscores/199512090ATL.html
+Sat Dec 9 1995,Charlotte Hornets,Minnesota Timberwolves,114,108,Charlotte Coliseum,24042,/boxscores/199512090CHH.html
+Sat Dec 9 1995,Cleveland Cavaliers,New Jersey Nets,73,85,Gund Arena,16251,/boxscores/199512090CLE.html
+Sat Dec 9 1995,Dallas Mavericks,Washington Bullets,94,103,Reunion Arena,17502,/boxscores/199512090DAL.html
+Sat Dec 9 1995,Milwaukee Bucks,Chicago Bulls,106,118,Bradley Center,18633,/boxscores/199512090MIL.html
+Sat Dec 9 1995,Philadelphia 76ers,Boston Celtics,98,124,CoreStates Spectrum,10134,/boxscores/199512090PHI.html
+Sat Dec 9 1995,Phoenix Suns,Miami Heat,92,94,America West Arena,19023,/boxscores/199512090PHO.html
+Sat Dec 9 1995,Seattle SuperSonics,Portland Trail Blazers,106,97,KeyArena at Seattle Center,17072,/boxscores/199512090SEA.html
+Sat Dec 9 1995,Utah Jazz,Golden State Warriors,123,109,Delta Center,19784,/boxscores/199512090UTA.html
+Sun Dec 10 1995,Boston Celtics,Atlanta Hawks,103,108,FleetCenter,16828,/boxscores/199512100BOS.html
+Sun Dec 10 1995,Indiana Pacers,Los Angeles Clippers,111,104,Market Square Arena,15792,/boxscores/199512100IND.html
+Sun Dec 10 1995,Los Angeles Lakers,Detroit Pistons,87,82,Great Western Forum,16176,/boxscores/199512100LAL.html
+Sun Dec 10 1995,New York Knicks,San Antonio Spurs,118,112,Madison Square Garden (IV),19763,/boxscores/199512100NYK.html
+Sun Dec 10 1995,Portland Trail Blazers,Houston Rockets,103,101,Rose Garden Arena,21401,/boxscores/199512100POR.html
+Sun Dec 10 1995,Sacramento Kings,Miami Heat,110,90,ARCO Arena (II),17317,/boxscores/199512100SAC.html
+Sun Dec 10 1995,Vancouver Grizzlies,Toronto Raptors,81,93,General Motors Place,17438,/boxscores/199512100VAN.html
+Mon Dec 11 1995,Philadelphia 76ers,Denver Nuggets,91,104,CoreStates Spectrum,10771,/boxscores/199512110PHI.html
+Mon Dec 11 1995,Utah Jazz,Charlotte Hornets,110,100,Delta Center,19775,/boxscores/199512110UTA.html
+Tue Dec 12 1995,Atlanta Hawks,Minnesota Timberwolves,78,85,Omni Coliseum,7613,/boxscores/199512120ATL.html
+Tue Dec 12 1995,Cleveland Cavaliers,Los Angeles Clippers,97,86,Gund Arena,14756,/boxscores/199512120CLE.html
+Tue Dec 12 1995,Dallas Mavericks,Seattle SuperSonics,112,101,Reunion Arena,16089,/boxscores/199512120DAL.html
+Tue Dec 12 1995,Golden State Warriors,Miami Heat,105,80,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512120GSW.html
+Tue Dec 12 1995,Indiana Pacers,Denver Nuggets,125,92,Market Square Arena,14723,/boxscores/199512120IND.html
+Tue Dec 12 1995,New Jersey Nets,Orlando Magic,97,101,Brendan Byrne Arena,20049,/boxscores/199512120NJN.html
+Tue Dec 12 1995,New York Knicks,Los Angeles Lakers,97,82,Madison Square Garden (IV),19763,/boxscores/199512120NYK.html
+Tue Dec 12 1995,Phoenix Suns,Charlotte Hornets,100,115,America West Arena,19023,/boxscores/199512120PHO.html
+Tue Dec 12 1995,Sacramento Kings,Houston Rockets,93,133,ARCO Arena (II),17317,/boxscores/199512120SAC.html
+Tue Dec 12 1995,Toronto Raptors,Boston Celtics,96,116,SkyDome,21875,/boxscores/199512120TOR.html
+Tue Dec 12 1995,Washington Bullets,Milwaukee Bucks,108,102,USAir Arena,10126,/boxscores/199512120WSB.html
+Wed Dec 13 1995,Boston Celtics,Philadelphia 76ers,111,100,FleetCenter,16504,/boxscores/199512130BOS.html
+Wed Dec 13 1995,Chicago Bulls,Orlando Magic,112,103,United Center,23895,/boxscores/199512130CHI.html
+Wed Dec 13 1995,Detroit Pistons,Los Angeles Lakers,98,101,The Palace of Auburn Hills,14579,/boxscores/199512130DET.html
+Wed Dec 13 1995,San Antonio Spurs,Seattle SuperSonics,83,88,Alamodome,13645,/boxscores/199512130SAS.html
+Wed Dec 13 1995,Vancouver Grizzlies,Houston Rockets,89,100,General Motors Place,15715,/boxscores/199512130VAN.html
+Thu Dec 14 1995,Atlanta Hawks,Chicago Bulls,108,127,Omni Coliseum,16378,/boxscores/199512140ATL.html
+Thu Dec 14 1995,Dallas Mavericks,San Antonio Spurs,111,126,Reunion Arena,17027,/boxscores/199512140DAL.html
+Thu Dec 14 1995,Los Angeles Clippers,Miami Heat,89,84,Los Angeles Memorial Sports Arena,7382,/boxscores/199512140LAC.html
+Thu Dec 14 1995,New York Knicks,Denver Nuggets,94,103,Madison Square Garden (IV),19763,/boxscores/199512140NYK.html
+Thu Dec 14 1995,Portland Trail Blazers,Charlotte Hornets,116,109,Rose Garden Arena,20374,/boxscores/199512140POR.html
+Thu Dec 14 1995,Toronto Raptors,Indiana Pacers,100,102,SkyDome,19763,/boxscores/199512140TOR.html
+Fri Dec 15 1995,Boston Celtics,Toronto Raptors,122,103,FleetCenter,17580,/boxscores/199512150BOS.html
+Fri Dec 15 1995,Detroit Pistons,New Jersey Nets,105,98,The Palace of Auburn Hills,15483,/boxscores/199512150DET.html
+Fri Dec 15 1995,Houston Rockets,Sacramento Kings,110,114,The Summit,16285,/boxscores/199512150HOU.html
+Fri Dec 15 1995,Indiana Pacers,Milwaukee Bucks,112,95,Market Square Arena,16263,/boxscores/199512150IND.html
+Fri Dec 15 1995,Minnesota Timberwolves,Cleveland Cavaliers,88,100,Target Center,10722,/boxscores/199512150MIN.html
+Fri Dec 15 1995,Orlando Magic,Utah Jazz,111,99,Orlando Arena,17248,/boxscores/199512150ORL.html
+Fri Dec 15 1995,Seattle SuperSonics,Golden State Warriors,108,101,KeyArena at Seattle Center,17072,/boxscores/199512150SEA.html
+Fri Dec 15 1995,Vancouver Grizzlies,Portland Trail Blazers,104,100,General Motors Place,15236,/boxscores/199512150VAN.html
+Fri Dec 15 1995,Washington Bullets,Los Angeles Lakers,122,114,USAir Arena,18756,/boxscores/199512150WSB.html
+Sat Dec 16 1995,Atlanta Hawks,Denver Nuggets,95,86,Omni Coliseum,14063,/boxscores/199512160ATL.html
+Sat Dec 16 1995,Chicago Bulls,Los Angeles Lakers,108,88,United Center,23824,/boxscores/199512160CHI.html
+Sat Dec 16 1995,Dallas Mavericks,Phoenix Suns,108,111,Reunion Arena,17502,/boxscores/199512160DAL.html
+Sat Dec 16 1995,Los Angeles Clippers,Charlotte Hornets,99,109,Los Angeles Memorial Sports Arena,9158,/boxscores/199512160LAC.html
+Sat Dec 16 1995,Miami Heat,Utah Jazz,74,83,Miami Arena,14296,/boxscores/199512160MIA.html
+Sat Dec 16 1995,New York Knicks,Detroit Pistons,86,82,Madison Square Garden (IV),19763,/boxscores/199512160NYK.html
+Sat Dec 16 1995,San Antonio Spurs,Sacramento Kings,122,106,Alamodome,15675,/boxscores/199512160SAS.html
+Sat Dec 16 1995,Vancouver Grizzlies,Golden State Warriors,85,116,General Motors Place,15539,/boxscores/199512160VAN.html
+Sun Dec 17 1995,Cleveland Cavaliers,Denver Nuggets,92,79,Gund Arena,14935,/boxscores/199512170CLE.html
+Sun Dec 17 1995,Milwaukee Bucks,Indiana Pacers,84,80,Bradley Center,18195,/boxscores/199512170MIL.html
+Sun Dec 17 1995,Minnesota Timberwolves,Philadelphia 76ers,99,101,Target Center,12315,/boxscores/199512170MIN.html
+Sun Dec 17 1995,Portland Trail Blazers,Washington Bullets,100,112,Rose Garden Arena,20564,/boxscores/199512170POR.html
+Sun Dec 17 1995,Toronto Raptors,Orlando Magic,110,93,SkyDome,25820,/boxscores/199512170TOR.html
+Mon Dec 18 1995,Boston Celtics,Chicago Bulls,114,123,FleetCenter,18624,/boxscores/199512180BOS.html
+Mon Dec 18 1995,New Jersey Nets,Utah Jazz,103,110,Brendan Byrne Arena,14679,/boxscores/199512180NJN.html
+Mon Dec 18 1995,Sacramento Kings,Vancouver Grizzlies,92,85,ARCO Arena (II),17317,/boxscores/199512180SAC.html
+Tue Dec 19 1995,Chicago Bulls,Dallas Mavericks,114,101,United Center,23208,/boxscores/199512190CHI.html
+Tue Dec 19 1995,Cleveland Cavaliers,Minnesota Timberwolves,100,95,Gund Arena,14304,/boxscores/199512190CLE.html
+Tue Dec 19 1995,Golden State Warriors,Charlotte Hornets,102,99,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512190GSW.html
+Tue Dec 19 1995,Houston Rockets,Phoenix Suns,103,96,The Summit,16285,/boxscores/199512190HOU.html
+Tue Dec 19 1995,Los Angeles Clippers,Washington Bullets,104,108,Los Angeles Memorial Sports Arena,6194,/boxscores/199512190LAC.html
+Tue Dec 19 1995,Milwaukee Bucks,Los Angeles Lakers,105,109,Bradley Center,14488,/boxscores/199512190MIL.html
+Tue Dec 19 1995,New York Knicks,Miami Heat,89,70,Madison Square Garden (IV),19763,/boxscores/199512190NYK.html
+Tue Dec 19 1995,San Antonio Spurs,Portland Trail Blazers,111,103,Alamodome,12851,/boxscores/199512190SAS.html
+Tue Dec 19 1995,Toronto Raptors,Detroit Pistons,82,94,SkyDome,21128,/boxscores/199512190TOR.html
+Tue Dec 19 1995,Vancouver Grizzlies,Seattle SuperSonics,94,93,General Motors Place,16701,/boxscores/199512190VAN.html
+Wed Dec 20 1995,Denver Nuggets,Golden State Warriors,109,104,McNichols Sports Arena,16625,/boxscores/199512200DEN.html
+Wed Dec 20 1995,Detroit Pistons,Milwaukee Bucks,102,77,The Palace of Auburn Hills,14688,/boxscores/199512200DET.html
+Wed Dec 20 1995,Indiana Pacers,Los Angeles Lakers,109,98,Market Square Arena,15870,/boxscores/199512200IND.html
+Wed Dec 20 1995,New Jersey Nets,Miami Heat,104,112,Brendan Byrne Arena,12646,/boxscores/199512200NJN.html
+Wed Dec 20 1995,Orlando Magic,Minnesota Timberwolves,107,100,Orlando Arena,17248,/boxscores/199512200ORL.html
+Wed Dec 20 1995,Philadelphia 76ers,Utah Jazz,108,104,CoreStates Spectrum,8413,/boxscores/199512200PHI.html
+Wed Dec 20 1995,Phoenix Suns,Washington Bullets,106,104,America West Arena,19023,/boxscores/199512200PHO.html
+Thu Dec 21 1995,Charlotte Hornets,Boston Celtics,107,97,Charlotte Coliseum,24042,/boxscores/199512210CHH.html
+Thu Dec 21 1995,Cleveland Cavaliers,Utah Jazz,87,89,Gund Arena,16412,/boxscores/199512210CLE.html
+Thu Dec 21 1995,Houston Rockets,Portland Trail Blazers,91,86,The Summit,16285,/boxscores/199512210HOU.html
+Thu Dec 21 1995,Los Angeles Clippers,Sacramento Kings,103,96,Los Angeles Memorial Sports Arena,6020,/boxscores/199512210LAC.html
+Thu Dec 21 1995,San Antonio Spurs,Denver Nuggets,114,96,Alamodome,14663,/boxscores/199512210SAS.html
+Thu Dec 21 1995,Seattle SuperSonics,Vancouver Grizzlies,92,68,KeyArena at Seattle Center,17072,/boxscores/199512210SEA.html
+Fri Dec 22 1995,Atlanta Hawks,New Jersey Nets,94,91,Omni Coliseum,8197,/boxscores/199512220ATL.html
+Fri Dec 22 1995,Boston Celtics,Minnesota Timberwolves,114,113,FleetCenter,18400,/boxscores/199512220BOS.html
+Fri Dec 22 1995,Chicago Bulls,Toronto Raptors,113,104,United Center,22987,/boxscores/199512220CHI.html
+Fri Dec 22 1995,Golden State Warriors,Washington Bullets,132,117,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199512220GSW.html
+Fri Dec 22 1995,Indiana Pacers,Dallas Mavericks,90,79,Market Square Arena,16533,/boxscores/199512220IND.html
+Fri Dec 22 1995,Los Angeles Lakers,Sacramento Kings,116,83,Great Western Forum,16189,/boxscores/199512220LAL.html
+Fri Dec 22 1995,Miami Heat,Detroit Pistons,75,84,Miami Arena,14851,/boxscores/199512220MIA.html
+Fri Dec 22 1995,Orlando Magic,New York Knicks,111,90,Orlando Arena,17248,/boxscores/199512220ORL.html
+Fri Dec 22 1995,Philadelphia 76ers,Milwaukee Bucks,94,99,CoreStates Spectrum,10088,/boxscores/199512220PHI.html
+Fri Dec 22 1995,Vancouver Grizzlies,Phoenix Suns,80,101,General Motors Place,17636,/boxscores/199512220VAN.html
+Sat Dec 23 1995,Charlotte Hornets,Miami Heat,87,75,Charlotte Coliseum,24042,/boxscores/199512230CHH.html
+Sat Dec 23 1995,Chicago Bulls,Utah Jazz,100,86,United Center,23906,/boxscores/199512230CHI.html
+Sat Dec 23 1995,Cleveland Cavaliers,Indiana Pacers,97,96,Gund Arena,18264,/boxscores/199512230CLE.html
+Sat Dec 23 1995,Denver Nuggets,Los Angeles Clippers,92,107,McNichols Sports Arena,15922,/boxscores/199512230DEN.html
+Sat Dec 23 1995,Detroit Pistons,Orlando Magic,79,94,The Palace of Auburn Hills,19795,/boxscores/199512230DET.html
+Sat Dec 23 1995,Milwaukee Bucks,Atlanta Hawks,115,111,Bradley Center,15658,/boxscores/199512230MIL.html
+Sat Dec 23 1995,Minnesota Timberwolves,Dallas Mavericks,111,98,Target Center,16942,/boxscores/199512230MIN.html
+Sat Dec 23 1995,New York Knicks,Toronto Raptors,103,91,Madison Square Garden (IV),19763,/boxscores/199512230NYK.html
+Sat Dec 23 1995,Philadelphia 76ers,New Jersey Nets,85,98,CoreStates Spectrum,12405,/boxscores/199512230PHI.html
+Sat Dec 23 1995,Portland Trail Blazers,Los Angeles Lakers,99,102,Rose Garden Arena,21401,/boxscores/199512230POR.html
+Sat Dec 23 1995,San Antonio Spurs,Houston Rockets,110,95,Alamodome,26145,/boxscores/199512230SAS.html
+Sat Dec 23 1995,Seattle SuperSonics,Washington Bullets,118,100,KeyArena at Seattle Center,17072,/boxscores/199512230SEA.html
+Mon Dec 25 1995,Orlando Magic,Houston Rockets,92,90,Orlando Arena,17248,/boxscores/199512250ORL.html
+Mon Dec 25 1995,Phoenix Suns,San Antonio Spurs,100,105,America West Arena,19023,/boxscores/199512250PHO.html
+Tue Dec 26 1995,Atlanta Hawks,Los Angeles Clippers,94,88,Omni Coliseum,10283,/boxscores/199512260ATL.html
+Tue Dec 26 1995,Denver Nuggets,Dallas Mavericks,114,102,McNichols Sports Arena,17171,/boxscores/199512260DEN.html
+Tue Dec 26 1995,Detroit Pistons,Golden State Warriors,100,90,The Palace of Auburn Hills,16666,/boxscores/199512260DET.html
+Tue Dec 26 1995,Houston Rockets,Vancouver Grizzlies,100,84,The Summit,16285,/boxscores/199512260HOU.html
+Tue Dec 26 1995,Indiana Pacers,Chicago Bulls,103,97,Market Square Arena,16728,/boxscores/199512260IND.html
+Tue Dec 26 1995,Los Angeles Lakers,Boston Celtics,102,91,Great Western Forum,14324,/boxscores/199512260LAL.html
+Tue Dec 26 1995,Miami Heat,New Jersey Nets,96,93,Miami Arena,14996,/boxscores/199512260MIA.html
+Tue Dec 26 1995,Sacramento Kings,San Antonio Spurs,115,98,ARCO Arena (II),17317,/boxscores/199512260SAC.html
+Tue Dec 26 1995,Toronto Raptors,Milwaukee Bucks,93,87,Copps Coliseum,17242,/boxscores/199512260TOR.html
+Tue Dec 26 1995,Utah Jazz,Portland Trail Blazers,114,104,Delta Center,19911,/boxscores/199512260UTA.html
+Wed Dec 27 1995,Charlotte Hornets,Los Angeles Clippers,107,116,Charlotte Coliseum,24042,/boxscores/199512270CHH.html
+Wed Dec 27 1995,Minnesota Timberwolves,Milwaukee Bucks,93,99,Target Center,17101,/boxscores/199512270MIN.html
+Wed Dec 27 1995,Phoenix Suns,Philadelphia 76ers,105,90,America West Arena,19023,/boxscores/199512270PHO.html
+Wed Dec 27 1995,Portland Trail Blazers,Boston Celtics,135,109,Rose Garden Arena,21401,/boxscores/199512270POR.html
+Wed Dec 27 1995,Seattle SuperSonics,Denver Nuggets,99,83,KeyArena at Seattle Center,17072,/boxscores/199512270SEA.html
+Wed Dec 27 1995,Washington Bullets,Golden State Warriors,115,94,USAir Arena,18756,/boxscores/199512270WSB.html
+Thu Dec 28 1995,Dallas Mavericks,Vancouver Grizzlies,103,101,Reunion Arena,17502,/boxscores/199512280DAL.html
+Thu Dec 28 1995,Detroit Pistons,Toronto Raptors,113,91,The Palace of Auburn Hills,21454,/boxscores/199512280DET.html
+Thu Dec 28 1995,Houston Rockets,New Jersey Nets,97,82,The Summit,16285,/boxscores/199512280HOU.html
+Thu Dec 28 1995,Indiana Pacers,Miami Heat,91,77,Market Square Arena,16759,/boxscores/199512280IND.html
+Thu Dec 28 1995,Los Angeles Lakers,San Antonio Spurs,99,107,Great Western Forum,17505,/boxscores/199512280LAL.html
+Thu Dec 28 1995,New York Knicks,Cleveland Cavaliers,76,86,Madison Square Garden (IV),19763,/boxscores/199512280NYK.html
+Thu Dec 28 1995,Utah Jazz,Minnesota Timberwolves,99,83,Delta Center,19911,/boxscores/199512280UTA.html
+Fri Dec 29 1995,Atlanta Hawks,Golden State Warriors,96,117,Omni Coliseum,12526,/boxscores/199512290ATL.html
+Fri Dec 29 1995,Charlotte Hornets,Portland Trail Blazers,102,99,Charlotte Coliseum,24042,/boxscores/199512290CHH.html
+Fri Dec 29 1995,Chicago Bulls,Indiana Pacers,120,93,United Center,23739,/boxscores/199512290CHI.html
+Fri Dec 29 1995,Orlando Magic,Los Angeles Clippers,122,98,Orlando Arena,17248,/boxscores/199512290ORL.html
+Fri Dec 29 1995,Phoenix Suns,Denver Nuggets,103,92,America West Arena,19023,/boxscores/199512290PHO.html
+Fri Dec 29 1995,Sacramento Kings,Philadelphia 76ers,117,97,ARCO Arena (II),17317,/boxscores/199512290SAC.html
+Fri Dec 29 1995,Seattle SuperSonics,Boston Celtics,124,85,KeyArena at Seattle Center,17072,/boxscores/199512290SEA.html
+Fri Dec 29 1995,Washington Bullets,New York Knicks,127,120,USAir Arena,18756,/boxscores/199512290WSB.html
+Sat Dec 30 1995,Chicago Bulls,Atlanta Hawks,95,93,United Center,23587,/boxscores/199512300CHI.html
+Sat Dec 30 1995,Cleveland Cavaliers,Portland Trail Blazers,124,121,Gund Arena,20173,/boxscores/199512300CLE.html
+Sat Dec 30 1995,Dallas Mavericks,Houston Rockets,102,105,Reunion Arena,17502,/boxscores/199512300DAL.html
+Sat Dec 30 1995,Denver Nuggets,Philadelphia 76ers,108,100,McNichols Sports Arena,16584,/boxscores/199512300DEN.html
+Sat Dec 30 1995,Detroit Pistons,Charlotte Hornets,102,100,The Palace of Auburn Hills,17346,/boxscores/199512300DET.html
+Sat Dec 30 1995,Miami Heat,Los Angeles Clippers,105,96,Miami Arena,14413,/boxscores/199512300MIA.html
+Sat Dec 30 1995,Milwaukee Bucks,Washington Bullets,87,96,Bradley Center,17636,/boxscores/199512300MIL.html
+Sat Dec 30 1995,New Jersey Nets,Golden State Warriors,110,120,Brendan Byrne Arena,16570,/boxscores/199512300NJN.html
+Sat Dec 30 1995,Phoenix Suns,Seattle SuperSonics,112,123,America West Arena,19023,/boxscores/199512300PHO.html
+Sat Dec 30 1995,San Antonio Spurs,Minnesota Timberwolves,122,84,Alamodome,17049,/boxscores/199512300SAS.html
+Sat Dec 30 1995,Utah Jazz,Los Angeles Lakers,99,82,Delta Center,19911,/boxscores/199512300UTA.html
+Sat Dec 30 1995,Vancouver Grizzlies,Boston Celtics,103,95,General Motors Place,19193,/boxscores/199512300VAN.html

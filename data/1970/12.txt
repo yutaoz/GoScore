@@ -1,0 +1,112 @@
+Tue Dec 2 1969,Baltimore Bullets,Cincinnati Royals,129,107,Baltimore Civic Center,0,/boxscores/196912020BAL.html
+Tue Dec 2 1969,Chicago Bulls,Phoenix Suns,110,121,Salt Palace,0,/boxscores/196912020CHI.html
+Tue Dec 2 1969,New York Knicks,Seattle SuperSonics,129,109,Madison Square Garden (IV),0,/boxscores/196912020NYK.html
+Tue Dec 2 1969,Philadelphia 76ers,Milwaukee Bucks,114,122,The Spectrum,0,/boxscores/196912020PHI.html
+Tue Dec 2 1969,San Francisco Warriors,Detroit Pistons,116,109,San Francisco Civic Auditorium,0,/boxscores/196912020SFW.html
+Wed Dec 3 1969,Boston Celtics,Baltimore Bullets,113,105,Boston Garden,0,/boxscores/196912030BOS.html
+Wed Dec 3 1969,Cincinnati Royals,Seattle SuperSonics,117,118,Cincinnati Gardens,0,/boxscores/196912030CIN.html
+Wed Dec 3 1969,San Diego Rockets,Chicago Bulls,146,131,San Diego Sports Arena,0,/boxscores/196912030SDR.html
+Wed Dec 3 1969,San Francisco Warriors,Detroit Pistons,102,106,San Francisco Civic Auditorium,0,/boxscores/196912030SFW.html
+Thu Dec 4 1969,Atlanta Hawks,Seattle SuperSonics,119,111,Alexander Memorial Coliseum,0,/boxscores/196912040ATL.html
+Thu Dec 4 1969,Phoenix Suns,Los Angeles Lakers,119,109,Arizona Veterans Memorial Coliseum,0,/boxscores/196912040PHO.html
+Fri Dec 5 1969,Baltimore Bullets,New York Knicks,107,116,Baltimore Civic Center,0,/boxscores/196912050BAL.html
+Fri Dec 5 1969,Boston Celtics,Philadelphia 76ers,104,105,Boston Garden,0,/boxscores/196912050BOS.html
+Fri Dec 5 1969,Cincinnati Royals,Atlanta Hawks,156,127,Cincinnati Gardens,0,/boxscores/196912050CIN.html
+Fri Dec 5 1969,Los Angeles Lakers,Detroit Pistons,128,109,The Forum,0,/boxscores/196912050LAL.html
+Fri Dec 5 1969,Milwaukee Bucks,Seattle SuperSonics,131,98,Milwaukee Arena,0,/boxscores/196912050MIL.html
+Fri Dec 5 1969,Phoenix Suns,Chicago Bulls,114,113,Arizona Veterans Memorial Coliseum,0,/boxscores/196912050PHO.html
+Fri Dec 5 1969,San Francisco Warriors,San Diego Rockets,112,107,Cow Palace,0,/boxscores/196912050SFW.html
+Sat Dec 6 1969,Baltimore Bullets,Seattle SuperSonics,129,132,The Spectrum,0,/boxscores/196912060BAL.html
+Sat Dec 6 1969,Chicago Bulls,Boston Celtics,116,114,Chicago Stadium,0,/boxscores/196912060CHI.html
+Sat Dec 6 1969,New York Knicks,Milwaukee Bucks,124,99,Madison Square Garden (IV),0,/boxscores/196912060NYK.html
+Sat Dec 6 1969,Philadelphia 76ers,Cincinnati Royals,120,102,The Spectrum,0,/boxscores/196912060PHI.html
+Sat Dec 6 1969,San Diego Rockets,Los Angeles Lakers,115,128,San Diego Sports Arena,0,/boxscores/196912060SDR.html
+Sun Dec 7 1969,Los Angeles Lakers,Atlanta Hawks,103,104,The Forum,0,/boxscores/196912070LAL.html
+Sun Dec 7 1969,Phoenix Suns,Detroit Pistons,113,118,Arizona Veterans Memorial Coliseum,0,/boxscores/196912070PHO.html
+Mon Dec 8 1969,Baltimore Bullets,Chicago Bulls,125,122,Baltimore Civic Center,0,/boxscores/196912080BAL.html
+Mon Dec 8 1969,San Diego Rockets,Detroit Pistons,102,111,San Diego Sports Arena,0,/boxscores/196912080SDR.html
+Tue Dec 9 1969,Atlanta Hawks,San Francisco Warriors,117,115,Salt Palace,0,/boxscores/196912090ATL.html
+Tue Dec 9 1969,Chicago Bulls,Phoenix Suns,109,102,Municipal Auditorium,0,/boxscores/196912090CHI.html
+Tue Dec 9 1969,New York Knicks,Cincinnati Royals,101,103,Madison Square Garden (IV),0,/boxscores/196912090NYK.html
+Tue Dec 9 1969,Philadelphia 76ers,Los Angeles Lakers,123,99,The Spectrum,0,/boxscores/196912090PHI.html
+Tue Dec 9 1969,Seattle SuperSonics,Detroit Pistons,109,104,Seattle Center Coliseum,0,/boxscores/196912090SEA.html
+Wed Dec 10 1969,Baltimore Bullets,Phoenix Suns,107,137,Baltimore Civic Center,0,/boxscores/196912100BAL.html
+Wed Dec 10 1969,Boston Celtics,Los Angeles Lakers,111,99,Boston Garden,0,/boxscores/196912100BOS.html
+Wed Dec 10 1969,Cincinnati Royals,Philadelphia 76ers,122,121,Cincinnati Gardens,0,/boxscores/196912100CIN.html
+Wed Dec 10 1969,Milwaukee Bucks,New York Knicks,95,96,Milwaukee Arena,0,/boxscores/196912100MIL.html
+Wed Dec 10 1969,San Diego Rockets,Atlanta Hawks,126,107,San Diego Sports Arena,0,/boxscores/196912100SDR.html
+Thu Dec 11 1969,Chicago Bulls,San Francisco Warriors,110,104,Municipal Auditorium,0,/boxscores/196912110CHI.html
+Thu Dec 11 1969,Detroit Pistons,Cincinnati Royals,119,116,Cobo Arena,0,/boxscores/196912110DET.html
+Thu Dec 11 1969,Seattle SuperSonics,New York Knicks,112,105,Seattle Center Coliseum,0,/boxscores/196912110SEA.html
+Fri Dec 12 1969,Atlanta Hawks,Los Angeles Lakers,121,107,Alexander Memorial Coliseum,0,/boxscores/196912120ATL.html
+Fri Dec 12 1969,Boston Celtics,San Diego Rockets,107,104,Boston Garden,0,/boxscores/196912120BOS.html
+Fri Dec 12 1969,Chicago Bulls,Baltimore Bullets,108,123,Chicago Stadium,0,/boxscores/196912120CHI.html
+Fri Dec 12 1969,Milwaukee Bucks,San Francisco Warriors,123,109,Milwaukee Arena,0,/boxscores/196912120MIL.html
+Fri Dec 12 1969,Philadelphia 76ers,Detroit Pistons,125,111,The Spectrum,0,/boxscores/196912120PHI.html
+Fri Dec 12 1969,Seattle SuperSonics,Phoenix Suns,116,130,Seattle Center Coliseum,0,/boxscores/196912120SEA.html
+Sat Dec 13 1969,Atlanta Hawks,Milwaukee Bucks,100,121,Alexander Memorial Coliseum,0,/boxscores/196912130ATL.html
+Sat Dec 13 1969,Baltimore Bullets,San Diego Rockets,117,105,Baltimore Civic Center,0,/boxscores/196912130BAL.html
+Sat Dec 13 1969,Detroit Pistons,San Francisco Warriors,97,104,Cobo Arena,0,/boxscores/196912130DET.html
+Sat Dec 13 1969,New York Knicks,Philadelphia 76ers,93,100,Madison Square Garden (IV),0,/boxscores/196912130NYK.html
+Sat Dec 13 1969,Phoenix Suns,Cincinnati Royals,126,110,Arizona Veterans Memorial Coliseum,0,/boxscores/196912130PHO.html
+Sun Dec 14 1969,Los Angeles Lakers,Seattle SuperSonics,131,127,The Forum,0,/boxscores/196912140LAL.html
+Sun Dec 14 1969,Milwaukee Bucks,San Diego Rockets,118,105,Dane County Veteran Memorial Coliseum,0,/boxscores/196912140MIL.html
+Sun Dec 14 1969,Philadelphia 76ers,Chicago Bulls,126,121,The Spectrum,0,/boxscores/196912140PHI.html
+Sun Dec 14 1969,Phoenix Suns,Cincinnati Royals,130,137,Arizona Veterans Memorial Coliseum,0,/boxscores/196912140PHO.html
+Tue Dec 16 1969,Boston Celtics,Detroit Pistons,117,98,Cleveland Arena,0,/boxscores/196912160BOS.html
+Tue Dec 16 1969,Chicago Bulls,San Diego Rockets,101,110,Chicago Stadium,0,/boxscores/196912160CHI.html
+Tue Dec 16 1969,New York Knicks,Atlanta Hawks,124,125,Madison Square Garden (IV),0,/boxscores/196912160NYK.html
+Tue Dec 16 1969,Phoenix Suns,Philadelphia 76ers,119,141,Arizona Veterans Memorial Coliseum,0,/boxscores/196912160PHO.html
+Tue Dec 16 1969,San Francisco Warriors,Seattle SuperSonics,125,119,San Francisco Civic Auditorium,0,/boxscores/196912160SFW.html
+Wed Dec 17 1969,Atlanta Hawks,Baltimore Bullets,133,138,Alexander Memorial Coliseum,0,/boxscores/196912170ATL.html
+Wed Dec 17 1969,Boston Celtics,Milwaukee Bucks,106,124,Boston Garden,0,/boxscores/196912170BOS.html
+Wed Dec 17 1969,Detroit Pistons,San Diego Rockets,107,114,Cobo Arena,0,/boxscores/196912170DET.html
+Wed Dec 17 1969,Seattle SuperSonics,Cincinnati Royals,117,104,Seattle Center Coliseum,0,/boxscores/196912170SEA.html
+Thu Dec 18 1969,Atlanta Hawks,Chicago Bulls,112,114,Municipal Auditorium,0,/boxscores/196912180ATL.html
+Fri Dec 19 1969,Baltimore Bullets,Detroit Pistons,108,105,Baltimore Civic Center,0,/boxscores/196912190BAL.html
+Fri Dec 19 1969,Chicago Bulls,New York Knicks,99,108,Chicago Stadium,0,/boxscores/196912190CHI.html
+Fri Dec 19 1969,Los Angeles Lakers,Cincinnati Royals,109,117,The Forum,0,/boxscores/196912190LAL.html
+Fri Dec 19 1969,Milwaukee Bucks,Boston Celtics,115,111,Milwaukee Arena,0,/boxscores/196912190MIL.html
+Fri Dec 19 1969,San Diego Rockets,San Francisco Warriors,119,111,San Diego Sports Arena,0,/boxscores/196912190SDR.html
+Fri Dec 19 1969,Seattle SuperSonics,Philadelphia 76ers,123,116,Seattle Center Coliseum,0,/boxscores/196912190SEA.html
+Sat Dec 20 1969,Atlanta Hawks,Boston Celtics,122,106,Alexander Memorial Coliseum,0,/boxscores/196912200ATL.html
+Sat Dec 20 1969,Detroit Pistons,Phoenix Suns,114,113,Cobo Arena,0,/boxscores/196912200DET.html
+Sat Dec 20 1969,New York Knicks,Baltimore Bullets,128,91,Madison Square Garden (IV),0,/boxscores/196912200NYK.html
+Sat Dec 20 1969,San Diego Rockets,Cincinnati Royals,126,111,San Diego Sports Arena,0,/boxscores/196912200SDR.html
+Sat Dec 20 1969,San Francisco Warriors,Philadelphia 76ers,109,122,San Francisco Civic Auditorium,0,/boxscores/196912200SFW.html
+Sun Dec 21 1969,Atlanta Hawks,Chicago Bulls,118,111,Alexander Memorial Coliseum,0,/boxscores/196912210ATL.html
+Sun Dec 21 1969,Los Angeles Lakers,Philadelphia 76ers,133,117,The Forum,0,/boxscores/196912210LAL.html
+Sun Dec 21 1969,Milwaukee Bucks,Phoenix Suns,118,111,Milwaukee Arena,0,/boxscores/196912210MIL.html
+Sun Dec 21 1969,Seattle SuperSonics,San Diego Rockets,112,96,Seattle Center Coliseum,0,/boxscores/196912210SEA.html
+Tue Dec 23 1969,Boston Celtics,Chicago Bulls,117,112,Boston Garden,0,/boxscores/196912230BOS.html
+Tue Dec 23 1969,San Diego Rockets,Los Angeles Lakers,115,109,San Diego Sports Arena,0,/boxscores/196912230SDR.html
+Tue Dec 23 1969,San Francisco Warriors,Seattle SuperSonics,119,115,San Francisco Civic Auditorium,0,/boxscores/196912230SFW.html
+Thu Dec 25 1969,Baltimore Bullets,Philadelphia 76ers,121,113,Baltimore Civic Center,0,/boxscores/196912250BAL.html
+Thu Dec 25 1969,Cincinnati Royals,San Francisco Warriors,120,124,Cincinnati Gardens,0,/boxscores/196912250CIN.html
+Thu Dec 25 1969,New York Knicks,Detroit Pistons,112,111,Madison Square Garden (IV),0,/boxscores/196912250NYK.html
+Thu Dec 25 1969,Phoenix Suns,Boston Celtics,127,116,Arizona Veterans Memorial Coliseum,0,/boxscores/196912250PHO.html
+Fri Dec 26 1969,Atlanta Hawks,Cincinnati Royals,110,130,Cleveland Arena,0,/boxscores/196912260ATL.html
+Fri Dec 26 1969,Detroit Pistons,Milwaukee Bucks,101,114,Cobo Arena,0,/boxscores/196912260DET.html
+Fri Dec 26 1969,Los Angeles Lakers,New York Knicks,114,106,The Forum,0,/boxscores/196912260LAL.html
+Fri Dec 26 1969,Philadelphia 76ers,San Francisco Warriors,141,121,The Spectrum,0,/boxscores/196912260PHI.html
+Fri Dec 26 1969,Seattle SuperSonics,Boston Celtics,112,122,Seattle Center Coliseum,0,/boxscores/196912260SEA.html
+Sat Dec 27 1969,Atlanta Hawks,Philadelphia 76ers,112,107,Alexander Memorial Coliseum,0,/boxscores/196912270ATL.html
+Sat Dec 27 1969,Baltimore Bullets,San Francisco Warriors,147,112,Baltimore Civic Center,0,/boxscores/196912270BAL.html
+Sat Dec 27 1969,Cincinnati Royals,Milwaukee Bucks,112,110,Cincinnati Gardens,0,/boxscores/196912270CIN.html
+Sat Dec 27 1969,New York Knicks,Seattle SuperSonics,119,117,Pacific Coliseum,0,/boxscores/196912270NYK.html
+Sat Dec 27 1969,San Diego Rockets,Boston Celtics,110,111,San Diego Sports Arena,0,/boxscores/196912270SDR.html
+Sun Dec 28 1969,Los Angeles Lakers,Boston Celtics,109,99,The Forum,0,/boxscores/196912280LAL.html
+Sun Dec 28 1969,Milwaukee Bucks,Baltimore Bullets,133,124,Milwaukee Arena,0,/boxscores/196912280MIL.html
+Sun Dec 28 1969,Philadelphia 76ers,San Francisco Warriors,138,112,Onondaga War Memorial,0,/boxscores/196912280PHI.html
+Sun Dec 28 1969,Phoenix Suns,New York Knicks,116,135,Arizona Veterans Memorial Coliseum,0,/boxscores/196912280PHO.html
+Mon Dec 29 1969,Atlanta Hawks,San Diego Rockets,122,118,Alexander Memorial Coliseum,0,/boxscores/196912290ATL.html
+Mon Dec 29 1969,Detroit Pistons,Cincinnati Royals,103,110,Cobo Arena,0,/boxscores/196912290DET.html
+Tue Dec 30 1969,Baltimore Bullets,Milwaukee Bucks,124,126,Baltimore Civic Center,0,/boxscores/196912300BAL.html
+Tue Dec 30 1969,Cincinnati Royals,San Diego Rockets,125,120,Cincinnati Gardens,0,/boxscores/196912300CIN.html
+Tue Dec 30 1969,New York Knicks,Chicago Bulls,116,96,Madison Square Garden (IV),0,/boxscores/196912300NYK.html
+Tue Dec 30 1969,Seattle SuperSonics,Phoenix Suns,134,121,Seattle Center Coliseum,0,/boxscores/196912300SEA.html
+Tue Dec 30 1969,San Francisco Warriors,Los Angeles Lakers,105,100,Cow Palace,0,/boxscores/196912300SFW.html
+Wed Dec 31 1969,Atlanta Hawks,Baltimore Bullets,122,111,Alexander Memorial Coliseum,0,/boxscores/196912310ATL.html
+Wed Dec 31 1969,Boston Celtics,Detroit Pistons,124,121,Boston Garden,0,/boxscores/196912310BOS.html
+Wed Dec 31 1969,Milwaukee Bucks,San Diego Rockets,143,126,Milwaukee Arena,0,/boxscores/196912310MIL.html
+Wed Dec 31 1969,Philadelphia 76ers,Chicago Bulls,129,109,The Spectrum,0,/boxscores/196912310PHI.html

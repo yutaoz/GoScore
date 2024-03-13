@@ -1,0 +1,34 @@
+Sat Oct 15 1966,Boston Celtics,San Francisco Warriors,121,113,Boston Garden,0,/boxscores/196610150BOS.html
+Sat Oct 15 1966,Baltimore Bullets,Los Angeles Lakers,115,126,Baltimore Civic Center,0,/boxscores/196610150BAL.html
+Sat Oct 15 1966,St. Louis Hawks,Chicago Bulls,97,104,St. Louis Arena,0,/boxscores/196610150STL.html
+Sat Oct 15 1966,Philadelphia 76ers,New York Knicks,128,112,Convention Hall,0,/boxscores/196610150PHI.html
+Sat Oct 15 1966,Cincinnati Royals,Detroit Pistons,103,99,Cincinnati Gardens,0,/boxscores/196610150CIN.html
+Tue Oct 18 1966,Chicago Bulls,San Francisco Warriors,119,116,International Amphitheatre,0,/boxscores/196610180CHI.html
+Tue Oct 18 1966,Detroit Pistons,Cincinnati Royals,114,112,Cobo Arena,0,/boxscores/196610180DET.html
+Tue Oct 18 1966,New York Knicks,Los Angeles Lakers,122,119,Madison Square Garden (III),0,/boxscores/196610180NYK.html
+Wed Oct 19 1966,Baltimore Bullets,New York Knicks,109,131,Baltimore Civic Center,0,/boxscores/196610190BAL.html
+Wed Oct 19 1966,Chicago Bulls,Los Angeles Lakers,134,124,International Amphitheatre,0,/boxscores/196610190CHI.html
+Thu Oct 20 1966,Chicago Bulls,San Francisco Warriors,111,121,San Jose Civic Auditorium,0,/boxscores/196610200CHI.html
+Thu Oct 20 1966,Detroit Pistons,St. Louis Hawks,105,113,Cobo Arena,0,/boxscores/196610200DET.html
+Fri Oct 21 1966,Boston Celtics,Baltimore Bullets,111,91,Boston Garden,0,/boxscores/196610210BOS.html
+Fri Oct 21 1966,Los Angeles Lakers,Chicago Bulls,101,108,Los Angeles Memorial Sports Arena,0,/boxscores/196610210LAL.html
+Fri Oct 21 1966,Philadelphia 76ers,St. Louis Hawks,119,110,Convention Hall,0,/boxscores/196610210PHI.html
+Fri Oct 21 1966,San Francisco Warriors,Detroit Pistons,136,119,San Francisco Civic Auditorium,0,/boxscores/196610210SFW.html
+Sat Oct 22 1966,St. Louis Hawks,Cincinnati Royals,133,123,Kiel Auditorium,0,/boxscores/196610220STL.html
+Sat Oct 22 1966,New York Knicks,Boston Celtics,97,126,Madison Square Garden (III),0,/boxscores/196610220NYK.html
+Sat Oct 22 1966,Baltimore Bullets,Philadelphia 76ers,112,141,Baltimore Civic Center,0,/boxscores/196610220BAL.html
+Sun Oct 23 1966,Chicago Bulls,New York Knicks,105,124,International Amphitheatre,0,/boxscores/196610230CHI.html
+Sun Oct 23 1966,Detroit Pistons,San Francisco Warriors,119,110,Seattle Center Coliseum,0,/boxscores/196610230DET.html
+Tue Oct 25 1966,Philadelphia 76ers,Baltimore Bullets,130,110,Convention Hall,0,/boxscores/196610250PHI.html
+Wed Oct 26 1966,Baltimore Bullets,Cincinnati Royals,122,116,Baltimore Civic Center,0,/boxscores/196610260BAL.html
+Wed Oct 26 1966,Los Angeles Lakers,New York Knicks,122,133,Los Angeles Memorial Sports Arena,0,/boxscores/196610260LAL.html
+Thu Oct 27 1966,Boston Celtics,Chicago Bulls,123,100,Rhode Island Auditorium,0,/boxscores/196610270BOS.html
+Thu Oct 27 1966,Cincinnati Royals,St. Louis Hawks,121,118,Cincinnati Gardens,0,/boxscores/196610270CIN.html
+Fri Oct 28 1966,Baltimore Bullets,San Francisco Warriors,104,105,Baltimore Civic Center,0,/boxscores/196610280BAL.html
+Fri Oct 28 1966,Chicago Bulls,Detroit Pistons,117,129,War Memorial Coliseum,0,/boxscores/196610280CHI.html
+Fri Oct 28 1966,Los Angeles Lakers,New York Knicks,124,114,Los Angeles Memorial Sports Arena,0,/boxscores/196610280LAL.html
+Sat Oct 29 1966,Cincinnati Royals,San Francisco Warriors,115,127,Cincinnati Gardens,0,/boxscores/196610290CIN.html
+Sat Oct 29 1966,Detroit Pistons,Baltimore Bullets,103,97,Cobo Arena,0,/boxscores/196610290DET.html
+Sat Oct 29 1966,Philadelphia 76ers,Boston Celtics,138,96,Convention Hall,0,/boxscores/196610290PHI.html
+Sat Oct 29 1966,St. Louis Hawks,Los Angeles Lakers,110,109,Kiel Auditorium,0,/boxscores/196610290STL.html
+Sun Oct 30 1966,Detroit Pistons,Los Angeles Lakers,124,121,Montreal Forum,0,/boxscores/196610300DET.html

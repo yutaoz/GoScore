@@ -1,0 +1,22 @@
+Fri Oct 29 1982,Denver Nuggets,Dallas Mavericks,117,125,McNichols Sports Arena,12099,/boxscores/198210290DEN.html
+Fri Oct 29 1982,Detroit Pistons,Atlanta Hawks,94,86,Pontiac Silverdome,15252,/boxscores/198210290DET.html
+Fri Oct 29 1982,Indiana Pacers,Washington Bullets,93,90,Market Square Arena,3622,/boxscores/198210290IND.html
+Fri Oct 29 1982,Kansas City Kings,Portland Trail Blazers,113,111,Kemper Arena,12492,/boxscores/198210290KCK.html
+Fri Oct 29 1982,Los Angeles Lakers,Golden State Warriors,117,132,The Forum,15802,/boxscores/198210290LAL.html
+Fri Oct 29 1982,New York Knicks,Philadelphia 76ers,89,104,Madison Square Garden (IV),19591,/boxscores/198210290NYK.html
+Fri Oct 29 1982,San Diego Clippers,Phoenix Suns,99,113,San Diego Sports Arena,5063,/boxscores/198210290SDC.html
+Fri Oct 29 1982,Seattle SuperSonics,Houston Rockets,128,95,Seattle Kingdome,21885,/boxscores/198210290SEA.html
+Fri Oct 29 1982,Utah Jazz,San Antonio Spurs,114,120,Salt Palace,8436,/boxscores/198210290UTA.html
+Fri Oct 29 1982,Cleveland Cavaliers,Boston Celtics,93,104,Coliseum at Richfield,8633,/boxscores/198210290CLE.html
+Fri Oct 29 1982,New Jersey Nets,Chicago Bulls,114,102,Brendan Byrne Arena,11042,/boxscores/198210290NJN.html
+Sat Oct 30 1982,Atlanta Hawks,Boston Celtics,97,112,Omni Coliseum,13419,/boxscores/198210300ATL.html
+Sat Oct 30 1982,San Antonio Spurs,Portland Trail Blazers,112,107,HemisFair Arena,12150,/boxscores/198210300SAS.html
+Sat Oct 30 1982,Philadelphia 76ers,New Jersey Nets,110,99,The Spectrum,18482,/boxscores/198210300PHI.html
+Sat Oct 30 1982,Milwaukee Bucks,New York Knicks,108,86,MECCA Arena,11052,/boxscores/198210300MIL.html
+Sat Oct 30 1982,Golden State Warriors,Houston Rockets,117,110,Oakland-Alameda County Coliseum Arena,7506,/boxscores/198210300GSW.html
+Sat Oct 30 1982,Dallas Mavericks,Utah Jazz,123,128,Reunion Arena,9203,/boxscores/198210300DAL.html
+Sat Oct 30 1982,Chicago Bulls,Washington Bullets,125,143,Chicago Stadium,9218,/boxscores/198210300CHI.html
+Sun Oct 31 1982,Cleveland Cavaliers,Milwaukee Bucks,95,119,Coliseum at Richfield,6622,/boxscores/198210310CLE.html
+Sun Oct 31 1982,Denver Nuggets,Phoenix Suns,114,110,McNichols Sports Arena,8893,/boxscores/198210310DEN.html
+Sun Oct 31 1982,Indiana Pacers,Detroit Pistons,115,118,Market Square Arena,4268,/boxscores/198210310IND.html
+Sun Oct 31 1982,San Diego Clippers,Seattle SuperSonics,109,127,San Diego Sports Arena,3507,/boxscores/198210310SDC.html

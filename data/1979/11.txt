@@ -1,0 +1,150 @@
+Wed Nov 1 1978,Boston Celtics,Chicago Bulls,118,112,Boston Garden,0,/boxscores/197811010BOS.html
+Wed Nov 1 1978,Houston Rockets,Golden State Warriors,105,112,The Summit,0,/boxscores/197811010HOU.html
+Wed Nov 1 1978,Indiana Pacers,Washington Bullets,113,124,Market Square Arena,0,/boxscores/197811010IND.html
+Wed Nov 1 1978,Kansas City Kings,Cleveland Cavaliers,122,107,Kemper Arena,0,/boxscores/197811010KCK.html
+Wed Nov 1 1978,New Jersey Nets,Milwaukee Bucks,131,110,Rutgers Athletic Center,0,/boxscores/197811010NJN.html
+Wed Nov 1 1978,Philadelphia 76ers,San Antonio Spurs,116,115,The Spectrum,0,/boxscores/197811010PHI.html
+Thu Nov 2 1978,Atlanta Hawks,Golden State Warriors,106,113,Omni Coliseum,0,/boxscores/197811020ATL.html
+Thu Nov 2 1978,Detroit Pistons,Seattle SuperSonics,94,95,Pontiac Silverdome,0,/boxscores/197811020DET.html
+Thu Nov 2 1978,New Orleans Jazz,Phoenix Suns,99,106,Louisiana Superdome,0,/boxscores/197811020NOJ.html
+Thu Nov 2 1978,San Diego Clippers,New York Knicks,122,127,San Diego Sports Arena,0,/boxscores/197811020SDC.html
+Fri Nov 3 1978,Boston Celtics,San Antonio Spurs,103,110,Boston Garden,0,/boxscores/197811030BOS.html
+Fri Nov 3 1978,Chicago Bulls,Detroit Pistons,93,99,Chicago Stadium,0,/boxscores/197811030CHI.html
+Fri Nov 3 1978,Denver Nuggets,Cleveland Cavaliers,110,93,McNichols Sports Arena,0,/boxscores/197811030DEN.html
+Fri Nov 3 1978,Indiana Pacers,Kansas City Kings,115,108,Market Square Arena,0,/boxscores/197811030IND.html
+Fri Nov 3 1978,Los Angeles Lakers,New York Knicks,147,124,The Forum,0,/boxscores/197811030LAL.html
+Fri Nov 3 1978,New Jersey Nets,Seattle SuperSonics,81,102,Rutgers Athletic Center,0,/boxscores/197811030NJN.html
+Fri Nov 3 1978,Philadelphia 76ers,Milwaukee Bucks,118,103,The Spectrum,0,/boxscores/197811030PHI.html
+Fri Nov 3 1978,Portland Trail Blazers,San Diego Clippers,119,98,Memorial Coliseum,0,/boxscores/197811030POR.html
+Sat Nov 4 1978,Atlanta Hawks,New Jersey Nets,117,118,Omni Coliseum,0,/boxscores/197811040ATL.html
+Sat Nov 4 1978,Chicago Bulls,Indiana Pacers,97,84,Chicago Stadium,0,/boxscores/197811040CHI.html
+Sat Nov 4 1978,Detroit Pistons,Golden State Warriors,95,103,Pontiac Silverdome,0,/boxscores/197811040DET.html
+Sat Nov 4 1978,Houston Rockets,Phoenix Suns,110,103,The Summit,0,/boxscores/197811040HOU.html
+Sat Nov 4 1978,Kansas City Kings,Denver Nuggets,109,107,Kemper Arena,0,/boxscores/197811040KCK.html
+Sat Nov 4 1978,Milwaukee Bucks,New Orleans Jazz,108,116,MECCA Arena,0,/boxscores/197811040MIL.html
+Sat Nov 4 1978,San Diego Clippers,Cleveland Cavaliers,106,112,San Diego Sports Arena,0,/boxscores/197811040SDC.html
+Sat Nov 4 1978,Washington Bullets,San Antonio Spurs,124,119,Capital Centre,0,/boxscores/197811040WSB.html
+Sun Nov 5 1978,Los Angeles Lakers,Cleveland Cavaliers,117,107,The Forum,0,/boxscores/197811050LAL.html
+Sun Nov 5 1978,Portland Trail Blazers,New York Knicks,111,96,Memorial Coliseum,0,/boxscores/197811050POR.html
+Tue Nov 7 1978,Chicago Bulls,Los Angeles Lakers,111,112,Chicago Stadium,0,/boxscores/197811070CHI.html
+Tue Nov 7 1978,Milwaukee Bucks,Boston Celtics,125,108,MECCA Arena,0,/boxscores/197811070MIL.html
+Tue Nov 7 1978,New Orleans Jazz,San Diego Clippers,115,121,Louisiana Superdome,0,/boxscores/197811070NOJ.html
+Tue Nov 7 1978,Washington Bullets,Portland Trail Blazers,143,103,Capital Centre,0,/boxscores/197811070WSB.html
+Wed Nov 8 1978,Boston Celtics,Portland Trail Blazers,109,112,Boston Garden,0,/boxscores/197811080BOS.html
+Wed Nov 8 1978,Detroit Pistons,Milwaukee Bucks,117,106,Pontiac Silverdome,0,/boxscores/197811080DET.html
+Wed Nov 8 1978,Golden State Warriors,Kansas City Kings,97,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197811080GSW.html
+Wed Nov 8 1978,Indiana Pacers,Los Angeles Lakers,111,113,Market Square Arena,0,/boxscores/197811080IND.html
+Wed Nov 8 1978,Philadelphia 76ers,New Jersey Nets,123,117,The Spectrum,0,/boxscores/197811080PHI.html
+Wed Nov 8 1978,Phoenix Suns,Cleveland Cavaliers,118,96,Arizona Veterans Memorial Coliseum,0,/boxscores/197811080PHO.html
+Wed Nov 8 1978,San Antonio Spurs,San Diego Clippers,163,125,HemisFair Arena,0,/boxscores/197811080SAS.html
+Wed Nov 8 1978,Seattle SuperSonics,New York Knicks,100,104,Seattle Kingdome,0,/boxscores/197811080SEA.html
+Thu Nov 9 1978,Atlanta Hawks,San Diego Clippers,125,101,Omni Coliseum,0,/boxscores/197811090ATL.html
+Thu Nov 9 1978,Denver Nuggets,New York Knicks,116,109,McNichols Sports Arena,0,/boxscores/197811090DEN.html
+Fri Nov 10 1978,Boston Celtics,Atlanta Hawks,103,115,Boston Garden,0,/boxscores/197811100BOS.html
+Fri Nov 10 1978,Detroit Pistons,Chicago Bulls,115,101,Pontiac Silverdome,0,/boxscores/197811100DET.html
+Fri Nov 10 1978,Golden State Warriors,Indiana Pacers,116,111,Oakland-Alameda County Coliseum Arena,0,/boxscores/197811100GSW.html
+Fri Nov 10 1978,Los Angeles Lakers,Kansas City Kings,136,127,The Forum,0,/boxscores/197811100LAL.html
+Fri Nov 10 1978,Milwaukee Bucks,Houston Rockets,131,126,MECCA Arena,0,/boxscores/197811100MIL.html
+Fri Nov 10 1978,New Jersey Nets,Portland Trail Blazers,91,86,Rutgers Athletic Center,0,/boxscores/197811100NJN.html
+Fri Nov 10 1978,New Orleans Jazz,San Antonio Spurs,113,102,Louisiana Superdome,0,/boxscores/197811100NOJ.html
+Fri Nov 10 1978,Phoenix Suns,Denver Nuggets,132,150,Arizona Veterans Memorial Coliseum,0,/boxscores/197811100PHO.html
+Fri Nov 10 1978,Seattle SuperSonics,Cleveland Cavaliers,109,95,Seattle Kingdome,0,/boxscores/197811100SEA.html
+Fri Nov 10 1978,Washington Bullets,Philadelphia 76ers,122,123,Capital Centre,0,/boxscores/197811100WSB.html
+Sat Nov 11 1978,Atlanta Hawks,Milwaukee Bucks,102,95,Omni Coliseum,0,/boxscores/197811110ATL.html
+Sat Nov 11 1978,Chicago Bulls,New Jersey Nets,112,125,Chicago Stadium,0,/boxscores/197811110CHI.html
+Sat Nov 11 1978,Denver Nuggets,Kansas City Kings,113,117,McNichols Sports Arena,0,/boxscores/197811110DEN.html
+Sat Nov 11 1978,Houston Rockets,San Diego Clippers,136,123,The Summit,0,/boxscores/197811110HOU.html
+Sat Nov 11 1978,New York Knicks,Boston Celtics,111,98,Madison Square Garden (IV),0,/boxscores/197811110NYK.html
+Sat Nov 11 1978,Philadelphia 76ers,Detroit Pistons,135,112,The Spectrum,0,/boxscores/197811110PHI.html
+Sat Nov 11 1978,San Antonio Spurs,Washington Bullets,143,124,HemisFair Arena,0,/boxscores/197811110SAS.html
+Sun Nov 12 1978,Boston Celtics,Detroit Pistons,123,128,Boston Garden,0,/boxscores/197811120BOS.html
+Sun Nov 12 1978,Los Angeles Lakers,Indiana Pacers,134,106,The Forum,0,/boxscores/197811120LAL.html
+Sun Nov 12 1978,Phoenix Suns,New Orleans Jazz,128,122,Arizona Veterans Memorial Coliseum,0,/boxscores/197811120PHO.html
+Sun Nov 12 1978,Portland Trail Blazers,Cleveland Cavaliers,98,91,Memorial Coliseum,0,/boxscores/197811120POR.html
+Tue Nov 14 1978,Cleveland Cavaliers,Washington Bullets,106,122,Coliseum at Richfield,0,/boxscores/197811140CLE.html
+Tue Nov 14 1978,Milwaukee Bucks,Los Angeles Lakers,119,137,MECCA Arena,0,/boxscores/197811140MIL.html
+Tue Nov 14 1978,New Jersey Nets,Philadelphia 76ers,124,108,Rutgers Athletic Center,0,/boxscores/197811140NJN.html
+Tue Nov 14 1978,New York Knicks,Denver Nuggets,106,100,Madison Square Garden (IV),0,/boxscores/197811140NYK.html
+Tue Nov 14 1978,Portland Trail Blazers,New Orleans Jazz,123,103,Memorial Coliseum,0,/boxscores/197811140POR.html
+Tue Nov 14 1978,San Diego Clippers,Indiana Pacers,109,106,San Diego Sports Arena,0,/boxscores/197811140SDC.html
+Wed Nov 15 1978,Detroit Pistons,Los Angeles Lakers,126,133,Pontiac Silverdome,0,/boxscores/197811150DET.html
+Wed Nov 15 1978,Houston Rockets,Chicago Bulls,103,117,The Summit,0,/boxscores/197811150HOU.html
+Wed Nov 15 1978,Kansas City Kings,Atlanta Hawks,109,100,Municipal Auditorium,0,/boxscores/197811150KCK.html
+Wed Nov 15 1978,Philadelphia 76ers,Denver Nuggets,109,103,The Spectrum,0,/boxscores/197811150PHI.html
+Wed Nov 15 1978,San Antonio Spurs,Phoenix Suns,119,125,HemisFair Arena,0,/boxscores/197811150SAS.html
+Wed Nov 15 1978,Seattle SuperSonics,New Orleans Jazz,135,118,Seattle Kingdome,0,/boxscores/197811150SEA.html
+Wed Nov 15 1978,Washington Bullets,Milwaukee Bucks,138,111,Capital Centre,0,/boxscores/197811150WSB.html
+Thu Nov 16 1978,Cleveland Cavaliers,New York Knicks,93,97,Coliseum at Richfield,0,/boxscores/197811160CLE.html
+Thu Nov 16 1978,San Diego Clippers,Golden State Warriors,112,109,San Diego Sports Arena,0,/boxscores/197811160SDC.html
+Fri Nov 17 1978,Boston Celtics,Denver Nuggets,120,118,Boston Garden,0,/boxscores/197811170BOS.html
+Fri Nov 17 1978,Golden State Warriors,Chicago Bulls,89,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197811170GSW.html
+Fri Nov 17 1978,Los Angeles Lakers,New Orleans Jazz,121,109,The Forum,0,/boxscores/197811170LAL.html
+Fri Nov 17 1978,New Jersey Nets,Washington Bullets,94,143,Rutgers Athletic Center,0,/boxscores/197811170NJN.html
+Fri Nov 17 1978,Philadelphia 76ers,Phoenix Suns,95,94,The Spectrum,0,/boxscores/197811170PHI.html
+Fri Nov 17 1978,Seattle SuperSonics,Indiana Pacers,126,115,Seattle Kingdome,0,/boxscores/197811170SEA.html
+Sat Nov 18 1978,Atlanta Hawks,Philadelphia 76ers,124,116,Omni Coliseum,0,/boxscores/197811180ATL.html
+Sat Nov 18 1978,Cleveland Cavaliers,Boston Celtics,90,92,Coliseum at Richfield,0,/boxscores/197811180CLE.html
+Sat Nov 18 1978,Detroit Pistons,Phoenix Suns,105,119,Pontiac Silverdome,0,/boxscores/197811180DET.html
+Sat Nov 18 1978,Golden State Warriors,Seattle SuperSonics,112,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197811180GSW.html
+Sat Nov 18 1978,Houston Rockets,San Antonio Spurs,126,120,The Summit,0,/boxscores/197811180HOU.html
+Sat Nov 18 1978,Kansas City Kings,New Jersey Nets,114,100,Municipal Auditorium,0,/boxscores/197811180KCK.html
+Sat Nov 18 1978,New York Knicks,Milwaukee Bucks,102,100,Madison Square Garden (IV),0,/boxscores/197811180NYK.html
+Sat Nov 18 1978,Portland Trail Blazers,Indiana Pacers,123,111,Memorial Coliseum,0,/boxscores/197811180POR.html
+Sat Nov 18 1978,San Diego Clippers,New Orleans Jazz,114,111,San Diego Sports Arena,0,/boxscores/197811180SDC.html
+Sat Nov 18 1978,Washington Bullets,Denver Nuggets,119,114,Capital Centre,0,/boxscores/197811180WSB.html
+Sun Nov 19 1978,Los Angeles Lakers,Chicago Bulls,104,95,The Forum,0,/boxscores/197811190LAL.html
+Sun Nov 19 1978,Seattle SuperSonics,Portland Trail Blazers,88,85,Seattle Kingdome,0,/boxscores/197811190SEA.html
+Tue Nov 21 1978,Cleveland Cavaliers,Phoenix Suns,108,110,Coliseum at Richfield,0,/boxscores/197811210CLE.html
+Tue Nov 21 1978,Milwaukee Bucks,Portland Trail Blazers,123,93,MECCA Arena,0,/boxscores/197811210MIL.html
+Tue Nov 21 1978,New Orleans Jazz,New Jersey Nets,140,118,Louisiana Superdome,0,/boxscores/197811210NOJ.html
+Tue Nov 21 1978,New York Knicks,Detroit Pistons,96,79,Madison Square Garden (IV),0,/boxscores/197811210NYK.html
+Tue Nov 21 1978,Philadelphia 76ers,Golden State Warriors,105,115,The Spectrum,0,/boxscores/197811210PHI.html
+Tue Nov 21 1978,San Antonio Spurs,Indiana Pacers,103,108,HemisFair Arena,0,/boxscores/197811210SAS.html
+Tue Nov 21 1978,San Diego Clippers,Atlanta Hawks,107,113,San Diego Sports Arena,0,/boxscores/197811210SDC.html
+Wed Nov 22 1978,Boston Celtics,Washington Bullets,103,119,Boston Garden,0,/boxscores/197811220BOS.html
+Wed Nov 22 1978,Denver Nuggets,Atlanta Hawks,111,113,McNichols Sports Arena,0,/boxscores/197811220DEN.html
+Wed Nov 22 1978,Houston Rockets,Los Angeles Lakers,114,121,The Summit,0,/boxscores/197811220HOU.html
+Wed Nov 22 1978,Indiana Pacers,Phoenix Suns,110,115,Market Square Arena,0,/boxscores/197811220IND.html
+Wed Nov 22 1978,Kansas City Kings,Portland Trail Blazers,115,96,Kemper Arena,0,/boxscores/197811220KCK.html
+Wed Nov 22 1978,New Jersey Nets,Golden State Warriors,100,92,Rutgers Athletic Center,0,/boxscores/197811220NJN.html
+Wed Nov 22 1978,Seattle SuperSonics,Chicago Bulls,98,96,Seattle Kingdome,0,/boxscores/197811220SEA.html
+Thu Nov 23 1978,Milwaukee Bucks,San Antonio Spurs,114,116,MECCA Arena,0,/boxscores/197811230MIL.html
+Thu Nov 23 1978,New Orleans Jazz,Golden State Warriors,106,98,Louisiana Superdome,0,/boxscores/197811230NOJ.html
+Fri Nov 24 1978,Boston Celtics,New York Knicks,109,98,Boston Garden,0,/boxscores/197811240BOS.html
+Fri Nov 24 1978,Detroit Pistons,Atlanta Hawks,119,117,Pontiac Silverdome,0,/boxscores/197811240DET.html
+Fri Nov 24 1978,Indiana Pacers,Cleveland Cavaliers,98,104,Market Square Arena,0,/boxscores/197811240IND.html
+Fri Nov 24 1978,New Jersey Nets,New Orleans Jazz,103,100,Rutgers Athletic Center,0,/boxscores/197811240NJN.html
+Fri Nov 24 1978,Philadelphia 76ers,San Diego Clippers,134,120,The Spectrum,0,/boxscores/197811240PHI.html
+Fri Nov 24 1978,Phoenix Suns,Houston Rockets,120,113,Arizona Veterans Memorial Coliseum,0,/boxscores/197811240PHO.html
+Fri Nov 24 1978,Portland Trail Blazers,Chicago Bulls,99,100,Memorial Coliseum,0,/boxscores/197811240POR.html
+Fri Nov 24 1978,Seattle SuperSonics,Denver Nuggets,100,103,Seattle Kingdome,0,/boxscores/197811240SEA.html
+Fri Nov 24 1978,Washington Bullets,Los Angeles Lakers,113,103,Capital Centre,0,/boxscores/197811240WSB.html
+Sat Nov 25 1978,Atlanta Hawks,Los Angeles Lakers,109,103,Omni Coliseum,0,/boxscores/197811250ATL.html
+Sat Nov 25 1978,Denver Nuggets,Seattle SuperSonics,104,110,McNichols Sports Arena,0,/boxscores/197811250DEN.html
+Sat Nov 25 1978,Kansas City Kings,San Diego Clippers,86,87,Kemper Arena,0,/boxscores/197811250KCK.html
+Sat Nov 25 1978,Milwaukee Bucks,Philadelphia 76ers,127,126,MECCA Arena,0,/boxscores/197811250MIL.html
+Sat Nov 25 1978,New York Knicks,New Orleans Jazz,103,96,Madison Square Garden (IV),0,/boxscores/197811250NYK.html
+Sat Nov 25 1978,Portland Trail Blazers,Houston Rockets,127,105,Memorial Coliseum,0,/boxscores/197811250POR.html
+Sat Nov 25 1978,San Antonio Spurs,New Jersey Nets,151,110,HemisFair Arena,0,/boxscores/197811250SAS.html
+Sun Nov 26 1978,Indiana Pacers,Milwaukee Bucks,114,112,Market Square Arena,0,/boxscores/197811260IND.html
+Sun Nov 26 1978,Phoenix Suns,Chicago Bulls,125,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197811260PHO.html
+Sun Nov 26 1978,San Diego Clippers,Boston Celtics,105,103,San Diego Sports Arena,0,/boxscores/197811260SDC.html
+Sun Nov 26 1978,Seattle SuperSonics,Houston Rockets,103,108,Seattle Kingdome,0,/boxscores/197811260SEA.html
+Sun Nov 26 1978,Washington Bullets,Golden State Warriors,110,102,Capital Centre,0,/boxscores/197811260WSB.html
+Tue Nov 28 1978,Chicago Bulls,Phoenix Suns,124,112,Chicago Stadium,0,/boxscores/197811280CHI.html
+Tue Nov 28 1978,Cleveland Cavaliers,Atlanta Hawks,112,98,Coliseum at Richfield,0,/boxscores/197811280CLE.html
+Tue Nov 28 1978,Los Angeles Lakers,Detroit Pistons,103,105,The Forum,0,/boxscores/197811280LAL.html
+Tue Nov 28 1978,Milwaukee Bucks,Denver Nuggets,117,100,MECCA Arena,0,/boxscores/197811280MIL.html
+Tue Nov 28 1978,New Orleans Jazz,Philadelphia 76ers,107,103,Louisiana Superdome,0,/boxscores/197811280NOJ.html
+Tue Nov 28 1978,New York Knicks,Washington Bullets,106,133,Madison Square Garden (IV),0,/boxscores/197811280NYK.html
+Tue Nov 28 1978,Portland Trail Blazers,Boston Celtics,102,97,Memorial Coliseum,0,/boxscores/197811280POR.html
+Wed Nov 29 1978,Golden State Warriors,Houston Rockets,109,94,Oakland-Alameda County Coliseum Arena,0,/boxscores/197811290GSW.html
+Wed Nov 29 1978,Indiana Pacers,New York Knicks,101,99,Market Square Arena,0,/boxscores/197811290IND.html
+Wed Nov 29 1978,San Antonio Spurs,Philadelphia 76ers,114,120,HemisFair Arena,0,/boxscores/197811290SAS.html
+Wed Nov 29 1978,Seattle SuperSonics,New Jersey Nets,125,111,Seattle Kingdome,0,/boxscores/197811290SEA.html
+Thu Nov 30 1978,Atlanta Hawks,New York Knicks,102,96,Omni Coliseum,0,/boxscores/197811300ATL.html
+Thu Nov 30 1978,Cleveland Cavaliers,Portland Trail Blazers,97,98,Coliseum at Richfield,0,/boxscores/197811300CLE.html
+Thu Nov 30 1978,Kansas City Kings,Boston Celtics,108,94,Kemper Arena,0,/boxscores/197811300KCK.html
+Thu Nov 30 1978,New Orleans Jazz,Denver Nuggets,111,105,Louisiana Superdome,0,/boxscores/197811300NOJ.html
+Thu Nov 30 1978,Phoenix Suns,Detroit Pistons,119,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197811300PHO.html
+Thu Nov 30 1978,San Diego Clippers,Houston Rockets,104,113,San Diego Sports Arena,0,/boxscores/197811300SDC.html

@@ -1,0 +1,31 @@
+Thu Oct 23 1975,Cleveland Cavaliers,Golden State Warriors,83,89,Coliseum at Richfield,0,/boxscores/197510230CLE.html
+Thu Oct 23 1975,New York Knicks,Los Angeles Lakers,101,104,Madison Square Garden (IV),0,/boxscores/197510230NYK.html
+Thu Oct 23 1975,Washington Bullets,Kansas City Kings,107,95,Capital Centre,0,/boxscores/197510230WSB.html
+Thu Oct 23 1975,Atlanta Hawks,New Orleans Jazz,109,91,Omni Coliseum,0,/boxscores/197510230ATL.html
+Fri Oct 24 1975,Boston Celtics,Houston Rockets,109,94,Boston Garden,0,/boxscores/197510240BOS.html
+Fri Oct 24 1975,Chicago Bulls,Philadelphia 76ers,103,110,Chicago Stadium,0,/boxscores/197510240CHI.html
+Fri Oct 24 1975,New Orleans Jazz,Detroit Pistons,114,106,Louisiana Superdome,0,/boxscores/197510240NOJ.html
+Fri Oct 24 1975,Seattle SuperSonics,Portland Trail Blazers,105,97,Seattle Center Coliseum,0,/boxscores/197510240SEA.html
+Sat Oct 25 1975,Atlanta Hawks,Detroit Pistons,102,108,Omni Coliseum,0,/boxscores/197510250ATL.html
+Sat Oct 25 1975,Buffalo Braves,Golden State Warriors,104,92,Buffalo Memorial Auditorium,0,/boxscores/197510250BUF.html
+Sat Oct 25 1975,Milwaukee Bucks,Chicago Bulls,87,91,MECCA Arena,0,/boxscores/197510250MIL.html
+Sat Oct 25 1975,New York Knicks,Cleveland Cavaliers,100,91,Madison Square Garden (IV),0,/boxscores/197510250NYK.html
+Sat Oct 25 1975,Portland Trail Blazers,Phoenix Suns,88,89,Memorial Coliseum,0,/boxscores/197510250POR.html
+Sun Oct 26 1975,Seattle SuperSonics,Phoenix Suns,113,99,Seattle Center Coliseum,0,/boxscores/197510260SEA.html
+Sun Oct 26 1975,New Orleans Jazz,New York Knicks,125,114,Louisiana Superdome,13108,/boxscores/197510260NOJ.html
+Mon Oct 27 1975,Philadelphia 76ers,Los Angeles Lakers,117,104,The Spectrum,0,/boxscores/197510270PHI.html
+Tue Oct 28 1975,Buffalo Braves,Houston Rockets,124,108,Buffalo Memorial Auditorium,0,/boxscores/197510280BUF.html
+Tue Oct 28 1975,Chicago Bulls,Seattle SuperSonics,101,90,Chicago Stadium,0,/boxscores/197510280CHI.html
+Tue Oct 28 1975,Milwaukee Bucks,Los Angeles Lakers,92,99,MECCA Arena,0,/boxscores/197510280MIL.html
+Tue Oct 28 1975,New Orleans Jazz,Portland Trail Blazers,99,90,Louisiana Superdome,0,/boxscores/197510280NOJ.html
+Tue Oct 28 1975,New York Knicks,Golden State Warriors,94,111,Madison Square Garden (IV),0,/boxscores/197510280NYK.html
+Wed Oct 29 1975,Boston Celtics,Golden State Warriors,115,106,Boston Garden,0,/boxscores/197510290BOS.html
+Wed Oct 29 1975,Detroit Pistons,Los Angeles Lakers,112,99,Cobo Arena,0,/boxscores/197510290DET.html
+Wed Oct 29 1975,Kansas City Kings,Seattle SuperSonics,91,92,Kemper Arena,0,/boxscores/197510290KCK.html
+Thu Oct 30 1975,Cleveland Cavaliers,Chicago Bulls,108,91,Coliseum at Richfield,0,/boxscores/197510300CLE.html
+Thu Oct 30 1975,New York Knicks,Kansas City Kings,117,113,Madison Square Garden (IV),0,/boxscores/197510300NYK.html
+Fri Oct 31 1975,Boston Celtics,Portland Trail Blazers,112,94,Boston Garden,0,/boxscores/197510310BOS.html
+Fri Oct 31 1975,Detroit Pistons,Houston Rockets,131,127,Cobo Arena,0,/boxscores/197510310DET.html
+Fri Oct 31 1975,Los Angeles Lakers,Seattle SuperSonics,120,104,The Forum,0,/boxscores/197510310LAL.html
+Fri Oct 31 1975,New Orleans Jazz,Milwaukee Bucks,100,85,Louisiana Superdome,0,/boxscores/197510310NOJ.html
+Fri Oct 31 1975,Philadelphia 76ers,Buffalo Braves,87,92,The Spectrum,0,/boxscores/197510310PHI.html

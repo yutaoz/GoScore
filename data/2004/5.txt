@@ -1,0 +1,39 @@
+Sun May 2 2004,New Orleans Hornets,Miami Heat,89,83,New Orleans Arena,17297,/boxscores/200405020NOH.html
+Sun May 2 2004,San Antonio Spurs,Los Angeles Lakers,88,78,SBC Center,18797,/boxscores/200405020SAS.html
+Mon May 3 2004,Detroit Pistons,New Jersey Nets,78,56,The Palace of Auburn Hills,22076,/boxscores/200405030DET.html
+Tue May 4 2004,Miami Heat,New Orleans Hornets,85,77,AmericanAirlines Arena,20286,/boxscores/200405040MIA.html
+Tue May 4 2004,Minnesota Timberwolves,Sacramento Kings,98,104,Target Center,18792,/boxscores/200405040MIN.html
+Wed May 5 2004,San Antonio Spurs,Los Angeles Lakers,95,85,SBC Center,18797,/boxscores/200405050SAS.html
+Thu May 6 2004,Indiana Pacers,Miami Heat,94,81,Conseco Fieldhouse,18345,/boxscores/200405060IND.html
+Fri May 7 2004,Detroit Pistons,New Jersey Nets,95,80,The Palace of Auburn Hills,22076,/boxscores/200405070DET.html
+Sat May 8 2004,Indiana Pacers,Miami Heat,91,80,Conseco Fieldhouse,18345,/boxscores/200405080IND.html
+Sat May 8 2004,Minnesota Timberwolves,Sacramento Kings,94,89,Target Center,19599,/boxscores/200405080MIN.html
+Sun May 9 2004,Los Angeles Lakers,San Antonio Spurs,105,81,STAPLES Center,18997,/boxscores/200405090LAL.html
+Sun May 9 2004,New Jersey Nets,Detroit Pistons,82,64,Continental Airlines Arena,19000,/boxscores/200405090NJN.html
+Mon May 10 2004,Miami Heat,Indiana Pacers,94,87,AmericanAirlines Arena,20115,/boxscores/200405100MIA.html
+Mon May 10 2004,Sacramento Kings,Minnesota Timberwolves,113,114,ARCO Arena (II),17317,/boxscores/200405100SAC.html
+Tue May 11 2004,New Jersey Nets,Detroit Pistons,94,79,Continental Airlines Arena,19860,/boxscores/200405110NJN.html
+Tue May 11 2004,Los Angeles Lakers,San Antonio Spurs,98,90,STAPLES Center,18997,/boxscores/200405110LAL.html
+Wed May 12 2004,Miami Heat,Indiana Pacers,100,88,AmericanAirlines Arena,20128,/boxscores/200405120MIA.html
+Wed May 12 2004,Sacramento Kings,Minnesota Timberwolves,87,81,ARCO Arena (II),17317,/boxscores/200405120SAC.html
+Thu May 13 2004,San Antonio Spurs,Los Angeles Lakers,73,74,SBC Center,18797,/boxscores/200405130SAS.html
+Fri May 14 2004,Detroit Pistons,New Jersey Nets,120,127,The Palace of Auburn Hills,22076,/boxscores/200405140DET.html
+Fri May 14 2004,Minnesota Timberwolves,Sacramento Kings,86,74,Target Center,19818,/boxscores/200405140MIN.html
+Sat May 15 2004,Indiana Pacers,Miami Heat,94,83,Conseco Fieldhouse,18345,/boxscores/200405150IND.html
+Sat May 15 2004,Los Angeles Lakers,San Antonio Spurs,88,76,STAPLES Center,18997,/boxscores/200405150LAL.html
+Sun May 16 2004,Sacramento Kings,Minnesota Timberwolves,104,87,ARCO Arena (II),17317,/boxscores/200405160SAC.html
+Sun May 16 2004,New Jersey Nets,Detroit Pistons,75,81,Continental Airlines Arena,19968,/boxscores/200405160NJN.html
+Tue May 18 2004,Miami Heat,Indiana Pacers,70,73,AmericanAirlines Arena,20136,/boxscores/200405180MIA.html
+Wed May 19 2004,Minnesota Timberwolves,Sacramento Kings,83,80,Target Center,19944,/boxscores/200405190MIN.html
+Thu May 20 2004,Detroit Pistons,New Jersey Nets,90,69,The Palace of Auburn Hills,22076,/boxscores/200405200DET.html
+Fri May 21 2004,Minnesota Timberwolves,Los Angeles Lakers,88,97,Target Center,19552,/boxscores/200405210MIN.html
+Sat May 22 2004,Indiana Pacers,Detroit Pistons,78,74,Conseco Fieldhouse,18345,/boxscores/200405220IND.html
+Sun May 23 2004,Minnesota Timberwolves,Los Angeles Lakers,89,71,Target Center,19707,/boxscores/200405230MIN.html
+Mon May 24 2004,Indiana Pacers,Detroit Pistons,67,72,Conseco Fieldhouse,18345,/boxscores/200405240IND.html
+Tue May 25 2004,Los Angeles Lakers,Minnesota Timberwolves,100,89,STAPLES Center,18997,/boxscores/200405250LAL.html
+Wed May 26 2004,Detroit Pistons,Indiana Pacers,85,78,The Palace of Auburn Hills,22076,/boxscores/200405260DET.html
+Thu May 27 2004,Los Angeles Lakers,Minnesota Timberwolves,92,85,STAPLES Center,18997,/boxscores/200405270LAL.html
+Fri May 28 2004,Detroit Pistons,Indiana Pacers,68,83,The Palace of Auburn Hills,22076,/boxscores/200405280DET.html
+Sat May 29 2004,Minnesota Timberwolves,Los Angeles Lakers,98,96,Target Center,20109,/boxscores/200405290MIN.html
+Sun May 30 2004,Indiana Pacers,Detroit Pistons,65,83,Conseco Fieldhouse,18345,/boxscores/200405300IND.html
+Mon May 31 2004,Los Angeles Lakers,Minnesota Timberwolves,96,90,STAPLES Center,18997,/boxscores/200405310LAL.html

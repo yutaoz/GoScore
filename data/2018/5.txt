@@ -1,0 +1,31 @@
+Tue May 1 2018,Toronto Raptors,Cleveland Cavaliers,112,113,Air Canada Centre,19954,/boxscores/201805010TOR.html
+Tue May 1 2018,Golden State Warriors,New Orleans Pelicans,121,116,Oracle Arena,19596,/boxscores/201805010GSW.html
+Wed May 2 2018,Houston Rockets,Utah Jazz,108,116,Toyota Center,18055,/boxscores/201805020HOU.html
+Thu May 3 2018,Toronto Raptors,Cleveland Cavaliers,110,128,Air Canada Centre,20127,/boxscores/201805030TOR.html
+Thu May 3 2018,Boston Celtics,Philadelphia 76ers,108,103,TD Garden,18624,/boxscores/201805030BOS.html
+Fri May 4 2018,New Orleans Pelicans,Golden State Warriors,119,100,Smoothie King Center,18551,/boxscores/201805040NOP.html
+Fri May 4 2018,Utah Jazz,Houston Rockets,92,113,Vivint Smart Home Arena,18306,/boxscores/201805040UTA.html
+Sat May 5 2018,Philadelphia 76ers,Boston Celtics,98,101,Wells Fargo Center,20758,/boxscores/201805050PHI.html
+Sat May 5 2018,Cleveland Cavaliers,Toronto Raptors,105,103,Quicken Loans Arena,20562,/boxscores/201805050CLE.html
+Sun May 6 2018,New Orleans Pelicans,Golden State Warriors,92,118,Smoothie King Center,18513,/boxscores/201805060NOP.html
+Sun May 6 2018,Utah Jazz,Houston Rockets,87,100,Vivint Smart Home Arena,18306,/boxscores/201805060UTA.html
+Mon May 7 2018,Philadelphia 76ers,Boston Celtics,103,92,Wells Fargo Center,20936,/boxscores/201805070PHI.html
+Mon May 7 2018,Cleveland Cavaliers,Toronto Raptors,128,93,Quicken Loans Arena,20562,/boxscores/201805070CLE.html
+Tue May 8 2018,Houston Rockets,Utah Jazz,112,102,Toyota Center,18055,/boxscores/201805080HOU.html
+Tue May 8 2018,Golden State Warriors,New Orleans Pelicans,113,104,Oracle Arena,19596,/boxscores/201805080GSW.html
+Wed May 9 2018,Boston Celtics,Philadelphia 76ers,114,112,TD Garden,18624,/boxscores/201805090BOS.html
+Sun May 13 2018,Boston Celtics,Cleveland Cavaliers,108,83,TD Garden,18624,/boxscores/201805130BOS.html
+Mon May 14 2018,Houston Rockets,Golden State Warriors,106,119,Toyota Center,18055,/boxscores/201805140HOU.html
+Tue May 15 2018,Boston Celtics,Cleveland Cavaliers,107,94,TD Garden,18624,/boxscores/201805150BOS.html
+Wed May 16 2018,Houston Rockets,Golden State Warriors,127,105,Toyota Center,18119,/boxscores/201805160HOU.html
+Sat May 19 2018,Cleveland Cavaliers,Boston Celtics,116,86,Quicken Loans Arena,20562,/boxscores/201805190CLE.html
+Sun May 20 2018,Golden State Warriors,Houston Rockets,126,85,Oracle Arena,19596,/boxscores/201805200GSW.html
+Mon May 21 2018,Cleveland Cavaliers,Boston Celtics,111,102,Quicken Loans Arena,20562,/boxscores/201805210CLE.html
+Tue May 22 2018,Golden State Warriors,Houston Rockets,92,95,Oracle Arena,19596,/boxscores/201805220GSW.html
+Wed May 23 2018,Boston Celtics,Cleveland Cavaliers,96,83,TD Garden,18624,/boxscores/201805230BOS.html
+Thu May 24 2018,Houston Rockets,Golden State Warriors,98,94,Toyota Center,18208,/boxscores/201805240HOU.html
+Fri May 25 2018,Cleveland Cavaliers,Boston Celtics,109,99,Quicken Loans Arena,20562,/boxscores/201805250CLE.html
+Sat May 26 2018,Golden State Warriors,Houston Rockets,115,86,Oracle Arena,19596,/boxscores/201805260GSW.html
+Sun May 27 2018,Boston Celtics,Cleveland Cavaliers,79,87,TD Garden,18624,/boxscores/201805270BOS.html
+Mon May 28 2018,Houston Rockets,Golden State Warriors,92,101,Toyota Center,18055,/boxscores/201805280HOU.html
+Thu May 31 2018,Golden State Warriors,Cleveland Cavaliers,124,114,Oracle Arena,19596,/boxscores/201805310GSW.html

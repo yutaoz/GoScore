@@ -1,0 +1,23 @@
+Sat May 1 1982,Washington Bullets,Boston Celtics,83,92,Capital Centre,15035,/boxscores/198205010WSB.html
+Sat May 1 1982,Milwaukee Bucks,Philadelphia 76ers,92,91,MECCA Arena,11052,/boxscores/198205010MIL.html
+Sun May 2 1982,Milwaukee Bucks,Philadelphia 76ers,93,100,MECCA Arena,11052,/boxscores/198205020MIL.html
+Sun May 2 1982,Phoenix Suns,Los Angeles Lakers,107,112,Arizona Veterans Memorial Coliseum,11932,/boxscores/198205020PHO.html
+Sun May 2 1982,San Antonio Spurs,Seattle SuperSonics,115,113,HemisFair Arena,15002,/boxscores/198205020SAS.html
+Sun May 2 1982,Washington Bullets,Boston Celtics,99,103,Capital Centre,16295,/boxscores/198205020WSB.html
+Wed May 5 1982,Boston Celtics,Washington Bullets,131,126,Boston Garden,15320,/boxscores/198205050BOS.html
+Wed May 5 1982,Philadelphia 76ers,Milwaukee Bucks,98,110,The Spectrum,16668,/boxscores/198205050PHI.html
+Wed May 5 1982,Seattle SuperSonics,San Antonio Spurs,103,109,Seattle Kingdome,23180,/boxscores/198205050SEA.html
+Fri May 7 1982,Milwaukee Bucks,Philadelphia 76ers,90,102,MECCA Arena,11052,/boxscores/198205070MIL.html
+Sun May 9 1982,Los Angeles Lakers,San Antonio Spurs,128,117,The Forum,15700,/boxscores/198205090LAL.html
+Sun May 9 1982,Boston Celtics,Philadelphia 76ers,121,81,Boston Garden,15320,/boxscores/198205090BOS.html
+Tue May 11 1982,Los Angeles Lakers,San Antonio Spurs,110,101,The Forum,17505,/boxscores/198205110LAL.html
+Wed May 12 1982,Boston Celtics,Philadelphia 76ers,113,121,Boston Garden,15320,/boxscores/198205120BOS.html
+Fri May 14 1982,San Antonio Spurs,Los Angeles Lakers,108,118,HemisFair Arena,15800,/boxscores/198205140SAS.html
+Sat May 15 1982,Philadelphia 76ers,Boston Celtics,99,97,The Spectrum,18364,/boxscores/198205150PHI.html
+Sat May 15 1982,San Antonio Spurs,Los Angeles Lakers,123,128,HemisFair Arena,15800,/boxscores/198205150SAS.html
+Sun May 16 1982,Philadelphia 76ers,Boston Celtics,119,94,The Spectrum,18364,/boxscores/198205160PHI.html
+Wed May 19 1982,Boston Celtics,Philadelphia 76ers,114,85,Boston Garden,15320,/boxscores/198205190BOS.html
+Fri May 21 1982,Philadelphia 76ers,Boston Celtics,75,88,The Spectrum,18364,/boxscores/198205210PHI.html
+Sun May 23 1982,Boston Celtics,Philadelphia 76ers,106,120,Boston Garden,15320,/boxscores/198205230BOS.html
+Thu May 27 1982,Philadelphia 76ers,Los Angeles Lakers,117,124,The Spectrum,18364,/boxscores/198205270PHI.html
+Sun May 30 1982,Philadelphia 76ers,Los Angeles Lakers,110,94,The Spectrum,18364,/boxscores/198205300PHI.html

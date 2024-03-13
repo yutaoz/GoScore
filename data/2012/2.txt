@@ -1,0 +1,209 @@
+Wed Feb 1 2012,Orlando Magic,Washington Wizards,109,103,Amway Center,18846,/boxscores/201202010ORL.html
+Wed Feb 1 2012,Philadelphia 76ers,Chicago Bulls,98,82,Wells Fargo Center,18325,/boxscores/201202010PHI.html
+Wed Feb 1 2012,Boston Celtics,Toronto Raptors,100,64,TD Garden,18624,/boxscores/201202010BOS.html
+Wed Feb 1 2012,New Jersey Nets,Detroit Pistons,99,96,Prudential Center,10504,/boxscores/201202010NJN.html
+Wed Feb 1 2012,Dallas Mavericks,Oklahoma City Thunder,86,95,American Airlines Center,20316,/boxscores/201202010DAL.html
+Wed Feb 1 2012,Milwaukee Bucks,Miami Heat,105,97,Bradley Center,16116,/boxscores/201202010MIL.html
+Wed Feb 1 2012,Minnesota Timberwolves,Indiana Pacers,99,109,Target Center,15017,/boxscores/201202010MIN.html
+Wed Feb 1 2012,New Orleans Hornets,Phoenix Suns,103,120,New Orleans Arena,13598,/boxscores/201202010NOH.html
+Wed Feb 1 2012,San Antonio Spurs,Houston Rockets,99,91,AT&T Center,18581,/boxscores/201202010SAS.html
+Wed Feb 1 2012,Portland Trail Blazers,Charlotte Bobcats,112,68,Rose Garden Arena,20608,/boxscores/201202010POR.html
+Wed Feb 1 2012,Utah Jazz,Los Angeles Clippers,105,107,EnergySolutions Arena,19637,/boxscores/201202010UTA.html
+Thu Feb 2 2012,Atlanta Hawks,Memphis Grizzlies,77,96,Philips Arena,14211,/boxscores/201202020ATL.html
+Thu Feb 2 2012,New York Knicks,Chicago Bulls,102,105,Madison Square Garden (IV),19763,/boxscores/201202020NYK.html
+Thu Feb 2 2012,San Antonio Spurs,New Orleans Hornets,93,81,AT&T Center,18082,/boxscores/201202020SAS.html
+Thu Feb 2 2012,Sacramento Kings,Portland Trail Blazers,95,92,Power Balance Pavilion,11740,/boxscores/201202020SAC.html
+Thu Feb 2 2012,Golden State Warriors,Utah Jazz,119,101,Oracle Arena,18123,/boxscores/201202020GSW.html
+Thu Feb 2 2012,Los Angeles Clippers,Denver Nuggets,91,112,STAPLES Center,19223,/boxscores/201202020LAC.html
+Fri Feb 3 2012,Orlando Magic,Cleveland Cavaliers,102,94,Amway Center,18933,/boxscores/201202030ORL.html
+Fri Feb 3 2012,Philadelphia 76ers,Miami Heat,79,99,Wells Fargo Center,20694,/boxscores/201202030PHI.html
+Fri Feb 3 2012,Toronto Raptors,Washington Wizards,106,89,Air Canada Centre,16382,/boxscores/201202030TOR.html
+Fri Feb 3 2012,Detroit Pistons,Milwaukee Bucks,88,80,The Palace of Auburn Hills,13181,/boxscores/201202030DET.html
+Fri Feb 3 2012,New Jersey Nets,Minnesota Timberwolves,105,108,Prudential Center,15069,/boxscores/201202030NJN.html
+Fri Feb 3 2012,Boston Celtics,New York Knicks,91,89,TD Garden,18624,/boxscores/201202030BOS.html
+Fri Feb 3 2012,Houston Rockets,Phoenix Suns,99,81,Toyota Center,15941,/boxscores/201202030HOU.html
+Fri Feb 3 2012,Oklahoma City Thunder,Memphis Grizzlies,101,94,Chesapeake Energy Arena,18203,/boxscores/201202030OKC.html
+Fri Feb 3 2012,Dallas Mavericks,Indiana Pacers,87,98,American Airlines Center,20146,/boxscores/201202030DAL.html
+Fri Feb 3 2012,Denver Nuggets,Los Angeles Lakers,89,93,Pepsi Center,19155,/boxscores/201202030DEN.html
+Sat Feb 4 2012,Atlanta Hawks,Philadelphia 76ers,87,98,Philips Arena,18012,/boxscores/201202040ATL.html
+Sat Feb 4 2012,Indiana Pacers,Orlando Magic,81,85,Bankers Life Fieldhouse,18165,/boxscores/201202040IND.html
+Sat Feb 4 2012,Washington Wizards,Los Angeles Clippers,81,107,Verizon Center,19419,/boxscores/201202040WAS.html
+Sat Feb 4 2012,Cleveland Cavaliers,Dallas Mavericks,91,88,Quicken Loans Arena,17443,/boxscores/201202040CLE.html
+Sat Feb 4 2012,Detroit Pistons,New Orleans Hornets,89,87,The Palace of Auburn Hills,13174,/boxscores/201202040DET.html
+Sat Feb 4 2012,New York Knicks,New Jersey Nets,99,92,Madison Square Garden (IV),19763,/boxscores/201202040NYK.html
+Sat Feb 4 2012,Minnesota Timberwolves,Houston Rockets,100,91,Target Center,19356,/boxscores/201202040MIN.html
+Sat Feb 4 2012,Milwaukee Bucks,Chicago Bulls,90,113,Bradley Center,18717,/boxscores/201202040MIL.html
+Sat Feb 4 2012,San Antonio Spurs,Oklahoma City Thunder,107,96,AT&T Center,18581,/boxscores/201202040SAS.html
+Sat Feb 4 2012,Phoenix Suns,Charlotte Bobcats,95,89,US Airways Center,14928,/boxscores/201202040PHO.html
+Sat Feb 4 2012,Utah Jazz,Los Angeles Lakers,96,87,EnergySolutions Arena,19642,/boxscores/201202040UTA.html
+Sat Feb 4 2012,Portland Trail Blazers,Denver Nuggets,117,97,Rose Garden Arena,20583,/boxscores/201202040POR.html
+Sat Feb 4 2012,Sacramento Kings,Golden State Warriors,114,106,Power Balance Pavilion,16411,/boxscores/201202040SAC.html
+Sun Feb 5 2012,Boston Celtics,Memphis Grizzlies,98,80,TD Garden,18624,/boxscores/201202050BOS.html
+Sun Feb 5 2012,Miami Heat,Toronto Raptors,95,89,AmericanAirlines Arena,19802,/boxscores/201202050MIA.html
+Mon Feb 6 2012,Orlando Magic,Los Angeles Clippers,102,107,Amway Center,18846,/boxscores/201202060ORL.html
+Mon Feb 6 2012,Philadelphia 76ers,Los Angeles Lakers,95,90,Wells Fargo Center,20064,/boxscores/201202060PHI.html
+Mon Feb 6 2012,Washington Wizards,Toronto Raptors,111,108,Verizon Center,14687,/boxscores/201202060WAS.html
+Mon Feb 6 2012,Atlanta Hawks,Phoenix Suns,90,99,Philips Arena,11823,/boxscores/201202060ATL.html
+Mon Feb 6 2012,New Jersey Nets,Chicago Bulls,87,108,Prudential Center,15327,/boxscores/201202060NJN.html
+Mon Feb 6 2012,New York Knicks,Utah Jazz,99,88,Madison Square Garden (IV),19763,/boxscores/201202060NYK.html
+Mon Feb 6 2012,Memphis Grizzlies,San Antonio Spurs,84,89,FedEx Forum,13527,/boxscores/201202060MEM.html
+Mon Feb 6 2012,New Orleans Hornets,Sacramento Kings,92,100,New Orleans Arena,13222,/boxscores/201202060NOH.html
+Mon Feb 6 2012,Denver Nuggets,Houston Rockets,90,99,Pepsi Center,14501,/boxscores/201202060DEN.html
+Mon Feb 6 2012,Portland Trail Blazers,Oklahoma City Thunder,107,111,Rose Garden Arena,20559,/boxscores/201202060POR.html
+Tue Feb 7 2012,Indiana Pacers,Utah Jazz,104,99,Bankers Life Fieldhouse,11006,/boxscores/201202070IND.html
+Tue Feb 7 2012,Boston Celtics,Charlotte Bobcats,94,84,TD Garden,18624,/boxscores/201202070BOS.html
+Tue Feb 7 2012,Miami Heat,Cleveland Cavaliers,107,91,AmericanAirlines Arena,20078,/boxscores/201202070MIA.html
+Tue Feb 7 2012,Milwaukee Bucks,Phoenix Suns,105,107,Bradley Center,13203,/boxscores/201202070MIL.html
+Tue Feb 7 2012,Minnesota Timberwolves,Sacramento Kings,86,84,Target Center,14073,/boxscores/201202070MIN.html
+Tue Feb 7 2012,Golden State Warriors,Oklahoma City Thunder,116,119,Oracle Arena,17971,/boxscores/201202070GSW.html
+Wed Feb 8 2012,Cleveland Cavaliers,Los Angeles Clippers,99,92,Quicken Loans Arena,17100,/boxscores/201202080CLE.html
+Wed Feb 8 2012,Orlando Magic,Miami Heat,102,89,Amway Center,18972,/boxscores/201202080ORL.html
+Wed Feb 8 2012,Philadelphia 76ers,San Antonio Spurs,90,100,Wells Fargo Center,18070,/boxscores/201202080PHI.html
+Wed Feb 8 2012,Toronto Raptors,Milwaukee Bucks,99,105,Air Canada Centre,15291,/boxscores/201202080TOR.html
+Wed Feb 8 2012,Washington Wizards,New York Knicks,93,107,Verizon Center,17376,/boxscores/201202080WAS.html
+Wed Feb 8 2012,Atlanta Hawks,Indiana Pacers,97,87,Philips Arena,16288,/boxscores/201202080ATL.html
+Wed Feb 8 2012,New Jersey Nets,Detroit Pistons,92,99,Prudential Center,10145,/boxscores/201202080NJN.html
+Wed Feb 8 2012,Memphis Grizzlies,Minnesota Timberwolves,85,80,FedEx Forum,13287,/boxscores/201202080MEM.html
+Wed Feb 8 2012,New Orleans Hornets,Chicago Bulls,67,90,New Orleans Arena,15456,/boxscores/201202080NOH.html
+Wed Feb 8 2012,Denver Nuggets,Dallas Mavericks,95,105,Pepsi Center,15970,/boxscores/201202080DEN.html
+Wed Feb 8 2012,Portland Trail Blazers,Houston Rockets,96,103,Rose Garden Arena,20350,/boxscores/201202080POR.html
+Thu Feb 9 2012,Boston Celtics,Los Angeles Lakers,87,88,TD Garden,18624,/boxscores/201202090BOS.html
+Thu Feb 9 2012,Denver Nuggets,Golden State Warriors,101,109,Pepsi Center,14960,/boxscores/201202090DEN.html
+Thu Feb 9 2012,Phoenix Suns,Houston Rockets,89,96,US Airways Center,16122,/boxscores/201202090PHO.html
+Thu Feb 9 2012,Sacramento Kings,Oklahoma City Thunder,106,101,Power Balance Pavilion,17317,/boxscores/201202090SAC.html
+Fri Feb 10 2012,Charlotte Bobcats,Chicago Bulls,64,95,Time Warner Cable Arena,19379,/boxscores/201202100CHA.html
+Fri Feb 10 2012,Orlando Magic,Atlanta Hawks,87,89,Amway Center,18846,/boxscores/201202100ORL.html
+Fri Feb 10 2012,Philadelphia 76ers,Los Angeles Clippers,77,78,Wells Fargo Center,20539,/boxscores/201202100PHI.html
+Fri Feb 10 2012,Toronto Raptors,Boston Celtics,86,74,Air Canada Centre,19207,/boxscores/201202100TOR.html
+Fri Feb 10 2012,Washington Wizards,Miami Heat,89,106,Verizon Center,20282,/boxscores/201202100WAS.html
+Fri Feb 10 2012,Cleveland Cavaliers,Milwaukee Bucks,112,113,Quicken Loans Arena,15195,/boxscores/201202100CLE.html
+Fri Feb 10 2012,Detroit Pistons,New Jersey Nets,109,92,The Palace of Auburn Hills,14320,/boxscores/201202100DET.html
+Fri Feb 10 2012,Memphis Grizzlies,Indiana Pacers,98,92,FedEx Forum,16281,/boxscores/201202100MEM.html
+Fri Feb 10 2012,Minnesota Timberwolves,Dallas Mavericks,97,104,Target Center,17119,/boxscores/201202100MIN.html
+Fri Feb 10 2012,New Orleans Hornets,Portland Trail Blazers,86,94,New Orleans Arena,14421,/boxscores/201202100NOH.html
+Fri Feb 10 2012,New York Knicks,Los Angeles Lakers,92,85,Madison Square Garden (IV),19763,/boxscores/201202100NYK.html
+Fri Feb 10 2012,Utah Jazz,Oklahoma City Thunder,87,101,EnergySolutions Arena,19911,/boxscores/201202100UTA.html
+Sat Feb 11 2012,Charlotte Bobcats,Los Angeles Clippers,86,111,Time Warner Cable Arena,19110,/boxscores/201202110CHA.html
+Sat Feb 11 2012,Indiana Pacers,Denver Nuggets,109,113,Bankers Life Fieldhouse,15313,/boxscores/201202110IND.html
+Sat Feb 11 2012,Cleveland Cavaliers,Philadelphia 76ers,84,99,Quicken Loans Arena,17155,/boxscores/201202110CLE.html
+Sat Feb 11 2012,Minnesota Timberwolves,New York Knicks,98,100,Target Center,20232,/boxscores/201202110MIN.html
+Sat Feb 11 2012,New Jersey Nets,San Antonio Spurs,89,103,Prudential Center,15272,/boxscores/201202110NJN.html
+Sat Feb 11 2012,Dallas Mavericks,Portland Trail Blazers,97,94,American Airlines Center,20457,/boxscores/201202110DAL.html
+Sat Feb 11 2012,Milwaukee Bucks,Orlando Magic,94,99,Bradley Center,17723,/boxscores/201202110MIL.html
+Sat Feb 11 2012,Sacramento Kings,Phoenix Suns,84,98,Power Balance Pavilion,16964,/boxscores/201202110SAC.html
+Sun Feb 12 2012,Toronto Raptors,Los Angeles Lakers,92,94,Air Canada Centre,19311,/boxscores/201202120TOR.html
+Sun Feb 12 2012,Boston Celtics,Chicago Bulls,95,91,TD Garden,18624,/boxscores/201202120BOS.html
+Sun Feb 12 2012,Detroit Pistons,Washington Wizards,77,98,The Palace of Auburn Hills,12654,/boxscores/201202120DET.html
+Sun Feb 12 2012,Atlanta Hawks,Miami Heat,87,107,Philips Arena,18371,/boxscores/201202120ATL.html
+Sun Feb 12 2012,Golden State Warriors,Houston Rockets,106,97,Oracle Arena,19596,/boxscores/201202120GSW.html
+Sun Feb 12 2012,Memphis Grizzlies,Utah Jazz,88,98,FedEx Forum,14424,/boxscores/201202120MEM.html
+Mon Feb 13 2012,Charlotte Bobcats,Philadelphia 76ers,89,98,Time Warner Cable Arena,13773,/boxscores/201202130CHA.html
+Mon Feb 13 2012,Orlando Magic,Minnesota Timberwolves,102,89,Amway Center,18846,/boxscores/201202130ORL.html
+Mon Feb 13 2012,Milwaukee Bucks,Miami Heat,96,114,Bradley Center,16749,/boxscores/201202130MIL.html
+Mon Feb 13 2012,New Orleans Hornets,Utah Jazz,86,80,New Orleans Arena,13562,/boxscores/201202130NOH.html
+Mon Feb 13 2012,Dallas Mavericks,Los Angeles Clippers,96,92,American Airlines Center,20436,/boxscores/201202130DAL.html
+Mon Feb 13 2012,Golden State Warriors,Phoenix Suns,102,96,Oracle Arena,19106,/boxscores/201202130GSW.html
+Tue Feb 14 2012,Indiana Pacers,Miami Heat,90,105,Bankers Life Fieldhouse,18165,/boxscores/201202140IND.html
+Tue Feb 14 2012,Toronto Raptors,New York Knicks,87,90,Air Canada Centre,20092,/boxscores/201202140TOR.html
+Tue Feb 14 2012,Detroit Pistons,San Antonio Spurs,95,99,The Palace of Auburn Hills,11533,/boxscores/201202140DET.html
+Tue Feb 14 2012,Chicago Bulls,Sacramento Kings,121,115,United Center,21936,/boxscores/201202140CHI.html
+Tue Feb 14 2012,Memphis Grizzlies,Houston Rockets,93,83,FedEx Forum,13042,/boxscores/201202140MEM.html
+Tue Feb 14 2012,Oklahoma City Thunder,Utah Jazz,111,85,Chesapeake Energy Arena,18203,/boxscores/201202140OKC.html
+Tue Feb 14 2012,Denver Nuggets,Phoenix Suns,109,92,Pepsi Center,17873,/boxscores/201202140DEN.html
+Tue Feb 14 2012,Portland Trail Blazers,Washington Wizards,109,124,Rose Garden Arena,20558,/boxscores/201202140POR.html
+Tue Feb 14 2012,Los Angeles Lakers,Atlanta Hawks,86,78,STAPLES Center,18997,/boxscores/201202140LAL.html
+Wed Feb 15 2012,Orlando Magic,Philadelphia 76ers,103,87,Amway Center,18846,/boxscores/201202150ORL.html
+Wed Feb 15 2012,Toronto Raptors,San Antonio Spurs,106,113,Air Canada Centre,15999,/boxscores/201202150TOR.html
+Wed Feb 15 2012,Boston Celtics,Detroit Pistons,88,98,TD Garden,18624,/boxscores/201202150BOS.html
+Wed Feb 15 2012,Cleveland Cavaliers,Indiana Pacers,98,87,Quicken Loans Arena,12712,/boxscores/201202150CLE.html
+Wed Feb 15 2012,New Jersey Nets,Memphis Grizzlies,100,105,Prudential Center,10885,/boxscores/201202150NJN.html
+Wed Feb 15 2012,New York Knicks,Sacramento Kings,100,85,Madison Square Garden (IV),19763,/boxscores/201202150NYK.html
+Wed Feb 15 2012,Houston Rockets,Oklahoma City Thunder,96,95,Toyota Center,18274,/boxscores/201202150HOU.html
+Wed Feb 15 2012,Milwaukee Bucks,New Orleans Hornets,89,92,Bradley Center,12829,/boxscores/201202150MIL.html
+Wed Feb 15 2012,Minnesota Timberwolves,Charlotte Bobcats,102,90,Target Center,15139,/boxscores/201202150MIN.html
+Wed Feb 15 2012,Dallas Mavericks,Denver Nuggets,102,84,American Airlines Center,20075,/boxscores/201202150DAL.html
+Wed Feb 15 2012,Phoenix Suns,Atlanta Hawks,99,101,US Airways Center,15392,/boxscores/201202150PHO.html
+Wed Feb 15 2012,Golden State Warriors,Portland Trail Blazers,91,93,Oracle Arena,17934,/boxscores/201202150GSW.html
+Wed Feb 15 2012,Los Angeles Clippers,Washington Wizards,102,84,STAPLES Center,19135,/boxscores/201202150LAC.html
+Thu Feb 16 2012,Indiana Pacers,New Jersey Nets,93,88,Bankers Life Fieldhouse,11117,/boxscores/201202160IND.html
+Thu Feb 16 2012,Chicago Bulls,Boston Celtics,89,80,United Center,22592,/boxscores/201202160CHI.html
+Thu Feb 16 2012,Portland Trail Blazers,Los Angeles Clippers,71,74,Rose Garden Arena,20665,/boxscores/201202160POR.html
+Fri Feb 17 2012,Orlando Magic,Milwaukee Bucks,94,85,Amway Center,18846,/boxscores/201202170ORL.html
+Fri Feb 17 2012,Toronto Raptors,Charlotte Bobcats,91,98,Air Canada Centre,15575,/boxscores/201202170TOR.html
+Fri Feb 17 2012,Cleveland Cavaliers,Miami Heat,87,111,Quicken Loans Arena,20562,/boxscores/201202170CLE.html
+Fri Feb 17 2012,Detroit Pistons,Sacramento Kings,114,108,The Palace of Auburn Hills,14686,/boxscores/201202170DET.html
+Fri Feb 17 2012,Houston Rockets,Minnesota Timberwolves,98,111,Toyota Center,16836,/boxscores/201202170HOU.html
+Fri Feb 17 2012,Memphis Grizzlies,Denver Nuggets,103,102,FedEx Forum,15201,/boxscores/201202170MEM.html
+Fri Feb 17 2012,New York Knicks,New Orleans Hornets,85,89,Madison Square Garden (IV),19763,/boxscores/201202170NYK.html
+Fri Feb 17 2012,Oklahoma City Thunder,Golden State Warriors,110,87,Chesapeake Energy Arena,18203,/boxscores/201202170OKC.html
+Fri Feb 17 2012,Philadelphia 76ers,Dallas Mavericks,75,82,Wells Fargo Center,19369,/boxscores/201202170PHI.html
+Fri Feb 17 2012,Utah Jazz,Washington Wizards,114,100,EnergySolutions Arena,18719,/boxscores/201202170UTA.html
+Fri Feb 17 2012,Los Angeles Lakers,Phoenix Suns,111,99,STAPLES Center,18997,/boxscores/201202170LAL.html
+Sat Feb 18 2012,Los Angeles Clippers,San Antonio Spurs,100,103,STAPLES Center,19217,/boxscores/201202180LAC.html
+Sat Feb 18 2012,Chicago Bulls,New Jersey Nets,85,97,United Center,22300,/boxscores/201202180CHI.html
+Sat Feb 18 2012,Memphis Grizzlies,Golden State Warriors,104,103,FedEx Forum,17151,/boxscores/201202180MEM.html
+Sat Feb 18 2012,Portland Trail Blazers,Atlanta Hawks,97,77,Rose Garden Arena,20635,/boxscores/201202180POR.html
+Sun Feb 19 2012,New York Knicks,Dallas Mavericks,104,97,Madison Square Garden (IV),19763,/boxscores/201202190NYK.html
+Sun Feb 19 2012,Miami Heat,Orlando Magic,90,78,AmericanAirlines Arena,20185,/boxscores/201202190MIA.html
+Sun Feb 19 2012,Cleveland Cavaliers,Sacramento Kings,93,92,Quicken Loans Arena,16812,/boxscores/201202190CLE.html
+Sun Feb 19 2012,Detroit Pistons,Boston Celtics,96,81,The Palace of Auburn Hills,22076,/boxscores/201202190DET.html
+Sun Feb 19 2012,Indiana Pacers,Charlotte Bobcats,108,73,Bankers Life Fieldhouse,11673,/boxscores/201202190IND.html
+Sun Feb 19 2012,Houston Rockets,Utah Jazz,101,85,Toyota Center,16764,/boxscores/201202190HOU.html
+Sun Feb 19 2012,Minnesota Timberwolves,Philadelphia 76ers,92,91,Target Center,18759,/boxscores/201202190MIN.html
+Sun Feb 19 2012,New Jersey Nets,Milwaukee Bucks,85,92,Prudential Center,15262,/boxscores/201202190NJN.html
+Sun Feb 19 2012,Oklahoma City Thunder,Denver Nuggets,124,118,Chesapeake Energy Arena,18203,/boxscores/201202190OKC.html
+Sun Feb 19 2012,Phoenix Suns,Los Angeles Lakers,102,90,US Airways Center,18023,/boxscores/201202190PHO.html
+Mon Feb 20 2012,Chicago Bulls,Atlanta Hawks,90,79,United Center,22033,/boxscores/201202200CHI.html
+Mon Feb 20 2012,New York Knicks,New Jersey Nets,92,100,Madison Square Garden (IV),19763,/boxscores/201202200NYK.html
+Mon Feb 20 2012,Dallas Mavericks,Boston Celtics,89,73,American Airlines Center,20364,/boxscores/201202200DAL.html
+Mon Feb 20 2012,Houston Rockets,Memphis Grizzlies,97,93,Toyota Center,12525,/boxscores/201202200HOU.html
+Mon Feb 20 2012,Milwaukee Bucks,Orlando Magic,90,93,Bradley Center,13143,/boxscores/201202200MIL.html
+Mon Feb 20 2012,Oklahoma City Thunder,New Orleans Hornets,101,93,Chesapeake Energy Arena,18203,/boxscores/201202200OKC.html
+Mon Feb 20 2012,Denver Nuggets,Minnesota Timberwolves,103,101,Pepsi Center,17263,/boxscores/201202200DEN.html
+Mon Feb 20 2012,Phoenix Suns,Washington Wizards,104,88,US Airways Center,13921,/boxscores/201202200PHO.html
+Mon Feb 20 2012,Utah Jazz,San Antonio Spurs,102,106,EnergySolutions Arena,19105,/boxscores/201202200UTA.html
+Mon Feb 20 2012,Golden State Warriors,Los Angeles Clippers,104,97,Oracle Arena,19596,/boxscores/201202200GSW.html
+Mon Feb 20 2012,Los Angeles Lakers,Portland Trail Blazers,103,92,STAPLES Center,18997,/boxscores/201202200LAL.html
+Tue Feb 21 2012,Cleveland Cavaliers,Detroit Pistons,101,100,Quicken Loans Arena,13459,/boxscores/201202210CLE.html
+Tue Feb 21 2012,Indiana Pacers,New Orleans Hornets,117,108,Bankers Life Fieldhouse,10508,/boxscores/201202210IND.html
+Tue Feb 21 2012,Miami Heat,Sacramento Kings,120,108,AmericanAirlines Arena,20068,/boxscores/201202210MIA.html
+Tue Feb 21 2012,Memphis Grizzlies,Philadelphia 76ers,89,76,FedEx Forum,14258,/boxscores/201202210MEM.html
+Tue Feb 21 2012,Portland Trail Blazers,San Antonio Spurs,137,97,Rose Garden Arena,20567,/boxscores/201202210POR.html
+Wed Feb 22 2012,Charlotte Bobcats,Indiana Pacers,88,102,Time Warner Cable Arena,13458,/boxscores/201202220CHA.html
+Wed Feb 22 2012,Cleveland Cavaliers,New Orleans Hornets,84,89,Quicken Loans Arena,13529,/boxscores/201202220CLE.html
+Wed Feb 22 2012,Oklahoma City Thunder,Boston Celtics,119,104,Chesapeake Energy Arena,18203,/boxscores/201202220OKC.html
+Wed Feb 22 2012,Toronto Raptors,Detroit Pistons,103,93,Air Canada Centre,17125,/boxscores/201202220TOR.html
+Wed Feb 22 2012,Washington Wizards,Sacramento Kings,107,115,Verizon Center,17085,/boxscores/201202220WAS.html
+Wed Feb 22 2012,New Jersey Nets,Orlando Magic,91,108,Prudential Center,15364,/boxscores/201202220NJN.html
+Wed Feb 22 2012,New York Knicks,Atlanta Hawks,99,82,Madison Square Garden (IV),19763,/boxscores/201202220NYK.html
+Wed Feb 22 2012,Chicago Bulls,Milwaukee Bucks,110,91,United Center,21507,/boxscores/201202220CHI.html
+Wed Feb 22 2012,Houston Rockets,Philadelphia 76ers,93,87,Toyota Center,12820,/boxscores/201202220HOU.html
+Wed Feb 22 2012,Minnesota Timberwolves,Utah Jazz,100,98,Target Center,18776,/boxscores/201202220MIN.html
+Wed Feb 22 2012,Phoenix Suns,Golden State Warriors,104,106,US Airways Center,14558,/boxscores/201202220PHO.html
+Wed Feb 22 2012,Dallas Mavericks,Los Angeles Lakers,91,96,American Airlines Center,20577,/boxscores/201202220DAL.html
+Wed Feb 22 2012,Los Angeles Clippers,Denver Nuggets,103,95,STAPLES Center,19163,/boxscores/201202220LAC.html
+Thu Feb 23 2012,Miami Heat,New York Knicks,102,88,AmericanAirlines Arena,20197,/boxscores/201202230MIA.html
+Thu Feb 23 2012,Atlanta Hawks,Orlando Magic,83,78,Philips Arena,14523,/boxscores/201202230ATL.html
+Thu Feb 23 2012,Denver Nuggets,San Antonio Spurs,99,114,Pepsi Center,18875,/boxscores/201202230DEN.html
+Thu Feb 23 2012,Oklahoma City Thunder,Los Angeles Lakers,100,85,Chesapeake Energy Arena,18203,/boxscores/201202230OKC.html
+Tue Feb 28 2012,Cleveland Cavaliers,Boston Celtics,83,86,Quicken Loans Arena,15971,/boxscores/201202280CLE.html
+Tue Feb 28 2012,Indiana Pacers,Golden State Warriors,102,78,Bankers Life Fieldhouse,12111,/boxscores/201202280IND.html
+Tue Feb 28 2012,Detroit Pistons,Philadelphia 76ers,68,97,The Palace of Auburn Hills,11916,/boxscores/201202280DET.html
+Tue Feb 28 2012,Chicago Bulls,New Orleans Hornets,99,95,United Center,21919,/boxscores/201202280CHI.html
+Tue Feb 28 2012,Houston Rockets,Toronto Raptors,88,85,Toyota Center,13337,/boxscores/201202280HOU.html
+Tue Feb 28 2012,Milwaukee Bucks,Washington Wizards,119,118,Bradley Center,13548,/boxscores/201202280MIL.html
+Tue Feb 28 2012,Dallas Mavericks,New Jersey Nets,92,93,American Airlines Center,20170,/boxscores/201202280DAL.html
+Tue Feb 28 2012,Sacramento Kings,Utah Jazz,103,96,Power Balance Pavilion,13896,/boxscores/201202280SAC.html
+Tue Feb 28 2012,Los Angeles Clippers,Minnesota Timberwolves,97,109,STAPLES Center,19243,/boxscores/201202280LAC.html
+Wed Feb 29 2012,Philadelphia 76ers,Oklahoma City Thunder,88,92,Wells Fargo Center,19746,/boxscores/201202290PHI.html
+Wed Feb 29 2012,Washington Wizards,Orlando Magic,95,102,Verizon Center,18688,/boxscores/201202290WAS.html
+Wed Feb 29 2012,Atlanta Hawks,Golden State Warriors,82,85,Philips Arena,13049,/boxscores/201202290ATL.html
+Wed Feb 29 2012,Boston Celtics,Milwaukee Bucks,102,96,TD Garden,18624,/boxscores/201202290BOS.html
+Wed Feb 29 2012,Detroit Pistons,Charlotte Bobcats,109,94,The Palace of Auburn Hills,14534,/boxscores/201202290DET.html
+Wed Feb 29 2012,New York Knicks,Cleveland Cavaliers,120,103,Madison Square Garden (IV),19763,/boxscores/201202290NYK.html
+Wed Feb 29 2012,Memphis Grizzlies,Dallas Mavericks,96,85,FedEx Forum,17023,/boxscores/201202290MEM.html
+Wed Feb 29 2012,New Orleans Hornets,Toronto Raptors,84,95,New Orleans Arena,14527,/boxscores/201202290NOH.html
+Wed Feb 29 2012,Denver Nuggets,Portland Trail Blazers,104,95,Pepsi Center,15715,/boxscores/201202290DEN.html
+Wed Feb 29 2012,San Antonio Spurs,Chicago Bulls,89,96,AT&T Center,18581,/boxscores/201202290SAS.html
+Wed Feb 29 2012,Utah Jazz,Houston Rockets,104,83,EnergySolutions Arena,18816,/boxscores/201202290UTA.html
+Wed Feb 29 2012,Los Angeles Lakers,Minnesota Timberwolves,104,85,STAPLES Center,18997,/boxscores/201202290LAL.html

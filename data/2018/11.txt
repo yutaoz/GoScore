@@ -1,0 +1,213 @@
+Wed Nov 1 2017,Charlotte Hornets,Milwaukee Bucks,126,121,Spectrum Center,15655,/boxscores/201711010CHO.html
+Wed Nov 1 2017,Cleveland Cavaliers,Indiana Pacers,107,124,Quicken Loans Arena,20562,/boxscores/201711010CLE.html
+Wed Nov 1 2017,Philadelphia 76ers,Atlanta Hawks,119,109,Wells Fargo Center,20549,/boxscores/201711010PHI.html
+Wed Nov 1 2017,Washington Wizards,Phoenix Suns,116,122,Capital One Arena,14790,/boxscores/201711010WAS.html
+Wed Nov 1 2017,Boston Celtics,Sacramento Kings,113,86,TD Garden,18624,/boxscores/201711010BOS.html
+Wed Nov 1 2017,Miami Heat,Chicago Bulls,97,91,AmericanAirlines Arena,19600,/boxscores/201711010MIA.html
+Wed Nov 1 2017,Memphis Grizzlies,Orlando Magic,99,101,FedEx Forum,15434,/boxscores/201711010MEM.html
+Wed Nov 1 2017,New Orleans Pelicans,Minnesota Timberwolves,98,104,Smoothie King Center,14788,/boxscores/201711010NOP.html
+Wed Nov 1 2017,New York Knicks,Houston Rockets,97,119,Madison Square Garden (IV),18320,/boxscores/201711010NYK.html
+Wed Nov 1 2017,Denver Nuggets,Toronto Raptors,129,111,Pepsi Center,14072,/boxscores/201711010DEN.html
+Wed Nov 1 2017,Utah Jazz,Portland Trail Blazers,112,103,Vivint Smart Home Arena,16685,/boxscores/201711010UTA.html
+Wed Nov 1 2017,Los Angeles Clippers,Dallas Mavericks,119,98,STAPLES Center,13487,/boxscores/201711010LAC.html
+Thu Nov 2 2017,San Antonio Spurs,Golden State Warriors,92,112,AT&T Center,18418,/boxscores/201711020SAS.html
+Thu Nov 2 2017,Portland Trail Blazers,Los Angeles Lakers,113,110,Moda Center,19469,/boxscores/201711020POR.html
+Fri Nov 3 2017,Detroit Pistons,Milwaukee Bucks,105,96,Little Caesars Arena,17207,/boxscores/201711030DET.html
+Fri Nov 3 2017,Orlando Magic,Chicago Bulls,83,105,Amway Center,19171,/boxscores/201711030ORL.html
+Fri Nov 3 2017,Philadelphia 76ers,Indiana Pacers,121,110,Wells Fargo Center,20668,/boxscores/201711030PHI.html
+Fri Nov 3 2017,Washington Wizards,Cleveland Cavaliers,122,130,Capital One Arena,20356,/boxscores/201711030WAS.html
+Fri Nov 3 2017,Atlanta Hawks,Houston Rockets,104,119,Philips Arena,14087,/boxscores/201711030ATL.html
+Fri Nov 3 2017,New York Knicks,Phoenix Suns,120,107,Madison Square Garden (IV),19404,/boxscores/201711030NYK.html
+Fri Nov 3 2017,Dallas Mavericks,New Orleans Pelicans,94,99,American Airlines Center,19894,/boxscores/201711030DAL.html
+Fri Nov 3 2017,San Antonio Spurs,Charlotte Hornets,108,101,AT&T Center,18418,/boxscores/201711030SAS.html
+Fri Nov 3 2017,Denver Nuggets,Miami Heat,95,94,Pepsi Center,15317,/boxscores/201711030DEN.html
+Fri Nov 3 2017,Utah Jazz,Toronto Raptors,100,109,Vivint Smart Home Arena,16258,/boxscores/201711030UTA.html
+Fri Nov 3 2017,Oklahoma City Thunder,Boston Celtics,94,101,Chesapeake Energy Arena,18203,/boxscores/201711030OKC.html
+Fri Nov 3 2017,Los Angeles Lakers,Brooklyn Nets,124,112,STAPLES Center,18997,/boxscores/201711030LAL.html
+Sat Nov 4 2017,Los Angeles Clippers,Memphis Grizzlies,104,113,STAPLES Center,14777,/boxscores/201711040LAC.html
+Sat Nov 4 2017,Detroit Pistons,Sacramento Kings,108,99,Little Caesars Arena,17683,/boxscores/201711040DET.html
+Sat Nov 4 2017,Chicago Bulls,New Orleans Pelicans,90,96,United Center,21254,/boxscores/201711040CHI.html
+Sat Nov 4 2017,Minnesota Timberwolves,Dallas Mavericks,112,99,Target Center,16837,/boxscores/201711040MIN.html
+Sat Nov 4 2017,Denver Nuggets,Golden State Warriors,108,127,Pepsi Center,19711,/boxscores/201711040DEN.html
+Sun Nov 5 2017,Cleveland Cavaliers,Atlanta Hawks,115,117,Quicken Loans Arena,20562,/boxscores/201711050CLE.html
+Sun Nov 5 2017,Los Angeles Clippers,Miami Heat,101,104,STAPLES Center,15676,/boxscores/201711050LAC.html
+Sun Nov 5 2017,Orlando Magic,Boston Celtics,88,104,Amway Center,17731,/boxscores/201711050ORL.html
+Sun Nov 5 2017,Toronto Raptors,Washington Wizards,96,107,Air Canada Centre,19800,/boxscores/201711050TOR.html
+Sun Nov 5 2017,Houston Rockets,Utah Jazz,137,110,Toyota Center,16914,/boxscores/201711050HOU.html
+Sun Nov 5 2017,San Antonio Spurs,Phoenix Suns,112,95,AT&T Center,18038,/boxscores/201711050SAS.html
+Sun Nov 5 2017,New York Knicks,Indiana Pacers,108,101,Madison Square Garden (IV),17889,/boxscores/201711050NYK.html
+Sun Nov 5 2017,Minnesota Timberwolves,Charlotte Hornets,112,94,Target Center,14124,/boxscores/201711050MIN.html
+Sun Nov 5 2017,Portland Trail Blazers,Oklahoma City Thunder,103,99,Moda Center,19393,/boxscores/201711050POR.html
+Sun Nov 5 2017,Los Angeles Lakers,Memphis Grizzlies,107,102,STAPLES Center,18997,/boxscores/201711050LAL.html
+Mon Nov 6 2017,Atlanta Hawks,Boston Celtics,107,110,Philips Arena,13215,/boxscores/201711060ATL.html
+Mon Nov 6 2017,Phoenix Suns,Brooklyn Nets,92,98,Talking Stick Resort Arena,15905,/boxscores/201711060PHO.html
+Mon Nov 6 2017,Golden State Warriors,Miami Heat,97,80,Oracle Arena,19596,/boxscores/201711060GSW.html
+Tue Nov 7 2017,Cleveland Cavaliers,Milwaukee Bucks,124,119,Quicken Loans Arena,20562,/boxscores/201711070CLE.html
+Tue Nov 7 2017,Indiana Pacers,New Orleans Pelicans,112,117,Bankers Life Fieldhouse,15014,/boxscores/201711070IND.html
+Tue Nov 7 2017,Washington Wizards,Dallas Mavericks,99,113,Capital One Arena,14505,/boxscores/201711070WAS.html
+Tue Nov 7 2017,New York Knicks,Charlotte Hornets,118,113,Madison Square Garden (IV),18704,/boxscores/201711070NYK.html
+Tue Nov 7 2017,Toronto Raptors,Chicago Bulls,119,114,Air Canada Centre,19800,/boxscores/201711070TOR.html
+Tue Nov 7 2017,San Antonio Spurs,Los Angeles Clippers,120,107,AT&T Center,18418,/boxscores/201711070SAS.html
+Tue Nov 7 2017,Denver Nuggets,Brooklyn Nets,112,104,Pepsi Center,14058,/boxscores/201711070DEN.html
+Tue Nov 7 2017,Utah Jazz,Philadelphia 76ers,97,104,Vivint Smart Home Arena,16063,/boxscores/201711070UTA.html
+Tue Nov 7 2017,Portland Trail Blazers,Memphis Grizzlies,97,98,Moda Center,18692,/boxscores/201711070POR.html
+Tue Nov 7 2017,Sacramento Kings,Oklahoma City Thunder,94,86,Golden 1 Center,17583,/boxscores/201711070SAC.html
+Wed Nov 8 2017,Detroit Pistons,Indiana Pacers,114,97,Little Caesars Arena,14407,/boxscores/201711080DET.html
+Wed Nov 8 2017,Orlando Magic,New York Knicks,112,99,Amway Center,18803,/boxscores/201711080ORL.html
+Wed Nov 8 2017,Boston Celtics,Los Angeles Lakers,107,96,TD Garden,18624,/boxscores/201711080BOS.html
+Wed Nov 8 2017,Phoenix Suns,Miami Heat,115,126,Talking Stick Resort Arena,16500,/boxscores/201711080PHO.html
+Wed Nov 8 2017,Golden State Warriors,Minnesota Timberwolves,125,101,Oracle Arena,19596,/boxscores/201711080GSW.html
+Thu Nov 9 2017,Washington Wizards,Los Angeles Lakers,111,95,Capital One Arena,20356,/boxscores/201711090WAS.html
+Thu Nov 9 2017,Toronto Raptors,New Orleans Pelicans,122,118,Air Canada Centre,19800,/boxscores/201711090TOR.html
+Thu Nov 9 2017,Houston Rockets,Cleveland Cavaliers,117,113,Toyota Center,18055,/boxscores/201711090HOU.html
+Thu Nov 9 2017,Sacramento Kings,Philadelphia 76ers,109,108,Golden 1 Center,17583,/boxscores/201711090SAC.html
+Thu Nov 9 2017,Denver Nuggets,Oklahoma City Thunder,102,94,Pepsi Center,19520,/boxscores/201711090DEN.html
+Fri Nov 10 2017,Detroit Pistons,Atlanta Hawks,111,104,Little Caesars Arena,16687,/boxscores/201711100DET.html
+Fri Nov 10 2017,Boston Celtics,Charlotte Hornets,90,87,TD Garden,18624,/boxscores/201711100BOS.html
+Fri Nov 10 2017,Chicago Bulls,Indiana Pacers,87,105,United Center,22416,/boxscores/201711100CHI.html
+Fri Nov 10 2017,Oklahoma City Thunder,Los Angeles Clippers,120,111,Chesapeake Energy Arena,18203,/boxscores/201711100OKC.html
+Fri Nov 10 2017,Phoenix Suns,Orlando Magic,112,128,Talking Stick Resort Arena,16507,/boxscores/201711100PHO.html
+Fri Nov 10 2017,San Antonio Spurs,Milwaukee Bucks,87,94,AT&T Center,18418,/boxscores/201711100SAS.html
+Fri Nov 10 2017,Utah Jazz,Miami Heat,74,84,Vivint Smart Home Arena,18306,/boxscores/201711100UTA.html
+Fri Nov 10 2017,Portland Trail Blazers,Brooklyn Nets,97,101,Moda Center,19393,/boxscores/201711100POR.html
+Sat Nov 11 2017,New Orleans Pelicans,Los Angeles Clippers,111,103,Smoothie King Center,17624,/boxscores/201711110NOP.html
+Sat Nov 11 2017,Washington Wizards,Atlanta Hawks,113,94,Capital One Arena,17260,/boxscores/201711110WAS.html
+Sat Nov 11 2017,Houston Rockets,Memphis Grizzlies,111,96,Toyota Center,18055,/boxscores/201711110HOU.html
+Sat Nov 11 2017,New York Knicks,Sacramento Kings,118,91,Madison Square Garden (IV),19812,/boxscores/201711110NYK.html
+Sat Nov 11 2017,Dallas Mavericks,Cleveland Cavaliers,104,111,American Airlines Center,20378,/boxscores/201711110DAL.html
+Sat Nov 11 2017,Golden State Warriors,Philadelphia 76ers,135,114,Oracle Arena,19596,/boxscores/201711110GSW.html
+Sat Nov 11 2017,Milwaukee Bucks,Los Angeles Lakers,98,90,BMO Harris Bradley Center,18717,/boxscores/201711110MIL.html
+Sat Nov 11 2017,San Antonio Spurs,Chicago Bulls,133,94,AT&T Center,18418,/boxscores/201711110SAS.html
+Sat Nov 11 2017,Denver Nuggets,Orlando Magic,125,107,Pepsi Center,16688,/boxscores/201711110DEN.html
+Sat Nov 11 2017,Phoenix Suns,Minnesota Timberwolves,118,110,Talking Stick Resort Arena,16910,/boxscores/201711110PHO.html
+Sat Nov 11 2017,Utah Jazz,Brooklyn Nets,114,106,Vivint Smart Home Arena,17413,/boxscores/201711110UTA.html
+Sun Nov 12 2017,Boston Celtics,Toronto Raptors,95,94,TD Garden,18624,/boxscores/201711120BOS.html
+Sun Nov 12 2017,Detroit Pistons,Miami Heat,112,103,Little Caesars Arena,16236,/boxscores/201711120DET.html
+Sun Nov 12 2017,Indiana Pacers,Houston Rockets,95,118,Bankers Life Fieldhouse,15581,/boxscores/201711120IND.html
+Sun Nov 12 2017,Oklahoma City Thunder,Dallas Mavericks,112,99,Chesapeake Energy Arena,18203,/boxscores/201711120OKC.html
+Mon Nov 13 2017,Washington Wizards,Sacramento Kings,110,92,Capital One Arena,14660,/boxscores/201711130WAS.html
+Mon Nov 13 2017,New York Knicks,Cleveland Cavaliers,101,104,Madison Square Garden (IV),19812,/boxscores/201711130NYK.html
+Mon Nov 13 2017,Milwaukee Bucks,Memphis Grizzlies,110,103,BMO Harris Bradley Center,13244,/boxscores/201711130MIL.html
+Mon Nov 13 2017,New Orleans Pelicans,Atlanta Hawks,106,105,Smoothie King Center,14631,/boxscores/201711130NOP.html
+Mon Nov 13 2017,Phoenix Suns,Los Angeles Lakers,93,100,Talking Stick Resort Arena,17533,/boxscores/201711130PHO.html
+Mon Nov 13 2017,Utah Jazz,Minnesota Timberwolves,98,109,Vivint Smart Home Arena,17236,/boxscores/201711130UTA.html
+Mon Nov 13 2017,Portland Trail Blazers,Denver Nuggets,99,82,Moda Center,18895,/boxscores/201711130POR.html
+Mon Nov 13 2017,Golden State Warriors,Orlando Magic,110,100,Oracle Arena,19596,/boxscores/201711130GSW.html
+Mon Nov 13 2017,Los Angeles Clippers,Philadelphia 76ers,105,109,STAPLES Center,19068,/boxscores/201711130LAC.html
+Tue Nov 14 2017,Brooklyn Nets,Boston Celtics,102,109,Barclays Center,17732,/boxscores/201711140BRK.html
+Tue Nov 14 2017,Houston Rockets,Toronto Raptors,113,129,Toyota Center,18055,/boxscores/201711140HOU.html
+Tue Nov 14 2017,Dallas Mavericks,San Antonio Spurs,91,97,American Airlines Center,19535,/boxscores/201711140DAL.html
+Wed Nov 15 2017,Atlanta Hawks,Sacramento Kings,126,80,Philips Arena,13860,/boxscores/201711150ATL.html
+Wed Nov 15 2017,Miami Heat,Washington Wizards,93,102,AmericanAirlines Arena,19600,/boxscores/201711150MIA.html
+Wed Nov 15 2017,New York Knicks,Utah Jazz,106,101,Madison Square Garden (IV),18695,/boxscores/201711150NYK.html
+Wed Nov 15 2017,Charlotte Hornets,Cleveland Cavaliers,107,115,Spectrum Center,19427,/boxscores/201711150CHO.html
+Wed Nov 15 2017,Memphis Grizzlies,Indiana Pacers,113,116,FedEx Forum,16033,/boxscores/201711150MEM.html
+Wed Nov 15 2017,Milwaukee Bucks,Detroit Pistons,99,95,BMO Harris Bradley Center,14594,/boxscores/201711150MIL.html
+Wed Nov 15 2017,Minnesota Timberwolves,San Antonio Spurs,98,86,Target Center,18978,/boxscores/201711150MIN.html
+Wed Nov 15 2017,New Orleans Pelicans,Toronto Raptors,116,125,Smoothie King Center,15654,/boxscores/201711150NOP.html
+Wed Nov 15 2017,Oklahoma City Thunder,Chicago Bulls,92,79,Chesapeake Energy Arena,18203,/boxscores/201711150OKC.html
+Wed Nov 15 2017,Portland Trail Blazers,Orlando Magic,99,94,Moda Center,19206,/boxscores/201711150POR.html
+Wed Nov 15 2017,Los Angeles Lakers,Philadelphia 76ers,109,115,STAPLES Center,18997,/boxscores/201711150LAL.html
+Thu Nov 16 2017,Boston Celtics,Golden State Warriors,92,88,TD Garden,18624,/boxscores/201711160BOS.html
+Thu Nov 16 2017,Phoenix Suns,Houston Rockets,116,142,Talking Stick Resort Arena,16875,/boxscores/201711160PHO.html
+Fri Nov 17 2017,Indiana Pacers,Detroit Pistons,107,100,Bankers Life Fieldhouse,17188,/boxscores/201711170IND.html
+Fri Nov 17 2017,Washington Wizards,Miami Heat,88,91,Capital One Arena,17551,/boxscores/201711170WAS.html
+Fri Nov 17 2017,Brooklyn Nets,Utah Jazz,118,107,Barclays Center,14495,/boxscores/201711170BRK.html
+Fri Nov 17 2017,Cleveland Cavaliers,Los Angeles Clippers,118,113,Quicken Loans Arena,20562,/boxscores/201711170CLE.html
+Fri Nov 17 2017,Toronto Raptors,New York Knicks,107,84,Air Canada Centre,19800,/boxscores/201711170TOR.html
+Fri Nov 17 2017,Chicago Bulls,Charlotte Hornets,123,120,United Center,20493,/boxscores/201711170CHI.html
+Fri Nov 17 2017,San Antonio Spurs,Oklahoma City Thunder,104,101,AT&T Center,18418,/boxscores/201711170SAS.html
+Fri Nov 17 2017,Dallas Mavericks,Minnesota Timberwolves,87,111,American Airlines Center,19459,/boxscores/201711170DAL.html
+Fri Nov 17 2017,Sacramento Kings,Portland Trail Blazers,86,82,Golden 1 Center,17583,/boxscores/201711170SAC.html
+Fri Nov 17 2017,Denver Nuggets,New Orleans Pelicans,146,114,Pepsi Center,16816,/boxscores/201711170DEN.html
+Fri Nov 17 2017,Los Angeles Lakers,Phoenix Suns,113,122,STAPLES Center,18997,/boxscores/201711170LAL.html
+Sat Nov 18 2017,Charlotte Hornets,Los Angeles Clippers,102,87,Spectrum Center,17640,/boxscores/201711180CHO.html
+Sat Nov 18 2017,Orlando Magic,Utah Jazz,85,125,Amway Center,19157,/boxscores/201711180ORL.html
+Sat Nov 18 2017,Atlanta Hawks,Boston Celtics,99,110,Philips Arena,16381,/boxscores/201711180ATL.html
+Sat Nov 18 2017,Philadelphia 76ers,Golden State Warriors,116,124,Wells Fargo Center,20848,/boxscores/201711180PHI.html
+Sat Nov 18 2017,Memphis Grizzlies,Houston Rockets,83,105,FedEx Forum,17266,/boxscores/201711180MEM.html
+Sat Nov 18 2017,Dallas Mavericks,Milwaukee Bucks,111,79,American Airlines Center,19949,/boxscores/201711180DAL.html
+Sat Nov 18 2017,Portland Trail Blazers,Sacramento Kings,102,90,Moda Center,19522,/boxscores/201711180POR.html
+Sun Nov 19 2017,Toronto Raptors,Washington Wizards,100,91,Air Canada Centre,19800,/boxscores/201711190TOR.html
+Sun Nov 19 2017,Miami Heat,Indiana Pacers,95,120,AmericanAirlines Arena,19600,/boxscores/201711190MIA.html
+Sun Nov 19 2017,Brooklyn Nets,Golden State Warriors,111,118,Barclays Center,17732,/boxscores/201711190BRK.html
+Sun Nov 19 2017,Minnesota Timberwolves,Detroit Pistons,97,100,Target Center,16069,/boxscores/201711190MIN.html
+Sun Nov 19 2017,Phoenix Suns,Chicago Bulls,113,105,Talking Stick Resort Arena,16264,/boxscores/201711190PHO.html
+Sun Nov 19 2017,Los Angeles Lakers,Denver Nuggets,127,109,STAPLES Center,18997,/boxscores/201711190LAL.html
+Mon Nov 20 2017,Charlotte Hornets,Minnesota Timberwolves,118,102,Spectrum Center,15978,/boxscores/201711200CHO.html
+Mon Nov 20 2017,Detroit Pistons,Cleveland Cavaliers,88,116,Little Caesars Arena,20491,/boxscores/201711200DET.html
+Mon Nov 20 2017,Orlando Magic,Indiana Pacers,97,105,Amway Center,17239,/boxscores/201711200ORL.html
+Mon Nov 20 2017,Philadelphia 76ers,Utah Jazz,107,86,Wells Fargo Center,20587,/boxscores/201711200PHI.html
+Mon Nov 20 2017,New York Knicks,Los Angeles Clippers,107,85,Madison Square Garden (IV),18848,/boxscores/201711200NYK.html
+Mon Nov 20 2017,Memphis Grizzlies,Portland Trail Blazers,92,100,FedEx Forum,15785,/boxscores/201711200MEM.html
+Mon Nov 20 2017,Milwaukee Bucks,Washington Wizards,88,99,BMO Harris Bradley Center,16122,/boxscores/201711200MIL.html
+Mon Nov 20 2017,New Orleans Pelicans,Oklahoma City Thunder,114,107,Smoothie King Center,16765,/boxscores/201711200NOP.html
+Mon Nov 20 2017,Dallas Mavericks,Boston Celtics,102,110,American Airlines Center,20302,/boxscores/201711200DAL.html
+Mon Nov 20 2017,San Antonio Spurs,Atlanta Hawks,96,85,AT&T Center,18418,/boxscores/201711200SAS.html
+Mon Nov 20 2017,Sacramento Kings,Denver Nuggets,98,114,Golden 1 Center,17583,/boxscores/201711200SAC.html
+Tue Nov 21 2017,Los Angeles Lakers,Chicago Bulls,103,94,STAPLES Center,18997,/boxscores/201711210LAL.html
+Wed Nov 22 2017,Charlotte Hornets,Washington Wizards,129,124,Spectrum Center,16041,/boxscores/201711220CHO.html
+Wed Nov 22 2017,Cleveland Cavaliers,Brooklyn Nets,119,109,Quicken Loans Arena,20562,/boxscores/201711220CLE.html
+Wed Nov 22 2017,Philadelphia 76ers,Portland Trail Blazers,101,81,Wells Fargo Center,20605,/boxscores/201711220PHI.html
+Wed Nov 22 2017,Atlanta Hawks,Los Angeles Clippers,103,116,Philips Arena,12675,/boxscores/201711220ATL.html
+Wed Nov 22 2017,Miami Heat,Boston Celtics,104,98,AmericanAirlines Arena,19704,/boxscores/201711220MIA.html
+Wed Nov 22 2017,New York Knicks,Toronto Raptors,108,100,Madison Square Garden (IV),19812,/boxscores/201711220NYK.html
+Wed Nov 22 2017,Houston Rockets,Denver Nuggets,125,95,Toyota Center,18055,/boxscores/201711220HOU.html
+Wed Nov 22 2017,Memphis Grizzlies,Dallas Mavericks,94,95,FedEx Forum,16101,/boxscores/201711220MEM.html
+Wed Nov 22 2017,Minnesota Timberwolves,Orlando Magic,124,118,Target Center,16402,/boxscores/201711220MIN.html
+Wed Nov 22 2017,New Orleans Pelicans,San Antonio Spurs,107,90,Smoothie King Center,17539,/boxscores/201711220NOP.html
+Wed Nov 22 2017,Oklahoma City Thunder,Golden State Warriors,108,91,Chesapeake Energy Arena,18203,/boxscores/201711220OKC.html
+Wed Nov 22 2017,Phoenix Suns,Milwaukee Bucks,107,113,Talking Stick Resort Arena,16270,/boxscores/201711220PHO.html
+Wed Nov 22 2017,Utah Jazz,Chicago Bulls,110,80,Vivint Smart Home Arena,17434,/boxscores/201711220UTA.html
+Wed Nov 22 2017,Sacramento Kings,Los Angeles Lakers,113,102,Golden 1 Center,17583,/boxscores/201711220SAC.html
+Fri Nov 24 2017,Brooklyn Nets,Portland Trail Blazers,125,127,Barclays Center,15246,/boxscores/201711240BRK.html
+Fri Nov 24 2017,Atlanta Hawks,New York Knicks,116,104,Philips Arena,14355,/boxscores/201711240ATL.html
+Fri Nov 24 2017,Boston Celtics,Orlando Magic,118,103,TD Garden,18624,/boxscores/201711240BOS.html
+Fri Nov 24 2017,Cleveland Cavaliers,Charlotte Hornets,100,99,Quicken Loans Arena,20562,/boxscores/201711240CLE.html
+Fri Nov 24 2017,Indiana Pacers,Toronto Raptors,107,104,Bankers Life Fieldhouse,16523,/boxscores/201711240IND.html
+Fri Nov 24 2017,Minnesota Timberwolves,Miami Heat,97,109,Target Center,18978,/boxscores/201711240MIN.html
+Fri Nov 24 2017,Oklahoma City Thunder,Detroit Pistons,98,99,Chesapeake Energy Arena,18203,/boxscores/201711240OKC.html
+Fri Nov 24 2017,Denver Nuggets,Memphis Grizzlies,104,92,Pepsi Center,16736,/boxscores/201711240DEN.html
+Fri Nov 24 2017,Phoenix Suns,New Orleans Pelicans,91,115,Talking Stick Resort Arena,16574,/boxscores/201711240PHO.html
+Fri Nov 24 2017,Golden State Warriors,Chicago Bulls,143,94,Oracle Arena,19596,/boxscores/201711240GSW.html
+Sat Nov 25 2017,Charlotte Hornets,San Antonio Spurs,86,106,Spectrum Center,18597,/boxscores/201711250CHO.html
+Sat Nov 25 2017,Philadelphia 76ers,Orlando Magic,130,111,Wells Fargo Center,20585,/boxscores/201711250PHI.html
+Sat Nov 25 2017,Washington Wizards,Portland Trail Blazers,105,108,Capital One Arena,18092,/boxscores/201711250WAS.html
+Sat Nov 25 2017,Atlanta Hawks,Toronto Raptors,78,112,Philips Arena,12278,/boxscores/201711250ATL.html
+Sat Nov 25 2017,Houston Rockets,New York Knicks,117,102,Toyota Center,18055,/boxscores/201711250HOU.html
+Sat Nov 25 2017,Indiana Pacers,Boston Celtics,98,108,Bankers Life Fieldhouse,16303,/boxscores/201711250IND.html
+Sat Nov 25 2017,Dallas Mavericks,Oklahoma City Thunder,97,81,American Airlines Center,20340,/boxscores/201711250DAL.html
+Sat Nov 25 2017,Golden State Warriors,New Orleans Pelicans,110,95,Oracle Arena,19596,/boxscores/201711250GSW.html
+Sat Nov 25 2017,Utah Jazz,Milwaukee Bucks,121,108,Vivint Smart Home Arena,17298,/boxscores/201711250UTA.html
+Sat Nov 25 2017,Sacramento Kings,Los Angeles Clippers,95,97,Golden 1 Center,17583,/boxscores/201711250SAC.html
+Sun Nov 26 2017,Chicago Bulls,Miami Heat,93,100,United Center,20928,/boxscores/201711260CHI.html
+Sun Nov 26 2017,Minnesota Timberwolves,Phoenix Suns,119,108,Target Center,16448,/boxscores/201711260MIN.html
+Sun Nov 26 2017,Memphis Grizzlies,Brooklyn Nets,88,98,FedEx Forum,14889,/boxscores/201711260MEM.html
+Mon Nov 27 2017,Indiana Pacers,Orlando Magic,121,109,Bankers Life Fieldhouse,12501,/boxscores/201711270IND.html
+Mon Nov 27 2017,Philadelphia 76ers,Cleveland Cavaliers,91,113,Wells Fargo Center,20527,/boxscores/201711270PHI.html
+Mon Nov 27 2017,Boston Celtics,Detroit Pistons,108,118,TD Garden,18624,/boxscores/201711270BOS.html
+Mon Nov 27 2017,New York Knicks,Portland Trail Blazers,91,103,Madison Square Garden (IV),18409,/boxscores/201711270NYK.html
+Mon Nov 27 2017,Houston Rockets,Brooklyn Nets,117,103,Toyota Center,16189,/boxscores/201711270HOU.html
+Mon Nov 27 2017,San Antonio Spurs,Dallas Mavericks,115,108,AT&T Center,17918,/boxscores/201711270SAS.html
+Mon Nov 27 2017,Golden State Warriors,Sacramento Kings,106,110,Oracle Arena,19596,/boxscores/201711270GSW.html
+Mon Nov 27 2017,Los Angeles Clippers,Los Angeles Lakers,120,115,STAPLES Center,18086,/boxscores/201711270LAC.html
+Tue Nov 28 2017,Cleveland Cavaliers,Miami Heat,108,97,Quicken Loans Arena,20562,/boxscores/201711280CLE.html
+Tue Nov 28 2017,Chicago Bulls,Phoenix Suns,99,104,United Center,18324,/boxscores/201711280CHI.html
+Tue Nov 28 2017,Minnesota Timberwolves,Washington Wizards,89,92,Target Center,13442,/boxscores/201711280MIN.html
+Tue Nov 28 2017,Sacramento Kings,Milwaukee Bucks,87,112,Golden 1 Center,17583,/boxscores/201711280SAC.html
+Tue Nov 28 2017,Utah Jazz,Denver Nuggets,106,77,Vivint Smart Home Arena,16790,/boxscores/201711280UTA.html
+Wed Nov 29 2017,Detroit Pistons,Phoenix Suns,131,107,Little Caesars Arena,18096,/boxscores/201711290DET.html
+Wed Nov 29 2017,Orlando Magic,Oklahoma City Thunder,121,108,Amway Center,17797,/boxscores/201711290ORL.html
+Wed Nov 29 2017,Philadelphia 76ers,Washington Wizards,118,113,Wells Fargo Center,20492,/boxscores/201711290PHI.html
+Wed Nov 29 2017,New York Knicks,Miami Heat,115,86,Madison Square Garden (IV),17693,/boxscores/201711290NYK.html
+Wed Nov 29 2017,Toronto Raptors,Charlotte Hornets,126,113,Air Canada Centre,19800,/boxscores/201711290TOR.html
+Wed Nov 29 2017,Houston Rockets,Indiana Pacers,118,97,Toyota Center,16760,/boxscores/201711290HOU.html
+Wed Nov 29 2017,New Orleans Pelicans,Minnesota Timberwolves,102,120,Smoothie King Center,15555,/boxscores/201711290NOP.html
+Wed Nov 29 2017,Dallas Mavericks,Brooklyn Nets,104,109,American Airlines Center,19327,/boxscores/201711290DAL.html
+Wed Nov 29 2017,San Antonio Spurs,Memphis Grizzlies,104,95,AT&T Center,18013,/boxscores/201711290SAS.html
+Wed Nov 29 2017,Los Angeles Lakers,Golden State Warriors,123,127,STAPLES Center,18997,/boxscores/201711290LAL.html
+Thu Nov 30 2017,Atlanta Hawks,Cleveland Cavaliers,114,121,Philips Arena,16379,/boxscores/201711300ATL.html
+Thu Nov 30 2017,Boston Celtics,Philadelphia 76ers,108,97,TD Garden,18624,/boxscores/201711300BOS.html
+Thu Nov 30 2017,Denver Nuggets,Chicago Bulls,111,110,Pepsi Center,15156,/boxscores/201711300DEN.html
+Thu Nov 30 2017,Portland Trail Blazers,Milwaukee Bucks,91,103,Moda Center,19459,/boxscores/201711300POR.html
+Thu Nov 30 2017,Los Angeles Clippers,Utah Jazz,107,126,STAPLES Center,15139,/boxscores/201711300LAC.html

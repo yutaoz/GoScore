@@ -1,0 +1,25 @@
+Thu May 2 1985,Detroit Pistons,Boston Celtics,125,117,Joe Louis Arena,14209,/boxscores/198505020DET.html
+Thu May 2 1985,Denver Nuggets,Utah Jazz,131,123,McNichols Sports Arena,16317,/boxscores/198505020DEN.html
+Fri May 3 1985,Philadelphia 76ers,Milwaukee Bucks,109,104,The Spectrum,14188,/boxscores/198505030PHI.html
+Fri May 3 1985,Portland Trail Blazers,Los Angeles Lakers,126,130,Memorial Coliseum,12666,/boxscores/198505030POR.html
+Sat May 4 1985,Utah Jazz,Denver Nuggets,131,123,Salt Palace,12178,/boxscores/198505040UTA.html
+Sun May 5 1985,Detroit Pistons,Boston Celtics,102,99,Joe Louis Arena,14350,/boxscores/198505050DET.html
+Sun May 5 1985,Philadelphia 76ers,Milwaukee Bucks,121,112,The Spectrum,15264,/boxscores/198505050PHI.html
+Sun May 5 1985,Portland Trail Blazers,Los Angeles Lakers,115,107,Memorial Coliseum,12666,/boxscores/198505050POR.html
+Sun May 5 1985,Utah Jazz,Denver Nuggets,118,125,Salt Palace,12716,/boxscores/198505050UTA.html
+Tue May 7 1985,Denver Nuggets,Utah Jazz,116,104,McNichols Sports Arena,17022,/boxscores/198505070DEN.html
+Tue May 7 1985,Los Angeles Lakers,Portland Trail Blazers,139,120,The Forum,17505,/boxscores/198505070LAL.html
+Wed May 8 1985,Boston Celtics,Detroit Pistons,130,123,Boston Garden,14890,/boxscores/198505080BOS.html
+Fri May 10 1985,Detroit Pistons,Boston Celtics,113,123,Joe Louis Arena,21193,/boxscores/198505100DET.html
+Sat May 11 1985,Los Angeles Lakers,Denver Nuggets,139,122,The Forum,16109,/boxscores/198505110LAL.html
+Sun May 12 1985,Boston Celtics,Philadelphia 76ers,108,93,Boston Garden,14890,/boxscores/198505120BOS.html
+Tue May 14 1985,Boston Celtics,Philadelphia 76ers,106,98,Boston Garden,14890,/boxscores/198505140BOS.html
+Tue May 14 1985,Los Angeles Lakers,Denver Nuggets,114,136,The Forum,17505,/boxscores/198505140LAL.html
+Fri May 17 1985,Denver Nuggets,Los Angeles Lakers,118,136,McNichols Sports Arena,17022,/boxscores/198505170DEN.html
+Sat May 18 1985,Philadelphia 76ers,Boston Celtics,94,105,The Spectrum,17921,/boxscores/198505180PHI.html
+Sun May 19 1985,Denver Nuggets,Los Angeles Lakers,116,120,McNichols Sports Arena,17022,/boxscores/198505190DEN.html
+Sun May 19 1985,Philadelphia 76ers,Boston Celtics,115,104,The Spectrum,17101,/boxscores/198505190PHI.html
+Wed May 22 1985,Boston Celtics,Philadelphia 76ers,102,100,Boston Garden,14890,/boxscores/198505220BOS.html
+Wed May 22 1985,Los Angeles Lakers,Denver Nuggets,153,109,The Forum,17505,/boxscores/198505220LAL.html
+Mon May 27 1985,Boston Celtics,Los Angeles Lakers,148,114,Boston Garden,14890,/boxscores/198505270BOS.html
+Thu May 30 1985,Boston Celtics,Los Angeles Lakers,102,109,Boston Garden,14890,/boxscores/198505300BOS.html

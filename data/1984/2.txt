@@ -1,0 +1,173 @@
+Wed Feb 1 1984,Atlanta Hawks,Chicago Bulls,116,103,Omni Coliseum,8013,/boxscores/198402010ATL.html
+Wed Feb 1 1984,Boston Celtics,Kansas City Kings,119,110,Boston Garden,14890,/boxscores/198402010BOS.html
+Wed Feb 1 1984,Dallas Mavericks,New York Knicks,98,105,Reunion Arena,14209,/boxscores/198402010DAL.html
+Wed Feb 1 1984,Denver Nuggets,Los Angeles Lakers,108,116,McNichols Sports Arena,14009,/boxscores/198402010DEN.html
+Wed Feb 1 1984,New Jersey Nets,San Diego Clippers,111,106,Brendan Byrne Arena,9343,/boxscores/198402010NJN.html
+Wed Feb 1 1984,Philadelphia 76ers,Indiana Pacers,111,103,The Spectrum,11221,/boxscores/198402010PHI.html
+Wed Feb 1 1984,Phoenix Suns,Portland Trail Blazers,109,106,Arizona Veterans Memorial Coliseum,10652,/boxscores/198402010PHO.html
+Wed Feb 1 1984,Seattle SuperSonics,Milwaukee Bucks,99,98,Seattle Kingdome,0,/boxscores/198402010SEA.html
+Thu Feb 2 1984,Golden State Warriors,San Antonio Spurs,117,107,Oakland-Alameda County Coliseum Arena,5802,/boxscores/198402020GSW.html
+Thu Feb 2 1984,Houston Rockets,Dallas Mavericks,123,107,The Summit,1345,/boxscores/198402020HOU.html
+Thu Feb 2 1984,Utah Jazz,Phoenix Suns,116,95,Salt Palace,8892,/boxscores/198402020UTA.html
+Thu Feb 2 1984,Washington Bullets,Detroit Pistons,129,139,Capital Centre,6751,/boxscores/198402020WSB.html
+Fri Feb 3 1984,Boston Celtics,Indiana Pacers,125,106,Boston Garden,14890,/boxscores/198402030BOS.html
+Fri Feb 3 1984,Cleveland Cavaliers,Chicago Bulls,106,76,Coliseum at Richfield,3438,/boxscores/198402030CLE.html
+Fri Feb 3 1984,Dallas Mavericks,Denver Nuggets,111,114,Reunion Arena,15292,/boxscores/198402030DAL.html
+Fri Feb 3 1984,Detroit Pistons,San Diego Clippers,126,111,Pontiac Silverdome,13492,/boxscores/198402030DET.html
+Fri Feb 3 1984,Los Angeles Lakers,Utah Jazz,109,105,The Forum,17505,/boxscores/198402030LAL.html
+Fri Feb 3 1984,New Jersey Nets,Kansas City Kings,112,114,Brendan Byrne Arena,12873,/boxscores/198402030NJN.html
+Fri Feb 3 1984,Philadelphia 76ers,Atlanta Hawks,88,99,The Spectrum,14241,/boxscores/198402030PHI.html
+Fri Feb 3 1984,Portland Trail Blazers,Milwaukee Bucks,116,110,Memorial Coliseum,12666,/boxscores/198402030POR.html
+Fri Feb 3 1984,Seattle SuperSonics,San Antonio Spurs,121,106,Seattle Kingdome,9590,/boxscores/198402030SEA.html
+Sat Feb 4 1984,Atlanta Hawks,Philadelphia 76ers,102,97,Omni Coliseum,16021,/boxscores/198402040ATL.html
+Sat Feb 4 1984,Chicago Bulls,New Jersey Nets,105,108,Chicago Stadium,5241,/boxscores/198402040CHI.html
+Sat Feb 4 1984,Cleveland Cavaliers,San Diego Clippers,108,100,Coliseum at Richfield,4278,/boxscores/198402040CLE.html
+Sat Feb 4 1984,Golden State Warriors,Phoenix Suns,107,104,Oakland-Alameda County Coliseum Arena,10278,/boxscores/198402040GSW.html
+Sat Feb 4 1984,Houston Rockets,New York Knicks,95,103,The Summit,14630,/boxscores/198402040HOU.html
+Sat Feb 4 1984,Kansas City Kings,Denver Nuggets,107,100,Kemper Arena,9053,/boxscores/198402040KCK.html
+Sat Feb 4 1984,Utah Jazz,Milwaukee Bucks,116,102,Salt Palace,12690,/boxscores/198402040UTA.html
+Sat Feb 4 1984,Washington Bullets,Indiana Pacers,125,101,Capital Centre,6604,/boxscores/198402040WSB.html
+Sun Feb 5 1984,Boston Celtics,Detroit Pistons,137,134,Boston Garden,14890,/boxscores/198402050BOS.html
+Sun Feb 5 1984,Portland Trail Blazers,Phoenix Suns,97,82,Memorial Coliseum,12666,/boxscores/198402050POR.html
+Sun Feb 5 1984,San Antonio Spurs,Los Angeles Lakers,98,110,HemisFair Arena,10414,/boxscores/198402050SAS.html
+Sun Feb 5 1984,Seattle SuperSonics,Dallas Mavericks,104,96,Seattle Kingdome,8483,/boxscores/198402050SEA.html
+Mon Feb 6 1984,New Jersey Nets,Boston Celtics,115,112,Brendan Byrne Arena,14808,/boxscores/198402060NJN.html
+Mon Feb 6 1984,New York Knicks,Golden State Warriors,116,94,Madison Square Garden (IV),9868,/boxscores/198402060NYK.html
+Tue Feb 7 1984,Atlanta Hawks,New Jersey Nets,109,102,Omni Coliseum,7752,/boxscores/198402070ATL.html
+Tue Feb 7 1984,Chicago Bulls,Philadelphia 76ers,104,89,Chicago Stadium,12976,/boxscores/198402070CHI.html
+Tue Feb 7 1984,Detroit Pistons,Cleveland Cavaliers,130,99,Pontiac Silverdome,8332,/boxscores/198402070DET.html
+Tue Feb 7 1984,Indiana Pacers,Los Angeles Lakers,105,106,Market Square Arena,14636,/boxscores/198402070IND.html
+Tue Feb 7 1984,Kansas City Kings,Milwaukee Bucks,110,112,Kemper Arena,6141,/boxscores/198402070KCK.html
+Tue Feb 7 1984,Phoenix Suns,San Antonio Spurs,138,131,Arizona Veterans Memorial Coliseum,9323,/boxscores/198402070PHO.html
+Tue Feb 7 1984,Portland Trail Blazers,Dallas Mavericks,101,85,Memorial Coliseum,12666,/boxscores/198402070POR.html
+Tue Feb 7 1984,Seattle SuperSonics,Denver Nuggets,115,105,Seattle Kingdome,8070,/boxscores/198402070SEA.html
+Tue Feb 7 1984,Utah Jazz,San Diego Clippers,103,109,Thomas & Mack Center,7015,/boxscores/198402070UTA.html
+Tue Feb 7 1984,Washington Bullets,Houston Rockets,95,92,Capital Centre,12305,/boxscores/198402070WSB.html
+Wed Feb 8 1984,Boston Celtics,Los Angeles Lakers,109,111,Boston Garden,14890,/boxscores/198402080BOS.html
+Wed Feb 8 1984,Cleveland Cavaliers,Golden State Warriors,119,108,Coliseum at Richfield,2675,/boxscores/198402080CLE.html
+Wed Feb 8 1984,Denver Nuggets,Dallas Mavericks,114,120,McNichols Sports Arena,8441,/boxscores/198402080DEN.html
+Wed Feb 8 1984,Milwaukee Bucks,New York Knicks,113,103,MECCA Arena,9485,/boxscores/198402080MIL.html
+Wed Feb 8 1984,New Jersey Nets,Chicago Bulls,110,114,Brendan Byrne Arena,9021,/boxscores/198402080NJN.html
+Wed Feb 8 1984,Philadelphia 76ers,Houston Rockets,118,107,The Spectrum,14536,/boxscores/198402080PHI.html
+Wed Feb 8 1984,San Antonio Spurs,Kansas City Kings,110,118,HemisFair Arena,7137,/boxscores/198402080SAS.html
+Wed Feb 8 1984,San Diego Clippers,Portland Trail Blazers,105,114,San Diego Sports Arena,4269,/boxscores/198402080SDC.html
+Thu Feb 9 1984,Indiana Pacers,Seattle SuperSonics,107,102,Market Square Arena,7796,/boxscores/198402090IND.html
+Thu Feb 9 1984,Phoenix Suns,Atlanta Hawks,118,105,Arizona Veterans Memorial Coliseum,9877,/boxscores/198402090PHO.html
+Fri Feb 10 1984,Boston Celtics,Houston Rockets,114,101,Boston Garden,14890,/boxscores/198402100BOS.html
+Fri Feb 10 1984,Cleveland Cavaliers,Seattle SuperSonics,95,90,Coliseum at Richfield,3543,/boxscores/198402100CLE.html
+Fri Feb 10 1984,Dallas Mavericks,Kansas City Kings,115,96,Reunion Arena,13854,/boxscores/198402100DAL.html
+Fri Feb 10 1984,Detroit Pistons,Golden State Warriors,134,116,Pontiac Silverdome,15440,/boxscores/198402100DET.html
+Fri Feb 10 1984,Milwaukee Bucks,San Antonio Spurs,127,132,MECCA Arena,10489,/boxscores/198402100MIL.html
+Fri Feb 10 1984,Philadelphia 76ers,Chicago Bulls,91,100,The Spectrum,12202,/boxscores/198402100PHI.html
+Fri Feb 10 1984,Portland Trail Blazers,Denver Nuggets,123,117,Memorial Coliseum,12666,/boxscores/198402100POR.html
+Fri Feb 10 1984,San Diego Clippers,Atlanta Hawks,113,101,San Diego Sports Arena,5155,/boxscores/198402100SDC.html
+Fri Feb 10 1984,Utah Jazz,New York Knicks,111,121,Salt Palace,11543,/boxscores/198402100UTA.html
+Fri Feb 10 1984,Washington Bullets,Los Angeles Lakers,96,93,Capital Centre,19105,/boxscores/198402100WSB.html
+Sat Feb 11 1984,Chicago Bulls,Golden State Warriors,101,96,Chicago Stadium,5089,/boxscores/198402110CHI.html
+Sat Feb 11 1984,Denver Nuggets,New York Knicks,112,138,McNichols Sports Arena,14983,/boxscores/198402110DEN.html
+Sat Feb 11 1984,Detroit Pistons,San Antonio Spurs,116,123,Pontiac Silverdome,35364,/boxscores/198402110DET.html
+Sat Feb 11 1984,Indiana Pacers,Cleveland Cavaliers,83,86,Market Square Arena,10618,/boxscores/198402110IND.html
+Sat Feb 11 1984,Kansas City Kings,Washington Bullets,94,91,Kemper Arena,6667,/boxscores/198402110KCK.html
+Sat Feb 11 1984,Phoenix Suns,Dallas Mavericks,108,89,Arizona Veterans Memorial Coliseum,11611,/boxscores/198402110PHO.html
+Sun Feb 12 1984,Boston Celtics,Philadelphia 76ers,91,109,Boston Garden,14890,/boxscores/198402120BOS.html
+Sun Feb 12 1984,Los Angeles Lakers,Atlanta Hawks,108,87,The Forum,15617,/boxscores/198402120LAL.html
+Sun Feb 12 1984,Milwaukee Bucks,San Diego Clippers,107,100,MECCA Arena,10065,/boxscores/198402120MIL.html
+Sun Feb 12 1984,New Jersey Nets,Houston Rockets,107,103,Brendan Byrne Arena,16524,/boxscores/198402120NJN.html
+Sun Feb 12 1984,Portland Trail Blazers,Utah Jazz,112,114,Memorial Coliseum,12666,/boxscores/198402120POR.html
+Mon Feb 13 1984,Indiana Pacers,San Antonio Spurs,108,117,Market Square Arena,8234,/boxscores/198402130IND.html
+Tue Feb 14 1984,Chicago Bulls,San Diego Clippers,112,99,Chicago Stadium,4748,/boxscores/198402140CHI.html
+Tue Feb 14 1984,Cleveland Cavaliers,New Jersey Nets,103,93,Coliseum at Richfield,3052,/boxscores/198402140CLE.html
+Tue Feb 14 1984,Denver Nuggets,Washington Bullets,96,108,McNichols Sports Arena,7962,/boxscores/198402140DEN.html
+Tue Feb 14 1984,Golden State Warriors,Seattle SuperSonics,105,102,Oakland-Alameda County Coliseum Arena,6521,/boxscores/198402140GSW.html
+Tue Feb 14 1984,Houston Rockets,Detroit Pistons,119,126,The Summit,10299,/boxscores/198402140HOU.html
+Tue Feb 14 1984,Kansas City Kings,New York Knicks,100,106,Kemper Arena,6193,/boxscores/198402140KCK.html
+Tue Feb 14 1984,Milwaukee Bucks,Phoenix Suns,92,83,MECCA Arena,8958,/boxscores/198402140MIL.html
+Tue Feb 14 1984,Utah Jazz,Atlanta Hawks,100,98,Salt Palace,9641,/boxscores/198402140UTA.html
+Wed Feb 15 1984,Cleveland Cavaliers,Phoenix Suns,104,90,Coliseum at Richfield,4096,/boxscores/198402150CLE.html
+Wed Feb 15 1984,Dallas Mavericks,Philadelphia 76ers,119,116,Reunion Arena,17007,/boxscores/198402150DAL.html
+Wed Feb 15 1984,Indiana Pacers,Milwaukee Bucks,91,107,Market Square Arena,8197,/boxscores/198402150IND.html
+Wed Feb 15 1984,New Jersey Nets,San Antonio Spurs,108,114,Brendan Byrne Arena,10678,/boxscores/198402150NJN.html
+Wed Feb 15 1984,Seattle SuperSonics,Washington Bullets,116,99,Seattle Kingdome,8245,/boxscores/198402150SEA.html
+Thu Feb 16 1984,Denver Nuggets,Atlanta Hawks,117,102,McNichols Sports Arena,9106,/boxscores/198402160DEN.html
+Thu Feb 16 1984,Golden State Warriors,Boston Celtics,115,125,Oakland-Alameda County Coliseum Arena,13335,/boxscores/198402160GSW.html
+Thu Feb 16 1984,Kansas City Kings,Utah Jazz,121,99,Kemper Arena,5443,/boxscores/198402160KCK.html
+Thu Feb 16 1984,New York Knicks,Indiana Pacers,100,94,Madison Square Garden (IV),9087,/boxscores/198402160NYK.html
+Thu Feb 16 1984,San Diego Clippers,Houston Rockets,100,111,San Diego Sports Arena,4247,/boxscores/198402160SDC.html
+Fri Feb 17 1984,Chicago Bulls,San Antonio Spurs,109,111,Chicago Stadium,5894,/boxscores/198402170CHI.html
+Fri Feb 17 1984,Dallas Mavericks,Phoenix Suns,129,123,Reunion Arena,12932,/boxscores/198402170DAL.html
+Fri Feb 17 1984,Los Angeles Lakers,Denver Nuggets,138,141,The Forum,15230,/boxscores/198402170LAL.html
+Fri Feb 17 1984,Milwaukee Bucks,Utah Jazz,105,91,MECCA Arena,11052,/boxscores/198402170MIL.html
+Fri Feb 17 1984,Philadelphia 76ers,New Jersey Nets,114,109,The Spectrum,16211,/boxscores/198402170PHI.html
+Fri Feb 17 1984,Portland Trail Blazers,Washington Bullets,87,96,Memorial Coliseum,12666,/boxscores/198402170POR.html
+Fri Feb 17 1984,Seattle SuperSonics,Boston Celtics,100,111,Seattle Kingdome,19468,/boxscores/198402170SEA.html
+Sat Feb 18 1984,Cleveland Cavaliers,Indiana Pacers,93,118,Coliseum at Richfield,10105,/boxscores/198402180CLE.html
+Sat Feb 18 1984,Dallas Mavericks,Detroit Pistons,115,120,Reunion Arena,17007,/boxscores/198402180DAL.html
+Sat Feb 18 1984,Golden State Warriors,Washington Bullets,113,107,Oakland-Alameda County Coliseum Arena,8135,/boxscores/198402180GSW.html
+Sat Feb 18 1984,Houston Rockets,Phoenix Suns,102,126,The Summit,11482,/boxscores/198402180HOU.html
+Sat Feb 18 1984,Kansas City Kings,Atlanta Hawks,111,106,Kemper Arena,11190,/boxscores/198402180KCK.html
+Sat Feb 18 1984,New York Knicks,New Jersey Nets,112,102,Madison Square Garden (IV),19591,/boxscores/198402180NYK.html
+Sat Feb 18 1984,San Diego Clippers,Los Angeles Lakers,116,120,San Diego Sports Arena,10502,/boxscores/198402180SDC.html
+Sun Feb 19 1984,Chicago Bulls,Milwaukee Bucks,103,113,Chicago Stadium,4684,/boxscores/198402190CHI.html
+Sun Feb 19 1984,Indiana Pacers,Utah Jazz,106,104,Market Square Arena,9647,/boxscores/198402190IND.html
+Sun Feb 19 1984,Philadelphia 76ers,New York Knicks,101,97,The Spectrum,17921,/boxscores/198402190PHI.html
+Sun Feb 19 1984,Portland Trail Blazers,Boston Celtics,101,107,Memorial Coliseum,12666,/boxscores/198402190POR.html
+Sun Feb 19 1984,San Antonio Spurs,Detroit Pistons,140,142,HemisFair Arena,12507,/boxscores/198402190SAS.html
+Sun Feb 19 1984,Seattle SuperSonics,Denver Nuggets,132,120,Seattle Kingdome,9411,/boxscores/198402190SEA.html
+Tue Feb 21 1984,Atlanta Hawks,Cleveland Cavaliers,102,84,Omni Coliseum,4940,/boxscores/198402210ATL.html
+Tue Feb 21 1984,Chicago Bulls,Utah Jazz,95,117,Chicago Stadium,4322,/boxscores/198402210CHI.html
+Tue Feb 21 1984,Golden State Warriors,Denver Nuggets,135,133,Oakland-Alameda County Coliseum Arena,6537,/boxscores/198402210GSW.html
+Tue Feb 21 1984,Houston Rockets,Milwaukee Bucks,119,102,The Summit,11642,/boxscores/198402210HOU.html
+Tue Feb 21 1984,Kansas City Kings,Detroit Pistons,119,112,Kemper Arena,8145,/boxscores/198402210KCK.html
+Tue Feb 21 1984,Los Angeles Lakers,Seattle SuperSonics,128,112,The Forum,17505,/boxscores/198402210LAL.html
+Tue Feb 21 1984,New Jersey Nets,Philadelphia 76ers,119,116,Brendan Byrne Arena,17003,/boxscores/198402210NJN.html
+Tue Feb 21 1984,New York Knicks,Portland Trail Blazers,89,106,Madison Square Garden (IV),10790,/boxscores/198402210NYK.html
+Tue Feb 21 1984,San Antonio Spurs,Phoenix Suns,111,114,HemisFair Arena,10397,/boxscores/198402210SAS.html
+Wed Feb 22 1984,Dallas Mavericks,Houston Rockets,112,106,Reunion Arena,14319,/boxscores/198402220DAL.html
+Wed Feb 22 1984,Denver Nuggets,San Antonio Spurs,127,121,McNichols Sports Arena,11816,/boxscores/198402220DEN.html
+Wed Feb 22 1984,Detroit Pistons,New York Knicks,114,111,Pontiac Silverdome,15341,/boxscores/198402220DET.html
+Wed Feb 22 1984,Indiana Pacers,Chicago Bulls,111,121,Market Square Arena,6761,/boxscores/198402220IND.html
+Wed Feb 22 1984,San Diego Clippers,Boston Celtics,114,107,San Diego Sports Arena,11718,/boxscores/198402220SDC.html
+Wed Feb 22 1984,Seattle SuperSonics,Los Angeles Lakers,121,114,Seattle Kingdome,12910,/boxscores/198402220SEA.html
+Wed Feb 22 1984,Washington Bullets,Portland Trail Blazers,101,104,Capital Centre,6118,/boxscores/198402220WSB.html
+Thu Feb 23 1984,Cleveland Cavaliers,Philadelphia 76ers,116,109,Coliseum at Richfield,14517,/boxscores/198402230CLE.html
+Thu Feb 23 1984,Golden State Warriors,San Diego Clippers,103,108,Oakland-Alameda County Coliseum Arena,6015,/boxscores/198402230GSW.html
+Thu Feb 23 1984,Kansas City Kings,Phoenix Suns,95,107,Kemper Arena,11209,/boxscores/198402230KCK.html
+Thu Feb 23 1984,New Jersey Nets,Indiana Pacers,110,103,Brendan Byrne Arena,9964,/boxscores/198402230NJN.html
+Thu Feb 23 1984,Utah Jazz,San Antonio Spurs,143,142,Salt Palace,10356,/boxscores/198402230UTA.html
+Fri Feb 24 1984,Atlanta Hawks,New York Knicks,105,104,Omni Coliseum,6350,/boxscores/198402240ATL.html
+Fri Feb 24 1984,Chicago Bulls,Washington Bullets,96,102,Chicago Stadium,0,/boxscores/198402240CHI.html
+Fri Feb 24 1984,Dallas Mavericks,Milwaukee Bucks,88,95,Reunion Arena,17007,/boxscores/198402240DAL.html
+Fri Feb 24 1984,Indiana Pacers,Detroit Pistons,108,100,Market Square Arena,11794,/boxscores/198402240IND.html
+Fri Feb 24 1984,Los Angeles Lakers,Boston Celtics,116,108,The Forum,17505,/boxscores/198402240LAL.html
+Fri Feb 24 1984,Philadelphia 76ers,Portland Trail Blazers,114,119,The Spectrum,15221,/boxscores/198402240PHI.html
+Fri Feb 24 1984,Phoenix Suns,Denver Nuggets,100,117,Arizona Veterans Memorial Coliseum,12393,/boxscores/198402240PHO.html
+Fri Feb 24 1984,Seattle SuperSonics,Utah Jazz,112,81,Seattle Kingdome,12167,/boxscores/198402240SEA.html
+Sat Feb 25 1984,Atlanta Hawks,Chicago Bulls,122,87,Omni Coliseum,7956,/boxscores/198402250ATL.html
+Sat Feb 25 1984,Cleveland Cavaliers,Washington Bullets,94,83,Coliseum at Richfield,5183,/boxscores/198402250CLE.html
+Sat Feb 25 1984,Denver Nuggets,Kansas City Kings,148,136,McNichols Sports Arena,13808,/boxscores/198402250DEN.html
+Sat Feb 25 1984,Houston Rockets,Golden State Warriors,112,118,The Summit,10560,/boxscores/198402250HOU.html
+Sat Feb 25 1984,New Jersey Nets,New York Knicks,117,104,Brendan Byrne Arena,20149,/boxscores/198402250NJN.html
+Sat Feb 25 1984,San Antonio Spurs,Milwaukee Bucks,119,130,HemisFair Arena,9670,/boxscores/198402250SAS.html
+Sat Feb 25 1984,Utah Jazz,Dallas Mavericks,95,97,Salt Palace,12678,/boxscores/198402250UTA.html
+Sun Feb 26 1984,Detroit Pistons,Cleveland Cavaliers,121,109,Pontiac Silverdome,8560,/boxscores/198402260DET.html
+Sun Feb 26 1984,Indiana Pacers,Portland Trail Blazers,102,100,Market Square Arena,12488,/boxscores/198402260IND.html
+Sun Feb 26 1984,Philadelphia 76ers,Los Angeles Lakers,99,101,The Spectrum,17921,/boxscores/198402260PHI.html
+Sun Feb 26 1984,Phoenix Suns,Boston Celtics,109,116,Arizona Veterans Memorial Coliseum,14660,/boxscores/198402260PHO.html
+Sun Feb 26 1984,Seattle SuperSonics,San Diego Clippers,93,101,Seattle Kingdome,12631,/boxscores/198402260SEA.html
+Mon Feb 27 1984,New York Knicks,Atlanta Hawks,96,92,Madison Square Garden (IV),9058,/boxscores/198402270NYK.html
+Tue Feb 28 1984,Atlanta Hawks,Detroit Pistons,96,101,Omni Coliseum,6608,/boxscores/198402280ATL.html
+Tue Feb 28 1984,Chicago Bulls,Los Angeles Lakers,108,124,Chicago Stadium,10949,/boxscores/198402280CHI.html
+Tue Feb 28 1984,Golden State Warriors,Denver Nuggets,140,137,Oakland-Alameda County Coliseum Arena,7616,/boxscores/198402280GSW.html
+Tue Feb 28 1984,Houston Rockets,Seattle SuperSonics,111,105,The Summit,9263,/boxscores/198402280HOU.html
+Tue Feb 28 1984,Indiana Pacers,Washington Bullets,92,100,Market Square Arena,6461,/boxscores/198402280IND.html
+Tue Feb 28 1984,Kansas City Kings,Cleveland Cavaliers,142,137,Kemper Arena,11220,/boxscores/198402280KCK.html
+Tue Feb 28 1984,Phoenix Suns,Utah Jazz,113,100,Arizona Veterans Memorial Coliseum,10899,/boxscores/198402280PHO.html
+Tue Feb 28 1984,Portland Trail Blazers,San Diego Clippers,117,99,Memorial Coliseum,12666,/boxscores/198402280POR.html
+Tue Feb 28 1984,San Antonio Spurs,Dallas Mavericks,104,116,HemisFair Arena,7583,/boxscores/198402280SAS.html
+Wed Feb 29 1984,Boston Celtics,New York Knicks,98,102,Boston Garden,14890,/boxscores/198402290BOS.html
+Wed Feb 29 1984,Dallas Mavericks,Seattle SuperSonics,124,127,Reunion Arena,13166,/boxscores/198402290DAL.html
+Wed Feb 29 1984,Detroit Pistons,Washington Bullets,137,106,Pontiac Silverdome,9498,/boxscores/198402290DET.html
+Wed Feb 29 1984,Milwaukee Bucks,Chicago Bulls,112,83,MECCA Arena,9021,/boxscores/198402290MIL.html
+Wed Feb 29 1984,New Jersey Nets,Los Angeles Lakers,102,92,Brendan Byrne Arena,17590,/boxscores/198402290NJN.html
+Wed Feb 29 1984,San Diego Clippers,Phoenix Suns,102,95,San Diego Sports Arena,4843,/boxscores/198402290SDC.html
+Wed Feb 29 1984,Utah Jazz,Philadelphia 76ers,97,103,Salt Palace,13475,/boxscores/198402290UTA.html

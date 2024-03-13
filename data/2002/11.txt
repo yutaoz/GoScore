@@ -1,0 +1,208 @@
+Thu Nov 1 2001,Philadelphia 76ers,Dallas Mavericks,92,99,First Union Center,20230,/boxscores/200111010PHI.html
+Thu Nov 1 2001,Atlanta Hawks,Washington Wizards,88,98,Philips Arena,20072,/boxscores/200111010ATL.html
+Thu Nov 1 2001,Memphis Grizzlies,Detroit Pistons,80,90,Pyramid Arena,19405,/boxscores/200111010MEM.html
+Thu Nov 1 2001,Houston Rockets,Los Angeles Clippers,98,92,Compaq Center,9329,/boxscores/200111010HOU.html
+Thu Nov 1 2001,Denver Nuggets,Milwaukee Bucks,101,102,Pepsi Center,18634,/boxscores/200111010DEN.html
+Thu Nov 1 2001,Utah Jazz,Los Angeles Lakers,101,105,Delta Center,19539,/boxscores/200111010UTA.html
+Thu Nov 1 2001,Seattle SuperSonics,San Antonio Spurs,114,108,KeyArena at Seattle Center,15491,/boxscores/200111010SEA.html
+Thu Nov 1 2001,Golden State Warriors,Phoenix Suns,101,107,The Arena in Oakland,14624,/boxscores/200111010GSW.html
+Fri Nov 2 2001,Indiana Pacers,Orlando Magic,117,107,Conseco Fieldhouse,18345,/boxscores/200111020IND.html
+Fri Nov 2 2001,Toronto Raptors,Dallas Mavericks,109,92,Air Canada Centre,19800,/boxscores/200111020TOR.html
+Fri Nov 2 2001,Boston Celtics,Chicago Bulls,96,82,FleetCenter,14361,/boxscores/200111020BOS.html
+Fri Nov 2 2001,Charlotte Hornets,New York Knicks,97,93,Charlotte Coliseum,13588,/boxscores/200111020CHH.html
+Fri Nov 2 2001,Miami Heat,Cleveland Cavaliers,83,90,AmericanAirlines Arena,15208,/boxscores/200111020MIA.html
+Fri Nov 2 2001,Detroit Pistons,New Jersey Nets,102,88,The Palace of Auburn Hills,22076,/boxscores/200111020DET.html
+Fri Nov 2 2001,Minnesota Timberwolves,Memphis Grizzlies,111,102,Target Center,16922,/boxscores/200111020MIN.html
+Fri Nov 2 2001,Los Angeles Lakers,Phoenix Suns,117,94,STAPLES Center,18997,/boxscores/200111020LAL.html
+Sat Nov 3 2001,Washington Wizards,Philadelphia 76ers,90,76,MCI Center,20674,/boxscores/200111030WAS.html
+Sat Nov 3 2001,Atlanta Hawks,Miami Heat,90,83,Philips Arena,9472,/boxscores/200111030ATL.html
+Sat Nov 3 2001,New Jersey Nets,Charlotte Hornets,95,85,Continental Airlines Arena,6532,/boxscores/200111030NJN.html
+Sat Nov 3 2001,Chicago Bulls,New York Knicks,84,79,United Center,18064,/boxscores/200111030CHI.html
+Sat Nov 3 2001,Cleveland Cavaliers,Orlando Magic,69,99,Gund Arena,16930,/boxscores/200111030CLE.html
+Sat Nov 3 2001,Houston Rockets,Minnesota Timberwolves,88,90,Compaq Center,10724,/boxscores/200111030HOU.html
+Sat Nov 3 2001,Milwaukee Bucks,Boston Celtics,105,99,Bradley Center,18717,/boxscores/200111030MIL.html
+Sat Nov 3 2001,Denver Nuggets,Sacramento Kings,94,106,Pepsi Center,15138,/boxscores/200111030DEN.html
+Sat Nov 3 2001,Seattle SuperSonics,Utah Jazz,74,91,KeyArena at Seattle Center,15370,/boxscores/200111030SEA.html
+Sat Nov 3 2001,Portland Trail Blazers,San Antonio Spurs,90,106,Rose Garden Arena,19980,/boxscores/200111030POR.html
+Sat Nov 3 2001,Los Angeles Clippers,Golden State Warriors,108,110,STAPLES Center,19445,/boxscores/200111030LAC.html
+Sun Nov 4 2001,Memphis Grizzlies,Dallas Mavericks,85,94,Pyramid Arena,13177,/boxscores/200111040MEM.html
+Sun Nov 4 2001,Toronto Raptors,Indiana Pacers,113,100,Air Canada Centre,18825,/boxscores/200111040TOR.html
+Sun Nov 4 2001,Detroit Pistons,Washington Wizards,100,78,The Palace of Auburn Hills,22076,/boxscores/200111040DET.html
+Sun Nov 4 2001,Phoenix Suns,Houston Rockets,100,103,America West Arena,13562,/boxscores/200111040PHO.html
+Sun Nov 4 2001,Golden State Warriors,Portland Trail Blazers,96,86,The Arena in Oakland,12724,/boxscores/200111040GSW.html
+Sun Nov 4 2001,Sacramento Kings,San Antonio Spurs,103,83,ARCO Arena (II),17317,/boxscores/200111040SAC.html
+Sun Nov 4 2001,Los Angeles Lakers,Utah Jazz,100,96,STAPLES Center,18997,/boxscores/200111040LAL.html
+Mon Nov 5 2001,Orlando Magic,Seattle SuperSonics,119,123,TD Waterhouse Centre,13723,/boxscores/200111050ORL.html
+Mon Nov 5 2001,Los Angeles Clippers,Atlanta Hawks,109,86,STAPLES Center,13722,/boxscores/200111050LAC.html
+Tue Nov 6 2001,Cleveland Cavaliers,Sacramento Kings,99,115,Gund Arena,14584,/boxscores/200111060CLE.html
+Tue Nov 6 2001,Philadelphia 76ers,Indiana Pacers,77,87,First Union Center,20274,/boxscores/200111060PHI.html
+Tue Nov 6 2001,Miami Heat,Seattle SuperSonics,87,85,AmericanAirlines Arena,16500,/boxscores/200111060MIA.html
+Tue Nov 6 2001,Minnesota Timberwolves,New York Knicks,104,94,Target Center,16444,/boxscores/200111060MIN.html
+Tue Nov 6 2001,San Antonio Spurs,Orlando Magic,104,89,Alamodome,15927,/boxscores/200111060SAS.html
+Tue Nov 6 2001,Dallas Mavericks,Charlotte Hornets,110,92,American Airlines Center,16905,/boxscores/200111060DAL.html
+Tue Nov 6 2001,Houston Rockets,Denver Nuggets,99,93,Compaq Center,9671,/boxscores/200111060HOU.html
+Tue Nov 6 2001,Phoenix Suns,Memphis Grizzlies,113,101,America West Arena,12765,/boxscores/200111060PHO.html
+Tue Nov 6 2001,Portland Trail Blazers,Utah Jazz,101,83,Rose Garden Arena,19980,/boxscores/200111060POR.html
+Wed Nov 7 2001,Toronto Raptors,Golden State Warriors,109,92,Air Canada Centre,18887,/boxscores/200111070TOR.html
+Wed Nov 7 2001,New York Knicks,Cleveland Cavaliers,82,64,Madison Square Garden (IV),19763,/boxscores/200111070NYK.html
+Wed Nov 7 2001,Boston Celtics,Washington Wizards,104,95,FleetCenter,18624,/boxscores/200111070BOS.html
+Wed Nov 7 2001,Indiana Pacers,Sacramento Kings,116,104,Conseco Fieldhouse,15309,/boxscores/200111070IND.html
+Wed Nov 7 2001,Chicago Bulls,Detroit Pistons,73,97,United Center,17023,/boxscores/200111070CHI.html
+Wed Nov 7 2001,Utah Jazz,Atlanta Hawks,96,89,Delta Center,17538,/boxscores/200111070UTA.html
+Wed Nov 7 2001,Los Angeles Clippers,Memphis Grizzlies,108,92,STAPLES Center,13835,/boxscores/200111070LAC.html
+Thu Nov 8 2001,Charlotte Hornets,San Antonio Spurs,95,105,Charlotte Coliseum,9511,/boxscores/200111080CHH.html
+Thu Nov 8 2001,New Jersey Nets,Seattle SuperSonics,106,94,Continental Airlines Arena,5277,/boxscores/200111080NJN.html
+Thu Nov 8 2001,Milwaukee Bucks,Miami Heat,86,82,Bradley Center,18364,/boxscores/200111080MIL.html
+Thu Nov 8 2001,Minnesota Timberwolves,Chicago Bulls,127,74,Target Center,15719,/boxscores/200111080MIN.html
+Thu Nov 8 2001,Dallas Mavericks,Denver Nuggets,105,91,American Airlines Center,17471,/boxscores/200111080DAL.html
+Thu Nov 8 2001,Houston Rockets,Philadelphia 76ers,77,72,Compaq Center,12351,/boxscores/200111080HOU.html
+Thu Nov 8 2001,Phoenix Suns,Atlanta Hawks,108,80,America West Arena,13206,/boxscores/200111080PHO.html
+Thu Nov 8 2001,Portland Trail Blazers,Los Angeles Clippers,119,101,Rose Garden Arena,19980,/boxscores/200111080POR.html
+Fri Nov 9 2001,Indiana Pacers,New York Knicks,103,95,Conseco Fieldhouse,16494,/boxscores/200111090IND.html
+Fri Nov 9 2001,Washington Wizards,Golden State Warriors,100,109,MCI Center,20674,/boxscores/200111090WAS.html
+Fri Nov 9 2001,Boston Celtics,Seattle SuperSonics,104,94,FleetCenter,15575,/boxscores/200111090BOS.html
+Fri Nov 9 2001,Orlando Magic,Sacramento Kings,115,105,TD Waterhouse Centre,17248,/boxscores/200111090ORL.html
+Fri Nov 9 2001,Denver Nuggets,Houston Rockets,108,81,Pepsi Center,11451,/boxscores/200111090DEN.html
+Fri Nov 9 2001,Los Angeles Lakers,Memphis Grizzlies,110,86,STAPLES Center,18997,/boxscores/200111090LAL.html
+Sat Nov 10 2001,New Jersey Nets,Cleveland Cavaliers,87,84,Continental Airlines Arena,5631,/boxscores/200111100NJN.html
+Sat Nov 10 2001,Los Angeles Clippers,Phoenix Suns,111,102,STAPLES Center,17111,/boxscores/200111100LAC.html
+Sat Nov 10 2001,Miami Heat,Sacramento Kings,75,90,AmericanAirlines Arena,17853,/boxscores/200111100MIA.html
+Sat Nov 10 2001,New York Knicks,Golden State Warriors,71,90,Madison Square Garden (IV),19763,/boxscores/200111100NYK.html
+Sat Nov 10 2001,Indiana Pacers,Portland Trail Blazers,105,96,Conseco Fieldhouse,18345,/boxscores/200111100IND.html
+Sat Nov 10 2001,Chicago Bulls,Charlotte Hornets,85,89,United Center,20406,/boxscores/200111100CHI.html
+Sat Nov 10 2001,Dallas Mavericks,Philadelphia 76ers,91,98,American Airlines Center,19857,/boxscores/200111100DAL.html
+Sat Nov 10 2001,Milwaukee Bucks,Minnesota Timberwolves,82,98,Bradley Center,18717,/boxscores/200111100MIL.html
+Sat Nov 10 2001,San Antonio Spurs,Atlanta Hawks,110,88,Alamodome,20403,/boxscores/200111100SAS.html
+Sat Nov 10 2001,Utah Jazz,Toronto Raptors,96,117,Delta Center,18194,/boxscores/200111100UTA.html
+Sun Nov 11 2001,Washington Wizards,Seattle SuperSonics,84,99,MCI Center,20674,/boxscores/200111110WAS.html
+Sun Nov 11 2001,Detroit Pistons,Portland Trail Blazers,98,100,The Palace of Auburn Hills,13671,/boxscores/200111110DET.html
+Sun Nov 11 2001,Denver Nuggets,Toronto Raptors,96,85,Pepsi Center,13735,/boxscores/200111110DEN.html
+Sun Nov 11 2001,Los Angeles Lakers,Orlando Magic,108,95,STAPLES Center,18997,/boxscores/200111110LAL.html
+Mon Nov 12 2001,Memphis Grizzlies,Golden State Warriors,79,86,Pyramid Arena,11126,/boxscores/200111120MEM.html
+Mon Nov 12 2001,Utah Jazz,Orlando Magic,105,98,Delta Center,18135,/boxscores/200111120UTA.html
+Tue Nov 13 2001,Indiana Pacers,New Jersey Nets,82,91,Conseco Fieldhouse,15188,/boxscores/200111130IND.html
+Tue Nov 13 2001,Miami Heat,Philadelphia 76ers,76,82,AmericanAirlines Arena,15465,/boxscores/200111130MIA.html
+Tue Nov 13 2001,New York Knicks,Portland Trail Blazers,89,82,Madison Square Garden (IV),19763,/boxscores/200111130NYK.html
+Tue Nov 13 2001,Minnesota Timberwolves,Cleveland Cavaliers,103,107,Target Center,13605,/boxscores/200111130MIN.html
+Tue Nov 13 2001,Sacramento Kings,Toronto Raptors,95,86,ARCO Arena (II),17317,/boxscores/200111130SAC.html
+Tue Nov 13 2001,San Antonio Spurs,Houston Rockets,90,86,Alamodome,15643,/boxscores/200111130SAS.html
+Tue Nov 13 2001,Denver Nuggets,Chicago Bulls,101,93,Pepsi Center,11307,/boxscores/200111130DEN.html
+Tue Nov 13 2001,Seattle SuperSonics,Phoenix Suns,91,92,KeyArena at Seattle Center,10880,/boxscores/200111130SEA.html
+Wed Nov 14 2001,Boston Celtics,Indiana Pacers,101,93,FleetCenter,14081,/boxscores/200111140BOS.html
+Wed Nov 14 2001,Cleveland Cavaliers,Dallas Mavericks,94,107,Gund Arena,12414,/boxscores/200111140CLE.html
+Wed Nov 14 2001,Philadelphia 76ers,Charlotte Hornets,100,86,First Union Center,20153,/boxscores/200111140PHI.html
+Wed Nov 14 2001,Washington Wizards,Milwaukee Bucks,98,107,MCI Center,20674,/boxscores/200111140WAS.html
+Wed Nov 14 2001,Atlanta Hawks,Utah Jazz,111,79,Philips Arena,8558,/boxscores/200111140ATL.html
+Wed Nov 14 2001,Phoenix Suns,Orlando Magic,92,93,America West Arena,17393,/boxscores/200111140PHO.html
+Wed Nov 14 2001,Golden State Warriors,Toronto Raptors,82,89,The Arena in Oakland,18269,/boxscores/200111140GSW.html
+Wed Nov 14 2001,Los Angeles Clippers,Chicago Bulls,106,102,STAPLES Center,14788,/boxscores/200111140LAC.html
+Thu Nov 15 2001,Detroit Pistons,Dallas Mavericks,115,89,The Palace of Auburn Hills,13445,/boxscores/200111150DET.html
+Thu Nov 15 2001,New York Knicks,Miami Heat,83,74,Madison Square Garden (IV),19763,/boxscores/200111150NYK.html
+Thu Nov 15 2001,Memphis Grizzlies,Portland Trail Blazers,85,101,Pyramid Arena,10161,/boxscores/200111150MEM.html
+Thu Nov 15 2001,Denver Nuggets,Orlando Magic,82,101,Pepsi Center,12015,/boxscores/200111150DEN.html
+Thu Nov 15 2001,Houston Rockets,Los Angeles Lakers,97,98,Compaq Center,16285,/boxscores/200111150HOU.html
+Fri Nov 16 2001,Indiana Pacers,Minnesota Timberwolves,113,120,Conseco Fieldhouse,17097,/boxscores/200111160IND.html
+Fri Nov 16 2001,Philadelphia 76ers,Atlanta Hawks,98,78,First Union Center,20424,/boxscores/200111160PHI.html
+Fri Nov 16 2001,Washington Wizards,Utah Jazz,92,101,MCI Center,20674,/boxscores/200111160WAS.html
+Fri Nov 16 2001,Miami Heat,Charlotte Hornets,87,96,AmericanAirlines Arena,15322,/boxscores/200111160MIA.html
+Fri Nov 16 2001,New Jersey Nets,New York Knicks,109,83,Continental Airlines Arena,15638,/boxscores/200111160NJN.html
+Fri Nov 16 2001,San Antonio Spurs,Cleveland Cavaliers,105,91,Alamodome,19222,/boxscores/200111160SAS.html
+Fri Nov 16 2001,Phoenix Suns,Los Angeles Lakers,95,83,America West Arena,19023,/boxscores/200111160PHO.html
+Fri Nov 16 2001,Sacramento Kings,Chicago Bulls,105,71,ARCO Arena (II),17317,/boxscores/200111160SAC.html
+Fri Nov 16 2001,Seattle SuperSonics,Golden State Warriors,100,91,KeyArena at Seattle Center,11714,/boxscores/200111160SEA.html
+Fri Nov 16 2001,Los Angeles Clippers,Toronto Raptors,85,94,STAPLES Center,18964,/boxscores/200111160LAC.html
+Sat Nov 17 2001,Atlanta Hawks,Boston Celtics,112,103,Philips Arena,10563,/boxscores/200111170ATL.html
+Sat Nov 17 2001,Charlotte Hornets,Portland Trail Blazers,87,97,Charlotte Coliseum,10724,/boxscores/200111170CHH.html
+Sat Nov 17 2001,Detroit Pistons,Indiana Pacers,104,98,The Palace of Auburn Hills,22076,/boxscores/200111170DET.html
+Sat Nov 17 2001,Memphis Grizzlies,Cleveland Cavaliers,98,93,Pyramid Arena,13874,/boxscores/200111170MEM.html
+Sat Nov 17 2001,Minnesota Timberwolves,Orlando Magic,103,95,Target Center,19479,/boxscores/200111170MIN.html
+Sat Nov 17 2001,New Jersey Nets,Philadelphia 76ers,82,94,Continental Airlines Arena,17318,/boxscores/200111170NJN.html
+Sat Nov 17 2001,Houston Rockets,Dallas Mavericks,124,87,Compaq Center,11978,/boxscores/200111170HOU.html
+Sat Nov 17 2001,Milwaukee Bucks,Utah Jazz,104,93,Bradley Center,18717,/boxscores/200111170MIL.html
+Sat Nov 17 2001,Golden State Warriors,Chicago Bulls,93,88,The Arena in Oakland,13076,/boxscores/200111170GSW.html
+Sat Nov 17 2001,Seattle SuperSonics,Denver Nuggets,93,103,KeyArena at Seattle Center,11992,/boxscores/200111170SEA.html
+Sun Nov 18 2001,Los Angeles Clippers,New York Knicks,99,86,STAPLES Center,17334,/boxscores/200111180LAC.html
+Sun Nov 18 2001,Phoenix Suns,Toronto Raptors,81,87,America West Arena,14823,/boxscores/200111180PHO.html
+Sun Nov 18 2001,Los Angeles Lakers,Sacramento Kings,93,85,STAPLES Center,18997,/boxscores/200111180LAL.html
+Mon Nov 19 2001,Denver Nuggets,New Jersey Nets,99,96,Pepsi Center,11319,/boxscores/200111190DEN.html
+Mon Nov 19 2001,Sacramento Kings,Houston Rockets,113,77,ARCO Arena (II),17317,/boxscores/200111190SAC.html
+Tue Nov 20 2001,Toronto Raptors,Detroit Pistons,84,88,Air Canada Centre,19800,/boxscores/200111200TOR.html
+Tue Nov 20 2001,Indiana Pacers,Atlanta Hawks,106,102,Conseco Fieldhouse,15278,/boxscores/200111200IND.html
+Tue Nov 20 2001,Miami Heat,Minnesota Timberwolves,73,80,AmericanAirlines Arena,15226,/boxscores/200111200MIA.html
+Tue Nov 20 2001,Washington Wizards,Charlotte Hornets,88,95,MCI Center,20674,/boxscores/200111200WAS.html
+Tue Nov 20 2001,Dallas Mavericks,Seattle SuperSonics,97,105,American Airlines Center,18949,/boxscores/200111200DAL.html
+Tue Nov 20 2001,Portland Trail Blazers,Houston Rockets,87,94,Rose Garden Arena,18210,/boxscores/200111200POR.html
+Tue Nov 20 2001,Golden State Warriors,New York Knicks,70,94,The Arena in Oakland,16320,/boxscores/200111200GSW.html
+Tue Nov 20 2001,Los Angeles Clippers,Los Angeles Lakers,93,98,STAPLES Center,20316,/boxscores/200111200LAC.html
+Wed Nov 21 2001,Boston Celtics,Atlanta Hawks,85,92,FleetCenter,13500,/boxscores/200111210BOS.html
+Wed Nov 21 2001,Charlotte Hornets,Dallas Mavericks,78,89,Charlotte Coliseum,8932,/boxscores/200111210CHH.html
+Wed Nov 21 2001,Cleveland Cavaliers,Memphis Grizzlies,101,94,Gund Arena,10804,/boxscores/200111210CLE.html
+Wed Nov 21 2001,Philadelphia 76ers,Detroit Pistons,94,89,First Union Center,20315,/boxscores/200111210PHI.html
+Wed Nov 21 2001,Orlando Magic,Minnesota Timberwolves,117,106,TD Waterhouse Centre,15014,/boxscores/200111210ORL.html
+Wed Nov 21 2001,Milwaukee Bucks,Chicago Bulls,96,92,Bradley Center,18717,/boxscores/200111210MIL.html
+Wed Nov 21 2001,San Antonio Spurs,Seattle SuperSonics,110,93,Alamodome,18163,/boxscores/200111210SAS.html
+Wed Nov 21 2001,Denver Nuggets,Los Angeles Lakers,68,89,Pepsi Center,19521,/boxscores/200111210DEN.html
+Wed Nov 21 2001,Phoenix Suns,New York Knicks,96,72,America West Arena,15740,/boxscores/200111210PHO.html
+Wed Nov 21 2001,Utah Jazz,New Jersey Nets,89,90,Delta Center,17413,/boxscores/200111210UTA.html
+Wed Nov 21 2001,Sacramento Kings,Portland Trail Blazers,95,83,ARCO Arena (II),17317,/boxscores/200111210SAC.html
+Thu Nov 22 2001,Indiana Pacers,Washington Wizards,110,103,Conseco Fieldhouse,18345,/boxscores/200111220IND.html
+Thu Nov 22 2001,Toronto Raptors,Milwaukee Bucks,75,78,Air Canada Centre,19800,/boxscores/200111220TOR.html
+Thu Nov 22 2001,Los Angeles Clippers,New Jersey Nets,90,95,STAPLES Center,13172,/boxscores/200111220LAC.html
+Fri Nov 23 2001,Philadelphia 76ers,Cleveland Cavaliers,79,68,First Union Center,20691,/boxscores/200111230PHI.html
+Fri Nov 23 2001,Atlanta Hawks,Detroit Pistons,106,99,Philips Arena,10717,/boxscores/200111230ATL.html
+Fri Nov 23 2001,Boston Celtics,Toronto Raptors,89,91,FleetCenter,18624,/boxscores/200111230BOS.html
+Fri Nov 23 2001,Charlotte Hornets,Orlando Magic,99,109,Charlotte Coliseum,12097,/boxscores/200111230CHH.html
+Fri Nov 23 2001,Miami Heat,Dallas Mavericks,94,104,AmericanAirlines Arena,15486,/boxscores/200111230MIA.html
+Fri Nov 23 2001,Indiana Pacers,San Antonio Spurs,79,97,Conseco Fieldhouse,18345,/boxscores/200111230IND.html
+Fri Nov 23 2001,Memphis Grizzlies,Phoenix Suns,89,103,Pyramid Arena,16308,/boxscores/200111230MEM.html
+Fri Nov 23 2001,Utah Jazz,Los Angeles Clippers,106,101,Delta Center,17942,/boxscores/200111230UTA.html
+Fri Nov 23 2001,Portland Trail Blazers,Denver Nuggets,97,90,Rose Garden Arena,19479,/boxscores/200111230POR.html
+Fri Nov 23 2001,Seattle SuperSonics,Houston Rockets,99,81,KeyArena at Seattle Center,12838,/boxscores/200111230SEA.html
+Fri Nov 23 2001,Los Angeles Lakers,Golden State Warriors,106,90,STAPLES Center,18997,/boxscores/200111230LAL.html
+Sat Nov 24 2001,New York Knicks,Chicago Bulls,78,71,Madison Square Garden (IV),19763,/boxscores/200111240NYK.html
+Sat Nov 24 2001,Washington Wizards,Boston Celtics,88,84,MCI Center,20674,/boxscores/200111240WAS.html
+Sat Nov 24 2001,Cleveland Cavaliers,Miami Heat,100,96,Gund Arena,14051,/boxscores/200111240CLE.html
+Sat Nov 24 2001,Detroit Pistons,Memphis Grizzlies,91,84,The Palace of Auburn Hills,15256,/boxscores/200111240DET.html
+Sat Nov 24 2001,Orlando Magic,Charlotte Hornets,101,103,TD Waterhouse Centre,14003,/boxscores/200111240ORL.html
+Sat Nov 24 2001,Minnesota Timberwolves,San Antonio Spurs,99,94,Target Center,19006,/boxscores/200111240MIN.html
+Sat Nov 24 2001,Dallas Mavericks,Phoenix Suns,119,104,American Airlines Center,19869,/boxscores/200111240DAL.html
+Sat Nov 24 2001,Milwaukee Bucks,Atlanta Hawks,95,88,Bradley Center,18717,/boxscores/200111240MIL.html
+Sat Nov 24 2001,Sacramento Kings,New Jersey Nets,98,97,ARCO Arena (II),17317,/boxscores/200111240SAC.html
+Sun Nov 25 2001,Toronto Raptors,Philadelphia 76ers,107,88,Air Canada Centre,19800,/boxscores/200111250TOR.html
+Sun Nov 25 2001,Los Angeles Clippers,Houston Rockets,90,83,STAPLES Center,15914,/boxscores/200111250LAC.html
+Sun Nov 25 2001,Seattle SuperSonics,Indiana Pacers,99,88,KeyArena at Seattle Center,12695,/boxscores/200111250SEA.html
+Sun Nov 25 2001,Golden State Warriors,New Jersey Nets,101,85,The Arena in Oakland,13129,/boxscores/200111250GSW.html
+Sun Nov 25 2001,Los Angeles Lakers,Denver Nuggets,105,98,STAPLES Center,18997,/boxscores/200111250LAL.html
+Mon Nov 26 2001,New York Knicks,Atlanta Hawks,88,83,Madison Square Garden (IV),19763,/boxscores/200111260NYK.html
+Mon Nov 26 2001,Orlando Magic,Detroit Pistons,100,105,TD Waterhouse Centre,12510,/boxscores/200111260ORL.html
+Mon Nov 26 2001,Memphis Grizzlies,Sacramento Kings,98,94,Pyramid Arena,12215,/boxscores/200111260MEM.html
+Mon Nov 26 2001,Utah Jazz,Phoenix Suns,104,111,Delta Center,17720,/boxscores/200111260UTA.html
+Tue Nov 27 2001,Cleveland Cavaliers,Washington Wizards,94,75,Gund Arena,20562,/boxscores/200111270CLE.html
+Tue Nov 27 2001,Miami Heat,Boston Celtics,83,84,AmericanAirlines Arena,15064,/boxscores/200111270MIA.html
+Tue Nov 27 2001,New Jersey Nets,Chicago Bulls,100,68,Continental Airlines Arena,5234,/boxscores/200111270NJN.html
+Tue Nov 27 2001,Houston Rockets,Sacramento Kings,84,89,Compaq Center,10467,/boxscores/200111270HOU.html
+Tue Nov 27 2001,Dallas Mavericks,Golden State Warriors,116,106,American Airlines Center,17110,/boxscores/200111270DAL.html
+Tue Nov 27 2001,Portland Trail Blazers,Indiana Pacers,96,90,Rose Garden Arena,18511,/boxscores/200111270POR.html
+Tue Nov 27 2001,Seattle SuperSonics,Minnesota Timberwolves,112,102,KeyArena at Seattle Center,11663,/boxscores/200111270SEA.html
+Tue Nov 27 2001,Los Angeles Lakers,Milwaukee Bucks,104,85,STAPLES Center,18997,/boxscores/200111270LAL.html
+Wed Nov 28 2001,Atlanta Hawks,New York Knicks,100,105,Philips Arena,10997,/boxscores/200111280ATL.html
+Wed Nov 28 2001,Detroit Pistons,Charlotte Hornets,96,104,The Palace of Auburn Hills,14542,/boxscores/200111280DET.html
+Wed Nov 28 2001,Philadelphia 76ers,Washington Wizards,87,94,First Union Center,20931,/boxscores/200111280PHI.html
+Wed Nov 28 2001,San Antonio Spurs,Golden State Warriors,94,83,Alamodome,16442,/boxscores/200111280SAS.html
+Wed Nov 28 2001,Denver Nuggets,Indiana Pacers,85,99,Pepsi Center,14542,/boxscores/200111280DEN.html
+Wed Nov 28 2001,Phoenix Suns,Milwaukee Bucks,104,84,America West Arena,15590,/boxscores/200111280PHO.html
+Wed Nov 28 2001,Utah Jazz,Seattle SuperSonics,112,88,Delta Center,18337,/boxscores/200111280UTA.html
+Wed Nov 28 2001,Los Angeles Clippers,Minnesota Timberwolves,94,75,STAPLES Center,16335,/boxscores/200111280LAC.html
+Thu Nov 29 2001,Toronto Raptors,Memphis Grizzlies,91,88,Air Canada Centre,19800,/boxscores/200111290TOR.html
+Thu Nov 29 2001,Cleveland Cavaliers,Atlanta Hawks,96,105,Gund Arena,11201,/boxscores/200111290CLE.html
+Thu Nov 29 2001,Orlando Magic,Boston Celtics,89,99,TD Waterhouse Centre,14519,/boxscores/200111290ORL.html
+Thu Nov 29 2001,Chicago Bulls,Miami Heat,78,72,United Center,17003,/boxscores/200111290CHI.html
+Thu Nov 29 2001,Dallas Mavericks,Sacramento Kings,98,110,American Airlines Center,18384,/boxscores/200111290DAL.html
+Fri Nov 30 2001,Charlotte Hornets,Detroit Pistons,105,110,Charlotte Coliseum,8727,/boxscores/200111300CHH.html
+Fri Nov 30 2001,Miami Heat,Washington Wizards,75,84,AmericanAirlines Arena,20118,/boxscores/200111300MIA.html
+Fri Nov 30 2001,Memphis Grizzlies,Houston Rockets,102,85,Pyramid Arena,12344,/boxscores/200111300MEM.html
+Fri Nov 30 2001,San Antonio Spurs,Sacramento Kings,106,109,Alamodome,26808,/boxscores/200111300SAS.html
+Fri Nov 30 2001,Denver Nuggets,Los Angeles Clippers,96,93,Pepsi Center,14187,/boxscores/200111300DEN.html
+Fri Nov 30 2001,Phoenix Suns,Utah Jazz,98,76,America West Arena,15046,/boxscores/200111300PHO.html
+Fri Nov 30 2001,Portland Trail Blazers,Milwaukee Bucks,101,95,Rose Garden Arena,18723,/boxscores/200111300POR.html
+Fri Nov 30 2001,Seattle SuperSonics,Los Angeles Lakers,92,107,KeyArena at Seattle Center,17072,/boxscores/200111300SEA.html

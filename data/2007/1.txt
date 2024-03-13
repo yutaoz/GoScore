@@ -1,0 +1,228 @@
+Mon Jan 1 2007,Charlotte Bobcats,Minnesota Timberwolves,96,102,Charlotte Bobcats Arena,14827,/boxscores/200701010CHA.html
+Mon Jan 1 2007,Portland Trail Blazers,Boston Celtics,81,89,Rose Garden Arena,12156,/boxscores/200701010POR.html
+Tue Jan 2 2007,Cleveland Cavaliers,San Antonio Spurs,82,78,Quicken Loans Arena,20214,/boxscores/200701020CLE.html
+Tue Jan 2 2007,Orlando Magic,Los Angeles Clippers,91,86,Amway Arena,17262,/boxscores/200701020ORL.html
+Tue Jan 2 2007,New Orleans/Oklahoma City Hornets,Golden State Warriors,89,97,Ford Center,16617,/boxscores/200701020NOK.html
+Tue Jan 2 2007,Chicago Bulls,Phoenix Suns,96,97,United Center,22853,/boxscores/200701020CHI.html
+Tue Jan 2 2007,Dallas Mavericks,Seattle SuperSonics,112,88,American Airlines Center,20245,/boxscores/200701020DAL.html
+Tue Jan 2 2007,Denver Nuggets,Philadelphia 76ers,97,108,Pepsi Center,17436,/boxscores/200701020DEN.html
+Tue Jan 2 2007,Sacramento Kings,New York Knicks,112,100,ARCO Arena (II),17317,/boxscores/200701020SAC.html
+Wed Jan 3 2007,Toronto Raptors,Phoenix Suns,98,100,Air Canada Centre,20063,/boxscores/200701030TOR.html
+Wed Jan 3 2007,Washington Wizards,Milwaukee Bucks,108,105,Verizon Center,14632,/boxscores/200701030WAS.html
+Wed Jan 3 2007,Boston Celtics,Cleveland Cavaliers,104,107,TD Banknorth Garden,18624,/boxscores/200701030BOS.html
+Wed Jan 3 2007,Miami Heat,Los Angeles Clippers,95,110,AmericanAirlines Arena,19600,/boxscores/200701030MIA.html
+Wed Jan 3 2007,Memphis Grizzlies,Golden State Warriors,144,135,FedEx Forum,12176,/boxscores/200701030MEM.html
+Wed Jan 3 2007,Minnesota Timberwolves,San Antonio Spurs,103,101,Target Center,14185,/boxscores/200701030MIN.html
+Wed Jan 3 2007,Houston Rockets,Seattle SuperSonics,103,96,Toyota Center,11133,/boxscores/200701030HOU.html
+Wed Jan 3 2007,Utah Jazz,Philadelphia 76ers,98,87,EnergySolutions Arena,19911,/boxscores/200701030UTA.html
+Wed Jan 3 2007,Portland Trail Blazers,New York Knicks,81,99,Rose Garden Arena,13071,/boxscores/200701030POR.html
+Thu Jan 4 2007,New Orleans/Oklahoma City Hornets,Detroit Pistons,68,92,Ford Center,18079,/boxscores/200701040NOK.html
+Thu Jan 4 2007,Dallas Mavericks,Indiana Pacers,100,91,American Airlines Center,20398,/boxscores/200701040DAL.html
+Thu Jan 4 2007,Sacramento Kings,Los Angeles Lakers,128,132,ARCO Arena (II),17317,/boxscores/200701040SAC.html
+Fri Jan 5 2007,Orlando Magic,Charlotte Bobcats,106,74,Amway Arena,17154,/boxscores/200701050ORL.html
+Fri Jan 5 2007,Toronto Raptors,Atlanta Hawks,105,92,Air Canada Centre,17977,/boxscores/200701050TOR.html
+Fri Jan 5 2007,Washington Wizards,Los Angeles Clippers,116,105,Verizon Center,20173,/boxscores/200701050WAS.html
+Fri Jan 5 2007,New Jersey Nets,Chicago Bulls,91,86,Continental Airlines Arena,18569,/boxscores/200701050NJN.html
+Fri Jan 5 2007,Memphis Grizzlies,Boston Celtics,119,128,FedEx Forum,15263,/boxscores/200701050MEM.html
+Fri Jan 5 2007,Minnesota Timberwolves,Philadelphia 76ers,104,102,Target Center,14577,/boxscores/200701050MIN.html
+Fri Jan 5 2007,San Antonio Spurs,Dallas Mavericks,85,90,AT&T Center,18797,/boxscores/200701050SAS.html
+Fri Jan 5 2007,Houston Rockets,Utah Jazz,100,86,Toyota Center,18059,/boxscores/200701050HOU.html
+Fri Jan 5 2007,Milwaukee Bucks,Cleveland Cavaliers,86,95,Bradley Center,18717,/boxscores/200701050MIL.html
+Fri Jan 5 2007,Los Angeles Lakers,Denver Nuggets,123,104,STAPLES Center,18997,/boxscores/200701050LAL.html
+Fri Jan 5 2007,Phoenix Suns,Miami Heat,108,80,US Airways Center,18422,/boxscores/200701050PHO.html
+Fri Jan 5 2007,Seattle SuperSonics,New York Knicks,93,111,KeyArena at Seattle Center,16841,/boxscores/200701050SEA.html
+Sat Jan 6 2007,Atlanta Hawks,Los Angeles Clippers,86,74,Philips Arena,13200,/boxscores/200701060ATL.html
+Sat Jan 6 2007,Cleveland Cavaliers,New Jersey Nets,96,91,Quicken Loans Arena,20562,/boxscores/200701060CLE.html
+Sat Jan 6 2007,New Orleans/Oklahoma City Hornets,Indiana Pacers,93,100,Ford Center,17422,/boxscores/200701060NOK.html
+Sat Jan 6 2007,Chicago Bulls,Detroit Pistons,106,89,United Center,22865,/boxscores/200701060CHI.html
+Sat Jan 6 2007,Denver Nuggets,Utah Jazz,84,96,Pepsi Center,18341,/boxscores/200701060DEN.html
+Sat Jan 6 2007,Sacramento Kings,Portland Trail Blazers,105,110,ARCO Arena (II),17317,/boxscores/200701060SAC.html
+Sat Jan 6 2007,Golden State Warriors,Seattle SuperSonics,108,104,Oracle Arena,17007,/boxscores/200701060GSW.html
+Sun Jan 7 2007,Toronto Raptors,Washington Wizards,116,111,Air Canada Centre,17981,/boxscores/200701070TOR.html
+Sun Jan 7 2007,Minnesota Timberwolves,Houston Rockets,103,99,Target Center,17059,/boxscores/200701070MIN.html
+Sun Jan 7 2007,Memphis Grizzlies,San Antonio Spurs,96,110,FedEx Forum,15227,/boxscores/200701070MEM.html
+Sun Jan 7 2007,Orlando Magic,Boston Celtics,87,79,Amway Arena,16868,/boxscores/200701070ORL.html
+Sun Jan 7 2007,Phoenix Suns,Golden State Warriors,128,105,US Airways Center,18422,/boxscores/200701070PHO.html
+Sun Jan 7 2007,Portland Trail Blazers,Miami Heat,90,93,Rose Garden Arena,19980,/boxscores/200701070POR.html
+Sun Jan 7 2007,Los Angeles Lakers,Dallas Mavericks,101,98,STAPLES Center,18997,/boxscores/200701070LAL.html
+Mon Jan 8 2007,New Orleans/Oklahoma City Hornets,Los Angeles Clippers,90,100,Ford Center,15501,/boxscores/200701080NOK.html
+Mon Jan 8 2007,Chicago Bulls,Houston Rockets,77,84,United Center,21983,/boxscores/200701080CHI.html
+Mon Jan 8 2007,Denver Nuggets,Milwaukee Bucks,104,92,Pepsi Center,14220,/boxscores/200701080DEN.html
+Tue Jan 9 2007,Indiana Pacers,Atlanta Hawks,91,72,Conseco Fieldhouse,13559,/boxscores/200701090IND.html
+Tue Jan 9 2007,Philadelphia 76ers,Detroit Pistons,89,98,Wachovia Center,13385,/boxscores/200701090PHI.html
+Tue Jan 9 2007,New Jersey Nets,Toronto Raptors,101,86,Continental Airlines Arena,14729,/boxscores/200701090NJN.html
+Tue Jan 9 2007,Memphis Grizzlies,Los Angeles Lakers,128,118,FedEx Forum,16651,/boxscores/200701090MEM.html
+Tue Jan 9 2007,San Antonio Spurs,Portland Trail Blazers,98,84,AT&T Center,18240,/boxscores/200701090SAS.html
+Tue Jan 9 2007,Phoenix Suns,Seattle SuperSonics,113,102,US Airways Center,18422,/boxscores/200701090PHO.html
+Tue Jan 9 2007,Utah Jazz,Dallas Mavericks,105,108,EnergySolutions Arena,19911,/boxscores/200701090UTA.html
+Tue Jan 9 2007,Sacramento Kings,Cleveland Cavaliers,98,108,ARCO Arena (II),17317,/boxscores/200701090SAC.html
+Wed Jan 10 2007,Atlanta Hawks,New Orleans/Oklahoma City Hornets,77,96,Philips Arena,10120,/boxscores/200701100ATL.html
+Wed Jan 10 2007,Washington Wizards,Chicago Bulls,113,103,Verizon Center,20173,/boxscores/200701100WAS.html
+Wed Jan 10 2007,Boston Celtics,Indiana Pacers,84,97,TD Banknorth Garden,17153,/boxscores/200701100BOS.html
+Wed Jan 10 2007,Detroit Pistons,Charlotte Bobcats,96,103,The Palace of Auburn Hills,22076,/boxscores/200701100DET.html
+Wed Jan 10 2007,New York Knicks,Philadelphia 76ers,106,99,Madison Square Garden (IV),18931,/boxscores/200701100NYK.html
+Wed Jan 10 2007,Milwaukee Bucks,Toronto Raptors,77,90,Bradley Center,16432,/boxscores/200701100MIL.html
+Wed Jan 10 2007,Minnesota Timberwolves,Los Angeles Clippers,91,92,Target Center,14223,/boxscores/200701100MIN.html
+Wed Jan 10 2007,Dallas Mavericks,Portland Trail Blazers,99,74,American Airlines Center,20256,/boxscores/200701100DAL.html
+Wed Jan 10 2007,Houston Rockets,Los Angeles Lakers,102,77,Toyota Center,18331,/boxscores/200701100HOU.html
+Wed Jan 10 2007,Denver Nuggets,San Antonio Spurs,83,92,Pepsi Center,16486,/boxscores/200701100DEN.html
+Wed Jan 10 2007,Seattle SuperSonics,Miami Heat,103,107,KeyArena at Seattle Center,15676,/boxscores/200701100SEA.html
+Wed Jan 10 2007,Golden State Warriors,Orlando Magic,76,91,Oracle Arena,16877,/boxscores/200701100GSW.html
+Thu Jan 11 2007,Chicago Bulls,New Jersey Nets,83,86,United Center,21931,/boxscores/200701110CHI.html
+Thu Jan 11 2007,Phoenix Suns,Cleveland Cavaliers,109,90,US Airways Center,18422,/boxscores/200701110PHO.html
+Fri Jan 12 2007,Indiana Pacers,Dallas Mavericks,113,115,Conseco Fieldhouse,15934,/boxscores/200701120IND.html
+Fri Jan 12 2007,Philadelphia 76ers,Milwaukee Bucks,110,97,Wachovia Center,14261,/boxscores/200701120PHI.html
+Fri Jan 12 2007,Atlanta Hawks,Detroit Pistons,99,93,Philips Arena,15449,/boxscores/200701120ATL.html
+Fri Jan 12 2007,Boston Celtics,Toronto Raptors,86,95,TD Banknorth Garden,17191,/boxscores/200701120BOS.html
+Fri Jan 12 2007,New York Knicks,Charlotte Bobcats,110,126,Madison Square Garden (IV),19171,/boxscores/200701120NYK.html
+Fri Jan 12 2007,Memphis Grizzlies,Minnesota Timberwolves,110,116,FedEx Forum,16119,/boxscores/200701120MEM.html
+Fri Jan 12 2007,New Orleans/Oklahoma City Hornets,Washington Wizards,104,97,Ford Center,16899,/boxscores/200701120NOK.html
+Fri Jan 12 2007,Portland Trail Blazers,Sacramento Kings,95,87,Rose Garden Arena,14762,/boxscores/200701120POR.html
+Fri Jan 12 2007,Denver Nuggets,Houston Rockets,86,90,Pepsi Center,17333,/boxscores/200701120DEN.html
+Fri Jan 12 2007,Golden State Warriors,Miami Heat,96,118,Oracle Arena,18845,/boxscores/200701120GSW.html
+Fri Jan 12 2007,Los Angeles Lakers,Orlando Magic,109,106,STAPLES Center,18997,/boxscores/200701120LAL.html
+Fri Jan 12 2007,Seattle SuperSonics,Utah Jazz,122,114,KeyArena at Seattle Center,15391,/boxscores/200701120SEA.html
+Sat Jan 13 2007,Charlotte Bobcats,Philadelphia 76ers,89,83,Charlotte Bobcats Arena,15081,/boxscores/200701130CHA.html
+Sat Jan 13 2007,Detroit Pistons,Boston Celtics,81,73,The Palace of Auburn Hills,22076,/boxscores/200701130DET.html
+Sat Jan 13 2007,Minnesota Timberwolves,New Jersey Nets,109,98,Target Center,16220,/boxscores/200701130MIN.html
+Sat Jan 13 2007,San Antonio Spurs,Washington Wizards,93,80,AT&T Center,18797,/boxscores/200701130SAS.html
+Sat Jan 13 2007,Chicago Bulls,Memphis Grizzlies,111,66,United Center,22104,/boxscores/200701130CHI.html
+Sat Jan 13 2007,Phoenix Suns,Orlando Magic,107,101,US Airways Center,18422,/boxscores/200701130PHO.html
+Sat Jan 13 2007,Utah Jazz,Miami Heat,110,119,EnergySolutions Arena,19911,/boxscores/200701130UTA.html
+Sat Jan 13 2007,Sacramento Kings,Houston Rockets,111,115,ARCO Arena (II),17317,/boxscores/200701130SAC.html
+Sat Jan 13 2007,Los Angeles Clippers,Cleveland Cavaliers,92,104,STAPLES Center,20027,/boxscores/200701130LAC.html
+Sun Jan 14 2007,Toronto Raptors,Dallas Mavericks,96,97,Air Canada Centre,19800,/boxscores/200701140TOR.html
+Sun Jan 14 2007,Portland Trail Blazers,Denver Nuggets,93,109,Rose Garden Arena,16890,/boxscores/200701140POR.html
+Mon Jan 15 2007,Charlotte Bobcats,Milwaukee Bucks,91,99,Charlotte Bobcats Arena,14360,/boxscores/200701150CHA.html
+Mon Jan 15 2007,New York Knicks,Sacramento Kings,102,97,Madison Square Garden (IV),19207,/boxscores/200701150NYK.html
+Mon Jan 15 2007,Washington Wizards,Utah Jazz,114,111,Verizon Center,15524,/boxscores/200701150WAS.html
+Mon Jan 15 2007,Atlanta Hawks,Boston Celtics,100,96,Philips Arena,15234,/boxscores/200701150ATL.html
+Mon Jan 15 2007,Chicago Bulls,San Antonio Spurs,99,87,United Center,22218,/boxscores/200701150CHI.html
+Mon Jan 15 2007,Philadelphia 76ers,Toronto Raptors,86,104,Wachovia Center,12380,/boxscores/200701150PHI.html
+Mon Jan 15 2007,Detroit Pistons,Minnesota Timberwolves,90,94,The Palace of Auburn Hills,22076,/boxscores/200701150DET.html
+Mon Jan 15 2007,New Jersey Nets,Indiana Pacers,105,95,Continental Airlines Arena,17916,/boxscores/200701150NJN.html
+Mon Jan 15 2007,Golden State Warriors,Los Angeles Clippers,108,93,Oracle Arena,18371,/boxscores/200701150GSW.html
+Mon Jan 15 2007,Memphis Grizzlies,Phoenix Suns,122,137,FedEx Forum,18119,/boxscores/200701150MEM.html
+Mon Jan 15 2007,Los Angeles Lakers,Miami Heat,124,118,STAPLES Center,18997,/boxscores/200701150LAL.html
+Tue Jan 16 2007,New Orleans/Oklahoma City Hornets,Orlando Magic,84,78,Ford Center,17610,/boxscores/200701160NOK.html
+Tue Jan 16 2007,Dallas Mavericks,Houston Rockets,109,96,American Airlines Center,20332,/boxscores/200701160DAL.html
+Tue Jan 16 2007,Seattle SuperSonics,Cleveland Cavaliers,101,96,KeyArena at Seattle Center,15619,/boxscores/200701160SEA.html
+Wed Jan 17 2007,Charlotte Bobcats,New Jersey Nets,85,92,Charlotte Bobcats Arena,13077,/boxscores/200701170CHA.html
+Wed Jan 17 2007,Toronto Raptors,Sacramento Kings,101,85,Air Canada Centre,15175,/boxscores/200701170TOR.html
+Wed Jan 17 2007,Washington Wizards,New York Knicks,99,98,Verizon Center,16503,/boxscores/200701170WAS.html
+Wed Jan 17 2007,Detroit Pistons,Utah Jazz,99,100,The Palace of Auburn Hills,22076,/boxscores/200701170DET.html
+Wed Jan 17 2007,Memphis Grizzlies,Philadelphia 76ers,118,102,FedEx Forum,14681,/boxscores/200701170MEM.html
+Wed Jan 17 2007,Milwaukee Bucks,Chicago Bulls,90,99,Bradley Center,14386,/boxscores/200701170MIL.html
+Wed Jan 17 2007,Minnesota Timberwolves,Atlanta Hawks,88,105,Target Center,11866,/boxscores/200701170MIN.html
+Wed Jan 17 2007,Houston Rockets,Phoenix Suns,91,100,Toyota Center,18244,/boxscores/200701170HOU.html
+Wed Jan 17 2007,San Antonio Spurs,Los Angeles Lakers,96,100,AT&T Center,18797,/boxscores/200701170SAS.html
+Wed Jan 17 2007,Portland Trail Blazers,Cleveland Cavaliers,94,76,Rose Garden Arena,19228,/boxscores/200701170POR.html
+Wed Jan 17 2007,Los Angeles Clippers,Golden State Warriors,115,109,STAPLES Center,17385,/boxscores/200701170LAC.html
+Thu Jan 18 2007,Miami Heat,Indiana Pacers,104,101,AmericanAirlines Arena,19600,/boxscores/200701180MIA.html
+Thu Jan 18 2007,Dallas Mavericks,Los Angeles Lakers,114,95,American Airlines Center,20446,/boxscores/200701180DAL.html
+Fri Jan 19 2007,Orlando Magic,Washington Wizards,93,114,Amway Arena,17451,/boxscores/200701190ORL.html
+Fri Jan 19 2007,Philadelphia 76ers,Miami Heat,98,95,Wachovia Center,17569,/boxscores/200701190PHI.html
+Fri Jan 19 2007,Toronto Raptors,Utah Jazz,94,102,Air Canada Centre,17384,/boxscores/200701190TOR.html
+Fri Jan 19 2007,Atlanta Hawks,Charlotte Bobcats,75,96,Philips Arena,10147,/boxscores/200701190ATL.html
+Fri Jan 19 2007,Boston Celtics,Sacramento Kings,91,96,TD Banknorth Garden,16019,/boxscores/200701190BOS.html
+Fri Jan 19 2007,New York Knicks,New Jersey Nets,100,101,Madison Square Garden (IV),19763,/boxscores/200701190NYK.html
+Fri Jan 19 2007,Minnesota Timberwolves,Detroit Pistons,98,104,Target Center,20119,/boxscores/200701190MIN.html
+Fri Jan 19 2007,San Antonio Spurs,New Orleans/Oklahoma City Hornets,99,86,AT&T Center,17153,/boxscores/200701190SAS.html
+Fri Jan 19 2007,Phoenix Suns,Portland Trail Blazers,106,101,US Airways Center,18422,/boxscores/200701190PHO.html
+Fri Jan 19 2007,Denver Nuggets,Cleveland Cavaliers,110,99,Pepsi Center,19155,/boxscores/200701190DEN.html
+Fri Jan 19 2007,Seattle SuperSonics,Milwaukee Bucks,99,72,KeyArena at Seattle Center,16249,/boxscores/200701190SEA.html
+Sat Jan 20 2007,Los Angeles Clippers,Memphis Grizzlies,112,91,STAPLES Center,17672,/boxscores/200701200LAC.html
+Sat Jan 20 2007,Charlotte Bobcats,Atlanta Hawks,104,85,Charlotte Bobcats Arena,16781,/boxscores/200701200CHA.html
+Sat Jan 20 2007,Indiana Pacers,New York Knicks,106,108,Conseco Fieldhouse,15368,/boxscores/200701200IND.html
+Sat Jan 20 2007,Detroit Pistons,Sacramento Kings,91,74,The Palace of Auburn Hills,22076,/boxscores/200701200DET.html
+Sat Jan 20 2007,New Jersey Nets,Orlando Magic,101,94,Continental Airlines Arena,18531,/boxscores/200701200NJN.html
+Sat Jan 20 2007,New Orleans/Oklahoma City Hornets,Los Angeles Lakers,113,103,Ford Center,19329,/boxscores/200701200NOK.html
+Sat Jan 20 2007,Washington Wizards,Boston Celtics,115,110,Verizon Center,20173,/boxscores/200701200WAS.html
+Sat Jan 20 2007,Chicago Bulls,Utah Jazz,85,95,United Center,22351,/boxscores/200701200CHI.html
+Sat Jan 20 2007,Houston Rockets,Denver Nuggets,113,121,Toyota Center,18233,/boxscores/200701200HOU.html
+Sat Jan 20 2007,Golden State Warriors,Cleveland Cavaliers,104,106,Oracle Arena,19864,/boxscores/200701200GSW.html
+Sun Jan 21 2007,Miami Heat,Dallas Mavericks,93,99,AmericanAirlines Arena,20195,/boxscores/200701210MIA.html
+Sun Jan 21 2007,Philadelphia 76ers,San Antonio Spurs,85,99,Wachovia Center,14883,/boxscores/200701210PHI.html
+Sun Jan 21 2007,Phoenix Suns,Minnesota Timberwolves,131,102,US Airways Center,18422,/boxscores/200701210PHO.html
+Sun Jan 21 2007,Portland Trail Blazers,Milwaukee Bucks,99,95,Rose Garden Arena,14285,/boxscores/200701210POR.html
+Mon Jan 22 2007,Cleveland Cavaliers,Orlando Magic,79,90,Quicken Loans Arena,20562,/boxscores/200701220CLE.html
+Mon Jan 22 2007,Indiana Pacers,Chicago Bulls,98,91,Conseco Fieldhouse,13233,/boxscores/200701220IND.html
+Mon Jan 22 2007,Toronto Raptors,Charlotte Bobcats,105,84,Air Canada Centre,13997,/boxscores/200701220TOR.html
+Mon Jan 22 2007,Boston Celtics,San Antonio Spurs,89,93,TD Banknorth Garden,15928,/boxscores/200701220BOS.html
+Mon Jan 22 2007,Miami Heat,New York Knicks,101,83,AmericanAirlines Arena,19600,/boxscores/200701220MIA.html
+Mon Jan 22 2007,Denver Nuggets,Memphis Grizzlies,115,98,Pepsi Center,19155,/boxscores/200701220DEN.html
+Mon Jan 22 2007,Utah Jazz,Minnesota Timberwolves,106,91,EnergySolutions Arena,19911,/boxscores/200701220UTA.html
+Mon Jan 22 2007,Sacramento Kings,New Jersey Nets,88,87,ARCO Arena (II),17317,/boxscores/200701220SAC.html
+Mon Jan 22 2007,Los Angeles Lakers,Golden State Warriors,108,103,STAPLES Center,18997,/boxscores/200701220LAL.html
+Tue Jan 23 2007,Orlando Magic,Dallas Mavericks,95,111,Amway Arena,17451,/boxscores/200701230ORL.html
+Tue Jan 23 2007,Philadelphia 76ers,New Orleans/Oklahoma City Hornets,102,96,Wachovia Center,12328,/boxscores/200701230PHI.html
+Tue Jan 23 2007,Washington Wizards,Phoenix Suns,105,127,Verizon Center,20173,/boxscores/200701230WAS.html
+Tue Jan 23 2007,Chicago Bulls,Atlanta Hawks,94,86,United Center,22390,/boxscores/200701230CHI.html
+Tue Jan 23 2007,Seattle SuperSonics,Denver Nuggets,112,117,KeyArena at Seattle Center,17072,/boxscores/200701230SEA.html
+Tue Jan 23 2007,Los Angeles Clippers,Milwaukee Bucks,115,96,STAPLES Center,16923,/boxscores/200701230LAC.html
+Wed Jan 24 2007,Charlotte Bobcats,Detroit Pistons,92,103,Charlotte Bobcats Arena,15148,/boxscores/200701240CHA.html
+Wed Jan 24 2007,Cleveland Cavaliers,Philadelphia 76ers,115,118,Quicken Loans Arena,20562,/boxscores/200701240CLE.html
+Wed Jan 24 2007,Indiana Pacers,Miami Heat,96,94,Conseco Fieldhouse,14169,/boxscores/200701240IND.html
+Wed Jan 24 2007,Toronto Raptors,New Orleans/Oklahoma City Hornets,90,88,Air Canada Centre,14173,/boxscores/200701240TOR.html
+Wed Jan 24 2007,Boston Celtics,Atlanta Hawks,76,82,TD Banknorth Garden,16199,/boxscores/200701240BOS.html
+Wed Jan 24 2007,New York Knicks,Phoenix Suns,107,112,Madison Square Garden (IV),19763,/boxscores/200701240NYK.html
+Wed Jan 24 2007,San Antonio Spurs,Houston Rockets,85,90,AT&T Center,18328,/boxscores/200701240SAS.html
+Wed Jan 24 2007,Utah Jazz,Memphis Grizzlies,130,132,EnergySolutions Arena,19714,/boxscores/200701240UTA.html
+Wed Jan 24 2007,Portland Trail Blazers,Minnesota Timberwolves,101,98,Rose Garden Arena,13266,/boxscores/200701240POR.html
+Wed Jan 24 2007,Sacramento Kings,Milwaukee Bucks,114,106,ARCO Arena (II),17317,/boxscores/200701240SAC.html
+Wed Jan 24 2007,Golden State Warriors,New Jersey Nets,110,109,Oracle Arena,17284,/boxscores/200701240GSW.html
+Thu Jan 25 2007,Chicago Bulls,Dallas Mavericks,96,85,United Center,21822,/boxscores/200701250CHI.html
+Thu Jan 25 2007,Los Angeles Clippers,New Jersey Nets,102,101,STAPLES Center,18476,/boxscores/200701250LAC.html
+Fri Jan 26 2007,Detroit Pistons,Washington Wizards,96,99,The Palace of Auburn Hills,22076,/boxscores/200701260DET.html
+Fri Jan 26 2007,Orlando Magic,Atlanta Hawks,90,93,Amway Arena,17451,/boxscores/200701260ORL.html
+Fri Jan 26 2007,Philadelphia 76ers,Cleveland Cavaliers,97,105,Wachovia Center,19523,/boxscores/200701260PHI.html
+Fri Jan 26 2007,Toronto Raptors,Boston Celtics,96,90,Air Canada Centre,18565,/boxscores/200701260TOR.html
+Fri Jan 26 2007,New York Knicks,Miami Heat,116,96,Madison Square Garden (IV),19763,/boxscores/200701260NYK.html
+Fri Jan 26 2007,New Orleans/Oklahoma City Hornets,Sacramento Kings,88,84,New Orleans Arena,16607,/boxscores/200701260NOK.html
+Fri Jan 26 2007,San Antonio Spurs,Memphis Grizzlies,112,96,AT&T Center,18332,/boxscores/200701260SAS.html
+Fri Jan 26 2007,Houston Rockets,Portland Trail Blazers,99,69,Toyota Center,18155,/boxscores/200701260HOU.html
+Fri Jan 26 2007,Milwaukee Bucks,Phoenix Suns,90,98,Bradley Center,18717,/boxscores/200701260MIL.html
+Fri Jan 26 2007,Utah Jazz,Denver Nuggets,116,111,EnergySolutions Arena,19911,/boxscores/200701260UTA.html
+Fri Jan 26 2007,Los Angeles Lakers,Charlotte Bobcats,97,106,STAPLES Center,18997,/boxscores/200701260LAL.html
+Fri Jan 26 2007,Seattle SuperSonics,Minnesota Timberwolves,102,100,KeyArena at Seattle Center,16610,/boxscores/200701260SEA.html
+Sat Jan 27 2007,Atlanta Hawks,Philadelphia 76ers,89,104,Philips Arena,17531,/boxscores/200701270ATL.html
+Sat Jan 27 2007,Indiana Pacers,Toronto Raptors,102,84,Conseco Fieldhouse,14263,/boxscores/200701270IND.html
+Sat Jan 27 2007,Memphis Grizzlies,Portland Trail Blazers,132,135,FedEx Forum,15211,/boxscores/200701270MEM.html
+Sat Jan 27 2007,New Orleans/Oklahoma City Hornets,Utah Jazz,94,83,Ford Center,18774,/boxscores/200701270NOK.html
+Sat Jan 27 2007,Chicago Bulls,Miami Heat,100,97,United Center,22951,/boxscores/200701270CHI.html
+Sat Jan 27 2007,Dallas Mavericks,Sacramento Kings,106,104,American Airlines Center,20487,/boxscores/200701270DAL.html
+Sat Jan 27 2007,Denver Nuggets,New Jersey Nets,102,112,Pepsi Center,19737,/boxscores/200701270DEN.html
+Sat Jan 27 2007,Golden State Warriors,Charlotte Bobcats,131,105,Oracle Arena,17381,/boxscores/200701270GSW.html
+Sat Jan 27 2007,Los Angeles Clippers,Minnesota Timberwolves,87,101,STAPLES Center,19060,/boxscores/200701270LAC.html
+Sun Jan 28 2007,Cleveland Cavaliers,Phoenix Suns,100,115,Quicken Loans Arena,20562,/boxscores/200701280CLE.html
+Sun Jan 28 2007,Los Angeles Lakers,San Antonio Spurs,94,96,STAPLES Center,18997,/boxscores/200701280LAL.html
+Sun Jan 28 2007,Milwaukee Bucks,New York Knicks,107,105,Bradley Center,16102,/boxscores/200701280MIL.html
+Sun Jan 28 2007,Boston Celtics,Washington Wizards,91,105,TD Banknorth Garden,17269,/boxscores/200701280BOS.html
+Sun Jan 28 2007,Detroit Pistons,Indiana Pacers,95,87,The Palace of Auburn Hills,22076,/boxscores/200701280DET.html
+Sun Jan 28 2007,Seattle SuperSonics,Los Angeles Clippers,76,98,KeyArena at Seattle Center,16195,/boxscores/200701280SEA.html
+Mon Jan 29 2007,Atlanta Hawks,Orlando Magic,93,83,Philips Arena,11896,/boxscores/200701290ATL.html
+Mon Jan 29 2007,Memphis Grizzlies,Sacramento Kings,124,117,FedEx Forum,12396,/boxscores/200701290MEM.html
+Mon Jan 29 2007,Minnesota Timberwolves,Phoenix Suns,121,112,Target Center,16221,/boxscores/200701290MIN.html
+Mon Jan 29 2007,New Orleans/Oklahoma City Hornets,Portland Trail Blazers,103,91,Ford Center,17745,/boxscores/200701290NOK.html
+Mon Jan 29 2007,Houston Rockets,Philadelphia 76ers,105,84,Toyota Center,14216,/boxscores/200701290HOU.html
+Mon Jan 29 2007,Denver Nuggets,Charlotte Bobcats,101,105,Pepsi Center,15898,/boxscores/200701290DEN.html
+Mon Jan 29 2007,Utah Jazz,New Jersey Nets,115,116,EnergySolutions Arena,19911,/boxscores/200701290UTA.html
+Tue Jan 30 2007,Cleveland Cavaliers,Golden State Warriors,124,97,Quicken Loans Arena,19443,/boxscores/200701300CLE.html
+Tue Jan 30 2007,Indiana Pacers,Boston Celtics,103,96,Conseco Fieldhouse,12641,/boxscores/200701300IND.html
+Tue Jan 30 2007,Washington Wizards,Detroit Pistons,104,99,Verizon Center,20173,/boxscores/200701300WAS.html
+Tue Jan 30 2007,Miami Heat,Milwaukee Bucks,110,80,AmericanAirlines Arena,19600,/boxscores/200701300MIA.html
+Tue Jan 30 2007,New York Knicks,Los Angeles Lakers,99,94,Madison Square Garden (IV),19763,/boxscores/200701300NYK.html
+Tue Jan 30 2007,Dallas Mavericks,Seattle SuperSonics,122,102,American Airlines Center,20326,/boxscores/200701300DAL.html
+Wed Jan 31 2007,Atlanta Hawks,Golden State Warriors,115,94,Philips Arena,13474,/boxscores/200701310ATL.html
+Wed Jan 31 2007,Charlotte Bobcats,New York Knicks,104,87,Charlotte Bobcats Arena,13985,/boxscores/200701310CHA.html
+Wed Jan 31 2007,Orlando Magic,Milwaukee Bucks,98,73,Amway Arena,15831,/boxscores/200701310ORL.html
+Wed Jan 31 2007,Toronto Raptors,Washington Wizards,119,109,Air Canada Centre,16145,/boxscores/200701310TOR.html
+Wed Jan 31 2007,Boston Celtics,Los Angeles Lakers,98,111,TD Banknorth Garden,18624,/boxscores/200701310BOS.html
+Wed Jan 31 2007,New Jersey Nets,Detroit Pistons,89,113,Continental Airlines Arena,17025,/boxscores/200701310NJN.html
+Wed Jan 31 2007,Memphis Grizzlies,Dallas Mavericks,94,95,FedEx Forum,14762,/boxscores/200701310MEM.html
+Wed Jan 31 2007,Minnesota Timberwolves,Sacramento Kings,98,100,Target Center,14607,/boxscores/200701310MIN.html
+Wed Jan 31 2007,New Orleans/Oklahoma City Hornets,Philadelphia 76ers,78,89,Ford Center,16958,/boxscores/200701310NOK.html
+Wed Jan 31 2007,Houston Rockets,Seattle SuperSonics,112,102,Toyota Center,11908,/boxscores/200701310HOU.html
+Wed Jan 31 2007,Utah Jazz,San Antonio Spurs,97,93,EnergySolutions Arena,19911,/boxscores/200701310UTA.html
+Wed Jan 31 2007,Portland Trail Blazers,Denver Nuggets,100,91,Rose Garden Arena,19980,/boxscores/200701310POR.html
+Wed Jan 31 2007,Los Angeles Clippers,Chicago Bulls,110,98,STAPLES Center,18390,/boxscores/200701310LAC.html

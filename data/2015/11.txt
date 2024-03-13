@@ -1,0 +1,222 @@
+Sat Nov 1 2014,Charlotte Hornets,Memphis Grizzlies,69,71,Time Warner Cable Arena,18133,/boxscores/201411010CHO.html
+Sat Nov 1 2014,New Orleans Pelicans,Dallas Mavericks,104,109,Smoothie King Center,14547,/boxscores/201411010NOP.html
+Sat Nov 1 2014,Orlando Magic,Toronto Raptors,95,108,Amway Center,16141,/boxscores/201411010ORL.html
+Sat Nov 1 2014,Philadelphia 76ers,Miami Heat,96,114,Wells Fargo Center,19753,/boxscores/201411010PHI.html
+Sat Nov 1 2014,Washington Wizards,Milwaukee Bucks,108,97,Verizon Center,17992,/boxscores/201411010WAS.html
+Sat Nov 1 2014,Atlanta Hawks,Indiana Pacers,102,92,Philips Arena,19118,/boxscores/201411010ATL.html
+Sat Nov 1 2014,Detroit Pistons,Brooklyn Nets,90,102,The Palace of Auburn Hills,19904,/boxscores/201411010DET.html
+Sat Nov 1 2014,Houston Rockets,Boston Celtics,104,90,Toyota Center,18309,/boxscores/201411010HOU.html
+Sat Nov 1 2014,Minnesota Timberwolves,Chicago Bulls,105,106,Target Center,19356,/boxscores/201411010MIN.html
+Sat Nov 1 2014,Oklahoma City Thunder,Denver Nuggets,102,91,Chesapeake Energy Arena,18203,/boxscores/201411010OKC.html
+Sat Nov 1 2014,Utah Jazz,Phoenix Suns,118,91,EnergySolutions Arena,17721,/boxscores/201411010UTA.html
+Sat Nov 1 2014,Golden State Warriors,Los Angeles Lakers,127,104,Oracle Arena,19596,/boxscores/201411010GSW.html
+Sun Nov 2 2014,Los Angeles Clippers,Sacramento Kings,92,98,STAPLES Center,19060,/boxscores/201411020LAC.html
+Sun Nov 2 2014,Miami Heat,Toronto Raptors,107,102,AmericanAirlines Arena,19666,/boxscores/201411020MIA.html
+Sun Nov 2 2014,New York Knicks,Charlotte Hornets,96,93,Madison Square Garden (IV),19812,/boxscores/201411020NYK.html
+Sun Nov 2 2014,Portland Trail Blazers,Golden State Warriors,90,95,Moda Center,19441,/boxscores/201411020POR.html
+Mon Nov 3 2014,Philadelphia 76ers,Houston Rockets,93,104,Wells Fargo Center,12896,/boxscores/201411030PHI.html
+Mon Nov 3 2014,Brooklyn Nets,Oklahoma City Thunder,116,85,Barclays Center,17732,/boxscores/201411030BRK.html
+Mon Nov 3 2014,Memphis Grizzlies,New Orleans Pelicans,93,81,FedEx Forum,15302,/boxscores/201411030MEM.html
+Mon Nov 3 2014,Dallas Mavericks,Boston Celtics,118,113,American Airlines Center,19948,/boxscores/201411030DAL.html
+Mon Nov 3 2014,Denver Nuggets,Sacramento Kings,105,110,Pepsi Center,12516,/boxscores/201411030DEN.html
+Mon Nov 3 2014,Los Angeles Clippers,Utah Jazz,107,101,STAPLES Center,19060,/boxscores/201411030LAC.html
+Tue Nov 4 2014,Indiana Pacers,Milwaukee Bucks,81,87,Bankers Life Fieldhouse,15012,/boxscores/201411040IND.html
+Tue Nov 4 2014,Miami Heat,Houston Rockets,91,108,AmericanAirlines Arena,19666,/boxscores/201411040MIA.html
+Tue Nov 4 2014,New York Knicks,Washington Wizards,83,98,Madison Square Garden (IV),19812,/boxscores/201411040NYK.html
+Tue Nov 4 2014,Toronto Raptors,Oklahoma City Thunder,100,88,Air Canada Centre,18877,/boxscores/201411040TOR.html
+Tue Nov 4 2014,Chicago Bulls,Orlando Magic,98,90,United Center,21809,/boxscores/201411040CHI.html
+Tue Nov 4 2014,New Orleans Pelicans,Charlotte Hornets,100,91,Smoothie King Center,14840,/boxscores/201411040NOP.html
+Tue Nov 4 2014,Portland Trail Blazers,Cleveland Cavaliers,101,82,Moda Center,19441,/boxscores/201411040POR.html
+Tue Nov 4 2014,Los Angeles Lakers,Phoenix Suns,106,112,STAPLES Center,18997,/boxscores/201411040LAL.html
+Wed Nov 5 2014,Charlotte Hornets,Miami Heat,96,89,Time Warner Cable Arena,15874,/boxscores/201411050CHO.html
+Wed Nov 5 2014,Philadelphia 76ers,Orlando Magic,89,91,Wells Fargo Center,12111,/boxscores/201411050PHI.html
+Wed Nov 5 2014,Boston Celtics,Toronto Raptors,107,110,TD Garden,16249,/boxscores/201411050BOS.html
+Wed Nov 5 2014,Brooklyn Nets,Minnesota Timberwolves,91,98,Barclays Center,16302,/boxscores/201411050BRK.html
+Wed Nov 5 2014,Detroit Pistons,New York Knicks,98,95,The Palace of Auburn Hills,11915,/boxscores/201411050DET.html
+Wed Nov 5 2014,Milwaukee Bucks,Chicago Bulls,86,95,BMO Harris Bradley Center,13098,/boxscores/201411050MIL.html
+Wed Nov 5 2014,Washington Wizards,Indiana Pacers,96,94,Verizon Center,15268,/boxscores/201411050WAS.html
+Wed Nov 5 2014,San Antonio Spurs,Atlanta Hawks,94,92,AT&T Center,18581,/boxscores/201411050SAS.html
+Wed Nov 5 2014,Phoenix Suns,Memphis Grizzlies,91,102,US Airways Center,15377,/boxscores/201411050PHO.html
+Wed Nov 5 2014,Utah Jazz,Cleveland Cavaliers,102,100,EnergySolutions Arena,19911,/boxscores/201411050UTA.html
+Wed Nov 5 2014,Sacramento Kings,Denver Nuggets,131,109,Sleep Train Arena,14539,/boxscores/201411050SAC.html
+Wed Nov 5 2014,Golden State Warriors,Los Angeles Clippers,121,104,Oracle Arena,19596,/boxscores/201411050GSW.html
+Thu Nov 6 2014,Houston Rockets,San Antonio Spurs,98,81,Toyota Center,18311,/boxscores/201411060HOU.html
+Thu Nov 6 2014,Portland Trail Blazers,Dallas Mavericks,108,87,Moda Center,19441,/boxscores/201411060POR.html
+Fri Nov 7 2014,Charlotte Hornets,Atlanta Hawks,122,119,Time Warner Cable Arena,15891,/boxscores/201411070CHO.html
+Fri Nov 7 2014,Orlando Magic,Minnesota Timberwolves,112,103,Amway Center,16379,/boxscores/201411070ORL.html
+Fri Nov 7 2014,Philadelphia 76ers,Chicago Bulls,115,118,Wells Fargo Center,16820,/boxscores/201411070PHI.html
+Fri Nov 7 2014,Boston Celtics,Indiana Pacers,101,98,TD Garden,17122,/boxscores/201411070BOS.html
+Fri Nov 7 2014,Brooklyn Nets,New York Knicks,110,99,Barclays Center,17732,/boxscores/201411070BRK.html
+Fri Nov 7 2014,Detroit Pistons,Milwaukee Bucks,98,95,The Palace of Auburn Hills,16102,/boxscores/201411070DET.html
+Fri Nov 7 2014,Toronto Raptors,Washington Wizards,103,84,Air Canada Centre,19800,/boxscores/201411070TOR.html
+Fri Nov 7 2014,Oklahoma City Thunder,Memphis Grizzlies,89,91,Chesapeake Energy Arena,18203,/boxscores/201411070OKC.html
+Fri Nov 7 2014,Phoenix Suns,Sacramento Kings,112,114,US Airways Center,15476,/boxscores/201411070PHO.html
+Fri Nov 7 2014,Utah Jazz,Dallas Mavericks,82,105,EnergySolutions Arena,18419,/boxscores/201411070UTA.html
+Fri Nov 7 2014,Denver Nuggets,Cleveland Cavaliers,101,110,Pepsi Center,19623,/boxscores/201411070DEN.html
+Sat Nov 8 2014,Los Angeles Clippers,Portland Trail Blazers,106,102,STAPLES Center,19060,/boxscores/201411080LAC.html
+Sat Nov 8 2014,Indiana Pacers,Washington Wizards,90,97,Bankers Life Fieldhouse,17302,/boxscores/201411080IND.html
+Sat Nov 8 2014,Atlanta Hawks,New York Knicks,103,96,Philips Arena,17521,/boxscores/201411080ATL.html
+Sat Nov 8 2014,Miami Heat,Minnesota Timberwolves,102,92,AmericanAirlines Arena,19735,/boxscores/201411080MIA.html
+Sat Nov 8 2014,Chicago Bulls,Boston Celtics,101,106,United Center,22104,/boxscores/201411080CHI.html
+Sat Nov 8 2014,Houston Rockets,Golden State Warriors,87,98,Toyota Center,18312,/boxscores/201411080HOU.html
+Sat Nov 8 2014,Milwaukee Bucks,Memphis Grizzlies,93,92,BMO Harris Bradley Center,13841,/boxscores/201411080MIL.html
+Sat Nov 8 2014,San Antonio Spurs,New Orleans Pelicans,99,100,AT&T Center,18581,/boxscores/201411080SAS.html
+Sun Nov 9 2014,Brooklyn Nets,Orlando Magic,104,96,Barclays Center,16127,/boxscores/201411090BRK.html
+Sun Nov 9 2014,Detroit Pistons,Utah Jazz,96,97,The Palace of Auburn Hills,12888,/boxscores/201411090DET.html
+Sun Nov 9 2014,Oklahoma City Thunder,Sacramento Kings,101,93,Chesapeake Energy Arena,18203,/boxscores/201411090OKC.html
+Sun Nov 9 2014,Toronto Raptors,Philadelphia 76ers,120,88,Air Canada Centre,18470,/boxscores/201411090TOR.html
+Sun Nov 9 2014,Dallas Mavericks,Miami Heat,96,105,American Airlines Center,20195,/boxscores/201411090DAL.html
+Sun Nov 9 2014,Phoenix Suns,Golden State Warriors,107,95,US Airways Center,16046,/boxscores/201411090PHO.html
+Sun Nov 9 2014,Portland Trail Blazers,Denver Nuggets,116,100,Moda Center,16046,/boxscores/201411090POR.html
+Sun Nov 9 2014,Los Angeles Lakers,Charlotte Hornets,107,92,STAPLES Center,18997,/boxscores/201411090LAL.html
+Mon Nov 10 2014,Cleveland Cavaliers,New Orleans Pelicans,118,111,Quicken Loans Arena,20562,/boxscores/201411100CLE.html
+Mon Nov 10 2014,Indiana Pacers,Utah Jazz,97,86,Bankers Life Fieldhouse,12513,/boxscores/201411100IND.html
+Mon Nov 10 2014,New York Knicks,Atlanta Hawks,85,91,Madison Square Garden (IV),19812,/boxscores/201411100NYK.html
+Mon Nov 10 2014,Chicago Bulls,Detroit Pistons,102,91,United Center,21431,/boxscores/201411100CHI.html
+Mon Nov 10 2014,Los Angeles Clippers,San Antonio Spurs,85,89,STAPLES Center,19313,/boxscores/201411100LAC.html
+Tue Nov 11 2014,Toronto Raptors,Orlando Magic,104,100,Air Canada Centre,19800,/boxscores/201411110TOR.html
+Tue Nov 11 2014,Memphis Grizzlies,Los Angeles Lakers,107,102,FedEx Forum,17618,/boxscores/201411110MEM.html
+Tue Nov 11 2014,Milwaukee Bucks,Oklahoma City Thunder,85,78,BMO Harris Bradley Center,12390,/boxscores/201411110MIL.html
+Tue Nov 11 2014,Dallas Mavericks,Sacramento Kings,106,98,American Airlines Center,19663,/boxscores/201411110DAL.html
+Tue Nov 11 2014,Portland Trail Blazers,Charlotte Hornets,102,100,Moda Center,18495,/boxscores/201411110POR.html
+Tue Nov 11 2014,Golden State Warriors,San Antonio Spurs,100,113,Oracle Arena,19596,/boxscores/201411110GSW.html
+Wed Nov 12 2014,Washington Wizards,Detroit Pistons,107,103,Verizon Center,14708,/boxscores/201411120WAS.html
+Wed Nov 12 2014,Atlanta Hawks,Utah Jazz,100,97,Philips Arena,12595,/boxscores/201411120ATL.html
+Wed Nov 12 2014,Boston Celtics,Oklahoma City Thunder,94,109,TD Garden,17043,/boxscores/201411120BOS.html
+Wed Nov 12 2014,Miami Heat,Indiana Pacers,75,81,AmericanAirlines Arena,19658,/boxscores/201411120MIA.html
+Wed Nov 12 2014,New York Knicks,Orlando Magic,95,97,Madison Square Garden (IV),19812,/boxscores/201411120NYK.html
+Wed Nov 12 2014,New Orleans Pelicans,Los Angeles Lakers,109,102,Smoothie King Center,17359,/boxscores/201411120NOP.html
+Wed Nov 12 2014,Denver Nuggets,Portland Trail Blazers,113,130,Pepsi Center,12611,/boxscores/201411120DEN.html
+Wed Nov 12 2014,Phoenix Suns,Brooklyn Nets,112,104,US Airways Center,15184,/boxscores/201411120PHO.html
+Wed Nov 12 2014,Minnesota Timberwolves,Houston Rockets,101,113,Mexico City Arena,18996,/boxscores/201411120MIN.html
+Thu Nov 13 2014,Memphis Grizzlies,Sacramento Kings,111,110,FedEx Forum,15666,/boxscores/201411130MEM.html
+Thu Nov 13 2014,Toronto Raptors,Chicago Bulls,93,100,Air Canada Centre,19800,/boxscores/201411130TOR.html
+Thu Nov 13 2014,Dallas Mavericks,Philadelphia 76ers,123,70,American Airlines Center,19604,/boxscores/201411130DAL.html
+Thu Nov 13 2014,Golden State Warriors,Brooklyn Nets,107,99,Oracle Arena,19596,/boxscores/201411130GSW.html
+Fri Nov 14 2014,Indiana Pacers,Denver Nuggets,87,108,Bankers Life Fieldhouse,16286,/boxscores/201411140IND.html
+Fri Nov 14 2014,Orlando Magic,Milwaukee Bucks,101,85,Amway Center,15947,/boxscores/201411140ORL.html
+Fri Nov 14 2014,Atlanta Hawks,Miami Heat,114,103,Philips Arena,17090,/boxscores/201411140ATL.html
+Fri Nov 14 2014,Boston Celtics,Cleveland Cavaliers,121,122,TD Garden,18624,/boxscores/201411140BOS.html
+Fri Nov 14 2014,New York Knicks,Utah Jazz,100,102,Madison Square Garden (IV),19812,/boxscores/201411140NYK.html
+Fri Nov 14 2014,Houston Rockets,Philadelphia 76ers,88,87,Toyota Center,18138,/boxscores/201411140HOU.html
+Fri Nov 14 2014,New Orleans Pelicans,Minnesota Timberwolves,139,91,Smoothie King Center,14775,/boxscores/201411140NOP.html
+Fri Nov 14 2014,Oklahoma City Thunder,Detroit Pistons,89,96,Chesapeake Energy Arena,18203,/boxscores/201411140OKC.html
+Fri Nov 14 2014,Phoenix Suns,Charlotte Hornets,95,103,US Airways Center,16291,/boxscores/201411140PHO.html
+Fri Nov 14 2014,Los Angeles Lakers,San Antonio Spurs,80,93,STAPLES Center,18997,/boxscores/201411140LAL.html
+Sat Nov 15 2014,Washington Wizards,Orlando Magic,98,93,Verizon Center,19110,/boxscores/201411150WAS.html
+Sat Nov 15 2014,Cleveland Cavaliers,Atlanta Hawks,127,94,Quicken Loans Arena,20562,/boxscores/201411150CLE.html
+Sat Nov 15 2014,Toronto Raptors,Utah Jazz,111,93,Air Canada Centre,19800,/boxscores/201411150TOR.html
+Sat Nov 15 2014,Chicago Bulls,Indiana Pacers,90,99,United Center,22248,/boxscores/201411150CHI.html
+Sat Nov 15 2014,Memphis Grizzlies,Detroit Pistons,95,88,FedEx Forum,17215,/boxscores/201411150MEM.html
+Sat Nov 15 2014,Dallas Mavericks,Minnesota Timberwolves,131,117,American Airlines Center,19730,/boxscores/201411150DAL.html
+Sat Nov 15 2014,Portland Trail Blazers,Brooklyn Nets,97,87,Moda Center,19441,/boxscores/201411150POR.html
+Sat Nov 15 2014,Sacramento Kings,San Antonio Spurs,94,91,Sleep Train Arena,17317,/boxscores/201411150SAC.html
+Sat Nov 15 2014,Golden State Warriors,Charlotte Hornets,112,87,Oracle Arena,19596,/boxscores/201411150GSW.html
+Sat Nov 15 2014,Los Angeles Clippers,Phoenix Suns,120,107,STAPLES Center,19060,/boxscores/201411150LAC.html
+Sun Nov 16 2014,New York Knicks,Denver Nuggets,109,93,Madison Square Garden (IV),19812,/boxscores/201411160NYK.html
+Sun Nov 16 2014,Miami Heat,Milwaukee Bucks,84,91,AmericanAirlines Arena,19680,/boxscores/201411160MIA.html
+Sun Nov 16 2014,Oklahoma City Thunder,Houston Rockets,65,69,Chesapeake Energy Arena,18203,/boxscores/201411160OKC.html
+Sun Nov 16 2014,Los Angeles Lakers,Golden State Warriors,115,136,STAPLES Center,18997,/boxscores/201411160LAL.html
+Mon Nov 17 2014,Charlotte Hornets,Dallas Mavericks,80,107,Time Warner Cable Arena,15345,/boxscores/201411170CHO.html
+Mon Nov 17 2014,Cleveland Cavaliers,Denver Nuggets,97,106,Quicken Loans Arena,20562,/boxscores/201411170CLE.html
+Mon Nov 17 2014,Boston Celtics,Phoenix Suns,114,118,TD Garden,16726,/boxscores/201411170BOS.html
+Mon Nov 17 2014,Brooklyn Nets,Miami Heat,83,95,Barclays Center,17732,/boxscores/201411170BRK.html
+Mon Nov 17 2014,Detroit Pistons,Orlando Magic,93,107,The Palace of Auburn Hills,11619,/boxscores/201411170DET.html
+Mon Nov 17 2014,Memphis Grizzlies,Houston Rockets,119,93,FedEx Forum,17012,/boxscores/201411170MEM.html
+Mon Nov 17 2014,San Antonio Spurs,Philadelphia 76ers,100,75,AT&T Center,18581,/boxscores/201411170SAS.html
+Mon Nov 17 2014,Portland Trail Blazers,New Orleans Pelicans,102,93,Moda Center,19441,/boxscores/201411170POR.html
+Mon Nov 17 2014,Los Angeles Clippers,Chicago Bulls,89,105,STAPLES Center,19319,/boxscores/201411170LAC.html
+Tue Nov 18 2014,Atlanta Hawks,Los Angeles Lakers,109,114,Philips Arena,17848,/boxscores/201411180ATL.html
+Tue Nov 18 2014,Milwaukee Bucks,New York Knicks,117,113,BMO Harris Bradley Center,12190,/boxscores/201411180MIL.html
+Tue Nov 18 2014,Utah Jazz,Oklahoma City Thunder,98,81,EnergySolutions Arena,17190,/boxscores/201411180UTA.html
+Tue Nov 18 2014,Sacramento Kings,New Orleans Pelicans,100,106,Sleep Train Arena,16526,/boxscores/201411180SAC.html
+Wed Nov 19 2014,Cleveland Cavaliers,San Antonio Spurs,90,92,Quicken Loans Arena,20562,/boxscores/201411190CLE.html
+Wed Nov 19 2014,Indiana Pacers,Charlotte Hornets,88,86,Bankers Life Fieldhouse,14748,/boxscores/201411190IND.html
+Wed Nov 19 2014,Orlando Magic,Los Angeles Clippers,90,114,Amway Center,16034,/boxscores/201411190ORL.html
+Wed Nov 19 2014,Philadelphia 76ers,Boston Celtics,90,101,Wells Fargo Center,12701,/boxscores/201411190PHI.html
+Wed Nov 19 2014,Washington Wizards,Dallas Mavericks,102,105,Verizon Center,16374,/boxscores/201411190WAS.html
+Wed Nov 19 2014,Brooklyn Nets,Milwaukee Bucks,118,122,Barclays Center,15694,/boxscores/201411190BRK.html
+Wed Nov 19 2014,Detroit Pistons,Phoenix Suns,86,88,The Palace of Auburn Hills,10686,/boxscores/201411190DET.html
+Wed Nov 19 2014,Toronto Raptors,Memphis Grizzlies,96,92,Air Canada Centre,19800,/boxscores/201411190TOR.html
+Wed Nov 19 2014,Minnesota Timberwolves,New York Knicks,115,99,Target Center,15304,/boxscores/201411190MIN.html
+Wed Nov 19 2014,Denver Nuggets,Oklahoma City Thunder,107,100,Pepsi Center,14140,/boxscores/201411190DEN.html
+Wed Nov 19 2014,Houston Rockets,Los Angeles Lakers,92,98,Toyota Center,18245,/boxscores/201411190HOU.html
+Thu Nov 20 2014,Miami Heat,Los Angeles Clippers,93,110,AmericanAirlines Arena,19685,/boxscores/201411200MIA.html
+Thu Nov 20 2014,Sacramento Kings,Chicago Bulls,103,88,Sleep Train Arena,17317,/boxscores/201411200SAC.html
+Fri Nov 21 2014,Charlotte Hornets,Orlando Magic,100,105,Time Warner Cable Arena,18126,/boxscores/201411210CHO.html
+Fri Nov 21 2014,Philadelphia 76ers,Phoenix Suns,96,122,Wells Fargo Center,16789,/boxscores/201411210PHI.html
+Fri Nov 21 2014,Atlanta Hawks,Detroit Pistons,99,89,Philips Arena,16517,/boxscores/201411210ATL.html
+Fri Nov 21 2014,Toronto Raptors,Milwaukee Bucks,124,82,Air Canada Centre,19800,/boxscores/201411210TOR.html
+Fri Nov 21 2014,Memphis Grizzlies,Boston Celtics,117,100,FedEx Forum,17712,/boxscores/201411210MEM.html
+Fri Nov 21 2014,Minnesota Timberwolves,San Antonio Spurs,92,121,Target Center,12414,/boxscores/201411210MIN.html
+Fri Nov 21 2014,Oklahoma City Thunder,Brooklyn Nets,92,94,Chesapeake Energy Arena,18203,/boxscores/201411210OKC.html
+Fri Nov 21 2014,Washington Wizards,Cleveland Cavaliers,91,78,Verizon Center,20356,/boxscores/201411210WAS.html
+Fri Nov 21 2014,Dallas Mavericks,Los Angeles Lakers,140,106,American Airlines Center,20353,/boxscores/201411210DAL.html
+Fri Nov 21 2014,Denver Nuggets,New Orleans Pelicans,117,97,Pepsi Center,15232,/boxscores/201411210DEN.html
+Fri Nov 21 2014,Golden State Warriors,Utah Jazz,101,88,Oracle Arena,19596,/boxscores/201411210GSW.html
+Fri Nov 21 2014,Portland Trail Blazers,Chicago Bulls,105,87,Moda Center,19866,/boxscores/201411210POR.html
+Sat Nov 22 2014,Indiana Pacers,Phoenix Suns,83,106,Bankers Life Fieldhouse,16870,/boxscores/201411220IND.html
+Sat Nov 22 2014,Orlando Magic,Miami Heat,92,99,Amway Center,18846,/boxscores/201411220ORL.html
+Sat Nov 22 2014,Cleveland Cavaliers,Toronto Raptors,93,110,Quicken Loans Arena,20562,/boxscores/201411220CLE.html
+Sat Nov 22 2014,New York Knicks,Philadelphia 76ers,91,83,Madison Square Garden (IV),19812,/boxscores/201411220NYK.html
+Sat Nov 22 2014,Houston Rockets,Dallas Mavericks,95,92,Toyota Center,18244,/boxscores/201411220HOU.html
+Sat Nov 22 2014,Minnesota Timberwolves,Sacramento Kings,101,113,Target Center,13191,/boxscores/201411220MIN.html
+Sat Nov 22 2014,Milwaukee Bucks,Washington Wizards,100,111,BMO Harris Bradley Center,14254,/boxscores/201411220MIL.html
+Sat Nov 22 2014,San Antonio Spurs,Brooklyn Nets,99,87,AT&T Center,18581,/boxscores/201411220SAS.html
+Sat Nov 22 2014,Utah Jazz,New Orleans Pelicans,94,106,EnergySolutions Arena,18452,/boxscores/201411220UTA.html
+Sun Nov 23 2014,Boston Celtics,Portland Trail Blazers,88,94,TD Garden,16692,/boxscores/201411230BOS.html
+Sun Nov 23 2014,Memphis Grizzlies,Los Angeles Clippers,107,91,FedEx Forum,18119,/boxscores/201411230MEM.html
+Sun Nov 23 2014,Miami Heat,Charlotte Hornets,94,93,AmericanAirlines Arena,19639,/boxscores/201411230MIA.html
+Sun Nov 23 2014,Oklahoma City Thunder,Golden State Warriors,86,91,Chesapeake Energy Arena,18203,/boxscores/201411230OKC.html
+Sun Nov 23 2014,Los Angeles Lakers,Denver Nuggets,94,101,STAPLES Center,18997,/boxscores/201411230LAL.html
+Mon Nov 24 2014,Charlotte Hornets,Los Angeles Clippers,92,113,Time Warner Cable Arena,17180,/boxscores/201411240CHO.html
+Mon Nov 24 2014,Cleveland Cavaliers,Orlando Magic,106,74,Quicken Loans Arena,20562,/boxscores/201411240CLE.html
+Mon Nov 24 2014,Philadelphia 76ers,Portland Trail Blazers,104,114,Wells Fargo Center,11094,/boxscores/201411240PHI.html
+Mon Nov 24 2014,Toronto Raptors,Phoenix Suns,104,100,Air Canada Centre,19800,/boxscores/201411240TOR.html
+Mon Nov 24 2014,Houston Rockets,New York Knicks,91,86,Toyota Center,18133,/boxscores/201411240HOU.html
+Mon Nov 24 2014,Dallas Mavericks,Indiana Pacers,100,111,American Airlines Center,19850,/boxscores/201411240DAL.html
+Mon Nov 24 2014,Utah Jazz,Chicago Bulls,95,97,EnergySolutions Arena,18904,/boxscores/201411240UTA.html
+Tue Nov 25 2014,Washington Wizards,Atlanta Hawks,102,106,Verizon Center,15440,/boxscores/201411250WAS.html
+Tue Nov 25 2014,Miami Heat,Golden State Warriors,97,114,AmericanAirlines Arena,19647,/boxscores/201411250MIA.html
+Tue Nov 25 2014,Milwaukee Bucks,Detroit Pistons,98,86,BMO Harris Bradley Center,15265,/boxscores/201411250MIL.html
+Tue Nov 25 2014,New Orleans Pelicans,Sacramento Kings,89,99,Smoothie King Center,17037,/boxscores/201411250NOP.html
+Tue Nov 25 2014,Denver Nuggets,Chicago Bulls,114,109,Pepsi Center,17033,/boxscores/201411250DEN.html
+Wed Nov 26 2014,Charlotte Hornets,Portland Trail Blazers,97,105,Time Warner Cable Arena,16972,/boxscores/201411260CHO.html
+Wed Nov 26 2014,Cleveland Cavaliers,Washington Wizards,113,87,Quicken Loans Arena,20562,/boxscores/201411260CLE.html
+Wed Nov 26 2014,Orlando Magic,Golden State Warriors,96,111,Amway Center,17702,/boxscores/201411260ORL.html
+Wed Nov 26 2014,Philadelphia 76ers,Brooklyn Nets,91,99,Wells Fargo Center,11223,/boxscores/201411260PHI.html
+Wed Nov 26 2014,Atlanta Hawks,Toronto Raptors,115,126,Philips Arena,16253,/boxscores/201411260ATL.html
+Wed Nov 26 2014,Dallas Mavericks,New York Knicks,109,102,American Airlines Center,20352,/boxscores/201411260DAL.html
+Wed Nov 26 2014,Detroit Pistons,Los Angeles Clippers,98,104,The Palace of Auburn Hills,13461,/boxscores/201411260DET.html
+Wed Nov 26 2014,Houston Rockets,Sacramento Kings,102,89,Toyota Center,18058,/boxscores/201411260HOU.html
+Wed Nov 26 2014,Minnesota Timberwolves,Milwaukee Bucks,86,103,Target Center,14710,/boxscores/201411260MIN.html
+Wed Nov 26 2014,Oklahoma City Thunder,Utah Jazz,97,82,Chesapeake Energy Arena,18203,/boxscores/201411260OKC.html
+Wed Nov 26 2014,San Antonio Spurs,Indiana Pacers,106,100,AT&T Center,18581,/boxscores/201411260SAS.html
+Wed Nov 26 2014,Phoenix Suns,Denver Nuggets,120,112,US Airways Center,16099,/boxscores/201411260PHO.html
+Wed Nov 26 2014,Los Angeles Lakers,Memphis Grizzlies,93,99,STAPLES Center,18997,/boxscores/201411260LAL.html
+Fri Nov 28 2014,Boston Celtics,Chicago Bulls,102,109,TD Garden,18203,/boxscores/201411280BOS.html
+Fri Nov 28 2014,Charlotte Hornets,Golden State Warriors,101,106,Time Warner Cable Arena,19381,/boxscores/201411280CHO.html
+Fri Nov 28 2014,Atlanta Hawks,New Orleans Pelicans,100,91,Philips Arena,17079,/boxscores/201411280ATL.html
+Fri Nov 28 2014,Detroit Pistons,Milwaukee Bucks,88,104,The Palace of Auburn Hills,13127,/boxscores/201411280DET.html
+Fri Nov 28 2014,Toronto Raptors,Dallas Mavericks,102,106,Air Canada Centre,19800,/boxscores/201411280TOR.html
+Fri Nov 28 2014,Houston Rockets,Los Angeles Clippers,85,102,Toyota Center,18226,/boxscores/201411280HOU.html
+Fri Nov 28 2014,Indiana Pacers,Orlando Magic,98,83,Bankers Life Fieldhouse,18165,/boxscores/201411280IND.html
+Fri Nov 28 2014,Oklahoma City Thunder,New York Knicks,105,78,Chesapeake Energy Arena,18203,/boxscores/201411280OKC.html
+Fri Nov 28 2014,San Antonio Spurs,Sacramento Kings,112,104,AT&T Center,18581,/boxscores/201411280SAS.html
+Fri Nov 28 2014,Denver Nuggets,Phoenix Suns,122,97,Pepsi Center,15509,/boxscores/201411280DEN.html
+Fri Nov 28 2014,Portland Trail Blazers,Memphis Grizzlies,99,112,Moda Center,19459,/boxscores/201411280POR.html
+Fri Nov 28 2014,Los Angeles Lakers,Minnesota Timberwolves,119,120,STAPLES Center,18997,/boxscores/201411280LAL.html
+Sat Nov 29 2014,Philadelphia 76ers,Dallas Mavericks,103,110,Wells Fargo Center,16145,/boxscores/201411290PHI.html
+Sat Nov 29 2014,Washington Wizards,New Orleans Pelicans,83,80,Verizon Center,17581,/boxscores/201411290WAS.html
+Sat Nov 29 2014,Atlanta Hawks,Charlotte Hornets,105,75,Philips Arena,14185,/boxscores/201411290ATL.html
+Sat Nov 29 2014,Cleveland Cavaliers,Indiana Pacers,109,97,Quicken Loans Arena,20562,/boxscores/201411290CLE.html
+Sat Nov 29 2014,Milwaukee Bucks,Houston Rockets,103,117,BMO Harris Bradley Center,16119,/boxscores/201411290MIL.html
+Sat Nov 29 2014,Utah Jazz,Los Angeles Clippers,96,112,EnergySolutions Arena,18479,/boxscores/201411290UTA.html
+Sun Nov 30 2014,Boston Celtics,San Antonio Spurs,89,111,TD Garden,17121,/boxscores/201411300BOS.html
+Sun Nov 30 2014,Brooklyn Nets,Chicago Bulls,84,102,Barclays Center,17732,/boxscores/201411300BRK.html
+Sun Nov 30 2014,Detroit Pistons,Golden State Warriors,93,104,The Palace of Auburn Hills,12737,/boxscores/201411300DET.html
+Sun Nov 30 2014,Sacramento Kings,Memphis Grizzlies,85,97,Sleep Train Arena,16240,/boxscores/201411300SAC.html
+Sun Nov 30 2014,New York Knicks,Miami Heat,79,86,Madison Square Garden (IV),19812,/boxscores/201411300NYK.html
+Sun Nov 30 2014,Phoenix Suns,Orlando Magic,90,93,US Airways Center,15558,/boxscores/201411300PHO.html
+Sun Nov 30 2014,Portland Trail Blazers,Minnesota Timberwolves,107,93,Moda Center,18843,/boxscores/201411300POR.html
+Sun Nov 30 2014,Los Angeles Lakers,Toronto Raptors,129,122,STAPLES Center,18997,/boxscores/201411300LAL.html

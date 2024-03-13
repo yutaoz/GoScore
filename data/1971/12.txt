@@ -1,0 +1,134 @@
+Tue Dec 1 1970,Baltimore Bullets,Los Angeles Lakers,93,97,Baltimore Civic Center,0,/boxscores/197012010BAL.html
+Tue Dec 1 1970,Buffalo Braves,Boston Celtics,116,117,Buffalo Memorial Auditorium,0,/boxscores/197012010BUF.html
+Tue Dec 1 1970,Chicago Bulls,Philadelphia 76ers,107,91,Chicago Stadium,0,/boxscores/197012010CHI.html
+Tue Dec 1 1970,New York Knicks,Seattle SuperSonics,114,109,Madison Square Garden (IV),0,/boxscores/197012010NYK.html
+Tue Dec 1 1970,Portland Trail Blazers,San Diego Rockets,114,120,Memorial Coliseum,0,/boxscores/197012010POR.html
+Tue Dec 1 1970,San Francisco Warriors,Atlanta Hawks,113,106,Cow Palace,0,/boxscores/197012010SFW.html
+Wed Dec 2 1970,Boston Celtics,Los Angeles Lakers,114,111,Boston Garden,0,/boxscores/197012020BOS.html
+Wed Dec 2 1970,Cincinnati Royals,Seattle SuperSonics,111,119,Cincinnati Gardens,0,/boxscores/197012020CIN.html
+Wed Dec 2 1970,Detroit Pistons,New York Knicks,101,82,Cobo Arena,0,/boxscores/197012020DET.html
+Wed Dec 2 1970,Phoenix Suns,Atlanta Hawks,126,112,Arizona Veterans Memorial Coliseum,0,/boxscores/197012020PHO.html
+Thu Dec 3 1970,Milwaukee Bucks,Chicago Bulls,107,100,Milwaukee Arena,0,/boxscores/197012030MIL.html
+Fri Dec 4 1970,Baltimore Bullets,Seattle SuperSonics,131,116,Baltimore Civic Center,0,/boxscores/197012040BAL.html
+Fri Dec 4 1970,Buffalo Braves,New York Knicks,97,91,Buffalo Memorial Auditorium,0,/boxscores/197012040BUF.html
+Fri Dec 4 1970,Cleveland Cavaliers,Boston Celtics,107,118,Cleveland Arena,0,/boxscores/197012040CLE.html
+Fri Dec 4 1970,Detroit Pistons,Chicago Bulls,107,103,Cobo Arena,0,/boxscores/197012040DET.html
+Fri Dec 4 1970,Los Angeles Lakers,San Francisco Warriors,123,101,The Forum,0,/boxscores/197012040LAL.html
+Fri Dec 4 1970,Milwaukee Bucks,Philadelphia 76ers,128,122,Milwaukee Arena,0,/boxscores/197012040MIL.html
+Fri Dec 4 1970,Portland Trail Blazers,Phoenix Suns,121,126,Memorial Coliseum,0,/boxscores/197012040POR.html
+Sat Dec 5 1970,Atlanta Hawks,Seattle SuperSonics,106,100,Alexander Memorial Coliseum,0,/boxscores/197012050ATL.html
+Sat Dec 5 1970,Chicago Bulls,Boston Celtics,97,101,Chicago Stadium,0,/boxscores/197012050CHI.html
+Sat Dec 5 1970,Cincinnati Royals,Philadelphia 76ers,106,131,Cincinnati Gardens,0,/boxscores/197012050CIN.html
+Sat Dec 5 1970,New York Knicks,Buffalo Braves,117,93,Madison Square Garden (IV),0,/boxscores/197012050NYK.html
+Sat Dec 5 1970,San Diego Rockets,Los Angeles Lakers,119,116,San Diego Sports Arena,0,/boxscores/197012050SDR.html
+Sat Dec 5 1970,San Francisco Warriors,Phoenix Suns,100,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197012050SFW.html
+Sun Dec 6 1970,Baltimore Bullets,Cincinnati Royals,126,118,Baltimore Civic Center,0,/boxscores/197012060BAL.html
+Sun Dec 6 1970,Cleveland Cavaliers,Buffalo Braves,108,106,Cleveland Arena,0,/boxscores/197012060CLE.html
+Sun Dec 6 1970,Los Angeles Lakers,Portland Trail Blazers,131,120,The Forum,0,/boxscores/197012060LAL.html
+Sun Dec 6 1970,Phoenix Suns,San Diego Rockets,108,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197012060PHO.html
+Mon Dec 7 1970,Cincinnati Royals,San Francisco Warriors,124,113,Omaha Civic Auditorium,0,/boxscores/197012070CIN.html
+Tue Dec 8 1970,Buffalo Braves,Boston Celtics,102,122,Buffalo Memorial Auditorium,0,/boxscores/197012080BUF.html
+Tue Dec 8 1970,Chicago Bulls,San Francisco Warriors,98,87,Chicago Stadium,0,/boxscores/197012080CHI.html
+Tue Dec 8 1970,Milwaukee Bucks,Atlanta Hawks,125,104,Milwaukee Arena,0,/boxscores/197012080MIL.html
+Tue Dec 8 1970,New York Knicks,Portland Trail Blazers,139,121,Madison Square Garden (IV),0,/boxscores/197012080NYK.html
+Tue Dec 8 1970,Philadelphia 76ers,Seattle SuperSonics,104,107,The Spectrum,0,/boxscores/197012080PHI.html
+Tue Dec 8 1970,Phoenix Suns,Los Angeles Lakers,112,121,Arizona Veterans Memorial Coliseum,0,/boxscores/197012080PHO.html
+Wed Dec 9 1970,Baltimore Bullets,Milwaukee Bucks,127,97,Baltimore Civic Center,0,/boxscores/197012090BAL.html
+Wed Dec 9 1970,Boston Celtics,Seattle SuperSonics,136,121,Boston Garden,0,/boxscores/197012090BOS.html
+Wed Dec 9 1970,Cincinnati Royals,Atlanta Hawks,118,106,Cincinnati Gardens,0,/boxscores/197012090CIN.html
+Wed Dec 9 1970,Cleveland Cavaliers,Portland Trail Blazers,102,109,Cleveland Arena,0,/boxscores/197012090CLE.html
+Wed Dec 9 1970,Detroit Pistons,San Francisco Warriors,99,110,Cobo Arena,0,/boxscores/197012090DET.html
+Thu Dec 10 1970,Buffalo Braves,Chicago Bulls,120,138,Onondaga War Memorial,0,/boxscores/197012100BUF.html
+Fri Dec 11 1970,Boston Celtics,Detroit Pistons,118,121,Boston Garden,0,/boxscores/197012110BOS.html
+Fri Dec 11 1970,Buffalo Braves,Portland Trail Blazers,105,120,Buffalo Memorial Auditorium,0,/boxscores/197012110BUF.html
+Fri Dec 11 1970,Chicago Bulls,Atlanta Hawks,87,86,Chicago Stadium,0,/boxscores/197012110CHI.html
+Fri Dec 11 1970,Milwaukee Bucks,Cleveland Cavaliers,134,92,Milwaukee Arena,0,/boxscores/197012110MIL.html
+Fri Dec 11 1970,Philadelphia 76ers,San Francisco Warriors,101,102,The Spectrum,0,/boxscores/197012110PHI.html
+Fri Dec 11 1970,San Diego Rockets,Phoenix Suns,110,104,San Diego Sports Arena,0,/boxscores/197012110SDR.html
+Fri Dec 11 1970,Seattle SuperSonics,Los Angeles Lakers,118,126,Seattle Center Coliseum,0,/boxscores/197012110SEA.html
+Sat Dec 12 1970,Atlanta Hawks,Portland Trail Blazers,107,101,Alexander Memorial Coliseum,0,/boxscores/197012120ATL.html
+Sat Dec 12 1970,Baltimore Bullets,San Francisco Warriors,119,96,Baltimore Civic Center,0,/boxscores/197012120BAL.html
+Sat Dec 12 1970,Chicago Bulls,San Diego Rockets,103,98,Chicago Stadium,0,/boxscores/197012120CHI.html
+Sat Dec 12 1970,Cincinnati Royals,Cleveland Cavaliers,114,95,Cincinnati Gardens,0,/boxscores/197012120CIN.html
+Sat Dec 12 1970,Detroit Pistons,Buffalo Braves,92,93,Cobo Arena,0,/boxscores/197012120DET.html
+Sat Dec 12 1970,New York Knicks,Philadelphia 76ers,118,101,Madison Square Garden (IV),0,/boxscores/197012120NYK.html
+Sat Dec 12 1970,Phoenix Suns,Milwaukee Bucks,113,111,Arizona Veterans Memorial Coliseum,0,/boxscores/197012120PHO.html
+Sun Dec 13 1970,Atlanta Hawks,Buffalo Braves,110,91,Alexander Memorial Coliseum,0,/boxscores/197012130ATL.html
+Sun Dec 13 1970,Cleveland Cavaliers,San Diego Rockets,95,118,Cleveland Arena,0,/boxscores/197012130CLE.html
+Sun Dec 13 1970,Los Angeles Lakers,Detroit Pistons,100,103,The Forum,0,/boxscores/197012130LAL.html
+Sun Dec 13 1970,New York Knicks,San Francisco Warriors,94,101,St. Louis Arena,0,/boxscores/197012130NYK.html
+Sun Dec 13 1970,Seattle SuperSonics,Milwaukee Bucks,107,124,Seattle Center Coliseum,0,/boxscores/197012130SEA.html
+Tue Dec 15 1970,Buffalo Braves,Los Angeles Lakers,113,111,Buffalo Memorial Auditorium,0,/boxscores/197012150BUF.html
+Tue Dec 15 1970,Chicago Bulls,Baltimore Bullets,115,97,Chicago Stadium,0,/boxscores/197012150CHI.html
+Tue Dec 15 1970,New York Knicks,Cleveland Cavaliers,110,92,Madison Square Garden (IV),0,/boxscores/197012150NYK.html
+Tue Dec 15 1970,Philadelphia 76ers,San Diego Rockets,122,98,The Spectrum,0,/boxscores/197012150PHI.html
+Tue Dec 15 1970,Phoenix Suns,San Francisco Warriors,123,129,Arizona Veterans Memorial Coliseum,0,/boxscores/197012150PHO.html
+Tue Dec 15 1970,Portland Trail Blazers,Detroit Pistons,103,111,Memorial Coliseum,0,/boxscores/197012150POR.html
+Wed Dec 16 1970,Atlanta Hawks,San Diego Rockets,128,117,Alexander Memorial Coliseum,0,/boxscores/197012160ATL.html
+Wed Dec 16 1970,Cincinnati Royals,Los Angeles Lakers,102,118,Cincinnati Gardens,0,/boxscores/197012160CIN.html
+Wed Dec 16 1970,Cleveland Cavaliers,New York Knicks,84,108,Cleveland Arena,0,/boxscores/197012160CLE.html
+Wed Dec 16 1970,San Francisco Warriors,Seattle SuperSonics,108,91,San Francisco Civic Auditorium,0,/boxscores/197012160SFW.html
+Thu Dec 17 1970,Boston Celtics,Buffalo Braves,102,93,Boston Garden,0,/boxscores/197012170BOS.html
+Thu Dec 17 1970,Phoenix Suns,Detroit Pistons,117,114,Arizona Veterans Memorial Coliseum,0,/boxscores/197012170PHO.html
+Thu Dec 17 1970,Seattle SuperSonics,Philadelphia 76ers,117,125,Seattle Center Coliseum,0,/boxscores/197012170SEA.html
+Fri Dec 18 1970,Atlanta Hawks,Baltimore Bullets,116,112,Cole Field House,0,/boxscores/197012180ATL.html
+Fri Dec 18 1970,Buffalo Braves,Cleveland Cavaliers,113,94,Buffalo Memorial Auditorium,0,/boxscores/197012180BUF.html
+Fri Dec 18 1970,Chicago Bulls,Cincinnati Royals,137,122,Chicago Stadium,0,/boxscores/197012180CHI.html
+Fri Dec 18 1970,Milwaukee Bucks,Boston Celtics,124,114,Milwaukee Arena,0,/boxscores/197012180MIL.html
+Fri Dec 18 1970,Portland Trail Blazers,San Francisco Warriors,118,122,San Diego Sports Arena,0,/boxscores/197012180POR.html
+Fri Dec 18 1970,San Diego Rockets,Detroit Pistons,116,129,San Diego Sports Arena,0,/boxscores/197012180SDR.html
+Sat Dec 19 1970,Atlanta Hawks,Los Angeles Lakers,104,116,Alexander Memorial Coliseum,0,/boxscores/197012190ATL.html
+Sat Dec 19 1970,Baltimore Bullets,Boston Celtics,134,128,Baltimore Civic Center,0,/boxscores/197012190BAL.html
+Sat Dec 19 1970,Cincinnati Royals,Milwaukee Bucks,119,110,Cincinnati Gardens,0,/boxscores/197012190CIN.html
+Sat Dec 19 1970,Cleveland Cavaliers,Buffalo Braves,123,112,Cleveland Arena,0,/boxscores/197012190CLE.html
+Sat Dec 19 1970,New York Knicks,Chicago Bulls,98,87,Madison Square Garden (IV),0,/boxscores/197012190NYK.html
+Sat Dec 19 1970,Portland Trail Blazers,San Diego Rockets,108,118,Oakland-Alameda County Coliseum Arena,0,/boxscores/197012190POR.html
+Sat Dec 19 1970,Seattle SuperSonics,Phoenix Suns,135,131,Seattle Center Coliseum,0,/boxscores/197012190SEA.html
+Sat Dec 19 1970,San Francisco Warriors,Philadelphia 76ers,99,108,Oakland-Alameda County Coliseum Arena,0,/boxscores/197012190SFW.html
+Sun Dec 20 1970,Cincinnati Royals,Detroit Pistons,135,136,Omaha Civic Auditorium,0,/boxscores/197012200CIN.html
+Sun Dec 20 1970,Cleveland Cavaliers,Chicago Bulls,103,116,Cleveland Arena,0,/boxscores/197012200CLE.html
+Sun Dec 20 1970,Milwaukee Bucks,Buffalo Braves,131,101,Milwaukee Arena,0,/boxscores/197012200MIL.html
+Sun Dec 20 1970,Phoenix Suns,New York Knicks,118,133,Arizona Veterans Memorial Coliseum,0,/boxscores/197012200PHO.html
+Sun Dec 20 1970,Portland Trail Blazers,Philadelphia 76ers,132,134,Memorial Coliseum,0,/boxscores/197012200POR.html
+Sun Dec 20 1970,Seattle SuperSonics,San Diego Rockets,108,110,Seattle Center Coliseum,0,/boxscores/197012200SEA.html
+Mon Dec 21 1970,Milwaukee Bucks,Los Angeles Lakers,113,88,Milwaukee Arena,0,/boxscores/197012210MIL.html
+Tue Dec 22 1970,Chicago Bulls,Cleveland Cavaliers,121,80,Chicago Stadium,0,/boxscores/197012220CHI.html
+Tue Dec 22 1970,Los Angeles Lakers,Atlanta Hawks,115,119,The Forum,0,/boxscores/197012220LAL.html
+Tue Dec 22 1970,Phoenix Suns,Philadelphia 76ers,129,133,Arizona Veterans Memorial Coliseum,0,/boxscores/197012220PHO.html
+Tue Dec 22 1970,Seattle SuperSonics,New York Knicks,119,108,Seattle Center Coliseum,0,/boxscores/197012220SEA.html
+Tue Dec 22 1970,San Francisco Warriors,Boston Celtics,108,138,Cow Palace,0,/boxscores/197012220SFW.html
+Wed Dec 23 1970,Buffalo Braves,Chicago Bulls,103,104,Buffalo Memorial Auditorium,0,/boxscores/197012230BUF.html
+Wed Dec 23 1970,Cincinnati Royals,Baltimore Bullets,120,115,Cincinnati Gardens,0,/boxscores/197012230CIN.html
+Wed Dec 23 1970,San Diego Rockets,Atlanta Hawks,133,102,San Diego Sports Arena,0,/boxscores/197012230SDR.html
+Fri Dec 25 1970,Baltimore Bullets,Chicago Bulls,128,112,Baltimore Civic Center,0,/boxscores/197012250BAL.html
+Fri Dec 25 1970,Cincinnati Royals,Cleveland Cavaliers,117,100,Cincinnati Gardens,0,/boxscores/197012250CIN.html
+Fri Dec 25 1970,Los Angeles Lakers,Boston Celtics,123,113,The Forum,0,/boxscores/197012250LAL.html
+Fri Dec 25 1970,New York Knicks,Buffalo Braves,115,102,Madison Square Garden (IV),0,/boxscores/197012250NYK.html
+Fri Dec 25 1970,Philadelphia 76ers,Detroit Pistons,105,100,The Spectrum,0,/boxscores/197012250PHI.html
+Fri Dec 25 1970,Phoenix Suns,Atlanta Hawks,127,115,Arizona Veterans Memorial Coliseum,0,/boxscores/197012250PHO.html
+Sat Dec 26 1970,Atlanta Hawks,Cincinnati Royals,118,130,Alexander Memorial Coliseum,0,/boxscores/197012260ATL.html
+Sat Dec 26 1970,Chicago Bulls,Detroit Pistons,114,117,Chicago Stadium,0,/boxscores/197012260CHI.html
+Sat Dec 26 1970,Cleveland Cavaliers,Buffalo Braves,120,107,Cleveland Arena,0,/boxscores/197012260CLE.html
+Sat Dec 26 1970,Milwaukee Bucks,San Francisco Warriors,131,111,Milwaukee Arena,0,/boxscores/197012260MIL.html
+Sat Dec 26 1970,Phoenix Suns,Portland Trail Blazers,115,103,Arizona Veterans Memorial Coliseum,0,/boxscores/197012260PHO.html
+Sat Dec 26 1970,Seattle SuperSonics,Boston Celtics,124,117,Seattle Center Coliseum,0,/boxscores/197012260SEA.html
+Sun Dec 27 1970,Cleveland Cavaliers,Philadelphia 76ers,114,101,Cleveland Arena,0,/boxscores/197012270CLE.html
+Sun Dec 27 1970,Los Angeles Lakers,Phoenix Suns,128,110,The Forum,0,/boxscores/197012270LAL.html
+Sun Dec 27 1970,New York Knicks,Baltimore Bullets,110,105,Madison Square Garden (IV),0,/boxscores/197012270NYK.html
+Sun Dec 27 1970,Portland Trail Blazers,Boston Celtics,135,123,Memorial Coliseum,0,/boxscores/197012270POR.html
+Sun Dec 27 1970,San Diego Rockets,Chicago Bulls,101,110,San Diego Sports Arena,0,/boxscores/197012270SDR.html
+Mon Dec 28 1970,Atlanta Hawks,San Francisco Warriors,104,115,Alexander Memorial Coliseum,0,/boxscores/197012280ATL.html
+Mon Dec 28 1970,Cincinnati Royals,Milwaukee Bucks,114,137,Dane County Veteran Memorial Coliseum,0,/boxscores/197012280CIN.html
+Tue Dec 29 1970,Buffalo Braves,Philadelphia 76ers,113,124,Buffalo Memorial Auditorium,0,/boxscores/197012290BUF.html
+Tue Dec 29 1970,Cleveland Cavaliers,Milwaukee Bucks,97,119,Cleveland Arena,0,/boxscores/197012290CLE.html
+Tue Dec 29 1970,Detroit Pistons,Atlanta Hawks,99,97,Cobo Arena,0,/boxscores/197012290DET.html
+Tue Dec 29 1970,Los Angeles Lakers,Chicago Bulls,126,117,The Forum,0,/boxscores/197012290LAL.html
+Tue Dec 29 1970,San Diego Rockets,Boston Celtics,108,110,San Diego Sports Arena,0,/boxscores/197012290SDR.html
+Wed Dec 30 1970,Baltimore Bullets,Buffalo Braves,106,90,Cole Field House,0,/boxscores/197012300BAL.html
+Wed Dec 30 1970,Cincinnati Royals,Detroit Pistons,115,119,Cincinnati Gardens,0,/boxscores/197012300CIN.html
+Wed Dec 30 1970,New York Knicks,San Francisco Warriors,111,103,Madison Square Garden (IV),0,/boxscores/197012300NYK.html
+Wed Dec 30 1970,Philadelphia 76ers,Milwaukee Bucks,119,107,The Spectrum,0,/boxscores/197012300PHI.html
+Wed Dec 30 1970,Phoenix Suns,Los Angeles Lakers,132,114,Arizona Veterans Memorial Coliseum,0,/boxscores/197012300PHO.html
+Wed Dec 30 1970,Seattle SuperSonics,Chicago Bulls,128,109,Seattle Center Coliseum,0,/boxscores/197012300SEA.html
+Thu Dec 31 1970,Atlanta Hawks,Cleveland Cavaliers,119,85,Alexander Memorial Coliseum,0,/boxscores/197012310ATL.html
+Thu Dec 31 1970,Boston Celtics,San Francisco Warriors,106,144,Boston Garden,0,/boxscores/197012310BOS.html

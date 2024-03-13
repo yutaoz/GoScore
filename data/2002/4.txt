@@ -1,0 +1,161 @@
+Tue Apr 2 2002,Cleveland Cavaliers,Phoenix Suns,101,96,Gund Arena,13688,/boxscores/200204020CLE.html
+Tue Apr 2 2002,Indiana Pacers,Boston Celtics,94,105,Conseco Fieldhouse,16890,/boxscores/200204020IND.html
+Tue Apr 2 2002,Atlanta Hawks,Milwaukee Bucks,100,92,Philips Arena,9149,/boxscores/200204020ATL.html
+Tue Apr 2 2002,Miami Heat,Detroit Pistons,87,90,AmericanAirlines Arena,15401,/boxscores/200204020MIA.html
+Tue Apr 2 2002,Memphis Grizzlies,Sacramento Kings,83,107,Pyramid Arena,11835,/boxscores/200204020MEM.html
+Tue Apr 2 2002,New York Knicks,Charlotte Hornets,91,85,Madison Square Garden (IV),19763,/boxscores/200204020NYK.html
+Tue Apr 2 2002,Washington Wizards,Los Angeles Lakers,93,113,MCI Center,20674,/boxscores/200204020WAS.html
+Tue Apr 2 2002,Houston Rockets,Seattle SuperSonics,100,98,Compaq Center,9932,/boxscores/200204020HOU.html
+Tue Apr 2 2002,Denver Nuggets,Utah Jazz,98,90,Pepsi Center,17042,/boxscores/200204020DEN.html
+Tue Apr 2 2002,Golden State Warriors,Portland Trail Blazers,107,91,The Arena in Oakland,13127,/boxscores/200204020GSW.html
+Wed Apr 3 2002,Charlotte Hornets,Miami Heat,97,90,Charlotte Coliseum,9217,/boxscores/200204030CHH.html
+Wed Apr 3 2002,Philadelphia 76ers,Phoenix Suns,89,83,First Union Center,20652,/boxscores/200204030PHI.html
+Wed Apr 3 2002,Toronto Raptors,Chicago Bulls,117,104,Air Canada Centre,19800,/boxscores/200204030TOR.html
+Wed Apr 3 2002,Detroit Pistons,Sacramento Kings,86,107,The Palace of Auburn Hills,22076,/boxscores/200204030DET.html
+Wed Apr 3 2002,Milwaukee Bucks,Washington Wizards,105,90,Bradley Center,18717,/boxscores/200204030MIL.html
+Wed Apr 3 2002,Minnesota Timberwolves,Memphis Grizzlies,92,81,Target Center,17183,/boxscores/200204030MIN.html
+Wed Apr 3 2002,New Jersey Nets,Los Angeles Lakers,94,92,Continental Airlines Arena,20049,/boxscores/200204030NJN.html
+Wed Apr 3 2002,San Antonio Spurs,Seattle SuperSonics,90,88,Alamodome,19223,/boxscores/200204030SAS.html
+Wed Apr 3 2002,Utah Jazz,Los Angeles Clippers,99,87,Delta Center,18591,/boxscores/200204030UTA.html
+Thu Apr 4 2002,Atlanta Hawks,Indiana Pacers,95,94,Philips Arena,10634,/boxscores/200204040ATL.html
+Thu Apr 4 2002,Orlando Magic,Cleveland Cavaliers,105,101,TD Waterhouse Centre,15017,/boxscores/200204040ORL.html
+Thu Apr 4 2002,Houston Rockets,San Antonio Spurs,78,102,Compaq Center,12169,/boxscores/200204040HOU.html
+Thu Apr 4 2002,Dallas Mavericks,Los Angeles Clippers,115,90,American Airlines Center,20050,/boxscores/200204040DAL.html
+Thu Apr 4 2002,Denver Nuggets,Minnesota Timberwolves,88,87,Pepsi Center,15509,/boxscores/200204040DEN.html
+Thu Apr 4 2002,Portland Trail Blazers,New York Knicks,88,80,Rose Garden Arena,19633,/boxscores/200204040POR.html
+Fri Apr 5 2002,Indiana Pacers,Phoenix Suns,97,87,Conseco Fieldhouse,16419,/boxscores/200204050IND.html
+Fri Apr 5 2002,Philadelphia 76ers,Detroit Pistons,88,92,First Union Center,20754,/boxscores/200204050PHI.html
+Fri Apr 5 2002,Boston Celtics,Los Angeles Lakers,99,81,FleetCenter,18624,/boxscores/200204050BOS.html
+Fri Apr 5 2002,Charlotte Hornets,Washington Wizards,97,91,Charlotte Coliseum,15621,/boxscores/200204050CHH.html
+Fri Apr 5 2002,Miami Heat,Milwaukee Bucks,102,97,AmericanAirlines Arena,15623,/boxscores/200204050MIA.html
+Fri Apr 5 2002,New Jersey Nets,Orlando Magic,110,85,Continental Airlines Arena,20049,/boxscores/200204050NJN.html
+Fri Apr 5 2002,Memphis Grizzlies,Houston Rockets,99,81,Pyramid Arena,14188,/boxscores/200204050MEM.html
+Fri Apr 5 2002,Chicago Bulls,Toronto Raptors,96,98,United Center,19352,/boxscores/200204050CHI.html
+Fri Apr 5 2002,Utah Jazz,Sacramento Kings,109,117,Delta Center,19911,/boxscores/200204050UTA.html
+Fri Apr 5 2002,Seattle SuperSonics,New York Knicks,83,86,KeyArena at Seattle Center,17072,/boxscores/200204050SEA.html
+Fri Apr 5 2002,Golden State Warriors,Denver Nuggets,108,104,The Arena in Oakland,14396,/boxscores/200204050GSW.html
+Sat Apr 6 2002,San Antonio Spurs,Dallas Mavericks,89,87,Alamodome,34739,/boxscores/200204060SAS.html
+Sat Apr 6 2002,Atlanta Hawks,Charlotte Hornets,86,93,Philips Arena,15954,/boxscores/200204060ATL.html
+Sat Apr 6 2002,Cleveland Cavaliers,Chicago Bulls,120,101,Gund Arena,20342,/boxscores/200204060CLE.html
+Sat Apr 6 2002,Minnesota Timberwolves,Phoenix Suns,108,104,Target Center,18716,/boxscores/200204060MIN.html
+Sat Apr 6 2002,Washington Wizards,Memphis Grizzlies,88,85,MCI Center,20674,/boxscores/200204060WAS.html
+Sat Apr 6 2002,Portland Trail Blazers,Golden State Warriors,113,86,Rose Garden Arena,20019,/boxscores/200204060POR.html
+Sun Apr 7 2002,Philadelphia 76ers,Milwaukee Bucks,89,87,First Union Center,20707,/boxscores/200204070PHI.html
+Sun Apr 7 2002,Miami Heat,Los Angeles Lakers,88,96,AmericanAirlines Arena,19600,/boxscores/200204070MIA.html
+Sun Apr 7 2002,Toronto Raptors,Indiana Pacers,94,84,Air Canada Centre,19800,/boxscores/200204070TOR.html
+Sun Apr 7 2002,New Jersey Nets,Boston Celtics,90,102,Continental Airlines Arena,14952,/boxscores/200204070NJN.html
+Sun Apr 7 2002,Los Angeles Clippers,Denver Nuggets,97,75,STAPLES Center,18964,/boxscores/200204070LAC.html
+Sun Apr 7 2002,Sacramento Kings,New York Knicks,116,82,ARCO Arena (II),17317,/boxscores/200204070SAC.html
+Mon Apr 8 2002,Detroit Pistons,Atlanta Hawks,105,99,The Palace of Auburn Hills,17147,/boxscores/200204080DET.html
+Mon Apr 8 2002,Orlando Magic,Houston Rockets,83,74,TD Waterhouse Centre,15426,/boxscores/200204080ORL.html
+Mon Apr 8 2002,Indiana Pacers,Cleveland Cavaliers,99,111,Conseco Fieldhouse,15673,/boxscores/200204080IND.html
+Mon Apr 8 2002,Chicago Bulls,Boston Celtics,105,100,United Center,20312,/boxscores/200204080CHI.html
+Mon Apr 8 2002,San Antonio Spurs,Portland Trail Blazers,99,87,Alamodome,28278,/boxscores/200204080SAS.html
+Mon Apr 8 2002,Utah Jazz,Dallas Mavericks,96,105,Delta Center,19911,/boxscores/200204080UTA.html
+Mon Apr 8 2002,Seattle SuperSonics,Los Angeles Clippers,102,100,KeyArena at Seattle Center,17072,/boxscores/200204080SEA.html
+Mon Apr 8 2002,Golden State Warriors,Minnesota Timberwolves,93,100,The Arena in Oakland,13261,/boxscores/200204080GSW.html
+Tue Apr 9 2002,Toronto Raptors,Charlotte Hornets,84,80,Air Canada Centre,19800,/boxscores/200204090TOR.html
+Tue Apr 9 2002,Miami Heat,Houston Rockets,120,117,AmericanAirlines Arena,15223,/boxscores/200204090MIA.html
+Tue Apr 9 2002,New Jersey Nets,Washington Wizards,101,88,Continental Airlines Arena,18554,/boxscores/200204090NJN.html
+Tue Apr 9 2002,New York Knicks,Orlando Magic,97,108,Madison Square Garden (IV),19763,/boxscores/200204090NYK.html
+Tue Apr 9 2002,Memphis Grizzlies,Denver Nuggets,97,86,Pyramid Arena,11208,/boxscores/200204090MEM.html
+Tue Apr 9 2002,Milwaukee Bucks,Philadelphia 76ers,90,92,Bradley Center,18717,/boxscores/200204090MIL.html
+Tue Apr 9 2002,Dallas Mavericks,Portland Trail Blazers,108,96,American Airlines Center,20110,/boxscores/200204090DAL.html
+Tue Apr 9 2002,Phoenix Suns,Seattle SuperSonics,99,92,America West Arena,16667,/boxscores/200204090PHO.html
+Tue Apr 9 2002,Los Angeles Lakers,Utah Jazz,112,82,STAPLES Center,18997,/boxscores/200204090LAL.html
+Tue Apr 9 2002,Sacramento Kings,Minnesota Timberwolves,122,103,ARCO Arena (II),17317,/boxscores/200204090SAC.html
+Wed Apr 10 2002,Charlotte Hornets,Atlanta Hawks,95,101,Charlotte Coliseum,10306,/boxscores/200204100CHH.html
+Wed Apr 10 2002,Cleveland Cavaliers,Milwaukee Bucks,106,81,Gund Arena,13824,/boxscores/200204100CLE.html
+Wed Apr 10 2002,Washington Wizards,Philadelphia 76ers,90,77,MCI Center,20674,/boxscores/200204100WAS.html
+Wed Apr 10 2002,Detroit Pistons,Chicago Bulls,101,102,The Palace of Auburn Hills,18598,/boxscores/200204100DET.html
+Wed Apr 10 2002,Boston Celtics,Miami Heat,70,65,FleetCenter,14859,/boxscores/200204100BOS.html
+Wed Apr 10 2002,Indiana Pacers,Toronto Raptors,98,82,Conseco Fieldhouse,16337,/boxscores/200204100IND.html
+Wed Apr 10 2002,San Antonio Spurs,Denver Nuggets,87,79,Alamodome,19893,/boxscores/200204100SAS.html
+Wed Apr 10 2002,Golden State Warriors,Sacramento Kings,116,118,The Arena in Oakland,16232,/boxscores/200204100GSW.html
+Thu Apr 11 2002,New York Knicks,Chicago Bulls,101,104,Madison Square Garden (IV),19763,/boxscores/200204110NYK.html
+Thu Apr 11 2002,Memphis Grizzlies,Portland Trail Blazers,102,99,Pyramid Arena,13248,/boxscores/200204110MEM.html
+Thu Apr 11 2002,Orlando Magic,New Jersey Nets,99,101,TD Waterhouse Centre,16549,/boxscores/200204110ORL.html
+Thu Apr 11 2002,Dallas Mavericks,Houston Rockets,95,98,American Airlines Center,20098,/boxscores/200204110DAL.html
+Thu Apr 11 2002,Phoenix Suns,Utah Jazz,96,97,America West Arena,17158,/boxscores/200204110PHO.html
+Thu Apr 11 2002,Los Angeles Lakers,Minnesota Timberwolves,96,83,STAPLES Center,18997,/boxscores/200204110LAL.html
+Fri Apr 12 2002,Philadelphia 76ers,Washington Wizards,100,91,First Union Center,20823,/boxscores/200204120PHI.html
+Fri Apr 12 2002,Toronto Raptors,Atlanta Hawks,112,73,Air Canada Centre,19800,/boxscores/200204120TOR.html
+Fri Apr 12 2002,Boston Celtics,New York Knicks,107,92,FleetCenter,18624,/boxscores/200204120BOS.html
+Fri Apr 12 2002,Charlotte Hornets,Cleveland Cavaliers,112,100,Charlotte Coliseum,12564,/boxscores/200204120CHH.html
+Fri Apr 12 2002,Miami Heat,Orlando Magic,99,94,AmericanAirlines Arena,16500,/boxscores/200204120MIA.html
+Fri Apr 12 2002,Detroit Pistons,San Antonio Spurs,86,96,The Palace of Auburn Hills,22076,/boxscores/200204120DET.html
+Fri Apr 12 2002,Indiana Pacers,Milwaukee Bucks,112,107,Conseco Fieldhouse,18345,/boxscores/200204120IND.html
+Fri Apr 12 2002,Houston Rockets,Portland Trail Blazers,79,80,Compaq Center,12316,/boxscores/200204120HOU.html
+Fri Apr 12 2002,Denver Nuggets,Golden State Warriors,97,89,Pepsi Center,17154,/boxscores/200204120DEN.html
+Fri Apr 12 2002,Los Angeles Clippers,Sacramento Kings,106,125,STAPLES Center,19818,/boxscores/200204120LAC.html
+Sat Apr 13 2002,Atlanta Hawks,Cleveland Cavaliers,128,123,Philips Arena,15282,/boxscores/200204130ATL.html
+Sat Apr 13 2002,Memphis Grizzlies,San Antonio Spurs,92,113,Pyramid Arena,19405,/boxscores/200204130MEM.html
+Sat Apr 13 2002,Seattle SuperSonics,Dallas Mavericks,99,116,KeyArena at Seattle Center,17072,/boxscores/200204130SEA.html
+Sat Apr 13 2002,Chicago Bulls,Detroit Pistons,106,124,United Center,22656,/boxscores/200204130CHI.html
+Sat Apr 13 2002,Denver Nuggets,Phoenix Suns,98,94,Pepsi Center,16807,/boxscores/200204130DEN.html
+Sat Apr 13 2002,Golden State Warriors,Utah Jazz,101,109,The Arena in Oakland,14196,/boxscores/200204130GSW.html
+Sat Apr 13 2002,Los Angeles Clippers,Minnesota Timberwolves,98,101,STAPLES Center,19567,/boxscores/200204130LAC.html
+Sun Apr 14 2002,Orlando Magic,Philadelphia 76ers,89,95,TD Waterhouse Centre,17248,/boxscores/200204140ORL.html
+Sun Apr 14 2002,Washington Wizards,Indiana Pacers,80,86,MCI Center,20674,/boxscores/200204140WAS.html
+Sun Apr 14 2002,Milwaukee Bucks,Charlotte Hornets,98,91,Bradley Center,18717,/boxscores/200204140MIL.html
+Sun Apr 14 2002,Portland Trail Blazers,Los Angeles Lakers,128,120,Rose Garden Arena,20580,/boxscores/200204140POR.html
+Sun Apr 14 2002,Toronto Raptors,New Jersey Nets,101,82,Air Canada Centre,19800,/boxscores/200204140TOR.html
+Sun Apr 14 2002,Miami Heat,New York Knicks,67,94,AmericanAirlines Arena,16500,/boxscores/200204140MIA.html
+Sun Apr 14 2002,Houston Rockets,Memphis Grizzlies,95,98,Compaq Center,10893,/boxscores/200204140HOU.html
+Sun Apr 14 2002,Sacramento Kings,Dallas Mavericks,100,113,ARCO Arena (II),17317,/boxscores/200204140SAC.html
+Mon Apr 15 2002,Philadelphia 76ers,Chicago Bulls,96,98,First Union Center,20801,/boxscores/200204150PHI.html
+Mon Apr 15 2002,Minnesota Timberwolves,Boston Celtics,90,93,Target Center,17009,/boxscores/200204150MIN.html
+Mon Apr 15 2002,Los Angeles Lakers,Seattle SuperSonics,111,104,STAPLES Center,18997,/boxscores/200204150LAL.html
+Tue Apr 16 2002,Cleveland Cavaliers,Indiana Pacers,95,99,Gund Arena,16591,/boxscores/200204160CLE.html
+Tue Apr 16 2002,Washington Wizards,New York Knicks,116,112,MCI Center,20674,/boxscores/200204160WAS.html
+Tue Apr 16 2002,Atlanta Hawks,Orlando Magic,95,102,Philips Arena,13931,/boxscores/200204160ATL.html
+Tue Apr 16 2002,Miami Heat,Charlotte Hornets,81,88,AmericanAirlines Arena,15469,/boxscores/200204160MIA.html
+Tue Apr 16 2002,Milwaukee Bucks,Toronto Raptors,105,89,Bradley Center,17086,/boxscores/200204160MIL.html
+Tue Apr 16 2002,New Jersey Nets,Detroit Pistons,98,103,Continental Airlines Arena,15084,/boxscores/200204160NJN.html
+Tue Apr 16 2002,Dallas Mavericks,Utah Jazz,96,87,American Airlines Center,20068,/boxscores/200204160DAL.html
+Tue Apr 16 2002,San Antonio Spurs,Phoenix Suns,95,71,Alamodome,30186,/boxscores/200204160SAS.html
+Tue Apr 16 2002,Denver Nuggets,Houston Rockets,101,70,Pepsi Center,15717,/boxscores/200204160DEN.html
+Tue Apr 16 2002,Sacramento Kings,Golden State Warriors,120,106,ARCO Arena (II),17317,/boxscores/200204160SAC.html
+Tue Apr 16 2002,Los Angeles Clippers,Memphis Grizzlies,92,84,STAPLES Center,20264,/boxscores/200204160LAC.html
+Wed Apr 17 2002,Boston Celtics,Atlanta Hawks,89,81,FleetCenter,17576,/boxscores/200204170BOS.html
+Wed Apr 17 2002,Charlotte Hornets,Chicago Bulls,112,106,Charlotte Coliseum,10565,/boxscores/200204170CHH.html
+Wed Apr 17 2002,Toronto Raptors,Cleveland Cavaliers,103,85,Air Canada Centre,19800,/boxscores/200204170TOR.html
+Wed Apr 17 2002,Detroit Pistons,Milwaukee Bucks,123,89,The Palace of Auburn Hills,19473,/boxscores/200204170DET.html
+Wed Apr 17 2002,New York Knicks,New Jersey Nets,94,99,Madison Square Garden (IV),19763,/boxscores/200204170NYK.html
+Wed Apr 17 2002,Orlando Magic,Miami Heat,89,103,TD Waterhouse Centre,16510,/boxscores/200204170ORL.html
+Wed Apr 17 2002,Indiana Pacers,Philadelphia 76ers,103,80,Conseco Fieldhouse,18345,/boxscores/200204170IND.html
+Wed Apr 17 2002,Minnesota Timberwolves,Denver Nuggets,104,90,Target Center,16779,/boxscores/200204170MIN.html
+Wed Apr 17 2002,Utah Jazz,San Antonio Spurs,84,86,Delta Center,19490,/boxscores/200204170UTA.html
+Wed Apr 17 2002,Phoenix Suns,Dallas Mavericks,89,76,America West Arena,19023,/boxscores/200204170PHO.html
+Wed Apr 17 2002,Portland Trail Blazers,Houston Rockets,92,79,Rose Garden Arena,19993,/boxscores/200204170POR.html
+Wed Apr 17 2002,Seattle SuperSonics,Memphis Grizzlies,109,94,KeyArena at Seattle Center,17072,/boxscores/200204170SEA.html
+Wed Apr 17 2002,Golden State Warriors,Los Angeles Clippers,107,103,The Arena in Oakland,16371,/boxscores/200204170GSW.html
+Wed Apr 17 2002,Los Angeles Lakers,Sacramento Kings,109,95,STAPLES Center,18997,/boxscores/200204170LAL.html
+Sat Apr 20 2002,New Jersey Nets,Indiana Pacers,83,89,Continental Airlines Arena,18555,/boxscores/200204200NJN.html
+Sat Apr 20 2002,Sacramento Kings,Utah Jazz,89,86,ARCO Arena (II),17317,/boxscores/200204200SAC.html
+Sat Apr 20 2002,San Antonio Spurs,Seattle SuperSonics,110,89,Alamodome,23634,/boxscores/200204200SAS.html
+Sat Apr 20 2002,Charlotte Hornets,Orlando Magic,80,79,Charlotte Coliseum,9505,/boxscores/200204200CHH.html
+Sun Apr 21 2002,Boston Celtics,Philadelphia 76ers,92,82,FleetCenter,18624,/boxscores/200204210BOS.html
+Sun Apr 21 2002,Dallas Mavericks,Minnesota Timberwolves,101,94,American Airlines Center,20010,/boxscores/200204210DAL.html
+Sun Apr 21 2002,Los Angeles Lakers,Portland Trail Blazers,95,87,STAPLES Center,18997,/boxscores/200204210LAL.html
+Sun Apr 21 2002,Detroit Pistons,Toronto Raptors,85,63,The Palace of Auburn Hills,22076,/boxscores/200204210DET.html
+Mon Apr 22 2002,New Jersey Nets,Indiana Pacers,95,79,Continental Airlines Arena,20049,/boxscores/200204220NJN.html
+Mon Apr 22 2002,San Antonio Spurs,Seattle SuperSonics,90,98,Alamodome,23059,/boxscores/200204220SAS.html
+Tue Apr 23 2002,Charlotte Hornets,Orlando Magic,103,111,Charlotte Coliseum,10323,/boxscores/200204230CHH.html
+Tue Apr 23 2002,Sacramento Kings,Utah Jazz,86,93,ARCO Arena (II),17317,/boxscores/200204230SAC.html
+Wed Apr 24 2002,Detroit Pistons,Toronto Raptors,96,91,The Palace of Auburn Hills,22076,/boxscores/200204240DET.html
+Wed Apr 24 2002,Dallas Mavericks,Minnesota Timberwolves,122,110,American Airlines Center,20084,/boxscores/200204240DAL.html
+Thu Apr 25 2002,Boston Celtics,Philadelphia 76ers,93,85,FleetCenter,18624,/boxscores/200204250BOS.html
+Thu Apr 25 2002,Los Angeles Lakers,Portland Trail Blazers,103,96,STAPLES Center,18997,/boxscores/200204250LAL.html
+Fri Apr 26 2002,Indiana Pacers,New Jersey Nets,84,85,Conseco Fieldhouse,18345,/boxscores/200204260IND.html
+Sat Apr 27 2002,Orlando Magic,Charlotte Hornets,100,110,TD Waterhouse Centre,16754,/boxscores/200204270ORL.html
+Sat Apr 27 2002,Utah Jazz,Sacramento Kings,87,90,Delta Center,19911,/boxscores/200204270UTA.html
+Sat Apr 27 2002,Seattle SuperSonics,San Antonio Spurs,75,102,KeyArena at Seattle Center,17072,/boxscores/200204270SEA.html
+Sat Apr 27 2002,Toronto Raptors,Detroit Pistons,94,84,Air Canada Centre,20138,/boxscores/200204270TOR.html
+Sun Apr 28 2002,Philadelphia 76ers,Boston Celtics,108,103,First Union Center,20689,/boxscores/200204280PHI.html
+Sun Apr 28 2002,Minnesota Timberwolves,Dallas Mavericks,102,115,Target Center,18795,/boxscores/200204280MIN.html
+Sun Apr 28 2002,Portland Trail Blazers,Los Angeles Lakers,91,92,Rose Garden Arena,20580,/boxscores/200204280POR.html
+Mon Apr 29 2002,Toronto Raptors,Detroit Pistons,89,83,Air Canada Centre,20112,/boxscores/200204290TOR.html
+Mon Apr 29 2002,Utah Jazz,Sacramento Kings,86,91,Delta Center,19911,/boxscores/200204290UTA.html
+Tue Apr 30 2002,Orlando Magic,Charlotte Hornets,85,102,TD Waterhouse Centre,16254,/boxscores/200204300ORL.html
+Tue Apr 30 2002,Indiana Pacers,New Jersey Nets,97,74,Conseco Fieldhouse,18345,/boxscores/200204300IND.html

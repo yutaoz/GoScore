@@ -1,0 +1,141 @@
+Thu Jan 1 1976,Portland Trail Blazers,Houston Rockets,107,110,Memorial Coliseum,0,/boxscores/197601010POR.html
+Thu Jan 1 1976,Washington Bullets,Phoenix Suns,114,103,Capital Centre,0,/boxscores/197601010WSB.html
+Fri Jan 2 1976,Buffalo Braves,New York Knicks,106,105,Buffalo Memorial Auditorium,0,/boxscores/197601020BUF.html
+Fri Jan 2 1976,Chicago Bulls,Washington Bullets,99,107,Chicago Stadium,0,/boxscores/197601020CHI.html
+Fri Jan 2 1976,Detroit Pistons,Milwaukee Bucks,83,98,Cobo Arena,0,/boxscores/197601020DET.html
+Fri Jan 2 1976,Los Angeles Lakers,Golden State Warriors,105,113,The Forum,0,/boxscores/197601020LAL.html
+Fri Jan 2 1976,New Orleans Jazz,Atlanta Hawks,111,95,Louisiana Superdome,0,/boxscores/197601020NOJ.html
+Fri Jan 2 1976,Philadelphia 76ers,Cleveland Cavaliers,112,101,The Spectrum,0,/boxscores/197601020PHI.html
+Fri Jan 2 1976,Seattle SuperSonics,Boston Celtics,98,102,Seattle Center Coliseum,0,/boxscores/197601020SEA.html
+Sat Jan 3 1976,Atlanta Hawks,Phoenix Suns,89,100,Omni Coliseum,0,/boxscores/197601030ATL.html
+Sat Jan 3 1976,Cleveland Cavaliers,Detroit Pistons,100,104,Coliseum at Richfield,0,/boxscores/197601030CLE.html
+Sat Jan 3 1976,Golden State Warriors,Los Angeles Lakers,130,99,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601030GSW.html
+Sat Jan 3 1976,Milwaukee Bucks,Houston Rockets,126,101,MECCA Arena,0,/boxscores/197601030MIL.html
+Sat Jan 3 1976,New Orleans Jazz,Kansas City Kings,120,95,Louisiana Superdome,0,/boxscores/197601030NOJ.html
+Sat Jan 3 1976,New York Knicks,Buffalo Braves,107,106,Madison Square Garden (IV),0,/boxscores/197601030NYK.html
+Sat Jan 3 1976,Portland Trail Blazers,Boston Celtics,125,97,Memorial Coliseum,0,/boxscores/197601030POR.html
+Sat Jan 3 1976,Washington Bullets,Philadelphia 76ers,119,104,Capital Centre,0,/boxscores/197601030WSB.html
+Sun Jan 4 1976,Kansas City Kings,Phoenix Suns,98,86,Kemper Arena,0,/boxscores/197601040KCK.html
+Sun Jan 4 1976,Los Angeles Lakers,Portland Trail Blazers,110,101,The Forum,0,/boxscores/197601040LAL.html
+Sun Jan 4 1976,Seattle SuperSonics,Golden State Warriors,97,85,Seattle Center Coliseum,0,/boxscores/197601040SEA.html
+Mon Jan 5 1976,Chicago Bulls,Houston Rockets,98,97,Chicago Stadium,0,/boxscores/197601050CHI.html
+Tue Jan 6 1976,Buffalo Braves,Los Angeles Lakers,114,113,Buffalo Memorial Auditorium,0,/boxscores/197601060BUF.html
+Tue Jan 6 1976,Chicago Bulls,New Orleans Jazz,98,104,Chicago Stadium,0,/boxscores/197601060CHI.html
+Tue Jan 6 1976,Kansas City Kings,Washington Bullets,98,103,Kemper Arena,0,/boxscores/197601060KCK.html
+Tue Jan 6 1976,Milwaukee Bucks,Atlanta Hawks,87,91,MECCA Arena,0,/boxscores/197601060MIL.html
+Tue Jan 6 1976,Portland Trail Blazers,New York Knicks,97,112,Memorial Coliseum,0,/boxscores/197601060POR.html
+Wed Jan 7 1976,Boston Celtics,Los Angeles Lakers,109,103,Boston Garden,0,/boxscores/197601070BOS.html
+Wed Jan 7 1976,Detroit Pistons,Cleveland Cavaliers,119,118,Cobo Arena,0,/boxscores/197601070DET.html
+Wed Jan 7 1976,Houston Rockets,Kansas City Kings,106,108,The Summit,0,/boxscores/197601070HOU.html
+Wed Jan 7 1976,Philadelphia 76ers,Milwaukee Bucks,112,102,The Spectrum,0,/boxscores/197601070PHI.html
+Wed Jan 7 1976,Phoenix Suns,Golden State Warriors,110,114,Arizona Veterans Memorial Coliseum,0,/boxscores/197601070PHO.html
+Wed Jan 7 1976,Seattle SuperSonics,New York Knicks,91,89,Seattle Center Coliseum,0,/boxscores/197601070SEA.html
+Thu Jan 8 1976,Atlanta Hawks,Houston Rockets,106,115,Omni Coliseum,0,/boxscores/197601080ATL.html
+Thu Jan 8 1976,Cleveland Cavaliers,Philadelphia 76ers,115,105,Coliseum at Richfield,0,/boxscores/197601080CLE.html
+Thu Jan 8 1976,Golden State Warriors,Phoenix Suns,129,113,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601080GSW.html
+Thu Jan 8 1976,Kansas City Kings,New Orleans Jazz,97,107,Kemper Arena,0,/boxscores/197601080KCK.html
+Fri Jan 9 1976,Boston Celtics,Washington Bullets,118,113,Boston Garden,0,/boxscores/197601090BOS.html
+Fri Jan 9 1976,Buffalo Braves,Chicago Bulls,100,107,Buffalo Memorial Auditorium,0,/boxscores/197601090BUF.html
+Fri Jan 9 1976,Milwaukee Bucks,Detroit Pistons,102,95,MECCA Arena,0,/boxscores/197601090MIL.html
+Fri Jan 9 1976,Philadelphia 76ers,Los Angeles Lakers,109,106,The Spectrum,0,/boxscores/197601090PHI.html
+Fri Jan 9 1976,Phoenix Suns,Seattle SuperSonics,110,112,Arizona Veterans Memorial Coliseum,0,/boxscores/197601090PHO.html
+Sat Jan 10 1976,Atlanta Hawks,Cleveland Cavaliers,100,106,Omni Coliseum,0,/boxscores/197601100ATL.html
+Sat Jan 10 1976,Chicago Bulls,Kansas City Kings,111,84,Chicago Stadium,0,/boxscores/197601100CHI.html
+Sat Jan 10 1976,Detroit Pistons,New Orleans Jazz,99,104,Cobo Arena,0,/boxscores/197601100DET.html
+Sat Jan 10 1976,Golden State Warriors,New York Knicks,117,87,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601100GSW.html
+Sat Jan 10 1976,Houston Rockets,Portland Trail Blazers,105,94,The Summit,0,/boxscores/197601100HOU.html
+Sat Jan 10 1976,Washington Bullets,Milwaukee Bucks,107,87,Capital Centre,0,/boxscores/197601100WSB.html
+Sun Jan 11 1976,Atlanta Hawks,Portland Trail Blazers,109,116,Omni Coliseum,0,/boxscores/197601110ATL.html
+Sun Jan 11 1976,Cleveland Cavaliers,Washington Bullets,106,104,Coliseum at Richfield,0,/boxscores/197601110CLE.html
+Sun Jan 11 1976,Kansas City Kings,Detroit Pistons,105,99,Kemper Arena,0,/boxscores/197601110KCK.html
+Sun Jan 11 1976,Milwaukee Bucks,Los Angeles Lakers,95,89,MECCA Arena,0,/boxscores/197601110MIL.html
+Sun Jan 11 1976,Philadelphia 76ers,Boston Celtics,118,107,The Spectrum,0,/boxscores/197601110PHI.html
+Sun Jan 11 1976,Phoenix Suns,New York Knicks,98,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197601110PHO.html
+Sun Jan 11 1976,Seattle SuperSonics,Buffalo Braves,104,125,Seattle Center Coliseum,0,/boxscores/197601110SEA.html
+Tue Jan 13 1976,Boston Celtics,Portland Trail Blazers,106,94,Hartford Civic Center,0,/boxscores/197601130BOS.html
+Tue Jan 13 1976,Chicago Bulls,Los Angeles Lakers,102,104,Chicago Stadium,0,/boxscores/197601130CHI.html
+Tue Jan 13 1976,Golden State Warriors,Buffalo Braves,127,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601130GSW.html
+Tue Jan 13 1976,Milwaukee Bucks,Seattle SuperSonics,114,108,MECCA Arena,0,/boxscores/197601130MIL.html
+Wed Jan 14 1976,Atlanta Hawks,Seattle SuperSonics,110,112,Omni Coliseum,0,/boxscores/197601140ATL.html
+Wed Jan 14 1976,Houston Rockets,New York Knicks,103,107,The Summit,0,/boxscores/197601140HOU.html
+Wed Jan 14 1976,Kansas City Kings,Boston Celtics,106,101,Kemper Arena,0,/boxscores/197601140KCK.html
+Wed Jan 14 1976,Philadelphia 76ers,New Orleans Jazz,100,95,The Spectrum,0,/boxscores/197601140PHI.html
+Wed Jan 14 1976,Washington Bullets,Cleveland Cavaliers,92,88,Capital Centre,0,/boxscores/197601140WSB.html
+Thu Jan 15 1976,Cleveland Cavaliers,Atlanta Hawks,91,98,Coliseum at Richfield,0,/boxscores/197601150CLE.html
+Thu Jan 15 1976,Phoenix Suns,Buffalo Braves,119,126,Arizona Veterans Memorial Coliseum,0,/boxscores/197601150PHO.html
+Fri Jan 16 1976,Boston Celtics,Philadelphia 76ers,118,110,Boston Garden,0,/boxscores/197601160BOS.html
+Fri Jan 16 1976,Chicago Bulls,Buffalo Braves,104,110,Chicago Stadium,0,/boxscores/197601160CHI.html
+Fri Jan 16 1976,Detroit Pistons,Portland Trail Blazers,104,111,Cobo Arena,0,/boxscores/197601160DET.html
+Fri Jan 16 1976,Houston Rockets,Golden State Warriors,103,128,The Summit,0,/boxscores/197601160HOU.html
+Fri Jan 16 1976,Kansas City Kings,New York Knicks,90,102,Kemper Arena,0,/boxscores/197601160KCK.html
+Fri Jan 16 1976,Milwaukee Bucks,New Orleans Jazz,92,94,MECCA Arena,0,/boxscores/197601160MIL.html
+Fri Jan 16 1976,Washington Bullets,Seattle SuperSonics,100,85,Capital Centre,0,/boxscores/197601160WSB.html
+Sat Jan 17 1976,Atlanta Hawks,Golden State Warriors,97,91,Omni Coliseum,0,/boxscores/197601170ATL.html
+Sat Jan 17 1976,Buffalo Braves,Seattle SuperSonics,110,101,Buffalo Memorial Auditorium,0,/boxscores/197601170BUF.html
+Sat Jan 17 1976,Chicago Bulls,Boston Celtics,92,94,Chicago Stadium,0,/boxscores/197601170CHI.html
+Sat Jan 17 1976,Cleveland Cavaliers,Phoenix Suns,105,85,Coliseum at Richfield,0,/boxscores/197601170CLE.html
+Sat Jan 17 1976,Houston Rockets,New Orleans Jazz,97,103,The Summit,0,/boxscores/197601170HOU.html
+Sat Jan 17 1976,Kansas City Kings,Portland Trail Blazers,94,102,Omaha Civic Auditorium,0,/boxscores/197601170KCK.html
+Sat Jan 17 1976,Washington Bullets,Philadelphia 76ers,105,103,Capital Centre,0,/boxscores/197601170WSB.html
+Sun Jan 18 1976,Detroit Pistons,Phoenix Suns,118,122,Cobo Arena,0,/boxscores/197601180DET.html
+Sun Jan 18 1976,Milwaukee Bucks,Boston Celtics,94,97,MECCA Arena,0,/boxscores/197601180MIL.html
+Mon Jan 19 1976,Houston Rockets,Washington Bullets,115,96,The Summit,0,/boxscores/197601190HOU.html
+Tue Jan 20 1976,Buffalo Braves,Phoenix Suns,112,103,Buffalo Memorial Auditorium,0,/boxscores/197601200BUF.html
+Tue Jan 20 1976,Chicago Bulls,Atlanta Hawks,86,100,Chicago Stadium,0,/boxscores/197601200CHI.html
+Tue Jan 20 1976,Cleveland Cavaliers,Boston Celtics,98,85,Coliseum at Richfield,0,/boxscores/197601200CLE.html
+Tue Jan 20 1976,Kansas City Kings,Golden State Warriors,103,116,Kemper Arena,0,/boxscores/197601200KCK.html
+Tue Jan 20 1976,Milwaukee Bucks,Philadelphia 76ers,108,111,MECCA Arena,0,/boxscores/197601200MIL.html
+Tue Jan 20 1976,New York Knicks,Portland Trail Blazers,107,104,Madison Square Garden (IV),0,/boxscores/197601200NYK.html
+Tue Jan 20 1976,Washington Bullets,Detroit Pistons,107,114,Capital Centre,0,/boxscores/197601200WSB.html
+Wed Jan 21 1976,Atlanta Hawks,Buffalo Braves,94,102,Omni Coliseum,0,/boxscores/197601210ATL.html
+Wed Jan 21 1976,Boston Celtics,Phoenix Suns,114,100,Boston Garden,0,/boxscores/197601210BOS.html
+Wed Jan 21 1976,Detroit Pistons,Seattle SuperSonics,111,104,Cobo Arena,0,/boxscores/197601210DET.html
+Wed Jan 21 1976,New Orleans Jazz,Chicago Bulls,93,102,Louisiana Superdome,0,/boxscores/197601210NOJ.html
+Thu Jan 22 1976,Cleveland Cavaliers,Seattle SuperSonics,109,99,Coliseum at Richfield,0,/boxscores/197601220CLE.html
+Thu Jan 22 1976,Golden State Warriors,Los Angeles Lakers,129,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601220GSW.html
+Thu Jan 22 1976,Washington Bullets,New Orleans Jazz,109,86,Capital Centre,0,/boxscores/197601220WSB.html
+Fri Jan 23 1976,Boston Celtics,Detroit Pistons,108,91,Boston Garden,0,/boxscores/197601230BOS.html
+Fri Jan 23 1976,Buffalo Braves,Atlanta Hawks,119,104,Buffalo Memorial Auditorium,0,/boxscores/197601230BUF.html
+Fri Jan 23 1976,Milwaukee Bucks,Kansas City Kings,113,97,MECCA Arena,0,/boxscores/197601230MIL.html
+Fri Jan 23 1976,New York Knicks,Philadelphia 76ers,104,92,Madison Square Garden (IV),0,/boxscores/197601230NYK.html
+Fri Jan 23 1976,Phoenix Suns,Houston Rockets,124,115,Arizona Veterans Memorial Coliseum,0,/boxscores/197601230PHO.html
+Fri Jan 23 1976,Portland Trail Blazers,Los Angeles Lakers,119,96,Memorial Coliseum,0,/boxscores/197601230POR.html
+Sat Jan 24 1976,Cleveland Cavaliers,Milwaukee Bucks,132,89,Coliseum at Richfield,0,/boxscores/197601240CLE.html
+Sat Jan 24 1976,Detroit Pistons,New York Knicks,100,117,Cobo Arena,0,/boxscores/197601240DET.html
+Sat Jan 24 1976,Golden State Warriors,Portland Trail Blazers,123,125,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601240GSW.html
+Sat Jan 24 1976,Houston Rockets,Seattle SuperSonics,110,103,The Summit,0,/boxscores/197601240HOU.html
+Sat Jan 24 1976,Philadelphia 76ers,Atlanta Hawks,130,116,The Spectrum,0,/boxscores/197601240PHI.html
+Sat Jan 24 1976,Phoenix Suns,Washington Bullets,84,100,Arizona Veterans Memorial Coliseum,0,/boxscores/197601240PHO.html
+Sun Jan 25 1976,Atlanta Hawks,Philadelphia 76ers,109,112,Omni Coliseum,0,/boxscores/197601250ATL.html
+Sun Jan 25 1976,Boston Celtics,Buffalo Braves,135,107,Boston Garden,0,/boxscores/197601250BOS.html
+Sun Jan 25 1976,Kansas City Kings,Chicago Bulls,118,110,Kemper Arena,0,/boxscores/197601250KCK.html
+Sun Jan 25 1976,Los Angeles Lakers,Washington Bullets,101,105,The Forum,0,/boxscores/197601250LAL.html
+Mon Jan 26 1976,Milwaukee Bucks,Golden State Warriors,104,115,MECCA Arena,0,/boxscores/197601260MIL.html
+Tue Jan 27 1976,Buffalo Braves,New Orleans Jazz,129,105,Buffalo Memorial Auditorium,0,/boxscores/197601270BUF.html
+Tue Jan 27 1976,Chicago Bulls,Golden State Warriors,110,103,Chicago Stadium,0,/boxscores/197601270CHI.html
+Tue Jan 27 1976,Cleveland Cavaliers,Detroit Pistons,85,83,Coliseum at Richfield,0,/boxscores/197601270CLE.html
+Tue Jan 27 1976,Houston Rockets,Philadelphia 76ers,127,116,The Summit,0,/boxscores/197601270HOU.html
+Tue Jan 27 1976,Kansas City Kings,Milwaukee Bucks,107,89,Kemper Arena,0,/boxscores/197601270KCK.html
+Tue Jan 27 1976,New York Knicks,Atlanta Hawks,113,114,Madison Square Garden (IV),0,/boxscores/197601270NYK.html
+Tue Jan 27 1976,Portland Trail Blazers,Washington Bullets,118,105,Memorial Coliseum,0,/boxscores/197601270POR.html
+Wed Jan 28 1976,Boston Celtics,Atlanta Hawks,110,99,Boston Garden,0,/boxscores/197601280BOS.html
+Wed Jan 28 1976,Detroit Pistons,Chicago Bulls,84,87,Cobo Arena,0,/boxscores/197601280DET.html
+Wed Jan 28 1976,Houston Rockets,Cleveland Cavaliers,108,93,The Summit,0,/boxscores/197601280HOU.html
+Wed Jan 28 1976,Los Angeles Lakers,Phoenix Suns,121,118,The Forum,0,/boxscores/197601280LAL.html
+Wed Jan 28 1976,New Orleans Jazz,Buffalo Braves,112,126,Louisiana Superdome,0,/boxscores/197601280NOJ.html
+Wed Jan 28 1976,Portland Trail Blazers,Seattle SuperSonics,124,104,Memorial Coliseum,0,/boxscores/197601280POR.html
+Thu Jan 29 1976,Atlanta Hawks,New York Knicks,112,109,Omni Coliseum,0,/boxscores/197601290ATL.html
+Thu Jan 29 1976,Golden State Warriors,Philadelphia 76ers,123,114,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601290GSW.html
+Thu Jan 29 1976,Kansas City Kings,Houston Rockets,119,86,Kemper Arena,0,/boxscores/197601290KCK.html
+Thu Jan 29 1976,Phoenix Suns,Milwaukee Bucks,96,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197601290PHO.html
+Fri Jan 30 1976,Chicago Bulls,Cleveland Cavaliers,89,91,Chicago Stadium,0,/boxscores/197601300CHI.html
+Fri Jan 30 1976,Detroit Pistons,Kansas City Kings,101,94,Cobo Arena,0,/boxscores/197601300DET.html
+Fri Jan 30 1976,Los Angeles Lakers,Portland Trail Blazers,113,121,The Forum,0,/boxscores/197601300LAL.html
+Fri Jan 30 1976,New Orleans Jazz,New York Knicks,119,97,Louisiana Superdome,0,/boxscores/197601300NOJ.html
+Fri Jan 30 1976,Seattle SuperSonics,Washington Bullets,123,100,Seattle Center Coliseum,0,/boxscores/197601300SEA.html
+Sat Jan 31 1976,Atlanta Hawks,New Orleans Jazz,95,108,Omni Coliseum,0,/boxscores/197601310ATL.html
+Sat Jan 31 1976,Buffalo Braves,Boston Celtics,100,109,Buffalo Memorial Auditorium,0,/boxscores/197601310BUF.html
+Sat Jan 31 1976,Chicago Bulls,Kansas City Kings,96,104,Chicago Stadium,0,/boxscores/197601310CHI.html
+Sat Jan 31 1976,Golden State Warriors,Milwaukee Bucks,90,88,Oakland-Alameda County Coliseum Arena,0,/boxscores/197601310GSW.html
+Sat Jan 31 1976,New York Knicks,Houston Rockets,114,130,Madison Square Garden (IV),0,/boxscores/197601310NYK.html
+Sat Jan 31 1976,Phoenix Suns,Philadelphia 76ers,119,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197601310PHO.html

@@ -1,0 +1,34 @@
+Mon May 1 2023,Boston Celtics,Philadelphia 76ers,115,119,TD Garden,19156,/boxscores/202305010BOS.html
+Mon May 1 2023,Denver Nuggets,Phoenix Suns,97,87,Ball Arena,19592,/boxscores/202305010DEN.html
+Tue May 2 2023,New York Knicks,Miami Heat,111,105,Madison Square Garden (IV),19812,/boxscores/202305020NYK.html
+Tue May 2 2023,Golden State Warriors,Los Angeles Lakers,112,117,Chase Center,18064,/boxscores/202305020GSW.html
+Wed May 3 2023,Boston Celtics,Philadelphia 76ers,121,87,TD Garden,19156,/boxscores/202305030BOS.html
+Thu May 4 2023,Golden State Warriors,Los Angeles Lakers,127,100,Chase Center,18064,/boxscores/202305040GSW.html
+Fri May 5 2023,Philadelphia 76ers,Boston Celtics,102,114,Wells Fargo Center,21290,/boxscores/202305050PHI.html
+Fri May 5 2023,Phoenix Suns,Denver Nuggets,121,114,Footprint Center,17071,/boxscores/202305050PHO.html
+Sat May 6 2023,Miami Heat,New York Knicks,105,86,Kaseya Center,19927,/boxscores/202305060MIA.html
+Sat May 6 2023,Los Angeles Lakers,Golden State Warriors,127,97,Crypto.com Arena,18997,/boxscores/202305060LAL.html
+Sun May 7 2023,Philadelphia 76ers,Boston Celtics,116,115,Wells Fargo Center,21264,/boxscores/202305070PHI.html
+Sun May 7 2023,Phoenix Suns,Denver Nuggets,129,124,Footprint Center,17071,/boxscores/202305070PHO.html
+Mon May 8 2023,Miami Heat,New York Knicks,109,101,Kaseya Center,19769,/boxscores/202305080MIA.html
+Mon May 8 2023,Los Angeles Lakers,Golden State Warriors,104,101,Crypto.com Arena,18997,/boxscores/202305080LAL.html
+Tue May 9 2023,Boston Celtics,Philadelphia 76ers,103,115,TD Garden,19156,/boxscores/202305090BOS.html
+Tue May 9 2023,Denver Nuggets,Phoenix Suns,118,102,Ball Arena,19773,/boxscores/202305090DEN.html
+Wed May 10 2023,New York Knicks,Miami Heat,112,103,Madison Square Garden (IV),19812,/boxscores/202305100NYK.html
+Wed May 10 2023,Golden State Warriors,Los Angeles Lakers,121,106,Chase Center,18064,/boxscores/202305100GSW.html
+Thu May 11 2023,Philadelphia 76ers,Boston Celtics,86,95,Wells Fargo Center,21337,/boxscores/202305110PHI.html
+Thu May 11 2023,Phoenix Suns,Denver Nuggets,100,125,Footprint Center,17071,/boxscores/202305110PHO.html
+Fri May 12 2023,Miami Heat,New York Knicks,96,92,Kaseya Center,19737,/boxscores/202305120MIA.html
+Fri May 12 2023,Los Angeles Lakers,Golden State Warriors,122,101,Crypto.com Arena,18997,/boxscores/202305120LAL.html
+Sun May 14 2023,Boston Celtics,Philadelphia 76ers,112,88,TD Garden,19156,/boxscores/202305140BOS.html
+Tue May 16 2023,Denver Nuggets,Los Angeles Lakers,132,126,Ball Arena,19633,/boxscores/202305160DEN.html
+Wed May 17 2023,Boston Celtics,Miami Heat,116,123,TD Garden,19156,/boxscores/202305170BOS.html
+Thu May 18 2023,Denver Nuggets,Los Angeles Lakers,108,103,Ball Arena,19742,/boxscores/202305180DEN.html
+Fri May 19 2023,Boston Celtics,Miami Heat,105,111,TD Garden,19156,/boxscores/202305190BOS.html
+Sat May 20 2023,Los Angeles Lakers,Denver Nuggets,108,119,Crypto.com Arena,18997,/boxscores/202305200LAL.html
+Sun May 21 2023,Miami Heat,Boston Celtics,128,102,Kaseya Center,20088,/boxscores/202305210MIA.html
+Mon May 22 2023,Los Angeles Lakers,Denver Nuggets,111,113,Crypto.com Arena,18997,/boxscores/202305220LAL.html
+Tue May 23 2023,Miami Heat,Boston Celtics,99,116,Kaseya Center,20147,/boxscores/202305230MIA.html
+Thu May 25 2023,Boston Celtics,Miami Heat,110,97,TD Garden,19156,/boxscores/202305250BOS.html
+Sat May 27 2023,Miami Heat,Boston Celtics,103,104,Kaseya Center,20201,/boxscores/202305270MIA.html
+Mon May 29 2023,Boston Celtics,Miami Heat,84,103,TD Garden,19156,/boxscores/202305290BOS.html

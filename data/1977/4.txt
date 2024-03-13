@@ -1,0 +1,94 @@
+Fri Apr 1 1977,Los Angeles Lakers,San Antonio Spurs,107,102,The Forum,0,/boxscores/197704010LAL.html
+Fri Apr 1 1977,Milwaukee Bucks,New York Knicks,109,116,MECCA Arena,0,/boxscores/197704010MIL.html
+Fri Apr 1 1977,New Orleans Jazz,Cleveland Cavaliers,106,115,Louisiana Superdome,0,/boxscores/197704010NOJ.html
+Fri Apr 1 1977,New York Nets,Indiana Pacers,88,89,Nassau Veterans Memorial Coliseum,0,/boxscores/197704010NYN.html
+Fri Apr 1 1977,Philadelphia 76ers,Kansas City Kings,111,105,The Spectrum,0,/boxscores/197704010PHI.html
+Fri Apr 1 1977,Phoenix Suns,Detroit Pistons,133,116,Arizona Veterans Memorial Coliseum,0,/boxscores/197704010PHO.html
+Fri Apr 1 1977,Portland Trail Blazers,Golden State Warriors,109,98,Memorial Coliseum,0,/boxscores/197704010POR.html
+Fri Apr 1 1977,Washington Bullets,Houston Rockets,85,91,Capital Centre,0,/boxscores/197704010WSB.html
+Fri Apr 1 1977,Chicago Bulls,Denver Nuggets,107,97,Chicago Stadium,0,/boxscores/197704010CHI.html
+Sat Apr 2 1977,Atlanta Hawks,Indiana Pacers,99,106,Omni Coliseum,0,/boxscores/197704020ATL.html
+Sat Apr 2 1977,Houston Rockets,Cleveland Cavaliers,106,93,The Summit,0,/boxscores/197704020HOU.html
+Sat Apr 2 1977,Golden State Warriors,Seattle SuperSonics,102,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197704020GSW.html
+Sat Apr 2 1977,Buffalo Braves,Milwaukee Bucks,94,93,Buffalo Memorial Auditorium,0,/boxscores/197704020BUF.html
+Sun Apr 3 1977,Washington Bullets,New York Nets,115,97,Capital Centre,0,/boxscores/197704030WSB.html
+Sun Apr 3 1977,Seattle SuperSonics,Portland Trail Blazers,104,119,Seattle Center Coliseum,0,/boxscores/197704030SEA.html
+Sun Apr 3 1977,San Antonio Spurs,Atlanta Hawks,103,111,HemisFair Arena,0,/boxscores/197704030SAS.html
+Sun Apr 3 1977,Phoenix Suns,Denver Nuggets,109,124,Arizona Veterans Memorial Coliseum,0,/boxscores/197704030PHO.html
+Sun Apr 3 1977,New York Knicks,Buffalo Braves,130,111,Madison Square Garden (IV),0,/boxscores/197704030NYK.html
+Sun Apr 3 1977,Los Angeles Lakers,Detroit Pistons,115,107,The Forum,0,/boxscores/197704030LAL.html
+Sun Apr 3 1977,Indiana Pacers,Milwaukee Bucks,112,120,Market Square Arena,0,/boxscores/197704030IND.html
+Sun Apr 3 1977,Cleveland Cavaliers,Kansas City Kings,113,107,Coliseum at Richfield,0,/boxscores/197704030CLE.html
+Sun Apr 3 1977,Boston Celtics,Philadelphia 76ers,96,90,Boston Garden,0,/boxscores/197704030BOS.html
+Sun Apr 3 1977,New Orleans Jazz,Chicago Bulls,82,101,Louisiana Superdome,0,/boxscores/197704030NOJ.html
+Tue Apr 5 1977,Seattle SuperSonics,New York Nets,86,88,Seattle Center Coliseum,0,/boxscores/197704050SEA.html
+Tue Apr 5 1977,Portland Trail Blazers,Detroit Pistons,110,105,Memorial Coliseum,0,/boxscores/197704050POR.html
+Tue Apr 5 1977,Phoenix Suns,Atlanta Hawks,108,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197704050PHO.html
+Tue Apr 5 1977,New York Knicks,Boston Celtics,121,113,Madison Square Garden (IV),0,/boxscores/197704050NYK.html
+Tue Apr 5 1977,Kansas City Kings,Indiana Pacers,82,87,Omaha Civic Auditorium,0,/boxscores/197704050KCK.html
+Tue Apr 5 1977,Golden State Warriors,Los Angeles Lakers,132,103,Oakland-Alameda County Coliseum Arena,0,/boxscores/197704050GSW.html
+Tue Apr 5 1977,Cleveland Cavaliers,Washington Bullets,113,119,Coliseum at Richfield,0,/boxscores/197704050CLE.html
+Tue Apr 5 1977,Chicago Bulls,Buffalo Braves,91,89,Chicago Stadium,0,/boxscores/197704050CHI.html
+Tue Apr 5 1977,New Orleans Jazz,Philadelphia 76ers,109,119,Louisiana Superdome,0,/boxscores/197704050NOJ.html
+Wed Apr 6 1977,Washington Bullets,Chicago Bulls,97,96,Capital Centre,0,/boxscores/197704060WSB.html
+Wed Apr 6 1977,San Antonio Spurs,Philadelphia 76ers,131,109,HemisFair Arena,0,/boxscores/197704060SAS.html
+Wed Apr 6 1977,Denver Nuggets,Atlanta Hawks,110,95,McNichols Sports Arena,0,/boxscores/197704060DEN.html
+Wed Apr 6 1977,Buffalo Braves,New Orleans Jazz,107,102,Buffalo Memorial Auditorium,0,/boxscores/197704060BUF.html
+Wed Apr 6 1977,Boston Celtics,Houston Rockets,93,104,Boston Garden,0,/boxscores/197704060BOS.html
+Thu Apr 7 1977,Cleveland Cavaliers,Denver Nuggets,108,94,Coliseum at Richfield,0,/boxscores/197704070CLE.html
+Thu Apr 7 1977,Golden State Warriors,New York Nets,124,86,Oakland-Alameda County Coliseum Arena,0,/boxscores/197704070GSW.html
+Thu Apr 7 1977,New York Knicks,Indiana Pacers,100,114,Madison Square Garden (IV),0,/boxscores/197704070NYK.html
+Thu Apr 7 1977,Phoenix Suns,Kansas City Kings,121,110,Arizona Veterans Memorial Coliseum,0,/boxscores/197704070PHO.html
+Fri Apr 8 1977,Seattle SuperSonics,Kansas City Kings,112,105,Seattle Center Coliseum,0,/boxscores/197704080SEA.html
+Fri Apr 8 1977,Portland Trail Blazers,Phoenix Suns,122,111,Memorial Coliseum,0,/boxscores/197704080POR.html
+Fri Apr 8 1977,Milwaukee Bucks,Atlanta Hawks,118,107,MECCA Arena,0,/boxscores/197704080MIL.html
+Fri Apr 8 1977,Los Angeles Lakers,New York Nets,124,100,The Forum,0,/boxscores/197704080LAL.html
+Fri Apr 8 1977,Chicago Bulls,Houston Rockets,113,109,Chicago Stadium,0,/boxscores/197704080CHI.html
+Fri Apr 8 1977,Detroit Pistons,Philadelphia 76ers,116,112,Cobo Arena,0,/boxscores/197704080DET.html
+Fri Apr 8 1977,Boston Celtics,New Orleans Jazz,120,109,Boston Garden,0,/boxscores/197704080BOS.html
+Fri Apr 8 1977,Buffalo Braves,New York Knicks,102,104,Buffalo Memorial Auditorium,0,/boxscores/197704080BUF.html
+Sat Apr 9 1977,Boston Celtics,San Antonio Spurs,120,105,Hartford Civic Center,0,/boxscores/197704090BOS.html
+Sat Apr 9 1977,Cleveland Cavaliers,Detroit Pistons,96,103,Coliseum at Richfield,0,/boxscores/197704090CLE.html
+Sat Apr 9 1977,Golden State Warriors,Kansas City Kings,118,102,Oakland-Alameda County Coliseum Arena,0,/boxscores/197704090GSW.html
+Sat Apr 9 1977,Houston Rockets,Denver Nuggets,110,118,The Summit,0,/boxscores/197704090HOU.html
+Sat Apr 9 1977,Philadelphia 76ers,Washington Bullets,125,93,The Spectrum,0,/boxscores/197704090PHI.html
+Sat Apr 9 1977,Portland Trail Blazers,Los Angeles Lakers,145,116,Memorial Coliseum,0,/boxscores/197704090POR.html
+Sun Apr 10 1977,New Orleans Jazz,Denver Nuggets,139,125,Louisiana Superdome,0,/boxscores/197704100NOJ.html
+Sun Apr 10 1977,Washington Bullets,Philadelphia 76ers,131,121,Capital Centre,0,/boxscores/197704100WSB.html
+Sun Apr 10 1977,Seattle SuperSonics,Los Angeles Lakers,104,113,Seattle Center Coliseum,0,/boxscores/197704100SEA.html
+Sun Apr 10 1977,Phoenix Suns,New York Nets,128,104,Arizona Veterans Memorial Coliseum,0,/boxscores/197704100PHO.html
+Sun Apr 10 1977,Milwaukee Bucks,San Antonio Spurs,133,125,MECCA Arena,0,/boxscores/197704100MIL.html
+Sun Apr 10 1977,Detroit Pistons,New York Knicks,126,144,Cobo Arena,0,/boxscores/197704100DET.html
+Sun Apr 10 1977,Buffalo Braves,Chicago Bulls,99,120,Buffalo Memorial Auditorium,0,/boxscores/197704100BUF.html
+Sun Apr 10 1977,Boston Celtics,Cleveland Cavaliers,115,105,Boston Garden,0,/boxscores/197704100BOS.html
+Tue Apr 12 1977,Boston Celtics,San Antonio Spurs,104,94,Boston Garden,13505,/boxscores/197704120BOS.html
+Tue Apr 12 1977,Golden State Warriors,Detroit Pistons,90,95,Oakland-Alameda County Coliseum Arena,12459,/boxscores/197704120GSW.html
+Tue Apr 12 1977,Portland Trail Blazers,Chicago Bulls,96,83,Memorial Coliseum,12774,/boxscores/197704120POR.html
+Wed Apr 13 1977,Washington Bullets,Cleveland Cavaliers,109,100,Capital Centre,11240,/boxscores/197704130WSB.html
+Thu Apr 14 1977,Detroit Pistons,Golden State Warriors,108,138,Cobo Arena,11220,/boxscores/197704140DET.html
+Fri Apr 15 1977,San Antonio Spurs,Boston Celtics,109,113,HemisFair Arena,12067,/boxscores/197704150SAS.html
+Fri Apr 15 1977,Cleveland Cavaliers,Washington Bullets,91,83,Coliseum at Richfield,19545,/boxscores/197704150CLE.html
+Fri Apr 15 1977,Chicago Bulls,Portland Trail Blazers,107,104,Chicago Stadium,20000,/boxscores/197704150CHI.html
+Sun Apr 17 1977,Golden State Warriors,Detroit Pistons,109,101,Oakland-Alameda County Coliseum Arena,13155,/boxscores/197704170GSW.html
+Sun Apr 17 1977,Philadelphia 76ers,Boston Celtics,111,113,The Spectrum,13821,/boxscores/197704170PHI.html
+Sun Apr 17 1977,Portland Trail Blazers,Chicago Bulls,106,98,Memorial Coliseum,12520,/boxscores/197704170POR.html
+Sun Apr 17 1977,Washington Bullets,Cleveland Cavaliers,104,98,Capital Centre,10488,/boxscores/197704170WSB.html
+Tue Apr 19 1977,Houston Rockets,Washington Bullets,101,111,The Summit,15458,/boxscores/197704190HOU.html
+Wed Apr 20 1977,Denver Nuggets,Portland Trail Blazers,100,101,McNichols Sports Arena,17995,/boxscores/197704200DEN.html
+Wed Apr 20 1977,Los Angeles Lakers,Golden State Warriors,115,106,The Forum,15928,/boxscores/197704200LAL.html
+Wed Apr 20 1977,Philadelphia 76ers,Boston Celtics,113,101,The Spectrum,18276,/boxscores/197704200PHI.html
+Thu Apr 21 1977,Houston Rockets,Washington Bullets,124,118,The Summit,15676,/boxscores/197704210HOU.html
+Fri Apr 22 1977,Los Angeles Lakers,Golden State Warriors,95,86,The Forum,17505,/boxscores/197704220LAL.html
+Fri Apr 22 1977,Denver Nuggets,Portland Trail Blazers,121,110,McNichols Sports Arena,17975,/boxscores/197704220DEN.html
+Fri Apr 22 1977,Boston Celtics,Philadelphia 76ers,100,109,Boston Garden,15040,/boxscores/197704220BOS.html
+Sun Apr 24 1977,Boston Celtics,Philadelphia 76ers,124,119,Boston Garden,15040,/boxscores/197704240BOS.html
+Sun Apr 24 1977,Golden State Warriors,Los Angeles Lakers,109,105,Oakland-Alameda County Coliseum Arena,13155,/boxscores/197704240GSW.html
+Sun Apr 24 1977,Portland Trail Blazers,Denver Nuggets,110,106,Memorial Coliseum,12736,/boxscores/197704240POR.html
+Sun Apr 24 1977,Washington Bullets,Houston Rockets,93,90,Capital Centre,16842,/boxscores/197704240WSB.html
+Tue Apr 26 1977,Golden State Warriors,Los Angeles Lakers,114,103,Oakland-Alameda County Coliseum Arena,13155,/boxscores/197704260GSW.html
+Tue Apr 26 1977,Portland Trail Blazers,Denver Nuggets,105,96,Memorial Coliseum,12930,/boxscores/197704260POR.html
+Tue Apr 26 1977,Washington Bullets,Houston Rockets,103,107,Capital Centre,19035,/boxscores/197704260WSB.html
+Wed Apr 27 1977,Philadelphia 76ers,Boston Celtics,110,91,The Spectrum,18276,/boxscores/197704270PHI.html
+Fri Apr 29 1977,Boston Celtics,Philadelphia 76ers,113,108,Boston Garden,15040,/boxscores/197704290BOS.html
+Fri Apr 29 1977,Houston Rockets,Washington Bullets,123,115,The Summit,15676,/boxscores/197704290HOU.html
+Fri Apr 29 1977,Los Angeles Lakers,Golden State Warriors,112,105,The Forum,17505,/boxscores/197704290LAL.html

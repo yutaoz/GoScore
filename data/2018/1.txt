@@ -1,0 +1,216 @@
+Mon Jan 1 2018,Brooklyn Nets,Orlando Magic,98,95,Barclays Center,16164,/boxscores/201801010BRK.html
+Mon Jan 1 2018,Toronto Raptors,Milwaukee Bucks,131,127,Air Canada Centre,19800,/boxscores/201801010TOR.html
+Mon Jan 1 2018,Chicago Bulls,Portland Trail Blazers,120,124,United Center,20860,/boxscores/201801010CHI.html
+Mon Jan 1 2018,Minnesota Timberwolves,Los Angeles Lakers,114,96,Target Center,18978,/boxscores/201801010MIN.html
+Tue Jan 2 2018,Cleveland Cavaliers,Portland Trail Blazers,127,110,Quicken Loans Arena,20562,/boxscores/201801020CLE.html
+Tue Jan 2 2018,New York Knicks,San Antonio Spurs,91,100,Madison Square Garden (IV),19812,/boxscores/201801020NYK.html
+Tue Jan 2 2018,Phoenix Suns,Atlanta Hawks,104,103,Talking Stick Resort Arena,15921,/boxscores/201801020PHO.html
+Tue Jan 2 2018,Sacramento Kings,Charlotte Hornets,111,131,Golden 1 Center,17583,/boxscores/201801020SAC.html
+Tue Jan 2 2018,Los Angeles Clippers,Memphis Grizzlies,113,105,STAPLES Center,15711,/boxscores/201801020LAC.html
+Wed Jan 3 2018,Orlando Magic,Houston Rockets,98,116,Amway Center,18588,/boxscores/201801030ORL.html
+Wed Jan 3 2018,Philadelphia 76ers,San Antonio Spurs,112,106,Wells Fargo Center,20642,/boxscores/201801030PHI.html
+Wed Jan 3 2018,Washington Wizards,New York Knicks,121,103,Capital One Arena,17206,/boxscores/201801030WAS.html
+Wed Jan 3 2018,Brooklyn Nets,Minnesota Timberwolves,98,97,Barclays Center,16215,/boxscores/201801030BRK.html
+Wed Jan 3 2018,Miami Heat,Detroit Pistons,111,104,AmericanAirlines Arena,19600,/boxscores/201801030MIA.html
+Wed Jan 3 2018,Boston Celtics,Cleveland Cavaliers,102,88,TD Garden,18624,/boxscores/201801030BOS.html
+Wed Jan 3 2018,Chicago Bulls,Toronto Raptors,115,124,United Center,20056,/boxscores/201801030CHI.html
+Wed Jan 3 2018,Milwaukee Bucks,Indiana Pacers,122,101,BMO Harris Bradley Center,15613,/boxscores/201801030MIL.html
+Wed Jan 3 2018,Dallas Mavericks,Golden State Warriors,122,125,American Airlines Center,20212,/boxscores/201801030DAL.html
+Wed Jan 3 2018,Denver Nuggets,Phoenix Suns,134,111,Pepsi Center,14079,/boxscores/201801030DEN.html
+Wed Jan 3 2018,Utah Jazz,New Orleans Pelicans,98,108,Vivint Smart Home Arena,18306,/boxscores/201801030UTA.html
+Wed Jan 3 2018,Los Angeles Lakers,Oklahoma City Thunder,96,133,STAPLES Center,18997,/boxscores/201801030LAL.html
+Thu Jan 4 2018,Houston Rockets,Golden State Warriors,114,124,Toyota Center,18055,/boxscores/201801040HOU.html
+Thu Jan 4 2018,Los Angeles Clippers,Oklahoma City Thunder,117,127,STAPLES Center,19068,/boxscores/201801040LAC.html
+Fri Jan 5 2018,Boston Celtics,Minnesota Timberwolves,91,84,TD Garden,18624,/boxscores/201801050BOS.html
+Fri Jan 5 2018,Philadelphia 76ers,Detroit Pistons,114,78,Wells Fargo Center,20592,/boxscores/201801050PHI.html
+Fri Jan 5 2018,Miami Heat,New York Knicks,107,103,AmericanAirlines Arena,19600,/boxscores/201801050MIA.html
+Fri Jan 5 2018,Milwaukee Bucks,Toronto Raptors,110,129,BMO Harris Bradley Center,18717,/boxscores/201801050MIL.html
+Fri Jan 5 2018,Dallas Mavericks,Chicago Bulls,124,127,American Airlines Center,20073,/boxscores/201801050DAL.html
+Fri Jan 5 2018,San Antonio Spurs,Phoenix Suns,103,89,AT&T Center,18501,/boxscores/201801050SAS.html
+Fri Jan 5 2018,Denver Nuggets,Utah Jazz,99,91,Pepsi Center,15557,/boxscores/201801050DEN.html
+Fri Jan 5 2018,Memphis Grizzlies,Washington Wizards,100,102,FedEx Forum,16988,/boxscores/201801050MEM.html
+Fri Jan 5 2018,Portland Trail Blazers,Atlanta Hawks,110,89,Moda Center,19393,/boxscores/201801050POR.html
+Fri Jan 5 2018,Los Angeles Lakers,Charlotte Hornets,94,108,STAPLES Center,18997,/boxscores/201801050LAL.html
+Sat Jan 6 2018,Los Angeles Clippers,Golden State Warriors,105,121,STAPLES Center,19068,/boxscores/201801060LAC.html
+Sat Jan 6 2018,Brooklyn Nets,Boston Celtics,85,87,Barclays Center,17732,/boxscores/201801060BRK.html
+Sat Jan 6 2018,Detroit Pistons,Houston Rockets,108,101,Little Caesars Arena,18046,/boxscores/201801060DET.html
+Sat Jan 6 2018,Indiana Pacers,Chicago Bulls,125,86,Bankers Life Fieldhouse,17923,/boxscores/201801060IND.html
+Sat Jan 6 2018,Orlando Magic,Cleveland Cavaliers,127,131,Amway Center,18997,/boxscores/201801060ORL.html
+Sat Jan 6 2018,Washington Wizards,Milwaukee Bucks,103,110,Capital One Arena,18762,/boxscores/201801060WAS.html
+Sat Jan 6 2018,Minnesota Timberwolves,New Orleans Pelicans,116,98,Target Center,18978,/boxscores/201801060MIN.html
+Sat Jan 6 2018,Sacramento Kings,Denver Nuggets,106,98,Golden 1 Center,17583,/boxscores/201801060SAC.html
+Sun Jan 7 2018,Miami Heat,Utah Jazz,103,102,AmericanAirlines Arena,19600,/boxscores/201801070MIA.html
+Sun Jan 7 2018,Dallas Mavericks,New York Knicks,96,100,American Airlines Center,20171,/boxscores/201801070DAL.html
+Sun Jan 7 2018,Phoenix Suns,Oklahoma City Thunder,114,100,Talking Stick Resort Arena,18055,/boxscores/201801070PHO.html
+Sun Jan 7 2018,Portland Trail Blazers,San Antonio Spurs,111,110,Moda Center,19393,/boxscores/201801070POR.html
+Sun Jan 7 2018,Los Angeles Lakers,Atlanta Hawks,132,113,STAPLES Center,18997,/boxscores/201801070LAL.html
+Mon Jan 8 2018,Indiana Pacers,Milwaukee Bucks,109,96,Bankers Life Fieldhouse,14670,/boxscores/201801080IND.html
+Mon Jan 8 2018,Brooklyn Nets,Toronto Raptors,113,114,Barclays Center,13681,/boxscores/201801080BRK.html
+Mon Jan 8 2018,Chicago Bulls,Houston Rockets,107,116,United Center,17462,/boxscores/201801080CHI.html
+Mon Jan 8 2018,Minnesota Timberwolves,Cleveland Cavaliers,127,99,Target Center,18978,/boxscores/201801080MIN.html
+Mon Jan 8 2018,New Orleans Pelicans,Detroit Pistons,112,109,Smoothie King Center,12874,/boxscores/201801080NOP.html
+Mon Jan 8 2018,Sacramento Kings,San Antonio Spurs,100,107,Golden 1 Center,17583,/boxscores/201801080SAC.html
+Mon Jan 8 2018,Golden State Warriors,Denver Nuggets,124,114,Oracle Arena,19596,/boxscores/201801080GSW.html
+Mon Jan 8 2018,Los Angeles Clippers,Atlanta Hawks,108,107,STAPLES Center,14624,/boxscores/201801080LAC.html
+Tue Jan 9 2018,Toronto Raptors,Miami Heat,89,90,Air Canada Centre,19800,/boxscores/201801090TOR.html
+Tue Jan 9 2018,Oklahoma City Thunder,Portland Trail Blazers,106,117,Chesapeake Energy Arena,18203,/boxscores/201801090OKC.html
+Tue Jan 9 2018,Dallas Mavericks,Orlando Magic,114,99,American Airlines Center,19306,/boxscores/201801090DAL.html
+Tue Jan 9 2018,Los Angeles Lakers,Sacramento Kings,99,86,STAPLES Center,18997,/boxscores/201801090LAL.html
+Wed Jan 10 2018,Charlotte Hornets,Dallas Mavericks,111,115,Spectrum Center,14462,/boxscores/201801100CHO.html
+Wed Jan 10 2018,Indiana Pacers,Miami Heat,106,114,Bankers Life Fieldhouse,14540,/boxscores/201801100IND.html
+Wed Jan 10 2018,Washington Wizards,Utah Jazz,104,107,Capital One Arena,15640,/boxscores/201801100WAS.html
+Wed Jan 10 2018,Brooklyn Nets,Detroit Pistons,80,114,Barclays Center,13457,/boxscores/201801100BRK.html
+Wed Jan 10 2018,New York Knicks,Chicago Bulls,119,122,Madison Square Garden (IV),19812,/boxscores/201801100NYK.html
+Wed Jan 10 2018,Houston Rockets,Portland Trail Blazers,121,112,Toyota Center,18055,/boxscores/201801100HOU.html
+Wed Jan 10 2018,Memphis Grizzlies,New Orleans Pelicans,105,102,FedEx Forum,14312,/boxscores/201801100MEM.html
+Wed Jan 10 2018,Milwaukee Bucks,Orlando Magic,110,103,BMO Harris Bradley Center,14543,/boxscores/201801100MIL.html
+Wed Jan 10 2018,Minnesota Timberwolves,Oklahoma City Thunder,104,88,Target Center,18978,/boxscores/201801100MIN.html
+Wed Jan 10 2018,Denver Nuggets,Atlanta Hawks,97,110,Pepsi Center,14182,/boxscores/201801100DEN.html
+Wed Jan 10 2018,Golden State Warriors,Los Angeles Clippers,106,125,Oracle Arena,19596,/boxscores/201801100GSW.html
+Thu Jan 11 2018,Philadelphia 76ers,Boston Celtics,103,114,The O2 Arena,19078,/boxscores/201801110PHI.html
+Thu Jan 11 2018,Toronto Raptors,Cleveland Cavaliers,133,99,Air Canada Centre,19923,/boxscores/201801110TOR.html
+Thu Jan 11 2018,Sacramento Kings,Los Angeles Clippers,115,121,Golden 1 Center,17583,/boxscores/201801110SAC.html
+Thu Jan 11 2018,Los Angeles Lakers,San Antonio Spurs,93,81,STAPLES Center,18997,/boxscores/201801110LAL.html
+Fri Jan 12 2018,Charlotte Hornets,Utah Jazz,99,88,Spectrum Center,14848,/boxscores/201801120CHO.html
+Fri Jan 12 2018,Indiana Pacers,Cleveland Cavaliers,97,95,Bankers Life Fieldhouse,17923,/boxscores/201801120IND.html
+Fri Jan 12 2018,Washington Wizards,Orlando Magic,125,119,Capital One Arena,18171,/boxscores/201801120WAS.html
+Fri Jan 12 2018,Atlanta Hawks,Brooklyn Nets,105,110,Philips Arena,13093,/boxscores/201801120ATL.html
+Fri Jan 12 2018,Milwaukee Bucks,Golden State Warriors,94,108,BMO Harris Bradley Center,18717,/boxscores/201801120MIL.html
+Fri Jan 12 2018,Minnesota Timberwolves,New York Knicks,118,108,Target Center,18978,/boxscores/201801120MIN.html
+Fri Jan 12 2018,New Orleans Pelicans,Portland Trail Blazers,119,113,Smoothie King Center,17003,/boxscores/201801120NOP.html
+Fri Jan 12 2018,Denver Nuggets,Memphis Grizzlies,87,78,Pepsi Center,15607,/boxscores/201801120DEN.html
+Fri Jan 12 2018,Phoenix Suns,Houston Rockets,95,112,Talking Stick Resort Arena,18055,/boxscores/201801120PHO.html
+Sat Jan 13 2018,Dallas Mavericks,Los Angeles Lakers,101,107,American Airlines Center,20209,/boxscores/201801130DAL.html
+Sat Jan 13 2018,Los Angeles Clippers,Sacramento Kings,126,105,STAPLES Center,16656,/boxscores/201801130LAC.html
+Sat Jan 13 2018,Charlotte Hornets,Oklahoma City Thunder,91,101,Spectrum Center,19624,/boxscores/201801130CHO.html
+Sat Jan 13 2018,Washington Wizards,Brooklyn Nets,119,113,Capital One Arena,18354,/boxscores/201801130WAS.html
+Sat Jan 13 2018,Toronto Raptors,Golden State Warriors,125,127,Air Canada Centre,20078,/boxscores/201801130TOR.html
+Sat Jan 13 2018,Chicago Bulls,Detroit Pistons,107,105,United Center,21613,/boxscores/201801130CHI.html
+Sat Jan 13 2018,San Antonio Spurs,Denver Nuggets,112,80,AT&T Center,18418,/boxscores/201801130SAS.html
+Sun Jan 14 2018,Miami Heat,Milwaukee Bucks,97,79,AmericanAirlines Arena,19600,/boxscores/201801140MIA.html
+Sun Jan 14 2018,New York Knicks,New Orleans Pelicans,118,123,Madison Square Garden (IV),19812,/boxscores/201801140NYK.html
+Sun Jan 14 2018,Phoenix Suns,Indiana Pacers,97,120,Talking Stick Resort Arena,17091,/boxscores/201801140PHO.html
+Sun Jan 14 2018,Minnesota Timberwolves,Portland Trail Blazers,120,103,Target Center,14739,/boxscores/201801140MIN.html
+Mon Jan 15 2018,Detroit Pistons,Charlotte Hornets,107,118,Little Caesars Arena,17200,/boxscores/201801150DET.html
+Mon Jan 15 2018,Philadelphia 76ers,Toronto Raptors,117,111,Wells Fargo Center,20637,/boxscores/201801150PHI.html
+Mon Jan 15 2018,Washington Wizards,Milwaukee Bucks,95,104,Capital One Arena,19607,/boxscores/201801150WAS.html
+Mon Jan 15 2018,Atlanta Hawks,San Antonio Spurs,102,99,Philips Arena,15806,/boxscores/201801150ATL.html
+Mon Jan 15 2018,Brooklyn Nets,New York Knicks,104,119,Barclays Center,17732,/boxscores/201801150BRK.html
+Mon Jan 15 2018,Chicago Bulls,Miami Heat,119,111,United Center,20546,/boxscores/201801150CHI.html
+Mon Jan 15 2018,Memphis Grizzlies,Los Angeles Lakers,123,114,FedEx Forum,17794,/boxscores/201801150MEM.html
+Mon Jan 15 2018,Cleveland Cavaliers,Golden State Warriors,108,118,Quicken Loans Arena,20562,/boxscores/201801150CLE.html
+Mon Jan 15 2018,Oklahoma City Thunder,Sacramento Kings,95,88,Chesapeake Energy Arena,18203,/boxscores/201801150OKC.html
+Mon Jan 15 2018,Utah Jazz,Indiana Pacers,94,109,Vivint Smart Home Arena,18306,/boxscores/201801150UTA.html
+Mon Jan 15 2018,Los Angeles Clippers,Houston Rockets,113,102,STAPLES Center,17622,/boxscores/201801150LAC.html
+Tue Jan 16 2018,Orlando Magic,Minnesota Timberwolves,108,102,Amway Center,18589,/boxscores/201801160ORL.html
+Tue Jan 16 2018,Boston Celtics,New Orleans Pelicans,113,116,TD Garden,18624,/boxscores/201801160BOS.html
+Tue Jan 16 2018,Denver Nuggets,Dallas Mavericks,105,102,Pepsi Center,14097,/boxscores/201801160DEN.html
+Tue Jan 16 2018,Portland Trail Blazers,Phoenix Suns,118,111,Moda Center,18604,/boxscores/201801160POR.html
+Wed Jan 17 2018,Charlotte Hornets,Washington Wizards,133,109,Spectrum Center,11528,/boxscores/201801170CHO.html
+Wed Jan 17 2018,Atlanta Hawks,New Orleans Pelicans,94,93,Philips Arena,10894,/boxscores/201801170ATL.html
+Wed Jan 17 2018,Brooklyn Nets,San Antonio Spurs,95,100,Barclays Center,15425,/boxscores/201801170BRK.html
+Wed Jan 17 2018,Toronto Raptors,Detroit Pistons,96,91,Air Canada Centre,19800,/boxscores/201801170TOR.html
+Wed Jan 17 2018,Chicago Bulls,Golden State Warriors,112,119,United Center,21372,/boxscores/201801170CHI.html
+Wed Jan 17 2018,Memphis Grizzlies,New York Knicks,105,99,FedEx Forum,12885,/boxscores/201801170MEM.html
+Wed Jan 17 2018,Milwaukee Bucks,Miami Heat,101,106,BMO Harris Bradley Center,16695,/boxscores/201801170MIL.html
+Wed Jan 17 2018,Oklahoma City Thunder,Los Angeles Lakers,114,90,Chesapeake Energy Arena,18203,/boxscores/201801170OKC.html
+Wed Jan 17 2018,Sacramento Kings,Utah Jazz,105,120,Golden 1 Center,17583,/boxscores/201801170SAC.html
+Wed Jan 17 2018,Los Angeles Clippers,Denver Nuggets,109,104,STAPLES Center,15043,/boxscores/201801170LAC.html
+Thu Jan 18 2018,Boston Celtics,Philadelphia 76ers,80,89,TD Garden,18624,/boxscores/201801180BOS.html
+Thu Jan 18 2018,Cleveland Cavaliers,Orlando Magic,104,103,Quicken Loans Arena,20562,/boxscores/201801180CLE.html
+Thu Jan 18 2018,Houston Rockets,Minnesota Timberwolves,116,98,Toyota Center,18055,/boxscores/201801180HOU.html
+Thu Jan 18 2018,Portland Trail Blazers,Indiana Pacers,100,86,Moda Center,19071,/boxscores/201801180POR.html
+Fri Jan 19 2018,Toronto Raptors,San Antonio Spurs,86,83,Air Canada Centre,19800,/boxscores/201801190TOR.html
+Fri Jan 19 2018,Brooklyn Nets,Miami Heat,101,95,Barclays Center,17732,/boxscores/201801190BRK.html
+Fri Jan 19 2018,Detroit Pistons,Washington Wizards,112,122,Little Caesars Arena,14744,/boxscores/201801190DET.html
+Fri Jan 19 2018,Memphis Grizzlies,Sacramento Kings,106,88,FedEx Forum,16831,/boxscores/201801190MEM.html
+Fri Jan 19 2018,Denver Nuggets,Phoenix Suns,100,108,Pepsi Center,15732,/boxscores/201801190DEN.html
+Fri Jan 19 2018,Los Angeles Lakers,Indiana Pacers,99,86,STAPLES Center,18997,/boxscores/201801190LAL.html
+Fri Jan 19 2018,Utah Jazz,New York Knicks,115,117,Vivint Smart Home Arena,18306,/boxscores/201801190UTA.html
+Sat Jan 20 2018,Cleveland Cavaliers,Oklahoma City Thunder,124,148,Quicken Loans Arena,20562,/boxscores/201801200CLE.html
+Sat Jan 20 2018,Atlanta Hawks,Chicago Bulls,97,113,Philips Arena,15597,/boxscores/201801200ATL.html
+Sat Jan 20 2018,Charlotte Hornets,Miami Heat,105,106,Spectrum Center,18687,/boxscores/201801200CHO.html
+Sat Jan 20 2018,New Orleans Pelicans,Memphis Grizzlies,111,104,Smoothie King Center,18212,/boxscores/201801200NOP.html
+Sat Jan 20 2018,Philadelphia 76ers,Milwaukee Bucks,116,94,Wells Fargo Center,20826,/boxscores/201801200PHI.html
+Sat Jan 20 2018,Houston Rockets,Golden State Warriors,116,108,Toyota Center,18055,/boxscores/201801200HOU.html
+Sat Jan 20 2018,Minnesota Timberwolves,Toronto Raptors,115,109,Target Center,17828,/boxscores/201801200MIN.html
+Sat Jan 20 2018,Utah Jazz,Los Angeles Clippers,125,113,Vivint Smart Home Arena,18306,/boxscores/201801200UTA.html
+Sat Jan 20 2018,Portland Trail Blazers,Dallas Mavericks,117,108,Moda Center,19464,/boxscores/201801200POR.html
+Sun Jan 21 2018,Boston Celtics,Orlando Magic,95,103,TD Garden,18624,/boxscores/201801210BOS.html
+Sun Jan 21 2018,Los Angeles Lakers,New York Knicks,127,107,STAPLES Center,18997,/boxscores/201801210LAL.html
+Sun Jan 21 2018,Detroit Pistons,Brooklyn Nets,100,101,Little Caesars Arena,17554,/boxscores/201801210DET.html
+Sun Jan 21 2018,San Antonio Spurs,Indiana Pacers,86,94,AT&T Center,18418,/boxscores/201801210SAS.html
+Mon Jan 22 2018,Charlotte Hornets,Sacramento Kings,112,107,Spectrum Center,11806,/boxscores/201801220CHO.html
+Mon Jan 22 2018,Atlanta Hawks,Utah Jazz,104,90,Philips Arena,11096,/boxscores/201801220ATL.html
+Mon Jan 22 2018,Houston Rockets,Miami Heat,99,90,Toyota Center,18055,/boxscores/201801220HOU.html
+Mon Jan 22 2018,Memphis Grizzlies,Philadelphia 76ers,105,101,FedEx Forum,14288,/boxscores/201801220MEM.html
+Mon Jan 22 2018,Milwaukee Bucks,Phoenix Suns,109,105,BMO Harris Bradley Center,14766,/boxscores/201801220MIL.html
+Mon Jan 22 2018,New Orleans Pelicans,Chicago Bulls,132,128,Smoothie King Center,17101,/boxscores/201801220NOP.html
+Mon Jan 22 2018,Dallas Mavericks,Washington Wizards,98,75,American Airlines Center,19328,/boxscores/201801220DAL.html
+Mon Jan 22 2018,Denver Nuggets,Portland Trail Blazers,104,101,Pepsi Center,14474,/boxscores/201801220DEN.html
+Mon Jan 22 2018,Los Angeles Clippers,Minnesota Timberwolves,118,126,STAPLES Center,16347,/boxscores/201801220LAC.html
+Tue Jan 23 2018,Orlando Magic,Sacramento Kings,99,105,Amway Center,18846,/boxscores/201801230ORL.html
+Tue Jan 23 2018,Oklahoma City Thunder,Brooklyn Nets,109,108,Chesapeake Energy Arena,18203,/boxscores/201801230OKC.html
+Tue Jan 23 2018,San Antonio Spurs,Cleveland Cavaliers,114,102,AT&T Center,18418,/boxscores/201801230SAS.html
+Tue Jan 23 2018,Golden State Warriors,New York Knicks,123,112,Oracle Arena,19596,/boxscores/201801230GSW.html
+Tue Jan 23 2018,Los Angeles Lakers,Boston Celtics,108,107,STAPLES Center,18997,/boxscores/201801230LAL.html
+Wed Jan 24 2018,Charlotte Hornets,New Orleans Pelicans,96,101,Spectrum Center,14588,/boxscores/201801240CHO.html
+Wed Jan 24 2018,Detroit Pistons,Utah Jazz,95,98,Little Caesars Arena,15682,/boxscores/201801240DET.html
+Wed Jan 24 2018,Indiana Pacers,Phoenix Suns,116,101,Bankers Life Fieldhouse,14060,/boxscores/201801240IND.html
+Wed Jan 24 2018,Philadelphia 76ers,Chicago Bulls,115,101,Wells Fargo Center,20547,/boxscores/201801240PHI.html
+Wed Jan 24 2018,Atlanta Hawks,Toronto Raptors,93,108,Philips Arena,12780,/boxscores/201801240ATL.html
+Wed Jan 24 2018,Dallas Mavericks,Houston Rockets,97,104,American Airlines Center,19378,/boxscores/201801240DAL.html
+Wed Jan 24 2018,Memphis Grizzlies,San Antonio Spurs,85,108,FedEx Forum,15812,/boxscores/201801240MEM.html
+Wed Jan 24 2018,Portland Trail Blazers,Minnesota Timberwolves,123,114,Moda Center,18920,/boxscores/201801240POR.html
+Wed Jan 24 2018,Los Angeles Clippers,Boston Celtics,102,113,STAPLES Center,19430,/boxscores/201801240LAC.html
+Thu Jan 25 2018,Miami Heat,Sacramento Kings,88,89,AmericanAirlines Arena,19600,/boxscores/201801250MIA.html
+Thu Jan 25 2018,Oklahoma City Thunder,Washington Wizards,121,112,Chesapeake Energy Arena,18203,/boxscores/201801250OKC.html
+Thu Jan 25 2018,Denver Nuggets,New York Knicks,130,118,Pepsi Center,15482,/boxscores/201801250DEN.html
+Thu Jan 25 2018,Golden State Warriors,Minnesota Timberwolves,126,113,Oracle Arena,19596,/boxscores/201801250GSW.html
+Fri Jan 26 2018,Charlotte Hornets,Atlanta Hawks,121,110,Spectrum Center,15479,/boxscores/201801260CHO.html
+Fri Jan 26 2018,Cleveland Cavaliers,Indiana Pacers,115,108,Quicken Loans Arena,20562,/boxscores/201801260CLE.html
+Fri Jan 26 2018,Toronto Raptors,Utah Jazz,93,97,Air Canada Centre,19800,/boxscores/201801260TOR.html
+Fri Jan 26 2018,Chicago Bulls,Los Angeles Lakers,103,108,United Center,21827,/boxscores/201801260CHI.html
+Fri Jan 26 2018,Memphis Grizzlies,Los Angeles Clippers,100,109,FedEx Forum,16369,/boxscores/201801260MEM.html
+Fri Jan 26 2018,Milwaukee Bucks,Brooklyn Nets,116,91,BMO Harris Bradley Center,18717,/boxscores/201801260MIL.html
+Fri Jan 26 2018,New Orleans Pelicans,Houston Rockets,115,113,Smoothie King Center,17186,/boxscores/201801260NOP.html
+Fri Jan 26 2018,Dallas Mavericks,Portland Trail Blazers,93,107,American Airlines Center,19876,/boxscores/201801260DAL.html
+Fri Jan 26 2018,San Antonio Spurs,Philadelphia 76ers,78,97,AT&T Center,18418,/boxscores/201801260SAS.html
+Fri Jan 26 2018,Phoenix Suns,New York Knicks,85,107,Talking Stick Resort Arena,17068,/boxscores/201801260PHO.html
+Sat Jan 27 2018,Detroit Pistons,Oklahoma City Thunder,108,121,Little Caesars Arena,20491,/boxscores/201801270DET.html
+Sat Jan 27 2018,Indiana Pacers,Orlando Magic,114,112,Bankers Life Fieldhouse,17923,/boxscores/201801270IND.html
+Sat Jan 27 2018,Atlanta Hawks,Washington Wizards,104,129,Philips Arena,15843,/boxscores/201801270ATL.html
+Sat Jan 27 2018,Miami Heat,Charlotte Hornets,95,91,AmericanAirlines Arena,19600,/boxscores/201801270MIA.html
+Sat Jan 27 2018,Golden State Warriors,Boston Celtics,109,105,Oracle Arena,19596,/boxscores/201801270GSW.html
+Sat Jan 27 2018,Denver Nuggets,Dallas Mavericks,91,89,Pepsi Center,19520,/boxscores/201801270DEN.html
+Sat Jan 27 2018,Minnesota Timberwolves,Brooklyn Nets,111,97,Target Center,16231,/boxscores/201801270MIN.html
+Sun Jan 28 2018,Chicago Bulls,Milwaukee Bucks,96,110,United Center,21630,/boxscores/201801280CHI.html
+Sun Jan 28 2018,Houston Rockets,Phoenix Suns,113,102,Toyota Center,18055,/boxscores/201801280HOU.html
+Sun Jan 28 2018,New Orleans Pelicans,Los Angeles Clippers,103,112,Smoothie King Center,16378,/boxscores/201801280NOP.html
+Sun Jan 28 2018,Cleveland Cavaliers,Detroit Pistons,121,104,Quicken Loans Arena,20562,/boxscores/201801280CLE.html
+Sun Jan 28 2018,Oklahoma City Thunder,Philadelphia 76ers,122,112,Chesapeake Energy Arena,18202,/boxscores/201801280OKC.html
+Sun Jan 28 2018,Toronto Raptors,Los Angeles Lakers,123,111,Air Canada Centre,19800,/boxscores/201801280TOR.html
+Sun Jan 28 2018,San Antonio Spurs,Sacramento Kings,113,98,AT&T Center,18418,/boxscores/201801280SAS.html
+Mon Jan 29 2018,Indiana Pacers,Charlotte Hornets,105,96,Bankers Life Fieldhouse,14225,/boxscores/201801290IND.html
+Mon Jan 29 2018,Atlanta Hawks,Minnesota Timberwolves,105,100,Philips Arena,12589,/boxscores/201801290ATL.html
+Mon Jan 29 2018,Memphis Grizzlies,Phoenix Suns,120,109,FedEx Forum,13202,/boxscores/201801290MEM.html
+Mon Jan 29 2018,Milwaukee Bucks,Philadelphia 76ers,107,95,BMO Harris Bradley Center,14126,/boxscores/201801290MIL.html
+Mon Jan 29 2018,Dallas Mavericks,Miami Heat,88,95,American Airlines Center,19555,/boxscores/201801290DAL.html
+Mon Jan 29 2018,Denver Nuggets,Boston Celtics,110,111,Pepsi Center,19520,/boxscores/201801290DEN.html
+Tue Jan 30 2018,Washington Wizards,Oklahoma City Thunder,102,96,Capital One Arena,20356,/boxscores/201801300WAS.html
+Tue Jan 30 2018,New York Knicks,Brooklyn Nets,111,95,Madison Square Garden (IV),19505,/boxscores/201801300NYK.html
+Tue Jan 30 2018,Toronto Raptors,Minnesota Timberwolves,109,104,Air Canada Centre,19800,/boxscores/201801300TOR.html
+Tue Jan 30 2018,Detroit Pistons,Cleveland Cavaliers,125,114,Little Caesars Arena,18508,/boxscores/201801300DET.html
+Tue Jan 30 2018,Houston Rockets,Orlando Magic,114,107,Toyota Center,18055,/boxscores/201801300HOU.html
+Tue Jan 30 2018,New Orleans Pelicans,Sacramento Kings,103,114,Smoothie King Center,14292,/boxscores/201801300NOP.html
+Tue Jan 30 2018,San Antonio Spurs,Denver Nuggets,106,104,AT&T Center,18418,/boxscores/201801300SAS.html
+Tue Jan 30 2018,Utah Jazz,Golden State Warriors,129,99,Vivint Smart Home Arena,18306,/boxscores/201801300UTA.html
+Tue Jan 30 2018,Los Angeles Clippers,Portland Trail Blazers,96,104,STAPLES Center,16705,/boxscores/201801300LAC.html
+Wed Jan 31 2018,Indiana Pacers,Memphis Grizzlies,105,101,Bankers Life Fieldhouse,15093,/boxscores/201801310IND.html
+Wed Jan 31 2018,Orlando Magic,Los Angeles Lakers,127,105,Amway Center,18553,/boxscores/201801310ORL.html
+Wed Jan 31 2018,Atlanta Hawks,Charlotte Hornets,110,123,Philips Arena,13103,/boxscores/201801310ATL.html
+Wed Jan 31 2018,Brooklyn Nets,Philadelphia 76ers,116,108,Barclays Center,15577,/boxscores/201801310BRK.html
+Wed Jan 31 2018,Cleveland Cavaliers,Miami Heat,91,89,Quicken Loans Arena,20562,/boxscores/201801310CLE.html
+Wed Jan 31 2018,Boston Celtics,New York Knicks,103,73,TD Garden,18624,/boxscores/201801310BOS.html
+Wed Jan 31 2018,Portland Trail Blazers,Chicago Bulls,124,108,Moda Center,19422,/boxscores/201801310POR.html
+Wed Jan 31 2018,Phoenix Suns,Dallas Mavericks,102,88,Talking Stick Resort Arena,15923,/boxscores/201801310PHO.html

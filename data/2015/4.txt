@@ -1,0 +1,159 @@
+Wed Apr 1 2015,Charlotte Hornets,Detroit Pistons,102,78,Time Warner Cable Arena,15372,/boxscores/201504010CHO.html
+Wed Apr 1 2015,Orlando Magic,San Antonio Spurs,91,103,Amway Center,17229,/boxscores/201504010ORL.html
+Wed Apr 1 2015,Washington Wizards,Philadelphia 76ers,106,93,Verizon Center,17501,/boxscores/201504010WAS.html
+Wed Apr 1 2015,Boston Celtics,Indiana Pacers,100,87,TD Garden,18624,/boxscores/201504010BOS.html
+Wed Apr 1 2015,New York Knicks,Brooklyn Nets,98,100,Madison Square Garden (IV),19812,/boxscores/201504010NYK.html
+Wed Apr 1 2015,Houston Rockets,Sacramento Kings,115,111,Toyota Center,18312,/boxscores/201504010HOU.html
+Wed Apr 1 2015,Milwaukee Bucks,Chicago Bulls,95,91,BMO Harris Bradley Center,15215,/boxscores/201504010MIL.html
+Wed Apr 1 2015,Minnesota Timberwolves,Toronto Raptors,99,113,Target Center,12699,/boxscores/201504010MIN.html
+Wed Apr 1 2015,Oklahoma City Thunder,Dallas Mavericks,131,135,Chesapeake Energy Arena,18203,/boxscores/201504010OKC.html
+Wed Apr 1 2015,Utah Jazz,Denver Nuggets,98,84,EnergySolutions Arena,18275,/boxscores/201504010UTA.html
+Wed Apr 1 2015,Portland Trail Blazers,Los Angeles Clippers,122,126,Moda Center,19639,/boxscores/201504010POR.html
+Wed Apr 1 2015,Los Angeles Lakers,New Orleans Pelicans,92,113,STAPLES Center,17165,/boxscores/201504010LAL.html
+Thu Apr 2 2015,Cleveland Cavaliers,Miami Heat,114,88,Quicken Loans Arena,20562,/boxscores/201504020CLE.html
+Thu Apr 2 2015,Dallas Mavericks,Houston Rockets,101,108,American Airlines Center,20062,/boxscores/201504020DAL.html
+Thu Apr 2 2015,Golden State Warriors,Phoenix Suns,107,106,Oracle Arena,19596,/boxscores/201504020GSW.html
+Fri Apr 3 2015,Indiana Pacers,Charlotte Hornets,93,74,Bankers Life Fieldhouse,18165,/boxscores/201504030IND.html
+Fri Apr 3 2015,Washington Wizards,New York Knicks,101,87,Verizon Center,19389,/boxscores/201504030WAS.html
+Fri Apr 3 2015,Boston Celtics,Milwaukee Bucks,101,110,TD Garden,18624,/boxscores/201504030BOS.html
+Fri Apr 3 2015,Brooklyn Nets,Toronto Raptors,114,109,Barclays Center,17732,/boxscores/201504030BRK.html
+Fri Apr 3 2015,Chicago Bulls,Detroit Pistons,88,82,United Center,22058,/boxscores/201504030CHI.html
+Fri Apr 3 2015,Memphis Grizzlies,Oklahoma City Thunder,100,92,FedEx Forum,18119,/boxscores/201504030MEM.html
+Fri Apr 3 2015,Minnesota Timberwolves,Orlando Magic,84,97,Target Center,18334,/boxscores/201504030MIN.html
+Fri Apr 3 2015,San Antonio Spurs,Denver Nuggets,123,93,AT&T Center,18581,/boxscores/201504030SAS.html
+Fri Apr 3 2015,Sacramento Kings,New Orleans Pelicans,95,101,Sleep Train Arena,17021,/boxscores/201504030SAC.html
+Fri Apr 3 2015,Los Angeles Lakers,Portland Trail Blazers,77,107,STAPLES Center,18997,/boxscores/201504030LAL.html
+Sat Apr 4 2015,Charlotte Hornets,Philadelphia 76ers,92,91,Time Warner Cable Arena,17286,/boxscores/201504040CHO.html
+Sat Apr 4 2015,Atlanta Hawks,Brooklyn Nets,131,99,Philips Arena,18769,/boxscores/201504040ATL.html
+Sat Apr 4 2015,Detroit Pistons,Miami Heat,99,98,The Palace of Auburn Hills,16133,/boxscores/201504040DET.html
+Sat Apr 4 2015,Toronto Raptors,Boston Celtics,116,117,Air Canada Centre,19800,/boxscores/201504040TOR.html
+Sat Apr 4 2015,Memphis Grizzlies,Washington Wizards,83,92,FedEx Forum,18119,/boxscores/201504040MEM.html
+Sat Apr 4 2015,Dallas Mavericks,Golden State Warriors,110,123,American Airlines Center,20407,/boxscores/201504040DAL.html
+Sat Apr 4 2015,Milwaukee Bucks,Orlando Magic,90,97,BMO Harris Bradley Center,14090,/boxscores/201504040MIL.html
+Sat Apr 4 2015,Denver Nuggets,Los Angeles Clippers,92,107,Pepsi Center,15566,/boxscores/201504040DEN.html
+Sat Apr 4 2015,Phoenix Suns,Utah Jazz,87,85,US Airways Center,18055,/boxscores/201504040PHO.html
+Sat Apr 4 2015,Portland Trail Blazers,New Orleans Pelicans,99,90,Moda Center,19781,/boxscores/201504040POR.html
+Sun Apr 5 2015,Oklahoma City Thunder,Houston Rockets,112,115,Chesapeake Energy Arena,18203,/boxscores/201504050OKC.html
+Sun Apr 5 2015,Cleveland Cavaliers,Chicago Bulls,99,94,Quicken Loans Arena,20562,/boxscores/201504050CLE.html
+Sun Apr 5 2015,Indiana Pacers,Miami Heat,112,89,Bankers Life Fieldhouse,18165,/boxscores/201504050IND.html
+Sun Apr 5 2015,San Antonio Spurs,Golden State Warriors,107,92,AT&T Center,18581,/boxscores/201504050SAS.html
+Sun Apr 5 2015,New York Knicks,Philadelphia 76ers,101,91,Madison Square Garden (IV),19812,/boxscores/201504050NYK.html
+Sun Apr 5 2015,Sacramento Kings,Utah Jazz,95,101,Sleep Train Arena,16716,/boxscores/201504050SAC.html
+Sun Apr 5 2015,Los Angeles Lakers,Los Angeles Clippers,78,106,STAPLES Center,18997,/boxscores/201504050LAL.html
+Mon Apr 6 2015,Brooklyn Nets,Portland Trail Blazers,106,96,Barclays Center,17416,/boxscores/201504060BRK.html
+Tue Apr 7 2015,Atlanta Hawks,Phoenix Suns,96,69,Philips Arena,18650,/boxscores/201504070ATL.html
+Tue Apr 7 2015,Miami Heat,Charlotte Hornets,105,100,AmericanAirlines Arena,19694,/boxscores/201504070MIA.html
+Tue Apr 7 2015,New Orleans Pelicans,Golden State Warriors,103,100,Smoothie King Center,18097,/boxscores/201504070NOP.html
+Tue Apr 7 2015,Oklahoma City Thunder,San Antonio Spurs,88,113,Chesapeake Energy Arena,18203,/boxscores/201504070OKC.html
+Tue Apr 7 2015,Sacramento Kings,Minnesota Timberwolves,116,111,Sleep Train Arena,16770,/boxscores/201504070SAC.html
+Tue Apr 7 2015,Los Angeles Clippers,Los Angeles Lakers,105,100,STAPLES Center,19438,/boxscores/201504070LAC.html
+Wed Apr 8 2015,Charlotte Hornets,Toronto Raptors,74,92,Time Warner Cable Arena,15593,/boxscores/201504080CHO.html
+Wed Apr 8 2015,Detroit Pistons,Boston Celtics,103,113,The Palace of Auburn Hills,14284,/boxscores/201504080DET.html
+Wed Apr 8 2015,Orlando Magic,Chicago Bulls,105,103,Amway Center,18249,/boxscores/201504080ORL.html
+Wed Apr 8 2015,Philadelphia 76ers,Washington Wizards,90,119,Wells Fargo Center,12611,/boxscores/201504080PHI.html
+Wed Apr 8 2015,Brooklyn Nets,Atlanta Hawks,111,114,Barclays Center,17732,/boxscores/201504080BRK.html
+Wed Apr 8 2015,New York Knicks,Indiana Pacers,86,102,Madison Square Garden (IV),19812,/boxscores/201504080NYK.html
+Wed Apr 8 2015,Memphis Grizzlies,New Orleans Pelicans,110,74,FedEx Forum,17518,/boxscores/201504080MEM.html
+Wed Apr 8 2015,Milwaukee Bucks,Cleveland Cavaliers,99,104,BMO Harris Bradley Center,14629,/boxscores/201504080MIL.html
+Wed Apr 8 2015,San Antonio Spurs,Houston Rockets,110,98,AT&T Center,18581,/boxscores/201504080SAS.html
+Wed Apr 8 2015,Denver Nuggets,Los Angeles Lakers,119,101,Pepsi Center,13338,/boxscores/201504080DEN.html
+Wed Apr 8 2015,Utah Jazz,Sacramento Kings,103,91,EnergySolutions Arena,18351,/boxscores/201504080UTA.html
+Wed Apr 8 2015,Dallas Mavericks,Phoenix Suns,107,104,American Airlines Center,20262,/boxscores/201504080DAL.html
+Wed Apr 8 2015,Portland Trail Blazers,Minnesota Timberwolves,116,91,Moda Center,19499,/boxscores/201504080POR.html
+Thu Apr 9 2015,Miami Heat,Chicago Bulls,78,89,AmericanAirlines Arena,19641,/boxscores/201504090MIA.html
+Thu Apr 9 2015,Golden State Warriors,Portland Trail Blazers,116,105,Oracle Arena,19596,/boxscores/201504090GSW.html
+Fri Apr 10 2015,Orlando Magic,Toronto Raptors,99,101,Amway Center,16227,/boxscores/201504100ORL.html
+Fri Apr 10 2015,Atlanta Hawks,Charlotte Hornets,104,80,Philips Arena,18462,/boxscores/201504100ATL.html
+Fri Apr 10 2015,Brooklyn Nets,Washington Wizards,117,80,Barclays Center,17732,/boxscores/201504100BRK.html
+Fri Apr 10 2015,Cleveland Cavaliers,Boston Celtics,90,99,Quicken Loans Arena,20562,/boxscores/201504100CLE.html
+Fri Apr 10 2015,Detroit Pistons,Indiana Pacers,103,107,The Palace of Auburn Hills,18561,/boxscores/201504100DET.html
+Fri Apr 10 2015,New York Knicks,Milwaukee Bucks,91,99,Madison Square Garden (IV),19812,/boxscores/201504100NYK.html
+Fri Apr 10 2015,Houston Rockets,San Antonio Spurs,103,104,Toyota Center,18457,/boxscores/201504100HOU.html
+Fri Apr 10 2015,New Orleans Pelicans,Phoenix Suns,90,75,Smoothie King Center,17954,/boxscores/201504100NOP.html
+Fri Apr 10 2015,Oklahoma City Thunder,Sacramento Kings,116,103,Chesapeake Energy Arena,18203,/boxscores/201504100OKC.html
+Fri Apr 10 2015,Denver Nuggets,Dallas Mavericks,143,144,Pepsi Center,14041,/boxscores/201504100DEN.html
+Fri Apr 10 2015,Utah Jazz,Memphis Grizzlies,88,89,EnergySolutions Arena,18873,/boxscores/201504100UTA.html
+Fri Apr 10 2015,Los Angeles Lakers,Minnesota Timberwolves,106,98,STAPLES Center,17880,/boxscores/201504100LAL.html
+Sat Apr 11 2015,Orlando Magic,New York Knicks,79,80,Amway Center,17207,/boxscores/201504110ORL.html
+Sat Apr 11 2015,Miami Heat,Toronto Raptors,104,107,AmericanAirlines Arena,19689,/boxscores/201504110MIA.html
+Sat Apr 11 2015,Chicago Bulls,Philadelphia 76ers,114,107,United Center,22273,/boxscores/201504110CHI.html
+Sat Apr 11 2015,Los Angeles Clippers,Memphis Grizzlies,94,86,STAPLES Center,19401,/boxscores/201504110LAC.html
+Sat Apr 11 2015,Portland Trail Blazers,Utah Jazz,105,111,Moda Center,19908,/boxscores/201504110POR.html
+Sat Apr 11 2015,Golden State Warriors,Minnesota Timberwolves,110,101,Oracle Arena,19596,/boxscores/201504110GSW.html
+Sun Apr 12 2015,Boston Celtics,Cleveland Cavaliers,117,78,TD Garden,18624,/boxscores/201504120BOS.html
+Sun Apr 12 2015,Milwaukee Bucks,Brooklyn Nets,96,73,BMO Harris Bradley Center,16504,/boxscores/201504120MIL.html
+Sun Apr 12 2015,Detroit Pistons,Charlotte Hornets,116,77,The Palace of Auburn Hills,17297,/boxscores/201504120DET.html
+Sun Apr 12 2015,Denver Nuggets,Sacramento Kings,122,111,Pepsi Center,14004,/boxscores/201504120DEN.html
+Sun Apr 12 2015,Indiana Pacers,Oklahoma City Thunder,116,104,Bankers Life Fieldhouse,18165,/boxscores/201504120IND.html
+Sun Apr 12 2015,Washington Wizards,Atlanta Hawks,108,99,Verizon Center,19041,/boxscores/201504120WAS.html
+Sun Apr 12 2015,Houston Rockets,New Orleans Pelicans,121,114,Toyota Center,18318,/boxscores/201504120HOU.html
+Sun Apr 12 2015,San Antonio Spurs,Phoenix Suns,107,91,AT&T Center,18581,/boxscores/201504120SAS.html
+Sun Apr 12 2015,Los Angeles Lakers,Dallas Mavericks,106,120,STAPLES Center,18071,/boxscores/201504120LAL.html
+Mon Apr 13 2015,Charlotte Hornets,Houston Rockets,90,100,Time Warner Cable Arena,15797,/boxscores/201504130CHO.html
+Mon Apr 13 2015,Cleveland Cavaliers,Detroit Pistons,109,97,Quicken Loans Arena,20562,/boxscores/201504130CLE.html
+Mon Apr 13 2015,Philadelphia 76ers,Milwaukee Bucks,97,107,Wells Fargo Center,10598,/boxscores/201504130PHI.html
+Mon Apr 13 2015,Atlanta Hawks,New York Knicks,108,112,Philips Arena,18265,/boxscores/201504130ATL.html
+Mon Apr 13 2015,Brooklyn Nets,Chicago Bulls,86,113,Barclays Center,17732,/boxscores/201504130BRK.html
+Mon Apr 13 2015,Miami Heat,Orlando Magic,100,93,AmericanAirlines Arena,19600,/boxscores/201504130MIA.html
+Mon Apr 13 2015,Minnesota Timberwolves,New Orleans Pelicans,88,100,Target Center,13009,/boxscores/201504130MIN.html
+Mon Apr 13 2015,Oklahoma City Thunder,Portland Trail Blazers,101,90,Chesapeake Energy Arena,18203,/boxscores/201504130OKC.html
+Mon Apr 13 2015,Utah Jazz,Dallas Mavericks,109,92,EnergySolutions Arena,19911,/boxscores/201504130UTA.html
+Mon Apr 13 2015,Sacramento Kings,Los Angeles Lakers,102,92,Sleep Train Arena,17317,/boxscores/201504130SAC.html
+Mon Apr 13 2015,Golden State Warriors,Memphis Grizzlies,111,107,Oracle Arena,19596,/boxscores/201504130GSW.html
+Mon Apr 13 2015,Los Angeles Clippers,Denver Nuggets,110,103,STAPLES Center,19060,/boxscores/201504130LAC.html
+Tue Apr 14 2015,Boston Celtics,Toronto Raptors,95,93,TD Garden,18624,/boxscores/201504140BOS.html
+Tue Apr 14 2015,Indiana Pacers,Washington Wizards,99,95,Bankers Life Fieldhouse,18165,/boxscores/201504140IND.html
+Tue Apr 14 2015,Phoenix Suns,Los Angeles Clippers,101,112,US Airways Center,18055,/boxscores/201504140PHO.html
+Wed Apr 15 2015,Toronto Raptors,Charlotte Hornets,92,87,Air Canada Centre,19800,/boxscores/201504150TOR.html
+Wed Apr 15 2015,Brooklyn Nets,Orlando Magic,101,88,Barclays Center,17098,/boxscores/201504150BRK.html
+Wed Apr 15 2015,Chicago Bulls,Atlanta Hawks,91,85,United Center,22172,/boxscores/201504150CHI.html
+Wed Apr 15 2015,Cleveland Cavaliers,Washington Wizards,113,108,Quicken Loans Arena,20562,/boxscores/201504150CLE.html
+Wed Apr 15 2015,Dallas Mavericks,Portland Trail Blazers,114,98,American Airlines Center,20352,/boxscores/201504150DAL.html
+Wed Apr 15 2015,Houston Rockets,Utah Jazz,117,91,Toyota Center,18320,/boxscores/201504150HOU.html
+Wed Apr 15 2015,Milwaukee Bucks,Boston Celtics,100,105,BMO Harris Bradley Center,17316,/boxscores/201504150MIL.html
+Wed Apr 15 2015,Minnesota Timberwolves,Oklahoma City Thunder,113,138,Target Center,18250,/boxscores/201504150MIN.html
+Wed Apr 15 2015,New Orleans Pelicans,San Antonio Spurs,108,103,Smoothie King Center,18524,/boxscores/201504150NOP.html
+Wed Apr 15 2015,New York Knicks,Detroit Pistons,90,112,Madison Square Garden (IV),19812,/boxscores/201504150NYK.html
+Wed Apr 15 2015,Philadelphia 76ers,Miami Heat,101,105,Wells Fargo Center,14476,/boxscores/201504150PHI.html
+Wed Apr 15 2015,Memphis Grizzlies,Indiana Pacers,95,83,FedEx Forum,17109,/boxscores/201504150MEM.html
+Wed Apr 15 2015,Golden State Warriors,Denver Nuggets,133,126,Oracle Arena,19596,/boxscores/201504150GSW.html
+Wed Apr 15 2015,Los Angeles Lakers,Sacramento Kings,99,122,STAPLES Center,18997,/boxscores/201504150LAL.html
+Sat Apr 18 2015,Toronto Raptors,Washington Wizards,86,93,Air Canada Centre,19800,/boxscores/201504180TOR.html
+Sat Apr 18 2015,Golden State Warriors,New Orleans Pelicans,106,99,Oracle Arena,19596,/boxscores/201504180GSW.html
+Sat Apr 18 2015,Chicago Bulls,Milwaukee Bucks,103,91,United Center,21812,/boxscores/201504180CHI.html
+Sat Apr 18 2015,Houston Rockets,Dallas Mavericks,118,108,Toyota Center,18231,/boxscores/201504180HOU.html
+Sun Apr 19 2015,Cleveland Cavaliers,Boston Celtics,113,100,Quicken Loans Arena,20562,/boxscores/201504190CLE.html
+Sun Apr 19 2015,Atlanta Hawks,Brooklyn Nets,99,92,Philips Arena,18440,/boxscores/201504190ATL.html
+Sun Apr 19 2015,Memphis Grizzlies,Portland Trail Blazers,100,86,FedEx Forum,18119,/boxscores/201504190MEM.html
+Sun Apr 19 2015,Los Angeles Clippers,San Antonio Spurs,107,92,STAPLES Center,19309,/boxscores/201504190LAC.html
+Mon Apr 20 2015,Chicago Bulls,Milwaukee Bucks,91,82,United Center,21661,/boxscores/201504200CHI.html
+Mon Apr 20 2015,Golden State Warriors,New Orleans Pelicans,97,87,Oracle Arena,19596,/boxscores/201504200GSW.html
+Tue Apr 21 2015,Cleveland Cavaliers,Boston Celtics,99,91,Quicken Loans Arena,20562,/boxscores/201504210CLE.html
+Tue Apr 21 2015,Toronto Raptors,Washington Wizards,106,117,Air Canada Centre,19800,/boxscores/201504210TOR.html
+Tue Apr 21 2015,Houston Rockets,Dallas Mavericks,111,99,Toyota Center,18243,/boxscores/201504210HOU.html
+Wed Apr 22 2015,Atlanta Hawks,Brooklyn Nets,96,91,Philips Arena,18207,/boxscores/201504220ATL.html
+Wed Apr 22 2015,Memphis Grizzlies,Portland Trail Blazers,97,82,FedEx Forum,18119,/boxscores/201504220MEM.html
+Wed Apr 22 2015,Los Angeles Clippers,San Antonio Spurs,107,111,STAPLES Center,19482,/boxscores/201504220LAC.html
+Thu Apr 23 2015,Boston Celtics,Cleveland Cavaliers,95,103,TD Garden,18624,/boxscores/201504230BOS.html
+Thu Apr 23 2015,Milwaukee Bucks,Chicago Bulls,106,113,BMO Harris Bradley Center,18717,/boxscores/201504230MIL.html
+Thu Apr 23 2015,New Orleans Pelicans,Golden State Warriors,119,123,Smoothie King Center,18444,/boxscores/201504230NOP.html
+Fri Apr 24 2015,Dallas Mavericks,Houston Rockets,128,130,American Airlines Center,20651,/boxscores/201504240DAL.html
+Fri Apr 24 2015,Washington Wizards,Toronto Raptors,106,99,Verizon Center,20356,/boxscores/201504240WAS.html
+Fri Apr 24 2015,San Antonio Spurs,Los Angeles Clippers,100,73,AT&T Center,18581,/boxscores/201504240SAS.html
+Sat Apr 25 2015,Brooklyn Nets,Atlanta Hawks,91,83,Barclays Center,17732,/boxscores/201504250BRK.html
+Sat Apr 25 2015,Milwaukee Bucks,Chicago Bulls,92,90,BMO Harris Bradley Center,18717,/boxscores/201504250MIL.html
+Sat Apr 25 2015,New Orleans Pelicans,Golden State Warriors,98,109,Smoothie King Center,18443,/boxscores/201504250NOP.html
+Sat Apr 25 2015,Portland Trail Blazers,Memphis Grizzlies,109,115,Moda Center,19945,/boxscores/201504250POR.html
+Sun Apr 26 2015,Boston Celtics,Cleveland Cavaliers,93,101,TD Garden,18624,/boxscores/201504260BOS.html
+Sun Apr 26 2015,San Antonio Spurs,Los Angeles Clippers,105,114,AT&T Center,18581,/boxscores/201504260SAS.html
+Sun Apr 26 2015,Washington Wizards,Toronto Raptors,125,94,Verizon Center,20356,/boxscores/201504260WAS.html
+Sun Apr 26 2015,Dallas Mavericks,Houston Rockets,121,109,American Airlines Center,20589,/boxscores/201504260DAL.html
+Mon Apr 27 2015,Brooklyn Nets,Atlanta Hawks,120,115,Barclays Center,17732,/boxscores/201504270BRK.html
+Mon Apr 27 2015,Chicago Bulls,Milwaukee Bucks,88,94,United Center,21814,/boxscores/201504270CHI.html
+Mon Apr 27 2015,Portland Trail Blazers,Memphis Grizzlies,99,92,Moda Center,19541,/boxscores/201504270POR.html
+Tue Apr 28 2015,Houston Rockets,Dallas Mavericks,103,94,Toyota Center,18231,/boxscores/201504280HOU.html
+Tue Apr 28 2015,Los Angeles Clippers,San Antonio Spurs,107,111,STAPLES Center,19571,/boxscores/201504280LAC.html
+Wed Apr 29 2015,Atlanta Hawks,Brooklyn Nets,107,97,Philips Arena,18105,/boxscores/201504290ATL.html
+Wed Apr 29 2015,Memphis Grizzlies,Portland Trail Blazers,99,93,FedEx Forum,18119,/boxscores/201504290MEM.html
+Thu Apr 30 2015,Milwaukee Bucks,Chicago Bulls,66,120,BMO Harris Bradley Center,18717,/boxscores/201504300MIL.html
+Thu Apr 30 2015,San Antonio Spurs,Los Angeles Clippers,96,102,AT&T Center,18581,/boxscores/201504300SAS.html

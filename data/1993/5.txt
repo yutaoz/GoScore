@@ -1,0 +1,57 @@
+Sat May 1 1993,Cleveland Cavaliers,New Jersey Nets,99,101,Coliseum at Richfield,20273,/boxscores/199305010CLE.html
+Sat May 1 1993,Boston Celtics,Charlotte Hornets,98,99,Boston Garden,14890,/boxscores/199305010BOS.html
+Sat May 1 1993,Portland Trail Blazers,San Antonio Spurs,105,96,Memorial Coliseum,12888,/boxscores/199305010POR.html
+Sat May 1 1993,Houston Rockets,Los Angeles Clippers,83,95,The Summit,16611,/boxscores/199305010HOU.html
+Sun May 2 1993,Chicago Bulls,Atlanta Hawks,117,102,Chicago Stadium,18676,/boxscores/199305020CHI.html
+Sun May 2 1993,New York Knicks,Indiana Pacers,101,91,Madison Square Garden (IV),19763,/boxscores/199305020NYK.html
+Sun May 2 1993,Phoenix Suns,Los Angeles Lakers,81,86,America West Arena,19023,/boxscores/199305020PHO.html
+Sun May 2 1993,Seattle SuperSonics,Utah Jazz,85,89,Seattle Center Coliseum,14513,/boxscores/199305020SEA.html
+Mon May 3 1993,Charlotte Hornets,Boston Celtics,119,89,Charlotte Coliseum,23698,/boxscores/199305030CHH.html
+Mon May 3 1993,Los Angeles Clippers,Houston Rockets,99,111,Los Angeles Memorial Sports Arena,12628,/boxscores/199305030LAC.html
+Tue May 4 1993,Atlanta Hawks,Chicago Bulls,88,98,Omni Coliseum,15141,/boxscores/199305040ATL.html
+Tue May 4 1993,Indiana Pacers,New York Knicks,116,93,Market Square Arena,11380,/boxscores/199305040IND.html
+Tue May 4 1993,Los Angeles Lakers,Phoenix Suns,102,107,Great Western Forum,17505,/boxscores/199305040LAL.html
+Tue May 4 1993,Utah Jazz,Seattle SuperSonics,90,80,Delta Center,19911,/boxscores/199305040UTA.html
+Wed May 5 1993,New Jersey Nets,Cleveland Cavaliers,84,93,Brendan Byrne Arena,16453,/boxscores/199305050NJN.html
+Wed May 5 1993,San Antonio Spurs,Portland Trail Blazers,107,101,HemisFair Arena,16057,/boxscores/199305050SAS.html
+Wed May 5 1993,Los Angeles Clippers,Houston Rockets,93,90,Los Angeles Memorial Sports Arena,14710,/boxscores/199305050LAC.html
+Wed May 5 1993,Charlotte Hornets,Boston Celtics,104,103,Charlotte Coliseum,23698,/boxscores/199305050CHH.html
+Thu May 6 1993,Indiana Pacers,New York Knicks,100,109,Market Square Arena,13059,/boxscores/199305060IND.html
+Thu May 6 1993,Los Angeles Lakers,Phoenix Suns,86,101,Great Western Forum,17505,/boxscores/199305060LAL.html
+Thu May 6 1993,Utah Jazz,Seattle SuperSonics,80,93,Delta Center,19911,/boxscores/199305060UTA.html
+Fri May 7 1993,New Jersey Nets,Cleveland Cavaliers,96,79,Brendan Byrne Arena,15238,/boxscores/199305070NJN.html
+Fri May 7 1993,San Antonio Spurs,Portland Trail Blazers,100,97,HemisFair Arena,16057,/boxscores/199305070SAS.html
+Sat May 8 1993,Houston Rockets,Los Angeles Clippers,84,80,The Summit,16611,/boxscores/199305080HOU.html
+Sat May 8 1993,Seattle SuperSonics,Utah Jazz,100,92,Seattle Center Coliseum,14812,/boxscores/199305080SEA.html
+Sun May 9 1993,Cleveland Cavaliers,New Jersey Nets,99,89,Coliseum at Richfield,17388,/boxscores/199305090CLE.html
+Sun May 9 1993,New York Knicks,Charlotte Hornets,111,95,Madison Square Garden (IV),19763,/boxscores/199305090NYK.html
+Sun May 9 1993,Phoenix Suns,Los Angeles Lakers,112,104,America West Arena,19023,/boxscores/199305090PHO.html
+Mon May 10 1993,Seattle SuperSonics,Houston Rockets,99,90,Seattle Center Coliseum,14252,/boxscores/199305100SEA.html
+Tue May 11 1993,Phoenix Suns,San Antonio Spurs,98,89,America West Arena,19023,/boxscores/199305110PHO.html
+Tue May 11 1993,Chicago Bulls,Cleveland Cavaliers,91,84,Chicago Stadium,18676,/boxscores/199305110CHI.html
+Wed May 12 1993,New York Knicks,Charlotte Hornets,105,101,Madison Square Garden (IV),19763,/boxscores/199305120NYK.html
+Wed May 12 1993,Seattle SuperSonics,Houston Rockets,111,100,Seattle Center Coliseum,14732,/boxscores/199305120SEA.html
+Thu May 13 1993,Chicago Bulls,Cleveland Cavaliers,104,85,Chicago Stadium,18676,/boxscores/199305130CHI.html
+Thu May 13 1993,Phoenix Suns,San Antonio Spurs,109,103,America West Arena,19023,/boxscores/199305130PHO.html
+Fri May 14 1993,Charlotte Hornets,New York Knicks,110,106,Charlotte Coliseum,23698,/boxscores/199305140CHH.html
+Sat May 15 1993,Cleveland Cavaliers,Chicago Bulls,90,96,Coliseum at Richfield,20273,/boxscores/199305150CLE.html
+Sat May 15 1993,Houston Rockets,Seattle SuperSonics,97,79,The Summit,16611,/boxscores/199305150HOU.html
+Sat May 15 1993,San Antonio Spurs,Phoenix Suns,111,96,HemisFair Arena,16057,/boxscores/199305150SAS.html
+Sun May 16 1993,Charlotte Hornets,New York Knicks,92,94,Charlotte Coliseum,23698,/boxscores/199305160CHH.html
+Sun May 16 1993,Houston Rockets,Seattle SuperSonics,103,92,The Summit,16611,/boxscores/199305160HOU.html
+Sun May 16 1993,San Antonio Spurs,Phoenix Suns,117,103,HemisFair Arena,16057,/boxscores/199305160SAS.html
+Mon May 17 1993,Cleveland Cavaliers,Chicago Bulls,101,103,Coliseum at Richfield,20274,/boxscores/199305170CLE.html
+Tue May 18 1993,New York Knicks,Charlotte Hornets,105,101,Madison Square Garden (IV),19763,/boxscores/199305180NYK.html
+Tue May 18 1993,Seattle SuperSonics,Houston Rockets,120,95,Seattle Center Coliseum,14433,/boxscores/199305180SEA.html
+Tue May 18 1993,Phoenix Suns,San Antonio Spurs,109,97,America West Arena,19023,/boxscores/199305180PHO.html
+Thu May 20 1993,Houston Rockets,Seattle SuperSonics,103,90,The Summit,16611,/boxscores/199305200HOU.html
+Thu May 20 1993,San Antonio Spurs,Phoenix Suns,100,102,HemisFair Arena,16057,/boxscores/199305200SAS.html
+Sat May 22 1993,Seattle SuperSonics,Houston Rockets,103,100,Seattle Center Coliseum,14812,/boxscores/199305220SEA.html
+Sun May 23 1993,New York Knicks,Chicago Bulls,98,90,Madison Square Garden (IV),19763,/boxscores/199305230NYK.html
+Mon May 24 1993,Phoenix Suns,Seattle SuperSonics,105,91,America West Arena,19023,/boxscores/199305240PHO.html
+Tue May 25 1993,New York Knicks,Chicago Bulls,96,91,Madison Square Garden (IV),19763,/boxscores/199305250NYK.html
+Wed May 26 1993,Phoenix Suns,Seattle SuperSonics,99,103,America West Arena,19023,/boxscores/199305260PHO.html
+Fri May 28 1993,Seattle SuperSonics,Phoenix Suns,97,104,Seattle Center Coliseum,14812,/boxscores/199305280SEA.html
+Sat May 29 1993,Chicago Bulls,New York Knicks,103,83,Chicago Stadium,18676,/boxscores/199305290CHI.html
+Sun May 30 1993,Seattle SuperSonics,Phoenix Suns,120,101,Seattle Center Coliseum,14812,/boxscores/199305300SEA.html
+Mon May 31 1993,Chicago Bulls,New York Knicks,105,95,Chicago Stadium,18676,/boxscores/199305310CHI.html

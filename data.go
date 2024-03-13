@@ -28,6 +28,7 @@ func check(e error) {
 	}
 }
 
+// gets a slice of urls for each months games in a particular season
 func getMonths(url string) []string {
 	request, err := http.NewRequest("GET", url, nil)
 	check(err)
@@ -64,6 +65,7 @@ func getMonths(url string) []string {
 	return results
 }
 
+// gets list of game data for a month url
 func getData(baseurl string) []string {
 	//baseurl := "https://www.basketball-reference.com/leagues/NBA_1984_games-november.html"
 	request, error := http.NewRequest("GET", baseurl, nil)
@@ -105,6 +107,7 @@ func getData(baseurl string) []string {
 	return dataFields
 }
 
+// parses game data
 func parseInfo(game string) Game {
 	// get Day
 	sIndex := strings.Index(game, "year=")
@@ -176,6 +179,7 @@ func parseInfo(game string) Game {
 
 }
 
+// writes game data to file
 func writeData(data []string, month int, year int) {
 	fpath := "data/" + strconv.Itoa(year) + "/" + strconv.Itoa(month) + ".txt"
 	err := os.MkdirAll(filepath.Dir(fpath), 0755)

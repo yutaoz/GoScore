@@ -1,0 +1,162 @@
+Sun Apr 1 2001,Philadelphia 76ers,Indiana Pacers,104,93,First Union Center,20690,/boxscores/200104010PHI.html
+Sun Apr 1 2001,Charlotte Hornets,Boston Celtics,80,79,Charlotte Coliseum,15103,/boxscores/200104010CHH.html
+Sun Apr 1 2001,Portland Trail Blazers,Minnesota Timberwolves,95,99,Rose Garden Arena,20580,/boxscores/200104010POR.html
+Sun Apr 1 2001,Vancouver Grizzlies,Utah Jazz,73,92,General Motors Place,13093,/boxscores/200104010VAN.html
+Sun Apr 1 2001,Los Angeles Lakers,New York Knicks,78,79,STAPLES Center,18997,/boxscores/200104010LAL.html
+Sun Apr 1 2001,Toronto Raptors,Orlando Magic,101,104,Air Canada Centre,19971,/boxscores/200104010TOR.html
+Sun Apr 1 2001,Detroit Pistons,Golden State Warriors,104,87,The Palace of Auburn Hills,12237,/boxscores/200104010DET.html
+Sun Apr 1 2001,New Jersey Nets,Houston Rockets,101,98,Continental Airlines Arena,12142,/boxscores/200104010NJN.html
+Sun Apr 1 2001,Phoenix Suns,Milwaukee Bucks,106,99,America West Arena,18464,/boxscores/200104010PHO.html
+Sun Apr 1 2001,Sacramento Kings,Dallas Mavericks,107,119,ARCO Arena (II),17317,/boxscores/200104010SAC.html
+Tue Apr 3 2001,Miami Heat,Boston Celtics,77,82,AmericanAirlines Arena,16500,/boxscores/200104030MIA.html
+Tue Apr 3 2001,New Jersey Nets,Charlotte Hornets,88,103,Continental Airlines Arena,14452,/boxscores/200104030NJN.html
+Tue Apr 3 2001,New York Knicks,Orlando Magic,94,82,Madison Square Garden (IV),19763,/boxscores/200104030NYK.html
+Tue Apr 3 2001,Indiana Pacers,Phoenix Suns,85,81,Conseco Fieldhouse,17616,/boxscores/200104030IND.html
+Tue Apr 3 2001,Toronto Raptors,Philadelphia 76ers,100,85,Air Canada Centre,19800,/boxscores/200104030TOR.html
+Tue Apr 3 2001,Utah Jazz,Los Angeles Lakers,88,96,Delta Center,19911,/boxscores/200104030UTA.html
+Tue Apr 3 2001,Chicago Bulls,Detroit Pistons,83,110,United Center,21749,/boxscores/200104030CHI.html
+Tue Apr 3 2001,Houston Rockets,Dallas Mavericks,97,109,Compaq Center,11926,/boxscores/200104030HOU.html
+Tue Apr 3 2001,San Antonio Spurs,Seattle SuperSonics,107,89,Alamodome,19672,/boxscores/200104030SAS.html
+Tue Apr 3 2001,Denver Nuggets,Portland Trail Blazers,94,92,Pepsi Center,13755,/boxscores/200104030DEN.html
+Tue Apr 3 2001,Sacramento Kings,Milwaukee Bucks,101,107,ARCO Arena (II),17317,/boxscores/200104030SAC.html
+Wed Apr 4 2001,Washington Wizards,Miami Heat,84,86,MCI Center,12904,/boxscores/200104040WAS.html
+Wed Apr 4 2001,Charlotte Hornets,Phoenix Suns,94,103,Charlotte Coliseum,15205,/boxscores/200104040CHH.html
+Wed Apr 4 2001,Cleveland Cavaliers,Toronto Raptors,94,97,Gund Arena,15414,/boxscores/200104040CLE.html
+Wed Apr 4 2001,Detroit Pistons,Philadelphia 76ers,84,90,The Palace of Auburn Hills,16485,/boxscores/200104040DET.html
+Wed Apr 4 2001,Orlando Magic,Boston Celtics,108,101,TD Waterhouse Centre,15689,/boxscores/200104040ORL.html
+Wed Apr 4 2001,Minnesota Timberwolves,Portland Trail Blazers,83,79,Target Center,17207,/boxscores/200104040MIN.html
+Wed Apr 4 2001,Vancouver Grizzlies,Los Angeles Clippers,86,78,General Motors Place,11312,/boxscores/200104040VAN.html
+Wed Apr 4 2001,Golden State Warriors,Milwaukee Bucks,78,108,The Arena in Oakland,11600,/boxscores/200104040GSW.html
+Thu Apr 5 2001,New York Knicks,Washington Wizards,93,80,Madison Square Garden (IV),19763,/boxscores/200104050NYK.html
+Thu Apr 5 2001,Utah Jazz,Sacramento Kings,86,92,Delta Center,19911,/boxscores/200104050UTA.html
+Thu Apr 5 2001,Chicago Bulls,Los Angeles Lakers,88,100,United Center,23217,/boxscores/200104050CHI.html
+Thu Apr 5 2001,Dallas Mavericks,Atlanta Hawks,108,94,Reunion Arena,18187,/boxscores/200104050DAL.html
+Thu Apr 5 2001,Houston Rockets,Seattle SuperSonics,91,88,Compaq Center,11700,/boxscores/200104050HOU.html
+Thu Apr 5 2001,Denver Nuggets,San Antonio Spurs,80,101,Pepsi Center,13796,/boxscores/200104050DEN.html
+Fri Apr 6 2001,Philadelphia 76ers,Cleveland Cavaliers,96,88,First Union Center,20767,/boxscores/200104060PHI.html
+Fri Apr 6 2001,Boston Celtics,Los Angeles Lakers,96,100,FleetCenter,18624,/boxscores/200104060BOS.html
+Fri Apr 6 2001,Miami Heat,Charlotte Hornets,81,76,AmericanAirlines Arena,16500,/boxscores/200104060MIA.html
+Fri Apr 6 2001,Orlando Magic,Toronto Raptors,100,108,TD Waterhouse Centre,17248,/boxscores/200104060ORL.html
+Fri Apr 6 2001,Indiana Pacers,Chicago Bulls,100,93,Conseco Fieldhouse,18345,/boxscores/200104060IND.html
+Fri Apr 6 2001,Minnesota Timberwolves,Phoenix Suns,101,88,Target Center,18627,/boxscores/200104060MIN.html
+Fri Apr 6 2001,Vancouver Grizzlies,Sacramento Kings,90,118,General Motors Place,14863,/boxscores/200104060VAN.html
+Fri Apr 6 2001,Golden State Warriors,Portland Trail Blazers,91,122,The Arena in Oakland,15325,/boxscores/200104060GSW.html
+Fri Apr 6 2001,Los Angeles Clippers,Milwaukee Bucks,113,110,STAPLES Center,17329,/boxscores/200104060LAC.html
+Sat Apr 7 2001,Washington Wizards,Boston Celtics,100,102,MCI Center,18046,/boxscores/200104070WAS.html
+Sat Apr 7 2001,Charlotte Hornets,Detroit Pistons,92,97,Charlotte Coliseum,16655,/boxscores/200104070CHH.html
+Sat Apr 7 2001,Cleveland Cavaliers,Phoenix Suns,98,102,Gund Arena,18910,/boxscores/200104070CLE.html
+Sat Apr 7 2001,Dallas Mavericks,Utah Jazz,103,116,Reunion Arena,18187,/boxscores/200104070DAL.html
+Sat Apr 7 2001,Houston Rockets,Atlanta Hawks,110,97,Compaq Center,12213,/boxscores/200104070HOU.html
+Sat Apr 7 2001,Denver Nuggets,Vancouver Grizzlies,98,97,Pepsi Center,14934,/boxscores/200104070DEN.html
+Sat Apr 7 2001,Los Angeles Clippers,San Antonio Spurs,83,93,STAPLES Center,18964,/boxscores/200104070LAC.html
+Sun Apr 8 2001,Miami Heat,New York Knicks,81,76,AmericanAirlines Arena,21103,/boxscores/200104080MIA.html
+Sun Apr 8 2001,New Jersey Nets,Indiana Pacers,83,108,Continental Airlines Arena,20049,/boxscores/200104080NJN.html
+Sun Apr 8 2001,Sacramento Kings,Portland Trail Blazers,98,89,ARCO Arena (II),17317,/boxscores/200104080SAC.html
+Sun Apr 8 2001,Toronto Raptors,Chicago Bulls,100,88,Air Canada Centre,19800,/boxscores/200104080TOR.html
+Sun Apr 8 2001,Minnesota Timberwolves,Los Angeles Lakers,99,104,Target Center,20099,/boxscores/200104080MIN.html
+Sun Apr 8 2001,Golden State Warriors,San Antonio Spurs,76,84,The Arena in Oakland,15273,/boxscores/200104080GSW.html
+Sun Apr 8 2001,Seattle SuperSonics,Milwaukee Bucks,101,88,KeyArena at Seattle Center,15575,/boxscores/200104080SEA.html
+Mon Apr 9 2001,Philadelphia 76ers,Boston Celtics,108,95,First Union Center,20365,/boxscores/200104090PHI.html
+Mon Apr 9 2001,Detroit Pistons,Atlanta Hawks,81,69,The Palace of Auburn Hills,14557,/boxscores/200104090DET.html
+Mon Apr 9 2001,New York Knicks,Charlotte Hornets,113,98,Madison Square Garden (IV),19763,/boxscores/200104090NYK.html
+Mon Apr 9 2001,Indiana Pacers,Washington Wizards,100,78,Conseco Fieldhouse,16393,/boxscores/200104090IND.html
+Mon Apr 9 2001,Utah Jazz,Houston Rockets,96,81,Delta Center,19911,/boxscores/200104090UTA.html
+Tue Apr 10 2001,Cleveland Cavaliers,Orlando Magic,101,78,Gund Arena,15215,/boxscores/200104100CLE.html
+Tue Apr 10 2001,Miami Heat,Philadelphia 76ers,83,81,AmericanAirlines Arena,20098,/boxscores/200104100MIA.html
+Tue Apr 10 2001,Milwaukee Bucks,Chicago Bulls,105,84,Bradley Center,18717,/boxscores/200104100MIL.html
+Tue Apr 10 2001,Houston Rockets,Denver Nuggets,99,100,Compaq Center,11989,/boxscores/200104100HOU.html
+Tue Apr 10 2001,San Antonio Spurs,Dallas Mavericks,91,79,Alamodome,25682,/boxscores/200104100SAS.html
+Tue Apr 10 2001,Portland Trail Blazers,Golden State Warriors,116,88,Rose Garden Arena,20580,/boxscores/200104100POR.html
+Tue Apr 10 2001,Vancouver Grizzlies,Minnesota Timberwolves,91,104,General Motors Place,10430,/boxscores/200104100VAN.html
+Tue Apr 10 2001,Los Angeles Lakers,Phoenix Suns,106,80,STAPLES Center,18997,/boxscores/200104100LAL.html
+Tue Apr 10 2001,Sacramento Kings,Los Angeles Clippers,116,109,ARCO Arena (II),17317,/boxscores/200104100SAC.html
+Wed Apr 11 2001,Boston Celtics,Miami Heat,97,102,FleetCenter,17121,/boxscores/200104110BOS.html
+Wed Apr 11 2001,Washington Wizards,Chicago Bulls,109,113,MCI Center,12266,/boxscores/200104110WAS.html
+Wed Apr 11 2001,Atlanta Hawks,Cleveland Cavaliers,107,102,Philips Arena,12842,/boxscores/200104110ATL.html
+Wed Apr 11 2001,Detroit Pistons,Toronto Raptors,99,87,The Palace of Auburn Hills,18790,/boxscores/200104110DET.html
+Wed Apr 11 2001,Indiana Pacers,New York Knicks,100,93,Conseco Fieldhouse,17857,/boxscores/200104110IND.html
+Wed Apr 11 2001,Phoenix Suns,Dallas Mavericks,111,106,America West Arena,19023,/boxscores/200104110PHO.html
+Wed Apr 11 2001,Seattle SuperSonics,Golden State Warriors,107,101,KeyArena at Seattle Center,14197,/boxscores/200104110SEA.html
+Thu Apr 12 2001,Charlotte Hornets,New Jersey Nets,88,78,Charlotte Coliseum,12898,/boxscores/200104120CHH.html
+Thu Apr 12 2001,Milwaukee Bucks,Utah Jazz,115,93,Bradley Center,18717,/boxscores/200104120MIL.html
+Thu Apr 12 2001,Orlando Magic,Philadelphia 76ers,101,77,TD Waterhouse Centre,17248,/boxscores/200104120ORL.html
+Thu Apr 12 2001,San Antonio Spurs,Sacramento Kings,105,107,Alamodome,34357,/boxscores/200104120SAS.html
+Thu Apr 12 2001,Vancouver Grizzlies,Portland Trail Blazers,87,100,General Motors Place,12796,/boxscores/200104120VAN.html
+Thu Apr 12 2001,Los Angeles Lakers,Minnesota Timberwolves,119,102,STAPLES Center,18997,/boxscores/200104120LAL.html
+Fri Apr 13 2001,Washington Wizards,Orlando Magic,113,110,MCI Center,14104,/boxscores/200104130WAS.html
+Fri Apr 13 2001,New Jersey Nets,Cleveland Cavaliers,91,97,Continental Airlines Arena,16770,/boxscores/200104130NJN.html
+Fri Apr 13 2001,New York Knicks,Atlanta Hawks,101,65,Madison Square Garden (IV),19763,/boxscores/200104130NYK.html
+Fri Apr 13 2001,Indiana Pacers,Boston Celtics,113,108,Conseco Fieldhouse,18345,/boxscores/200104130IND.html
+Fri Apr 13 2001,Toronto Raptors,Miami Heat,94,82,Air Canada Centre,20104,/boxscores/200104130TOR.html
+Fri Apr 13 2001,Chicago Bulls,Utah Jazz,83,94,United Center,22579,/boxscores/200104130CHI.html
+Fri Apr 13 2001,Dallas Mavericks,Sacramento Kings,101,97,Reunion Arena,18187,/boxscores/200104130DAL.html
+Fri Apr 13 2001,Denver Nuggets,Golden State Warriors,108,92,Pepsi Center,15874,/boxscores/200104130DEN.html
+Fri Apr 13 2001,Phoenix Suns,Seattle SuperSonics,109,100,America West Arena,19023,/boxscores/200104130PHO.html
+Fri Apr 13 2001,Portland Trail Blazers,Houston Rockets,103,109,Rose Garden Arena,20580,/boxscores/200104130POR.html
+Fri Apr 13 2001,Los Angeles Clippers,Minnesota Timberwolves,111,105,STAPLES Center,18964,/boxscores/200104130LAC.html
+Sat Apr 14 2001,Atlanta Hawks,Detroit Pistons,124,129,Philips Arena,17295,/boxscores/200104140ATL.html
+Sat Apr 14 2001,Milwaukee Bucks,Toronto Raptors,112,86,Bradley Center,18717,/boxscores/200104140MIL.html
+Sat Apr 14 2001,San Antonio Spurs,Denver Nuggets,111,95,Alamodome,34397,/boxscores/200104140SAS.html
+Sat Apr 14 2001,Vancouver Grizzlies,Houston Rockets,95,100,General Motors Place,18571,/boxscores/200104140VAN.html
+Sat Apr 14 2001,Golden State Warriors,Los Angeles Clippers,94,106,The Arena in Oakland,12849,/boxscores/200104140GSW.html
+Sun Apr 15 2001,Boston Celtics,New Jersey Nets,95,88,FleetCenter,15148,/boxscores/200104150BOS.html
+Sun Apr 15 2001,Philadelphia 76ers,New York Knicks,89,82,First Union Center,20699,/boxscores/200104150PHI.html
+Sun Apr 15 2001,Washington Wizards,Cleveland Cavaliers,98,106,MCI Center,11668,/boxscores/200104150WAS.html
+Sun Apr 15 2001,Miami Heat,Orlando Magic,73,90,AmericanAirlines Arena,16500,/boxscores/200104150MIA.html
+Sun Apr 15 2001,Chicago Bulls,Indiana Pacers,86,93,United Center,21788,/boxscores/200104150CHI.html
+Sun Apr 15 2001,Minnesota Timberwolves,Utah Jazz,107,100,Target Center,17447,/boxscores/200104150MIN.html
+Sun Apr 15 2001,Los Angeles Lakers,Portland Trail Blazers,105,100,STAPLES Center,18997,/boxscores/200104150LAL.html
+Sun Apr 15 2001,Detroit Pistons,Charlotte Hornets,90,99,The Palace of Auburn Hills,16678,/boxscores/200104150DET.html
+Sun Apr 15 2001,Seattle SuperSonics,Dallas Mavericks,99,107,KeyArena at Seattle Center,15194,/boxscores/200104150SEA.html
+Sun Apr 15 2001,Phoenix Suns,Sacramento Kings,88,86,America West Arena,19023,/boxscores/200104150PHO.html
+Mon Apr 16 2001,Charlotte Hornets,Atlanta Hawks,106,83,Charlotte Coliseum,14413,/boxscores/200104160CHH.html
+Mon Apr 16 2001,Cleveland Cavaliers,New York Knicks,80,78,Gund Arena,15908,/boxscores/200104160CLE.html
+Mon Apr 16 2001,Orlando Magic,Milwaukee Bucks,89,101,TD Waterhouse Centre,17248,/boxscores/200104160ORL.html
+Mon Apr 16 2001,Golden State Warriors,Dallas Mavericks,101,110,The Arena in Oakland,13393,/boxscores/200104160GSW.html
+Mon Apr 16 2001,Los Angeles Clippers,Phoenix Suns,100,80,STAPLES Center,19347,/boxscores/200104160LAC.html
+Mon Apr 16 2001,Sacramento Kings,Vancouver Grizzlies,110,100,ARCO Arena (II),17317,/boxscores/200104160SAC.html
+Tue Apr 17 2001,Toronto Raptors,Detroit Pistons,94,92,Air Canada Centre,19800,/boxscores/200104170TOR.html
+Tue Apr 17 2001,Atlanta Hawks,Washington Wizards,122,119,Philips Arena,13257,/boxscores/200104170ATL.html
+Tue Apr 17 2001,Miami Heat,Milwaukee Bucks,91,89,AmericanAirlines Arena,16500,/boxscores/200104170MIA.html
+Tue Apr 17 2001,New Jersey Nets,Chicago Bulls,94,100,Continental Airlines Arena,17123,/boxscores/200104170NJN.html
+Tue Apr 17 2001,Indiana Pacers,Philadelphia 76ers,105,111,Conseco Fieldhouse,18345,/boxscores/200104170IND.html
+Tue Apr 17 2001,Houston Rockets,Minnesota Timberwolves,114,87,Compaq Center,16285,/boxscores/200104170HOU.html
+Tue Apr 17 2001,Portland Trail Blazers,San Antonio Spurs,93,99,Rose Garden Arena,20580,/boxscores/200104170POR.html
+Tue Apr 17 2001,Utah Jazz,Los Angeles Clippers,97,92,Delta Center,19667,/boxscores/200104170UTA.html
+Tue Apr 17 2001,Los Angeles Lakers,Denver Nuggets,108,91,STAPLES Center,18997,/boxscores/200104170LAL.html
+Wed Apr 18 2001,Boston Celtics,Charlotte Hornets,92,97,FleetCenter,17762,/boxscores/200104180BOS.html
+Wed Apr 18 2001,Philadelphia 76ers,Chicago Bulls,86,92,First Union Center,19449,/boxscores/200104180PHI.html
+Wed Apr 18 2001,Washington Wizards,Toronto Raptors,92,98,MCI Center,16427,/boxscores/200104180WAS.html
+Wed Apr 18 2001,Cleveland Cavaliers,Indiana Pacers,101,105,Gund Arena,17290,/boxscores/200104180CLE.html
+Wed Apr 18 2001,New York Knicks,Detroit Pistons,94,88,Madison Square Garden (IV),19763,/boxscores/200104180NYK.html
+Wed Apr 18 2001,Orlando Magic,Miami Heat,91,103,TD Waterhouse Centre,16377,/boxscores/200104180ORL.html
+Wed Apr 18 2001,Dallas Mavericks,Minnesota Timberwolves,120,100,Reunion Arena,18187,/boxscores/200104180DAL.html
+Wed Apr 18 2001,Denver Nuggets,Sacramento Kings,110,100,Pepsi Center,18495,/boxscores/200104180DEN.html
+Wed Apr 18 2001,Seattle SuperSonics,San Antonio Spurs,105,67,KeyArena at Seattle Center,16049,/boxscores/200104180SEA.html
+Wed Apr 18 2001,Golden State Warriors,Vancouver Grizzlies,81,95,The Arena in Oakland,14437,/boxscores/200104180GSW.html
+Wed Apr 18 2001,Phoenix Suns,Utah Jazz,98,93,America West Arena,19023,/boxscores/200104180PHO.html
+Sat Apr 21 2001,Philadelphia 76ers,Indiana Pacers,78,79,First Union Center,20613,/boxscores/200104210PHI.html
+Sat Apr 21 2001,Utah Jazz,Dallas Mavericks,88,86,Delta Center,19100,/boxscores/200104210UTA.html
+Sat Apr 21 2001,San Antonio Spurs,Minnesota Timberwolves,87,82,Alamodome,33983,/boxscores/200104210SAS.html
+Sat Apr 21 2001,Miami Heat,Charlotte Hornets,80,106,AmericanAirlines Arena,20085,/boxscores/200104210MIA.html
+Sun Apr 22 2001,New York Knicks,Toronto Raptors,92,85,Madison Square Garden (IV),19763,/boxscores/200104220NYK.html
+Sun Apr 22 2001,Sacramento Kings,Phoenix Suns,83,86,ARCO Arena (II),17317,/boxscores/200104220SAC.html
+Sun Apr 22 2001,Los Angeles Lakers,Portland Trail Blazers,106,93,STAPLES Center,18997,/boxscores/200104220LAL.html
+Sun Apr 22 2001,Milwaukee Bucks,Orlando Magic,103,90,Bradley Center,18717,/boxscores/200104220MIL.html
+Mon Apr 23 2001,Miami Heat,Charlotte Hornets,76,102,AmericanAirlines Arena,16500,/boxscores/200104230MIA.html
+Mon Apr 23 2001,San Antonio Spurs,Minnesota Timberwolves,86,69,Alamodome,31759,/boxscores/200104230SAS.html
+Tue Apr 24 2001,Philadelphia 76ers,Indiana Pacers,116,98,First Union Center,20739,/boxscores/200104240PHI.html
+Tue Apr 24 2001,Utah Jazz,Dallas Mavericks,109,98,Delta Center,19911,/boxscores/200104240UTA.html
+Wed Apr 25 2001,Milwaukee Bucks,Orlando Magic,103,96,Bradley Center,18717,/boxscores/200104250MIL.html
+Wed Apr 25 2001,Sacramento Kings,Phoenix Suns,116,90,ARCO Arena (II),17317,/boxscores/200104250SAC.html
+Thu Apr 26 2001,New York Knicks,Toronto Raptors,74,94,Madison Square Garden (IV),19763,/boxscores/200104260NYK.html
+Thu Apr 26 2001,Los Angeles Lakers,Portland Trail Blazers,106,88,STAPLES Center,18997,/boxscores/200104260LAL.html
+Fri Apr 27 2001,Charlotte Hornets,Miami Heat,94,79,Charlotte Coliseum,22283,/boxscores/200104270CHH.html
+Sat Apr 28 2001,Indiana Pacers,Philadelphia 76ers,87,92,Conseco Fieldhouse,18345,/boxscores/200104280IND.html
+Sat Apr 28 2001,Dallas Mavericks,Utah Jazz,94,91,Reunion Arena,18187,/boxscores/200104280DAL.html
+Sat Apr 28 2001,Minnesota Timberwolves,San Antonio Spurs,93,84,Target Center,17676,/boxscores/200104280MIN.html
+Sat Apr 28 2001,Orlando Magic,Milwaukee Bucks,121,116,TD Waterhouse Centre,17248,/boxscores/200104280ORL.html
+Sun Apr 29 2001,Toronto Raptors,New York Knicks,89,97,Air Canada Centre,20217,/boxscores/200104290TOR.html
+Sun Apr 29 2001,Phoenix Suns,Sacramento Kings,96,104,America West Arena,19023,/boxscores/200104290PHO.html
+Sun Apr 29 2001,Portland Trail Blazers,Los Angeles Lakers,86,99,Rose Garden Arena,20580,/boxscores/200104290POR.html
+Mon Apr 30 2001,Minnesota Timberwolves,San Antonio Spurs,84,97,Target Center,16336,/boxscores/200104300MIN.html

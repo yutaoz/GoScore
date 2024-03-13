@@ -1,0 +1,36 @@
+Sun May 1 2016,Miami Heat,Charlotte Hornets,106,73,AmericanAirlines Arena,19868,/boxscores/201605010MIA.html
+Sun May 1 2016,Golden State Warriors,Portland Trail Blazers,118,106,Oracle Arena,19596,/boxscores/201605010GSW.html
+Sun May 1 2016,Toronto Raptors,Indiana Pacers,89,84,Air Canada Centre,20669,/boxscores/201605010TOR.html
+Mon May 2 2016,Cleveland Cavaliers,Atlanta Hawks,104,93,Quicken Loans Arena,20562,/boxscores/201605020CLE.html
+Mon May 2 2016,San Antonio Spurs,Oklahoma City Thunder,97,98,AT&T Center,18418,/boxscores/201605020SAS.html
+Tue May 3 2016,Toronto Raptors,Miami Heat,96,102,Air Canada Centre,19800,/boxscores/201605030TOR.html
+Tue May 3 2016,Golden State Warriors,Portland Trail Blazers,110,99,Oracle Arena,19596,/boxscores/201605030GSW.html
+Wed May 4 2016,Cleveland Cavaliers,Atlanta Hawks,123,98,Quicken Loans Arena,20562,/boxscores/201605040CLE.html
+Thu May 5 2016,Toronto Raptors,Miami Heat,96,92,Air Canada Centre,20906,/boxscores/201605050TOR.html
+Fri May 6 2016,Atlanta Hawks,Cleveland Cavaliers,108,121,Philips Arena,19089,/boxscores/201605060ATL.html
+Fri May 6 2016,Oklahoma City Thunder,San Antonio Spurs,96,100,Chesapeake Energy Arena,18203,/boxscores/201605060OKC.html
+Sat May 7 2016,Miami Heat,Toronto Raptors,91,95,AmericanAirlines Arena,19675,/boxscores/201605070MIA.html
+Sat May 7 2016,Portland Trail Blazers,Golden State Warriors,120,108,Moda Center,19673,/boxscores/201605070POR.html
+Sun May 8 2016,Atlanta Hawks,Cleveland Cavaliers,99,100,Philips Arena,19031,/boxscores/201605080ATL.html
+Sun May 8 2016,Oklahoma City Thunder,San Antonio Spurs,111,97,Chesapeake Energy Arena,18203,/boxscores/201605080OKC.html
+Mon May 9 2016,Miami Heat,Toronto Raptors,94,87,AmericanAirlines Arena,19600,/boxscores/201605090MIA.html
+Mon May 9 2016,Portland Trail Blazers,Golden State Warriors,125,132,Moda Center,19583,/boxscores/201605090POR.html
+Tue May 10 2016,San Antonio Spurs,Oklahoma City Thunder,91,95,AT&T Center,18418,/boxscores/201605100SAS.html
+Wed May 11 2016,Toronto Raptors,Miami Heat,99,91,Air Canada Centre,20155,/boxscores/201605110TOR.html
+Wed May 11 2016,Golden State Warriors,Portland Trail Blazers,125,121,Oracle Arena,19596,/boxscores/201605110GSW.html
+Thu May 12 2016,Oklahoma City Thunder,San Antonio Spurs,113,99,Chesapeake Energy Arena,18203,/boxscores/201605120OKC.html
+Fri May 13 2016,Miami Heat,Toronto Raptors,103,91,AmericanAirlines Arena,19757,/boxscores/201605130MIA.html
+Sun May 15 2016,Toronto Raptors,Miami Heat,116,89,Air Canada Centre,20257,/boxscores/201605150TOR.html
+Mon May 16 2016,Golden State Warriors,Oklahoma City Thunder,102,108,Oracle Arena,19596,/boxscores/201605160GSW.html
+Tue May 17 2016,Cleveland Cavaliers,Toronto Raptors,115,84,Quicken Loans Arena,20562,/boxscores/201605170CLE.html
+Wed May 18 2016,Golden State Warriors,Oklahoma City Thunder,118,91,Oracle Arena,19596,/boxscores/201605180GSW.html
+Thu May 19 2016,Cleveland Cavaliers,Toronto Raptors,108,89,Quicken Loans Arena,20562,/boxscores/201605190CLE.html
+Sat May 21 2016,Toronto Raptors,Cleveland Cavaliers,99,84,Air Canada Centre,20207,/boxscores/201605210TOR.html
+Sun May 22 2016,Oklahoma City Thunder,Golden State Warriors,133,105,Chesapeake Energy Arena,18203,/boxscores/201605220OKC.html
+Mon May 23 2016,Toronto Raptors,Cleveland Cavaliers,105,99,Air Canada Centre,20367,/boxscores/201605230TOR.html
+Tue May 24 2016,Oklahoma City Thunder,Golden State Warriors,118,94,Chesapeake Energy Arena,18203,/boxscores/201605240OKC.html
+Wed May 25 2016,Cleveland Cavaliers,Toronto Raptors,116,78,Quicken Loans Arena,20562,/boxscores/201605250CLE.html
+Thu May 26 2016,Golden State Warriors,Oklahoma City Thunder,120,111,Oracle Arena,19596,/boxscores/201605260GSW.html
+Fri May 27 2016,Toronto Raptors,Cleveland Cavaliers,87,113,Air Canada Centre,20605,/boxscores/201605270TOR.html
+Sat May 28 2016,Oklahoma City Thunder,Golden State Warriors,101,108,Chesapeake Energy Arena,18203,/boxscores/201605280OKC.html
+Mon May 30 2016,Golden State Warriors,Oklahoma City Thunder,96,88,Oracle Arena,19596,/boxscores/201605300GSW.html

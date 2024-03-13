@@ -1,0 +1,41 @@
+Tue May 1 2007,Toronto Raptors,New Jersey Nets,98,96,Air Canada Centre,20511,/boxscores/200705010TOR.html
+Tue May 1 2007,Dallas Mavericks,Golden State Warriors,118,112,American Airlines Center,21041,/boxscores/200705010DAL.html
+Wed May 2 2007,San Antonio Spurs,Denver Nuggets,93,78,AT&T Center,18797,/boxscores/200705020SAS.html
+Wed May 2 2007,Phoenix Suns,Los Angeles Lakers,119,110,US Airways Center,18422,/boxscores/200705020PHO.html
+Thu May 3 2007,Utah Jazz,Houston Rockets,94,82,EnergySolutions Arena,19911,/boxscores/200705030UTA.html
+Thu May 3 2007,Golden State Warriors,Dallas Mavericks,111,86,Oracle Arena,20677,/boxscores/200705030GSW.html
+Fri May 4 2007,New Jersey Nets,Toronto Raptors,98,97,Continental Airlines Arena,17242,/boxscores/200705040NJN.html
+Sat May 5 2007,Detroit Pistons,Chicago Bulls,95,69,The Palace of Auburn Hills,22076,/boxscores/200705050DET.html
+Sat May 5 2007,Houston Rockets,Utah Jazz,99,103,Toyota Center,18307,/boxscores/200705050HOU.html
+Sun May 6 2007,Cleveland Cavaliers,New Jersey Nets,81,77,Quicken Loans Arena,20562,/boxscores/200705060CLE.html
+Sun May 6 2007,Phoenix Suns,San Antonio Spurs,106,111,US Airways Center,18422,/boxscores/200705060PHO.html
+Mon May 7 2007,Detroit Pistons,Chicago Bulls,108,87,The Palace of Auburn Hills,22076,/boxscores/200705070DET.html
+Mon May 7 2007,Utah Jazz,Golden State Warriors,116,112,EnergySolutions Arena,19911,/boxscores/200705070UTA.html
+Tue May 8 2007,Cleveland Cavaliers,New Jersey Nets,102,92,Quicken Loans Arena,20562,/boxscores/200705080CLE.html
+Tue May 8 2007,Phoenix Suns,San Antonio Spurs,101,81,US Airways Center,18422,/boxscores/200705080PHO.html
+Wed May 9 2007,Utah Jazz,Golden State Warriors,127,117,EnergySolutions Arena,19911,/boxscores/200705090UTA.html
+Thu May 10 2007,Chicago Bulls,Detroit Pistons,74,81,United Center,23462,/boxscores/200705100CHI.html
+Fri May 11 2007,Golden State Warriors,Utah Jazz,125,105,Oracle Arena,20655,/boxscores/200705110GSW.html
+Sat May 12 2007,New Jersey Nets,Cleveland Cavaliers,96,85,Continental Airlines Arena,20032,/boxscores/200705120NJN.html
+Sat May 12 2007,San Antonio Spurs,Phoenix Suns,108,101,AT&T Center,18797,/boxscores/200705120SAS.html
+Sun May 13 2007,Chicago Bulls,Detroit Pistons,102,87,United Center,23099,/boxscores/200705130CHI.html
+Sun May 13 2007,Golden State Warriors,Utah Jazz,101,115,Oracle Arena,20679,/boxscores/200705130GSW.html
+Mon May 14 2007,New Jersey Nets,Cleveland Cavaliers,85,87,Continental Airlines Arena,20032,/boxscores/200705140NJN.html
+Mon May 14 2007,San Antonio Spurs,Phoenix Suns,98,104,AT&T Center,18797,/boxscores/200705140SAS.html
+Tue May 15 2007,Detroit Pistons,Chicago Bulls,92,108,The Palace of Auburn Hills,22076,/boxscores/200705150DET.html
+Tue May 15 2007,Utah Jazz,Golden State Warriors,100,87,EnergySolutions Arena,19911,/boxscores/200705150UTA.html
+Wed May 16 2007,Cleveland Cavaliers,New Jersey Nets,72,83,Quicken Loans Arena,20562,/boxscores/200705160CLE.html
+Wed May 16 2007,Phoenix Suns,San Antonio Spurs,85,88,US Airways Center,18422,/boxscores/200705160PHO.html
+Thu May 17 2007,Chicago Bulls,Detroit Pistons,85,95,United Center,23030,/boxscores/200705170CHI.html
+Fri May 18 2007,New Jersey Nets,Cleveland Cavaliers,72,88,Continental Airlines Arena,20032,/boxscores/200705180NJN.html
+Fri May 18 2007,San Antonio Spurs,Phoenix Suns,114,106,AT&T Center,18797,/boxscores/200705180SAS.html
+Sun May 20 2007,San Antonio Spurs,Utah Jazz,108,100,AT&T Center,18300,/boxscores/200705200SAS.html
+Mon May 21 2007,Detroit Pistons,Cleveland Cavaliers,79,76,The Palace of Auburn Hills,22076,/boxscores/200705210DET.html
+Tue May 22 2007,San Antonio Spurs,Utah Jazz,105,96,AT&T Center,18797,/boxscores/200705220SAS.html
+Thu May 24 2007,Detroit Pistons,Cleveland Cavaliers,79,76,The Palace of Auburn Hills,22076,/boxscores/200705240DET.html
+Sat May 26 2007,Utah Jazz,San Antonio Spurs,109,83,EnergySolutions Arena,19911,/boxscores/200705260UTA.html
+Sun May 27 2007,Cleveland Cavaliers,Detroit Pistons,88,82,Quicken Loans Arena,20562,/boxscores/200705270CLE.html
+Mon May 28 2007,Utah Jazz,San Antonio Spurs,79,91,EnergySolutions Arena,19911,/boxscores/200705280UTA.html
+Tue May 29 2007,Cleveland Cavaliers,Detroit Pistons,91,87,Quicken Loans Arena,20562,/boxscores/200705290CLE.html
+Wed May 30 2007,San Antonio Spurs,Utah Jazz,109,84,AT&T Center,18797,/boxscores/200705300SAS.html
+Thu May 31 2007,Detroit Pistons,Cleveland Cavaliers,107,109,The Palace of Auburn Hills,22076,/boxscores/200705310DET.html

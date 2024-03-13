@@ -1,0 +1,39 @@
+Tue May 1 2001,Orlando Magic,Milwaukee Bucks,104,112,TD Waterhouse Centre,17248,/boxscores/200105010ORL.html
+Tue May 1 2001,Dallas Mavericks,Utah Jazz,107,77,Reunion Arena,18300,/boxscores/200105010DAL.html
+Wed May 2 2001,Toronto Raptors,New York Knicks,100,93,Air Canada Centre,20282,/boxscores/200105020TOR.html
+Wed May 2 2001,Indiana Pacers,Philadelphia 76ers,85,88,Conseco Fieldhouse,18345,/boxscores/200105020IND.html
+Wed May 2 2001,Phoenix Suns,Sacramento Kings,82,89,America West Arena,18836,/boxscores/200105020PHO.html
+Thu May 3 2001,Utah Jazz,Dallas Mavericks,83,84,Delta Center,19911,/boxscores/200105030UTA.html
+Fri May 4 2001,New York Knicks,Toronto Raptors,89,93,Madison Square Garden (IV),19763,/boxscores/200105040NYK.html
+Sat May 5 2001,San Antonio Spurs,Dallas Mavericks,94,78,Alamodome,32798,/boxscores/200105050SAS.html
+Sun May 6 2001,Milwaukee Bucks,Charlotte Hornets,104,92,Bradley Center,18717,/boxscores/200105060MIL.html
+Sun May 6 2001,Los Angeles Lakers,Sacramento Kings,108,105,STAPLES Center,18997,/boxscores/200105060LAL.html
+Sun May 6 2001,Philadelphia 76ers,Toronto Raptors,93,96,First Union Center,20892,/boxscores/200105060PHI.html
+Mon May 7 2001,San Antonio Spurs,Dallas Mavericks,100,86,Alamodome,27690,/boxscores/200105070SAS.html
+Tue May 8 2001,Milwaukee Bucks,Charlotte Hornets,91,90,Bradley Center,18717,/boxscores/200105080MIL.html
+Tue May 8 2001,Los Angeles Lakers,Sacramento Kings,96,90,STAPLES Center,18997,/boxscores/200105080LAL.html
+Wed May 9 2001,Philadelphia 76ers,Toronto Raptors,97,92,First Union Center,20870,/boxscores/200105090PHI.html
+Wed May 9 2001,Dallas Mavericks,San Antonio Spurs,90,104,Reunion Arena,18237,/boxscores/200105090DAL.html
+Thu May 10 2001,Charlotte Hornets,Milwaukee Bucks,102,92,Charlotte Coliseum,17392,/boxscores/200105100CHH.html
+Fri May 11 2001,Toronto Raptors,Philadelphia 76ers,102,78,Air Canada Centre,20436,/boxscores/200105110TOR.html
+Fri May 11 2001,Sacramento Kings,Los Angeles Lakers,81,103,ARCO Arena (II),17317,/boxscores/200105110SAC.html
+Sat May 12 2001,Dallas Mavericks,San Antonio Spurs,112,108,Reunion Arena,18187,/boxscores/200105120DAL.html
+Sun May 13 2001,Charlotte Hornets,Milwaukee Bucks,85,78,Charlotte Coliseum,18756,/boxscores/200105130CHH.html
+Sun May 13 2001,Toronto Raptors,Philadelphia 76ers,79,84,Air Canada Centre,20351,/boxscores/200105130TOR.html
+Sun May 13 2001,Sacramento Kings,Los Angeles Lakers,113,119,ARCO Arena (II),17317,/boxscores/200105130SAC.html
+Mon May 14 2001,San Antonio Spurs,Dallas Mavericks,105,87,Alamodome,25853,/boxscores/200105140SAS.html
+Tue May 15 2001,Milwaukee Bucks,Charlotte Hornets,86,94,Bradley Center,18717,/boxscores/200105150MIL.html
+Wed May 16 2001,Philadelphia 76ers,Toronto Raptors,121,88,First Union Center,20939,/boxscores/200105160PHI.html
+Thu May 17 2001,Charlotte Hornets,Milwaukee Bucks,97,104,Charlotte Coliseum,23509,/boxscores/200105170CHH.html
+Fri May 18 2001,Toronto Raptors,Philadelphia 76ers,101,89,Air Canada Centre,20499,/boxscores/200105180TOR.html
+Sat May 19 2001,San Antonio Spurs,Los Angeles Lakers,90,104,Alamodome,36068,/boxscores/200105190SAS.html
+Sun May 20 2001,Milwaukee Bucks,Charlotte Hornets,104,95,Bradley Center,18717,/boxscores/200105200MIL.html
+Sun May 20 2001,Philadelphia 76ers,Toronto Raptors,88,87,First Union Center,20848,/boxscores/200105200PHI.html
+Mon May 21 2001,San Antonio Spurs,Los Angeles Lakers,81,88,Alamodome,35574,/boxscores/200105210SAS.html
+Tue May 22 2001,Philadelphia 76ers,Milwaukee Bucks,93,85,First Union Center,20877,/boxscores/200105220PHI.html
+Thu May 24 2001,Philadelphia 76ers,Milwaukee Bucks,78,92,First Union Center,20998,/boxscores/200105240PHI.html
+Fri May 25 2001,Los Angeles Lakers,San Antonio Spurs,111,72,STAPLES Center,18997,/boxscores/200105250LAL.html
+Sat May 26 2001,Milwaukee Bucks,Philadelphia 76ers,80,74,Bradley Center,18717,/boxscores/200105260MIL.html
+Sun May 27 2001,Los Angeles Lakers,San Antonio Spurs,111,82,STAPLES Center,18997,/boxscores/200105270LAL.html
+Mon May 28 2001,Milwaukee Bucks,Philadelphia 76ers,83,89,Bradley Center,18717,/boxscores/200105280MIL.html
+Wed May 30 2001,Philadelphia 76ers,Milwaukee Bucks,89,88,First Union Center,21087,/boxscores/200105300PHI.html

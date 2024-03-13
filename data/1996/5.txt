@@ -1,0 +1,40 @@
+Wed May 1 1996,New York Knicks,Cleveland Cavaliers,81,76,Madison Square Garden (IV),19763,/boxscores/199605010NYK.html
+Wed May 1 1996,Miami Heat,Chicago Bulls,91,112,Miami Arena,15200,/boxscores/199605010MIA.html
+Wed May 1 1996,Portland Trail Blazers,Utah Jazz,98,90,Memorial Coliseum,21401,/boxscores/199605010POR.html
+Wed May 1 1996,Phoenix Suns,San Antonio Spurs,94,93,America West Arena,19023,/boxscores/199605010PHO.html
+Thu May 2 1996,Atlanta Hawks,Indiana Pacers,75,83,Omni Coliseum,15482,/boxscores/199605020ATL.html
+Thu May 2 1996,Houston Rockets,Los Angeles Lakers,102,94,The Summit,16285,/boxscores/199605020HOU.html
+Thu May 2 1996,Sacramento Kings,Seattle SuperSonics,87,101,ARCO Arena (II),17317,/boxscores/199605020SAC.html
+Fri May 3 1996,Phoenix Suns,San Antonio Spurs,98,116,America West Arena,19023,/boxscores/199605030PHO.html
+Sat May 4 1996,Seattle SuperSonics,Houston Rockets,108,75,KeyArena at Seattle Center,17072,/boxscores/199605040SEA.html
+Sun May 5 1996,Utah Jazz,Portland Trail Blazers,102,64,Delta Center,19682,/boxscores/199605050UTA.html
+Sun May 5 1996,Indiana Pacers,Atlanta Hawks,87,89,Market Square Arena,16731,/boxscores/199605050IND.html
+Sun May 5 1996,Chicago Bulls,New York Knicks,91,84,United Center,24394,/boxscores/199605050CHI.html
+Mon May 6 1996,Seattle SuperSonics,Houston Rockets,105,101,KeyArena at Seattle Center,17072,/boxscores/199605060SEA.html
+Tue May 7 1996,Chicago Bulls,New York Knicks,91,80,United Center,24328,/boxscores/199605070CHI.html
+Tue May 7 1996,San Antonio Spurs,Utah Jazz,75,95,Alamodome,15112,/boxscores/199605070SAS.html
+Wed May 8 1996,Orlando Magic,Atlanta Hawks,117,105,Orlando Arena,17248,/boxscores/199605080ORL.html
+Thu May 9 1996,San Antonio Spurs,Utah Jazz,88,77,Alamodome,18635,/boxscores/199605090SAS.html
+Fri May 10 1996,Houston Rockets,Seattle SuperSonics,112,115,The Summit,16285,/boxscores/199605100HOU.html
+Fri May 10 1996,Orlando Magic,Atlanta Hawks,120,94,Orlando Arena,17248,/boxscores/199605100ORL.html
+Sat May 11 1996,Utah Jazz,San Antonio Spurs,105,75,Delta Center,19911,/boxscores/199605110UTA.html
+Sat May 11 1996,New York Knicks,Chicago Bulls,102,99,Madison Square Garden (IV),19763,/boxscores/199605110NYK.html
+Sun May 12 1996,Atlanta Hawks,Orlando Magic,96,103,Omni Coliseum,15476,/boxscores/199605120ATL.html
+Sun May 12 1996,Houston Rockets,Seattle SuperSonics,107,114,The Summit,16611,/boxscores/199605120HOU.html
+Sun May 12 1996,New York Knicks,Chicago Bulls,91,94,Madison Square Garden (IV),19763,/boxscores/199605120NYK.html
+Sun May 12 1996,Utah Jazz,San Antonio Spurs,101,86,Delta Center,19911,/boxscores/199605120UTA.html
+Mon May 13 1996,Atlanta Hawks,Orlando Magic,104,99,Omni Coliseum,12645,/boxscores/199605130ATL.html
+Tue May 14 1996,Chicago Bulls,New York Knicks,94,81,United Center,24396,/boxscores/199605140CHI.html
+Tue May 14 1996,San Antonio Spurs,Utah Jazz,98,87,Alamodome,34215,/boxscores/199605140SAS.html
+Wed May 15 1996,Orlando Magic,Atlanta Hawks,96,88,Orlando Arena,17248,/boxscores/199605150ORL.html
+Thu May 16 1996,Utah Jazz,San Antonio Spurs,108,81,Delta Center,19911,/boxscores/199605160UTA.html
+Sat May 18 1996,Seattle SuperSonics,Utah Jazz,102,72,KeyArena at Seattle Center,17072,/boxscores/199605180SEA.html
+Sun May 19 1996,Chicago Bulls,Orlando Magic,121,83,United Center,24411,/boxscores/199605190CHI.html
+Mon May 20 1996,Seattle SuperSonics,Utah Jazz,91,87,KeyArena at Seattle Center,17072,/boxscores/199605200SEA.html
+Tue May 21 1996,Chicago Bulls,Orlando Magic,93,88,United Center,24395,/boxscores/199605210CHI.html
+Fri May 24 1996,Utah Jazz,Seattle SuperSonics,96,76,Delta Center,19911,/boxscores/199605240UTA.html
+Sat May 25 1996,Orlando Magic,Chicago Bulls,67,86,Orlando Arena,17248,/boxscores/199605250ORL.html
+Sun May 26 1996,Utah Jazz,Seattle SuperSonics,86,88,Delta Center,19911,/boxscores/199605260UTA.html
+Mon May 27 1996,Orlando Magic,Chicago Bulls,101,106,Orlando Arena,17248,/boxscores/199605270ORL.html
+Tue May 28 1996,Seattle SuperSonics,Utah Jazz,95,98,KeyArena at Seattle Center,17072,/boxscores/199605280SEA.html
+Thu May 30 1996,Utah Jazz,Seattle SuperSonics,118,83,Delta Center,19911,/boxscores/199605300UTA.html

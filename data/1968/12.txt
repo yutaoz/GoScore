@@ -1,0 +1,96 @@
+Fri Dec 1 1967,Boston Celtics,Los Angeles Lakers,123,119,Boston Garden,0,/boxscores/196712010BOS.html
+Fri Dec 1 1967,Chicago Bulls,New York Knicks,102,100,Chicago Stadium,0,/boxscores/196712010CHI.html
+Fri Dec 1 1967,Philadelphia 76ers,Seattle SuperSonics,133,109,Boston Garden,0,/boxscores/196712010PHI.html
+Fri Dec 1 1967,San Francisco Warriors,St. Louis Hawks,124,101,Cow Palace,0,/boxscores/196712010SFW.html
+Fri Dec 1 1967,Baltimore Bullets,Cincinnati Royals,123,109,Baltimore Civic Center,0,/boxscores/196712010BAL.html
+Sat Dec 2 1967,Cincinnati Royals,Chicago Bulls,110,126,Cincinnati Gardens,0,/boxscores/196712020CIN.html
+Sat Dec 2 1967,Detroit Pistons,Boston Celtics,112,107,Cobo Arena,0,/boxscores/196712020DET.html
+Sat Dec 2 1967,New York Knicks,Los Angeles Lakers,106,122,Madison Square Garden (III),0,/boxscores/196712020NYK.html
+Sat Dec 2 1967,Philadelphia 76ers,Baltimore Bullets,130,121,The Spectrum,0,/boxscores/196712020PHI.html
+Sat Dec 2 1967,San Diego Rockets,San Francisco Warriors,127,103,San Diego Sports Arena,0,/boxscores/196712020SDR.html
+Sun Dec 3 1967,Seattle SuperSonics,St. Louis Hawks,109,123,Seattle Center Coliseum,0,/boxscores/196712030SEA.html
+Tue Dec 5 1967,Detroit Pistons,San Diego Rockets,111,110,Madison Square Garden (III),0,/boxscores/196712050DET.html
+Tue Dec 5 1967,San Francisco Warriors,Seattle SuperSonics,133,121,Oakland-Alameda County Coliseum Arena,0,/boxscores/196712050SFW.html
+Tue Dec 5 1967,Philadelphia 76ers,Los Angeles Lakers,122,128,The Spectrum,0,/boxscores/196712050PHI.html
+Tue Dec 5 1967,New York Knicks,Baltimore Bullets,148,117,Madison Square Garden (III),0,/boxscores/196712050NYK.html
+Tue Dec 5 1967,Chicago Bulls,Cincinnati Royals,105,104,Roberts Stadium,0,/boxscores/196712050CHI.html
+Wed Dec 6 1967,Baltimore Bullets,Los Angeles Lakers,125,136,Baltimore Civic Center,0,/boxscores/196712060BAL.html
+Wed Dec 6 1967,Boston Celtics,New York Knicks,115,113,Boston Garden,0,/boxscores/196712060BOS.html
+Wed Dec 6 1967,Cincinnati Royals,Philadelphia 76ers,107,108,Cincinnati Gardens,0,/boxscores/196712060CIN.html
+Wed Dec 6 1967,Detroit Pistons,Chicago Bulls,135,121,Cobo Arena,0,/boxscores/196712060DET.html
+Thu Dec 7 1967,Chicago Bulls,San Diego Rockets,108,118,Chicago Stadium,0,/boxscores/196712070CHI.html
+Fri Dec 8 1967,San Francisco Warriors,San Diego Rockets,107,137,Oakland-Alameda County Coliseum Arena,0,/boxscores/196712080SFW.html
+Fri Dec 8 1967,St. Louis Hawks,Cincinnati Royals,101,95,Kiel Auditorium,0,/boxscores/196712080STL.html
+Fri Dec 8 1967,Seattle SuperSonics,Chicago Bulls,114,115,Seattle Center Coliseum,0,/boxscores/196712080SEA.html
+Fri Dec 8 1967,Philadelphia 76ers,New York Knicks,117,109,The Spectrum,0,/boxscores/196712080PHI.html
+Fri Dec 8 1967,Boston Celtics,Baltimore Bullets,123,108,Boston Garden,0,/boxscores/196712080BOS.html
+Fri Dec 8 1967,Detroit Pistons,Los Angeles Lakers,103,115,Cobo Arena,0,/boxscores/196712080DET.html
+Sat Dec 9 1967,Baltimore Bullets,Philadelphia 76ers,109,123,Baltimore Civic Center,0,/boxscores/196712090BAL.html
+Sat Dec 9 1967,Cincinnati Royals,Boston Celtics,108,104,Cincinnati Gardens,0,/boxscores/196712090CIN.html
+Sat Dec 9 1967,New York Knicks,Detroit Pistons,121,124,Madison Square Garden (III),0,/boxscores/196712090NYK.html
+Sat Dec 9 1967,San Diego Rockets,Los Angeles Lakers,109,127,San Diego Sports Arena,0,/boxscores/196712090SDR.html
+Sat Dec 9 1967,San Francisco Warriors,Chicago Bulls,119,112,Cow Palace,0,/boxscores/196712090SFW.html
+Sun Dec 10 1967,Seattle SuperSonics,Los Angeles Lakers,133,123,Seattle Center Coliseum,0,/boxscores/196712100SEA.html
+Sun Dec 10 1967,St. Louis Hawks,Baltimore Bullets,114,112,Kiel Auditorium,0,/boxscores/196712100STL.html
+Tue Dec 12 1967,San Diego Rockets,Chicago Bulls,118,104,San Diego Sports Arena,0,/boxscores/196712120SDR.html
+Tue Dec 12 1967,Philadelphia 76ers,Seattle SuperSonics,118,107,Madison Square Garden (III),0,/boxscores/196712120PHI.html
+Tue Dec 12 1967,New York Knicks,St. Louis Hawks,142,145,Madison Square Garden (III),0,/boxscores/196712120NYK.html
+Tue Dec 12 1967,Baltimore Bullets,Detroit Pistons,140,117,Baltimore Civic Center,0,/boxscores/196712120BAL.html
+Wed Dec 13 1967,Cincinnati Royals,Baltimore Bullets,136,108,Cincinnati Gardens,0,/boxscores/196712130CIN.html
+Wed Dec 13 1967,Detroit Pistons,New York Knicks,129,117,Cobo Arena,0,/boxscores/196712130DET.html
+Wed Dec 13 1967,San Francisco Warriors,Chicago Bulls,104,109,Cow Palace,0,/boxscores/196712130SFW.html
+Thu Dec 14 1967,Boston Celtics,Philadelphia 76ers,102,101,Boston Garden,0,/boxscores/196712140BOS.html
+Thu Dec 14 1967,Los Angeles Lakers,Chicago Bulls,101,106,Los Angeles Memorial Sports Arena,0,/boxscores/196712140LAL.html
+Fri Dec 15 1967,Baltimore Bullets,San Francisco Warriors,97,110,Baltimore Civic Center,0,/boxscores/196712150BAL.html
+Fri Dec 15 1967,Boston Celtics,San Diego Rockets,114,101,The Spectrum,0,/boxscores/196712150BOS.html
+Fri Dec 15 1967,Chicago Bulls,Seattle SuperSonics,115,122,Chicago Stadium,0,/boxscores/196712150CHI.html
+Fri Dec 15 1967,Cincinnati Royals,Detroit Pistons,147,130,Cleveland Arena,0,/boxscores/196712150CIN.html
+Fri Dec 15 1967,Philadelphia 76ers,St. Louis Hawks,107,98,The Spectrum,0,/boxscores/196712150PHI.html
+Sat Dec 16 1967,St. Louis Hawks,San Francisco Warriors,117,110,Kiel Auditorium,0,/boxscores/196712160STL.html
+Sat Dec 16 1967,Chicago Bulls,Philadelphia 76ers,123,143,Chicago Stadium,0,/boxscores/196712160CHI.html
+Sat Dec 16 1967,Detroit Pistons,Cincinnati Royals,110,122,Cobo Arena,0,/boxscores/196712160DET.html
+Sat Dec 16 1967,New York Knicks,San Diego Rockets,126,102,Madison Square Garden (III),0,/boxscores/196712160NYK.html
+Sun Dec 17 1967,Los Angeles Lakers,Boston Celtics,117,123,Los Angeles Memorial Sports Arena,0,/boxscores/196712170LAL.html
+Sun Dec 17 1967,San Diego Rockets,Detroit Pistons,117,115,San Diego Sports Arena,0,/boxscores/196712170SDR.html
+Sun Dec 17 1967,Seattle SuperSonics,Philadelphia 76ers,124,139,Seattle Center Coliseum,0,/boxscores/196712170SEA.html
+Sun Dec 17 1967,San Francisco Warriors,St. Louis Hawks,79,97,Oakland-Alameda County Coliseum Arena,0,/boxscores/196712170SFW.html
+Mon Dec 18 1967,Detroit Pistons,Seattle SuperSonics,140,122,University of Puget Sound Fieldhouse,0,/boxscores/196712180DET.html
+Tue Dec 19 1967,Baltimore Bullets,St. Louis Hawks,117,98,Baltimore Civic Center,0,/boxscores/196712190BAL.html
+Tue Dec 19 1967,New York Knicks,Cincinnati Royals,133,118,Madison Square Garden (III),0,/boxscores/196712190NYK.html
+Tue Dec 19 1967,Seattle SuperSonics,Boston Celtics,114,118,Seattle Center Coliseum,0,/boxscores/196712190SEA.html
+Wed Dec 20 1967,Seattle SuperSonics,Philadelphia 76ers,122,160,Seattle Center Coliseum,0,/boxscores/196712200SEA.html
+Wed Dec 20 1967,San Francisco Warriors,Detroit Pistons,113,109,Cow Palace,0,/boxscores/196712200SFW.html
+Wed Dec 20 1967,San Diego Rockets,Boston Celtics,116,126,San Diego Sports Arena,0,/boxscores/196712200SDR.html
+Wed Dec 20 1967,Los Angeles Lakers,New York Knicks,131,138,Los Angeles Memorial Sports Arena,0,/boxscores/196712200LAL.html
+Thu Dec 21 1967,Chicago Bulls,Baltimore Bullets,108,116,Chicago Stadium,0,/boxscores/196712210CHI.html
+Fri Dec 22 1967,Baltimore Bullets,Chicago Bulls,117,112,Baltimore Civic Center,0,/boxscores/196712220BAL.html
+Fri Dec 22 1967,Boston Celtics,Cincinnati Royals,120,117,Boston Garden,0,/boxscores/196712220BOS.html
+Fri Dec 22 1967,Los Angeles Lakers,Detroit Pistons,133,105,Los Angeles Memorial Sports Arena,0,/boxscores/196712220LAL.html
+Fri Dec 22 1967,Seattle SuperSonics,New York Knicks,120,108,Seattle Center Coliseum,0,/boxscores/196712220SEA.html
+Fri Dec 22 1967,San Francisco Warriors,San Diego Rockets,103,97,Cow Palace,0,/boxscores/196712220SFW.html
+Sat Dec 23 1967,San Diego Rockets,Detroit Pistons,119,123,San Diego Sports Arena,0,/boxscores/196712230SDR.html
+Sat Dec 23 1967,San Francisco Warriors,Seattle SuperSonics,131,124,Oakland-Alameda County Coliseum Arena,0,/boxscores/196712230SFW.html
+Sun Dec 24 1967,Seattle SuperSonics,San Francisco Warriors,113,127,Seattle Center Coliseum,0,/boxscores/196712240SEA.html
+Mon Dec 25 1967,Baltimore Bullets,Philadelphia 76ers,105,108,Baltimore Civic Center,0,/boxscores/196712250BAL.html
+Mon Dec 25 1967,San Diego Rockets,Los Angeles Lakers,104,101,San Diego Sports Arena,0,/boxscores/196712250SDR.html
+Mon Dec 25 1967,Cincinnati Royals,Seattle SuperSonics,118,112,Cincinnati Gardens,0,/boxscores/196712250CIN.html
+Mon Dec 25 1967,New York Knicks,Boston Celtics,124,134,Madison Square Garden (III),0,/boxscores/196712250NYK.html
+Tue Dec 26 1967,Boston Celtics,San Francisco Warriors,104,117,Boston Garden,0,/boxscores/196712260BOS.html
+Tue Dec 26 1967,Chicago Bulls,Los Angeles Lakers,101,104,Chicago Stadium,0,/boxscores/196712260CHI.html
+Tue Dec 26 1967,Detroit Pistons,St. Louis Hawks,127,110,Cobo Arena,0,/boxscores/196712260DET.html
+Tue Dec 26 1967,New York Knicks,Seattle SuperSonics,135,137,The Spectrum,0,/boxscores/196712260NYK.html
+Tue Dec 26 1967,Philadelphia 76ers,Cincinnati Royals,126,121,The Spectrum,0,/boxscores/196712260PHI.html
+Wed Dec 27 1967,Cincinnati Royals,Los Angeles Lakers,132,127,Cleveland Arena,0,/boxscores/196712270CIN.html
+Wed Dec 27 1967,New York Knicks,Philadelphia 76ers,105,114,Madison Square Garden (III),0,/boxscores/196712270NYK.html
+Wed Dec 27 1967,St. Louis Hawks,Boston Celtics,116,113,Kiel Auditorium,0,/boxscores/196712270STL.html
+Thu Dec 28 1967,Cincinnati Royals,San Francisco Warriors,126,122,Cleveland Arena,0,/boxscores/196712280CIN.html
+Thu Dec 28 1967,Seattle SuperSonics,San Diego Rockets,125,143,Seattle Center Coliseum,0,/boxscores/196712280SEA.html
+Fri Dec 29 1967,Baltimore Bullets,Cincinnati Royals,130,113,Baltimore Civic Center,0,/boxscores/196712290BAL.html
+Fri Dec 29 1967,Chicago Bulls,San Francisco Warriors,107,100,Chicago Stadium,0,/boxscores/196712290CHI.html
+Fri Dec 29 1967,Detroit Pistons,St. Louis Hawks,111,122,Miami Beach Auditorium,0,/boxscores/196712290DET.html
+Fri Dec 29 1967,New York Knicks,Los Angeles Lakers,115,126,Madison Square Garden (III),0,/boxscores/196712290NYK.html
+Fri Dec 29 1967,Philadelphia 76ers,Boston Celtics,133,123,The Spectrum,0,/boxscores/196712290PHI.html
+Sat Dec 30 1967,Detroit Pistons,Philadelphia 76ers,107,122,Onondaga War Memorial,0,/boxscores/196712300DET.html
+Sat Dec 30 1967,St. Louis Hawks,Los Angeles Lakers,104,106,Kiel Auditorium,0,/boxscores/196712300STL.html
+Sun Dec 31 1967,Los Angeles Lakers,San Diego Rockets,147,118,The Forum,0,/boxscores/196712310LAL.html
+Sun Dec 31 1967,Seattle SuperSonics,San Francisco Warriors,124,126,Seattle Center Coliseum,0,/boxscores/196712310SEA.html

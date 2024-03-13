@@ -1,0 +1,205 @@
+Tue Mar 1 1994,Atlanta Hawks,Minnesota Timberwolves,102,99,Omni Coliseum,10955,/boxscores/199403010ATL.html
+Tue Mar 1 1994,Golden State Warriors,Los Angeles Clippers,114,109,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403010GSW.html
+Tue Mar 1 1994,Houston Rockets,Orlando Magic,97,85,The Summit,16611,/boxscores/199403010HOU.html
+Tue Mar 1 1994,Indiana Pacers,Portland Trail Blazers,106,94,Market Square Arena,10585,/boxscores/199403010IND.html
+Tue Mar 1 1994,Milwaukee Bucks,Miami Heat,102,110,Bradley Center,13855,/boxscores/199403010MIL.html
+Tue Mar 1 1994,New Jersey Nets,Detroit Pistons,108,98,Brendan Byrne Arena,14134,/boxscores/199403010NJN.html
+Tue Mar 1 1994,Philadelphia 76ers,Washington Bullets,103,109,The Spectrum,8625,/boxscores/199403010PHI.html
+Tue Mar 1 1994,Sacramento Kings,New York Knicks,88,100,ARCO Arena (II),17317,/boxscores/199403010SAC.html
+Tue Mar 1 1994,Seattle SuperSonics,Charlotte Hornets,112,96,Seattle Center Coliseum,14813,/boxscores/199403010SEA.html
+Wed Mar 2 1994,Boston Celtics,Cleveland Cavaliers,96,110,Boston Garden,14890,/boxscores/199403020BOS.html
+Wed Mar 2 1994,Chicago Bulls,Los Angeles Lakers,89,97,Chicago Stadium,18146,/boxscores/199403020CHI.html
+Wed Mar 2 1994,Detroit Pistons,Portland Trail Blazers,107,131,The Palace of Auburn Hills,17256,/boxscores/199403020DET.html
+Wed Mar 2 1994,Los Angeles Clippers,Charlotte Hornets,118,109,Los Angeles Memorial Sports Arena,10262,/boxscores/199403020LAC.html
+Wed Mar 2 1994,Minnesota Timberwolves,Miami Heat,100,108,Target Center,16906,/boxscores/199403020MIN.html
+Wed Mar 2 1994,San Antonio Spurs,Utah Jazz,96,106,Alamodome,18577,/boxscores/199403020SAS.html
+Thu Mar 3 1994,Cleveland Cavaliers,Philadelphia 76ers,95,87,Coliseum at Richfield,18357,/boxscores/199403030CLE.html
+Thu Mar 3 1994,Dallas Mavericks,Orlando Magic,94,107,Reunion Arena,17502,/boxscores/199403030DAL.html
+Thu Mar 3 1994,Golden State Warriors,Phoenix Suns,120,107,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403030GSW.html
+Thu Mar 3 1994,New York Knicks,New Jersey Nets,97,86,Madison Square Garden (IV),19763,/boxscores/199403030NYK.html
+Thu Mar 3 1994,Washington Bullets,Atlanta Hawks,98,109,USAir Arena,8124,/boxscores/199403030WSB.html
+Fri Mar 4 1994,Boston Celtics,Los Angeles Lakers,109,99,Boston Garden,14890,/boxscores/199403040BOS.html
+Fri Mar 4 1994,Chicago Bulls,Portland Trail Blazers,96,115,Chicago Stadium,18676,/boxscores/199403040CHI.html
+Fri Mar 4 1994,Denver Nuggets,Orlando Magic,98,89,McNichols Sports Arena,17171,/boxscores/199403040DEN.html
+Fri Mar 4 1994,Indiana Pacers,New Jersey Nets,126,110,Market Square Arena,13725,/boxscores/199403040IND.html
+Fri Mar 4 1994,Phoenix Suns,Minnesota Timberwolves,106,101,America West Arena,19023,/boxscores/199403040PHO.html
+Fri Mar 4 1994,San Antonio Spurs,Los Angeles Clippers,121,113,Alamodome,18735,/boxscores/199403040SAS.html
+Sat Mar 5 1994,Atlanta Hawks,Indiana Pacers,90,88,Omni Coliseum,15914,/boxscores/199403050ATL.html
+Sat Mar 5 1994,Dallas Mavericks,Utah Jazz,90,103,Reunion Arena,14144,/boxscores/199403050DAL.html
+Sat Mar 5 1994,Golden State Warriors,Charlotte Hornets,129,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403050GSW.html
+Sat Mar 5 1994,Houston Rockets,Los Angeles Clippers,124,107,The Summit,15009,/boxscores/199403050HOU.html
+Sat Mar 5 1994,Miami Heat,Philadelphia 76ers,120,83,Miami Arena,15022,/boxscores/199403050MIA.html
+Sat Mar 5 1994,Milwaukee Bucks,Detroit Pistons,117,108,Bradley Center,16942,/boxscores/199403050MIL.html
+Sat Mar 5 1994,Seattle SuperSonics,Sacramento Kings,114,98,Seattle Center Coliseum,14677,/boxscores/199403050SEA.html
+Sat Mar 5 1994,Washington Bullets,Los Angeles Lakers,124,118,USAir Arena,18756,/boxscores/199403050WSB.html
+Sun Mar 6 1994,Cleveland Cavaliers,Chicago Bulls,99,95,Coliseum at Richfield,20273,/boxscores/199403060CLE.html
+Sun Mar 6 1994,Denver Nuggets,Minnesota Timberwolves,117,97,McNichols Sports Arena,17171,/boxscores/199403060DEN.html
+Sun Mar 6 1994,New Jersey Nets,Philadelphia 76ers,126,99,Brendan Byrne Arena,20049,/boxscores/199403060NJN.html
+Sun Mar 6 1994,Phoenix Suns,Utah Jazz,92,103,America West Arena,19023,/boxscores/199403060PHO.html
+Sun Mar 6 1994,Sacramento Kings,Seattle SuperSonics,85,102,ARCO Arena (II),17317,/boxscores/199403060SAC.html
+Sun Mar 6 1994,San Antonio Spurs,Orlando Magic,111,103,Alamodome,34325,/boxscores/199403060SAS.html
+Mon Mar 7 1994,Detroit Pistons,New York Knicks,85,99,The Palace of Auburn Hills,17388,/boxscores/199403070DET.html
+Mon Mar 7 1994,Miami Heat,Boston Celtics,104,112,Miami Arena,15200,/boxscores/199403070MIA.html
+Mon Mar 7 1994,Milwaukee Bucks,Los Angeles Lakers,84,106,Bradley Center,14978,/boxscores/199403070MIL.html
+Mon Mar 7 1994,Portland Trail Blazers,Golden State Warriors,137,108,Memorial Coliseum,12888,/boxscores/199403070POR.html
+Tue Mar 8 1994,Charlotte Hornets,Phoenix Suns,97,89,Charlotte Coliseum,23698,/boxscores/199403080CHH.html
+Tue Mar 8 1994,Chicago Bulls,Atlanta Hawks,116,95,Chicago Stadium,18528,/boxscores/199403080CHI.html
+Tue Mar 8 1994,Cleveland Cavaliers,Sacramento Kings,103,82,Coliseum at Richfield,18341,/boxscores/199403080CLE.html
+Tue Mar 8 1994,Dallas Mavericks,Los Angeles Clippers,110,116,Reunion Arena,10784,/boxscores/199403080DAL.html
+Tue Mar 8 1994,Orlando Magic,Denver Nuggets,95,88,Orlando Arena,15291,/boxscores/199403080ORL.html
+Tue Mar 8 1994,San Antonio Spurs,Houston Rockets,115,99,Alamodome,20539,/boxscores/199403080SAS.html
+Tue Mar 8 1994,Seattle SuperSonics,Golden State Warriors,113,98,Seattle Center Coliseum,14624,/boxscores/199403080SEA.html
+Tue Mar 8 1994,Utah Jazz,Minnesota Timberwolves,100,86,Delta Center,19911,/boxscores/199403080UTA.html
+Wed Mar 9 1994,Atlanta Hawks,New York Knicks,83,90,Omni Coliseum,16368,/boxscores/199403090ATL.html
+Wed Mar 9 1994,Detroit Pistons,New Jersey Nets,114,97,The Palace of Auburn Hills,16247,/boxscores/199403090DET.html
+Wed Mar 9 1994,Miami Heat,Denver Nuggets,102,80,Miami Arena,14929,/boxscores/199403090MIA.html
+Wed Mar 9 1994,Milwaukee Bucks,Indiana Pacers,94,105,Bradley Center,13849,/boxscores/199403090MIL.html
+Wed Mar 9 1994,Minnesota Timberwolves,Sacramento Kings,96,104,Target Center,17436,/boxscores/199403090MIN.html
+Wed Mar 9 1994,Philadelphia 76ers,Orlando Magic,101,117,The Spectrum,17532,/boxscores/199403090PHI.html
+Wed Mar 9 1994,Portland Trail Blazers,Utah Jazz,122,99,Memorial Coliseum,12888,/boxscores/199403090POR.html
+Wed Mar 9 1994,Washington Bullets,Phoenix Suns,106,142,USAir Arena,18223,/boxscores/199403090WSB.html
+Thu Mar 10 1994,Golden State Warriors,Portland Trail Blazers,100,97,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403100GSW.html
+Thu Mar 10 1994,Houston Rockets,Seattle SuperSonics,87,82,The Summit,16611,/boxscores/199403100HOU.html
+Thu Mar 10 1994,Los Angeles Lakers,Dallas Mavericks,106,101,Great Western Forum,11149,/boxscores/199403100LAL.html
+Fri Mar 11 1994,Atlanta Hawks,Chicago Bulls,108,77,Omni Coliseum,16510,/boxscores/199403110ATL.html
+Fri Mar 11 1994,Boston Celtics,New York Knicks,83,90,Boston Garden,14890,/boxscores/199403110BOS.html
+Fri Mar 11 1994,Detroit Pistons,Cleveland Cavaliers,98,96,The Palace of Auburn Hills,20269,/boxscores/199403110DET.html
+Fri Mar 11 1994,Los Angeles Clippers,Dallas Mavericks,106,96,Los Angeles Memorial Sports Arena,10226,/boxscores/199403110LAC.html
+Fri Mar 11 1994,Miami Heat,Phoenix Suns,107,122,Miami Arena,15200,/boxscores/199403110MIA.html
+Fri Mar 11 1994,Milwaukee Bucks,Sacramento Kings,100,108,Bradley Center,17508,/boxscores/199403110MIL.html
+Fri Mar 11 1994,Minnesota Timberwolves,Charlotte Hornets,91,97,Target Center,18575,/boxscores/199403110MIN.html
+Fri Mar 11 1994,New Jersey Nets,Indiana Pacers,87,73,Brendan Byrne Arena,20049,/boxscores/199403110NJN.html
+Fri Mar 11 1994,Orlando Magic,Philadelphia 76ers,112,105,Orlando Arena,15291,/boxscores/199403110ORL.html
+Fri Mar 11 1994,San Antonio Spurs,Seattle SuperSonics,99,100,Alamodome,20640,/boxscores/199403110SAS.html
+Fri Mar 11 1994,Washington Bullets,Denver Nuggets,100,93,USAir Arena,18756,/boxscores/199403110WSB.html
+Sat Mar 12 1994,Chicago Bulls,Sacramento Kings,111,94,Chicago Stadium,18676,/boxscores/199403120CHI.html
+Sat Mar 12 1994,Detroit Pistons,Atlanta Hawks,92,104,The Palace of Auburn Hills,21454,/boxscores/199403120DET.html
+Sat Mar 12 1994,Houston Rockets,San Antonio Spurs,98,109,The Summit,16611,/boxscores/199403120HOU.html
+Sat Mar 12 1994,Indiana Pacers,Milwaukee Bucks,104,97,Market Square Arena,14508,/boxscores/199403120IND.html
+Sat Mar 12 1994,New Jersey Nets,Charlotte Hornets,117,92,Brendan Byrne Arena,20049,/boxscores/199403120NJN.html
+Sat Mar 12 1994,New York Knicks,Cleveland Cavaliers,96,86,Madison Square Garden (IV),19763,/boxscores/199403120NYK.html
+Sun Mar 13 1994,Boston Celtics,Miami Heat,87,106,Boston Garden,14890,/boxscores/199403130BOS.html
+Sun Mar 13 1994,Dallas Mavericks,Houston Rockets,93,100,Reunion Arena,12525,/boxscores/199403130DAL.html
+Sun Mar 13 1994,Los Angeles Clippers,Golden State Warriors,120,117,Los Angeles Memorial Sports Arena,10086,/boxscores/199403130LAC.html
+Sun Mar 13 1994,Minnesota Timberwolves,Los Angeles Lakers,88,90,Target Center,17255,/boxscores/199403130MIN.html
+Sun Mar 13 1994,Orlando Magic,Phoenix Suns,93,100,Orlando Arena,15291,/boxscores/199403130ORL.html
+Sun Mar 13 1994,Seattle SuperSonics,Portland Trail Blazers,114,102,Seattle Center Coliseum,14813,/boxscores/199403130SEA.html
+Sun Mar 13 1994,Washington Bullets,Philadelphia 76ers,97,114,USAir Arena,14311,/boxscores/199403130WSB.html
+Mon Mar 14 1994,Charlotte Hornets,Boston Celtics,107,101,Charlotte Coliseum,23698,/boxscores/199403140CHH.html
+Mon Mar 14 1994,Denver Nuggets,San Antonio Spurs,116,88,McNichols Sports Arena,17171,/boxscores/199403140DEN.html
+Mon Mar 14 1994,Sacramento Kings,Detroit Pistons,102,108,ARCO Arena (II),17317,/boxscores/199403140SAC.html
+Mon Mar 14 1994,Utah Jazz,Los Angeles Lakers,102,101,Delta Center,19911,/boxscores/199403140UTA.html
+Tue Mar 15 1994,Chicago Bulls,Orlando Magic,108,98,Chicago Stadium,18676,/boxscores/199403150CHI.html
+Tue Mar 15 1994,Cleveland Cavaliers,Phoenix Suns,106,119,Coliseum at Richfield,20273,/boxscores/199403150CLE.html
+Tue Mar 15 1994,Golden State Warriors,Washington Bullets,123,93,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403150GSW.html
+Tue Mar 15 1994,Houston Rockets,Portland Trail Blazers,105,99,The Summit,15930,/boxscores/199403150HOU.html
+Tue Mar 15 1994,Los Angeles Clippers,Utah Jazz,108,105,Los Angeles Memorial Sports Arena,10584,/boxscores/199403150LAC.html
+Tue Mar 15 1994,Miami Heat,Milwaukee Bucks,101,94,Miami Arena,14911,/boxscores/199403150MIA.html
+Tue Mar 15 1994,Minnesota Timberwolves,Philadelphia 76ers,96,87,Target Center,16248,/boxscores/199403150MIN.html
+Tue Mar 15 1994,New York Knicks,Indiana Pacers,88,82,Madison Square Garden (IV),19763,/boxscores/199403150NYK.html
+Tue Mar 15 1994,Seattle SuperSonics,Detroit Pistons,87,89,Seattle Center Coliseum,14679,/boxscores/199403150SEA.html
+Wed Mar 16 1994,Boston Celtics,Chicago Bulls,100,101,Boston Garden,14890,/boxscores/199403160BOS.html
+Wed Mar 16 1994,Charlotte Hornets,Atlanta Hawks,92,79,Charlotte Coliseum,23698,/boxscores/199403160CHH.html
+Wed Mar 16 1994,Indiana Pacers,Phoenix Suns,109,98,Market Square Arena,16587,/boxscores/199403160IND.html
+Wed Mar 16 1994,Los Angeles Lakers,Washington Bullets,129,94,Great Western Forum,11004,/boxscores/199403160LAL.html
+Wed Mar 16 1994,Orlando Magic,Dallas Mavericks,100,98,Orlando Arena,15291,/boxscores/199403160ORL.html
+Wed Mar 16 1994,Sacramento Kings,New Jersey Nets,132,111,ARCO Arena (II),17317,/boxscores/199403160SAC.html
+Wed Mar 16 1994,San Antonio Spurs,Portland Trail Blazers,110,102,Alamodome,20539,/boxscores/199403160SAS.html
+Thu Mar 17 1994,Houston Rockets,Golden State Warriors,112,99,The Summit,14707,/boxscores/199403170HOU.html
+Thu Mar 17 1994,Los Angeles Clippers,Denver Nuggets,99,102,Los Angeles Memorial Sports Arena,9661,/boxscores/199403170LAC.html
+Thu Mar 17 1994,Miami Heat,Dallas Mavericks,115,98,Miami Arena,14920,/boxscores/199403170MIA.html
+Thu Mar 17 1994,Minnesota Timberwolves,Seattle SuperSonics,92,107,Target Center,17581,/boxscores/199403170MIN.html
+Thu Mar 17 1994,New York Knicks,Milwaukee Bucks,105,83,Madison Square Garden (IV),19763,/boxscores/199403170NYK.html
+Fri Mar 18 1994,Charlotte Hornets,Utah Jazz,82,78,Charlotte Coliseum,23698,/boxscores/199403180CHH.html
+Fri Mar 18 1994,Chicago Bulls,Seattle SuperSonics,87,84,Chicago Stadium,18676,/boxscores/199403180CHI.html
+Fri Mar 18 1994,Denver Nuggets,Sacramento Kings,103,115,McNichols Sports Arena,17171,/boxscores/199403180DEN.html
+Fri Mar 18 1994,Indiana Pacers,Atlanta Hawks,78,81,Market Square Arena,15106,/boxscores/199403180IND.html
+Fri Mar 18 1994,Los Angeles Lakers,New Jersey Nets,90,102,Great Western Forum,12251,/boxscores/199403180LAL.html
+Fri Mar 18 1994,Orlando Magic,Cleveland Cavaliers,113,96,Orlando Arena,15291,/boxscores/199403180ORL.html
+Fri Mar 18 1994,Philadelphia 76ers,Minnesota Timberwolves,98,100,The Spectrum,10711,/boxscores/199403180PHI.html
+Fri Mar 18 1994,Phoenix Suns,Detroit Pistons,113,114,America West Arena,19023,/boxscores/199403180PHO.html
+Fri Mar 18 1994,Portland Trail Blazers,Washington Bullets,122,104,Memorial Coliseum,12888,/boxscores/199403180POR.html
+Sat Mar 19 1994,Dallas Mavericks,Golden State Warriors,107,116,Reunion Arena,16101,/boxscores/199403190DAL.html
+Sat Mar 19 1994,Houston Rockets,Detroit Pistons,106,88,The Summit,15512,/boxscores/199403190HOU.html
+Sat Mar 19 1994,Indiana Pacers,Utah Jazz,107,103,Market Square Arena,15374,/boxscores/199403190IND.html
+Sat Mar 19 1994,Miami Heat,Cleveland Cavaliers,106,95,Miami Arena,15200,/boxscores/199403190MIA.html
+Sat Mar 19 1994,New York Knicks,Boston Celtics,105,91,Madison Square Garden (IV),19763,/boxscores/199403190NYK.html
+Sat Mar 19 1994,Phoenix Suns,New Jersey Nets,105,93,America West Arena,19023,/boxscores/199403190PHO.html
+Sat Mar 19 1994,San Antonio Spurs,Sacramento Kings,107,100,Alamodome,20640,/boxscores/199403190SAS.html
+Sun Mar 20 1994,Boston Celtics,Atlanta Hawks,80,101,Boston Garden,14890,/boxscores/199403200BOS.html
+Sun Mar 20 1994,Charlotte Hornets,Seattle SuperSonics,115,124,Charlotte Coliseum,23698,/boxscores/199403200CHH.html
+Sun Mar 20 1994,Denver Nuggets,Washington Bullets,132,99,McNichols Sports Arena,17171,/boxscores/199403200DEN.html
+Sun Mar 20 1994,Los Angeles Clippers,Portland Trail Blazers,114,110,Los Angeles Memorial Sports Arena,13531,/boxscores/199403200LAC.html
+Sun Mar 20 1994,Los Angeles Lakers,Orlando Magic,97,91,Great Western Forum,17505,/boxscores/199403200LAL.html
+Sun Mar 20 1994,Milwaukee Bucks,Philadelphia 76ers,103,101,Bradley Center,14837,/boxscores/199403200MIL.html
+Sun Mar 20 1994,Minnesota Timberwolves,Chicago Bulls,80,90,Target Center,19006,/boxscores/199403200MIN.html
+Mon Mar 21 1994,Atlanta Hawks,Utah Jazz,100,96,Omni Coliseum,12882,/boxscores/199403210ATL.html
+Mon Mar 21 1994,Houston Rockets,Washington Bullets,128,112,The Summit,11247,/boxscores/199403210HOU.html
+Mon Mar 21 1994,Los Angeles Lakers,Miami Heat,84,81,Great Western Forum,11497,/boxscores/199403210LAL.html
+Tue Mar 22 1994,Charlotte Hornets,Philadelphia 76ers,125,91,Charlotte Coliseum,23698,/boxscores/199403220CHH.html
+Tue Mar 22 1994,Cleveland Cavaliers,Indiana Pacers,93,61,Coliseum at Richfield,17935,/boxscores/199403220CLE.html
+Tue Mar 22 1994,Denver Nuggets,Milwaukee Bucks,108,94,McNichols Sports Arena,15424,/boxscores/199403220DEN.html
+Tue Mar 22 1994,Golden State Warriors,Orlando Magic,117,116,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403220GSW.html
+Tue Mar 22 1994,Minnesota Timberwolves,Houston Rockets,83,81,Target Center,17178,/boxscores/199403220MIN.html
+Tue Mar 22 1994,New Jersey Nets,Los Angeles Clippers,105,102,Brendan Byrne Arena,13663,/boxscores/199403220NJN.html
+Tue Mar 22 1994,New York Knicks,Chicago Bulls,87,78,Madison Square Garden (IV),19763,/boxscores/199403220NYK.html
+Tue Mar 22 1994,Phoenix Suns,Miami Heat,124,118,America West Arena,19023,/boxscores/199403220PHO.html
+Tue Mar 22 1994,Sacramento Kings,Portland Trail Blazers,94,96,ARCO Arena (II),17317,/boxscores/199403220SAC.html
+Tue Mar 22 1994,Seattle SuperSonics,San Antonio Spurs,105,89,Seattle Center Coliseum,14813,/boxscores/199403220SEA.html
+Wed Mar 23 1994,Atlanta Hawks,Charlotte Hornets,100,92,Omni Coliseum,13134,/boxscores/199403230ATL.html
+Wed Mar 23 1994,Dallas Mavericks,Los Angeles Lakers,109,112,Reunion Arena,12484,/boxscores/199403230DAL.html
+Wed Mar 23 1994,Detroit Pistons,Los Angeles Clippers,111,107,The Palace of Auburn Hills,17826,/boxscores/199403230DET.html
+Wed Mar 23 1994,Indiana Pacers,Cleveland Cavaliers,78,77,Market Square Arena,10906,/boxscores/199403230IND.html
+Wed Mar 23 1994,Philadelphia 76ers,Chicago Bulls,87,99,The Spectrum,16150,/boxscores/199403230PHI.html
+Wed Mar 23 1994,Utah Jazz,Orlando Magic,93,98,Delta Center,19911,/boxscores/199403230UTA.html
+Thu Mar 24 1994,Denver Nuggets,Miami Heat,113,101,McNichols Sports Arena,17171,/boxscores/199403240DEN.html
+Thu Mar 24 1994,Golden State Warriors,Milwaukee Bucks,114,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403240GSW.html
+Thu Mar 24 1994,Houston Rockets,Los Angeles Lakers,113,107,The Summit,14688,/boxscores/199403240HOU.html
+Thu Mar 24 1994,Minnesota Timberwolves,New York Knicks,106,123,Target Center,16875,/boxscores/199403240MIN.html
+Thu Mar 24 1994,Sacramento Kings,San Antonio Spurs,91,107,ARCO Arena (II),17317,/boxscores/199403240SAC.html
+Thu Mar 24 1994,Seattle SuperSonics,Phoenix Suns,116,106,Seattle Center Coliseum,14213,/boxscores/199403240SEA.html
+Thu Mar 24 1994,Washington Bullets,Boston Celtics,117,123,USAir Arena,15150,/boxscores/199403240WSB.html
+Fri Mar 25 1994,Atlanta Hawks,Los Angeles Clippers,94,97,Omni Coliseum,16368,/boxscores/199403250ATL.html
+Fri Mar 25 1994,Detroit Pistons,Charlotte Hornets,92,106,The Palace of Auburn Hills,21454,/boxscores/199403250DET.html
+Fri Mar 25 1994,Indiana Pacers,New York Knicks,82,85,Market Square Arena,15411,/boxscores/199403250IND.html
+Fri Mar 25 1994,New Jersey Nets,Chicago Bulls,110,87,Brendan Byrne Arena,20049,/boxscores/199403250NJN.html
+Fri Mar 25 1994,Philadelphia 76ers,Cleveland Cavaliers,88,105,The Spectrum,17443,/boxscores/199403250PHI.html
+Fri Mar 25 1994,Phoenix Suns,Dallas Mavericks,99,94,America West Arena,19023,/boxscores/199403250PHO.html
+Fri Mar 25 1994,Portland Trail Blazers,Sacramento Kings,100,91,Memorial Coliseum,12888,/boxscores/199403250POR.html
+Fri Mar 25 1994,Utah Jazz,Milwaukee Bucks,103,96,Delta Center,19911,/boxscores/199403250UTA.html
+Sat Mar 26 1994,Atlanta Hawks,Miami Heat,100,90,Omni Coliseum,16368,/boxscores/199403260ATL.html
+Sat Mar 26 1994,Charlotte Hornets,Los Angeles Clippers,121,109,Charlotte Coliseum,23698,/boxscores/199403260CHH.html
+Sat Mar 26 1994,Chicago Bulls,Indiana Pacers,90,88,Chicago Stadium,18676,/boxscores/199403260CHI.html
+Sat Mar 26 1994,Denver Nuggets,Dallas Mavericks,112,101,McNichols Sports Arena,17171,/boxscores/199403260DEN.html
+Sat Mar 26 1994,Golden State Warriors,San Antonio Spurs,101,112,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403260GSW.html
+Sat Mar 26 1994,Houston Rockets,Utah Jazz,98,83,The Summit,16611,/boxscores/199403260HOU.html
+Sat Mar 26 1994,Seattle SuperSonics,Minnesota Timberwolves,113,93,Seattle Center Coliseum,14651,/boxscores/199403260SEA.html
+Sat Mar 26 1994,Washington Bullets,New Jersey Nets,100,103,USAir Arena,17724,/boxscores/199403260WSB.html
+Sun Mar 27 1994,Boston Celtics,Philadelphia 76ers,124,122,Hartford Civic Center,13259,/boxscores/199403270BOS.html
+Sun Mar 27 1994,Cleveland Cavaliers,Detroit Pistons,111,99,Coliseum at Richfield,19065,/boxscores/199403270CLE.html
+Sun Mar 27 1994,Los Angeles Lakers,Milwaukee Bucks,110,101,Great Western Forum,17505,/boxscores/199403270LAL.html
+Sun Mar 27 1994,Orlando Magic,New York Knicks,90,111,Orlando Arena,15291,/boxscores/199403270ORL.html
+Sun Mar 27 1994,Phoenix Suns,Houston Rockets,113,98,America West Arena,19023,/boxscores/199403270PHO.html
+Sun Mar 27 1994,Portland Trail Blazers,San Antonio Spurs,95,107,Memorial Coliseum,12888,/boxscores/199403270POR.html
+Mon Mar 28 1994,Indiana Pacers,Los Angeles Clippers,126,93,Market Square Arena,12516,/boxscores/199403280IND.html
+Mon Mar 28 1994,Seattle SuperSonics,Denver Nuggets,111,97,Seattle Center Coliseum,14551,/boxscores/199403280SEA.html
+Tue Mar 29 1994,Atlanta Hawks,New Jersey Nets,101,98,Omni Coliseum,13942,/boxscores/199403290ATL.html
+Tue Mar 29 1994,Chicago Bulls,Philadelphia 76ers,106,103,Chicago Stadium,18396,/boxscores/199403290CHI.html
+Tue Mar 29 1994,Cleveland Cavaliers,Los Angeles Clippers,106,96,Coliseum at Richfield,18825,/boxscores/199403290CLE.html
+Tue Mar 29 1994,Dallas Mavericks,San Antonio Spurs,92,117,Reunion Arena,13174,/boxscores/199403290DAL.html
+Tue Mar 29 1994,Los Angeles Lakers,Minnesota Timberwolves,91,89,Great Western Forum,13588,/boxscores/199403290LAL.html
+Tue Mar 29 1994,Miami Heat,Detroit Pistons,115,123,Miami Arena,14938,/boxscores/199403290MIA.html
+Tue Mar 29 1994,Milwaukee Bucks,Boston Celtics,107,119,Bradley Center,13778,/boxscores/199403290MIL.html
+Tue Mar 29 1994,New York Knicks,Charlotte Hornets,106,95,Madison Square Garden (IV),19763,/boxscores/199403290NYK.html
+Tue Mar 29 1994,Orlando Magic,Washington Bullets,120,101,Orlando Arena,15291,/boxscores/199403290ORL.html
+Tue Mar 29 1994,Portland Trail Blazers,Seattle SuperSonics,100,114,Memorial Coliseum,12888,/boxscores/199403290POR.html
+Tue Mar 29 1994,Sacramento Kings,Houston Rockets,101,122,ARCO Arena (II),17317,/boxscores/199403290SAC.html
+Tue Mar 29 1994,Utah Jazz,Golden State Warriors,113,116,Delta Center,19911,/boxscores/199403290UTA.html
+Wed Mar 30 1994,Boston Celtics,Indiana Pacers,99,103,Boston Garden,14890,/boxscores/199403300BOS.html
+Wed Mar 30 1994,Golden State Warriors,Houston Rockets,104,114,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199403300GSW.html
+Wed Mar 30 1994,New Jersey Nets,Miami Heat,111,101,Brendan Byrne Arena,16058,/boxscores/199403300NJN.html
+Thu Mar 31 1994,Los Angeles Clippers,Phoenix Suns,102,117,Los Angeles Memorial Sports Arena,16005,/boxscores/199403310LAC.html
+Thu Mar 31 1994,Milwaukee Bucks,Portland Trail Blazers,111,109,Bradley Center,13284,/boxscores/199403310MIL.html
+Thu Mar 31 1994,Sacramento Kings,Atlanta Hawks,102,106,ARCO Arena (II),17317,/boxscores/199403310SAC.html
+Thu Mar 31 1994,San Antonio Spurs,Cleveland Cavaliers,101,85,Alamodome,19287,/boxscores/199403310SAS.html
+Thu Mar 31 1994,Seattle SuperSonics,Los Angeles Lakers,95,92,Seattle Center Coliseum,14813,/boxscores/199403310SEA.html

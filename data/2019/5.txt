@@ -1,0 +1,29 @@
+Wed May 1 2019,Denver Nuggets,Portland Trail Blazers,90,97,Pepsi Center,19520,/boxscores/201905010DEN.html
+Thu May 2 2019,Philadelphia 76ers,Toronto Raptors,116,95,Wells Fargo Center,20658,/boxscores/201905020PHI.html
+Fri May 3 2019,Boston Celtics,Milwaukee Bucks,116,123,TD Garden,18624,/boxscores/201905030BOS.html
+Fri May 3 2019,Portland Trail Blazers,Denver Nuggets,140,137,Moda Center,20193,/boxscores/201905030POR.html
+Sat May 4 2019,Houston Rockets,Golden State Warriors,126,121,Toyota Center,18169,/boxscores/201905040HOU.html
+Sun May 5 2019,Philadelphia 76ers,Toronto Raptors,96,101,Wells Fargo Center,20639,/boxscores/201905050PHI.html
+Sun May 5 2019,Portland Trail Blazers,Denver Nuggets,112,116,Moda Center,20146,/boxscores/201905050POR.html
+Mon May 6 2019,Boston Celtics,Milwaukee Bucks,101,113,TD Garden,18624,/boxscores/201905060BOS.html
+Mon May 6 2019,Houston Rockets,Golden State Warriors,112,108,Toyota Center,18055,/boxscores/201905060HOU.html
+Tue May 7 2019,Toronto Raptors,Philadelphia 76ers,125,89,Scotiabank Arena,20287,/boxscores/201905070TOR.html
+Tue May 7 2019,Denver Nuggets,Portland Trail Blazers,124,98,Pepsi Center,19520,/boxscores/201905070DEN.html
+Wed May 8 2019,Milwaukee Bucks,Boston Celtics,116,91,Fiserv Forum,17701,/boxscores/201905080MIL.html
+Wed May 8 2019,Golden State Warriors,Houston Rockets,104,99,Oracle Arena,19596,/boxscores/201905080GSW.html
+Thu May 9 2019,Philadelphia 76ers,Toronto Raptors,112,101,Wells Fargo Center,20525,/boxscores/201905090PHI.html
+Thu May 9 2019,Portland Trail Blazers,Denver Nuggets,119,108,Moda Center,20022,/boxscores/201905090POR.html
+Fri May 10 2019,Houston Rockets,Golden State Warriors,113,118,Toyota Center,18055,/boxscores/201905100HOU.html
+Sun May 12 2019,Denver Nuggets,Portland Trail Blazers,96,100,Pepsi Center,19725,/boxscores/201905120DEN.html
+Sun May 12 2019,Toronto Raptors,Philadelphia 76ers,92,90,Scotiabank Arena,20917,/boxscores/201905120TOR.html
+Tue May 14 2019,Golden State Warriors,Portland Trail Blazers,116,94,Oracle Arena,19596,/boxscores/201905140GSW.html
+Wed May 15 2019,Milwaukee Bucks,Toronto Raptors,108,100,Fiserv Forum,17345,/boxscores/201905150MIL.html
+Thu May 16 2019,Golden State Warriors,Portland Trail Blazers,114,111,Oracle Arena,19596,/boxscores/201905160GSW.html
+Fri May 17 2019,Milwaukee Bucks,Toronto Raptors,125,103,Fiserv Forum,17570,/boxscores/201905170MIL.html
+Sat May 18 2019,Portland Trail Blazers,Golden State Warriors,99,110,Moda Center,20214,/boxscores/201905180POR.html
+Sun May 19 2019,Toronto Raptors,Milwaukee Bucks,118,112,Scotiabank Arena,19923,/boxscores/201905190TOR.html
+Mon May 20 2019,Portland Trail Blazers,Golden State Warriors,117,119,Moda Center,20064,/boxscores/201905200POR.html
+Tue May 21 2019,Toronto Raptors,Milwaukee Bucks,120,102,Scotiabank Arena,20237,/boxscores/201905210TOR.html
+Thu May 23 2019,Milwaukee Bucks,Toronto Raptors,99,105,Fiserv Forum,17384,/boxscores/201905230MIL.html
+Sat May 25 2019,Toronto Raptors,Milwaukee Bucks,100,94,Scotiabank Arena,20478,/boxscores/201905250TOR.html
+Thu May 30 2019,Toronto Raptors,Golden State Warriors,118,109,Scotiabank Arena,19983,/boxscores/201905300TOR.html

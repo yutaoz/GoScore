@@ -1,0 +1,188 @@
+Tue Feb 1 2000,Cleveland Cavaliers,Washington Wizards,112,108,Gund Arena,11298,/boxscores/200002010CLE.html
+Tue Feb 1 2000,Dallas Mavericks,Philadelphia 76ers,100,101,Reunion Arena,13506,/boxscores/200002010DAL.html
+Tue Feb 1 2000,Houston Rockets,Charlotte Hornets,99,83,Compaq Center,14391,/boxscores/200002010HOU.html
+Tue Feb 1 2000,Indiana Pacers,Boston Celtics,99,96,Conseco Fieldhouse,18345,/boxscores/200002010IND.html
+Tue Feb 1 2000,Los Angeles Clippers,Golden State Warriors,76,107,STAPLES Center,10409,/boxscores/200002010LAC.html
+Tue Feb 1 2000,New York Knicks,Orlando Magic,77,98,Madison Square Garden (IV),19763,/boxscores/200002010NYK.html
+Tue Feb 1 2000,Portland Trail Blazers,Chicago Bulls,92,81,Rose Garden Arena,20220,/boxscores/200002010POR.html
+Tue Feb 1 2000,San Antonio Spurs,Los Angeles Lakers,105,81,Alamodome,25589,/boxscores/200002010SAS.html
+Tue Feb 1 2000,Utah Jazz,Seattle SuperSonics,96,104,Delta Center,19327,/boxscores/200002010UTA.html
+Wed Feb 2 2000,Boston Celtics,Miami Heat,103,105,FleetCenter,15411,/boxscores/200002020BOS.html
+Wed Feb 2 2000,Denver Nuggets,Milwaukee Bucks,135,112,Pepsi Center,12365,/boxscores/200002020DEN.html
+Wed Feb 2 2000,Detroit Pistons,Sacramento Kings,110,113,The Palace of Auburn Hills,20259,/boxscores/200002020DET.html
+Wed Feb 2 2000,Golden State Warriors,Vancouver Grizzlies,101,95,The Arena in Oakland,10019,/boxscores/200002020GSW.html
+Wed Feb 2 2000,New Jersey Nets,Atlanta Hawks,89,97,Continental Airlines Arena,15640,/boxscores/200002020NJN.html
+Wed Feb 2 2000,Phoenix Suns,Los Angeles Clippers,114,68,America West Arena,18421,/boxscores/200002020PHO.html
+Wed Feb 2 2000,Seattle SuperSonics,Chicago Bulls,81,88,KeyArena at Seattle Center,12636,/boxscores/200002020SEA.html
+Wed Feb 2 2000,Washington Wizards,Minnesota Timberwolves,103,93,MCI Center,14005,/boxscores/200002020WAS.html
+Thu Feb 3 2000,Dallas Mavericks,Charlotte Hornets,106,96,Reunion Arena,11126,/boxscores/200002030DAL.html
+Thu Feb 3 2000,Houston Rockets,Philadelphia 76ers,109,106,Compaq Center,16285,/boxscores/200002030HOU.html
+Thu Feb 3 2000,New York Knicks,Portland Trail Blazers,98,88,Madison Square Garden (IV),19763,/boxscores/200002030NYK.html
+Thu Feb 3 2000,San Antonio Spurs,Toronto Raptors,112,95,Alamodome,19048,/boxscores/200002030SAS.html
+Thu Feb 3 2000,Utah Jazz,Milwaukee Bucks,99,102,Delta Center,19871,/boxscores/200002030UTA.html
+Fri Feb 4 2000,Atlanta Hawks,Portland Trail Blazers,90,97,Philips Arena,18109,/boxscores/200002040ATL.html
+Fri Feb 4 2000,Boston Celtics,New Jersey Nets,100,95,FleetCenter,16540,/boxscores/200002040BOS.html
+Fri Feb 4 2000,Detroit Pistons,Cleveland Cavaliers,105,96,The Palace of Auburn Hills,16903,/boxscores/200002040DET.html
+Fri Feb 4 2000,Golden State Warriors,Denver Nuggets,103,101,The Arena in Oakland,13321,/boxscores/200002040GSW.html
+Fri Feb 4 2000,Indiana Pacers,Sacramento Kings,104,94,Conseco Fieldhouse,18345,/boxscores/200002040IND.html
+Fri Feb 4 2000,Los Angeles Lakers,Utah Jazz,113,67,STAPLES Center,18997,/boxscores/200002040LAL.html
+Fri Feb 4 2000,Miami Heat,Washington Wizards,99,92,AmericanAirlines Arena,19231,/boxscores/200002040MIA.html
+Fri Feb 4 2000,Minnesota Timberwolves,Houston Rockets,102,85,Target Center,18223,/boxscores/200002040MIN.html
+Fri Feb 4 2000,Seattle SuperSonics,Phoenix Suns,94,86,KeyArena at Seattle Center,15739,/boxscores/200002040SEA.html
+Fri Feb 4 2000,Vancouver Grizzlies,Chicago Bulls,101,76,General Motors Place,15357,/boxscores/200002040VAN.html
+Sat Feb 5 2000,Cleveland Cavaliers,Atlanta Hawks,94,102,Gund Arena,18595,/boxscores/200002050CLE.html
+Sat Feb 5 2000,Denver Nuggets,Minnesota Timberwolves,97,105,Pepsi Center,19099,/boxscores/200002050DEN.html
+Sat Feb 5 2000,Los Angeles Clippers,Dallas Mavericks,106,119,STAPLES Center,13646,/boxscores/200002050LAC.html
+Sat Feb 5 2000,Milwaukee Bucks,Toronto Raptors,95,98,Bradley Center,18717,/boxscores/200002050MIL.html
+Sat Feb 5 2000,Orlando Magic,Indiana Pacers,107,102,TD Waterhouse Centre,15421,/boxscores/200002050ORL.html
+Sat Feb 5 2000,Washington Wizards,Charlotte Hornets,102,110,MCI Center,18422,/boxscores/200002050WAS.html
+Sun Feb 6 2000,Boston Celtics,Portland Trail Blazers,94,100,FleetCenter,18624,/boxscores/200002060BOS.html
+Sun Feb 6 2000,Detroit Pistons,Houston Rockets,109,105,The Palace of Auburn Hills,15388,/boxscores/200002060DET.html
+Sun Feb 6 2000,Los Angeles Clippers,Chicago Bulls,90,100,STAPLES Center,12973,/boxscores/200002060LAC.html
+Sun Feb 6 2000,New Jersey Nets,Golden State Warriors,110,90,Continental Airlines Arena,14336,/boxscores/200002060NJN.html
+Sun Feb 6 2000,New York Knicks,Miami Heat,94,80,Madison Square Garden (IV),19763,/boxscores/200002060NYK.html
+Sun Feb 6 2000,Philadelphia 76ers,Sacramento Kings,119,108,First Union Center,20718,/boxscores/200002060PHI.html
+Sun Feb 6 2000,Phoenix Suns,Seattle SuperSonics,105,93,America West Arena,19023,/boxscores/200002060PHO.html
+Sun Feb 6 2000,Utah Jazz,San Antonio Spurs,93,90,Delta Center,18981,/boxscores/200002060UTA.html
+Sun Feb 6 2000,Vancouver Grizzlies,Dallas Mavericks,99,103,General Motors Place,14861,/boxscores/200002060VAN.html
+Mon Feb 7 2000,Charlotte Hornets,New York Knicks,95,85,Charlotte Coliseum,18128,/boxscores/200002070CHH.html
+Mon Feb 7 2000,Indiana Pacers,Philadelphia 76ers,109,84,Conseco Fieldhouse,18345,/boxscores/200002070IND.html
+Mon Feb 7 2000,Los Angeles Lakers,Denver Nuggets,106,98,STAPLES Center,18997,/boxscores/200002070LAL.html
+Mon Feb 7 2000,Milwaukee Bucks,Portland Trail Blazers,111,115,Bradley Center,15389,/boxscores/200002070MIL.html
+Mon Feb 7 2000,Orlando Magic,Golden State Warriors,120,100,TD Waterhouse Centre,12480,/boxscores/200002070ORL.html
+Tue Feb 8 2000,Houston Rockets,Cleveland Cavaliers,91,83,Compaq Center,14239,/boxscores/200002080HOU.html
+Tue Feb 8 2000,New Jersey Nets,Boston Celtics,131,113,Continental Airlines Arena,15836,/boxscores/200002080NJN.html
+Tue Feb 8 2000,Phoenix Suns,Vancouver Grizzlies,94,76,America West Arena,18385,/boxscores/200002080PHO.html
+Tue Feb 8 2000,Sacramento Kings,Chicago Bulls,119,80,ARCO Arena (II),17317,/boxscores/200002080SAC.html
+Tue Feb 8 2000,San Antonio Spurs,Seattle SuperSonics,79,77,Alamodome,16373,/boxscores/200002080SAS.html
+Tue Feb 8 2000,Toronto Raptors,Atlanta Hawks,109,88,Air Canada Centre,16636,/boxscores/200002080TOR.html
+Wed Feb 9 2000,Atlanta Hawks,Houston Rockets,116,100,Philips Arena,14132,/boxscores/200002090ATL.html
+Wed Feb 9 2000,Boston Celtics,Indiana Pacers,104,113,FleetCenter,18328,/boxscores/200002090BOS.html
+Wed Feb 9 2000,Charlotte Hornets,Cleveland Cavaliers,103,95,Charlotte Coliseum,16512,/boxscores/200002090CHH.html
+Wed Feb 9 2000,Dallas Mavericks,Seattle SuperSonics,106,117,Reunion Arena,18203,/boxscores/200002090DAL.html
+Wed Feb 9 2000,Denver Nuggets,San Antonio Spurs,97,106,Pepsi Center,16607,/boxscores/200002090DEN.html
+Wed Feb 9 2000,Detroit Pistons,Toronto Raptors,115,108,The Palace of Auburn Hills,17710,/boxscores/200002090DET.html
+Wed Feb 9 2000,Los Angeles Lakers,Minnesota Timberwolves,114,81,STAPLES Center,18843,/boxscores/200002090LAL.html
+Wed Feb 9 2000,Miami Heat,Golden State Warriors,115,100,AmericanAirlines Arena,16133,/boxscores/200002090MIA.html
+Wed Feb 9 2000,Milwaukee Bucks,New York Knicks,103,109,Bradley Center,15347,/boxscores/200002090MIL.html
+Wed Feb 9 2000,Orlando Magic,Washington Wizards,107,96,TD Waterhouse Centre,13555,/boxscores/200002090ORL.html
+Wed Feb 9 2000,Philadelphia 76ers,New Jersey Nets,92,90,First Union Center,18636,/boxscores/200002090PHI.html
+Wed Feb 9 2000,Portland Trail Blazers,Los Angeles Clippers,107,100,Rose Garden Arena,20310,/boxscores/200002090POR.html
+Wed Feb 9 2000,Utah Jazz,Chicago Bulls,113,86,Delta Center,19605,/boxscores/200002090UTA.html
+Thu Feb 10 2000,Los Angeles Clippers,Vancouver Grizzlies,90,112,STAPLES Center,9895,/boxscores/200002100LAC.html
+Thu Feb 10 2000,Phoenix Suns,Minnesota Timberwolves,101,85,America West Arena,19023,/boxscores/200002100PHO.html
+Thu Feb 10 2000,Sacramento Kings,Denver Nuggets,96,84,ARCO Arena (II),17317,/boxscores/200002100SAC.html
+Tue Feb 15 2000,Atlanta Hawks,New Jersey Nets,103,86,Philips Arena,12619,/boxscores/200002150ATL.html
+Tue Feb 15 2000,Chicago Bulls,Los Angeles Lakers,76,88,United Center,23208,/boxscores/200002150CHI.html
+Tue Feb 15 2000,Cleveland Cavaliers,San Antonio Spurs,92,81,Gund Arena,15142,/boxscores/200002150CLE.html
+Tue Feb 15 2000,Dallas Mavericks,Milwaukee Bucks,99,112,Reunion Arena,11912,/boxscores/200002150DAL.html
+Tue Feb 15 2000,Golden State Warriors,Portland Trail Blazers,83,92,The Arena in Oakland,11863,/boxscores/200002150GSW.html
+Tue Feb 15 2000,Houston Rockets,Detroit Pistons,107,102,Compaq Center,14453,/boxscores/200002150HOU.html
+Tue Feb 15 2000,Miami Heat,Los Angeles Clippers,107,88,AmericanAirlines Arena,15703,/boxscores/200002150MIA.html
+Tue Feb 15 2000,Minnesota Timberwolves,Denver Nuggets,104,107,Target Center,14117,/boxscores/200002150MIN.html
+Tue Feb 15 2000,Philadelphia 76ers,Charlotte Hornets,93,95,First Union Center,18488,/boxscores/200002150PHI.html
+Tue Feb 15 2000,Sacramento Kings,Phoenix Suns,108,117,ARCO Arena (II),17317,/boxscores/200002150SAC.html
+Tue Feb 15 2000,Seattle SuperSonics,Washington Wizards,114,85,KeyArena at Seattle Center,12858,/boxscores/200002150SEA.html
+Tue Feb 15 2000,Toronto Raptors,New York Knicks,91,70,Air Canada Centre,19800,/boxscores/200002150TOR.html
+Tue Feb 15 2000,Utah Jazz,Boston Celtics,99,101,Delta Center,18555,/boxscores/200002150UTA.html
+Wed Feb 16 2000,Charlotte Hornets,Los Angeles Lakers,85,92,Charlotte Coliseum,23799,/boxscores/200002160CHH.html
+Wed Feb 16 2000,Indiana Pacers,Toronto Raptors,109,101,Conseco Fieldhouse,18345,/boxscores/200002160IND.html
+Wed Feb 16 2000,New York Knicks,Minnesota Timberwolves,93,89,Madison Square Garden (IV),19763,/boxscores/200002160NYK.html
+Wed Feb 16 2000,Orlando Magic,Los Angeles Clippers,129,96,TD Waterhouse Centre,13332,/boxscores/200002160ORL.html
+Wed Feb 16 2000,Portland Trail Blazers,Golden State Warriors,99,95,Rose Garden Arena,20178,/boxscores/200002160POR.html
+Wed Feb 16 2000,Vancouver Grizzlies,Washington Wizards,92,87,General Motors Place,12894,/boxscores/200002160VAN.html
+Thu Feb 17 2000,Chicago Bulls,Miami Heat,83,76,United Center,22207,/boxscores/200002170CHI.html
+Thu Feb 17 2000,Cleveland Cavaliers,Denver Nuggets,119,101,Gund Arena,12037,/boxscores/200002170CLE.html
+Thu Feb 17 2000,Dallas Mavericks,Detroit Pistons,106,97,Reunion Arena,16241,/boxscores/200002170DAL.html
+Thu Feb 17 2000,Milwaukee Bucks,Indiana Pacers,90,92,Bradley Center,14376,/boxscores/200002170MIL.html
+Thu Feb 17 2000,Utah Jazz,Sacramento Kings,119,108,Delta Center,19911,/boxscores/200002170UTA.html
+Fri Feb 18 2000,Charlotte Hornets,Los Angeles Clippers,115,87,Charlotte Coliseum,18796,/boxscores/200002180CHH.html
+Fri Feb 18 2000,Golden State Warriors,Boston Celtics,122,100,The Arena in Oakland,14758,/boxscores/200002180GSW.html
+Fri Feb 18 2000,Minnesota Timberwolves,Vancouver Grizzlies,103,91,Target Center,17101,/boxscores/200002180MIN.html
+Fri Feb 18 2000,New Jersey Nets,Miami Heat,91,84,Continental Airlines Arena,16494,/boxscores/200002180NJN.html
+Fri Feb 18 2000,Orlando Magic,Los Angeles Lakers,99,107,TD Waterhouse Centre,17248,/boxscores/200002180ORL.html
+Fri Feb 18 2000,Philadelphia 76ers,Cleveland Cavaliers,104,75,First Union Center,20383,/boxscores/200002180PHI.html
+Fri Feb 18 2000,Phoenix Suns,Atlanta Hawks,85,73,America West Arena,19023,/boxscores/200002180PHO.html
+Fri Feb 18 2000,Portland Trail Blazers,Washington Wizards,93,85,Rose Garden Arena,20467,/boxscores/200002180POR.html
+Fri Feb 18 2000,Sacramento Kings,Seattle SuperSonics,118,85,ARCO Arena (II),17317,/boxscores/200002180SAC.html
+Fri Feb 18 2000,San Antonio Spurs,Houston Rockets,116,92,Alamodome,26846,/boxscores/200002180SAS.html
+Fri Feb 18 2000,Toronto Raptors,Denver Nuggets,91,95,Air Canada Centre,17570,/boxscores/200002180TOR.html
+Sat Feb 19 2000,Chicago Bulls,Los Angeles Clippers,74,72,United Center,22241,/boxscores/200002190CHI.html
+Sat Feb 19 2000,Milwaukee Bucks,Vancouver Grizzlies,100,111,Bradley Center,17109,/boxscores/200002190MIL.html
+Sat Feb 19 2000,New York Knicks,Indiana Pacers,87,73,Madison Square Garden (IV),19763,/boxscores/200002190NYK.html
+Sat Feb 19 2000,Seattle SuperSonics,Boston Celtics,94,91,KeyArena at Seattle Center,16567,/boxscores/200002190SEA.html
+Sat Feb 19 2000,Utah Jazz,Detroit Pistons,91,87,Delta Center,19911,/boxscores/200002190UTA.html
+Sun Feb 20 2000,Charlotte Hornets,Miami Heat,80,85,Charlotte Coliseum,21539,/boxscores/200002200CHH.html
+Sun Feb 20 2000,Golden State Warriors,Washington Wizards,112,103,The Arena in Oakland,13867,/boxscores/200002200GSW.html
+Sun Feb 20 2000,Houston Rockets,San Antonio Spurs,111,113,Compaq Center,16285,/boxscores/200002200HOU.html
+Sun Feb 20 2000,Minnesota Timberwolves,New Jersey Nets,89,91,Target Center,19449,/boxscores/200002200MIN.html
+Sun Feb 20 2000,Philadelphia 76ers,Los Angeles Lakers,84,87,First Union Center,21060,/boxscores/200002200PHI.html
+Sun Feb 20 2000,Sacramento Kings,Portland Trail Blazers,103,108,ARCO Arena (II),17317,/boxscores/200002200SAC.html
+Sun Feb 20 2000,Toronto Raptors,Dallas Mavericks,96,100,Air Canada Centre,19800,/boxscores/200002200TOR.html
+Mon Feb 21 2000,Cleveland Cavaliers,Vancouver Grizzlies,109,108,Gund Arena,12140,/boxscores/200002210CLE.html
+Mon Feb 21 2000,Denver Nuggets,Sacramento Kings,123,117,Pepsi Center,18527,/boxscores/200002210DEN.html
+Mon Feb 21 2000,Detroit Pistons,Miami Heat,95,87,The Palace of Auburn Hills,15413,/boxscores/200002210DET.html
+Mon Feb 21 2000,Indiana Pacers,Dallas Mavericks,94,93,Conseco Fieldhouse,18345,/boxscores/200002210IND.html
+Mon Feb 21 2000,New York Knicks,Los Angeles Clippers,87,76,Madison Square Garden (IV),19763,/boxscores/200002210NYK.html
+Mon Feb 21 2000,Portland Trail Blazers,Boston Celtics,105,92,Rose Garden Arena,20453,/boxscores/200002210POR.html
+Mon Feb 21 2000,San Antonio Spurs,Phoenix Suns,89,98,Alamodome,17049,/boxscores/200002210SAS.html
+Mon Feb 21 2000,Utah Jazz,Atlanta Hawks,96,94,Delta Center,19547,/boxscores/200002210UTA.html
+Tue Feb 22 2000,Charlotte Hornets,Houston Rockets,102,97,Charlotte Coliseum,15921,/boxscores/200002220CHH.html
+Tue Feb 22 2000,Chicago Bulls,Vancouver Grizzlies,81,85,United Center,21874,/boxscores/200002220CHI.html
+Tue Feb 22 2000,Minnesota Timberwolves,Golden State Warriors,112,89,Target Center,13992,/boxscores/200002220MIN.html
+Tue Feb 22 2000,New Jersey Nets,Los Angeles Lakers,89,97,Continental Airlines Arena,20049,/boxscores/200002220NJN.html
+Tue Feb 22 2000,Phoenix Suns,Denver Nuggets,86,67,America West Arena,19023,/boxscores/200002220PHO.html
+Tue Feb 22 2000,Seattle SuperSonics,Orlando Magic,127,91,KeyArena at Seattle Center,12921,/boxscores/200002220SEA.html
+Tue Feb 22 2000,Washington Wizards,Milwaukee Bucks,126,101,MCI Center,11413,/boxscores/200002220WAS.html
+Wed Feb 23 2000,Cleveland Cavaliers,Los Angeles Lakers,98,116,Gund Arena,20562,/boxscores/200002230CLE.html
+Wed Feb 23 2000,Detroit Pistons,Indiana Pacers,111,118,The Palace of Auburn Hills,16371,/boxscores/200002230DET.html
+Wed Feb 23 2000,Miami Heat,New Jersey Nets,99,85,AmericanAirlines Arena,16235,/boxscores/200002230MIA.html
+Wed Feb 23 2000,Milwaukee Bucks,Golden State Warriors,86,91,Bradley Center,12864,/boxscores/200002230MIL.html
+Wed Feb 23 2000,New York Knicks,Toronto Raptors,88,99,Madison Square Garden (IV),19763,/boxscores/200002230NYK.html
+Wed Feb 23 2000,Philadelphia 76ers,Los Angeles Clippers,94,78,First Union Center,17894,/boxscores/200002230PHI.html
+Wed Feb 23 2000,Sacramento Kings,Atlanta Hawks,94,100,ARCO Arena (II),17317,/boxscores/200002230SAC.html
+Thu Feb 24 2000,Charlotte Hornets,San Antonio Spurs,70,72,Charlotte Coliseum,18535,/boxscores/200002240CHH.html
+Thu Feb 24 2000,Dallas Mavericks,Utah Jazz,85,92,Reunion Arena,18187,/boxscores/200002240DAL.html
+Thu Feb 24 2000,Houston Rockets,Denver Nuggets,97,106,Compaq Center,14560,/boxscores/200002240HOU.html
+Thu Feb 24 2000,Indiana Pacers,Chicago Bulls,100,83,Conseco Fieldhouse,18345,/boxscores/200002240IND.html
+Thu Feb 24 2000,Minnesota Timberwolves,Los Angeles Clippers,116,91,Target Center,13089,/boxscores/200002240MIN.html
+Thu Feb 24 2000,Portland Trail Blazers,Orlando Magic,111,92,Rose Garden Arena,20111,/boxscores/200002240POR.html
+Thu Feb 24 2000,Vancouver Grizzlies,Boston Celtics,77,101,General Motors Place,13001,/boxscores/200002240VAN.html
+Thu Feb 24 2000,Washington Wizards,Phoenix Suns,83,92,MCI Center,15191,/boxscores/200002240WAS.html
+Fri Feb 25 2000,Chicago Bulls,San Antonio Spurs,78,91,United Center,22879,/boxscores/200002250CHI.html
+Fri Feb 25 2000,Detroit Pistons,Golden State Warriors,131,99,The Palace of Auburn Hills,17599,/boxscores/200002250DET.html
+Fri Feb 25 2000,Los Angeles Lakers,Boston Celtics,109,96,STAPLES Center,18997,/boxscores/200002250LAL.html
+Fri Feb 25 2000,Miami Heat,Cleveland Cavaliers,87,82,AmericanAirlines Arena,18504,/boxscores/200002250MIA.html
+Fri Feb 25 2000,Milwaukee Bucks,Philadelphia 76ers,83,97,Bradley Center,15672,/boxscores/200002250MIL.html
+Fri Feb 25 2000,New York Knicks,Phoenix Suns,84,79,Madison Square Garden (IV),19763,/boxscores/200002250NYK.html
+Fri Feb 25 2000,Seattle SuperSonics,Atlanta Hawks,87,95,KeyArena at Seattle Center,15007,/boxscores/200002250SEA.html
+Fri Feb 25 2000,Toronto Raptors,Minnesota Timberwolves,85,107,Air Canada Centre,19800,/boxscores/200002250TOR.html
+Fri Feb 25 2000,Utah Jazz,Orlando Magic,96,88,Delta Center,19911,/boxscores/200002250UTA.html
+Sat Feb 26 2000,Dallas Mavericks,Denver Nuggets,98,96,Reunion Arena,18187,/boxscores/200002260DAL.html
+Sat Feb 26 2000,Indiana Pacers,Golden State Warriors,104,88,Conseco Fieldhouse,18345,/boxscores/200002260IND.html
+Sat Feb 26 2000,Los Angeles Clippers,Atlanta Hawks,78,77,STAPLES Center,14375,/boxscores/200002260LAC.html
+Sat Feb 26 2000,New Jersey Nets,Charlotte Hornets,104,93,Continental Airlines Arena,18481,/boxscores/200002260NJN.html
+Sat Feb 26 2000,Vancouver Grizzlies,Sacramento Kings,102,90,General Motors Place,17856,/boxscores/200002260VAN.html
+Sat Feb 26 2000,Washington Wizards,Miami Heat,88,98,MCI Center,20674,/boxscores/200002260WAS.html
+Sun Feb 27 2000,Detroit Pistons,Chicago Bulls,93,90,The Palace of Auburn Hills,13751,/boxscores/200002270DET.html
+Sun Feb 27 2000,Los Angeles Lakers,Houston Rockets,101,85,STAPLES Center,18997,/boxscores/200002270LAL.html
+Sun Feb 27 2000,Milwaukee Bucks,Orlando Magic,102,95,Bradley Center,15726,/boxscores/200002270MIL.html
+Sun Feb 27 2000,Minnesota Timberwolves,San Antonio Spurs,102,98,Target Center,19654,/boxscores/200002270MIN.html
+Sun Feb 27 2000,New York Knicks,Philadelphia 76ers,89,88,Madison Square Garden (IV),19763,/boxscores/200002270NYK.html
+Sun Feb 27 2000,Portland Trail Blazers,Utah Jazz,101,92,Rose Garden Arena,20584,/boxscores/200002270POR.html
+Sun Feb 27 2000,Toronto Raptors,Phoenix Suns,103,102,Air Canada Centre,19800,/boxscores/200002270TOR.html
+Mon Feb 28 2000,Boston Celtics,Dallas Mavericks,100,108,FleetCenter,16981,/boxscores/200002280BOS.html
+Mon Feb 28 2000,Charlotte Hornets,Seattle SuperSonics,81,84,Charlotte Coliseum,15902,/boxscores/200002280CHH.html
+Mon Feb 28 2000,Golden State Warriors,Atlanta Hawks,80,75,The Arena in Oakland,10263,/boxscores/200002280GSW.html
+Mon Feb 28 2000,Los Angeles Clippers,Houston Rockets,77,96,STAPLES Center,12940,/boxscores/200002280LAC.html
+Mon Feb 28 2000,Miami Heat,New York Knicks,85,76,AmericanAirlines Arena,19708,/boxscores/200002280MIA.html
+Mon Feb 28 2000,Utah Jazz,New Jersey Nets,106,101,Delta Center,19865,/boxscores/200002280UTA.html
+Tue Feb 29 2000,Cleveland Cavaliers,Phoenix Suns,93,100,Gund Arena,13044,/boxscores/200002290CLE.html
+Tue Feb 29 2000,Indiana Pacers,Detroit Pistons,115,105,Conseco Fieldhouse,18345,/boxscores/200002290IND.html
+Tue Feb 29 2000,Minnesota Timberwolves,Charlotte Hornets,87,92,Target Center,15922,/boxscores/200002290MIN.html
+Tue Feb 29 2000,Orlando Magic,Seattle SuperSonics,103,94,TD Waterhouse Centre,13043,/boxscores/200002290ORL.html
+Tue Feb 29 2000,Philadelphia 76ers,Dallas Mavericks,106,87,First Union Center,17586,/boxscores/200002290PHI.html
+Tue Feb 29 2000,Portland Trail Blazers,Los Angeles Lakers,87,90,Rose Garden Arena,20584,/boxscores/200002290POR.html
+Tue Feb 29 2000,Sacramento Kings,Vancouver Grizzlies,112,87,ARCO Arena (II),17317,/boxscores/200002290SAC.html
+Tue Feb 29 2000,San Antonio Spurs,Miami Heat,93,69,Alamodome,18629,/boxscores/200002290SAS.html
+Tue Feb 29 2000,Toronto Raptors,Chicago Bulls,87,80,Air Canada Centre,18232,/boxscores/200002290TOR.html

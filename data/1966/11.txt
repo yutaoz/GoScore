@@ -1,0 +1,69 @@
+Wed Nov 3 1965,Cincinnati Royals,San Francisco Warriors,122,108,Cincinnati Gardens,0,/boxscores/196511030CIN.html
+Wed Nov 3 1965,Baltimore Bullets,New York Knicks,129,114,Baltimore Civic Center,0,/boxscores/196511030BAL.html
+Wed Nov 3 1965,Los Angeles Lakers,St. Louis Hawks,120,116,Los Angeles Memorial Sports Arena,0,/boxscores/196511030LAL.html
+Wed Nov 3 1965,Detroit Pistons,Philadelphia 76ers,110,100,Cobo Arena,0,/boxscores/196511030DET.html
+Thu Nov 4 1965,New York Knicks,Baltimore Bullets,108,107,Madison Square Garden (III),0,/boxscores/196511040NYK.html
+Thu Nov 4 1965,Philadelphia 76ers,San Francisco Warriors,119,121,Madison Square Garden (III),0,/boxscores/196511040PHI.html
+Fri Nov 5 1965,Baltimore Bullets,Boston Celtics,118,129,Baltimore Civic Center,0,/boxscores/196511050BAL.html
+Fri Nov 5 1965,Detroit Pistons,Cincinnati Royals,114,120,Cobo Arena,0,/boxscores/196511050DET.html
+Fri Nov 5 1965,Los Angeles Lakers,St. Louis Hawks,118,116,Los Angeles Memorial Sports Arena,0,/boxscores/196511050LAL.html
+Fri Nov 5 1965,Philadelphia 76ers,San Francisco Warriors,133,115,Convention Hall,0,/boxscores/196511050PHI.html
+Sat Nov 6 1965,New York Knicks,Cincinnati Royals,103,114,Madison Square Garden (III),0,/boxscores/196511060NYK.html
+Sat Nov 6 1965,St. Louis Hawks,Los Angeles Lakers,131,101,Kiel Auditorium,0,/boxscores/196511060STL.html
+Sat Nov 6 1965,San Francisco Warriors,Detroit Pistons,110,100,San Francisco Civic Auditorium,0,/boxscores/196511060SFW.html
+Sat Nov 6 1965,Boston Celtics,Philadelphia 76ers,101,91,Boston Garden,0,/boxscores/196511060BOS.html
+Sun Nov 7 1965,Baltimore Bullets,Los Angeles Lakers,137,116,Baltimore Civic Center,0,/boxscores/196511070BAL.html
+Tue Nov 9 1965,Baltimore Bullets,Boston Celtics,116,130,Rhode Island Auditorium,0,/boxscores/196511090BAL.html
+Tue Nov 9 1965,Philadelphia 76ers,Los Angeles Lakers,118,110,Convention Hall,0,/boxscores/196511090PHI.html
+Tue Nov 9 1965,San Francisco Warriors,Detroit Pistons,107,102,San Francisco Civic Auditorium,2436,/boxscores/196511090SFW.html
+Wed Nov 10 1965,Baltimore Bullets,St. Louis Hawks,124,117,Baltimore Civic Center,0,/boxscores/196511100BAL.html
+Wed Nov 10 1965,Los Angeles Lakers,Detroit Pistons,133,125,Los Angeles Memorial Sports Arena,0,/boxscores/196511100LAL.html
+Wed Nov 10 1965,Cincinnati Royals,New York Knicks,124,119,Cincinnati Gardens,0,/boxscores/196511100CIN.html
+Thu Nov 11 1965,Boston Celtics,St. Louis Hawks,87,83,Boston Garden,0,/boxscores/196511110BOS.html
+Thu Nov 11 1965,Philadelphia 76ers,San Francisco Warriors,109,101,Boston Garden,0,/boxscores/196511110PHI.html
+Fri Nov 12 1965,Detroit Pistons,San Francisco Warriors,102,103,Cobo Arena,0,/boxscores/196511120DET.html
+Fri Nov 12 1965,Los Angeles Lakers,New York Knicks,107,106,Minneapolis Auditorium,0,/boxscores/196511120LAL.html
+Fri Nov 12 1965,Philadelphia 76ers,Boston Celtics,123,114,Convention Hall,0,/boxscores/196511120PHI.html
+Sat Nov 13 1965,Boston Celtics,Detroit Pistons,122,93,Boston Garden,0,/boxscores/196511130BOS.html
+Sat Nov 13 1965,Cincinnati Royals,Baltimore Bullets,135,132,Cincinnati Gardens,0,/boxscores/196511130CIN.html
+Sat Nov 13 1965,New York Knicks,Philadelphia 76ers,119,127,Madison Square Garden (III),0,/boxscores/196511130NYK.html
+Sat Nov 13 1965,St. Louis Hawks,San Francisco Warriors,138,113,Kiel Auditorium,0,/boxscores/196511130STL.html
+Sun Nov 14 1965,Los Angeles Lakers,Baltimore Bullets,129,114,Los Angeles Memorial Sports Arena,0,/boxscores/196511140LAL.html
+Mon Nov 15 1965,Baltimore Bullets,San Francisco Warriors,112,123,Baltimore Civic Center,0,/boxscores/196511150BAL.html
+Tue Nov 16 1965,San Francisco Warriors,Boston Celtics,105,108,San Francisco Civic Auditorium,0,/boxscores/196511160SFW.html
+Tue Nov 16 1965,New York Knicks,Detroit Pistons,120,95,Madison Square Garden (III),0,/boxscores/196511160NYK.html
+Tue Nov 16 1965,Philadelphia 76ers,St. Louis Hawks,107,98,Madison Square Garden (III),0,/boxscores/196511160PHI.html
+Wed Nov 17 1965,Cincinnati Royals,Philadelphia 76ers,131,115,Cincinnati Gardens,0,/boxscores/196511170CIN.html
+Wed Nov 17 1965,Los Angeles Lakers,Boston Celtics,125,115,Los Angeles Memorial Sports Arena,0,/boxscores/196511170LAL.html
+Thu Nov 18 1965,Baltimore Bullets,New York Knicks,120,104,Baltimore Civic Center,0,/boxscores/196511180BAL.html
+Fri Nov 19 1965,Boston Celtics,Cincinnati Royals,129,103,Boston Garden,0,/boxscores/196511190BOS.html
+Fri Nov 19 1965,Detroit Pistons,New York Knicks,109,116,Cobo Arena,0,/boxscores/196511190DET.html
+Fri Nov 19 1965,Los Angeles Lakers,San Francisco Warriors,135,124,Los Angeles Memorial Sports Arena,0,/boxscores/196511190LAL.html
+Fri Nov 19 1965,Philadelphia 76ers,Baltimore Bullets,124,134,Convention Hall,0,/boxscores/196511190PHI.html
+Sat Nov 20 1965,Los Angeles Lakers,San Francisco Warriors,133,117,Las Vegas Convention Center,0,/boxscores/196511200LAL.html
+Sat Nov 20 1965,St. Louis Hawks,Detroit Pistons,110,101,Kiel Auditorium,0,/boxscores/196511200STL.html
+Sat Nov 20 1965,New York Knicks,Boston Celtics,108,122,Madison Square Garden (III),0,/boxscores/196511200NYK.html
+Sat Nov 20 1965,Baltimore Bullets,Philadelphia 76ers,117,112,Baltimore Civic Center,0,/boxscores/196511200BAL.html
+Sun Nov 21 1965,Baltimore Bullets,Cincinnati Royals,114,120,Indiana State Fair Coliseum,0,/boxscores/196511210BAL.html
+Sun Nov 21 1965,Los Angeles Lakers,Philadelphia 76ers,104,110,Los Angeles Memorial Sports Arena,0,/boxscores/196511210LAL.html
+Mon Nov 22 1965,San Francisco Warriors,St. Louis Hawks,112,108,Mid-South Coliseum,0,/boxscores/196511220SFW.html
+Tue Nov 23 1965,Cincinnati Royals,Detroit Pistons,115,118,Madison Square Garden (III),0,/boxscores/196511230CIN.html
+Tue Nov 23 1965,New York Knicks,San Francisco Warriors,125,134,Madison Square Garden (III),0,/boxscores/196511230NYK.html
+Wed Nov 24 1965,Boston Celtics,New York Knicks,125,110,Boston Garden,0,/boxscores/196511240BOS.html
+Wed Nov 24 1965,Los Angeles Lakers,Philadelphia 76ers,127,124,Los Angeles Memorial Sports Arena,0,/boxscores/196511240LAL.html
+Wed Nov 24 1965,Detroit Pistons,Baltimore Bullets,130,124,Cobo Arena,0,/boxscores/196511240DET.html
+Wed Nov 24 1965,Cincinnati Royals,St. Louis Hawks,112,108,Cincinnati Gardens,0,/boxscores/196511240CIN.html
+Thu Nov 25 1965,St. Louis Hawks,San Francisco Warriors,119,113,Kiel Auditorium,0,/boxscores/196511250STL.html
+Fri Nov 26 1965,Baltimore Bullets,Los Angeles Lakers,110,107,Baltimore Civic Center,0,/boxscores/196511260BAL.html
+Fri Nov 26 1965,Boston Celtics,Detroit Pistons,134,114,Rhode Island Auditorium,0,/boxscores/196511260BOS.html
+Fri Nov 26 1965,Cincinnati Royals,New York Knicks,117,113,Cincinnati Gardens,0,/boxscores/196511260CIN.html
+Fri Nov 26 1965,San Francisco Warriors,Philadelphia 76ers,120,132,San Francisco Civic Auditorium,0,/boxscores/196511260SFW.html
+Sat Nov 27 1965,Boston Celtics,Los Angeles Lakers,101,95,Boston Garden,0,/boxscores/196511270BOS.html
+Sat Nov 27 1965,New York Knicks,Cincinnati Royals,129,132,Madison Square Garden (III),0,/boxscores/196511270NYK.html
+Sat Nov 27 1965,San Francisco Warriors,Philadelphia 76ers,117,124,San Francisco Civic Auditorium,0,/boxscores/196511270SFW.html
+Sat Nov 27 1965,St. Louis Hawks,Baltimore Bullets,136,110,Kiel Auditorium,0,/boxscores/196511270STL.html
+Sun Nov 28 1965,Baltimore Bullets,St. Louis Hawks,110,102,Baltimore Civic Center,0,/boxscores/196511280BAL.html
+Sun Nov 28 1965,Detroit Pistons,Los Angeles Lakers,110,128,Cobo Arena,0,/boxscores/196511280DET.html
+Tue Nov 30 1965,Baltimore Bullets,Philadelphia 76ers,129,108,Madison Square Garden (III),0,/boxscores/196511300BAL.html
+Tue Nov 30 1965,Cincinnati Royals,Los Angeles Lakers,126,120,Cincinnati Gardens,0,/boxscores/196511300CIN.html
+Tue Nov 30 1965,New York Knicks,St. Louis Hawks,138,119,Madison Square Garden (III),0,/boxscores/196511300NYK.html

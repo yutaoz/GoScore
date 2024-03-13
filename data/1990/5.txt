@@ -1,0 +1,49 @@
+Tue May 1 1990,Dallas Mavericks,Portland Trail Blazers,92,106,Reunion Arena,17007,/boxscores/199005010DAL.html
+Tue May 1 1990,Cleveland Cavaliers,Philadelphia 76ers,122,95,Coliseum at Richfield,16317,/boxscores/199005010CLE.html
+Tue May 1 1990,Milwaukee Bucks,Chicago Bulls,119,112,Bradley Center,18575,/boxscores/199005010MIL.html
+Tue May 1 1990,Indiana Pacers,Detroit Pistons,96,108,Market Square Arena,15301,/boxscores/199005010IND.html
+Tue May 1 1990,Denver Nuggets,San Antonio Spurs,120,131,McNichols Sports Arena,15604,/boxscores/199005010DEN.html
+Tue May 1 1990,Houston Rockets,Los Angeles Lakers,114,108,The Summit,16611,/boxscores/199005010HOU.html
+Wed May 2 1990,New York Knicks,Boston Celtics,102,99,Madison Square Garden (IV),18212,/boxscores/199005020NYK.html
+Wed May 2 1990,Phoenix Suns,Utah Jazz,120,105,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005020PHO.html
+Thu May 3 1990,Cleveland Cavaliers,Philadelphia 76ers,108,96,Coliseum at Richfield,17106,/boxscores/199005030CLE.html
+Thu May 3 1990,Houston Rockets,Los Angeles Lakers,88,109,The Summit,16611,/boxscores/199005030HOU.html
+Thu May 3 1990,Milwaukee Bucks,Chicago Bulls,86,110,Bradley Center,18633,/boxscores/199005030MIL.html
+Fri May 4 1990,New York Knicks,Boston Celtics,135,108,Madison Square Garden (IV),18212,/boxscores/199005040NYK.html
+Fri May 4 1990,Phoenix Suns,Utah Jazz,94,105,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005040PHO.html
+Sat May 5 1990,Philadelphia 76ers,Cleveland Cavaliers,113,97,The Spectrum,18168,/boxscores/199005050PHI.html
+Sat May 5 1990,Portland Trail Blazers,San Antonio Spurs,107,94,Memorial Coliseum,12884,/boxscores/199005050POR.html
+Sun May 6 1990,Boston Celtics,New York Knicks,114,121,Boston Garden,14890,/boxscores/199005060BOS.html
+Sun May 6 1990,Utah Jazz,Phoenix Suns,102,104,Salt Palace,12616,/boxscores/199005060UTA.html
+Mon May 7 1990,Chicago Bulls,Philadelphia 76ers,96,85,Chicago Stadium,18676,/boxscores/199005070CHI.html
+Tue May 8 1990,Detroit Pistons,New York Knicks,112,77,The Palace of Auburn Hills,21454,/boxscores/199005080DET.html
+Tue May 8 1990,Los Angeles Lakers,Phoenix Suns,102,104,Great Western Forum,17506,/boxscores/199005080LAL.html
+Tue May 8 1990,Portland Trail Blazers,San Antonio Spurs,122,112,Memorial Coliseum,12884,/boxscores/199005080POR.html
+Wed May 9 1990,Chicago Bulls,Philadelphia 76ers,101,96,Chicago Stadium,18676,/boxscores/199005090CHI.html
+Thu May 10 1990,San Antonio Spurs,Portland Trail Blazers,121,98,HemisFair Arena,15910,/boxscores/199005100SAS.html
+Thu May 10 1990,Detroit Pistons,New York Knicks,104,97,The Palace of Auburn Hills,21454,/boxscores/199005100DET.html
+Thu May 10 1990,Los Angeles Lakers,Phoenix Suns,124,100,Great Western Forum,17505,/boxscores/199005100LAL.html
+Fri May 11 1990,Philadelphia 76ers,Chicago Bulls,118,112,The Spectrum,18168,/boxscores/199005110PHI.html
+Sat May 12 1990,New York Knicks,Detroit Pistons,111,103,Madison Square Garden (IV),18212,/boxscores/199005120NYK.html
+Sat May 12 1990,Phoenix Suns,Los Angeles Lakers,117,103,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005120PHO.html
+Sat May 12 1990,San Antonio Spurs,Portland Trail Blazers,115,105,HemisFair Arena,15910,/boxscores/199005120SAS.html
+Sun May 13 1990,New York Knicks,Detroit Pistons,90,102,Madison Square Garden (IV),18212,/boxscores/199005130NYK.html
+Sun May 13 1990,Philadelphia 76ers,Chicago Bulls,101,111,The Spectrum,18168,/boxscores/199005130PHI.html
+Sun May 13 1990,Phoenix Suns,Los Angeles Lakers,114,101,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005130PHO.html
+Tue May 15 1990,Detroit Pistons,New York Knicks,95,84,The Palace of Auburn Hills,21454,/boxscores/199005150DET.html
+Tue May 15 1990,Los Angeles Lakers,Phoenix Suns,103,106,Great Western Forum,17505,/boxscores/199005150LAL.html
+Tue May 15 1990,Portland Trail Blazers,San Antonio Spurs,138,132,Memorial Coliseum,12884,/boxscores/199005150POR.html
+Wed May 16 1990,Chicago Bulls,Philadelphia 76ers,117,99,Chicago Stadium,18676,/boxscores/199005160CHI.html
+Thu May 17 1990,San Antonio Spurs,Portland Trail Blazers,112,97,HemisFair Arena,15910,/boxscores/199005170SAS.html
+Sat May 19 1990,Portland Trail Blazers,San Antonio Spurs,108,105,Memorial Coliseum,12884,/boxscores/199005190POR.html
+Sun May 20 1990,Detroit Pistons,Chicago Bulls,86,77,The Palace of Auburn Hills,21454,/boxscores/199005200DET.html
+Mon May 21 1990,Portland Trail Blazers,Phoenix Suns,100,98,Memorial Coliseum,12884,/boxscores/199005210POR.html
+Tue May 22 1990,Detroit Pistons,Chicago Bulls,102,93,The Palace of Auburn Hills,21454,/boxscores/199005220DET.html
+Wed May 23 1990,Portland Trail Blazers,Phoenix Suns,108,107,Memorial Coliseum,12884,/boxscores/199005230POR.html
+Fri May 25 1990,Phoenix Suns,Portland Trail Blazers,123,89,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005250PHO.html
+Sat May 26 1990,Chicago Bulls,Detroit Pistons,107,102,Chicago Stadium,18676,/boxscores/199005260CHI.html
+Sun May 27 1990,Phoenix Suns,Portland Trail Blazers,119,107,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005270PHO.html
+Mon May 28 1990,Chicago Bulls,Detroit Pistons,108,101,Chicago Stadium,18676,/boxscores/199005280CHI.html
+Tue May 29 1990,Portland Trail Blazers,Phoenix Suns,120,114,Memorial Coliseum,12884,/boxscores/199005290POR.html
+Wed May 30 1990,Detroit Pistons,Chicago Bulls,97,83,The Palace of Auburn Hills,21454,/boxscores/199005300DET.html
+Thu May 31 1990,Phoenix Suns,Portland Trail Blazers,109,112,Arizona Veterans Memorial Coliseum,14487,/boxscores/199005310PHO.html

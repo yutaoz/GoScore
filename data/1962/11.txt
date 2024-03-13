@@ -1,0 +1,65 @@
+Wed Nov 1 1961,Los Angeles Lakers,Cincinnati Royals,120,115,Los Angeles Memorial Sports Arena,0,/boxscores/196111010LAL.html
+Wed Nov 1 1961,Detroit Pistons,New York Knicks,111,95,Cobo Arena,0,/boxscores/196111010DET.html
+Fri Nov 3 1961,Chicago Packers,New York Knicks,129,118,International Amphitheatre,0,/boxscores/196111030CHP.html
+Fri Nov 3 1961,Los Angeles Lakers,Cincinnati Royals,114,132,Los Angeles Memorial Sports Arena,0,/boxscores/196111030LAL.html
+Fri Nov 3 1961,Philadelphia Warriors,Boston Celtics,98,112,Convention Hall,0,/boxscores/196111030PHW.html
+Fri Nov 3 1961,Syracuse Nationals,St. Louis Hawks,94,106,Onondaga War Memorial,0,/boxscores/196111030SYR.html
+Sat Nov 4 1961,Boston Celtics,Syracuse Nationals,127,107,Boston Garden,0,/boxscores/196111040BOS.html
+Sat Nov 4 1961,Chicago Packers,Los Angeles Lakers,112,125,International Amphitheatre,0,/boxscores/196111040CHP.html
+Sat Nov 4 1961,Philadelphia Warriors,Detroit Pistons,135,132,Convention Hall,0,/boxscores/196111040PHW.html
+Sat Nov 4 1961,St. Louis Hawks,New York Knicks,112,111,Kiel Auditorium,0,/boxscores/196111040STL.html
+Tue Nov 7 1961,Cincinnati Royals,New York Knicks,123,98,Cincinnati Gardens,0,/boxscores/196111070CIN.html
+Tue Nov 7 1961,St. Louis Hawks,Los Angeles Lakers,110,127,Kiel Auditorium,0,/boxscores/196111070STL.html
+Wed Nov 8 1961,Chicago Packers,New York Knicks,108,130,Cobo Arena,0,/boxscores/196111080CHP.html
+Wed Nov 8 1961,Detroit Pistons,Philadelphia Warriors,128,132,Cobo Arena,0,/boxscores/196111080DET.html
+Wed Nov 8 1961,Los Angeles Lakers,St. Louis Hawks,124,118,Los Angeles Memorial Sports Arena,0,/boxscores/196111080LAL.html
+Thu Nov 9 1961,Boston Celtics,Detroit Pistons,110,116,Convention Hall,0,/boxscores/196111090BOS.html
+Thu Nov 9 1961,Philadelphia Warriors,Syracuse Nationals,151,108,Convention Hall,0,/boxscores/196111090PHW.html
+Fri Nov 10 1961,Cincinnati Royals,Chicago Packers,122,117,Cincinnati Gardens,0,/boxscores/196111100CIN.html
+Fri Nov 10 1961,New York Knicks,Detroit Pistons,118,124,Madison Square Garden (III),0,/boxscores/196111100NYK.html
+Sat Nov 11 1961,Boston Celtics,Philadelphia Warriors,128,125,Boston Garden,0,/boxscores/196111110BOS.html
+Sat Nov 11 1961,Chicago Packers,Cincinnati Royals,107,117,International Amphitheatre,0,/boxscores/196111110CHP.html
+Sat Nov 11 1961,St. Louis Hawks,Detroit Pistons,132,119,Kiel Auditorium,0,/boxscores/196111110STL.html
+Sat Nov 11 1961,Syracuse Nationals,New York Knicks,135,109,Onondaga War Memorial,0,/boxscores/196111110SYR.html
+Sun Nov 12 1961,Chicago Packers,Boston Celtics,96,112,International Amphitheatre,0,/boxscores/196111120CHP.html
+Sun Nov 12 1961,Cincinnati Royals,St. Louis Hawks,136,126,Cincinnati Gardens,0,/boxscores/196111120CIN.html
+Mon Nov 13 1961,Los Angeles Lakers,Chicago Packers,127,113,Los Angeles Memorial Sports Arena,0,/boxscores/196111130LAL.html
+Tue Nov 14 1961,Cincinnati Royals,Syracuse Nationals,119,115,Madison Square Garden (III),0,/boxscores/196111140CIN.html
+Tue Nov 14 1961,New York Knicks,Philadelphia Warriors,124,122,Madison Square Garden (III),0,/boxscores/196111140NYK.html
+Tue Nov 14 1961,St. Louis Hawks,Boston Celtics,117,119,Kiel Auditorium,0,/boxscores/196111140STL.html
+Wed Nov 15 1961,Philadelphia Warriors,Cincinnati Royals,145,133,Convention Hall,0,/boxscores/196111150PHW.html
+Wed Nov 15 1961,New York Knicks,Syracuse Nationals,102,114,Convention Hall,0,/boxscores/196111150NYK.html
+Wed Nov 15 1961,Detroit Pistons,St. Louis Hawks,127,122,Cobo Arena,0,/boxscores/196111150DET.html
+Wed Nov 15 1961,Los Angeles Lakers,Chicago Packers,133,118,Los Angeles Memorial Sports Arena,0,/boxscores/196111150LAL.html
+Thu Nov 16 1961,Cincinnati Royals,Boston Celtics,121,127,Cincinnati Gardens,0,/boxscores/196111160CIN.html
+Fri Nov 17 1961,New York Knicks,Boston Celtics,100,104,Madison Square Garden (III),0,/boxscores/196111170NYK.html
+Fri Nov 17 1961,Philadelphia Warriors,Los Angeles Lakers,121,125,Convention Hall,0,/boxscores/196111170PHW.html
+Sat Nov 18 1961,Boston Celtics,Los Angeles Lakers,101,103,Boston Garden,0,/boxscores/196111180BOS.html
+Sat Nov 18 1961,Detroit Pistons,Chicago Packers,119,112,Cobo Arena,0,/boxscores/196111180DET.html
+Sat Nov 18 1961,St. Louis Hawks,Cincinnati Royals,136,133,Kiel Auditorium,0,/boxscores/196111180STL.html
+Sat Nov 18 1961,Syracuse Nationals,Philadelphia Warriors,148,130,Onondaga War Memorial,0,/boxscores/196111180SYR.html
+Sun Nov 19 1961,Chicago Packers,Philadelphia Warriors,114,122,International Amphitheatre,0,/boxscores/196111190CHP.html
+Sun Nov 19 1961,Cincinnati Royals,Detroit Pistons,128,112,International Amphitheatre,0,/boxscores/196111190CIN.html
+Tue Nov 21 1961,Cincinnati Royals,Philadelphia Warriors,118,125,Cincinnati Gardens,0,/boxscores/196111210CIN.html
+Tue Nov 21 1961,Detroit Pistons,Los Angeles Lakers,108,102,Madison Square Garden (III),0,/boxscores/196111210DET.html
+Tue Nov 21 1961,New York Knicks,Chicago Packers,107,109,Madison Square Garden (III),0,/boxscores/196111210NYK.html
+Wed Nov 22 1961,Boston Celtics,St. Louis Hawks,141,121,Boston Garden,0,/boxscores/196111220BOS.html
+Wed Nov 22 1961,New York Knicks,Syracuse Nationals,110,109,Boston Garden,0,/boxscores/196111220NYK.html
+Thu Nov 23 1961,St. Louis Hawks,Los Angeles Lakers,114,122,Kiel Auditorium,0,/boxscores/196111230STL.html
+Thu Nov 23 1961,Philadelphia Warriors,Boston Celtics,106,119,Convention Hall,0,/boxscores/196111230PHW.html
+Thu Nov 23 1961,Cincinnati Royals,Syracuse Nationals,99,117,Rochester Community War Memorial,0,/boxscores/196111230CIN.html
+Fri Nov 24 1961,Detroit Pistons,St. Louis Hawks,142,135,War Memorial Coliseum,0,/boxscores/196111240DET.html
+Fri Nov 24 1961,New York Knicks,Los Angeles Lakers,89,100,Madison Square Garden (III),0,/boxscores/196111240NYK.html
+Fri Nov 24 1961,Syracuse Nationals,Cincinnati Royals,125,127,Onondaga War Memorial,0,/boxscores/196111240SYR.html
+Sat Nov 25 1961,Boston Celtics,New York Knicks,116,96,Boston Garden,0,/boxscores/196111250BOS.html
+Sat Nov 25 1961,Detroit Pistons,Los Angeles Lakers,104,103,Cobo Arena,0,/boxscores/196111250DET.html
+Sat Nov 25 1961,Philadelphia Warriors,Chicago Packers,134,102,Convention Hall,0,/boxscores/196111250PHW.html
+Sat Nov 25 1961,St. Louis Hawks,Syracuse Nationals,141,108,Kiel Auditorium,0,/boxscores/196111250STL.html
+Sun Nov 26 1961,Cincinnati Royals,Los Angeles Lakers,117,102,Cincinnati Gardens,0,/boxscores/196111260CIN.html
+Sun Nov 26 1961,Detroit Pistons,Boston Celtics,101,107,Cobo Arena,0,/boxscores/196111260DET.html
+Tue Nov 28 1961,Boston Celtics,Detroit Pistons,116,108,Madison Square Garden (III),0,/boxscores/196111280BOS.html
+Tue Nov 28 1961,Los Angeles Lakers,Syracuse Nationals,111,121,Kiel Auditorium,0,/boxscores/196111280LAL.html
+Tue Nov 28 1961,New York Knicks,Cincinnati Royals,117,131,Madison Square Garden (III),0,/boxscores/196111280NYK.html
+Tue Nov 28 1961,St. Louis Hawks,Philadelphia Warriors,111,121,Kiel Auditorium,0,/boxscores/196111280STL.html
+Wed Nov 29 1961,Cincinnati Royals,Syracuse Nationals,122,136,Cincinnati Gardens,0,/boxscores/196111290CIN.html
+Thu Nov 30 1961,Boston Celtics,Cincinnati Royals,130,133,Rhode Island Auditorium,0,/boxscores/196111300BOS.html

@@ -1,0 +1,228 @@
+Fri Nov 1 2013,Charlotte Bobcats,Cleveland Cavaliers,90,84,Time Warner Cable Arena,18017,/boxscores/201311010CHA.html
+Fri Nov 1 2013,Orlando Magic,New Orleans Pelicans,110,90,Amway Center,18846,/boxscores/201311010ORL.html
+Fri Nov 1 2013,Washington Wizards,Philadelphia 76ers,102,109,Verizon Center,17160,/boxscores/201311010WAS.html
+Fri Nov 1 2013,Atlanta Hawks,Toronto Raptors,102,95,Philips Arena,18118,/boxscores/201311010ATL.html
+Fri Nov 1 2013,Boston Celtics,Milwaukee Bucks,98,105,TD Garden,18624,/boxscores/201311010BOS.html
+Fri Nov 1 2013,Brooklyn Nets,Miami Heat,101,100,Barclays Center,17732,/boxscores/201311010BRK.html
+Fri Nov 1 2013,Houston Rockets,Dallas Mavericks,113,105,Toyota Center,18142,/boxscores/201311010HOU.html
+Fri Nov 1 2013,Memphis Grizzlies,Detroit Pistons,111,108,FedEx Forum,18119,/boxscores/201311010MEM.html
+Fri Nov 1 2013,Minnesota Timberwolves,Oklahoma City Thunder,100,81,Target Center,17433,/boxscores/201311010MIN.html
+Fri Nov 1 2013,Denver Nuggets,Portland Trail Blazers,98,113,Pepsi Center,19155,/boxscores/201311010DEN.html
+Fri Nov 1 2013,Phoenix Suns,Utah Jazz,87,84,US Airways Center,14662,/boxscores/201311010PHO.html
+Fri Nov 1 2013,Sacramento Kings,Los Angeles Clippers,101,110,Sleep Train Arena,17317,/boxscores/201311010SAC.html
+Fri Nov 1 2013,Los Angeles Lakers,San Antonio Spurs,85,91,STAPLES Center,18997,/boxscores/201311010LAL.html
+Sat Nov 2 2013,Indiana Pacers,Cleveland Cavaliers,89,74,Bankers Life Fieldhouse,16242,/boxscores/201311020IND.html
+Sat Nov 2 2013,Philadelphia 76ers,Chicago Bulls,107,104,Wells Fargo Center,15782,/boxscores/201311020PHI.html
+Sat Nov 2 2013,New Orleans Pelicans,Charlotte Bobcats,105,84,Smoothie King Center,15232,/boxscores/201311020NOP.html
+Sat Nov 2 2013,Dallas Mavericks,Memphis Grizzlies,111,99,American Airlines Center,20262,/boxscores/201311020DAL.html
+Sat Nov 2 2013,Milwaukee Bucks,Toronto Raptors,90,97,BMO Harris Bradley Center,16046,/boxscores/201311020MIL.html
+Sat Nov 2 2013,Utah Jazz,Houston Rockets,93,104,EnergySolutions Arena,19498,/boxscores/201311020UTA.html
+Sat Nov 2 2013,Portland Trail Blazers,San Antonio Spurs,115,105,Moda Center,20028,/boxscores/201311020POR.html
+Sat Nov 2 2013,Golden State Warriors,Sacramento Kings,98,87,Oracle Arena,19596,/boxscores/201311020GSW.html
+Sun Nov 3 2013,Detroit Pistons,Boston Celtics,87,77,The Palace of Auburn Hills,14978,/boxscores/201311030DET.html
+Sun Nov 3 2013,Miami Heat,Washington Wizards,103,93,AmericanAirlines Arena,19600,/boxscores/201311030MIA.html
+Sun Nov 3 2013,Orlando Magic,Brooklyn Nets,107,86,Amway Center,15297,/boxscores/201311030ORL.html
+Sun Nov 3 2013,Oklahoma City Thunder,Phoenix Suns,103,96,Chesapeake Energy Arena,18203,/boxscores/201311030OKC.html
+Sun Nov 3 2013,New York Knicks,Minnesota Timberwolves,100,109,Madison Square Garden (IV),19812,/boxscores/201311030NYK.html
+Sun Nov 3 2013,Los Angeles Lakers,Atlanta Hawks,105,103,STAPLES Center,18997,/boxscores/201311030LAL.html
+Mon Nov 4 2013,Cleveland Cavaliers,Minnesota Timberwolves,93,92,Quicken Loans Arena,17892,/boxscores/201311040CLE.html
+Mon Nov 4 2013,Philadelphia 76ers,Golden State Warriors,90,110,Wells Fargo Center,11089,/boxscores/201311040PHI.html
+Mon Nov 4 2013,Memphis Grizzlies,Boston Celtics,95,88,FedEx Forum,15872,/boxscores/201311040MEM.html
+Mon Nov 4 2013,Los Angeles Clippers,Houston Rockets,137,118,STAPLES Center,19404,/boxscores/201311040LAC.html
+Tue Nov 5 2013,Toronto Raptors,Miami Heat,95,104,Air Canada Centre,18470,/boxscores/201311050TOR.html
+Tue Nov 5 2013,Brooklyn Nets,Utah Jazz,104,88,Barclays Center,17732,/boxscores/201311050BRK.html
+Tue Nov 5 2013,Detroit Pistons,Indiana Pacers,91,99,The Palace of Auburn Hills,13401,/boxscores/201311050DET.html
+Tue Nov 5 2013,New York Knicks,Charlotte Bobcats,97,102,Madison Square Garden (IV),19812,/boxscores/201311050NYK.html
+Tue Nov 5 2013,New Orleans Pelicans,Phoenix Suns,98,104,Smoothie King Center,13404,/boxscores/201311050NOP.html
+Tue Nov 5 2013,Dallas Mavericks,Los Angeles Lakers,123,104,American Airlines Center,19670,/boxscores/201311050DAL.html
+Tue Nov 5 2013,Denver Nuggets,San Antonio Spurs,94,102,Pepsi Center,15721,/boxscores/201311050DEN.html
+Tue Nov 5 2013,Portland Trail Blazers,Houston Rockets,101,116,Moda Center,17491,/boxscores/201311050POR.html
+Tue Nov 5 2013,Sacramento Kings,Atlanta Hawks,100,105,Sleep Train Arena,13506,/boxscores/201311050SAC.html
+Wed Nov 6 2013,Charlotte Bobcats,Toronto Raptors,92,90,Time Warner Cable Arena,11118,/boxscores/201311060CHA.html
+Wed Nov 6 2013,Indiana Pacers,Chicago Bulls,97,80,Bankers Life Fieldhouse,18165,/boxscores/201311060IND.html
+Wed Nov 6 2013,Orlando Magic,Los Angeles Clippers,98,90,Amway Center,15807,/boxscores/201311060ORL.html
+Wed Nov 6 2013,Philadelphia 76ers,Washington Wizards,102,116,Wells Fargo Center,10117,/boxscores/201311060PHI.html
+Wed Nov 6 2013,Boston Celtics,Utah Jazz,97,87,TD Garden,17130,/boxscores/201311060BOS.html
+Wed Nov 6 2013,Memphis Grizzlies,New Orleans Pelicans,84,99,FedEx Forum,15209,/boxscores/201311060MEM.html
+Wed Nov 6 2013,Milwaukee Bucks,Cleveland Cavaliers,109,104,BMO Harris Bradley Center,14340,/boxscores/201311060MIL.html
+Wed Nov 6 2013,Minnesota Timberwolves,Golden State Warriors,93,106,Target Center,15559,/boxscores/201311060MIN.html
+Wed Nov 6 2013,San Antonio Spurs,Phoenix Suns,99,96,AT&T Center,17870,/boxscores/201311060SAS.html
+Wed Nov 6 2013,Oklahoma City Thunder,Dallas Mavericks,107,93,Chesapeake Energy Arena,18203,/boxscores/201311060OKC.html
+Thu Nov 7 2013,Miami Heat,Los Angeles Clippers,102,97,AmericanAirlines Arena,19600,/boxscores/201311070MIA.html
+Thu Nov 7 2013,Denver Nuggets,Atlanta Hawks,109,107,Pepsi Center,15404,/boxscores/201311070DEN.html
+Thu Nov 7 2013,Houston Rockets,Los Angeles Lakers,98,99,Toyota Center,18133,/boxscores/201311070HOU.html
+Fri Nov 8 2013,Charlotte Bobcats,New York Knicks,91,101,Time Warner Cable Arena,16465,/boxscores/201311080CHA.html
+Fri Nov 8 2013,Indiana Pacers,Toronto Raptors,91,84,Bankers Life Fieldhouse,13316,/boxscores/201311080IND.html
+Fri Nov 8 2013,Orlando Magic,Boston Celtics,89,91,Amway Center,17555,/boxscores/201311080ORL.html
+Fri Nov 8 2013,Philadelphia 76ers,Cleveland Cavaliers,94,79,Wells Fargo Center,15219,/boxscores/201311080PHI.html
+Fri Nov 8 2013,Washington Wizards,Brooklyn Nets,112,108,Verizon Center,17215,/boxscores/201311080WAS.html
+Fri Nov 8 2013,Detroit Pistons,Oklahoma City Thunder,110,119,The Palace of Auburn Hills,15624,/boxscores/201311080DET.html
+Fri Nov 8 2013,Chicago Bulls,Utah Jazz,97,73,United Center,21946,/boxscores/201311080CHI.html
+Fri Nov 8 2013,Minnesota Timberwolves,Dallas Mavericks,116,108,Target Center,13677,/boxscores/201311080MIN.html
+Fri Nov 8 2013,New Orleans Pelicans,Los Angeles Lakers,96,85,Smoothie King Center,18209,/boxscores/201311080NOP.html
+Fri Nov 8 2013,San Antonio Spurs,Golden State Warriors,76,74,AT&T Center,18581,/boxscores/201311080SAS.html
+Fri Nov 8 2013,Phoenix Suns,Denver Nuggets,114,103,US Airways Center,15145,/boxscores/201311080PHO.html
+Fri Nov 8 2013,Portland Trail Blazers,Sacramento Kings,104,91,Moda Center,17627,/boxscores/201311080POR.html
+Sat Nov 9 2013,Toronto Raptors,Utah Jazz,115,91,Air Canada Centre,17211,/boxscores/201311090TOR.html
+Sat Nov 9 2013,Atlanta Hawks,Orlando Magic,104,94,Philips Arena,15189,/boxscores/201311090ATL.html
+Sat Nov 9 2013,Brooklyn Nets,Indiana Pacers,91,96,Barclays Center,17732,/boxscores/201311090BRK.html
+Sat Nov 9 2013,Cleveland Cavaliers,Philadelphia 76ers,127,125,Quicken Loans Arena,20562,/boxscores/201311090CLE.html
+Sat Nov 9 2013,Miami Heat,Boston Celtics,110,111,AmericanAirlines Arena,19710,/boxscores/201311090MIA.html
+Sat Nov 9 2013,Houston Rockets,Los Angeles Clippers,94,107,Toyota Center,18108,/boxscores/201311090HOU.html
+Sat Nov 9 2013,Memphis Grizzlies,Golden State Warriors,108,90,FedEx Forum,16989,/boxscores/201311090MEM.html
+Sat Nov 9 2013,Milwaukee Bucks,Dallas Mavericks,83,91,BMO Harris Bradley Center,16448,/boxscores/201311090MIL.html
+Sat Nov 9 2013,Sacramento Kings,Portland Trail Blazers,85,96,Sleep Train Arena,15482,/boxscores/201311090SAC.html
+Sun Nov 10 2013,New York Knicks,San Antonio Spurs,89,120,Madison Square Garden (IV),19812,/boxscores/201311100NYK.html
+Sun Nov 10 2013,Oklahoma City Thunder,Washington Wizards,106,105,Chesapeake Energy Arena,18203,/boxscores/201311100OKC.html
+Sun Nov 10 2013,Phoenix Suns,New Orleans Pelicans,101,94,US Airways Center,13154,/boxscores/201311100PHO.html
+Sun Nov 10 2013,Los Angeles Lakers,Minnesota Timberwolves,90,113,STAPLES Center,18997,/boxscores/201311100LAL.html
+Mon Nov 11 2013,Charlotte Bobcats,Atlanta Hawks,94,103,Time Warner Cable Arena,13996,/boxscores/201311110CHA.html
+Mon Nov 11 2013,Indiana Pacers,Memphis Grizzlies,95,79,Bankers Life Fieldhouse,13130,/boxscores/201311110IND.html
+Mon Nov 11 2013,Philadelphia 76ers,San Antonio Spurs,85,109,Wells Fargo Center,12424,/boxscores/201311110PHI.html
+Mon Nov 11 2013,Boston Celtics,Orlando Magic,120,105,TD Garden,18624,/boxscores/201311110BOS.html
+Mon Nov 11 2013,Chicago Bulls,Cleveland Cavaliers,96,81,United Center,21778,/boxscores/201311110CHI.html
+Mon Nov 11 2013,Houston Rockets,Toronto Raptors,110,104,Toyota Center,18134,/boxscores/201311110HOU.html
+Mon Nov 11 2013,Utah Jazz,Denver Nuggets,81,100,EnergySolutions Arena,16866,/boxscores/201311110UTA.html
+Mon Nov 11 2013,Portland Trail Blazers,Detroit Pistons,109,103,Moda Center,18834,/boxscores/201311110POR.html
+Mon Nov 11 2013,Los Angeles Clippers,Minnesota Timberwolves,109,107,STAPLES Center,19060,/boxscores/201311110LAC.html
+Tue Nov 12 2013,Miami Heat,Milwaukee Bucks,118,95,AmericanAirlines Arena,19600,/boxscores/201311120MIA.html
+Tue Nov 12 2013,Dallas Mavericks,Washington Wizards,105,95,American Airlines Center,19627,/boxscores/201311120DAL.html
+Tue Nov 12 2013,Golden State Warriors,Detroit Pistons,113,95,Oracle Arena,19596,/boxscores/201311120GSW.html
+Tue Nov 12 2013,Los Angeles Lakers,New Orleans Pelicans,116,95,STAPLES Center,18426,/boxscores/201311120LAL.html
+Wed Nov 13 2013,Orlando Magic,Milwaukee Bucks,94,91,Amway Center,13588,/boxscores/201311130ORL.html
+Wed Nov 13 2013,Philadelphia 76ers,Houston Rockets,123,117,Wells Fargo Center,11671,/boxscores/201311130PHI.html
+Wed Nov 13 2013,Boston Celtics,Charlotte Bobcats,83,89,TD Garden,17032,/boxscores/201311130BOS.html
+Wed Nov 13 2013,Atlanta Hawks,New York Knicks,91,95,Philips Arena,15057,/boxscores/201311130ATL.html
+Wed Nov 13 2013,Memphis Grizzlies,Toronto Raptors,87,103,FedEx Forum,15971,/boxscores/201311130MEM.html
+Wed Nov 13 2013,Minnesota Timberwolves,Cleveland Cavaliers,124,95,Target Center,14978,/boxscores/201311130MIN.html
+Wed Nov 13 2013,San Antonio Spurs,Washington Wizards,92,79,AT&T Center,18581,/boxscores/201311130SAS.html
+Wed Nov 13 2013,Denver Nuggets,Los Angeles Lakers,111,99,Pepsi Center,17824,/boxscores/201311130DEN.html
+Wed Nov 13 2013,Utah Jazz,New Orleans Pelicans,111,105,EnergySolutions Arena,16717,/boxscores/201311130UTA.html
+Wed Nov 13 2013,Portland Trail Blazers,Phoenix Suns,90,89,Moda Center,19537,/boxscores/201311130POR.html
+Wed Nov 13 2013,Sacramento Kings,Brooklyn Nets,107,86,Sleep Train Arena,15122,/boxscores/201311130SAC.html
+Wed Nov 13 2013,Los Angeles Clippers,Oklahoma City Thunder,111,103,STAPLES Center,19273,/boxscores/201311130LAC.html
+Thu Nov 14 2013,New York Knicks,Houston Rockets,106,109,Madison Square Garden (IV),19812,/boxscores/201311140NYK.html
+Thu Nov 14 2013,Golden State Warriors,Oklahoma City Thunder,116,115,Oracle Arena,19596,/boxscores/201311140GSW.html
+Fri Nov 15 2013,Indiana Pacers,Milwaukee Bucks,104,77,Bankers Life Fieldhouse,16202,/boxscores/201311150IND.html
+Fri Nov 15 2013,Toronto Raptors,Chicago Bulls,80,96,Air Canada Centre,19800,/boxscores/201311150TOR.html
+Fri Nov 15 2013,Atlanta Hawks,Philadelphia 76ers,113,103,Philips Arena,12070,/boxscores/201311150ATL.html
+Fri Nov 15 2013,Boston Celtics,Portland Trail Blazers,96,109,TD Garden,18624,/boxscores/201311150BOS.html
+Fri Nov 15 2013,Cleveland Cavaliers,Charlotte Bobcats,80,86,Quicken Loans Arena,18679,/boxscores/201311150CLE.html
+Fri Nov 15 2013,Miami Heat,Dallas Mavericks,110,104,AmericanAirlines Arena,19772,/boxscores/201311150MIA.html
+Fri Nov 15 2013,Denver Nuggets,Minnesota Timberwolves,117,113,Pepsi Center,17142,/boxscores/201311150DEN.html
+Fri Nov 15 2013,Phoenix Suns,Brooklyn Nets,98,100,US Airways Center,15984,/boxscores/201311150PHO.html
+Fri Nov 15 2013,Utah Jazz,San Antonio Spurs,82,91,EnergySolutions Arena,17530,/boxscores/201311150UTA.html
+Fri Nov 15 2013,Los Angeles Lakers,Memphis Grizzlies,86,89,STAPLES Center,18997,/boxscores/201311150LAL.html
+Fri Nov 15 2013,Sacramento Kings,Detroit Pistons,90,97,Sleep Train Arena,17317,/boxscores/201311150SAC.html
+Sat Nov 16 2013,Charlotte Bobcats,Miami Heat,81,97,Time Warner Cable Arena,19084,/boxscores/201311160CHA.html
+Sat Nov 16 2013,Orlando Magic,Dallas Mavericks,100,108,Amway Center,15039,/boxscores/201311160ORL.html
+Sat Nov 16 2013,Washington Wizards,Cleveland Cavaliers,96,103,Verizon Center,18038,/boxscores/201311160WAS.html
+Sat Nov 16 2013,New York Knicks,Atlanta Hawks,90,110,Madison Square Garden (IV),19812,/boxscores/201311160NYK.html
+Sat Nov 16 2013,Chicago Bulls,Indiana Pacers,110,94,United Center,22158,/boxscores/201311160CHI.html
+Sat Nov 16 2013,Houston Rockets,Denver Nuggets,122,111,Toyota Center,18147,/boxscores/201311160HOU.html
+Sat Nov 16 2013,Minnesota Timberwolves,Boston Celtics,106,88,Target Center,15111,/boxscores/201311160MIN.html
+Sat Nov 16 2013,New Orleans Pelicans,Philadelphia 76ers,135,98,Smoothie King Center,16659,/boxscores/201311160NOP.html
+Sat Nov 16 2013,Milwaukee Bucks,Oklahoma City Thunder,79,92,BMO Harris Bradley Center,15984,/boxscores/201311160MIL.html
+Sat Nov 16 2013,Golden State Warriors,Utah Jazz,102,88,Oracle Arena,19596,/boxscores/201311160GSW.html
+Sat Nov 16 2013,Los Angeles Clippers,Brooklyn Nets,110,103,STAPLES Center,19349,/boxscores/201311160LAC.html
+Sun Nov 17 2013,Toronto Raptors,Portland Trail Blazers,110,118,Air Canada Centre,17945,/boxscores/201311170TOR.html
+Sun Nov 17 2013,Sacramento Kings,Memphis Grizzlies,86,97,Sleep Train Arena,15630,/boxscores/201311170SAC.html
+Sun Nov 17 2013,Los Angeles Lakers,Detroit Pistons,114,99,STAPLES Center,18997,/boxscores/201311170LAL.html
+Mon Nov 18 2013,Brooklyn Nets,Portland Trail Blazers,98,108,Barclays Center,17732,/boxscores/201311180BRK.html
+Mon Nov 18 2013,Chicago Bulls,Charlotte Bobcats,86,81,United Center,21628,/boxscores/201311180CHI.html
+Mon Nov 18 2013,Oklahoma City Thunder,Denver Nuggets,115,113,Chesapeake Energy Arena,18203,/boxscores/201311180OKC.html
+Mon Nov 18 2013,Dallas Mavericks,Philadelphia 76ers,97,94,American Airlines Center,19790,/boxscores/201311180DAL.html
+Mon Nov 18 2013,Utah Jazz,Golden State Warriors,87,98,EnergySolutions Arena,16051,/boxscores/201311180UTA.html
+Mon Nov 18 2013,Los Angeles Clippers,Memphis Grizzlies,102,106,STAPLES Center,19060,/boxscores/201311180LAC.html
+Tue Nov 19 2013,Washington Wizards,Minnesota Timberwolves,104,100,Verizon Center,14804,/boxscores/201311190WAS.html
+Tue Nov 19 2013,Detroit Pistons,New York Knicks,92,86,The Palace of Auburn Hills,13213,/boxscores/201311190DET.html
+Tue Nov 19 2013,Miami Heat,Atlanta Hawks,104,88,AmericanAirlines Arena,19600,/boxscores/201311190MIA.html
+Tue Nov 19 2013,Houston Rockets,Boston Celtics,109,85,Toyota Center,18232,/boxscores/201311190HOU.html
+Tue Nov 19 2013,Sacramento Kings,Phoenix Suns,107,104,Sleep Train Arena,14626,/boxscores/201311190SAC.html
+Wed Nov 20 2013,Charlotte Bobcats,Brooklyn Nets,95,91,Time Warner Cable Arena,13843,/boxscores/201311200CHA.html
+Wed Nov 20 2013,Cleveland Cavaliers,Washington Wizards,91,98,Quicken Loans Arena,16189,/boxscores/201311200CLE.html
+Wed Nov 20 2013,New York Knicks,Indiana Pacers,96,103,Madison Square Garden (IV),19812,/boxscores/201311200NYK.html
+Wed Nov 20 2013,Orlando Magic,Miami Heat,92,120,Amway Center,17256,/boxscores/201311200ORL.html
+Wed Nov 20 2013,Philadelphia 76ers,Toronto Raptors,98,108,Wells Fargo Center,10787,/boxscores/201311200PHI.html
+Wed Nov 20 2013,Atlanta Hawks,Detroit Pistons,93,85,Philips Arena,13167,/boxscores/201311200ATL.html
+Wed Nov 20 2013,Milwaukee Bucks,Portland Trail Blazers,82,91,BMO Harris Bradley Center,11789,/boxscores/201311200MIL.html
+Wed Nov 20 2013,Minnesota Timberwolves,Los Angeles Clippers,98,102,Target Center,13101,/boxscores/201311200MIN.html
+Wed Nov 20 2013,New Orleans Pelicans,Utah Jazz,105,98,Smoothie King Center,13203,/boxscores/201311200NOP.html
+Wed Nov 20 2013,San Antonio Spurs,Boston Celtics,104,93,AT&T Center,18581,/boxscores/201311200SAS.html
+Wed Nov 20 2013,Phoenix Suns,Sacramento Kings,106,113,US Airways Center,12705,/boxscores/201311200PHO.html
+Wed Nov 20 2013,Dallas Mavericks,Houston Rockets,123,120,American Airlines Center,20045,/boxscores/201311200DAL.html
+Wed Nov 20 2013,Golden State Warriors,Memphis Grizzlies,81,88,Oracle Arena,19596,/boxscores/201311200GSW.html
+Thu Nov 21 2013,Oklahoma City Thunder,Los Angeles Clippers,105,91,Chesapeake Energy Arena,18203,/boxscores/201311210OKC.html
+Thu Nov 21 2013,Denver Nuggets,Chicago Bulls,97,87,Pepsi Center,18423,/boxscores/201311210DEN.html
+Fri Nov 22 2013,Charlotte Bobcats,Phoenix Suns,91,98,Time Warner Cable Arena,14916,/boxscores/201311220CHA.html
+Fri Nov 22 2013,Philadelphia 76ers,Milwaukee Bucks,115,107,Wells Fargo Center,13588,/boxscores/201311220PHI.html
+Fri Nov 22 2013,Toronto Raptors,Washington Wizards,96,88,Air Canada Centre,18671,/boxscores/201311220TOR.html
+Fri Nov 22 2013,Boston Celtics,Indiana Pacers,82,97,TD Garden,18624,/boxscores/201311220BOS.html
+Fri Nov 22 2013,Detroit Pistons,Atlanta Hawks,89,96,The Palace of Auburn Hills,13467,/boxscores/201311220DET.html
+Fri Nov 22 2013,Memphis Grizzlies,San Antonio Spurs,86,102,FedEx Forum,17109,/boxscores/201311220MEM.html
+Fri Nov 22 2013,Minnesota Timberwolves,Brooklyn Nets,111,81,Target Center,15551,/boxscores/201311220MIN.html
+Fri Nov 22 2013,New Orleans Pelicans,Cleveland Cavaliers,104,100,Smoothie King Center,15186,/boxscores/201311220NOP.html
+Fri Nov 22 2013,Dallas Mavericks,Utah Jazz,103,93,American Airlines Center,19781,/boxscores/201311220DAL.html
+Fri Nov 22 2013,Portland Trail Blazers,Chicago Bulls,98,95,Moda Center,20618,/boxscores/201311220POR.html
+Fri Nov 22 2013,Los Angeles Lakers,Golden State Warriors,102,95,STAPLES Center,18997,/boxscores/201311220LAL.html
+Sat Nov 23 2013,Los Angeles Clippers,Sacramento Kings,103,102,STAPLES Center,19060,/boxscores/201311230LAC.html
+Sat Nov 23 2013,Indiana Pacers,Philadelphia 76ers,106,98,Bankers Life Fieldhouse,18165,/boxscores/201311230IND.html
+Sat Nov 23 2013,Washington Wizards,New York Knicks,98,89,Verizon Center,18089,/boxscores/201311230WAS.html
+Sat Nov 23 2013,Atlanta Hawks,Boston Celtics,87,94,Philips Arena,15189,/boxscores/201311230ATL.html
+Sat Nov 23 2013,Miami Heat,Orlando Magic,101,99,AmericanAirlines Arena,19647,/boxscores/201311230MIA.html
+Sat Nov 23 2013,Houston Rockets,Minnesota Timberwolves,112,101,Toyota Center,18196,/boxscores/201311230HOU.html
+Sat Nov 23 2013,Milwaukee Bucks,Charlotte Bobcats,72,96,BMO Harris Bradley Center,14871,/boxscores/201311230MIL.html
+Sat Nov 23 2013,San Antonio Spurs,Cleveland Cavaliers,126,96,AT&T Center,18581,/boxscores/201311230SAS.html
+Sat Nov 23 2013,Denver Nuggets,Dallas Mavericks,102,100,Pepsi Center,17841,/boxscores/201311230DEN.html
+Sat Nov 23 2013,Golden State Warriors,Portland Trail Blazers,101,113,Oracle Arena,19596,/boxscores/201311230GSW.html
+Sun Nov 24 2013,Brooklyn Nets,Detroit Pistons,97,109,Barclays Center,17732,/boxscores/201311240BRK.html
+Sun Nov 24 2013,Los Angeles Clippers,Chicago Bulls,121,82,STAPLES Center,19245,/boxscores/201311240LAC.html
+Sun Nov 24 2013,Orlando Magic,Phoenix Suns,96,104,Amway Center,15785,/boxscores/201311240ORL.html
+Sun Nov 24 2013,Oklahoma City Thunder,Utah Jazz,95,73,Chesapeake Energy Arena,18203,/boxscores/201311240OKC.html
+Sun Nov 24 2013,Los Angeles Lakers,Sacramento Kings,100,86,STAPLES Center,18997,/boxscores/201311240LAL.html
+Mon Nov 25 2013,Charlotte Bobcats,Boston Celtics,86,96,Time Warner Cable Arena,13558,/boxscores/201311250CHA.html
+Mon Nov 25 2013,Indiana Pacers,Minnesota Timberwolves,98,84,Bankers Life Fieldhouse,16426,/boxscores/201311250IND.html
+Mon Nov 25 2013,Detroit Pistons,Milwaukee Bucks,113,94,The Palace of Auburn Hills,12150,/boxscores/201311250DET.html
+Mon Nov 25 2013,Miami Heat,Phoenix Suns,107,92,AmericanAirlines Arena,19758,/boxscores/201311250MIA.html
+Mon Nov 25 2013,Memphis Grizzlies,Houston Rockets,86,93,FedEx Forum,15246,/boxscores/201311250MEM.html
+Mon Nov 25 2013,Dallas Mavericks,Denver Nuggets,96,110,American Airlines Center,19677,/boxscores/201311250DAL.html
+Mon Nov 25 2013,San Antonio Spurs,New Orleans Pelicans,112,93,AT&T Center,18323,/boxscores/201311250SAS.html
+Mon Nov 25 2013,Utah Jazz,Chicago Bulls,89,83,EnergySolutions Arena,18936,/boxscores/201311250UTA.html
+Mon Nov 25 2013,Portland Trail Blazers,New York Knicks,102,91,Moda Center,19939,/boxscores/201311250POR.html
+Tue Nov 26 2013,Toronto Raptors,Brooklyn Nets,100,102,Air Canada Centre,16421,/boxscores/201311260TOR.html
+Tue Nov 26 2013,Washington Wizards,Los Angeles Lakers,116,111,Verizon Center,19204,/boxscores/201311260WAS.html
+Tue Nov 26 2013,Atlanta Hawks,Orlando Magic,92,109,Philips Arena,13164,/boxscores/201311260ATL.html
+Tue Nov 26 2013,New Orleans Pelicans,Golden State Warriors,101,102,Smoothie King Center,15330,/boxscores/201311260NOP.html
+Wed Nov 27 2013,Charlotte Bobcats,Indiana Pacers,74,99,Time Warner Cable Arena,15170,/boxscores/201311270CHA.html
+Wed Nov 27 2013,Orlando Magic,Philadelphia 76ers,105,94,Amway Center,15839,/boxscores/201311270ORL.html
+Wed Nov 27 2013,Boston Celtics,Memphis Grizzlies,93,100,TD Garden,17319,/boxscores/201311270BOS.html
+Wed Nov 27 2013,Brooklyn Nets,Los Angeles Lakers,94,99,Barclays Center,17732,/boxscores/201311270BRK.html
+Wed Nov 27 2013,Cleveland Cavaliers,Miami Heat,84,95,Quicken Loans Arena,20562,/boxscores/201311270CLE.html
+Wed Nov 27 2013,Detroit Pistons,Chicago Bulls,79,99,The Palace of Auburn Hills,14228,/boxscores/201311270DET.html
+Wed Nov 27 2013,Houston Rockets,Atlanta Hawks,113,84,Toyota Center,18051,/boxscores/201311270HOU.html
+Wed Nov 27 2013,Milwaukee Bucks,Washington Wizards,92,100,BMO Harris Bradley Center,11584,/boxscores/201311270MIL.html
+Wed Nov 27 2013,Minnesota Timberwolves,Denver Nuggets,110,117,Target Center,14244,/boxscores/201311270MIN.html
+Wed Nov 27 2013,Oklahoma City Thunder,San Antonio Spurs,94,88,Chesapeake Energy Arena,18203,/boxscores/201311270OKC.html
+Wed Nov 27 2013,Dallas Mavericks,Golden State Warriors,103,99,American Airlines Center,20211,/boxscores/201311270DAL.html
+Wed Nov 27 2013,Phoenix Suns,Portland Trail Blazers,120,106,US Airways Center,12731,/boxscores/201311270PHO.html
+Wed Nov 27 2013,Los Angeles Clippers,New York Knicks,93,80,STAPLES Center,19270,/boxscores/201311270LAC.html
+Fri Nov 29 2013,Charlotte Bobcats,Milwaukee Bucks,92,76,Time Warner Cable Arena,15081,/boxscores/201311290CHA.html
+Fri Nov 29 2013,Orlando Magic,San Antonio Spurs,91,109,Amway Center,15159,/boxscores/201311290ORL.html
+Fri Nov 29 2013,Toronto Raptors,Miami Heat,83,90,Air Canada Centre,18290,/boxscores/201311290TOR.html
+Fri Nov 29 2013,Atlanta Hawks,Dallas Mavericks,88,87,Philips Arena,15463,/boxscores/201311290ATL.html
+Fri Nov 29 2013,Boston Celtics,Cleveland Cavaliers,103,86,TD Garden,17685,/boxscores/201311290BOS.html
+Fri Nov 29 2013,Detroit Pistons,Los Angeles Lakers,102,106,The Palace of Auburn Hills,15202,/boxscores/201311290DET.html
+Fri Nov 29 2013,Houston Rockets,Brooklyn Nets,114,95,Toyota Center,18138,/boxscores/201311290HOU.html
+Fri Nov 29 2013,Indiana Pacers,Washington Wizards,93,73,Bankers Life Fieldhouse,18165,/boxscores/201311290IND.html
+Fri Nov 29 2013,Oklahoma City Thunder,Golden State Warriors,113,112,Chesapeake Energy Arena,18203,/boxscores/201311290OKC.html
+Fri Nov 29 2013,Philadelphia 76ers,New Orleans Pelicans,105,121,Wells Fargo Center,17807,/boxscores/201311290PHI.html
+Fri Nov 29 2013,Denver Nuggets,New York Knicks,97,95,Pepsi Center,19155,/boxscores/201311290DEN.html
+Fri Nov 29 2013,Utah Jazz,Phoenix Suns,101,112,EnergySolutions Arena,18435,/boxscores/201311290UTA.html
+Fri Nov 29 2013,Sacramento Kings,Los Angeles Clippers,98,104,Sleep Train Arena,17317,/boxscores/201311290SAC.html
+Sat Nov 30 2013,Washington Wizards,Atlanta Hawks,108,101,Verizon Center,14280,/boxscores/201311300WAS.html
+Sat Nov 30 2013,Cleveland Cavaliers,Chicago Bulls,97,93,Quicken Loans Arena,17296,/boxscores/201311300CLE.html
+Sat Nov 30 2013,Memphis Grizzlies,Brooklyn Nets,88,97,FedEx Forum,17012,/boxscores/201311300MEM.html
+Sat Nov 30 2013,Dallas Mavericks,Minnesota Timberwolves,106,112,American Airlines Center,20173,/boxscores/201311300DAL.html
+Sat Nov 30 2013,San Antonio Spurs,Houston Rockets,106,112,AT&T Center,18581,/boxscores/201311300SAS.html
+Sat Nov 30 2013,Milwaukee Bucks,Boston Celtics,92,85,BMO Harris Bradley Center,15471,/boxscores/201311300MIL.html
+Sat Nov 30 2013,Phoenix Suns,Utah Jazz,104,112,US Airways Center,12957,/boxscores/201311300PHO.html

@@ -1,0 +1,230 @@
+Fri Jan 1 2010,Atlanta Hawks,New York Knicks,108,112,Philips Arena,17366,/boxscores/201001010ATL.html
+Fri Jan 1 2010,Minnesota Timberwolves,Orlando Magic,94,106,Target Center,17065,/boxscores/201001010MIN.html
+Fri Jan 1 2010,Los Angeles Lakers,Sacramento Kings,109,108,STAPLES Center,18997,/boxscores/201001010LAL.html
+Sat Jan 2 2010,New Jersey Nets,Cleveland Cavaliers,86,94,Izod Center,17569,/boxscores/201001020NJN.html
+Sat Jan 2 2010,Miami Heat,Charlotte Bobcats,97,107,AmericanAirlines Arena,17856,/boxscores/201001020MIA.html
+Sat Jan 2 2010,Indiana Pacers,Minnesota Timberwolves,122,111,Conseco Fieldhouse,12685,/boxscores/201001020IND.html
+Sat Jan 2 2010,Washington Wizards,San Antonio Spurs,86,97,Verizon Center,19025,/boxscores/201001020WAS.html
+Sat Jan 2 2010,Boston Celtics,Toronto Raptors,103,96,TD Garden,18624,/boxscores/201001020BOS.html
+Sat Jan 2 2010,Chicago Bulls,Orlando Magic,101,93,United Center,21162,/boxscores/201001020CHI.html
+Sat Jan 2 2010,New Orleans Hornets,Houston Rockets,99,95,New Orleans Arena,16020,/boxscores/201001020NOH.html
+Sat Jan 2 2010,Milwaukee Bucks,Oklahoma City Thunder,103,97,Bradley Center,15264,/boxscores/201001020MIL.html
+Sat Jan 2 2010,Phoenix Suns,Memphis Grizzlies,103,128,US Airways Center,17135,/boxscores/201001020PHO.html
+Sat Jan 2 2010,Utah Jazz,Denver Nuggets,95,105,EnergySolutions Arena,19911,/boxscores/201001020UTA.html
+Sat Jan 2 2010,Portland Trail Blazers,Golden State Warriors,105,89,Rose Garden Arena,20507,/boxscores/201001020POR.html
+Sat Jan 2 2010,Sacramento Kings,Dallas Mavericks,91,99,Power Balance Pavilion,14294,/boxscores/201001020SAC.html
+Sun Jan 3 2010,Cleveland Cavaliers,Charlotte Bobcats,88,91,Quicken Loans Arena,20562,/boxscores/201001030CLE.html
+Sun Jan 3 2010,New York Knicks,Indiana Pacers,132,89,Madison Square Garden (IV),19763,/boxscores/201001030NYK.html
+Sun Jan 3 2010,Toronto Raptors,San Antonio Spurs,91,86,Air Canada Centre,18323,/boxscores/201001030TOR.html
+Sun Jan 3 2010,Denver Nuggets,Philadelphia 76ers,105,108,Pepsi Center,19155,/boxscores/201001030DEN.html
+Sun Jan 3 2010,Los Angeles Lakers,Dallas Mavericks,131,96,STAPLES Center,18997,/boxscores/201001030LAL.html
+Mon Jan 4 2010,Miami Heat,Atlanta Hawks,92,75,AmericanAirlines Arena,16500,/boxscores/201001040MIA.html
+Mon Jan 4 2010,Chicago Bulls,Oklahoma City Thunder,85,98,United Center,18838,/boxscores/201001040CHI.html
+Mon Jan 4 2010,Utah Jazz,New Orleans Hornets,87,91,EnergySolutions Arena,19911,/boxscores/201001040UTA.html
+Mon Jan 4 2010,Los Angeles Clippers,Portland Trail Blazers,105,95,STAPLES Center,15104,/boxscores/201001040LAC.html
+Tue Jan 5 2010,Charlotte Bobcats,Chicago Bulls,113,108,Time Warner Cable Arena,13749,/boxscores/201001050CHA.html
+Tue Jan 5 2010,Indiana Pacers,Orlando Magic,97,90,Conseco Fieldhouse,11119,/boxscores/201001050IND.html
+Tue Jan 5 2010,Philadelphia 76ers,Washington Wizards,97,104,Wachovia Center,11822,/boxscores/201001050PHI.html
+Tue Jan 5 2010,New Jersey Nets,Milwaukee Bucks,76,98,Izod Center,11101,/boxscores/201001050NJN.html
+Tue Jan 5 2010,Dallas Mavericks,Detroit Pistons,98,93,American Airlines Center,19799,/boxscores/201001050DAL.html
+Tue Jan 5 2010,Denver Nuggets,Golden State Warriors,123,122,Pepsi Center,15129,/boxscores/201001050DEN.html
+Tue Jan 5 2010,Portland Trail Blazers,Memphis Grizzlies,105,109,Rose Garden Arena,20278,/boxscores/201001050POR.html
+Tue Jan 5 2010,Sacramento Kings,Phoenix Suns,109,113,Power Balance Pavilion,13630,/boxscores/201001050SAC.html
+Tue Jan 5 2010,Los Angeles Lakers,Houston Rockets,88,79,STAPLES Center,18997,/boxscores/201001050LAL.html
+Wed Jan 6 2010,Atlanta Hawks,New Jersey Nets,119,89,Philips Arena,11219,/boxscores/201001060ATL.html
+Wed Jan 6 2010,Cleveland Cavaliers,Washington Wizards,121,98,Quicken Loans Arena,20562,/boxscores/201001060CLE.html
+Wed Jan 6 2010,Orlando Magic,Toronto Raptors,103,108,Amway Arena,17461,/boxscores/201001060ORL.html
+Wed Jan 6 2010,Miami Heat,Boston Celtics,106,112,AmericanAirlines Arena,19600,/boxscores/201001060MIA.html
+Wed Jan 6 2010,Minnesota Timberwolves,Golden State Warriors,101,107,Target Center,12046,/boxscores/201001060MIN.html
+Wed Jan 6 2010,Oklahoma City Thunder,New Orleans Hornets,92,97,Oklahoma City Arena,17836,/boxscores/201001060OKC.html
+Wed Jan 6 2010,San Antonio Spurs,Detroit Pistons,112,92,AT&T Center,17337,/boxscores/201001060SAS.html
+Wed Jan 6 2010,Phoenix Suns,Houston Rockets,118,110,US Airways Center,15811,/boxscores/201001060PHO.html
+Wed Jan 6 2010,Utah Jazz,Memphis Grizzlies,117,94,EnergySolutions Arena,19008,/boxscores/201001060UTA.html
+Wed Jan 6 2010,Los Angeles Clippers,Los Angeles Lakers,102,91,STAPLES Center,19388,/boxscores/201001060LAC.html
+Thu Jan 7 2010,New York Knicks,Charlotte Bobcats,97,93,Madison Square Garden (IV),19763,/boxscores/201001070NYK.html
+Fri Jan 8 2010,Philadelphia 76ers,Toronto Raptors,106,108,Wachovia Center,15264,/boxscores/201001080PHI.html
+Fri Jan 8 2010,Washington Wizards,Orlando Magic,104,97,Verizon Center,20173,/boxscores/201001080WAS.html
+Fri Jan 8 2010,Atlanta Hawks,Boston Celtics,93,85,Philips Arena,15149,/boxscores/201001080ATL.html
+Fri Jan 8 2010,Memphis Grizzlies,Utah Jazz,91,89,FedEx Forum,14213,/boxscores/201001080MEM.html
+Fri Jan 8 2010,Minnesota Timberwolves,Indiana Pacers,116,109,Target Center,13111,/boxscores/201001080MIN.html
+Fri Jan 8 2010,New Orleans Hornets,New Jersey Nets,103,99,New Orleans Arena,15555,/boxscores/201001080NOH.html
+Fri Jan 8 2010,Milwaukee Bucks,Chicago Bulls,96,93,Bradley Center,18717,/boxscores/201001080MIL.html
+Fri Jan 8 2010,San Antonio Spurs,Dallas Mavericks,103,112,AT&T Center,18581,/boxscores/201001080SAS.html
+Fri Jan 8 2010,Phoenix Suns,Miami Heat,105,109,US Airways Center,18422,/boxscores/201001080PHO.html
+Fri Jan 8 2010,Portland Trail Blazers,Los Angeles Lakers,107,98,Rose Garden Arena,20629,/boxscores/201001080POR.html
+Fri Jan 8 2010,Denver Nuggets,Cleveland Cavaliers,99,97,Pepsi Center,19996,/boxscores/201001080DEN.html
+Fri Jan 8 2010,Golden State Warriors,Sacramento Kings,108,101,Oracle Arena,18327,/boxscores/201001080GSW.html
+Sat Jan 9 2010,Charlotte Bobcats,Memphis Grizzlies,89,87,Time Warner Cable Arena,15438,/boxscores/201001090CHA.html
+Sat Jan 9 2010,Orlando Magic,Atlanta Hawks,113,81,Amway Arena,17461,/boxscores/201001090ORL.html
+Sat Jan 9 2010,Detroit Pistons,Philadelphia 76ers,94,104,The Palace of Auburn Hills,19784,/boxscores/201001090DET.html
+Sat Jan 9 2010,Chicago Bulls,Minnesota Timberwolves,110,96,United Center,20255,/boxscores/201001090CHI.html
+Sat Jan 9 2010,Oklahoma City Thunder,Indiana Pacers,108,102,Oklahoma City Arena,18203,/boxscores/201001090OKC.html
+Sat Jan 9 2010,Dallas Mavericks,Utah Jazz,93,111,American Airlines Center,19922,/boxscores/201001090DAL.html
+Sat Jan 9 2010,Houston Rockets,New York Knicks,105,96,Toyota Center,15693,/boxscores/201001090HOU.html
+Sat Jan 9 2010,Sacramento Kings,Denver Nuggets,102,100,Power Balance Pavilion,14411,/boxscores/201001090SAC.html
+Sun Jan 10 2010,Toronto Raptors,Boston Celtics,107,114,Air Canada Centre,19800,/boxscores/201001100TOR.html
+Sun Jan 10 2010,Washington Wizards,New Orleans Hornets,110,115,Verizon Center,14753,/boxscores/201001100WAS.html
+Sun Jan 10 2010,Los Angeles Clippers,Miami Heat,94,84,STAPLES Center,19060,/boxscores/201001100LAC.html
+Sun Jan 10 2010,San Antonio Spurs,New Jersey Nets,97,85,AT&T Center,18047,/boxscores/201001100SAS.html
+Sun Jan 10 2010,Portland Trail Blazers,Cleveland Cavaliers,94,106,Rose Garden Arena,20614,/boxscores/201001100POR.html
+Sun Jan 10 2010,Los Angeles Lakers,Milwaukee Bucks,95,77,STAPLES Center,18997,/boxscores/201001100LAL.html
+Mon Jan 11 2010,Indiana Pacers,Toronto Raptors,105,101,Conseco Fieldhouse,11039,/boxscores/201001110IND.html
+Mon Jan 11 2010,Philadelphia 76ers,New Orleans Hornets,96,92,Wachovia Center,11518,/boxscores/201001110PHI.html
+Mon Jan 11 2010,Boston Celtics,Atlanta Hawks,96,102,TD Garden,18624,/boxscores/201001110BOS.html
+Mon Jan 11 2010,Chicago Bulls,Detroit Pistons,120,87,United Center,21014,/boxscores/201001110CHI.html
+Mon Jan 11 2010,Oklahoma City Thunder,New York Knicks,106,88,Oklahoma City Arena,17152,/boxscores/201001110OKC.html
+Mon Jan 11 2010,Denver Nuggets,Minnesota Timberwolves,105,94,Pepsi Center,14669,/boxscores/201001110DEN.html
+Mon Jan 11 2010,Phoenix Suns,Milwaukee Bucks,105,101,US Airways Center,15116,/boxscores/201001110PHO.html
+Mon Jan 11 2010,Utah Jazz,Miami Heat,118,89,EnergySolutions Arena,19284,/boxscores/201001110UTA.html
+Mon Jan 11 2010,Golden State Warriors,Cleveland Cavaliers,114,117,Oracle Arena,19596,/boxscores/201001110GSW.html
+Tue Jan 12 2010,Charlotte Bobcats,Houston Rockets,102,94,Time Warner Cable Arena,11463,/boxscores/201001120CHA.html
+Tue Jan 12 2010,Washington Wizards,Detroit Pistons,90,99,Verizon Center,13544,/boxscores/201001120WAS.html
+Tue Jan 12 2010,Memphis Grizzlies,Los Angeles Clippers,104,102,FedEx Forum,11004,/boxscores/201001120MEM.html
+Tue Jan 12 2010,San Antonio Spurs,Los Angeles Lakers,105,85,AT&T Center,18581,/boxscores/201001120SAS.html
+Tue Jan 12 2010,Sacramento Kings,Orlando Magic,88,109,Power Balance Pavilion,14426,/boxscores/201001120SAC.html
+Wed Jan 13 2010,Atlanta Hawks,Washington Wizards,94,82,Philips Arena,9695,/boxscores/201001130ATL.html
+Wed Jan 13 2010,Indiana Pacers,Phoenix Suns,122,114,Conseco Fieldhouse,10858,/boxscores/201001130IND.html
+Wed Jan 13 2010,Philadelphia 76ers,New York Knicks,92,93,Wachovia Center,12444,/boxscores/201001130PHI.html
+Wed Jan 13 2010,New Jersey Nets,Boston Celtics,87,111,Izod Center,14112,/boxscores/201001130NJN.html
+Wed Jan 13 2010,New Orleans Hornets,Los Angeles Clippers,108,94,New Orleans Arena,14348,/boxscores/201001130NOH.html
+Wed Jan 13 2010,Oklahoma City Thunder,San Antonio Spurs,108,109,Oklahoma City Arena,17886,/boxscores/201001130OKC.html
+Wed Jan 13 2010,Dallas Mavericks,Los Angeles Lakers,95,100,American Airlines Center,20491,/boxscores/201001130DAL.html
+Wed Jan 13 2010,Houston Rockets,Minnesota Timberwolves,120,114,Toyota Center,15175,/boxscores/201001130HOU.html
+Wed Jan 13 2010,Denver Nuggets,Orlando Magic,115,97,Pepsi Center,18475,/boxscores/201001130DEN.html
+Wed Jan 13 2010,Portland Trail Blazers,Milwaukee Bucks,120,108,Rose Garden Arena,20465,/boxscores/201001130POR.html
+Wed Jan 13 2010,Golden State Warriors,Miami Heat,102,115,Oracle Arena,17121,/boxscores/201001130GSW.html
+Thu Jan 14 2010,Boston Celtics,Chicago Bulls,83,96,TD Garden,18624,/boxscores/201001140BOS.html
+Thu Jan 14 2010,Utah Jazz,Cleveland Cavaliers,97,96,EnergySolutions Arena,19911,/boxscores/201001140UTA.html
+Fri Jan 15 2010,Charlotte Bobcats,San Antonio Spurs,92,76,Time Warner Cable Arena,15742,/boxscores/201001150CHA.html
+Fri Jan 15 2010,Philadelphia 76ers,Sacramento Kings,98,86,Wachovia Center,16767,/boxscores/201001150PHI.html
+Fri Jan 15 2010,Atlanta Hawks,Phoenix Suns,102,101,Philips Arena,17605,/boxscores/201001150ATL.html
+Fri Jan 15 2010,Chicago Bulls,Washington Wizards,121,119,United Center,20304,/boxscores/201001150CHI.html
+Fri Jan 15 2010,Detroit Pistons,New Orleans Hornets,110,104,The Palace of Auburn Hills,17446,/boxscores/201001150DET.html
+Fri Jan 15 2010,Memphis Grizzlies,Minnesota Timberwolves,135,110,FedEx Forum,12812,/boxscores/201001150MEM.html
+Fri Jan 15 2010,New Jersey Nets,Indiana Pacers,105,121,Izod Center,13656,/boxscores/201001150NJN.html
+Fri Jan 15 2010,New York Knicks,Toronto Raptors,104,112,Madison Square Garden (IV),19763,/boxscores/201001150NYK.html
+Fri Jan 15 2010,Dallas Mavericks,Oklahoma City Thunder,99,98,American Airlines Center,20064,/boxscores/201001150DAL.html
+Fri Jan 15 2010,Houston Rockets,Miami Heat,106,115,Toyota Center,16720,/boxscores/201001150HOU.html
+Fri Jan 15 2010,Golden State Warriors,Milwaukee Bucks,104,113,Oracle Arena,17455,/boxscores/201001150GSW.html
+Fri Jan 15 2010,Los Angeles Lakers,Los Angeles Clippers,126,86,STAPLES Center,18997,/boxscores/201001150LAL.html
+Fri Jan 15 2010,Portland Trail Blazers,Orlando Magic,102,87,Rose Garden Arena,20650,/boxscores/201001150POR.html
+Sat Jan 16 2010,Indiana Pacers,New Orleans Hornets,96,101,Conseco Fieldhouse,13376,/boxscores/201001160IND.html
+Sat Jan 16 2010,Charlotte Bobcats,Phoenix Suns,125,99,Time Warner Cable Arena,17574,/boxscores/201001160CHA.html
+Sat Jan 16 2010,Washington Wizards,Sacramento Kings,96,86,Verizon Center,17242,/boxscores/201001160WAS.html
+Sat Jan 16 2010,Detroit Pistons,New York Knicks,94,90,The Palace of Auburn Hills,19185,/boxscores/201001160DET.html
+Sat Jan 16 2010,Memphis Grizzlies,San Antonio Spurs,92,86,FedEx Forum,14116,/boxscores/201001160MEM.html
+Sat Jan 16 2010,Oklahoma City Thunder,Miami Heat,98,80,Oklahoma City Arena,18203,/boxscores/201001160OKC.html
+Sat Jan 16 2010,Utah Jazz,Milwaukee Bucks,112,95,EnergySolutions Arena,19669,/boxscores/201001160UTA.html
+Sat Jan 16 2010,Los Angeles Clippers,Cleveland Cavaliers,101,102,STAPLES Center,19277,/boxscores/201001160LAC.html
+Sun Jan 17 2010,Toronto Raptors,Dallas Mavericks,110,88,Air Canada Centre,19004,/boxscores/201001170TOR.html
+Sun Jan 17 2010,Denver Nuggets,Utah Jazz,119,112,Pepsi Center,19519,/boxscores/201001170DEN.html
+Mon Jan 18 2010,New York Knicks,Detroit Pistons,99,91,Madison Square Garden (IV),19302,/boxscores/201001180NYK.html
+Mon Jan 18 2010,Washington Wizards,Portland Trail Blazers,97,92,Verizon Center,12209,/boxscores/201001180WAS.html
+Mon Jan 18 2010,Atlanta Hawks,Oklahoma City Thunder,91,94,Philips Arena,14666,/boxscores/201001180ATL.html
+Mon Jan 18 2010,Charlotte Bobcats,Sacramento Kings,105,103,Time Warner Cable Arena,13678,/boxscores/201001180CHA.html
+Mon Jan 18 2010,Houston Rockets,Milwaukee Bucks,101,98,Toyota Center,17187,/boxscores/201001180HOU.html
+Mon Jan 18 2010,Los Angeles Clippers,New Jersey Nets,106,95,STAPLES Center,14533,/boxscores/201001180LAC.html
+Mon Jan 18 2010,Minnesota Timberwolves,Philadelphia 76ers,108,103,Target Center,14637,/boxscores/201001180MIN.html
+Mon Jan 18 2010,New Orleans Hornets,San Antonio Spurs,90,97,New Orleans Arena,16549,/boxscores/201001180NOH.html
+Mon Jan 18 2010,Golden State Warriors,Chicago Bulls,114,97,Oracle Arena,19208,/boxscores/201001180GSW.html
+Mon Jan 18 2010,Memphis Grizzlies,Phoenix Suns,125,118,FedEx Forum,18119,/boxscores/201001180MEM.html
+Mon Jan 18 2010,Boston Celtics,Dallas Mavericks,90,99,TD Garden,18624,/boxscores/201001180BOS.html
+Mon Jan 18 2010,Los Angeles Lakers,Orlando Magic,98,92,STAPLES Center,18997,/boxscores/201001180LAL.html
+Tue Jan 19 2010,Cleveland Cavaliers,Toronto Raptors,108,100,Quicken Loans Arena,20562,/boxscores/201001190CLE.html
+Tue Jan 19 2010,Miami Heat,Indiana Pacers,113,83,AmericanAirlines Arena,14986,/boxscores/201001190MIA.html
+Wed Jan 20 2010,Atlanta Hawks,Sacramento Kings,108,97,Philips Arena,14809,/boxscores/201001200ATL.html
+Wed Jan 20 2010,Charlotte Bobcats,Miami Heat,104,65,Time Warner Cable Arena,14212,/boxscores/201001200CHA.html
+Wed Jan 20 2010,Orlando Magic,Indiana Pacers,109,98,Amway Arena,17461,/boxscores/201001200ORL.html
+Wed Jan 20 2010,Philadelphia 76ers,Portland Trail Blazers,90,98,Wachovia Center,12607,/boxscores/201001200PHI.html
+Wed Jan 20 2010,Washington Wizards,Dallas Mavericks,93,94,Verizon Center,13974,/boxscores/201001200WAS.html
+Wed Jan 20 2010,Detroit Pistons,Boston Celtics,92,86,The Palace of Auburn Hills,17375,/boxscores/201001200DET.html
+Wed Jan 20 2010,Milwaukee Bucks,Toronto Raptors,113,107,Bradley Center,12724,/boxscores/201001200MIL.html
+Wed Jan 20 2010,Minnesota Timberwolves,Oklahoma City Thunder,92,94,Target Center,12995,/boxscores/201001200MIN.html
+Wed Jan 20 2010,New Orleans Hornets,Memphis Grizzlies,113,111,New Orleans Arena,14238,/boxscores/201001200NOH.html
+Wed Jan 20 2010,Phoenix Suns,New Jersey Nets,118,94,US Airways Center,15963,/boxscores/201001200PHO.html
+Wed Jan 20 2010,San Antonio Spurs,Utah Jazz,98,105,AT&T Center,17584,/boxscores/201001200SAS.html
+Wed Jan 20 2010,Golden State Warriors,Denver Nuggets,118,123,Oracle Arena,17223,/boxscores/201001200GSW.html
+Wed Jan 20 2010,Los Angeles Clippers,Chicago Bulls,104,97,STAPLES Center,16794,/boxscores/201001200LAC.html
+Thu Jan 21 2010,Cleveland Cavaliers,Los Angeles Lakers,93,87,Quicken Loans Arena,20562,/boxscores/201001210CLE.html
+Thu Jan 21 2010,Denver Nuggets,Los Angeles Clippers,105,85,Pepsi Center,15343,/boxscores/201001210DEN.html
+Fri Jan 22 2010,Orlando Magic,Sacramento Kings,100,84,Amway Arena,17461,/boxscores/201001220ORL.html
+Fri Jan 22 2010,Philadelphia 76ers,Dallas Mavericks,92,81,Wachovia Center,17647,/boxscores/201001220PHI.html
+Fri Jan 22 2010,Toronto Raptors,Milwaukee Bucks,101,96,Air Canada Centre,17819,/boxscores/201001220TOR.html
+Fri Jan 22 2010,Washington Wizards,Miami Heat,88,112,Verizon Center,20173,/boxscores/201001220WAS.html
+Fri Jan 22 2010,Atlanta Hawks,Charlotte Bobcats,103,89,Philips Arena,14701,/boxscores/201001220ATL.html
+Fri Jan 22 2010,Boston Celtics,Portland Trail Blazers,98,95,TD Garden,18624,/boxscores/201001220BOS.html
+Fri Jan 22 2010,Detroit Pistons,Indiana Pacers,93,105,The Palace of Auburn Hills,15388,/boxscores/201001220DET.html
+Fri Jan 22 2010,Memphis Grizzlies,Oklahoma City Thunder,86,84,FedEx Forum,12948,/boxscores/201001220MEM.html
+Fri Jan 22 2010,Minnesota Timberwolves,New Orleans Hornets,94,96,Target Center,17101,/boxscores/201001220MIN.html
+Fri Jan 22 2010,New York Knicks,Los Angeles Lakers,105,115,Madison Square Garden (IV),19673,/boxscores/201001220NYK.html
+Fri Jan 22 2010,San Antonio Spurs,Houston Rockets,109,116,AT&T Center,18581,/boxscores/201001220SAS.html
+Fri Jan 22 2010,Golden State Warriors,New Jersey Nets,111,79,Oracle Arena,17308,/boxscores/201001220GSW.html
+Fri Jan 22 2010,Phoenix Suns,Chicago Bulls,104,115,US Airways Center,18422,/boxscores/201001220PHO.html
+Sat Jan 23 2010,Charlotte Bobcats,Orlando Magic,95,106,Time Warner Cable Arena,19277,/boxscores/201001230CHA.html
+Sat Jan 23 2010,Indiana Pacers,Philadelphia 76ers,97,107,Conseco Fieldhouse,16074,/boxscores/201001230IND.html
+Sat Jan 23 2010,Cleveland Cavaliers,Oklahoma City Thunder,100,99,Quicken Loans Arena,20562,/boxscores/201001230CLE.html
+Sat Jan 23 2010,Detroit Pistons,Portland Trail Blazers,93,97,The Palace of Auburn Hills,19114,/boxscores/201001230DET.html
+Sat Jan 23 2010,Miami Heat,Sacramento Kings,115,84,AmericanAirlines Arena,18521,/boxscores/201001230MIA.html
+Sat Jan 23 2010,Houston Rockets,Chicago Bulls,97,104,Toyota Center,18119,/boxscores/201001230HOU.html
+Sat Jan 23 2010,Milwaukee Bucks,Minnesota Timberwolves,127,94,Bradley Center,17742,/boxscores/201001230MIL.html
+Sat Jan 23 2010,Denver Nuggets,New Orleans Hornets,116,110,Pepsi Center,19807,/boxscores/201001230DEN.html
+Sat Jan 23 2010,Phoenix Suns,Golden State Warriors,112,103,US Airways Center,17792,/boxscores/201001230PHO.html
+Sat Jan 23 2010,Utah Jazz,New Jersey Nets,116,83,EnergySolutions Arena,19911,/boxscores/201001230UTA.html
+Sun Jan 24 2010,New York Knicks,Dallas Mavericks,78,128,Madison Square Garden (IV),19418,/boxscores/201001240NYK.html
+Sun Jan 24 2010,Washington Wizards,Los Angeles Clippers,78,92,Verizon Center,12356,/boxscores/201001240WAS.html
+Sun Jan 24 2010,Toronto Raptors,Los Angeles Lakers,106,105,Air Canada Centre,20111,/boxscores/201001240TOR.html
+Mon Jan 25 2010,Philadelphia 76ers,Indiana Pacers,98,109,Wachovia Center,10579,/boxscores/201001250PHI.html
+Mon Jan 25 2010,Boston Celtics,Los Angeles Clippers,95,89,TD Garden,18624,/boxscores/201001250BOS.html
+Mon Jan 25 2010,Miami Heat,Cleveland Cavaliers,91,92,AmericanAirlines Arena,19600,/boxscores/201001250MIA.html
+Mon Jan 25 2010,Memphis Grizzlies,Orlando Magic,99,94,FedEx Forum,12273,/boxscores/201001250MEM.html
+Mon Jan 25 2010,Houston Rockets,Atlanta Hawks,95,102,Toyota Center,14998,/boxscores/201001250HOU.html
+Mon Jan 25 2010,San Antonio Spurs,Chicago Bulls,93,98,AT&T Center,18581,/boxscores/201001250SAS.html
+Mon Jan 25 2010,Denver Nuggets,Charlotte Bobcats,104,93,Pepsi Center,16909,/boxscores/201001250DEN.html
+Mon Jan 25 2010,Utah Jazz,Phoenix Suns,124,115,EnergySolutions Arena,19911,/boxscores/201001250UTA.html
+Mon Jan 25 2010,Portland Trail Blazers,New Orleans Hornets,97,98,Rose Garden Arena,20249,/boxscores/201001250POR.html
+Tue Jan 26 2010,Washington Wizards,Los Angeles Lakers,103,115,Verizon Center,20173,/boxscores/201001260WAS.html
+Tue Jan 26 2010,New York Knicks,Minnesota Timberwolves,132,105,Madison Square Garden (IV),18111,/boxscores/201001260NYK.html
+Tue Jan 26 2010,Dallas Mavericks,Milwaukee Bucks,108,107,American Airlines Center,19799,/boxscores/201001260DAL.html
+Tue Jan 26 2010,Phoenix Suns,Charlotte Bobcats,109,114,US Airways Center,15722,/boxscores/201001260PHO.html
+Tue Jan 26 2010,Sacramento Kings,Golden State Warriors,99,96,Power Balance Pavilion,14522,/boxscores/201001260SAC.html
+Wed Jan 27 2010,Cleveland Cavaliers,Minnesota Timberwolves,109,95,Quicken Loans Arena,20562,/boxscores/201001270CLE.html
+Wed Jan 27 2010,Indiana Pacers,Los Angeles Lakers,96,118,Conseco Fieldhouse,18165,/boxscores/201001270IND.html
+Wed Jan 27 2010,Toronto Raptors,Miami Heat,111,103,Air Canada Centre,18265,/boxscores/201001270TOR.html
+Wed Jan 27 2010,Detroit Pistons,Memphis Grizzlies,93,99,The Palace of Auburn Hills,14886,/boxscores/201001270DET.html
+Wed Jan 27 2010,New Jersey Nets,Los Angeles Clippers,103,87,Izod Center,9220,/boxscores/201001270NJN.html
+Wed Jan 27 2010,Milwaukee Bucks,Philadelphia 76ers,91,88,Bradley Center,12685,/boxscores/201001270MIL.html
+Wed Jan 27 2010,Oklahoma City Thunder,Chicago Bulls,86,96,Oklahoma City Arena,17562,/boxscores/201001270OKC.html
+Wed Jan 27 2010,Houston Rockets,Denver Nuggets,92,97,Toyota Center,16357,/boxscores/201001270HOU.html
+Wed Jan 27 2010,San Antonio Spurs,Atlanta Hawks,105,90,AT&T Center,18258,/boxscores/201001270SAS.html
+Wed Jan 27 2010,Portland Trail Blazers,Utah Jazz,95,106,Rose Garden Arena,20384,/boxscores/201001270POR.html
+Wed Jan 27 2010,Golden State Warriors,New Orleans Hornets,110,123,Oracle Arena,16308,/boxscores/201001270GSW.html
+Thu Jan 28 2010,New York Knicks,Toronto Raptors,104,106,Madison Square Garden (IV),18828,/boxscores/201001280NYK.html
+Thu Jan 28 2010,Orlando Magic,Boston Celtics,96,94,Amway Arena,17461,/boxscores/201001280ORL.html
+Thu Jan 28 2010,Phoenix Suns,Dallas Mavericks,112,106,US Airways Center,17855,/boxscores/201001280PHO.html
+Fri Jan 29 2010,Indiana Pacers,Cleveland Cavaliers,73,94,Conseco Fieldhouse,18165,/boxscores/201001290IND.html
+Fri Jan 29 2010,Philadelphia 76ers,Los Angeles Lakers,91,99,Wachovia Center,20809,/boxscores/201001290PHI.html
+Fri Jan 29 2010,Atlanta Hawks,Boston Celtics,100,91,Philips Arena,18732,/boxscores/201001290ATL.html
+Fri Jan 29 2010,Detroit Pistons,Miami Heat,65,92,The Palace of Auburn Hills,20669,/boxscores/201001290DET.html
+Fri Jan 29 2010,Minnesota Timberwolves,Los Angeles Clippers,111,97,Target Center,13398,/boxscores/201001290MIN.html
+Fri Jan 29 2010,New Jersey Nets,Washington Wizards,79,81,Izod Center,11384,/boxscores/201001290NJN.html
+Fri Jan 29 2010,New Orleans Hornets,Chicago Bulls,106,108,New Orleans Arena,16578,/boxscores/201001290NOH.html
+Fri Jan 29 2010,Oklahoma City Thunder,Denver Nuggets,101,84,Oklahoma City Arena,18203,/boxscores/201001290OKC.html
+Fri Jan 29 2010,Houston Rockets,Portland Trail Blazers,104,100,Toyota Center,16129,/boxscores/201001290HOU.html
+Fri Jan 29 2010,San Antonio Spurs,Memphis Grizzlies,104,97,AT&T Center,18088,/boxscores/201001290SAS.html
+Fri Jan 29 2010,Utah Jazz,Sacramento Kings,101,94,EnergySolutions Arena,19480,/boxscores/201001290UTA.html
+Fri Jan 29 2010,Golden State Warriors,Charlotte Bobcats,110,121,Oracle Arena,17850,/boxscores/201001290GSW.html
+Sat Jan 30 2010,Orlando Magic,Atlanta Hawks,104,86,Amway Arena,17461,/boxscores/201001300ORL.html
+Sat Jan 30 2010,Memphis Grizzlies,New Orleans Hornets,102,109,FedEx Forum,12317,/boxscores/201001300MEM.html
+Sat Jan 30 2010,Washington Wizards,New York Knicks,106,96,Verizon Center,16233,/boxscores/201001300WAS.html
+Sat Jan 30 2010,Milwaukee Bucks,Miami Heat,95,84,Bradley Center,18717,/boxscores/201001300MIL.html
+Sat Jan 30 2010,Dallas Mavericks,Portland Trail Blazers,112,114,American Airlines Center,20078,/boxscores/201001300DAL.html
+Sat Jan 30 2010,Sacramento Kings,Charlotte Bobcats,96,103,Power Balance Pavilion,14186,/boxscores/201001300SAC.html
+Sun Jan 31 2010,San Antonio Spurs,Denver Nuggets,89,103,AT&T Center,17607,/boxscores/201001310SAS.html
+Sun Jan 31 2010,Boston Celtics,Los Angeles Lakers,89,90,TD Garden,18624,/boxscores/201001310BOS.html
+Sun Jan 31 2010,Cleveland Cavaliers,Los Angeles Clippers,114,89,Quicken Loans Arena,20562,/boxscores/201001310CLE.html
+Sun Jan 31 2010,Detroit Pistons,Orlando Magic,86,91,The Palace of Auburn Hills,19107,/boxscores/201001310DET.html
+Sun Jan 31 2010,New Jersey Nets,Philadelphia 76ers,79,83,Izod Center,11576,/boxscores/201001310NJN.html
+Sun Jan 31 2010,Toronto Raptors,Indiana Pacers,117,102,Air Canada Centre,16715,/boxscores/201001310TOR.html
+Sun Jan 31 2010,Houston Rockets,Phoenix Suns,111,115,Toyota Center,17165,/boxscores/201001310HOU.html
+Sun Jan 31 2010,Minnesota Timberwolves,New York Knicks,112,91,Target Center,13711,/boxscores/201001310MIN.html
+Sun Jan 31 2010,Oklahoma City Thunder,Golden State Warriors,112,104,Oklahoma City Arena,17565,/boxscores/201001310OKC.html

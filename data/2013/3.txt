@@ -1,0 +1,236 @@
+Fri Mar 1 2013,Orlando Magic,Houston Rockets,110,118,Amway Center,16677,/boxscores/201303010ORL.html
+Fri Mar 1 2013,Toronto Raptors,Indiana Pacers,81,93,Air Canada Centre,18268,/boxscores/201303010TOR.html
+Fri Mar 1 2013,Washington Wizards,New York Knicks,88,96,Verizon Center,20308,/boxscores/201303010WAS.html
+Fri Mar 1 2013,Boston Celtics,Golden State Warriors,94,86,TD Garden,18624,/boxscores/201303010BOS.html
+Fri Mar 1 2013,Cleveland Cavaliers,Los Angeles Clippers,89,105,Quicken Loans Arena,20562,/boxscores/201303010CLE.html
+Fri Mar 1 2013,Brooklyn Nets,Dallas Mavericks,90,98,Barclays Center,17732,/boxscores/201303010BRK.html
+Fri Mar 1 2013,Miami Heat,Memphis Grizzlies,98,91,AmericanAirlines Arena,20128,/boxscores/201303010MIA.html
+Fri Mar 1 2013,New Orleans Hornets,Detroit Pistons,100,95,New Orleans Arena,14189,/boxscores/201303010NOH.html
+Fri Mar 1 2013,San Antonio Spurs,Sacramento Kings,130,102,AT&T Center,18581,/boxscores/201303010SAS.html
+Fri Mar 1 2013,Phoenix Suns,Atlanta Hawks,92,87,US Airways Center,15269,/boxscores/201303010PHO.html
+Fri Mar 1 2013,Utah Jazz,Charlotte Bobcats,98,68,EnergySolutions Arena,17691,/boxscores/201303010UTA.html
+Fri Mar 1 2013,Denver Nuggets,Oklahoma City Thunder,105,103,Pepsi Center,19521,/boxscores/201303010DEN.html
+Sat Mar 2 2013,Philadelphia 76ers,Golden State Warriors,104,97,Wells Fargo Center,17929,/boxscores/201303020PHI.html
+Sat Mar 2 2013,Chicago Bulls,Brooklyn Nets,96,85,United Center,22414,/boxscores/201303020CHI.html
+Sat Mar 2 2013,Milwaukee Bucks,Toronto Raptors,122,114,BMO Harris Bradley Center,16165,/boxscores/201303020MIL.html
+Sat Mar 2 2013,Portland Trail Blazers,Minnesota Timberwolves,109,94,Rose Garden Arena,20390,/boxscores/201303020POR.html
+Sun Mar 3 2013,New York Knicks,Miami Heat,93,99,Madison Square Garden (IV),19033,/boxscores/201303030NYK.html
+Sun Mar 3 2013,Los Angeles Clippers,Oklahoma City Thunder,104,108,STAPLES Center,19371,/boxscores/201303030LAC.html
+Sun Mar 3 2013,Orlando Magic,Memphis Grizzlies,82,108,Amway Center,16020,/boxscores/201303030ORL.html
+Sun Mar 3 2013,Sacramento Kings,Charlotte Bobcats,119,83,Sleep Train Arena,14555,/boxscores/201303030SAC.html
+Sun Mar 3 2013,Washington Wizards,Philadelphia 76ers,90,87,Verizon Center,17370,/boxscores/201303030WAS.html
+Sun Mar 3 2013,Houston Rockets,Dallas Mavericks,136,103,Toyota Center,18123,/boxscores/201303030HOU.html
+Sun Mar 3 2013,San Antonio Spurs,Detroit Pistons,114,75,AT&T Center,18581,/boxscores/201303030SAS.html
+Sun Mar 3 2013,Indiana Pacers,Chicago Bulls,97,92,Bankers Life Fieldhouse,17533,/boxscores/201303030IND.html
+Sun Mar 3 2013,Los Angeles Lakers,Atlanta Hawks,99,98,STAPLES Center,18997,/boxscores/201303030LAL.html
+Mon Mar 4 2013,Cleveland Cavaliers,New York Knicks,97,102,Quicken Loans Arena,19784,/boxscores/201303040CLE.html
+Mon Mar 4 2013,Milwaukee Bucks,Utah Jazz,109,108,BMO Harris Bradley Center,13926,/boxscores/201303040MIL.html
+Mon Mar 4 2013,Minnesota Timberwolves,Miami Heat,81,97,Target Center,18391,/boxscores/201303040MIN.html
+Mon Mar 4 2013,New Orleans Hornets,Orlando Magic,102,105,New Orleans Arena,11050,/boxscores/201303040NOH.html
+Mon Mar 4 2013,Denver Nuggets,Atlanta Hawks,104,88,Pepsi Center,17554,/boxscores/201303040DEN.html
+Mon Mar 4 2013,Portland Trail Blazers,Charlotte Bobcats,122,105,Rose Garden Arena,18330,/boxscores/201303040POR.html
+Mon Mar 4 2013,Golden State Warriors,Toronto Raptors,125,118,Oracle Arena,19596,/boxscores/201303040GSW.html
+Tue Mar 5 2013,Philadelphia 76ers,Boston Celtics,101,109,Wells Fargo Center,16189,/boxscores/201303050PHI.html
+Tue Mar 5 2013,Oklahoma City Thunder,Los Angeles Lakers,122,105,Chesapeake Energy Arena,18203,/boxscores/201303050OKC.html
+Tue Mar 5 2013,Sacramento Kings,Denver Nuggets,113,120,Sleep Train Arena,11923,/boxscores/201303050SAC.html
+Wed Mar 6 2013,Charlotte Bobcats,Brooklyn Nets,78,99,Time Warner Cable Arena,13382,/boxscores/201303060CHA.html
+Wed Mar 6 2013,Cleveland Cavaliers,Utah Jazz,104,101,Quicken Loans Arena,12124,/boxscores/201303060CLE.html
+Wed Mar 6 2013,Indiana Pacers,Boston Celtics,81,83,Bankers Life Fieldhouse,17833,/boxscores/201303060IND.html
+Wed Mar 6 2013,Atlanta Hawks,Philadelphia 76ers,107,96,Philips Arena,13018,/boxscores/201303060ATL.html
+Wed Mar 6 2013,Detroit Pistons,New York Knicks,77,87,The Palace of Auburn Hills,16181,/boxscores/201303060DET.html
+Wed Mar 6 2013,Miami Heat,Orlando Magic,97,96,AmericanAirlines Arena,20001,/boxscores/201303060MIA.html
+Wed Mar 6 2013,Memphis Grizzlies,Portland Trail Blazers,91,85,FedEx Forum,16214,/boxscores/201303060MEM.html
+Wed Mar 6 2013,Minnesota Timberwolves,Washington Wizards,87,82,Target Center,13233,/boxscores/201303060MIN.html
+Wed Mar 6 2013,New Orleans Hornets,Los Angeles Lakers,102,108,New Orleans Arena,16019,/boxscores/201303060NOH.html
+Wed Mar 6 2013,Dallas Mavericks,Houston Rockets,112,108,American Airlines Center,20344,/boxscores/201303060DAL.html
+Wed Mar 6 2013,Phoenix Suns,Toronto Raptors,71,98,US Airways Center,13173,/boxscores/201303060PHO.html
+Wed Mar 6 2013,San Antonio Spurs,Chicago Bulls,101,83,AT&T Center,18581,/boxscores/201303060SAS.html
+Wed Mar 6 2013,Golden State Warriors,Sacramento Kings,87,83,Oracle Arena,19596,/boxscores/201303060GSW.html
+Wed Mar 6 2013,Los Angeles Clippers,Milwaukee Bucks,117,101,STAPLES Center,19060,/boxscores/201303060LAC.html
+Thu Mar 7 2013,New York Knicks,Oklahoma City Thunder,94,95,Madison Square Garden (IV),19033,/boxscores/201303070NYK.html
+Thu Mar 7 2013,Denver Nuggets,Los Angeles Clippers,107,92,Pepsi Center,18857,/boxscores/201303070DEN.html
+Fri Mar 8 2013,Charlotte Bobcats,Oklahoma City Thunder,94,116,Time Warner Cable Arena,18870,/boxscores/201303080CHA.html
+Fri Mar 8 2013,Orlando Magic,Indiana Pacers,86,115,Amway Center,16515,/boxscores/201303080ORL.html
+Fri Mar 8 2013,Brooklyn Nets,Washington Wizards,95,78,Barclays Center,17732,/boxscores/201303080BRK.html
+Fri Mar 8 2013,Cleveland Cavaliers,Memphis Grizzlies,92,103,Quicken Loans Arena,17032,/boxscores/201303080CLE.html
+Fri Mar 8 2013,Detroit Pistons,Dallas Mavericks,99,102,The Palace of Auburn Hills,19504,/boxscores/201303080DET.html
+Fri Mar 8 2013,Boston Celtics,Atlanta Hawks,107,102,TD Garden,18624,/boxscores/201303080BOS.html
+Fri Mar 8 2013,Chicago Bulls,Utah Jazz,89,88,United Center,21842,/boxscores/201303080CHI.html
+Fri Mar 8 2013,Miami Heat,Philadelphia 76ers,102,93,AmericanAirlines Arena,20029,/boxscores/201303080MIA.html
+Fri Mar 8 2013,San Antonio Spurs,Portland Trail Blazers,106,136,AT&T Center,18581,/boxscores/201303080SAS.html
+Fri Mar 8 2013,Sacramento Kings,Phoenix Suns,121,112,Sleep Train Arena,13501,/boxscores/201303080SAC.html
+Fri Mar 8 2013,Golden State Warriors,Houston Rockets,88,94,Oracle Arena,19596,/boxscores/201303080GSW.html
+Fri Mar 8 2013,Los Angeles Lakers,Toronto Raptors,118,116,STAPLES Center,18997,/boxscores/201303080LAL.html
+Sat Mar 9 2013,Atlanta Hawks,Brooklyn Nets,80,93,Philips Arena,17282,/boxscores/201303090ATL.html
+Sat Mar 9 2013,New York Knicks,Utah Jazz,113,84,Madison Square Garden (IV),19033,/boxscores/201303090NYK.html
+Sat Mar 9 2013,Memphis Grizzlies,New Orleans Hornets,96,85,FedEx Forum,17501,/boxscores/201303090MEM.html
+Sat Mar 9 2013,Washington Wizards,Charlotte Bobcats,104,87,Verizon Center,16357,/boxscores/201303090WAS.html
+Sat Mar 9 2013,Denver Nuggets,Minnesota Timberwolves,111,88,Pepsi Center,18823,/boxscores/201303090DEN.html
+Sat Mar 9 2013,Phoenix Suns,Houston Rockets,107,105,US Airways Center,16734,/boxscores/201303090PHO.html
+Sat Mar 9 2013,Golden State Warriors,Milwaukee Bucks,93,103,Oracle Arena,19596,/boxscores/201303090GSW.html
+Sun Mar 10 2013,Oklahoma City Thunder,Boston Celtics,91,79,Chesapeake Energy Arena,18203,/boxscores/201303100OKC.html
+Sun Mar 10 2013,Los Angeles Lakers,Chicago Bulls,90,81,STAPLES Center,18997,/boxscores/201303100LAL.html
+Sun Mar 10 2013,Miami Heat,Indiana Pacers,105,91,AmericanAirlines Arena,20219,/boxscores/201303100MIA.html
+Sun Mar 10 2013,Orlando Magic,Philadelphia 76ers,99,91,Amway Center,16317,/boxscores/201303100ORL.html
+Sun Mar 10 2013,Toronto Raptors,Cleveland Cavaliers,100,96,Air Canada Centre,19800,/boxscores/201303100TOR.html
+Sun Mar 10 2013,Minnesota Timberwolves,Dallas Mavericks,77,100,Target Center,15209,/boxscores/201303100MIN.html
+Sun Mar 10 2013,New Orleans Hornets,Portland Trail Blazers,98,96,New Orleans Arena,15036,/boxscores/201303100NOH.html
+Sun Mar 10 2013,Sacramento Kings,Milwaukee Bucks,113,115,Sleep Train Arena,14761,/boxscores/201303100SAC.html
+Sun Mar 10 2013,Los Angeles Clippers,Detroit Pistons,129,97,STAPLES Center,19344,/boxscores/201303100LAC.html
+Mon Mar 11 2013,Philadelphia 76ers,Brooklyn Nets,106,97,Wells Fargo Center,16789,/boxscores/201303110PHI.html
+Mon Mar 11 2013,San Antonio Spurs,Oklahoma City Thunder,105,93,AT&T Center,18581,/boxscores/201303110SAS.html
+Mon Mar 11 2013,Utah Jazz,Detroit Pistons,103,90,EnergySolutions Arena,18568,/boxscores/201303110UTA.html
+Mon Mar 11 2013,Phoenix Suns,Denver Nuggets,93,108,US Airways Center,15597,/boxscores/201303110PHO.html
+Mon Mar 11 2013,Golden State Warriors,New York Knicks,92,63,Oracle Arena,19596,/boxscores/201303110GSW.html
+Tue Mar 12 2013,Charlotte Bobcats,Boston Celtics,100,74,Time Warner Cable Arena,15006,/boxscores/201303120CHA.html
+Tue Mar 12 2013,Cleveland Cavaliers,Washington Wizards,95,90,Quicken Loans Arena,14689,/boxscores/201303120CLE.html
+Tue Mar 12 2013,Orlando Magic,Los Angeles Lakers,97,106,Amway Center,19287,/boxscores/201303120ORL.html
+Tue Mar 12 2013,Brooklyn Nets,New Orleans Hornets,108,98,Barclays Center,17732,/boxscores/201303120BRK.html
+Tue Mar 12 2013,Miami Heat,Atlanta Hawks,98,81,AmericanAirlines Arena,20350,/boxscores/201303120MIA.html
+Tue Mar 12 2013,Milwaukee Bucks,Dallas Mavericks,108,115,BMO Harris Bradley Center,14154,/boxscores/201303120MIL.html
+Tue Mar 12 2013,Minnesota Timberwolves,San Antonio Spurs,107,83,Target Center,14219,/boxscores/201303120MIN.html
+Tue Mar 12 2013,Portland Trail Blazers,Memphis Grizzlies,97,102,Rose Garden Arena,18754,/boxscores/201303120POR.html
+Wed Mar 13 2013,Indiana Pacers,Minnesota Timberwolves,107,91,Bankers Life Fieldhouse,14187,/boxscores/201303130IND.html
+Wed Mar 13 2013,Philadelphia 76ers,Miami Heat,94,98,Wells Fargo Center,20398,/boxscores/201303130PHI.html
+Wed Mar 13 2013,Washington Wizards,Milwaukee Bucks,106,93,Verizon Center,14506,/boxscores/201303130WAS.html
+Wed Mar 13 2013,Atlanta Hawks,Los Angeles Lakers,96,92,Philips Arena,19163,/boxscores/201303130ATL.html
+Wed Mar 13 2013,Boston Celtics,Toronto Raptors,112,88,TD Garden,18624,/boxscores/201303130BOS.html
+Wed Mar 13 2013,Houston Rockets,Phoenix Suns,111,81,Toyota Center,18132,/boxscores/201303130HOU.html
+Wed Mar 13 2013,Oklahoma City Thunder,Utah Jazz,110,87,Chesapeake Energy Arena,18203,/boxscores/201303130OKC.html
+Wed Mar 13 2013,Sacramento Kings,Chicago Bulls,121,79,Sleep Train Arena,14426,/boxscores/201303130SAC.html
+Wed Mar 13 2013,Denver Nuggets,New York Knicks,117,94,Pepsi Center,19155,/boxscores/201303130DEN.html
+Wed Mar 13 2013,Golden State Warriors,Detroit Pistons,105,97,Oracle Arena,19596,/boxscores/201303130GSW.html
+Wed Mar 13 2013,Los Angeles Clippers,Memphis Grizzlies,85,96,STAPLES Center,19316,/boxscores/201303130LAC.html
+Thu Mar 14 2013,San Antonio Spurs,Dallas Mavericks,92,91,AT&T Center,18581,/boxscores/201303140SAS.html
+Thu Mar 14 2013,Portland Trail Blazers,New York Knicks,105,90,Rose Garden Arena,20636,/boxscores/201303140POR.html
+Fri Mar 15 2013,Indiana Pacers,Los Angeles Lakers,93,99,Bankers Life Fieldhouse,18165,/boxscores/201303150IND.html
+Fri Mar 15 2013,Toronto Raptors,Charlotte Bobcats,92,78,Air Canada Centre,17514,/boxscores/201303150TOR.html
+Fri Mar 15 2013,Washington Wizards,New Orleans Hornets,96,87,Verizon Center,14942,/boxscores/201303150WAS.html
+Fri Mar 15 2013,Atlanta Hawks,Phoenix Suns,107,94,Philips Arena,14282,/boxscores/201303150ATL.html
+Fri Mar 15 2013,Houston Rockets,Minnesota Timberwolves,108,100,Toyota Center,18046,/boxscores/201303150HOU.html
+Fri Mar 15 2013,Oklahoma City Thunder,Orlando Magic,117,104,Chesapeake Energy Arena,18203,/boxscores/201303150OKC.html
+Fri Mar 15 2013,Dallas Mavericks,Cleveland Cavaliers,96,86,American Airlines Center,20482,/boxscores/201303150DAL.html
+Fri Mar 15 2013,Milwaukee Bucks,Miami Heat,94,107,BMO Harris Bradley Center,18717,/boxscores/201303150MIL.html
+Fri Mar 15 2013,Denver Nuggets,Memphis Grizzlies,87,80,Pepsi Center,19408,/boxscores/201303150DEN.html
+Fri Mar 15 2013,Golden State Warriors,Chicago Bulls,95,113,Oracle Arena,19596,/boxscores/201303150GSW.html
+Sat Mar 16 2013,Washington Wizards,Phoenix Suns,127,105,Verizon Center,16882,/boxscores/201303160WAS.html
+Sat Mar 16 2013,Boston Celtics,Charlotte Bobcats,105,88,TD Garden,18624,/boxscores/201303160BOS.html
+Sat Mar 16 2013,Philadelphia 76ers,Indiana Pacers,98,91,Wells Fargo Center,18587,/boxscores/201303160PHI.html
+Sat Mar 16 2013,San Antonio Spurs,Cleveland Cavaliers,119,113,AT&T Center,18581,/boxscores/201303160SAS.html
+Sat Mar 16 2013,Portland Trail Blazers,Detroit Pistons,112,101,Rose Garden Arena,20161,/boxscores/201303160POR.html
+Sat Mar 16 2013,Utah Jazz,Memphis Grizzlies,90,84,EnergySolutions Arena,17122,/boxscores/201303160UTA.html
+Sun Mar 17 2013,Milwaukee Bucks,Orlando Magic,115,109,BMO Harris Bradley Center,15591,/boxscores/201303170MIL.html
+Sun Mar 17 2013,Toronto Raptors,Miami Heat,91,108,Air Canada Centre,18564,/boxscores/201303170TOR.html
+Sun Mar 17 2013,Los Angeles Clippers,New York Knicks,93,80,STAPLES Center,19412,/boxscores/201303170LAC.html
+Sun Mar 17 2013,Houston Rockets,Golden State Warriors,78,108,Toyota Center,18219,/boxscores/201303170HOU.html
+Sun Mar 17 2013,Minnesota Timberwolves,New Orleans Hornets,97,95,Target Center,14246,/boxscores/201303170MIN.html
+Sun Mar 17 2013,Dallas Mavericks,Oklahoma City Thunder,101,107,American Airlines Center,20284,/boxscores/201303170DAL.html
+Sun Mar 17 2013,Brooklyn Nets,Atlanta Hawks,93,105,Barclays Center,17732,/boxscores/201303170BRK.html
+Sun Mar 17 2013,Los Angeles Lakers,Sacramento Kings,113,102,STAPLES Center,18997,/boxscores/201303170LAL.html
+Mon Mar 18 2013,Charlotte Bobcats,Washington Wizards,119,114,Time Warner Cable Arena,10141,/boxscores/201303180CHA.html
+Mon Mar 18 2013,Cleveland Cavaliers,Indiana Pacers,90,111,Quicken Loans Arena,13016,/boxscores/201303180CLE.html
+Mon Mar 18 2013,Philadelphia 76ers,Portland Trail Blazers,101,100,Wells Fargo Center,15623,/boxscores/201303180PHI.html
+Mon Mar 18 2013,Atlanta Hawks,Dallas Mavericks,113,127,Philips Arena,14505,/boxscores/201303180ATL.html
+Mon Mar 18 2013,Detroit Pistons,Brooklyn Nets,82,119,The Palace of Auburn Hills,16072,/boxscores/201303180DET.html
+Mon Mar 18 2013,Boston Celtics,Miami Heat,103,105,TD Garden,18624,/boxscores/201303180BOS.html
+Mon Mar 18 2013,Chicago Bulls,Denver Nuggets,118,119,United Center,22138,/boxscores/201303180CHI.html
+Mon Mar 18 2013,Memphis Grizzlies,Minnesota Timberwolves,92,77,FedEx Forum,16378,/boxscores/201303180MEM.html
+Mon Mar 18 2013,New Orleans Hornets,Golden State Warriors,72,93,New Orleans Arena,11844,/boxscores/201303180NOH.html
+Mon Mar 18 2013,Phoenix Suns,Los Angeles Lakers,99,76,US Airways Center,17102,/boxscores/201303180PHO.html
+Mon Mar 18 2013,Utah Jazz,New York Knicks,83,90,EnergySolutions Arena,18494,/boxscores/201303180UTA.html
+Tue Mar 19 2013,Indiana Pacers,Orlando Magic,95,73,Bankers Life Fieldhouse,14343,/boxscores/201303190IND.html
+Tue Mar 19 2013,Milwaukee Bucks,Portland Trail Blazers,102,95,BMO Harris Bradley Center,14397,/boxscores/201303190MIL.html
+Tue Mar 19 2013,Oklahoma City Thunder,Denver Nuggets,104,114,Chesapeake Energy Arena,18203,/boxscores/201303190OKC.html
+Tue Mar 19 2013,Sacramento Kings,Los Angeles Clippers,116,101,Sleep Train Arena,13563,/boxscores/201303190SAC.html
+Wed Mar 20 2013,Charlotte Bobcats,Toronto Raptors,107,101,Time Warner Cable Arena,12872,/boxscores/201303200CHA.html
+Wed Mar 20 2013,Cleveland Cavaliers,Miami Heat,95,98,Quicken Loans Arena,20562,/boxscores/201303200CLE.html
+Wed Mar 20 2013,Atlanta Hawks,Milwaukee Bucks,98,90,Philips Arena,11920,/boxscores/201303200ATL.html
+Wed Mar 20 2013,New York Knicks,Orlando Magic,106,94,Madison Square Garden (IV),19033,/boxscores/201303200NYK.html
+Wed Mar 20 2013,Dallas Mavericks,Brooklyn Nets,96,113,American Airlines Center,19962,/boxscores/201303200DAL.html
+Wed Mar 20 2013,Houston Rockets,Utah Jazz,100,93,Toyota Center,15739,/boxscores/201303200HOU.html
+Wed Mar 20 2013,Memphis Grizzlies,Oklahoma City Thunder,90,89,FedEx Forum,18119,/boxscores/201303200MEM.html
+Wed Mar 20 2013,New Orleans Hornets,Boston Celtics,87,86,New Orleans Arena,14740,/boxscores/201303200NOH.html
+Wed Mar 20 2013,San Antonio Spurs,Golden State Warriors,104,93,AT&T Center,17751,/boxscores/201303200SAS.html
+Wed Mar 20 2013,Phoenix Suns,Washington Wizards,79,88,US Airways Center,14819,/boxscores/201303200PHO.html
+Wed Mar 20 2013,Los Angeles Clippers,Philadelphia 76ers,101,72,STAPLES Center,19187,/boxscores/201303200LAC.html
+Thu Mar 21 2013,Chicago Bulls,Portland Trail Blazers,89,99,United Center,21946,/boxscores/201303210CHI.html
+Thu Mar 21 2013,Denver Nuggets,Philadelphia 76ers,101,100,Pepsi Center,19155,/boxscores/201303210DEN.html
+Thu Mar 21 2013,Sacramento Kings,Minnesota Timberwolves,101,98,Sleep Train Arena,12176,/boxscores/201303210SAC.html
+Fri Mar 22 2013,Indiana Pacers,Milwaukee Bucks,102,78,Bankers Life Fieldhouse,18165,/boxscores/201303220IND.html
+Fri Mar 22 2013,Orlando Magic,Oklahoma City Thunder,89,97,Amway Center,17429,/boxscores/201303220ORL.html
+Fri Mar 22 2013,Toronto Raptors,New York Knicks,94,99,Air Canada Centre,19800,/boxscores/201303220TOR.html
+Fri Mar 22 2013,Atlanta Hawks,Portland Trail Blazers,93,104,Philips Arena,16348,/boxscores/201303220ATL.html
+Fri Mar 22 2013,Miami Heat,Detroit Pistons,103,89,AmericanAirlines Arena,20350,/boxscores/201303220MIA.html
+Fri Mar 22 2013,Houston Rockets,Cleveland Cavaliers,116,78,Toyota Center,15694,/boxscores/201303220HOU.html
+Fri Mar 22 2013,New Orleans Hornets,Memphis Grizzlies,90,83,New Orleans Arena,16494,/boxscores/201303220NOH.html
+Fri Mar 22 2013,Dallas Mavericks,Boston Celtics,104,94,American Airlines Center,20387,/boxscores/201303220DAL.html
+Fri Mar 22 2013,San Antonio Spurs,Utah Jazz,104,97,AT&T Center,18581,/boxscores/201303220SAS.html
+Fri Mar 22 2013,Phoenix Suns,Minnesota Timberwolves,86,117,US Airways Center,16155,/boxscores/201303220PHO.html
+Fri Mar 22 2013,Los Angeles Lakers,Washington Wizards,100,103,STAPLES Center,18997,/boxscores/201303220LAL.html
+Sat Mar 23 2013,Charlotte Bobcats,Detroit Pistons,91,92,Time Warner Cable Arena,16375,/boxscores/201303230CHA.html
+Sat Mar 23 2013,New York Knicks,Toronto Raptors,110,84,Madison Square Garden (IV),19033,/boxscores/201303230NYK.html
+Sat Mar 23 2013,Chicago Bulls,Indiana Pacers,87,84,United Center,22494,/boxscores/201303230CHI.html
+Sat Mar 23 2013,Memphis Grizzlies,Boston Celtics,110,106,FedEx Forum,18119,/boxscores/201303230MEM.html
+Sat Mar 23 2013,Denver Nuggets,Sacramento Kings,101,95,Pepsi Center,19155,/boxscores/201303230DEN.html
+Sat Mar 23 2013,Golden State Warriors,Washington Wizards,101,92,Oracle Arena,19596,/boxscores/201303230GSW.html
+Sat Mar 23 2013,Los Angeles Clippers,Brooklyn Nets,101,95,STAPLES Center,19506,/boxscores/201303230LAC.html
+Sun Mar 24 2013,Milwaukee Bucks,Atlanta Hawks,99,104,BMO Harris Bradley Center,17587,/boxscores/201303240MIL.html
+Sun Mar 24 2013,Miami Heat,Charlotte Bobcats,109,77,AmericanAirlines Arena,20350,/boxscores/201303240MIA.html
+Sun Mar 24 2013,Houston Rockets,San Antonio Spurs,96,95,Toyota Center,18245,/boxscores/201303240HOU.html
+Sun Mar 24 2013,Minnesota Timberwolves,Chicago Bulls,97,104,Target Center,17330,/boxscores/201303240MIN.html
+Sun Mar 24 2013,Oklahoma City Thunder,Portland Trail Blazers,103,83,Chesapeake Energy Arena,18203,/boxscores/201303240OKC.html
+Sun Mar 24 2013,Dallas Mavericks,Utah Jazz,113,108,American Airlines Center,19821,/boxscores/201303240DAL.html
+Sun Mar 24 2013,Phoenix Suns,Brooklyn Nets,100,102,US Airways Center,14800,/boxscores/201303240PHO.html
+Sun Mar 24 2013,Sacramento Kings,Philadelphia 76ers,103,117,Sleep Train Arena,14647,/boxscores/201303240SAC.html
+Mon Mar 25 2013,Indiana Pacers,Atlanta Hawks,100,94,Bankers Life Fieldhouse,14336,/boxscores/201303250IND.html
+Mon Mar 25 2013,Orlando Magic,Miami Heat,94,108,Amway Center,18846,/boxscores/201303250ORL.html
+Mon Mar 25 2013,Washington Wizards,Memphis Grizzlies,107,94,Verizon Center,17868,/boxscores/201303250WAS.html
+Mon Mar 25 2013,New Orleans Hornets,Denver Nuggets,110,86,New Orleans Arena,11185,/boxscores/201303250NOH.html
+Mon Mar 25 2013,Utah Jazz,Philadelphia 76ers,107,91,EnergySolutions Arena,17336,/boxscores/201303250UTA.html
+Mon Mar 25 2013,Golden State Warriors,Los Angeles Lakers,109,103,Oracle Arena,19596,/boxscores/201303250GSW.html
+Tue Mar 26 2013,Boston Celtics,New York Knicks,85,100,TD Garden,18624,/boxscores/201303260BOS.html
+Tue Mar 26 2013,Detroit Pistons,Minnesota Timberwolves,82,105,The Palace of Auburn Hills,16877,/boxscores/201303260DET.html
+Tue Mar 26 2013,Dallas Mavericks,Los Angeles Clippers,109,102,American Airlines Center,20291,/boxscores/201303260DAL.html
+Wed Mar 27 2013,Charlotte Bobcats,Orlando Magic,114,108,Time Warner Cable Arena,11839,/boxscores/201303270CHA.html
+Wed Mar 27 2013,Cleveland Cavaliers,Boston Celtics,92,93,Quicken Loans Arena,17130,/boxscores/201303270CLE.html
+Wed Mar 27 2013,Philadelphia 76ers,Milwaukee Bucks,100,92,Wells Fargo Center,16640,/boxscores/201303270PHI.html
+Wed Mar 27 2013,Toronto Raptors,Atlanta Hawks,88,107,Air Canada Centre,18206,/boxscores/201303270TOR.html
+Wed Mar 27 2013,New York Knicks,Memphis Grizzlies,108,101,Madison Square Garden (IV),19033,/boxscores/201303270NYK.html
+Wed Mar 27 2013,Chicago Bulls,Miami Heat,101,97,United Center,23014,/boxscores/201303270CHI.html
+Wed Mar 27 2013,Houston Rockets,Indiana Pacers,91,100,Toyota Center,18134,/boxscores/201303270HOU.html
+Wed Mar 27 2013,Minnesota Timberwolves,Los Angeles Lakers,117,120,Target Center,18029,/boxscores/201303270MIN.html
+Wed Mar 27 2013,New Orleans Hornets,Los Angeles Clippers,91,105,New Orleans Arena,15128,/boxscores/201303270NOH.html
+Wed Mar 27 2013,Oklahoma City Thunder,Washington Wizards,103,80,Chesapeake Energy Arena,18203,/boxscores/201303270OKC.html
+Wed Mar 27 2013,San Antonio Spurs,Denver Nuggets,100,99,AT&T Center,18581,/boxscores/201303270SAS.html
+Wed Mar 27 2013,Utah Jazz,Phoenix Suns,103,88,EnergySolutions Arena,16949,/boxscores/201303270UTA.html
+Wed Mar 27 2013,Golden State Warriors,Sacramento Kings,98,105,Oracle Arena,19596,/boxscores/201303270GSW.html
+Wed Mar 27 2013,Portland Trail Blazers,Brooklyn Nets,93,111,Rose Garden Arena,20127,/boxscores/201303270POR.html
+Thu Mar 28 2013,Milwaukee Bucks,Los Angeles Lakers,113,103,BMO Harris Bradley Center,16884,/boxscores/201303280MIL.html
+Thu Mar 28 2013,Dallas Mavericks,Indiana Pacers,78,103,American Airlines Center,20037,/boxscores/201303280DAL.html
+Thu Mar 28 2013,Phoenix Suns,Sacramento Kings,103,117,US Airways Center,15086,/boxscores/201303280PHO.html
+Fri Mar 29 2013,Orlando Magic,Washington Wizards,97,92,Amway Center,17998,/boxscores/201303290ORL.html
+Fri Mar 29 2013,Boston Celtics,Atlanta Hawks,118,107,TD Garden,18624,/boxscores/201303290BOS.html
+Fri Mar 29 2013,Cleveland Cavaliers,Philadelphia 76ers,87,97,Quicken Loans Arena,17324,/boxscores/201303290CLE.html
+Fri Mar 29 2013,Detroit Pistons,Toronto Raptors,82,99,The Palace of Auburn Hills,19322,/boxscores/201303290DET.html
+Fri Mar 29 2013,New York Knicks,Charlotte Bobcats,111,102,Madison Square Garden (IV),19033,/boxscores/201303290NYK.html
+Fri Mar 29 2013,Memphis Grizzlies,Houston Rockets,103,94,FedEx Forum,18119,/boxscores/201303290MEM.html
+Fri Mar 29 2013,Minnesota Timberwolves,Oklahoma City Thunder,101,93,Target Center,18121,/boxscores/201303290MIN.html
+Fri Mar 29 2013,New Orleans Hornets,Miami Heat,89,108,New Orleans Arena,18647,/boxscores/201303290NOH.html
+Fri Mar 29 2013,San Antonio Spurs,Los Angeles Clippers,104,102,AT&T Center,18581,/boxscores/201303290SAS.html
+Fri Mar 29 2013,Denver Nuggets,Brooklyn Nets,109,87,Pepsi Center,19155,/boxscores/201303290DEN.html
+Fri Mar 29 2013,Portland Trail Blazers,Utah Jazz,95,105,Rose Garden Arena,19527,/boxscores/201303290POR.html
+Sat Mar 30 2013,Dallas Mavericks,Chicago Bulls,100,98,American Airlines Center,20502,/boxscores/201303300DAL.html
+Sat Mar 30 2013,Atlanta Hawks,Orlando Magic,97,88,Philips Arena,17152,/boxscores/201303300ATL.html
+Sat Mar 30 2013,Houston Rockets,Los Angeles Clippers,98,81,Toyota Center,18303,/boxscores/201303300HOU.html
+Sat Mar 30 2013,Minnesota Timberwolves,Memphis Grizzlies,86,99,Target Center,13680,/boxscores/201303300MIN.html
+Sat Mar 30 2013,Philadelphia 76ers,Charlotte Bobcats,100,92,Wells Fargo Center,16764,/boxscores/201303300PHI.html
+Sat Mar 30 2013,Milwaukee Bucks,Oklahoma City Thunder,99,109,BMO Harris Bradley Center,17578,/boxscores/201303300MIL.html
+Sat Mar 30 2013,Utah Jazz,Brooklyn Nets,116,107,EnergySolutions Arena,18008,/boxscores/201303300UTA.html
+Sat Mar 30 2013,Phoenix Suns,Indiana Pacers,104,112,US Airways Center,17090,/boxscores/201303300PHO.html
+Sat Mar 30 2013,Sacramento Kings,Los Angeles Lakers,98,103,Sleep Train Arena,17317,/boxscores/201303300SAC.html
+Sat Mar 30 2013,Golden State Warriors,Portland Trail Blazers,125,98,Oracle Arena,19596,/boxscores/201303300GSW.html
+Sun Mar 31 2013,New Orleans Hornets,Cleveland Cavaliers,112,92,New Orleans Arena,11008,/boxscores/201303310NOH.html
+Sun Mar 31 2013,Washington Wizards,Toronto Raptors,109,92,Verizon Center,14360,/boxscores/201303310WAS.html
+Sun Mar 31 2013,Chicago Bulls,Detroit Pistons,95,94,United Center,21864,/boxscores/201303310CHI.html
+Sun Mar 31 2013,San Antonio Spurs,Miami Heat,86,88,AT&T Center,18581,/boxscores/201303310SAS.html
+Sun Mar 31 2013,New York Knicks,Boston Celtics,108,89,Madison Square Garden (IV),19033,/boxscores/201303310NYK.html

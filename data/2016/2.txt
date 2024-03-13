@@ -1,0 +1,171 @@
+Mon Feb 1 2016,Indiana Pacers,Cleveland Cavaliers,106,111,Bankers Life Fieldhouse,17283,/boxscores/201602010IND.html
+Mon Feb 1 2016,Brooklyn Nets,Detroit Pistons,100,105,Barclays Center,13290,/boxscores/201602010BRK.html
+Mon Feb 1 2016,Atlanta Hawks,Dallas Mavericks,112,97,Philips Arena,15455,/boxscores/201602010ATL.html
+Mon Feb 1 2016,New Orleans Pelicans,Memphis Grizzlies,95,110,Smoothie King Center,15210,/boxscores/201602010NOP.html
+Mon Feb 1 2016,Oklahoma City Thunder,Washington Wizards,114,98,Chesapeake Energy Arena,18203,/boxscores/201602010OKC.html
+Mon Feb 1 2016,San Antonio Spurs,Orlando Magic,107,92,AT&T Center,18418,/boxscores/201602010SAS.html
+Mon Feb 1 2016,Denver Nuggets,Toronto Raptors,112,93,Pepsi Center,10007,/boxscores/201602010DEN.html
+Mon Feb 1 2016,Utah Jazz,Chicago Bulls,105,96,Vivint Smart Home Arena,18811,/boxscores/201602010UTA.html
+Mon Feb 1 2016,Sacramento Kings,Milwaukee Bucks,111,104,Sleep Train Arena,16827,/boxscores/201602010SAC.html
+Tue Feb 2 2016,New York Knicks,Boston Celtics,89,97,Madison Square Garden (IV),19812,/boxscores/201602020NYK.html
+Tue Feb 2 2016,Houston Rockets,Miami Heat,115,102,Toyota Center,18229,/boxscores/201602020HOU.html
+Tue Feb 2 2016,Phoenix Suns,Toronto Raptors,97,104,Talking Stick Resort Arena,15897,/boxscores/201602020PHO.html
+Tue Feb 2 2016,Portland Trail Blazers,Milwaukee Bucks,107,95,Moda Center,18306,/boxscores/201602020POR.html
+Tue Feb 2 2016,Los Angeles Lakers,Minnesota Timberwolves,119,115,STAPLES Center,18997,/boxscores/201602020LAL.html
+Wed Feb 3 2016,Charlotte Hornets,Cleveland Cavaliers,106,97,Time Warner Cable Arena,19189,/boxscores/201602030CHO.html
+Wed Feb 3 2016,Philadelphia 76ers,Atlanta Hawks,86,124,Wells Fargo Center,10429,/boxscores/201602030PHI.html
+Wed Feb 3 2016,Boston Celtics,Detroit Pistons,102,95,TD Garden,17297,/boxscores/201602030BOS.html
+Wed Feb 3 2016,Brooklyn Nets,Indiana Pacers,100,114,Barclays Center,13311,/boxscores/201602030BRK.html
+Wed Feb 3 2016,Oklahoma City Thunder,Orlando Magic,117,114,Chesapeake Energy Arena,18203,/boxscores/201602030OKC.html
+Wed Feb 3 2016,Washington Wizards,Golden State Warriors,121,134,Verizon Center,20356,/boxscores/201602030WAS.html
+Wed Feb 3 2016,Dallas Mavericks,Miami Heat,90,93,American Airlines Center,20385,/boxscores/201602030DAL.html
+Wed Feb 3 2016,San Antonio Spurs,New Orleans Pelicans,110,97,AT&T Center,18418,/boxscores/201602030SAS.html
+Wed Feb 3 2016,Utah Jazz,Denver Nuggets,85,81,Vivint Smart Home Arena,19461,/boxscores/201602030UTA.html
+Wed Feb 3 2016,Sacramento Kings,Chicago Bulls,102,107,Sleep Train Arena,17317,/boxscores/201602030SAC.html
+Wed Feb 3 2016,Los Angeles Clippers,Minnesota Timberwolves,102,108,STAPLES Center,19060,/boxscores/201602030LAC.html
+Thu Feb 4 2016,Detroit Pistons,New York Knicks,111,105,The Palace of Auburn Hills,17095,/boxscores/201602040DET.html
+Thu Feb 4 2016,Phoenix Suns,Houston Rockets,105,111,Talking Stick Resort Arena,15723,/boxscores/201602040PHO.html
+Thu Feb 4 2016,New Orleans Pelicans,Los Angeles Lakers,96,99,Smoothie King Center,18420,/boxscores/201602040NOP.html
+Thu Feb 4 2016,Portland Trail Blazers,Toronto Raptors,103,110,Moda Center,19393,/boxscores/201602040POR.html
+Fri Feb 5 2016,Atlanta Hawks,Indiana Pacers,102,96,Philips Arena,17225,/boxscores/201602050ATL.html
+Fri Feb 5 2016,Charlotte Hornets,Miami Heat,95,98,Time Warner Cable Arena,19147,/boxscores/201602050CHO.html
+Fri Feb 5 2016,Orlando Magic,Los Angeles Clippers,93,107,Amway Center,16647,/boxscores/201602050ORL.html
+Fri Feb 5 2016,Washington Wizards,Philadelphia 76ers,106,94,Verizon Center,17305,/boxscores/201602050WAS.html
+Fri Feb 5 2016,Brooklyn Nets,Sacramento Kings,128,119,Barclays Center,14432,/boxscores/201602050BRK.html
+Fri Feb 5 2016,Cleveland Cavaliers,Boston Celtics,103,104,Quicken Loans Arena,20562,/boxscores/201602050CLE.html
+Fri Feb 5 2016,New York Knicks,Memphis Grizzlies,85,91,Madison Square Garden (IV),19812,/boxscores/201602050NYK.html
+Fri Feb 5 2016,Denver Nuggets,Chicago Bulls,115,110,Pepsi Center,19155,/boxscores/201602050DEN.html
+Fri Feb 5 2016,Utah Jazz,Milwaukee Bucks,84,81,Vivint Smart Home Arena,19911,/boxscores/201602050UTA.html
+Fri Feb 5 2016,Dallas Mavericks,San Antonio Spurs,90,116,American Airlines Center,20404,/boxscores/201602050DAL.html
+Sat Feb 6 2016,Houston Rockets,Portland Trail Blazers,79,96,Toyota Center,18308,/boxscores/201602060HOU.html
+Sat Feb 6 2016,Charlotte Hornets,Washington Wizards,108,104,Time Warner Cable Arena,18450,/boxscores/201602060CHO.html
+Sat Feb 6 2016,Indiana Pacers,Detroit Pistons,112,104,Bankers Life Fieldhouse,18165,/boxscores/201602060IND.html
+Sat Feb 6 2016,Cleveland Cavaliers,New Orleans Pelicans,99,84,Quicken Loans Arena,20562,/boxscores/201602060CLE.html
+Sat Feb 6 2016,Philadelphia 76ers,Brooklyn Nets,103,98,Wells Fargo Center,18847,/boxscores/201602060PHI.html
+Sat Feb 6 2016,Memphis Grizzlies,Dallas Mavericks,110,114,FedEx Forum,18119,/boxscores/201602060MEM.html
+Sat Feb 6 2016,Minnesota Timberwolves,Chicago Bulls,112,105,Target Center,17876,/boxscores/201602060MIN.html
+Sat Feb 6 2016,San Antonio Spurs,Los Angeles Lakers,106,102,AT&T Center,18418,/boxscores/201602060SAS.html
+Sat Feb 6 2016,Golden State Warriors,Oklahoma City Thunder,116,108,Oracle Arena,19596,/boxscores/201602060GSW.html
+Sat Feb 6 2016,Phoenix Suns,Utah Jazz,89,98,Talking Stick Resort Arena,16180,/boxscores/201602060PHO.html
+Sun Feb 7 2016,Boston Celtics,Sacramento Kings,128,119,TD Garden,18624,/boxscores/201602070BOS.html
+Sun Feb 7 2016,New York Knicks,Denver Nuggets,96,101,Madison Square Garden (IV),19812,/boxscores/201602070NYK.html
+Sun Feb 7 2016,Orlando Magic,Atlanta Hawks,96,94,Amway Center,16021,/boxscores/201602070ORL.html
+Sun Feb 7 2016,Miami Heat,Los Angeles Clippers,93,100,AmericanAirlines Arena,19624,/boxscores/201602070MIA.html
+Mon Feb 8 2016,Charlotte Hornets,Chicago Bulls,108,91,Time Warner Cable Arena,15886,/boxscores/201602080CHO.html
+Mon Feb 8 2016,Cleveland Cavaliers,Sacramento Kings,120,100,Quicken Loans Arena,20562,/boxscores/201602080CLE.html
+Mon Feb 8 2016,Indiana Pacers,Los Angeles Lakers,89,87,Bankers Life Fieldhouse,18165,/boxscores/201602080IND.html
+Mon Feb 8 2016,Philadelphia 76ers,Los Angeles Clippers,92,98,Wells Fargo Center,13310,/boxscores/201602080PHI.html
+Mon Feb 8 2016,Brooklyn Nets,Denver Nuggets,105,104,Barclays Center,13043,/boxscores/201602080BRK.html
+Mon Feb 8 2016,Detroit Pistons,Toronto Raptors,89,103,The Palace of Auburn Hills,14103,/boxscores/201602080DET.html
+Mon Feb 8 2016,Atlanta Hawks,Orlando Magic,110,117,Philips Arena,13057,/boxscores/201602080ATL.html
+Mon Feb 8 2016,Memphis Grizzlies,Portland Trail Blazers,106,112,FedEx Forum,15892,/boxscores/201602080MEM.html
+Mon Feb 8 2016,Minnesota Timberwolves,New Orleans Pelicans,102,116,Target Center,11926,/boxscores/201602080MIN.html
+Mon Feb 8 2016,Phoenix Suns,Oklahoma City Thunder,106,122,Talking Stick Resort Arena,16316,/boxscores/201602080PHO.html
+Tue Feb 9 2016,Miami Heat,San Antonio Spurs,101,119,AmericanAirlines Arena,19723,/boxscores/201602090MIA.html
+Tue Feb 9 2016,Milwaukee Bucks,Boston Celtics,112,111,BMO Harris Bradley Center,13215,/boxscores/201602090MIL.html
+Tue Feb 9 2016,New York Knicks,Washington Wizards,108,111,Madison Square Garden (IV),19812,/boxscores/201602090NYK.html
+Tue Feb 9 2016,Dallas Mavericks,Utah Jazz,119,121,American Airlines Center,19394,/boxscores/201602090DAL.html
+Tue Feb 9 2016,Golden State Warriors,Houston Rockets,123,110,Oracle Arena,19596,/boxscores/201602090GSW.html
+Wed Feb 10 2016,Indiana Pacers,Charlotte Hornets,95,117,Bankers Life Fieldhouse,15653,/boxscores/201602100IND.html
+Wed Feb 10 2016,Orlando Magic,San Antonio Spurs,96,98,Amway Center,17467,/boxscores/201602100ORL.html
+Wed Feb 10 2016,Philadelphia 76ers,Sacramento Kings,110,114,Wells Fargo Center,12501,/boxscores/201602100PHI.html
+Wed Feb 10 2016,Boston Celtics,Los Angeles Clippers,139,134,TD Garden,18186,/boxscores/201602100BOS.html
+Wed Feb 10 2016,Brooklyn Nets,Memphis Grizzlies,90,109,Barclays Center,14262,/boxscores/201602100BRK.html
+Wed Feb 10 2016,Detroit Pistons,Denver Nuggets,92,103,The Palace of Auburn Hills,19971,/boxscores/201602100DET.html
+Wed Feb 10 2016,Chicago Bulls,Atlanta Hawks,90,113,United Center,21709,/boxscores/201602100CHI.html
+Wed Feb 10 2016,Cleveland Cavaliers,Los Angeles Lakers,120,111,Quicken Loans Arena,20562,/boxscores/201602100CLE.html
+Wed Feb 10 2016,Minnesota Timberwolves,Toronto Raptors,117,112,Target Center,11171,/boxscores/201602100MIN.html
+Wed Feb 10 2016,New Orleans Pelicans,Utah Jazz,100,96,Smoothie King Center,15256,/boxscores/201602100NOP.html
+Wed Feb 10 2016,Phoenix Suns,Golden State Warriors,104,112,Talking Stick Resort Arena,18055,/boxscores/201602100PHO.html
+Wed Feb 10 2016,Portland Trail Blazers,Houston Rockets,116,103,Moda Center,19393,/boxscores/201602100POR.html
+Thu Feb 11 2016,Milwaukee Bucks,Washington Wizards,99,92,BMO Harris Bradley Center,14172,/boxscores/201602110MIL.html
+Thu Feb 11 2016,Oklahoma City Thunder,New Orleans Pelicans,121,95,Chesapeake Energy Arena,18203,/boxscores/201602110OKC.html
+Thu Feb 18 2016,Washington Wizards,Utah Jazz,103,89,Verizon Center,12415,/boxscores/201602180WAS.html
+Thu Feb 18 2016,Cleveland Cavaliers,Chicago Bulls,106,95,Quicken Loans Arena,20562,/boxscores/201602180CLE.html
+Thu Feb 18 2016,Los Angeles Clippers,San Antonio Spurs,105,86,STAPLES Center,19410,/boxscores/201602180LAC.html
+Fri Feb 19 2016,Orlando Magic,Dallas Mavericks,110,104,Amway Center,17764,/boxscores/201602190ORL.html
+Fri Feb 19 2016,Washington Wizards,Detroit Pistons,98,86,Verizon Center,20356,/boxscores/201602190WAS.html
+Fri Feb 19 2016,Brooklyn Nets,New York Knicks,109,98,Barclays Center,17732,/boxscores/201602190BRK.html
+Fri Feb 19 2016,Atlanta Hawks,Miami Heat,111,115,Philips Arena,19043,/boxscores/201602190ATL.html
+Fri Feb 19 2016,Chicago Bulls,Toronto Raptors,116,106,United Center,21849,/boxscores/201602190CHI.html
+Fri Feb 19 2016,Memphis Grizzlies,Minnesota Timberwolves,109,104,FedEx Forum,18119,/boxscores/201602190MEM.html
+Fri Feb 19 2016,Milwaukee Bucks,Charlotte Hornets,95,98,BMO Harris Bradley Center,16370,/boxscores/201602190MIL.html
+Fri Feb 19 2016,New Orleans Pelicans,Philadelphia 76ers,121,114,Smoothie King Center,16953,/boxscores/201602190NOP.html
+Fri Feb 19 2016,Oklahoma City Thunder,Indiana Pacers,98,101,Chesapeake Energy Arena,18203,/boxscores/201602190OKC.html
+Fri Feb 19 2016,Phoenix Suns,Houston Rockets,100,116,Talking Stick Resort Arena,17102,/boxscores/201602190PHO.html
+Fri Feb 19 2016,Portland Trail Blazers,Golden State Warriors,137,105,Moda Center,20100,/boxscores/201602190POR.html
+Fri Feb 19 2016,Sacramento Kings,Denver Nuggets,116,110,Sleep Train Arena,17317,/boxscores/201602190SAC.html
+Fri Feb 19 2016,Los Angeles Lakers,San Antonio Spurs,113,119,STAPLES Center,18997,/boxscores/201602190LAL.html
+Fri Feb 19 2016,Utah Jazz,Boston Celtics,111,93,Vivint Smart Home Arena,19911,/boxscores/201602190UTA.html
+Sat Feb 20 2016,Atlanta Hawks,Milwaukee Bucks,109,117,Philips Arena,18653,/boxscores/201602200ATL.html
+Sat Feb 20 2016,Miami Heat,Washington Wizards,114,94,AmericanAirlines Arena,19710,/boxscores/201602200MIA.html
+Sat Feb 20 2016,Minnesota Timberwolves,New York Knicks,95,103,Target Center,16663,/boxscores/201602200MIN.html
+Sat Feb 20 2016,Los Angeles Clippers,Golden State Warriors,112,115,STAPLES Center,19585,/boxscores/201602200LAC.html
+Sun Feb 21 2016,Detroit Pistons,New Orleans Pelicans,106,111,The Palace of Auburn Hills,17886,/boxscores/201602210DET.html
+Sun Feb 21 2016,Oklahoma City Thunder,Cleveland Cavaliers,92,115,Chesapeake Energy Arena,18203,/boxscores/201602210OKC.html
+Sun Feb 21 2016,Denver Nuggets,Boston Celtics,101,121,Pepsi Center,16065,/boxscores/201602210DEN.html
+Sun Feb 21 2016,Phoenix Suns,San Antonio Spurs,111,118,Talking Stick Resort Arena,16224,/boxscores/201602210PHO.html
+Sun Feb 21 2016,Brooklyn Nets,Charlotte Hornets,96,104,Barclays Center,16155,/boxscores/201602210BRK.html
+Sun Feb 21 2016,Orlando Magic,Indiana Pacers,102,105,Amway Center,17242,/boxscores/201602210ORL.html
+Sun Feb 21 2016,Toronto Raptors,Memphis Grizzlies,98,85,Air Canada Centre,19800,/boxscores/201602210TOR.html
+Sun Feb 21 2016,Dallas Mavericks,Philadelphia 76ers,129,103,American Airlines Center,20194,/boxscores/201602210DAL.html
+Sun Feb 21 2016,Chicago Bulls,Los Angeles Lakers,126,115,United Center,23143,/boxscores/201602210CHI.html
+Sun Feb 21 2016,Portland Trail Blazers,Utah Jazz,115,111,Moda Center,19470,/boxscores/201602210POR.html
+Mon Feb 22 2016,Cleveland Cavaliers,Detroit Pistons,88,96,Quicken Loans Arena,20562,/boxscores/201602220CLE.html
+Mon Feb 22 2016,Miami Heat,Indiana Pacers,101,93,AmericanAirlines Arena,19600,/boxscores/201602220MIA.html
+Mon Feb 22 2016,New York Knicks,Toronto Raptors,95,122,Madison Square Garden (IV),19812,/boxscores/201602220NYK.html
+Mon Feb 22 2016,Atlanta Hawks,Golden State Warriors,92,102,Philips Arena,19330,/boxscores/201602220ATL.html
+Mon Feb 22 2016,Milwaukee Bucks,Los Angeles Lakers,108,101,BMO Harris Bradley Center,18717,/boxscores/201602220MIL.html
+Mon Feb 22 2016,Minnesota Timberwolves,Boston Celtics,124,122,Target Center,11639,/boxscores/201602220MIN.html
+Mon Feb 22 2016,Los Angeles Clippers,Phoenix Suns,124,84,STAPLES Center,19060,/boxscores/201602220LAC.html
+Tue Feb 23 2016,Philadelphia 76ers,Orlando Magic,115,124,Wells Fargo Center,13745,/boxscores/201602230PHI.html
+Tue Feb 23 2016,Washington Wizards,New Orleans Pelicans,109,89,Verizon Center,15743,/boxscores/201602230WAS.html
+Tue Feb 23 2016,Denver Nuggets,Sacramento Kings,110,114,Pepsi Center,15721,/boxscores/201602230DEN.html
+Tue Feb 23 2016,Utah Jazz,Houston Rockets,117,114,Vivint Smart Home Arena,18132,/boxscores/201602230UTA.html
+Tue Feb 23 2016,Portland Trail Blazers,Brooklyn Nets,112,104,Moda Center,19393,/boxscores/201602230POR.html
+Wed Feb 24 2016,Cleveland Cavaliers,Charlotte Hornets,114,103,Quicken Loans Arena,20562,/boxscores/201602240CLE.html
+Wed Feb 24 2016,Indiana Pacers,New York Knicks,108,105,Bankers Life Fieldhouse,16018,/boxscores/201602240IND.html
+Wed Feb 24 2016,Detroit Pistons,Philadelphia 76ers,111,91,The Palace of Auburn Hills,13429,/boxscores/201602240DET.html
+Wed Feb 24 2016,Miami Heat,Golden State Warriors,112,118,AmericanAirlines Arena,19899,/boxscores/201602240MIA.html
+Wed Feb 24 2016,Toronto Raptors,Minnesota Timberwolves,114,105,Air Canada Centre,19800,/boxscores/201602240TOR.html
+Wed Feb 24 2016,Chicago Bulls,Washington Wizards,109,104,United Center,21560,/boxscores/201602240CHI.html
+Wed Feb 24 2016,Memphis Grizzlies,Los Angeles Lakers,128,119,FedEx Forum,18119,/boxscores/201602240MEM.html
+Wed Feb 24 2016,Dallas Mavericks,Oklahoma City Thunder,103,116,American Airlines Center,19805,/boxscores/201602240DAL.html
+Wed Feb 24 2016,Los Angeles Clippers,Denver Nuggets,81,87,STAPLES Center,19060,/boxscores/201602240LAC.html
+Wed Feb 24 2016,Sacramento Kings,San Antonio Spurs,92,108,Sleep Train Arena,17317,/boxscores/201602240SAC.html
+Thu Feb 25 2016,Orlando Magic,Golden State Warriors,114,130,Amway Center,19189,/boxscores/201602250ORL.html
+Thu Feb 25 2016,Boston Celtics,Milwaukee Bucks,112,107,TD Garden,18157,/boxscores/201602250BOS.html
+Thu Feb 25 2016,New Orleans Pelicans,Oklahoma City Thunder,123,119,Smoothie King Center,16974,/boxscores/201602250NOP.html
+Thu Feb 25 2016,Phoenix Suns,Brooklyn Nets,106,116,Talking Stick Resort Arena,16145,/boxscores/201602250PHO.html
+Thu Feb 25 2016,Portland Trail Blazers,Houston Rockets,105,119,Moda Center,19393,/boxscores/201602250POR.html
+Thu Feb 25 2016,Utah Jazz,San Antonio Spurs,78,96,Vivint Smart Home Arena,19911,/boxscores/201602250UTA.html
+Fri Feb 26 2016,Indiana Pacers,Charlotte Hornets,95,96,Bankers Life Fieldhouse,18165,/boxscores/201602260IND.html
+Fri Feb 26 2016,Philadelphia 76ers,Washington Wizards,94,103,Wells Fargo Center,16511,/boxscores/201602260PHI.html
+Fri Feb 26 2016,New York Knicks,Orlando Magic,108,95,Madison Square Garden (IV),19812,/boxscores/201602260NYK.html
+Fri Feb 26 2016,Toronto Raptors,Cleveland Cavaliers,99,97,Air Canada Centre,19800,/boxscores/201602260TOR.html
+Fri Feb 26 2016,Atlanta Hawks,Chicago Bulls,103,88,Philips Arena,18123,/boxscores/201602260ATL.html
+Fri Feb 26 2016,Dallas Mavericks,Denver Nuggets,122,116,American Airlines Center,20298,/boxscores/201602260DAL.html
+Fri Feb 26 2016,Sacramento Kings,Los Angeles Clippers,107,117,Sleep Train Arena,17317,/boxscores/201602260SAC.html
+Fri Feb 26 2016,Los Angeles Lakers,Memphis Grizzlies,95,112,STAPLES Center,18997,/boxscores/201602260LAL.html
+Sat Feb 27 2016,Boston Celtics,Miami Heat,101,89,TD Garden,18624,/boxscores/201602270BOS.html
+Sat Feb 27 2016,New Orleans Pelicans,Minnesota Timberwolves,110,112,Smoothie King Center,17338,/boxscores/201602270NOP.html
+Sat Feb 27 2016,Chicago Bulls,Portland Trail Blazers,95,103,United Center,21962,/boxscores/201602270CHI.html
+Sat Feb 27 2016,Houston Rockets,San Antonio Spurs,94,104,Toyota Center,18240,/boxscores/201602270HOU.html
+Sat Feb 27 2016,Milwaukee Bucks,Detroit Pistons,91,102,BMO Harris Bradley Center,17165,/boxscores/201602270MIL.html
+Sat Feb 27 2016,Oklahoma City Thunder,Golden State Warriors,118,121,Chesapeake Energy Arena,18203,/boxscores/201602270OKC.html
+Sat Feb 27 2016,Phoenix Suns,Memphis Grizzlies,111,106,Talking Stick Resort Arena,17101,/boxscores/201602270PHO.html
+Sat Feb 27 2016,Utah Jazz,Brooklyn Nets,96,98,Vivint Smart Home Arena,18863,/boxscores/201602270UTA.html
+Sun Feb 28 2016,Washington Wizards,Cleveland Cavaliers,113,99,Verizon Center,20356,/boxscores/201602280WAS.html
+Sun Feb 28 2016,Atlanta Hawks,Charlotte Hornets,87,76,Philips Arena,17156,/boxscores/201602280ATL.html
+Sun Feb 28 2016,Detroit Pistons,Toronto Raptors,114,101,The Palace of Auburn Hills,17201,/boxscores/201602280DET.html
+Sun Feb 28 2016,Indiana Pacers,Portland Trail Blazers,102,111,Bankers Life Fieldhouse,16662,/boxscores/201602280IND.html
+Sun Feb 28 2016,Orlando Magic,Philadelphia 76ers,130,116,Amway Center,16168,/boxscores/201602280ORL.html
+Sun Feb 28 2016,Dallas Mavericks,Minnesota Timberwolves,128,101,American Airlines Center,20289,/boxscores/201602280DAL.html
+Sun Feb 28 2016,New York Knicks,Miami Heat,81,98,Madison Square Garden (IV),19812,/boxscores/201602280NYK.html
+Mon Feb 29 2016,Cleveland Cavaliers,Indiana Pacers,100,96,Quicken Loans Arena,20562,/boxscores/201602290CLE.html
+Mon Feb 29 2016,Washington Wizards,Philadelphia 76ers,116,108,Verizon Center,15096,/boxscores/201602290WAS.html
+Mon Feb 29 2016,Boston Celtics,Utah Jazz,100,95,TD Garden,17680,/boxscores/201602290BOS.html
+Mon Feb 29 2016,Milwaukee Bucks,Houston Rockets,128,121,BMO Harris Bradley Center,13214,/boxscores/201602290MIL.html
+Mon Feb 29 2016,Denver Nuggets,Memphis Grizzlies,96,103,Pepsi Center,10324,/boxscores/201602290DEN.html
+Mon Feb 29 2016,Sacramento Kings,Oklahoma City Thunder,116,131,Sleep Train Arena,17317,/boxscores/201602290SAC.html
+Mon Feb 29 2016,Los Angeles Clippers,Brooklyn Nets,105,95,STAPLES Center,19060,/boxscores/201602290LAC.html

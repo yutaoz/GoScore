@@ -1,0 +1,74 @@
+Tue Oct 12 1971,Chicago Bulls,Philadelphia 76ers,100,114,Chicago Stadium,0,/boxscores/197110120CHI.html
+Tue Oct 12 1971,Buffalo Braves,Seattle SuperSonics,90,123,Buffalo Memorial Auditorium,0,/boxscores/197110120BUF.html
+Tue Oct 12 1971,New York Knicks,Detroit Pistons,84,91,Madison Square Garden (IV),0,/boxscores/197110120NYK.html
+Tue Oct 12 1971,Cincinnati Royals,Atlanta Hawks,127,113,Cincinnati Gardens,0,/boxscores/197110120CIN.html
+Thu Oct 14 1971,Houston Rockets,Philadelphia 76ers,94,105,Astrohall,0,/boxscores/197110140HOU.html
+Thu Oct 14 1971,Phoenix Suns,Milwaukee Bucks,97,110,Arizona Veterans Memorial Coliseum,0,/boxscores/197110140PHO.html
+Fri Oct 15 1971,Boston Celtics,Golden State Warriors,75,97,Boston Garden,0,/boxscores/197110150BOS.html
+Fri Oct 15 1971,Chicago Bulls,Baltimore Bullets,106,82,Chicago Stadium,0,/boxscores/197110150CHI.html
+Fri Oct 15 1971,Cleveland Cavaliers,Buffalo Braves,109,111,Cleveland Arena,0,/boxscores/197110150CLE.html
+Fri Oct 15 1971,Detroit Pistons,Los Angeles Lakers,103,132,Cobo Arena,0,/boxscores/197110150DET.html
+Fri Oct 15 1971,Portland Trail Blazers,Seattle SuperSonics,88,119,Memorial Coliseum,0,/boxscores/197110150POR.html
+Sat Oct 16 1971,Atlanta Hawks,Philadelphia 76ers,102,104,Alexander Memorial Coliseum,0,/boxscores/197110160ATL.html
+Sat Oct 16 1971,Baltimore Bullets,Golden State Warriors,108,93,Baltimore Civic Center,0,/boxscores/197110160BAL.html
+Sat Oct 16 1971,Buffalo Braves,Cleveland Cavaliers,89,93,Buffalo Memorial Auditorium,0,/boxscores/197110160BUF.html
+Sat Oct 16 1971,New York Knicks,Los Angeles Lakers,104,119,Madison Square Garden (IV),0,/boxscores/197110160NYK.html
+Sat Oct 16 1971,Phoenix Suns,Houston Rockets,128,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197110160PHO.html
+Sat Oct 16 1971,Seattle SuperSonics,Milwaukee Bucks,91,98,Seattle Center Coliseum,0,/boxscores/197110160SEA.html
+Sun Oct 17 1971,Portland Trail Blazers,Milwaukee Bucks,94,127,Memorial Coliseum,0,/boxscores/197110170POR.html
+Sun Oct 17 1971,Detroit Pistons,Houston Rockets,112,99,HemisFair Arena,0,/boxscores/197110170DET.html
+Sun Oct 17 1971,Cleveland Cavaliers,New York Knicks,120,121,Cleveland Arena,0,/boxscores/197110170CLE.html
+Tue Oct 19 1971,Buffalo Braves,Los Angeles Lakers,106,123,Buffalo Memorial Auditorium,0,/boxscores/197110190BUF.html
+Tue Oct 19 1971,Cincinnati Royals,Seattle SuperSonics,100,101,Cincinnati Gardens,0,/boxscores/197110190CIN.html
+Tue Oct 19 1971,Milwaukee Bucks,Cleveland Cavaliers,116,82,Milwaukee Arena,0,/boxscores/197110190MIL.html
+Tue Oct 19 1971,New York Knicks,Golden State Warriors,93,84,Madison Square Garden (IV),0,/boxscores/197110190NYK.html
+Tue Oct 19 1971,Portland Trail Blazers,Detroit Pistons,99,101,Memorial Coliseum,0,/boxscores/197110190POR.html
+Tue Oct 19 1971,Boston Celtics,Baltimore Bullets,134,114,Boston Garden,0,/boxscores/197110190BOS.html
+Wed Oct 20 1971,Cleveland Cavaliers,Golden State Warriors,98,115,Cleveland Arena,0,/boxscores/197110200CLE.html
+Wed Oct 20 1971,Philadelphia 76ers,Seattle SuperSonics,100,93,The Spectrum,0,/boxscores/197110200PHI.html
+Wed Oct 20 1971,Chicago Bulls,Houston Rockets,125,110,Heart O' Texas Coliseum,0,/boxscores/197110200CHI.html
+Wed Oct 20 1971,Atlanta Hawks,Los Angeles Lakers,104,126,Alexander Memorial Coliseum,0,/boxscores/197110200ATL.html
+Fri Oct 22 1971,Atlanta Hawks,Boston Celtics,108,115,Alexander Memorial Coliseum,0,/boxscores/197110220ATL.html
+Fri Oct 22 1971,Baltimore Bullets,New York Knicks,87,110,Baltimore Civic Center,0,/boxscores/197110220BAL.html
+Fri Oct 22 1971,Los Angeles Lakers,Chicago Bulls,106,113,The Forum,0,/boxscores/197110220LAL.html
+Fri Oct 22 1971,Milwaukee Bucks,Buffalo Braves,124,105,Milwaukee Arena,0,/boxscores/197110220MIL.html
+Fri Oct 22 1971,Phoenix Suns,Detroit Pistons,109,116,Arizona Veterans Memorial Coliseum,0,/boxscores/197110220PHO.html
+Fri Oct 22 1971,Seattle SuperSonics,Houston Rockets,110,91,Seattle Center Coliseum,0,/boxscores/197110220SEA.html
+Sat Oct 23 1971,Philadelphia 76ers,Milwaukee Bucks,88,110,The Spectrum,0,/boxscores/197110230PHI.html
+Sat Oct 23 1971,Portland Trail Blazers,Cincinnati Royals,104,100,Memorial Coliseum,0,/boxscores/197110230POR.html
+Sat Oct 23 1971,Buffalo Braves,Boston Celtics,98,103,Buffalo Memorial Auditorium,0,/boxscores/197110230BUF.html
+Sat Oct 23 1971,Golden State Warriors,Detroit Pistons,115,109,Oakland-Alameda County Coliseum Arena,0,/boxscores/197110230GSW.html
+Sat Oct 23 1971,Baltimore Bullets,Cleveland Cavaliers,101,109,Cole Field House,0,/boxscores/197110230BAL.html
+Sat Oct 23 1971,New York Knicks,Atlanta Hawks,89,95,Madison Square Garden (IV),0,/boxscores/197110230NYK.html
+Sun Oct 24 1971,Cleveland Cavaliers,Philadelphia 76ers,93,111,Cleveland Arena,0,/boxscores/197110240CLE.html
+Sun Oct 24 1971,Houston Rockets,Los Angeles Lakers,103,113,Astrodome,0,/boxscores/197110240HOU.html
+Sun Oct 24 1971,Phoenix Suns,Chicago Bulls,104,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197110240PHO.html
+Sun Oct 24 1971,Seattle SuperSonics,Cincinnati Royals,119,101,Seattle Center Coliseum,0,/boxscores/197110240SEA.html
+Mon Oct 25 1971,Boston Celtics,Atlanta Hawks,136,116,Boston Garden,0,/boxscores/197110250BOS.html
+Tue Oct 26 1971,Detroit Pistons,Houston Rockets,103,104,Cobo Arena,0,/boxscores/197110260DET.html
+Tue Oct 26 1971,Golden State Warriors,Buffalo Braves,89,91,Oakland-Alameda County Coliseum Arena,0,/boxscores/197110260GSW.html
+Tue Oct 26 1971,Milwaukee Bucks,Baltimore Bullets,120,90,Milwaukee Arena,0,/boxscores/197110260MIL.html
+Tue Oct 26 1971,New York Knicks,Boston Celtics,106,101,Madison Square Garden (IV),0,/boxscores/197110260NYK.html
+Tue Oct 26 1971,Phoenix Suns,Cincinnati Royals,126,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197110260PHO.html
+Tue Oct 26 1971,Portland Trail Blazers,Chicago Bulls,111,123,Memorial Coliseum,0,/boxscores/197110260POR.html
+Wed Oct 27 1971,Philadelphia 76ers,Cleveland Cavaliers,120,106,The Spectrum,0,/boxscores/197110270PHI.html
+Wed Oct 27 1971,Boston Celtics,Houston Rockets,108,97,Boston Garden,0,/boxscores/197110270BOS.html
+Wed Oct 27 1971,Atlanta Hawks,New York Knicks,110,96,Alexander Memorial Coliseum,0,/boxscores/197110270ATL.html
+Wed Oct 27 1971,Baltimore Bullets,Detroit Pistons,128,98,Baltimore Civic Center,0,/boxscores/197110270BAL.html
+Thu Oct 28 1971,New York Knicks,Houston Rockets,112,94,Madison Square Garden (IV),0,/boxscores/197110280NYK.html
+Thu Oct 28 1971,Seattle SuperSonics,Buffalo Braves,106,96,Seattle Center Coliseum,0,/boxscores/197110280SEA.html
+Fri Oct 29 1971,Philadelphia 76ers,Phoenix Suns,135,137,The Spectrum,0,/boxscores/197110290PHI.html
+Fri Oct 29 1971,Portland Trail Blazers,Buffalo Braves,119,120,Memorial Coliseum,0,/boxscores/197110290POR.html
+Fri Oct 29 1971,Los Angeles Lakers,Cincinnati Royals,119,107,The Forum,0,/boxscores/197110290LAL.html
+Fri Oct 29 1971,Detroit Pistons,Baltimore Bullets,119,105,Cobo Arena,0,/boxscores/197110290DET.html
+Fri Oct 29 1971,Cleveland Cavaliers,Atlanta Hawks,97,98,Cleveland Arena,0,/boxscores/197110290CLE.html
+Fri Oct 29 1971,Chicago Bulls,Golden State Warriors,83,99,San Diego Sports Arena,0,/boxscores/197110290CHI.html
+Fri Oct 29 1971,Boston Celtics,Milwaukee Bucks,125,114,Boston Garden,0,/boxscores/197110290BOS.html
+Sat Oct 30 1971,Atlanta Hawks,Detroit Pistons,99,104,Alexander Memorial Coliseum,0,/boxscores/197110300ATL.html
+Sat Oct 30 1971,Baltimore Bullets,Phoenix Suns,101,94,Baltimore Civic Center,0,/boxscores/197110300BAL.html
+Sat Oct 30 1971,Golden State Warriors,Cincinnati Royals,116,112,Oakland-Alameda County Coliseum Arena,0,/boxscores/197110300GSW.html
+Sat Oct 30 1971,New York Knicks,Philadelphia 76ers,101,108,Madison Square Garden (IV),0,/boxscores/197110300NYK.html
+Sat Oct 30 1971,Seattle SuperSonics,Los Angeles Lakers,115,106,Seattle Center Coliseum,0,/boxscores/197110300SEA.html
+Sun Oct 31 1971,Cleveland Cavaliers,Milwaukee Bucks,102,118,Cleveland Arena,0,/boxscores/197110310CLE.html
+Sun Oct 31 1971,Houston Rockets,Buffalo Braves,102,87,Astrohall,0,/boxscores/197110310HOU.html
+Sun Oct 31 1971,Los Angeles Lakers,Golden State Warriors,105,109,The Forum,0,/boxscores/197110310LAL.html

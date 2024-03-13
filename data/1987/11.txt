@@ -1,0 +1,161 @@
+Sat Nov 1 1986,Atlanta Hawks,New Jersey Nets,131,111,Omni Coliseum,13650,/boxscores/198611010ATL.html
+Sat Nov 1 1986,Cleveland Cavaliers,Washington Bullets,113,106,Coliseum at Richfield,14254,/boxscores/198611010CLE.html
+Sat Nov 1 1986,Golden State Warriors,Denver Nuggets,131,109,Oakland-Alameda County Coliseum Arena,10584,/boxscores/198611010GSW.html
+Sat Nov 1 1986,Houston Rockets,Los Angeles Lakers,112,102,The Summit,16016,/boxscores/198611010HOU.html
+Sat Nov 1 1986,Indiana Pacers,Detroit Pistons,92,89,Market Square Arena,16912,/boxscores/198611010IND.html
+Sat Nov 1 1986,Los Angeles Clippers,Phoenix Suns,117,111,Los Angeles Memorial Sports Arena,7805,/boxscores/198611010LAC.html
+Sat Nov 1 1986,Milwaukee Bucks,Boston Celtics,111,105,MECCA Arena,11052,/boxscores/198611010MIL.html
+Sat Nov 1 1986,New York Knicks,Chicago Bulls,103,108,Madison Square Garden (IV),19325,/boxscores/198611010NYK.html
+Sat Nov 1 1986,San Antonio Spurs,Dallas Mavericks,108,105,HemisFair Arena,13340,/boxscores/198611010SAS.html
+Sat Nov 1 1986,Seattle SuperSonics,Sacramento Kings,114,103,Seattle Center Coliseum,6296,/boxscores/198611010SEA.html
+Sat Nov 1 1986,Utah Jazz,Portland Trail Blazers,119,110,Salt Palace,11013,/boxscores/198611010UTA.html
+Sun Nov 2 1986,Cleveland Cavaliers,Chicago Bulls,89,94,Coliseum at Richfield,17540,/boxscores/198611020CLE.html
+Sun Nov 2 1986,Philadelphia 76ers,Atlanta Hawks,113,122,The Spectrum,11468,/boxscores/198611020PHI.html
+Mon Nov 3 1986,Golden State Warriors,New York Knicks,104,95,Oakland-Alameda County Coliseum Arena,9016,/boxscores/198611030GSW.html
+Tue Nov 4 1986,Atlanta Hawks,Milwaukee Bucks,107,98,Omni Coliseum,10762,/boxscores/198611040ATL.html
+Tue Nov 4 1986,Chicago Bulls,San Antonio Spurs,111,104,Chicago Stadium,12282,/boxscores/198611040CHI.html
+Tue Nov 4 1986,Dallas Mavericks,Los Angeles Clippers,118,86,Reunion Arena,16421,/boxscores/198611040DAL.html
+Tue Nov 4 1986,Denver Nuggets,New York Knicks,118,103,McNichols Sports Arena,11383,/boxscores/198611040DEN.html
+Tue Nov 4 1986,Indiana Pacers,Philadelphia 76ers,125,121,Market Square Arena,13887,/boxscores/198611040IND.html
+Tue Nov 4 1986,Phoenix Suns,Portland Trail Blazers,126,120,Arizona Veterans Memorial Coliseum,11624,/boxscores/198611040PHO.html
+Tue Nov 4 1986,Sacramento Kings,Houston Rockets,84,100,ARCO Arena (I),10333,/boxscores/198611040SAC.html
+Tue Nov 4 1986,Seattle SuperSonics,Los Angeles Lakers,96,110,Seattle Center Coliseum,10426,/boxscores/198611040SEA.html
+Tue Nov 4 1986,Washington Bullets,New Jersey Nets,102,101,Capital Centre,9489,/boxscores/198611040WSB.html
+Wed Nov 5 1986,Boston Celtics,Indiana Pacers,133,102,Boston Garden,14890,/boxscores/198611050BOS.html
+Wed Nov 5 1986,Detroit Pistons,Washington Bullets,109,85,Pontiac Silverdome,11252,/boxscores/198611050DET.html
+Wed Nov 5 1986,Golden State Warriors,Portland Trail Blazers,102,92,Oakland-Alameda County Coliseum Arena,7717,/boxscores/198611050GSW.html
+Wed Nov 5 1986,Philadelphia 76ers,Milwaukee Bucks,107,101,The Spectrum,14712,/boxscores/198611050PHI.html
+Wed Nov 5 1986,Utah Jazz,Cleveland Cavaliers,111,95,Salt Palace,11185,/boxscores/198611050UTA.html
+Wed Nov 5 1986,New Jersey Nets,San Antonio Spurs,103,112,Brendan Byrne Arena,6799,/boxscores/198611050NJN.html
+Thu Nov 6 1986,Denver Nuggets,Utah Jazz,135,121,McNichols Sports Arena,8112,/boxscores/198611060DEN.html
+Thu Nov 6 1986,Houston Rockets,Los Angeles Clippers,97,104,The Summit,16016,/boxscores/198611060HOU.html
+Thu Nov 6 1986,Sacramento Kings,New York Knicks,95,106,ARCO Arena (I),10333,/boxscores/198611060SAC.html
+Thu Nov 6 1986,Seattle SuperSonics,Dallas Mavericks,124,147,Seattle Center Coliseum,8363,/boxscores/198611060SEA.html
+Fri Nov 7 1986,Atlanta Hawks,Phoenix Suns,106,86,Omni Coliseum,7061,/boxscores/198611070ATL.html
+Fri Nov 7 1986,Detroit Pistons,Chicago Bulls,115,109,Pontiac Silverdome,17859,/boxscores/198611070DET.html
+Fri Nov 7 1986,Golden State Warriors,Cleveland Cavaliers,114,115,Oakland-Alameda County Coliseum Arena,9436,/boxscores/198611070GSW.html
+Fri Nov 7 1986,Los Angeles Lakers,Denver Nuggets,138,116,The Forum,15872,/boxscores/198611070LAL.html
+Fri Nov 7 1986,Philadelphia 76ers,San Antonio Spurs,114,97,The Spectrum,12564,/boxscores/198611070PHI.html
+Fri Nov 7 1986,Portland Trail Blazers,Dallas Mavericks,120,113,Memorial Coliseum,12666,/boxscores/198611070POR.html
+Fri Nov 7 1986,Washington Bullets,Boston Celtics,86,88,Capital Centre,19375,/boxscores/198611070WSB.html
+Fri Nov 7 1986,New Jersey Nets,Milwaukee Bucks,94,115,Brendan Byrne Arena,8286,/boxscores/198611070NJN.html
+Sat Nov 8 1986,Atlanta Hawks,Washington Bullets,110,91,Omni Coliseum,13929,/boxscores/198611080ATL.html
+Sat Nov 8 1986,Chicago Bulls,Phoenix Suns,101,96,Chicago Stadium,15122,/boxscores/198611080CHI.html
+Sat Nov 8 1986,Houston Rockets,Sacramento Kings,102,90,The Summit,16016,/boxscores/198611080HOU.html
+Sat Nov 8 1986,Indiana Pacers,San Antonio Spurs,130,97,Market Square Arena,14365,/boxscores/198611080IND.html
+Sat Nov 8 1986,Los Angeles Clippers,Cleveland Cavaliers,93,100,Los Angeles Memorial Sports Arena,6340,/boxscores/198611080LAC.html
+Sat Nov 8 1986,Milwaukee Bucks,Detroit Pistons,103,89,MECCA Arena,11052,/boxscores/198611080MIL.html
+Sat Nov 8 1986,Seattle SuperSonics,New York Knicks,105,102,Seattle Center Coliseum,9280,/boxscores/198611080SEA.html
+Sun Nov 9 1986,Los Angeles Lakers,New York Knicks,111,88,The Forum,17505,/boxscores/198611090LAL.html
+Sun Nov 9 1986,Portland Trail Blazers,Philadelphia 76ers,119,125,Memorial Coliseum,12666,/boxscores/198611090POR.html
+Tue Nov 11 1986,Chicago Bulls,Atlanta Hawks,112,110,Chicago Stadium,16877,/boxscores/198611110CHI.html
+Tue Nov 11 1986,Houston Rockets,San Antonio Spurs,116,95,The Summit,16016,/boxscores/198611110HOU.html
+Tue Nov 11 1986,Los Angeles Clippers,Denver Nuggets,115,112,Los Angeles Memorial Sports Arena,5058,/boxscores/198611110LAC.html
+Tue Nov 11 1986,Milwaukee Bucks,Indiana Pacers,102,94,MECCA Arena,10765,/boxscores/198611110MIL.html
+Tue Nov 11 1986,New York Knicks,Phoenix Suns,111,105,Madison Square Garden (IV),10987,/boxscores/198611110NYK.html
+Tue Nov 11 1986,Portland Trail Blazers,Golden State Warriors,126,108,Memorial Coliseum,12666,/boxscores/198611110POR.html
+Tue Nov 11 1986,Sacramento Kings,Cleveland Cavaliers,119,114,ARCO Arena (I),10333,/boxscores/198611110SAC.html
+Tue Nov 11 1986,Seattle SuperSonics,Philadelphia 76ers,114,121,Seattle Center Coliseum,12600,/boxscores/198611110SEA.html
+Tue Nov 11 1986,Utah Jazz,Dallas Mavericks,104,103,Salt Palace,10516,/boxscores/198611110UTA.html
+Tue Nov 11 1986,New Jersey Nets,Boston Celtics,114,110,Brendan Byrne Arena,14720,/boxscores/198611110NJN.html
+Wed Nov 12 1986,Boston Celtics,Milwaukee Bucks,124,116,Boston Garden,14890,/boxscores/198611120BOS.html
+Wed Nov 12 1986,Dallas Mavericks,Houston Rockets,114,85,Reunion Arena,17007,/boxscores/198611120DAL.html
+Wed Nov 12 1986,Denver Nuggets,Sacramento Kings,108,110,McNichols Sports Arena,7225,/boxscores/198611120DEN.html
+Wed Nov 12 1986,Detroit Pistons,Phoenix Suns,108,100,Pontiac Silverdome,10366,/boxscores/198611120DET.html
+Wed Nov 12 1986,Los Angeles Lakers,Seattle SuperSonics,122,97,The Forum,13694,/boxscores/198611120LAL.html
+Wed Nov 12 1986,Washington Bullets,Chicago Bulls,101,99,Capital Centre,15121,/boxscores/198611120WSB.html
+Thu Nov 13 1986,Golden State Warriors,Philadelphia 76ers,112,104,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198611130GSW.html
+Thu Nov 13 1986,San Antonio Spurs,Cleveland Cavaliers,115,102,HemisFair Arena,5335,/boxscores/198611130SAS.html
+Thu Nov 13 1986,Utah Jazz,Los Angeles Clippers,130,113,Salt Palace,11034,/boxscores/198611130UTA.html
+Thu Nov 13 1986,New Jersey Nets,Indiana Pacers,117,120,Brendan Byrne Arena,7709,/boxscores/198611130NJN.html
+Fri Nov 14 1986,Chicago Bulls,Boston Celtics,98,110,Chicago Stadium,18919,/boxscores/198611140CHI.html
+Fri Nov 14 1986,Denver Nuggets,Dallas Mavericks,142,138,McNichols Sports Arena,11707,/boxscores/198611140DEN.html
+Fri Nov 14 1986,Detroit Pistons,Atlanta Hawks,100,105,Pontiac Silverdome,17663,/boxscores/198611140DET.html
+Fri Nov 14 1986,Milwaukee Bucks,New York Knicks,106,103,MECCA Arena,11052,/boxscores/198611140MIL.html
+Fri Nov 14 1986,Phoenix Suns,Philadelphia 76ers,127,97,Arizona Veterans Memorial Coliseum,14519,/boxscores/198611140PHO.html
+Fri Nov 14 1986,Portland Trail Blazers,Los Angeles Clippers,119,109,Memorial Coliseum,12666,/boxscores/198611140POR.html
+Sat Nov 15 1986,Dallas Mavericks,Cleveland Cavaliers,111,96,Reunion Arena,17007,/boxscores/198611150DAL.html
+Sat Nov 15 1986,Detroit Pistons,Boston Celtics,111,118,Pontiac Silverdome,25689,/boxscores/198611150DET.html
+Sat Nov 15 1986,Golden State Warriors,Seattle SuperSonics,121,127,Oakland-Alameda County Coliseum Arena,7655,/boxscores/198611150GSW.html
+Sat Nov 15 1986,Indiana Pacers,Milwaukee Bucks,104,103,Market Square Arena,16255,/boxscores/198611150IND.html
+Sat Nov 15 1986,New York Knicks,Washington Bullets,104,97,Madison Square Garden (IV),14386,/boxscores/198611150NYK.html
+Sat Nov 15 1986,San Antonio Spurs,Phoenix Suns,109,116,HemisFair Arena,6640,/boxscores/198611150SAS.html
+Sat Nov 15 1986,Utah Jazz,Denver Nuggets,111,103,Salt Palace,12212,/boxscores/198611150UTA.html
+Sat Nov 15 1986,New Jersey Nets,Atlanta Hawks,90,109,Brendan Byrne Arena,11745,/boxscores/198611150NJN.html
+Sun Nov 16 1986,Houston Rockets,Cleveland Cavaliers,134,106,The Summit,16016,/boxscores/198611160HOU.html
+Sun Nov 16 1986,Los Angeles Clippers,Philadelphia 76ers,90,103,Los Angeles Memorial Sports Arena,9287,/boxscores/198611160LAC.html
+Sun Nov 16 1986,Los Angeles Lakers,Sacramento Kings,113,111,The Forum,13421,/boxscores/198611160LAL.html
+Sun Nov 16 1986,Portland Trail Blazers,Utah Jazz,124,103,Memorial Coliseum,12666,/boxscores/198611160POR.html
+Sun Nov 16 1986,Washington Bullets,Indiana Pacers,124,111,Capital Centre,6018,/boxscores/198611160WSB.html
+Tue Nov 18 1986,Dallas Mavericks,Los Angeles Lakers,110,114,Reunion Arena,17007,/boxscores/198611180DAL.html
+Tue Nov 18 1986,Denver Nuggets,New Jersey Nets,125,112,McNichols Sports Arena,8471,/boxscores/198611180DEN.html
+Tue Nov 18 1986,Houston Rockets,Portland Trail Blazers,111,115,The Summit,16016,/boxscores/198611180HOU.html
+Tue Nov 18 1986,Los Angeles Clippers,Indiana Pacers,93,98,Los Angeles Memorial Sports Arena,4765,/boxscores/198611180LAC.html
+Tue Nov 18 1986,Milwaukee Bucks,Golden State Warriors,111,85,MECCA Arena,10585,/boxscores/198611180MIL.html
+Tue Nov 18 1986,Seattle SuperSonics,Sacramento Kings,119,105,Seattle Center Coliseum,5411,/boxscores/198611180SEA.html
+Wed Nov 19 1986,Boston Celtics,Atlanta Hawks,111,107,Boston Garden,14890,/boxscores/198611190BOS.html
+Wed Nov 19 1986,Cleveland Cavaliers,Golden State Warriors,104,112,Coliseum at Richfield,8113,/boxscores/198611190CLE.html
+Wed Nov 19 1986,Philadelphia 76ers,New York Knicks,98,94,The Spectrum,12468,/boxscores/198611190PHI.html
+Wed Nov 19 1986,Phoenix Suns,New Jersey Nets,111,101,Arizona Veterans Memorial Coliseum,9651,/boxscores/198611190PHO.html
+Wed Nov 19 1986,San Antonio Spurs,Los Angeles Lakers,108,117,HemisFair Arena,10581,/boxscores/198611190SAS.html
+Wed Nov 19 1986,Washington Bullets,Detroit Pistons,119,105,Capital Centre,8497,/boxscores/198611190WSB.html
+Thu Nov 20 1986,Atlanta Hawks,Cleveland Cavaliers,108,89,Omni Coliseum,8547,/boxscores/198611200ATL.html
+Thu Nov 20 1986,Denver Nuggets,Portland Trail Blazers,142,128,McNichols Sports Arena,8421,/boxscores/198611200DEN.html
+Thu Nov 20 1986,Houston Rockets,Utah Jazz,104,90,The Summit,16016,/boxscores/198611200HOU.html
+Thu Nov 20 1986,Los Angeles Clippers,Dallas Mavericks,108,113,Los Angeles Memorial Sports Arena,5312,/boxscores/198611200LAC.html
+Thu Nov 20 1986,Sacramento Kings,Indiana Pacers,92,83,ARCO Arena (I),10333,/boxscores/198611200SAC.html
+Thu Nov 20 1986,Seattle SuperSonics,Milwaukee Bucks,105,116,Seattle Center Coliseum,8790,/boxscores/198611200SEA.html
+Fri Nov 21 1986,Boston Celtics,Golden State Warriors,135,120,Boston Garden,14890,/boxscores/198611210BOS.html
+Fri Nov 21 1986,Chicago Bulls,New York Knicks,101,99,Chicago Stadium,14328,/boxscores/198611210CHI.html
+Fri Nov 21 1986,Los Angeles Lakers,New Jersey Nets,111,95,The Forum,14918,/boxscores/198611210LAL.html
+Fri Nov 21 1986,Philadelphia 76ers,Detroit Pistons,110,120,The Spectrum,12750,/boxscores/198611210PHI.html
+Fri Nov 21 1986,Phoenix Suns,Dallas Mavericks,122,130,Arizona Veterans Memorial Coliseum,10182,/boxscores/198611210PHO.html
+Fri Nov 21 1986,Portland Trail Blazers,San Antonio Spurs,127,114,Memorial Coliseum,12666,/boxscores/198611210POR.html
+Fri Nov 21 1986,Washington Bullets,Houston Rockets,115,99,Capital Centre,19411,/boxscores/198611210WSB.html
+Sat Nov 22 1986,Atlanta Hawks,Boston Celtics,97,96,Omni Coliseum,16522,/boxscores/198611220ATL.html
+Sat Nov 22 1986,Chicago Bulls,Washington Bullets,93,84,Chicago Stadium,17229,/boxscores/198611220CHI.html
+Sat Nov 22 1986,Denver Nuggets,Phoenix Suns,132,120,McNichols Sports Arena,12817,/boxscores/198611220DEN.html
+Sat Nov 22 1986,Detroit Pistons,Cleveland Cavaliers,93,84,Pontiac Silverdome,12299,/boxscores/198611220DET.html
+Sat Nov 22 1986,Los Angeles Clippers,San Antonio Spurs,102,109,Los Angeles Memorial Sports Arena,4831,/boxscores/198611220LAC.html
+Sat Nov 22 1986,New York Knicks,Golden State Warriors,93,97,Madison Square Garden (IV),12688,/boxscores/198611220NYK.html
+Sat Nov 22 1986,Sacramento Kings,Milwaukee Bucks,99,107,ARCO Arena (I),10333,/boxscores/198611220SAC.html
+Sat Nov 22 1986,Seattle SuperSonics,Indiana Pacers,121,111,Seattle Center Coliseum,6399,/boxscores/198611220SEA.html
+Sat Nov 22 1986,Utah Jazz,New Jersey Nets,96,78,Salt Palace,11732,/boxscores/198611220UTA.html
+Sun Nov 23 1986,Los Angeles Lakers,Milwaukee Bucks,127,117,The Forum,16251,/boxscores/198611230LAL.html
+Sun Nov 23 1986,Philadelphia 76ers,Houston Rockets,114,104,The Spectrum,13169,/boxscores/198611230PHI.html
+Sun Nov 23 1986,Portland Trail Blazers,Indiana Pacers,108,95,Memorial Coliseum,12666,/boxscores/198611230POR.html
+Tue Nov 25 1986,Golden State Warriors,Utah Jazz,111,106,Oakland-Alameda County Coliseum Arena,7594,/boxscores/198611250GSW.html
+Tue Nov 25 1986,Los Angeles Lakers,Atlanta Hawks,107,113,The Forum,17505,/boxscores/198611250LAL.html
+Tue Nov 25 1986,New York Knicks,Houston Rockets,102,93,Madison Square Garden (IV),15243,/boxscores/198611250NYK.html
+Tue Nov 25 1986,Philadelphia 76ers,Boston Celtics,102,100,The Spectrum,17967,/boxscores/198611250PHI.html
+Tue Nov 25 1986,Sacramento Kings,Phoenix Suns,123,102,ARCO Arena (I),10333,/boxscores/198611250SAC.html
+Tue Nov 25 1986,San Antonio Spurs,New Jersey Nets,117,99,HemisFair Arena,5511,/boxscores/198611250SAS.html
+Tue Nov 25 1986,Seattle SuperSonics,Los Angeles Clippers,113,103,Seattle Center Coliseum,4702,/boxscores/198611250SEA.html
+Tue Nov 25 1986,Washington Bullets,Portland Trail Blazers,111,99,Capital Centre,7821,/boxscores/198611250WSB.html
+Wed Nov 26 1986,Boston Celtics,New York Knicks,101,90,Boston Garden,14890,/boxscores/198611260BOS.html
+Wed Nov 26 1986,Cleveland Cavaliers,Portland Trail Blazers,118,114,Coliseum at Richfield,8981,/boxscores/198611260CLE.html
+Wed Nov 26 1986,Dallas Mavericks,Sacramento Kings,129,117,Reunion Arena,16954,/boxscores/198611260DAL.html
+Wed Nov 26 1986,Denver Nuggets,Chicago Bulls,109,107,McNichols Sports Arena,17022,/boxscores/198611260DEN.html
+Wed Nov 26 1986,Indiana Pacers,Houston Rockets,88,92,Market Square Arena,16912,/boxscores/198611260IND.html
+Wed Nov 26 1986,Los Angeles Clippers,Los Angeles Lakers,92,126,Los Angeles Memorial Sports Arena,12110,/boxscores/198611260LAC.html
+Wed Nov 26 1986,Milwaukee Bucks,Washington Bullets,122,103,MECCA Arena,11052,/boxscores/198611260MIL.html
+Wed Nov 26 1986,Phoenix Suns,Atlanta Hawks,120,106,Arizona Veterans Memorial Coliseum,11123,/boxscores/198611260PHO.html
+Wed Nov 26 1986,Utah Jazz,Seattle SuperSonics,127,91,Salt Palace,10512,/boxscores/198611260UTA.html
+Fri Nov 28 1986,Boston Celtics,San Antonio Spurs,111,96,Boston Garden,14890,/boxscores/198611280BOS.html
+Fri Nov 28 1986,Dallas Mavericks,New Jersey Nets,119,94,Reunion Arena,17007,/boxscores/198611280DAL.html
+Fri Nov 28 1986,Detroit Pistons,Milwaukee Bucks,120,99,Pontiac Silverdome,25603,/boxscores/198611280DET.html
+Fri Nov 28 1986,Indiana Pacers,Denver Nuggets,126,102,Market Square Arena,12357,/boxscores/198611280IND.html
+Fri Nov 28 1986,Los Angeles Lakers,Chicago Bulls,110,103,The Forum,17505,/boxscores/198611280LAL.html
+Fri Nov 28 1986,Philadelphia 76ers,Portland Trail Blazers,116,112,The Spectrum,17121,/boxscores/198611280PHI.html
+Fri Nov 28 1986,Phoenix Suns,Seattle SuperSonics,104,117,Arizona Veterans Memorial Coliseum,10462,/boxscores/198611280PHO.html
+Fri Nov 28 1986,Sacramento Kings,Golden State Warriors,97,103,ARCO Arena (I),10333,/boxscores/198611280SAC.html
+Fri Nov 28 1986,Utah Jazz,Atlanta Hawks,88,97,Salt Palace,12212,/boxscores/198611280UTA.html
+Sat Nov 29 1986,Dallas Mavericks,Utah Jazz,118,107,Reunion Arena,17007,/boxscores/198611290DAL.html
+Sat Nov 29 1986,Golden State Warriors,Chicago Bulls,113,106,Oakland-Alameda County Coliseum Arena,15025,/boxscores/198611290GSW.html
+Sat Nov 29 1986,Houston Rockets,New Jersey Nets,97,102,The Summit,16016,/boxscores/198611290HOU.html
+Sat Nov 29 1986,Milwaukee Bucks,Denver Nuggets,131,99,MECCA Arena,11052,/boxscores/198611290MIL.html
+Sat Nov 29 1986,New York Knicks,Cleveland Cavaliers,88,90,Madison Square Garden (IV),14884,/boxscores/198611290NYK.html
+Sat Nov 29 1986,Washington Bullets,San Antonio Spurs,116,103,Capital Centre,9549,/boxscores/198611290WSB.html
+Sun Nov 30 1986,Indiana Pacers,Portland Trail Blazers,101,118,Market Square Arena,8397,/boxscores/198611300IND.html
+Sun Nov 30 1986,Los Angeles Lakers,Los Angeles Clippers,137,115,The Forum,13099,/boxscores/198611300LAL.html
+Sun Nov 30 1986,Sacramento Kings,Atlanta Hawks,109,113,ARCO Arena (I),10333,/boxscores/198611300SAC.html

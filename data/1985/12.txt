@@ -1,0 +1,164 @@
+Sat Dec 1 1984,Cleveland Cavaliers,Boston Celtics,104,110,Coliseum at Richfield,12503,/boxscores/198412010CLE.html
+Sat Dec 1 1984,Denver Nuggets,Utah Jazz,118,111,McNichols Sports Arena,8868,/boxscores/198412010DEN.html
+Sat Dec 1 1984,Houston Rockets,Seattle SuperSonics,86,94,The Summit,12734,/boxscores/198412010HOU.html
+Sat Dec 1 1984,Indiana Pacers,Detroit Pistons,109,131,Market Square Arena,13276,/boxscores/198412010IND.html
+Sat Dec 1 1984,New York Knicks,Portland Trail Blazers,93,115,Madison Square Garden (IV),13644,/boxscores/198412010NYK.html
+Sat Dec 1 1984,Phoenix Suns,Golden State Warriors,115,103,Arizona Veterans Memorial Coliseum,11051,/boxscores/198412010PHO.html
+Sat Dec 1 1984,San Antonio Spurs,Los Angeles Clippers,142,110,HemisFair Arena,7790,/boxscores/198412010SAS.html
+Sat Dec 1 1984,Washington Bullets,Milwaukee Bucks,100,97,Capital Centre,7524,/boxscores/198412010WSB.html
+Sun Dec 2 1984,Boston Celtics,Cleveland Cavaliers,122,99,Boston Garden,14890,/boxscores/198412020BOS.html
+Sun Dec 2 1984,Los Angeles Lakers,Chicago Bulls,112,113,The Forum,15505,/boxscores/198412020LAL.html
+Sun Dec 2 1984,Philadelphia 76ers,New Jersey Nets,114,112,The Spectrum,10451,/boxscores/198412020PHI.html
+Mon Dec 3 1984,Seattle SuperSonics,Phoenix Suns,108,96,Seattle Kingdome,5401,/boxscores/198412030SEA.html
+Tue Dec 4 1984,Chicago Bulls,New Jersey Nets,112,97,Chicago Stadium,6126,/boxscores/198412040CHI.html
+Tue Dec 4 1984,Cleveland Cavaliers,Los Angeles Lakers,112,116,Coliseum at Richfield,11298,/boxscores/198412040CLE.html
+Tue Dec 4 1984,Detroit Pistons,Boston Celtics,104,99,Pontiac Silverdome,19413,/boxscores/198412040DET.html
+Tue Dec 4 1984,Golden State Warriors,Utah Jazz,105,107,Oakland-Alameda County Coliseum Arena,4918,/boxscores/198412040GSW.html
+Tue Dec 4 1984,Houston Rockets,Los Angeles Clippers,100,116,The Summit,11281,/boxscores/198412040HOU.html
+Tue Dec 4 1984,New York Knicks,Denver Nuggets,100,98,Madison Square Garden (IV),8487,/boxscores/198412040NYK.html
+Tue Dec 4 1984,Portland Trail Blazers,Phoenix Suns,112,104,Memorial Coliseum,12666,/boxscores/198412040POR.html
+Tue Dec 4 1984,San Antonio Spurs,Atlanta Hawks,114,106,HemisFair Arena,8044,/boxscores/198412040SAS.html
+Wed Dec 5 1984,Boston Celtics,Denver Nuggets,123,107,Boston Garden,14890,/boxscores/198412050BOS.html
+Wed Dec 5 1984,Dallas Mavericks,Los Angeles Clippers,106,110,Reunion Arena,14882,/boxscores/198412050DAL.html
+Wed Dec 5 1984,Kansas City Kings,Atlanta Hawks,121,100,Kemper Arena,5355,/boxscores/198412050KCK.html
+Wed Dec 5 1984,New Jersey Nets,Los Angeles Lakers,93,104,Brendan Byrne Arena,14532,/boxscores/198412050NJN.html
+Wed Dec 5 1984,Philadelphia 76ers,Milwaukee Bucks,112,111,The Spectrum,9247,/boxscores/198412050PHI.html
+Thu Dec 6 1984,Golden State Warriors,Houston Rockets,114,113,Oakland-Alameda County Coliseum Arena,13295,/boxscores/198412060GSW.html
+Thu Dec 6 1984,Milwaukee Bucks,Detroit Pistons,114,99,MECCA Arena,9925,/boxscores/198412060MIL.html
+Thu Dec 6 1984,New York Knicks,Dallas Mavericks,83,112,Madison Square Garden (IV),8282,/boxscores/198412060NYK.html
+Thu Dec 6 1984,Portland Trail Blazers,San Antonio Spurs,113,96,Memorial Coliseum,12666,/boxscores/198412060POR.html
+Thu Dec 6 1984,Utah Jazz,Seattle SuperSonics,99,106,Salt Palace,9696,/boxscores/198412060UTA.html
+Thu Dec 6 1984,Washington Bullets,Indiana Pacers,111,106,Capital Centre,5012,/boxscores/198412060WSB.html
+Fri Dec 7 1984,Atlanta Hawks,Los Angeles Clippers,101,89,Omni Coliseum,5051,/boxscores/198412070ATL.html
+Fri Dec 7 1984,Chicago Bulls,New York Knicks,95,93,Chicago Stadium,8022,/boxscores/198412070CHI.html
+Fri Dec 7 1984,Detroit Pistons,Denver Nuggets,122,115,Pontiac Silverdome,11427,/boxscores/198412070DET.html
+Fri Dec 7 1984,Philadelphia 76ers,Los Angeles Lakers,122,116,The Spectrum,17921,/boxscores/198412070PHI.html
+Fri Dec 7 1984,Phoenix Suns,Kansas City Kings,121,113,Arizona Veterans Memorial Coliseum,10306,/boxscores/198412070PHO.html
+Fri Dec 7 1984,Seattle SuperSonics,San Antonio Spurs,114,117,Seattle Kingdome,5950,/boxscores/198412070SEA.html
+Sat Dec 8 1984,Chicago Bulls,Dallas Mavericks,99,97,Chicago Stadium,13167,/boxscores/198412080CHI.html
+Sat Dec 8 1984,Cleveland Cavaliers,Denver Nuggets,108,114,Coliseum at Richfield,3943,/boxscores/198412080CLE.html
+Sat Dec 8 1984,Golden State Warriors,Phoenix Suns,98,102,Oakland-Alameda County Coliseum Arena,6192,/boxscores/198412080GSW.html
+Sat Dec 8 1984,Milwaukee Bucks,Indiana Pacers,99,96,MECCA Arena,9289,/boxscores/198412080MIL.html
+Sat Dec 8 1984,New Jersey Nets,Boston Celtics,98,107,Brendan Byrne Arena,15581,/boxscores/198412080NJN.html
+Sat Dec 8 1984,Portland Trail Blazers,Houston Rockets,120,127,Memorial Coliseum,12666,/boxscores/198412080POR.html
+Sat Dec 8 1984,Washington Bullets,Los Angeles Lakers,101,98,Capital Centre,19105,/boxscores/198412080WSB.html
+Sun Dec 9 1984,Boston Celtics,Atlanta Hawks,128,127,Boston Garden,14890,/boxscores/198412090BOS.html
+Sun Dec 9 1984,Los Angeles Clippers,San Antonio Spurs,126,123,Los Angeles Memorial Sports Arena,7092,/boxscores/198412090LAC.html
+Sun Dec 9 1984,Philadelphia 76ers,New York Knicks,110,94,The Spectrum,10891,/boxscores/198412090PHI.html
+Sun Dec 9 1984,Seattle SuperSonics,Houston Rockets,96,90,Tacoma Dome,10865,/boxscores/198412090SEA.html
+Sun Dec 9 1984,Utah Jazz,Kansas City Kings,123,120,Salt Palace,4070,/boxscores/198412090UTA.html
+Mon Dec 10 1984,Indiana Pacers,Atlanta Hawks,98,104,Market Square Arena,6431,/boxscores/198412100IND.html
+Tue Dec 11 1984,Boston Celtics,New Jersey Nets,130,121,Hartford Civic Center,13357,/boxscores/198412110BOS.html
+Tue Dec 11 1984,Chicago Bulls,Detroit Pistons,101,108,Chicago Stadium,16066,/boxscores/198412110CHI.html
+Tue Dec 11 1984,Cleveland Cavaliers,Milwaukee Bucks,106,120,Coliseum at Richfield,3574,/boxscores/198412110CLE.html
+Tue Dec 11 1984,Denver Nuggets,Portland Trail Blazers,123,122,McNichols Sports Arena,8256,/boxscores/198412110DEN.html
+Tue Dec 11 1984,Golden State Warriors,Los Angeles Clippers,104,116,Oakland-Alameda County Coliseum Arena,5806,/boxscores/198412110GSW.html
+Tue Dec 11 1984,Kansas City Kings,San Antonio Spurs,121,120,Kemper Arena,5687,/boxscores/198412110KCK.html
+Tue Dec 11 1984,New York Knicks,Philadelphia 76ers,110,106,Madison Square Garden (IV),16027,/boxscores/198412110NYK.html
+Tue Dec 11 1984,Phoenix Suns,Houston Rockets,120,112,Arizona Veterans Memorial Coliseum,12301,/boxscores/198412110PHO.html
+Tue Dec 11 1984,Washington Bullets,Utah Jazz,82,85,Capital Centre,4782,/boxscores/198412110WSB.html
+Wed Dec 12 1984,Atlanta Hawks,Cleveland Cavaliers,116,99,Lakefront Arena,3082,/boxscores/198412120ATL.html
+Wed Dec 12 1984,Dallas Mavericks,Kansas City Kings,116,107,Reunion Arena,14226,/boxscores/198412120DAL.html
+Wed Dec 12 1984,Detroit Pistons,Chicago Bulls,102,95,Pontiac Silverdome,14016,/boxscores/198412120DET.html
+Wed Dec 12 1984,Los Angeles Lakers,Golden State Warriors,131,107,The Forum,12476,/boxscores/198412120LAL.html
+Wed Dec 12 1984,New Jersey Nets,Milwaukee Bucks,116,109,Brendan Byrne Arena,10936,/boxscores/198412120NJN.html
+Wed Dec 12 1984,Philadelphia 76ers,Boston Celtics,110,107,The Spectrum,17921,/boxscores/198412120PHI.html
+Wed Dec 12 1984,San Antonio Spurs,Denver Nuggets,126,105,HemisFair Arena,7077,/boxscores/198412120SAS.html
+Thu Dec 13 1984,Houston Rockets,Atlanta Hawks,96,93,The Summit,11542,/boxscores/198412130HOU.html
+Thu Dec 13 1984,Los Angeles Clippers,Portland Trail Blazers,106,100,Los Angeles Memorial Sports Arena,8401,/boxscores/198412130LAC.html
+Thu Dec 13 1984,New York Knicks,Utah Jazz,119,115,Madison Square Garden (IV),8108,/boxscores/198412130NYK.html
+Thu Dec 13 1984,Phoenix Suns,Washington Bullets,116,86,Arizona Veterans Memorial Coliseum,10524,/boxscores/198412130PHO.html
+Thu Dec 13 1984,Seattle SuperSonics,Los Angeles Lakers,124,122,Seattle Kingdome,8491,/boxscores/198412130SEA.html
+Fri Dec 14 1984,Boston Celtics,Utah Jazz,117,106,Boston Garden,14890,/boxscores/198412140BOS.html
+Fri Dec 14 1984,Dallas Mavericks,San Antonio Spurs,119,102,Reunion Arena,16537,/boxscores/198412140DAL.html
+Fri Dec 14 1984,Denver Nuggets,Kansas City Kings,117,123,McNichols Sports Arena,6497,/boxscores/198412140DEN.html
+Fri Dec 14 1984,Detroit Pistons,Indiana Pacers,120,96,Pontiac Silverdome,9195,/boxscores/198412140DET.html
+Fri Dec 14 1984,Golden State Warriors,Portland Trail Blazers,105,92,Oakland-Alameda County Coliseum Arena,4858,/boxscores/198412140GSW.html
+Fri Dec 14 1984,Milwaukee Bucks,Philadelphia 76ers,111,115,MECCA Arena,11052,/boxscores/198412140MIL.html
+Fri Dec 14 1984,New Jersey Nets,Chicago Bulls,111,109,Brendan Byrne Arena,14091,/boxscores/198412140NJN.html
+Sat Dec 15 1984,Atlanta Hawks,Boston Celtics,94,101,Omni Coliseum,11808,/boxscores/198412150ATL.html
+Sat Dec 15 1984,Chicago Bulls,Philadelphia 76ers,102,114,Chicago Stadium,16261,/boxscores/198412150CHI.html
+Sat Dec 15 1984,Cleveland Cavaliers,New York Knicks,102,97,Coliseum at Richfield,4717,/boxscores/198412150CLE.html
+Sat Dec 15 1984,Houston Rockets,Dallas Mavericks,117,115,The Summit,12345,/boxscores/198412150HOU.html
+Sat Dec 15 1984,Indiana Pacers,New Jersey Nets,112,100,Market Square Arena,8123,/boxscores/198412150IND.html
+Sat Dec 15 1984,Kansas City Kings,Seattle SuperSonics,110,105,Kemper Arena,5732,/boxscores/198412150KCK.html
+Sat Dec 15 1984,Los Angeles Clippers,Washington Bullets,109,103,Los Angeles Memorial Sports Arena,7741,/boxscores/198412150LAC.html
+Sat Dec 15 1984,San Antonio Spurs,Phoenix Suns,120,111,HemisFair Arena,8413,/boxscores/198412150SAS.html
+Sun Dec 16 1984,Denver Nuggets,Seattle SuperSonics,101,112,McNichols Sports Arena,6108,/boxscores/198412160DEN.html
+Sun Dec 16 1984,Los Angeles Clippers,Golden State Warriors,103,85,Los Angeles Memorial Sports Arena,6862,/boxscores/198412160LAC.html
+Sun Dec 16 1984,Los Angeles Lakers,Washington Bullets,109,101,The Forum,15070,/boxscores/198412160LAL.html
+Sun Dec 16 1984,Milwaukee Bucks,Utah Jazz,115,102,MECCA Arena,8615,/boxscores/198412160MIL.html
+Tue Dec 18 1984,Atlanta Hawks,Los Angeles Lakers,116,117,Omni Coliseum,9844,/boxscores/198412180ATL.html
+Tue Dec 18 1984,Chicago Bulls,Houston Rockets,96,104,Chicago Stadium,18543,/boxscores/198412180CHI.html
+Tue Dec 18 1984,Cleveland Cavaliers,San Antonio Spurs,118,110,Coliseum at Richfield,3730,/boxscores/198412180CLE.html
+Tue Dec 18 1984,Golden State Warriors,Denver Nuggets,122,126,Oakland-Alameda County Coliseum Arena,5309,/boxscores/198412180GSW.html
+Tue Dec 18 1984,Indiana Pacers,Utah Jazz,88,81,Market Square Arena,8666,/boxscores/198412180IND.html
+Tue Dec 18 1984,Kansas City Kings,Phoenix Suns,127,116,Kemper Arena,4499,/boxscores/198412180KCK.html
+Tue Dec 18 1984,Milwaukee Bucks,Dallas Mavericks,110,96,MECCA Arena,8671,/boxscores/198412180MIL.html
+Tue Dec 18 1984,New York Knicks,Boston Celtics,108,126,Madison Square Garden (IV),16798,/boxscores/198412180NYK.html
+Tue Dec 18 1984,Seattle SuperSonics,Portland Trail Blazers,109,99,Seattle Kingdome,7091,/boxscores/198412180SEA.html
+Tue Dec 18 1984,Washington Bullets,New Jersey Nets,104,95,Capital Centre,7111,/boxscores/198412180WSB.html
+Wed Dec 19 1984,Boston Celtics,Milwaukee Bucks,92,107,Boston Garden,14890,/boxscores/198412190BOS.html
+Wed Dec 19 1984,Denver Nuggets,Detroit Pistons,129,148,McNichols Sports Arena,10714,/boxscores/198412190DEN.html
+Wed Dec 19 1984,Houston Rockets,Los Angeles Lakers,116,123,The Summit,16016,/boxscores/198412190HOU.html
+Wed Dec 19 1984,Los Angeles Clippers,Seattle SuperSonics,91,86,Los Angeles Memorial Sports Arena,10542,/boxscores/198412190LAC.html
+Wed Dec 19 1984,New Jersey Nets,Washington Bullets,115,106,Brendan Byrne Arena,10166,/boxscores/198412190NJN.html
+Wed Dec 19 1984,Philadelphia 76ers,San Antonio Spurs,123,118,The Spectrum,12153,/boxscores/198412190PHI.html
+Thu Dec 20 1984,Atlanta Hawks,Chicago Bulls,129,132,Lakefront Arena,5647,/boxscores/198412200ATL.html
+Thu Dec 20 1984,New York Knicks,Cleveland Cavaliers,112,97,Madison Square Garden (IV),8127,/boxscores/198412200NYK.html
+Thu Dec 20 1984,Portland Trail Blazers,Kansas City Kings,113,118,Memorial Coliseum,12666,/boxscores/198412200POR.html
+Thu Dec 20 1984,Utah Jazz,Detroit Pistons,117,116,Salt Palace,8377,/boxscores/198412200UTA.html
+Fri Dec 21 1984,Boston Celtics,Indiana Pacers,117,107,Boston Garden,14890,/boxscores/198412210BOS.html
+Fri Dec 21 1984,Denver Nuggets,Dallas Mavericks,116,93,McNichols Sports Arena,7538,/boxscores/198412210DEN.html
+Fri Dec 21 1984,Golden State Warriors,Seattle SuperSonics,94,91,Oakland-Alameda County Coliseum Arena,4390,/boxscores/198412210GSW.html
+Fri Dec 21 1984,Los Angeles Lakers,Phoenix Suns,119,105,The Forum,14764,/boxscores/198412210LAL.html
+Fri Dec 21 1984,New Jersey Nets,San Antonio Spurs,116,122,Brendan Byrne Arena,10616,/boxscores/198412210NJN.html
+Fri Dec 21 1984,Philadelphia 76ers,Milwaukee Bucks,101,104,The Spectrum,15556,/boxscores/198412210PHI.html
+Fri Dec 21 1984,Washington Bullets,New York Knicks,125,111,Capital Centre,5035,/boxscores/198412210WSB.html
+Sat Dec 22 1984,Atlanta Hawks,Washington Bullets,119,101,Omni Coliseum,8713,/boxscores/198412220ATL.html
+Sat Dec 22 1984,Chicago Bulls,Boston Celtics,110,85,Chicago Stadium,14414,/boxscores/198412220CHI.html
+Sat Dec 22 1984,Houston Rockets,Denver Nuggets,125,107,The Summit,13265,/boxscores/198412220HOU.html
+Sat Dec 22 1984,Indiana Pacers,Cleveland Cavaliers,103,106,Market Square Arena,7938,/boxscores/198412220IND.html
+Sat Dec 22 1984,Kansas City Kings,Detroit Pistons,129,123,Kemper Arena,6190,/boxscores/198412220KCK.html
+Sat Dec 22 1984,Milwaukee Bucks,San Antonio Spurs,101,90,MECCA Arena,9587,/boxscores/198412220MIL.html
+Sat Dec 22 1984,Philadelphia 76ers,New Jersey Nets,107,93,The Spectrum,13011,/boxscores/198412220PHI.html
+Sat Dec 22 1984,Phoenix Suns,Portland Trail Blazers,110,108,Arizona Veterans Memorial Coliseum,11144,/boxscores/198412220PHO.html
+Sat Dec 22 1984,Utah Jazz,Dallas Mavericks,96,113,Salt Palace,8014,/boxscores/198412220UTA.html
+Sun Dec 23 1984,Seattle SuperSonics,Los Angeles Clippers,107,97,Seattle Kingdome,8014,/boxscores/198412230SEA.html
+Tue Dec 25 1984,Cleveland Cavaliers,Atlanta Hawks,109,106,Coliseum at Richfield,4216,/boxscores/198412250CLE.html
+Tue Dec 25 1984,Detroit Pistons,Philadelphia 76ers,108,109,Pontiac Silverdome,20124,/boxscores/198412250DET.html
+Tue Dec 25 1984,New York Knicks,New Jersey Nets,114,120,Madison Square Garden (IV),10581,/boxscores/198412250NYK.html
+Tue Dec 25 1984,Portland Trail Blazers,Golden State Warriors,106,97,Memorial Coliseum,12666,/boxscores/198412250POR.html
+Wed Dec 26 1984,Atlanta Hawks,New York Knicks,117,105,Lakefront Arena,3846,/boxscores/198412260ATL.html
+Wed Dec 26 1984,Dallas Mavericks,Los Angeles Clippers,124,118,Reunion Arena,16859,/boxscores/198412260DAL.html
+Wed Dec 26 1984,Denver Nuggets,San Antonio Spurs,130,119,McNichols Sports Arena,7673,/boxscores/198412260DEN.html
+Wed Dec 26 1984,Los Angeles Lakers,Seattle SuperSonics,101,97,The Forum,15582,/boxscores/198412260LAL.html
+Wed Dec 26 1984,Milwaukee Bucks,Houston Rockets,97,87,MECCA Arena,11052,/boxscores/198412260MIL.html
+Wed Dec 26 1984,New Jersey Nets,Detroit Pistons,112,97,Brendan Byrne Arena,11251,/boxscores/198412260NJN.html
+Wed Dec 26 1984,Phoenix Suns,Boston Celtics,114,119,Arizona Veterans Memorial Coliseum,14660,/boxscores/198412260PHO.html
+Wed Dec 26 1984,Utah Jazz,Kansas City Kings,133,122,Salt Palace,8790,/boxscores/198412260UTA.html
+Wed Dec 26 1984,Washington Bullets,Indiana Pacers,114,89,Capital Centre,5721,/boxscores/198412260WSB.html
+Thu Dec 27 1984,Chicago Bulls,Cleveland Cavaliers,112,108,Chicago Stadium,10551,/boxscores/198412270CHI.html
+Thu Dec 27 1984,Kansas City Kings,Houston Rockets,96,92,Kemper Arena,12986,/boxscores/198412270KCK.html
+Thu Dec 27 1984,Los Angeles Clippers,Boston Celtics,103,118,Los Angeles Memorial Sports Arena,15371,/boxscores/198412270LAC.html
+Thu Dec 27 1984,San Antonio Spurs,Portland Trail Blazers,141,120,HemisFair Arena,7782,/boxscores/198412270SAS.html
+Thu Dec 27 1984,Seattle SuperSonics,Golden State Warriors,98,101,Seattle Kingdome,8440,/boxscores/198412270SEA.html
+Fri Dec 28 1984,Denver Nuggets,Los Angeles Lakers,123,135,McNichols Sports Arena,17022,/boxscores/198412280DEN.html
+Fri Dec 28 1984,Indiana Pacers,Detroit Pistons,110,116,Market Square Arena,13483,/boxscores/198412280IND.html
+Fri Dec 28 1984,New Jersey Nets,New York Knicks,100,97,Brendan Byrne Arena,12837,/boxscores/198412280NJN.html
+Fri Dec 28 1984,Phoenix Suns,Dallas Mavericks,111,125,Arizona Veterans Memorial Coliseum,13534,/boxscores/198412280PHO.html
+Fri Dec 28 1984,Utah Jazz,Philadelphia 76ers,111,114,Salt Palace,12704,/boxscores/198412280UTA.html
+Fri Dec 28 1984,Washington Bullets,Atlanta Hawks,125,111,Capital Centre,7877,/boxscores/198412280WSB.html
+Sat Dec 29 1984,Chicago Bulls,Atlanta Hawks,101,104,Chicago Stadium,12695,/boxscores/198412290CHI.html
+Sat Dec 29 1984,Cleveland Cavaliers,Milwaukee Bucks,102,115,Coliseum at Richfield,6108,/boxscores/198412290CLE.html
+Sat Dec 29 1984,Dallas Mavericks,Utah Jazz,97,99,Reunion Arena,17007,/boxscores/198412290DAL.html
+Sat Dec 29 1984,Detroit Pistons,New Jersey Nets,108,110,Pontiac Silverdome,17271,/boxscores/198412290DET.html
+Sat Dec 29 1984,Golden State Warriors,Philadelphia 76ers,95,109,Oakland-Alameda County Coliseum Arena,13295,/boxscores/198412290GSW.html
+Sat Dec 29 1984,Houston Rockets,Portland Trail Blazers,108,92,The Summit,16016,/boxscores/198412290HOU.html
+Sat Dec 29 1984,Kansas City Kings,Indiana Pacers,115,123,Kemper Arena,5961,/boxscores/198412290KCK.html
+Sat Dec 29 1984,Los Angeles Lakers,Los Angeles Clippers,113,107,The Forum,17505,/boxscores/198412290LAL.html
+Sat Dec 29 1984,New York Knicks,Washington Bullets,108,116,Madison Square Garden (IV),11583,/boxscores/198412290NYK.html
+Sat Dec 29 1984,San Antonio Spurs,Boston Celtics,112,120,HemisFair Arena,15180,/boxscores/198412290SAS.html
+Sat Dec 29 1984,Seattle SuperSonics,Denver Nuggets,108,115,Seattle Kingdome,8003,/boxscores/198412290SEA.html
+Sun Dec 30 1984,Los Angeles Clippers,Phoenix Suns,109,117,Los Angeles Memorial Sports Arena,11019,/boxscores/198412300LAC.html
+Sun Dec 30 1984,Milwaukee Bucks,Boston Celtics,114,98,MECCA Arena,11052,/boxscores/198412300MIL.html

@@ -1,0 +1,32 @@
+Fri Oct 26 1984,Detroit Pistons,Boston Celtics,123,130,Pontiac Silverdome,27563,/boxscores/198410260DET.html
+Fri Oct 26 1984,Chicago Bulls,Washington Bullets,109,93,Chicago Stadium,13913,/boxscores/198410260CHI.html
+Fri Oct 26 1984,Seattle SuperSonics,Utah Jazz,102,94,Seattle Kingdome,7117,/boxscores/198410260SEA.html
+Fri Oct 26 1984,Philadelphia 76ers,Cleveland Cavaliers,111,101,The Spectrum,11892,/boxscores/198410260PHI.html
+Fri Oct 26 1984,New Jersey Nets,Atlanta Hawks,104,119,Brendan Byrne Arena,10061,/boxscores/198410260NJN.html
+Fri Oct 26 1984,Golden State Warriors,Phoenix Suns,114,122,Oakland-Alameda County Coliseum Arena,6547,/boxscores/198410260GSW.html
+Sat Oct 27 1984,Atlanta Hawks,Philadelphia 76ers,108,111,Omni Coliseum,13694,/boxscores/198410270ATL.html
+Sat Oct 27 1984,Cleveland Cavaliers,New Jersey Nets,106,131,Coliseum at Richfield,10280,/boxscores/198410270CLE.html
+Sat Oct 27 1984,Dallas Mavericks,Houston Rockets,111,121,Reunion Arena,17007,/boxscores/198410270DAL.html
+Sat Oct 27 1984,Denver Nuggets,Golden State Warriors,125,121,McNichols Sports Arena,8256,/boxscores/198410270DEN.html
+Sat Oct 27 1984,Indiana Pacers,Washington Bullets,102,104,Market Square Arena,16083,/boxscores/198410270IND.html
+Sat Oct 27 1984,Kansas City Kings,Portland Trail Blazers,119,140,Kemper Arena,11321,/boxscores/198410270KCK.html
+Sat Oct 27 1984,Milwaukee Bucks,Chicago Bulls,108,106,MECCA Arena,11052,/boxscores/198410270MIL.html
+Sat Oct 27 1984,New York Knicks,Detroit Pistons,137,118,Madison Square Garden (IV),16384,/boxscores/198410270NYK.html
+Sat Oct 27 1984,San Antonio Spurs,Los Angeles Lakers,113,112,HemisFair Arena,13508,/boxscores/198410270SAS.html
+Sat Oct 27 1984,Utah Jazz,Los Angeles Clippers,94,103,Salt Palace,8285,/boxscores/198410270UTA.html
+Sun Oct 28 1984,Dallas Mavericks,Los Angeles Lakers,107,96,Reunion Arena,17007,/boxscores/198410280DAL.html
+Sun Oct 28 1984,Seattle SuperSonics,Phoenix Suns,87,102,Tacoma Dome,5361,/boxscores/198410280SEA.html
+Mon Oct 29 1984,Chicago Bulls,Milwaukee Bucks,116,110,Chicago Stadium,9358,/boxscores/198410290CHI.html
+Tue Oct 30 1984,Detroit Pistons,Cleveland Cavaliers,124,107,Pontiac Silverdome,8272,/boxscores/198410300DET.html
+Tue Oct 30 1984,Houston Rockets,Dallas Mavericks,106,84,The Summit,16016,/boxscores/198410300HOU.html
+Tue Oct 30 1984,Kansas City Kings,Chicago Bulls,104,109,Kemper Arena,9391,/boxscores/198410300KCK.html
+Tue Oct 30 1984,Los Angeles Lakers,Golden State Warriors,144,110,The Forum,11545,/boxscores/198410300LAL.html
+Tue Oct 30 1984,New Jersey Nets,Philadelphia 76ers,96,118,Brendan Byrne Arena,12781,/boxscores/198410300NJN.html
+Tue Oct 30 1984,Phoenix Suns,Los Angeles Clippers,99,96,Arizona Veterans Memorial Coliseum,13665,/boxscores/198410300PHO.html
+Tue Oct 30 1984,Portland Trail Blazers,Seattle SuperSonics,115,83,Memorial Coliseum,12666,/boxscores/198410300POR.html
+Tue Oct 30 1984,San Antonio Spurs,Denver Nuggets,126,118,HemisFair Arena,6677,/boxscores/198410300SAS.html
+Tue Oct 30 1984,Utah Jazz,New York Knicks,117,111,Salt Palace,8175,/boxscores/198410300UTA.html
+Tue Oct 30 1984,Washington Bullets,Atlanta Hawks,119,104,Capital Centre,7249,/boxscores/198410300WSB.html
+Wed Oct 31 1984,Boston Celtics,New Jersey Nets,116,105,Boston Garden,14890,/boxscores/198410310BOS.html
+Wed Oct 31 1984,Indiana Pacers,Dallas Mavericks,100,101,Market Square Arena,10633,/boxscores/198410310IND.html
+Wed Oct 31 1984,Milwaukee Bucks,Washington Bullets,105,79,MECCA Arena,7705,/boxscores/198410310MIL.html

@@ -1,0 +1,83 @@
+Sun Apr 1 1979,Boston Celtics,San Antonio Spurs,110,112,Boston Garden,0,/boxscores/197904010BOS.html
+Sun Apr 1 1979,Cleveland Cavaliers,Houston Rockets,114,105,Coliseum at Richfield,0,/boxscores/197904010CLE.html
+Sun Apr 1 1979,Milwaukee Bucks,Portland Trail Blazers,107,109,MECCA Arena,0,/boxscores/197904010MIL.html
+Sun Apr 1 1979,Philadelphia 76ers,Los Angeles Lakers,112,111,The Spectrum,0,/boxscores/197904010PHI.html
+Sun Apr 1 1979,Phoenix Suns,Detroit Pistons,116,105,Arizona Veterans Memorial Coliseum,0,/boxscores/197904010PHO.html
+Sun Apr 1 1979,San Diego Clippers,New York Knicks,126,116,San Diego Sports Arena,0,/boxscores/197904010SDC.html
+Sun Apr 1 1979,Seattle SuperSonics,Golden State Warriors,102,97,Seattle Kingdome,0,/boxscores/197904010SEA.html
+Sun Apr 1 1979,Washington Bullets,Denver Nuggets,105,89,Capital Centre,0,/boxscores/197904010WSB.html
+Sun Apr 1 1979,Atlanta Hawks,New Jersey Nets,109,98,Omni Coliseum,0,/boxscores/197904010ATL.html
+Tue Apr 3 1979,Cleveland Cavaliers,San Antonio Spurs,112,116,Coliseum at Richfield,0,/boxscores/197904030CLE.html
+Tue Apr 3 1979,Portland Trail Blazers,Seattle SuperSonics,106,102,Memorial Coliseum,0,/boxscores/197904030POR.html
+Tue Apr 3 1979,New York Knicks,Houston Rockets,115,116,Madison Square Garden (IV),0,/boxscores/197904030NYK.html
+Tue Apr 3 1979,New Orleans Jazz,Boston Celtics,141,125,Louisiana Superdome,0,/boxscores/197904030NOJ.html
+Tue Apr 3 1979,New Jersey Nets,Denver Nuggets,97,110,Rutgers Athletic Center,0,/boxscores/197904030NJN.html
+Tue Apr 3 1979,Milwaukee Bucks,Washington Bullets,108,112,MECCA Arena,0,/boxscores/197904030MIL.html
+Tue Apr 3 1979,Golden State Warriors,Detroit Pistons,104,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197904030GSW.html
+Tue Apr 3 1979,Chicago Bulls,Los Angeles Lakers,95,97,Chicago Stadium,0,/boxscores/197904030CHI.html
+Wed Apr 4 1979,Kansas City Kings,Los Angeles Lakers,115,111,Kemper Arena,0,/boxscores/197904040KCK.html
+Wed Apr 4 1979,Washington Bullets,Boston Celtics,145,119,Capital Centre,0,/boxscores/197904040WSB.html
+Wed Apr 4 1979,San Diego Clippers,Seattle SuperSonics,107,115,San Diego Sports Arena,0,/boxscores/197904040SDC.html
+Wed Apr 4 1979,San Antonio Spurs,New Jersey Nets,110,103,HemisFair Arena,0,/boxscores/197904040SAS.html
+Wed Apr 4 1979,Philadelphia 76ers,Houston Rockets,121,120,The Spectrum,0,/boxscores/197904040PHI.html
+Wed Apr 4 1979,Atlanta Hawks,Milwaukee Bucks,118,109,Omni Coliseum,0,/boxscores/197904040ATL.html
+Wed Apr 4 1979,Indiana Pacers,Cleveland Cavaliers,102,95,Market Square Arena,0,/boxscores/197904040IND.html
+Wed Apr 4 1979,Phoenix Suns,Portland Trail Blazers,106,95,Arizona Veterans Memorial Coliseum,0,/boxscores/197904040PHO.html
+Thu Apr 5 1979,New Orleans Jazz,Detroit Pistons,104,120,Louisiana Superdome,0,/boxscores/197904050NOJ.html
+Thu Apr 5 1979,New York Knicks,Denver Nuggets,107,114,Madison Square Garden (IV),0,/boxscores/197904050NYK.html
+Fri Apr 6 1979,Golden State Warriors,Portland Trail Blazers,91,87,Oakland-Alameda County Coliseum Arena,0,/boxscores/197904060GSW.html
+Fri Apr 6 1979,Phoenix Suns,San Diego Clippers,118,117,Arizona Veterans Memorial Coliseum,0,/boxscores/197904060PHO.html
+Fri Apr 6 1979,New Orleans Jazz,Milwaukee Bucks,131,140,Louisiana Superdome,0,/boxscores/197904060NOJ.html
+Fri Apr 6 1979,Los Angeles Lakers,Seattle SuperSonics,93,113,The Forum,0,/boxscores/197904060LAL.html
+Fri Apr 6 1979,Kansas City Kings,New Jersey Nets,117,114,Kemper Arena,0,/boxscores/197904060KCK.html
+Fri Apr 6 1979,Indiana Pacers,Philadelphia 76ers,136,118,Market Square Arena,0,/boxscores/197904060IND.html
+Fri Apr 6 1979,Houston Rockets,Cleveland Cavaliers,112,110,The Summit,0,/boxscores/197904060HOU.html
+Fri Apr 6 1979,Detroit Pistons,Atlanta Hawks,96,112,Pontiac Silverdome,0,/boxscores/197904060DET.html
+Fri Apr 6 1979,Chicago Bulls,Washington Bullets,128,114,Chicago Stadium,0,/boxscores/197904060CHI.html
+Fri Apr 6 1979,Boston Celtics,Denver Nuggets,101,107,Boston Garden,0,/boxscores/197904060BOS.html
+Sat Apr 7 1979,San Diego Clippers,Phoenix Suns,120,116,Market Square Arena,0,/boxscores/197904070SDC.html
+Sat Apr 7 1979,Portland Trail Blazers,Los Angeles Lakers,98,99,Memorial Coliseum,0,/boxscores/197904070POR.html
+Sat Apr 7 1979,Houston Rockets,San Antonio Spurs,123,106,The Summit,0,/boxscores/197904070HOU.html
+Sat Apr 7 1979,Atlanta Hawks,Washington Bullets,103,102,Omni Coliseum,0,/boxscores/197904070ATL.html
+Sat Apr 7 1979,New Jersey Nets,Boston Celtics,126,112,Rutgers Athletic Center,0,/boxscores/197904070NJN.html
+Sun Apr 8 1979,Washington Bullets,Houston Rockets,102,112,Louisiana Superdome,0,/boxscores/197904080WSB.html
+Sun Apr 8 1979,San Antonio Spurs,Cleveland Cavaliers,117,101,HemisFair Arena,0,/boxscores/197904080SAS.html
+Sun Apr 8 1979,Philadelphia 76ers,Denver Nuggets,112,111,The Spectrum,0,/boxscores/197904080PHI.html
+Sun Apr 8 1979,Los Angeles Lakers,Phoenix Suns,111,103,The Forum,0,/boxscores/197904080LAL.html
+Sun Apr 8 1979,Indiana Pacers,Kansas City Kings,101,107,Market Square Arena,0,/boxscores/197904080IND.html
+Sun Apr 8 1979,Golden State Warriors,Seattle SuperSonics,89,86,Oakland-Alameda County Coliseum Arena,0,/boxscores/197904080GSW.html
+Sun Apr 8 1979,Detroit Pistons,Chicago Bulls,107,117,Pontiac Silverdome,0,/boxscores/197904080DET.html
+Sun Apr 8 1979,Boston Celtics,New Jersey Nets,127,101,Boston Garden,0,/boxscores/197904080BOS.html
+Tue Apr 10 1979,Denver Nuggets,Los Angeles Lakers,110,105,McNichols Sports Arena,0,/boxscores/197904100DEN.html
+Tue Apr 10 1979,Phoenix Suns,Portland Trail Blazers,107,103,Arizona Veterans Memorial Coliseum,0,/boxscores/197904100PHO.html
+Wed Apr 11 1979,Houston Rockets,Atlanta Hawks,106,109,The Summit,0,/boxscores/197904110HOU.html
+Wed Apr 11 1979,Philadelphia 76ers,New Jersey Nets,122,114,The Spectrum,8846,/boxscores/197904110PHI.html
+Fri Apr 13 1979,Atlanta Hawks,Houston Rockets,100,91,Omni Coliseum,0,/boxscores/197904130ATL.html
+Fri Apr 13 1979,Los Angeles Lakers,Denver Nuggets,121,109,The Forum,0,/boxscores/197904130LAL.html
+Fri Apr 13 1979,New Jersey Nets,Philadelphia 76ers,101,111,Rutgers Athletic Center,9126,/boxscores/197904130NJN.html
+Fri Apr 13 1979,Portland Trail Blazers,Phoenix Suns,96,92,Memorial Coliseum,0,/boxscores/197904130POR.html
+Sun Apr 15 1979,Washington Bullets,Atlanta Hawks,103,89,Capital Centre,0,/boxscores/197904150WSB.html
+Sun Apr 15 1979,San Antonio Spurs,Philadelphia 76ers,119,106,HemisFair Arena,0,/boxscores/197904150SAS.html
+Sun Apr 15 1979,Denver Nuggets,Los Angeles Lakers,111,112,McNichols Sports Arena,0,/boxscores/197904150DEN.html
+Sun Apr 15 1979,Phoenix Suns,Portland Trail Blazers,101,91,Arizona Veterans Memorial Coliseum,0,/boxscores/197904150PHO.html
+Tue Apr 17 1979,Phoenix Suns,Kansas City Kings,102,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197904170PHO.html
+Tue Apr 17 1979,San Antonio Spurs,Philadelphia 76ers,121,120,HemisFair Arena,0,/boxscores/197904170SAS.html
+Tue Apr 17 1979,Seattle SuperSonics,Los Angeles Lakers,112,101,Seattle Kingdome,0,/boxscores/197904170SEA.html
+Tue Apr 17 1979,Washington Bullets,Atlanta Hawks,99,107,Capital Centre,0,/boxscores/197904170WSB.html
+Wed Apr 18 1979,Seattle SuperSonics,Los Angeles Lakers,108,103,Seattle Kingdome,0,/boxscores/197904180SEA.html
+Fri Apr 20 1979,Atlanta Hawks,Washington Bullets,77,89,Omni Coliseum,0,/boxscores/197904200ATL.html
+Fri Apr 20 1979,Kansas City Kings,Phoenix Suns,111,91,Kemper Arena,0,/boxscores/197904200KCK.html
+Fri Apr 20 1979,Los Angeles Lakers,Seattle SuperSonics,118,112,The Forum,0,/boxscores/197904200LAL.html
+Fri Apr 20 1979,Philadelphia 76ers,San Antonio Spurs,123,115,The Spectrum,0,/boxscores/197904200PHI.html
+Sun Apr 22 1979,Atlanta Hawks,Washington Bullets,118,120,Omni Coliseum,0,/boxscores/197904220ATL.html
+Sun Apr 22 1979,Phoenix Suns,Kansas City Kings,108,93,Arizona Veterans Memorial Coliseum,0,/boxscores/197904220PHO.html
+Sun Apr 22 1979,Philadelphia 76ers,San Antonio Spurs,112,115,The Spectrum,0,/boxscores/197904220PHI.html
+Sun Apr 22 1979,Los Angeles Lakers,Seattle SuperSonics,115,117,The Forum,0,/boxscores/197904220LAL.html
+Tue Apr 24 1979,Washington Bullets,Atlanta Hawks,103,107,Capital Centre,0,/boxscores/197904240WSB.html
+Wed Apr 25 1979,Kansas City Kings,Phoenix Suns,94,108,Kemper Arena,0,/boxscores/197904250KCK.html
+Wed Apr 25 1979,Seattle SuperSonics,Los Angeles Lakers,106,100,Seattle Center Coliseum,0,/boxscores/197904250SEA.html
+Thu Apr 26 1979,Atlanta Hawks,Washington Bullets,104,86,Omni Coliseum,0,/boxscores/197904260ATL.html
+Thu Apr 26 1979,San Antonio Spurs,Philadelphia 76ers,97,120,HemisFair Arena,0,/boxscores/197904260SAS.html
+Fri Apr 27 1979,Phoenix Suns,Kansas City Kings,120,99,Arizona Veterans Memorial Coliseum,0,/boxscores/197904270PHO.html
+Sun Apr 29 1979,Philadelphia 76ers,San Antonio Spurs,92,90,The Spectrum,0,/boxscores/197904290PHI.html
+Sun Apr 29 1979,Washington Bullets,Atlanta Hawks,100,94,Capital Centre,0,/boxscores/197904290WSB.html

@@ -1,0 +1,43 @@
+Wed Apr 1 1981,Portland Trail Blazers,Kansas City Kings,97,98,Memorial Coliseum,12666,/boxscores/198104010POR.html
+Wed Apr 1 1981,Los Angeles Lakers,Houston Rockets,107,111,The Forum,15517,/boxscores/198104010LAL.html
+Thu Apr 2 1981,Indiana Pacers,Philadelphia 76ers,85,96,Market Square Arena,8921,/boxscores/198104020IND.html
+Fri Apr 3 1981,Chicago Bulls,New York Knicks,115,114,Chicago Stadium,19901,/boxscores/198104030CHI.html
+Fri Apr 3 1981,Houston Rockets,Los Angeles Lakers,106,111,The Summit,16121,/boxscores/198104030HOU.html
+Fri Apr 3 1981,Kansas City Kings,Portland Trail Blazers,119,124,Kemper Arena,11088,/boxscores/198104030KCK.html
+Sun Apr 5 1981,Boston Celtics,Chicago Bulls,121,109,Boston Garden,15320,/boxscores/198104050BOS.html
+Sun Apr 5 1981,Los Angeles Lakers,Houston Rockets,86,89,The Forum,14813,/boxscores/198104050LAL.html
+Sun Apr 5 1981,Philadelphia 76ers,Milwaukee Bucks,125,122,The Spectrum,9727,/boxscores/198104050PHI.html
+Sun Apr 5 1981,Portland Trail Blazers,Kansas City Kings,95,104,Memorial Coliseum,12666,/boxscores/198104050POR.html
+Tue Apr 7 1981,Phoenix Suns,Kansas City Kings,102,80,Arizona Veterans Memorial Coliseum,12660,/boxscores/198104070PHO.html
+Tue Apr 7 1981,San Antonio Spurs,Houston Rockets,98,107,HemisFair Arena,13319,/boxscores/198104070SAS.html
+Tue Apr 7 1981,Philadelphia 76ers,Milwaukee Bucks,99,109,The Spectrum,15259,/boxscores/198104070PHI.html
+Tue Apr 7 1981,Boston Celtics,Chicago Bulls,106,97,Boston Garden,15320,/boxscores/198104070BOS.html
+Wed Apr 8 1981,Phoenix Suns,Kansas City Kings,83,88,Arizona Veterans Memorial Coliseum,12660,/boxscores/198104080PHO.html
+Wed Apr 8 1981,San Antonio Spurs,Houston Rockets,125,113,HemisFair Arena,12128,/boxscores/198104080SAS.html
+Fri Apr 10 1981,Chicago Bulls,Boston Celtics,107,113,Chicago Stadium,19995,/boxscores/198104100CHI.html
+Fri Apr 10 1981,Houston Rockets,San Antonio Spurs,112,99,The Summit,16121,/boxscores/198104100HOU.html
+Fri Apr 10 1981,Kansas City Kings,Phoenix Suns,93,92,Kemper Arena,13776,/boxscores/198104100KCK.html
+Fri Apr 10 1981,Milwaukee Bucks,Philadelphia 76ers,103,108,MECCA Arena,11052,/boxscores/198104100MIL.html
+Sun Apr 12 1981,Milwaukee Bucks,Philadelphia 76ers,109,98,MECCA Arena,11052,/boxscores/198104120MIL.html
+Sun Apr 12 1981,Houston Rockets,San Antonio Spurs,112,114,The Summit,16121,/boxscores/198104120HOU.html
+Sun Apr 12 1981,Chicago Bulls,Boston Celtics,103,109,Chicago Stadium,18249,/boxscores/198104120CHI.html
+Sun Apr 12 1981,Kansas City Kings,Phoenix Suns,102,95,Kemper Arena,11089,/boxscores/198104120KCK.html
+Tue Apr 14 1981,San Antonio Spurs,Houston Rockets,117,123,HemisFair Arena,16114,/boxscores/198104140SAS.html
+Wed Apr 15 1981,Houston Rockets,San Antonio Spurs,96,101,The Summit,16121,/boxscores/198104150HOU.html
+Wed Apr 15 1981,Philadelphia 76ers,Milwaukee Bucks,116,99,The Spectrum,15384,/boxscores/198104150PHI.html
+Wed Apr 15 1981,Phoenix Suns,Kansas City Kings,101,89,Arizona Veterans Memorial Coliseum,12660,/boxscores/198104150PHO.html
+Fri Apr 17 1981,Kansas City Kings,Phoenix Suns,76,81,Kemper Arena,15232,/boxscores/198104170KCK.html
+Fri Apr 17 1981,Milwaukee Bucks,Philadelphia 76ers,109,86,MECCA Arena,11052,/boxscores/198104170MIL.html
+Fri Apr 17 1981,San Antonio Spurs,Houston Rockets,100,105,HemisFair Arena,16114,/boxscores/198104170SAS.html
+Sun Apr 19 1981,Phoenix Suns,Kansas City Kings,88,95,Arizona Veterans Memorial Coliseum,12660,/boxscores/198104190PHO.html
+Sun Apr 19 1981,Philadelphia 76ers,Milwaukee Bucks,99,98,The Spectrum,6704,/boxscores/198104190PHI.html
+Tue Apr 21 1981,Boston Celtics,Philadelphia 76ers,104,105,Boston Garden,15320,/boxscores/198104210BOS.html
+Tue Apr 21 1981,Kansas City Kings,Houston Rockets,78,97,Kemper Arena,13885,/boxscores/198104210KCK.html
+Wed Apr 22 1981,Boston Celtics,Philadelphia 76ers,118,99,Boston Garden,15320,/boxscores/198104220BOS.html
+Wed Apr 22 1981,Kansas City Kings,Houston Rockets,88,79,Kemper Arena,14326,/boxscores/198104220KCK.html
+Fri Apr 24 1981,Houston Rockets,Kansas City Kings,92,88,The Summit,16121,/boxscores/198104240HOU.html
+Fri Apr 24 1981,Philadelphia 76ers,Boston Celtics,110,100,The Spectrum,18276,/boxscores/198104240PHI.html
+Sun Apr 26 1981,Houston Rockets,Kansas City Kings,100,89,The Summit,16121,/boxscores/198104260HOU.html
+Sun Apr 26 1981,Philadelphia 76ers,Boston Celtics,107,105,The Spectrum,18276,/boxscores/198104260PHI.html
+Wed Apr 29 1981,Boston Celtics,Philadelphia 76ers,111,109,Boston Garden,15320,/boxscores/198104290BOS.html
+Wed Apr 29 1981,Kansas City Kings,Houston Rockets,88,97,Kemper Arena,14640,/boxscores/198104290KCK.html

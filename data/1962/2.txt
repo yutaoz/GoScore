@@ -1,0 +1,82 @@
+Thu Feb 1 1962,Philadelphia Warriors,Cincinnati Royals,130,109,Convention Hall,0,/boxscores/196202010PHW.html
+Thu Feb 1 1962,Boston Celtics,Los Angeles Lakers,130,115,Cole Field House,0,/boxscores/196202010BOS.html
+Fri Feb 2 1962,Boston Celtics,Cincinnati Royals,143,124,Boston Garden,0,/boxscores/196202020BOS.html
+Fri Feb 2 1962,Chicago Packers,Detroit Pistons,112,96,International Amphitheatre,0,/boxscores/196202020CHP.html
+Fri Feb 2 1962,New York Knicks,Philadelphia Warriors,116,129,Boston Garden,0,/boxscores/196202020NYK.html
+Fri Feb 2 1962,St. Louis Hawks,Syracuse Nationals,101,135,Utica Memorial Auditorium,0,/boxscores/196202020STL.html
+Sat Feb 3 1962,Chicago Packers,Detroit Pistons,109,116,St. Louis Arena,0,/boxscores/196202030CHP.html
+Sat Feb 3 1962,New York Knicks,Cincinnati Royals,121,110,Madison Square Garden (III),0,/boxscores/196202030NYK.html
+Sat Feb 3 1962,St. Louis Hawks,Los Angeles Lakers,124,127,St. Louis Arena,0,/boxscores/196202030STL.html
+Sat Feb 3 1962,Syracuse Nationals,Philadelphia Warriors,134,112,Onondaga War Memorial,0,/boxscores/196202030SYR.html
+Sun Feb 4 1962,Chicago Packers,Los Angeles Lakers,113,105,International Amphitheatre,0,/boxscores/196202040CHP.html
+Sun Feb 4 1962,Philadelphia Warriors,Syracuse Nationals,128,117,Convention Hall,0,/boxscores/196202040PHW.html
+Sun Feb 4 1962,Detroit Pistons,St. Louis Hawks,121,113,Cobo Arena,0,/boxscores/196202040DET.html
+Sun Feb 4 1962,Boston Celtics,New York Knicks,130,114,Boston Garden,0,/boxscores/196202040BOS.html
+Mon Feb 5 1962,Chicago Packers,Boston Celtics,111,127,International Amphitheatre,0,/boxscores/196202050CHP.html
+Mon Feb 5 1962,Cincinnati Royals,Los Angeles Lakers,128,134,Mountaineer Field House at West Virginia University,0,/boxscores/196202050CIN.html
+Tue Feb 6 1962,Chicago Packers,Syracuse Nationals,123,127,Madison Square Garden (III),0,/boxscores/196202060CHP.html
+Tue Feb 6 1962,Cincinnati Royals,Detroit Pistons,118,119,Cincinnati Gardens,0,/boxscores/196202060CIN.html
+Tue Feb 6 1962,New York Knicks,Los Angeles Lakers,116,112,Madison Square Garden (III),0,/boxscores/196202060NYK.html
+Tue Feb 6 1962,St. Louis Hawks,Boston Celtics,114,129,Kiel Auditorium,0,/boxscores/196202060STL.html
+Wed Feb 7 1962,Detroit Pistons,Cincinnati Royals,113,107,Cobo Arena,0,/boxscores/196202070DET.html
+Thu Feb 8 1962,Cincinnati Royals,Los Angeles Lakers,113,109,University of Dayton Fieldhouse,0,/boxscores/196202080CIN.html
+Thu Feb 8 1962,Syracuse Nationals,Boston Celtics,122,110,Onondaga War Memorial,0,/boxscores/196202080SYR.html
+Thu Feb 8 1962,New York Knicks,Philadelphia Warriors,120,136,Onondaga War Memorial,0,/boxscores/196202080NYK.html
+Fri Feb 9 1962,Boston Celtics,Philadelphia Warriors,124,126,Boston Garden,0,/boxscores/196202090BOS.html
+Fri Feb 9 1962,New York Knicks,Syracuse Nationals,120,111,Madison Square Garden (III),0,/boxscores/196202090NYK.html
+Sat Feb 10 1962,Chicago Packers,New York Knicks,126,111,Convention Hall,0,/boxscores/196202100CHP.html
+Sat Feb 10 1962,Cincinnati Royals,St. Louis Hawks,134,118,Cincinnati Gardens,0,/boxscores/196202100CIN.html
+Sat Feb 10 1962,Philadelphia Warriors,Boston Celtics,107,106,Convention Hall,0,/boxscores/196202100PHW.html
+Sun Feb 11 1962,Boston Celtics,Chicago Packers,148,115,Boston Garden,0,/boxscores/196202110BOS.html
+Sun Feb 11 1962,New York Knicks,Philadelphia Warriors,111,121,Madison Square Garden (III),0,/boxscores/196202110NYK.html
+Sun Feb 11 1962,St. Louis Hawks,Cincinnati Royals,129,109,Kiel Auditorium,0,/boxscores/196202110STL.html
+Sun Feb 11 1962,Syracuse Nationals,Detroit Pistons,132,116,Onondaga War Memorial,0,/boxscores/196202110SYR.html
+Mon Feb 12 1962,Los Angeles Lakers,St. Louis Hawks,113,117,Los Angeles Memorial Sports Arena,0,/boxscores/196202120LAL.html
+Tue Feb 13 1962,Boston Celtics,Chicago Packers,138,117,Rhode Island Auditorium,0,/boxscores/196202130BOS.html
+Tue Feb 13 1962,Cincinnati Royals,Philadelphia Warriors,152,132,Cincinnati Gardens,0,/boxscores/196202130CIN.html
+Wed Feb 14 1962,Chicago Packers,Cincinnati Royals,125,121,Cobo Arena,0,/boxscores/196202140CHP.html
+Wed Feb 14 1962,Detroit Pistons,Philadelphia Warriors,119,110,Cobo Arena,0,/boxscores/196202140DET.html
+Wed Feb 14 1962,Los Angeles Lakers,St. Louis Hawks,130,107,Los Angeles Memorial Sports Arena,0,/boxscores/196202140LAL.html
+Wed Feb 14 1962,New York Knicks,Boston Celtics,125,112,Madison Square Garden (III),0,/boxscores/196202140NYK.html
+Thu Feb 15 1962,Chicago Packers,Syracuse Nationals,126,121,International Amphitheatre,0,/boxscores/196202150CHP.html
+Fri Feb 16 1962,Boston Celtics,New York Knicks,127,104,Convention Hall,0,/boxscores/196202160BOS.html
+Fri Feb 16 1962,Philadelphia Warriors,Cincinnati Royals,136,132,Convention Hall,0,/boxscores/196202160PHW.html
+Fri Feb 16 1962,Chicago Packers,Syracuse Nationals,106,132,Roberts Stadium,0,/boxscores/196202160CHP.html
+Fri Feb 16 1962,Detroit Pistons,Los Angeles Lakers,127,121,Cobo Arena,0,/boxscores/196202160DET.html
+Sat Feb 17 1962,Chicago Packers,Syracuse Nationals,127,136,Rochester Community War Memorial,0,/boxscores/196202170CHP.html
+Sat Feb 17 1962,Cincinnati Royals,Detroit Pistons,113,123,Onondaga War Memorial,0,/boxscores/196202170CIN.html
+Sat Feb 17 1962,New York Knicks,Los Angeles Lakers,121,128,Madison Square Garden (III),0,/boxscores/196202170NYK.html
+Sat Feb 17 1962,St. Louis Hawks,Philadelphia Warriors,128,121,Kiel Auditorium,0,/boxscores/196202170STL.html
+Sun Feb 18 1962,Chicago Packers,Cincinnati Royals,121,138,Onondaga War Memorial,0,/boxscores/196202180CHP.html
+Sun Feb 18 1962,Detroit Pistons,St. Louis Hawks,119,112,Cobo Arena,0,/boxscores/196202180DET.html
+Sun Feb 18 1962,Los Angeles Lakers,Boston Celtics,125,99,Los Angeles Memorial Sports Arena,0,/boxscores/196202180LAL.html
+Sun Feb 18 1962,Syracuse Nationals,New York Knicks,141,126,Onondaga War Memorial,0,/boxscores/196202180SYR.html
+Tue Feb 20 1962,Chicago Packers,Philadelphia Warriors,107,112,Madison Square Garden (III),0,/boxscores/196202200CHP.html
+Tue Feb 20 1962,Cincinnati Royals,St. Louis Hawks,129,109,Cincinnati Gardens,0,/boxscores/196202200CIN.html
+Tue Feb 20 1962,Los Angeles Lakers,Boston Celtics,96,115,Los Angeles Memorial Sports Arena,0,/boxscores/196202200LAL.html
+Tue Feb 20 1962,New York Knicks,Detroit Pistons,110,103,Madison Square Garden (III),0,/boxscores/196202200NYK.html
+Wed Feb 21 1962,Chicago Packers,Cincinnati Royals,125,153,International Amphitheatre,0,/boxscores/196202210CHP.html
+Wed Feb 21 1962,St. Louis Hawks,Detroit Pistons,123,126,Kiel Auditorium,0,/boxscores/196202210STL.html
+Wed Feb 21 1962,Syracuse Nationals,Philadelphia Warriors,150,109,Onondaga War Memorial,0,/boxscores/196202210SYR.html
+Thu Feb 22 1962,Philadelphia Warriors,St. Louis Hawks,139,121,Convention Hall,0,/boxscores/196202220PHW.html
+Thu Feb 22 1962,Boston Celtics,Syracuse Nationals,134,106,Rhode Island Auditorium,0,/boxscores/196202220BOS.html
+Thu Feb 22 1962,Los Angeles Lakers,New York Knicks,118,116,Convention Hall,0,/boxscores/196202220LAL.html
+Fri Feb 23 1962,Boston Celtics,Syracuse Nationals,121,107,Boston Garden,0,/boxscores/196202230BOS.html
+Fri Feb 23 1962,Chicago Packers,Los Angeles Lakers,117,124,Freedom Hall,0,/boxscores/196202230CHP.html
+Fri Feb 23 1962,Detroit Pistons,Cincinnati Royals,120,134,Cobo Arena,0,/boxscores/196202230DET.html
+Fri Feb 23 1962,New York Knicks,St. Louis Hawks,130,118,Madison Square Garden (III),0,/boxscores/196202230NYK.html
+Sat Feb 24 1962,Chicago Packers,St. Louis Hawks,129,119,International Amphitheatre,0,/boxscores/196202240CHP.html
+Sat Feb 24 1962,Cincinnati Royals,Los Angeles Lakers,118,114,Cincinnati Gardens,0,/boxscores/196202240CIN.html
+Sat Feb 24 1962,New York Knicks,Syracuse Nationals,117,120,Utica Memorial Auditorium,0,/boxscores/196202240NYK.html
+Sat Feb 24 1962,Philadelphia Warriors,Boston Celtics,86,109,Convention Hall,0,/boxscores/196202240PHW.html
+Sun Feb 25 1962,Cincinnati Royals,Chicago Packers,108,105,Cincinnati Gardens,0,/boxscores/196202250CIN.html
+Sun Feb 25 1962,Syracuse Nationals,Boston Celtics,106,110,Onondaga War Memorial,0,/boxscores/196202250SYR.html
+Sun Feb 25 1962,Philadelphia Warriors,New York Knicks,135,149,Convention Hall,0,/boxscores/196202250PHW.html
+Sun Feb 25 1962,Los Angeles Lakers,Detroit Pistons,128,99,Los Angeles Memorial Sports Arena,0,/boxscores/196202250LAL.html
+Tue Feb 27 1962,Boston Celtics,Chicago Packers,115,100,St. Louis Arena,0,/boxscores/196202270BOS.html
+Tue Feb 27 1962,Los Angeles Lakers,Detroit Pistons,107,100,Los Angeles Memorial Sports Arena,0,/boxscores/196202270LAL.html
+Tue Feb 27 1962,New York Knicks,Syracuse Nationals,120,130,Madison Square Garden (III),0,/boxscores/196202270NYK.html
+Tue Feb 27 1962,St. Louis Hawks,Philadelphia Warriors,137,147,St. Louis Arena,0,/boxscores/196202270STL.html
+Wed Feb 28 1962,Chicago Packers,Philadelphia Warriors,119,128,International Amphitheatre,0,/boxscores/196202280CHP.html
+Wed Feb 28 1962,Cincinnati Royals,Boston Celtics,123,129,Cincinnati Gardens,0,/boxscores/196202280CIN.html
+Wed Feb 28 1962,Detroit Pistons,New York Knicks,109,119,International Amphitheatre,0,/boxscores/196202280DET.html

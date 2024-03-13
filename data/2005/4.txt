@@ -1,0 +1,191 @@
+Fri Apr 1 2005,Charlotte Bobcats,Toronto Raptors,107,119,Charlotte Coliseum,13550,/boxscores/200504010CHA.html
+Fri Apr 1 2005,Orlando Magic,Washington Wizards,102,111,TD Waterhouse Centre,14107,/boxscores/200504010ORL.html
+Fri Apr 1 2005,Philadelphia 76ers,Dallas Mavericks,83,100,Wachovia Center,20464,/boxscores/200504010PHI.html
+Fri Apr 1 2005,Atlanta Hawks,Boston Celtics,100,116,Philips Arena,16602,/boxscores/200504010ATL.html
+Fri Apr 1 2005,Cleveland Cavaliers,Sacramento Kings,109,128,Gund Arena,20562,/boxscores/200504010CLE.html
+Fri Apr 1 2005,Detroit Pistons,Los Angeles Clippers,97,84,The Palace of Auburn Hills,22076,/boxscores/200504010DET.html
+Fri Apr 1 2005,New York Knicks,New Jersey Nets,91,93,Madison Square Garden (IV),19763,/boxscores/200504010NYK.html
+Fri Apr 1 2005,Houston Rockets,New Orleans Hornets,73,76,Toyota Center,18148,/boxscores/200504010HOU.html
+Fri Apr 1 2005,Milwaukee Bucks,Memphis Grizzlies,82,93,Bradley Center,14983,/boxscores/200504010MIL.html
+Fri Apr 1 2005,Phoenix Suns,Minnesota Timberwolves,107,98,America West Arena,18422,/boxscores/200504010PHO.html
+Fri Apr 1 2005,Utah Jazz,Golden State Warriors,91,108,Delta Center,18544,/boxscores/200504010UTA.html
+Fri Apr 1 2005,Denver Nuggets,San Antonio Spurs,102,84,Pepsi Center,19730,/boxscores/200504010DEN.html
+Fri Apr 1 2005,Seattle SuperSonics,Portland Trail Blazers,89,87,KeyArena at Seattle Center,17072,/boxscores/200504010SEA.html
+Sat Apr 2 2005,New Jersey Nets,Orlando Magic,102,103,Continental Airlines Arena,15342,/boxscores/200504020NJN.html
+Sat Apr 2 2005,New Orleans Hornets,Miami Heat,99,111,New Orleans Arena,18582,/boxscores/200504020NOH.html
+Sat Apr 2 2005,Chicago Bulls,Charlotte Bobcats,112,97,United Center,22074,/boxscores/200504020CHI.html
+Sat Apr 2 2005,San Antonio Spurs,Los Angeles Lakers,95,94,SBC Center,18797,/boxscores/200504020SAS.html
+Sat Apr 2 2005,Portland Trail Blazers,Denver Nuggets,97,103,Rose Garden Arena,17638,/boxscores/200504020POR.html
+Sun Apr 3 2005,Boston Celtics,Philadelphia 76ers,93,97,FleetCenter,18624,/boxscores/200504030BOS.html
+Sun Apr 3 2005,Washington Wizards,Indiana Pacers,76,79,MCI Center,20173,/boxscores/200504030WAS.html
+Sun Apr 3 2005,Milwaukee Bucks,New York Knicks,106,102,Bradley Center,15201,/boxscores/200504030MIL.html
+Sun Apr 3 2005,Cleveland Cavaliers,Dallas Mavericks,100,80,Gund Arena,20562,/boxscores/200504030CLE.html
+Sun Apr 3 2005,Sacramento Kings,Minnesota Timberwolves,100,112,ARCO Arena (II),17317,/boxscores/200504030SAC.html
+Sun Apr 3 2005,Atlanta Hawks,Los Angeles Clippers,91,111,Philips Arena,11508,/boxscores/200504030ATL.html
+Sun Apr 3 2005,Golden State Warriors,Seattle SuperSonics,101,92,Oakland Arena,17296,/boxscores/200504030GSW.html
+Sun Apr 3 2005,Toronto Raptors,Detroit Pistons,103,113,Air Canada Centre,19800,/boxscores/200504030TOR.html
+Sun Apr 3 2005,Memphis Grizzlies,Los Angeles Lakers,102,82,FedEx Forum,18119,/boxscores/200504030MEM.html
+Sun Apr 3 2005,Houston Rockets,Phoenix Suns,78,91,Toyota Center,18203,/boxscores/200504030HOU.html
+Tue Apr 5 2005,Charlotte Bobcats,Los Angeles Clippers,102,104,Charlotte Coliseum,9580,/boxscores/200504050CHA.html
+Tue Apr 5 2005,Cleveland Cavaliers,New Jersey Nets,80,111,Gund Arena,18668,/boxscores/200504050CLE.html
+Tue Apr 5 2005,Washington Wizards,Boston Celtics,108,116,MCI Center,14902,/boxscores/200504050WAS.html
+Tue Apr 5 2005,Atlanta Hawks,New Orleans Hornets,86,96,Philips Arena,11500,/boxscores/200504050ATL.html
+Tue Apr 5 2005,Miami Heat,Chicago Bulls,104,86,AmericanAirlines Arena,20206,/boxscores/200504050MIA.html
+Tue Apr 5 2005,New York Knicks,Indiana Pacers,79,97,Madison Square Garden (IV),19763,/boxscores/200504050NYK.html
+Tue Apr 5 2005,Memphis Grizzlies,Denver Nuggets,91,94,FedEx Forum,18119,/boxscores/200504050MEM.html
+Tue Apr 5 2005,Dallas Mavericks,Orlando Magic,114,105,American Airlines Center,19969,/boxscores/200504050DAL.html
+Tue Apr 5 2005,Utah Jazz,Portland Trail Blazers,90,79,Delta Center,17443,/boxscores/200504050UTA.html
+Tue Apr 5 2005,Phoenix Suns,Los Angeles Lakers,125,99,America West Arena,18422,/boxscores/200504050PHO.html
+Tue Apr 5 2005,Sacramento Kings,Seattle SuperSonics,122,101,ARCO Arena (II),17317,/boxscores/200504050SAC.html
+Tue Apr 5 2005,Golden State Warriors,Houston Rockets,122,117,Oakland Arena,16638,/boxscores/200504050GSW.html
+Wed Apr 6 2005,Boston Celtics,Milwaukee Bucks,103,97,FleetCenter,17210,/boxscores/200504060BOS.html
+Wed Apr 6 2005,Indiana Pacers,Cleveland Cavaliers,98,77,Conseco Fieldhouse,17260,/boxscores/200504060IND.html
+Wed Apr 6 2005,Orlando Magic,Chicago Bulls,101,102,TD Waterhouse Centre,13847,/boxscores/200504060ORL.html
+Wed Apr 6 2005,Philadelphia 76ers,Charlotte Bobcats,106,103,Wachovia Center,16209,/boxscores/200504060PHI.html
+Wed Apr 6 2005,Toronto Raptors,Memphis Grizzlies,74,104,Air Canada Centre,14964,/boxscores/200504060TOR.html
+Wed Apr 6 2005,Detroit Pistons,Washington Wizards,105,93,The Palace of Auburn Hills,22076,/boxscores/200504060DET.html
+Wed Apr 6 2005,New Orleans Hornets,Denver Nuggets,83,94,New Orleans Arena,14654,/boxscores/200504060NOH.html
+Wed Apr 6 2005,San Antonio Spurs,Los Angeles Clippers,91,82,SBC Center,18797,/boxscores/200504060SAS.html
+Wed Apr 6 2005,Minnesota Timberwolves,Utah Jazz,111,86,Target Center,15022,/boxscores/200504060MIN.html
+Wed Apr 6 2005,Portland Trail Blazers,Golden State Warriors,102,104,Rose Garden Arena,16129,/boxscores/200504060POR.html
+Thu Apr 7 2005,New Jersey Nets,New York Knicks,110,98,Continental Airlines Arena,17533,/boxscores/200504070NJN.html
+Thu Apr 7 2005,Dallas Mavericks,San Antonio Spurs,104,68,American Airlines Center,20418,/boxscores/200504070DAL.html
+Thu Apr 7 2005,Los Angeles Lakers,Houston Rockets,100,114,STAPLES Center,18212,/boxscores/200504070LAL.html
+Fri Apr 8 2005,Orlando Magic,Detroit Pistons,102,114,TD Waterhouse Centre,17283,/boxscores/200504080ORL.html
+Fri Apr 8 2005,Philadelphia 76ers,Cleveland Cavaliers,103,98,Wachovia Center,20800,/boxscores/200504080PHI.html
+Fri Apr 8 2005,Toronto Raptors,Atlanta Hawks,109,101,Air Canada Centre,14352,/boxscores/200504080TOR.html
+Fri Apr 8 2005,Indiana Pacers,Washington Wizards,93,83,Conseco Fieldhouse,18345,/boxscores/200504080IND.html
+Fri Apr 8 2005,Memphis Grizzlies,Miami Heat,97,81,FedEx Forum,18119,/boxscores/200504080MEM.html
+Fri Apr 8 2005,New Orleans Hornets,Utah Jazz,87,98,New Orleans Arena,13860,/boxscores/200504080NOH.html
+Fri Apr 8 2005,New York Knicks,Chicago Bulls,94,102,Madison Square Garden (IV),19763,/boxscores/200504080NYK.html
+Fri Apr 8 2005,Milwaukee Bucks,Charlotte Bobcats,93,75,Bradley Center,15274,/boxscores/200504080MIL.html
+Fri Apr 8 2005,Minnesota Timberwolves,Denver Nuggets,104,107,Target Center,19904,/boxscores/200504080MIN.html
+Fri Apr 8 2005,Portland Trail Blazers,Sacramento Kings,115,119,Rose Garden Arena,17539,/boxscores/200504080POR.html
+Fri Apr 8 2005,Golden State Warriors,Phoenix Suns,127,119,Oakland Arena,20043,/boxscores/200504080GSW.html
+Fri Apr 8 2005,Seattle SuperSonics,Los Angeles Lakers,94,117,KeyArena at Seattle Center,17072,/boxscores/200504080SEA.html
+Sat Apr 9 2005,New Jersey Nets,Boston Celtics,99,86,Continental Airlines Arena,15103,/boxscores/200504090NJN.html
+Sat Apr 9 2005,Atlanta Hawks,Minnesota Timberwolves,105,98,Philips Arena,17583,/boxscores/200504090ATL.html
+Sat Apr 9 2005,Washington Wizards,Philadelphia 76ers,106,112,MCI Center,20173,/boxscores/200504090WAS.html
+Sat Apr 9 2005,Cleveland Cavaliers,Milwaukee Bucks,98,81,Gund Arena,20562,/boxscores/200504090CLE.html
+Sat Apr 9 2005,Chicago Bulls,Toronto Raptors,110,97,United Center,22281,/boxscores/200504090CHI.html
+Sat Apr 9 2005,Dallas Mavericks,Utah Jazz,88,81,American Airlines Center,20387,/boxscores/200504090DAL.html
+Sat Apr 9 2005,Denver Nuggets,Seattle SuperSonics,121,105,Pepsi Center,19751,/boxscores/200504090DEN.html
+Sat Apr 9 2005,Phoenix Suns,Houston Rockets,97,98,America West Arena,18422,/boxscores/200504090PHO.html
+Sat Apr 9 2005,Los Angeles Clippers,San Antonio Spurs,124,125,STAPLES Center,19748,/boxscores/200504090LAC.html
+Sun Apr 10 2005,Miami Heat,Detroit Pistons,72,80,AmericanAirlines Arena,20218,/boxscores/200504100MIA.html
+Sun Apr 10 2005,Indiana Pacers,New York Knicks,112,113,Conseco Fieldhouse,18345,/boxscores/200504100IND.html
+Sun Apr 10 2005,Sacramento Kings,Los Angeles Lakers,124,105,ARCO Arena (II),17317,/boxscores/200504100SAC.html
+Sun Apr 10 2005,New Orleans Hornets,Portland Trail Blazers,81,90,New Orleans Arena,16022,/boxscores/200504100NOH.html
+Sun Apr 10 2005,Memphis Grizzlies,Charlotte Bobcats,102,95,FedEx Forum,16953,/boxscores/200504100MEM.html
+Sun Apr 10 2005,Golden State Warriors,San Antonio Spurs,134,136,Oakland Arena,16324,/boxscores/200504100GSW.html
+Mon Apr 11 2005,Orlando Magic,Cleveland Cavaliers,106,114,TD Waterhouse Centre,13273,/boxscores/200504110ORL.html
+Mon Apr 11 2005,Toronto Raptors,Indiana Pacers,90,94,Air Canada Centre,15104,/boxscores/200504110TOR.html
+Mon Apr 11 2005,Washington Wizards,Milwaukee Bucks,119,112,MCI Center,14205,/boxscores/200504110WAS.html
+Mon Apr 11 2005,Atlanta Hawks,Charlotte Bobcats,105,110,Philips Arena,15042,/boxscores/200504110ATL.html
+Mon Apr 11 2005,Chicago Bulls,Detroit Pistons,84,85,United Center,22233,/boxscores/200504110CHI.html
+Mon Apr 11 2005,Dallas Mavericks,Memphis Grizzlies,110,89,American Airlines Center,20044,/boxscores/200504110DAL.html
+Mon Apr 11 2005,Denver Nuggets,Golden State Warriors,122,106,Pepsi Center,18045,/boxscores/200504110DEN.html
+Mon Apr 11 2005,Seattle SuperSonics,Houston Rockets,78,90,KeyArena at Seattle Center,17072,/boxscores/200504110SEA.html
+Mon Apr 11 2005,Los Angeles Lakers,Phoenix Suns,97,108,STAPLES Center,18997,/boxscores/200504110LAL.html
+Tue Apr 12 2005,Philadelphia 76ers,Boston Celtics,98,105,Wachovia Center,17609,/boxscores/200504120PHI.html
+Tue Apr 12 2005,New York Knicks,Toronto Raptors,93,105,Madison Square Garden (IV),18907,/boxscores/200504120NYK.html
+Tue Apr 12 2005,San Antonio Spurs,Portland Trail Blazers,95,89,SBC Center,18797,/boxscores/200504120SAS.html
+Tue Apr 12 2005,Phoenix Suns,New Orleans Hornets,99,85,America West Arena,17616,/boxscores/200504120PHO.html
+Tue Apr 12 2005,Los Angeles Clippers,Utah Jazz,94,85,STAPLES Center,18697,/boxscores/200504120LAC.html
+Wed Apr 13 2005,Charlotte Bobcats,Atlanta Hawks,105,84,Charlotte Coliseum,10894,/boxscores/200504130CHA.html
+Wed Apr 13 2005,Detroit Pistons,Orlando Magic,103,94,The Palace of Auburn Hills,22076,/boxscores/200504130DET.html
+Wed Apr 13 2005,Indiana Pacers,New Jersey Nets,90,86,Conseco Fieldhouse,17901,/boxscores/200504130IND.html
+Wed Apr 13 2005,Milwaukee Bucks,Boston Celtics,108,111,Bradley Center,13547,/boxscores/200504130MIL.html
+Wed Apr 13 2005,Minnesota Timberwolves,Golden State Warriors,116,100,Target Center,15239,/boxscores/200504130MIN.html
+Wed Apr 13 2005,Washington Wizards,Chicago Bulls,93,82,MCI Center,18181,/boxscores/200504130WAS.html
+Wed Apr 13 2005,Houston Rockets,Memphis Grizzlies,100,92,Toyota Center,17060,/boxscores/200504130HOU.html
+Wed Apr 13 2005,Denver Nuggets,New Orleans Hornets,116,102,Pepsi Center,17316,/boxscores/200504130DEN.html
+Wed Apr 13 2005,Utah Jazz,San Antonio Spurs,93,91,Delta Center,17014,/boxscores/200504130UTA.html
+Wed Apr 13 2005,Seattle SuperSonics,Dallas Mavericks,90,95,KeyArena at Seattle Center,16502,/boxscores/200504130SEA.html
+Thu Apr 14 2005,Cleveland Cavaliers,New York Knicks,89,95,Gund Arena,20562,/boxscores/200504140CLE.html
+Thu Apr 14 2005,Philadelphia 76ers,Miami Heat,126,119,Wachovia Center,20754,/boxscores/200504140PHI.html
+Thu Apr 14 2005,Portland Trail Blazers,Dallas Mavericks,90,102,Rose Garden Arena,17074,/boxscores/200504140POR.html
+Fri Apr 15 2005,Toronto Raptors,New Jersey Nets,90,101,Air Canada Centre,19800,/boxscores/200504150TOR.html
+Fri Apr 15 2005,Boston Celtics,Miami Heat,101,99,FleetCenter,18624,/boxscores/200504150BOS.html
+Fri Apr 15 2005,Detroit Pistons,Milwaukee Bucks,99,73,The Palace of Auburn Hills,22076,/boxscores/200504150DET.html
+Fri Apr 15 2005,Indiana Pacers,Philadelphia 76ers,86,90,Conseco Fieldhouse,18345,/boxscores/200504150IND.html
+Fri Apr 15 2005,Washington Wizards,Cleveland Cavaliers,119,111,MCI Center,20173,/boxscores/200504150WAS.html
+Fri Apr 15 2005,Chicago Bulls,Orlando Magic,117,77,United Center,22442,/boxscores/200504150CHI.html
+Fri Apr 15 2005,Denver Nuggets,Memphis Grizzlies,111,102,Pepsi Center,19735,/boxscores/200504150DEN.html
+Fri Apr 15 2005,Utah Jazz,Minnesota Timberwolves,84,100,Delta Center,18817,/boxscores/200504150UTA.html
+Fri Apr 15 2005,Phoenix Suns,Los Angeles Clippers,98,91,America West Arena,18422,/boxscores/200504150PHO.html
+Fri Apr 15 2005,Golden State Warriors,Portland Trail Blazers,108,88,Oakland Arena,16389,/boxscores/200504150GSW.html
+Fri Apr 15 2005,Los Angeles Lakers,Sacramento Kings,106,115,STAPLES Center,18997,/boxscores/200504150LAL.html
+Fri Apr 15 2005,Seattle SuperSonics,New Orleans Hornets,97,72,KeyArena at Seattle Center,17072,/boxscores/200504150SEA.html
+Sat Apr 16 2005,Charlotte Bobcats,New York Knicks,98,100,Charlotte Coliseum,17615,/boxscores/200504160CHA.html
+Sat Apr 16 2005,Atlanta Hawks,Chicago Bulls,105,114,Philips Arena,19445,/boxscores/200504160ATL.html
+Sat Apr 16 2005,Houston Rockets,Denver Nuggets,115,87,Toyota Center,18216,/boxscores/200504160HOU.html
+Sat Apr 16 2005,Milwaukee Bucks,Orlando Magic,113,103,Bradley Center,17516,/boxscores/200504160MIL.html
+Sat Apr 16 2005,San Antonio Spurs,Memphis Grizzlies,97,75,SBC Center,18797,/boxscores/200504160SAS.html
+Sat Apr 16 2005,Phoenix Suns,Sacramento Kings,116,98,America West Arena,18422,/boxscores/200504160PHO.html
+Sat Apr 16 2005,Los Angeles Clippers,New Orleans Hornets,94,89,STAPLES Center,19060,/boxscores/200504160LAC.html
+Sun Apr 17 2005,Detroit Pistons,Cleveland Cavaliers,90,87,The Palace of Auburn Hills,22076,/boxscores/200504170DET.html
+Sun Apr 17 2005,Washington Wizards,Charlotte Bobcats,106,104,MCI Center,17117,/boxscores/200504170WAS.html
+Sun Apr 17 2005,Los Angeles Lakers,Dallas Mavericks,112,114,STAPLES Center,18237,/boxscores/200504170LAL.html
+Sun Apr 17 2005,Miami Heat,Indiana Pacers,84,80,AmericanAirlines Arena,20187,/boxscores/200504170MIA.html
+Sun Apr 17 2005,Minnesota Timberwolves,Seattle SuperSonics,94,109,Target Center,17779,/boxscores/200504170MIN.html
+Sun Apr 17 2005,New Jersey Nets,Philadelphia 76ers,104,83,Continental Airlines Arena,20174,/boxscores/200504170NJN.html
+Sun Apr 17 2005,Toronto Raptors,Boston Celtics,98,103,Air Canada Centre,18797,/boxscores/200504170TOR.html
+Sun Apr 17 2005,New York Knicks,Atlanta Hawks,135,139,Madison Square Garden (IV),19763,/boxscores/200504170NYK.html
+Sun Apr 17 2005,Portland Trail Blazers,Utah Jazz,100,82,Rose Garden Arena,18842,/boxscores/200504170POR.html
+Mon Apr 18 2005,Orlando Magic,Indiana Pacers,92,88,TD Waterhouse Centre,13526,/boxscores/200504180ORL.html
+Mon Apr 18 2005,Philadelphia 76ers,Milwaukee Bucks,122,106,Wachovia Center,17605,/boxscores/200504180PHI.html
+Mon Apr 18 2005,Memphis Grizzlies,San Antonio Spurs,94,92,FedEx Forum,17183,/boxscores/200504180MEM.html
+Mon Apr 18 2005,New Orleans Hornets,Minnesota Timberwolves,99,102,New Orleans Arena,15234,/boxscores/200504180NOH.html
+Mon Apr 18 2005,Houston Rockets,Los Angeles Clippers,115,90,Toyota Center,16582,/boxscores/200504180HOU.html
+Mon Apr 18 2005,Utah Jazz,Sacramento Kings,92,82,Delta Center,18603,/boxscores/200504180UTA.html
+Mon Apr 18 2005,Phoenix Suns,Denver Nuggets,128,114,America West Arena,18422,/boxscores/200504180PHO.html
+Mon Apr 18 2005,Golden State Warriors,Los Angeles Lakers,126,99,Oakland Arena,20024,/boxscores/200504180GSW.html
+Tue Apr 19 2005,Cleveland Cavaliers,Boston Celtics,100,86,Gund Arena,20562,/boxscores/200504190CLE.html
+Tue Apr 19 2005,Atlanta Hawks,Detroit Pistons,68,95,Philips Arena,19445,/boxscores/200504190ATL.html
+Tue Apr 19 2005,Miami Heat,Charlotte Bobcats,99,80,AmericanAirlines Arena,19858,/boxscores/200504190MIA.html
+Tue Apr 19 2005,New Jersey Nets,Washington Wizards,109,101,Continental Airlines Arena,16717,/boxscores/200504190NJN.html
+Tue Apr 19 2005,Milwaukee Bucks,Toronto Raptors,109,127,Bradley Center,13947,/boxscores/200504190MIL.html
+Tue Apr 19 2005,Chicago Bulls,New York Knicks,92,91,United Center,22276,/boxscores/200504190CHI.html
+Tue Apr 19 2005,Dallas Mavericks,Seattle SuperSonics,101,96,American Airlines Center,20534,/boxscores/200504190DAL.html
+Tue Apr 19 2005,Denver Nuggets,Portland Trail Blazers,119,115,Pepsi Center,19099,/boxscores/200504190DEN.html
+Wed Apr 20 2005,Boston Celtics,New Jersey Nets,93,102,FleetCenter,18624,/boxscores/200504200BOS.html
+Wed Apr 20 2005,Charlotte Bobcats,Detroit Pistons,97,86,Charlotte Coliseum,18014,/boxscores/200504200CHA.html
+Wed Apr 20 2005,Orlando Magic,Miami Heat,93,98,TD Waterhouse Centre,16812,/boxscores/200504200ORL.html
+Wed Apr 20 2005,Philadelphia 76ers,Atlanta Hawks,110,86,Wachovia Center,19840,/boxscores/200504200PHI.html
+Wed Apr 20 2005,Toronto Raptors,Cleveland Cavaliers,95,104,Air Canada Centre,19800,/boxscores/200504200TOR.html
+Wed Apr 20 2005,New York Knicks,Washington Wizards,113,105,Madison Square Garden (IV),19763,/boxscores/200504200NYK.html
+Wed Apr 20 2005,Indiana Pacers,Chicago Bulls,85,83,Conseco Fieldhouse,18345,/boxscores/200504200IND.html
+Wed Apr 20 2005,Memphis Grizzlies,Dallas Mavericks,88,108,FedEx Forum,16512,/boxscores/200504200MEM.html
+Wed Apr 20 2005,Minnesota Timberwolves,San Antonio Spurs,95,73,Target Center,18122,/boxscores/200504200MIN.html
+Wed Apr 20 2005,New Orleans Hornets,Los Angeles Clippers,75,86,New Orleans Arena,15982,/boxscores/200504200NOH.html
+Wed Apr 20 2005,Houston Rockets,Seattle SuperSonics,106,78,Toyota Center,18194,/boxscores/200504200HOU.html
+Wed Apr 20 2005,Portland Trail Blazers,Los Angeles Lakers,106,103,Rose Garden Arena,19818,/boxscores/200504200POR.html
+Wed Apr 20 2005,Golden State Warriors,Utah Jazz,106,89,Oakland Arena,16804,/boxscores/200504200GSW.html
+Wed Apr 20 2005,Sacramento Kings,Phoenix Suns,132,107,ARCO Arena (II),17317,/boxscores/200504200SAC.html
+Sat Apr 23 2005,Detroit Pistons,Philadelphia 76ers,106,85,The Palace of Auburn Hills,22076,/boxscores/200504230DET.html
+Sat Apr 23 2005,Dallas Mavericks,Houston Rockets,86,98,American Airlines Center,20768,/boxscores/200504230DAL.html
+Sat Apr 23 2005,Boston Celtics,Indiana Pacers,102,82,FleetCenter,18624,/boxscores/200504230BOS.html
+Sat Apr 23 2005,Seattle SuperSonics,Sacramento Kings,87,82,KeyArena at Seattle Center,17072,/boxscores/200504230SEA.html
+Sun Apr 24 2005,Miami Heat,New Jersey Nets,116,98,AmericanAirlines Arena,20212,/boxscores/200504240MIA.html
+Sun Apr 24 2005,Chicago Bulls,Washington Wizards,103,94,United Center,22655,/boxscores/200504240CHI.html
+Sun Apr 24 2005,San Antonio Spurs,Denver Nuggets,87,93,SBC Center,18797,/boxscores/200504240SAS.html
+Sun Apr 24 2005,Phoenix Suns,Memphis Grizzlies,114,103,America West Arena,18422,/boxscores/200504240PHO.html
+Mon Apr 25 2005,Boston Celtics,Indiana Pacers,79,82,FleetCenter,18624,/boxscores/200504250BOS.html
+Mon Apr 25 2005,Dallas Mavericks,Houston Rockets,111,113,American Airlines Center,20884,/boxscores/200504250DAL.html
+Tue Apr 26 2005,Detroit Pistons,Philadelphia 76ers,99,84,The Palace of Auburn Hills,22076,/boxscores/200504260DET.html
+Tue Apr 26 2005,Miami Heat,New Jersey Nets,104,87,AmericanAirlines Arena,20276,/boxscores/200504260MIA.html
+Tue Apr 26 2005,Seattle SuperSonics,Sacramento Kings,105,93,KeyArena at Seattle Center,17072,/boxscores/200504260SEA.html
+Wed Apr 27 2005,San Antonio Spurs,Denver Nuggets,104,76,SBC Center,18797,/boxscores/200504270SAS.html
+Wed Apr 27 2005,Chicago Bulls,Washington Wizards,113,103,United Center,22605,/boxscores/200504270CHI.html
+Wed Apr 27 2005,Phoenix Suns,Memphis Grizzlies,108,103,America West Arena,18422,/boxscores/200504270PHO.html
+Thu Apr 28 2005,New Jersey Nets,Miami Heat,105,108,Continental Airlines Arena,20174,/boxscores/200504280NJN.html
+Thu Apr 28 2005,Indiana Pacers,Boston Celtics,99,76,Conseco Fieldhouse,18345,/boxscores/200504280IND.html
+Thu Apr 28 2005,Houston Rockets,Dallas Mavericks,102,106,Toyota Center,18199,/boxscores/200504280HOU.html
+Fri Apr 29 2005,Philadelphia 76ers,Detroit Pistons,115,104,Wachovia Center,16907,/boxscores/200504290PHI.html
+Fri Apr 29 2005,Memphis Grizzlies,Phoenix Suns,90,110,FedEx Forum,18119,/boxscores/200504290MEM.html
+Fri Apr 29 2005,Sacramento Kings,Seattle SuperSonics,116,104,ARCO Arena (II),17317,/boxscores/200504290SAC.html
+Sat Apr 30 2005,Washington Wizards,Chicago Bulls,117,99,MCI Center,20173,/boxscores/200504300WAS.html
+Sat Apr 30 2005,Houston Rockets,Dallas Mavericks,93,97,Toyota Center,18211,/boxscores/200504300HOU.html
+Sat Apr 30 2005,Indiana Pacers,Boston Celtics,79,110,Conseco Fieldhouse,18345,/boxscores/200504300IND.html
+Sat Apr 30 2005,Denver Nuggets,San Antonio Spurs,78,86,Pepsi Center,19913,/boxscores/200504300DEN.html

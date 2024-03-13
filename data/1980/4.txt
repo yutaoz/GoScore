@@ -1,0 +1,42 @@
+Wed Apr 2 1980,Philadelphia 76ers,Washington Bullets,111,96,The Spectrum,0,/boxscores/198004020PHI.html
+Wed Apr 2 1980,Houston Rockets,San Antonio Spurs,95,85,The Summit,0,/boxscores/198004020HOU.html
+Wed Apr 2 1980,Seattle SuperSonics,Portland Trail Blazers,120,110,Seattle Kingdome,0,/boxscores/198004020SEA.html
+Wed Apr 2 1980,Phoenix Suns,Kansas City Kings,96,93,Arizona Veterans Memorial Coliseum,0,/boxscores/198004020PHO.html
+Fri Apr 4 1980,Kansas City Kings,Phoenix Suns,106,96,Kemper Arena,0,/boxscores/198004040KCK.html
+Fri Apr 4 1980,Portland Trail Blazers,Seattle SuperSonics,105,95,Memorial Coliseum,0,/boxscores/198004040POR.html
+Fri Apr 4 1980,San Antonio Spurs,Houston Rockets,106,101,HemisFair Arena,0,/boxscores/198004040SAS.html
+Fri Apr 4 1980,Washington Bullets,Philadelphia 76ers,104,112,Capital Centre,0,/boxscores/198004040WSB.html
+Sun Apr 6 1980,Seattle SuperSonics,Portland Trail Blazers,103,86,Seattle Kingdome,0,/boxscores/198004060SEA.html
+Sun Apr 6 1980,Phoenix Suns,Kansas City Kings,114,99,Arizona Veterans Memorial Coliseum,0,/boxscores/198004060PHO.html
+Sun Apr 6 1980,Philadelphia 76ers,Atlanta Hawks,107,104,The Spectrum,0,/boxscores/198004060PHI.html
+Sun Apr 6 1980,Houston Rockets,San Antonio Spurs,141,120,The Summit,0,/boxscores/198004060HOU.html
+Tue Apr 8 1980,Los Angeles Lakers,Phoenix Suns,119,110,The Forum,0,/boxscores/198004080LAL.html
+Tue Apr 8 1980,Seattle SuperSonics,Milwaukee Bucks,114,113,Seattle Center Coliseum,0,/boxscores/198004080SEA.html
+Wed Apr 9 1980,Boston Celtics,Houston Rockets,119,101,Boston Garden,15320,/boxscores/198004090BOS.html
+Wed Apr 9 1980,Los Angeles Lakers,Phoenix Suns,131,128,The Forum,0,/boxscores/198004090LAL.html
+Wed Apr 9 1980,Philadelphia 76ers,Atlanta Hawks,99,92,The Spectrum,0,/boxscores/198004090PHI.html
+Wed Apr 9 1980,Seattle SuperSonics,Milwaukee Bucks,112,114,Seattle Center Coliseum,0,/boxscores/198004090SEA.html
+Thu Apr 10 1980,Atlanta Hawks,Philadelphia 76ers,105,93,Omni Coliseum,0,/boxscores/198004100ATL.html
+Fri Apr 11 1980,Phoenix Suns,Los Angeles Lakers,105,108,Arizona Veterans Memorial Coliseum,0,/boxscores/198004110PHO.html
+Fri Apr 11 1980,Boston Celtics,Houston Rockets,95,75,Boston Garden,15320,/boxscores/198004110BOS.html
+Fri Apr 11 1980,Milwaukee Bucks,Seattle SuperSonics,95,91,MECCA Arena,0,/boxscores/198004110MIL.html
+Sun Apr 13 1980,Atlanta Hawks,Philadelphia 76ers,83,107,Omni Coliseum,0,/boxscores/198004130ATL.html
+Sun Apr 13 1980,Houston Rockets,Boston Celtics,81,100,The Summit,14243,/boxscores/198004130HOU.html
+Sun Apr 13 1980,Milwaukee Bucks,Seattle SuperSonics,107,112,MECCA Arena,0,/boxscores/198004130MIL.html
+Sun Apr 13 1980,Phoenix Suns,Los Angeles Lakers,127,101,Arizona Veterans Memorial Coliseum,0,/boxscores/198004130PHO.html
+Mon Apr 14 1980,Houston Rockets,Boston Celtics,121,138,The Summit,0,/boxscores/198004140HOU.html
+Tue Apr 15 1980,Los Angeles Lakers,Phoenix Suns,126,101,The Forum,0,/boxscores/198004150LAL.html
+Tue Apr 15 1980,Philadelphia 76ers,Atlanta Hawks,105,100,The Spectrum,0,/boxscores/198004150PHI.html
+Tue Apr 15 1980,Seattle SuperSonics,Milwaukee Bucks,97,108,Seattle Center Coliseum,0,/boxscores/198004150SEA.html
+Fri Apr 18 1980,Milwaukee Bucks,Seattle SuperSonics,85,86,MECCA Arena,0,/boxscores/198004180MIL.html
+Fri Apr 18 1980,Boston Celtics,Philadelphia 76ers,93,96,Boston Garden,15320,/boxscores/198004180BOS.html
+Sun Apr 20 1980,Boston Celtics,Philadelphia 76ers,96,90,Boston Garden,15320,/boxscores/198004200BOS.html
+Sun Apr 20 1980,Seattle SuperSonics,Milwaukee Bucks,98,94,Seattle Center Coliseum,0,/boxscores/198004200SEA.html
+Tue Apr 22 1980,Los Angeles Lakers,Seattle SuperSonics,107,108,The Forum,0,/boxscores/198004220LAL.html
+Wed Apr 23 1980,Los Angeles Lakers,Seattle SuperSonics,108,99,The Forum,0,/boxscores/198004230LAL.html
+Wed Apr 23 1980,Philadelphia 76ers,Boston Celtics,99,97,The Spectrum,0,/boxscores/198004230PHI.html
+Fri Apr 25 1980,Philadelphia 76ers,Boston Celtics,102,90,The Spectrum,0,/boxscores/198004250PHI.html
+Fri Apr 25 1980,Seattle SuperSonics,Los Angeles Lakers,100,104,Hec Edmunson Pavilion,0,/boxscores/198004250SEA.html
+Sun Apr 27 1980,Boston Celtics,Philadelphia 76ers,94,105,Boston Garden,15320,/boxscores/198004270BOS.html
+Sun Apr 27 1980,Seattle SuperSonics,Los Angeles Lakers,93,98,Hec Edmunson Pavilion,0,/boxscores/198004270SEA.html
+Wed Apr 30 1980,Los Angeles Lakers,Seattle SuperSonics,111,105,The Forum,0,/boxscores/198004300LAL.html

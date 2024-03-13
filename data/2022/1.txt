@@ -1,0 +1,231 @@
+Sat Jan 1 2022,Milwaukee Bucks,New Orleans Pelicans,136,113,Fiserv Forum,17341,/boxscores/202201010MIL.html
+Sat Jan 1 2022,Detroit Pistons,San Antonio Spurs,117,116,Little Caesars Arena,18911,/boxscores/202201010DET.html
+Sat Jan 1 2022,Washington Wizards,Chicago Bulls,119,120,Capital One Arena,19043,/boxscores/202201010WAS.html
+Sat Jan 1 2022,Brooklyn Nets,Los Angeles Clippers,116,120,Barclays Center,17732,/boxscores/202201010BRK.html
+Sat Jan 1 2022,Houston Rockets,Denver Nuggets,111,124,Toyota Center,18055,/boxscores/202201010HOU.html
+Sat Jan 1 2022,Utah Jazz,Golden State Warriors,116,123,Vivint Smart Home Arena,18306,/boxscores/202201010UTA.html
+Sun Jan 2 2022,Toronto Raptors,New York Knicks,120,105,Scotiabank Arena,0,/boxscores/202201020TOR.html
+Sun Jan 2 2022,Boston Celtics,Orlando Magic,116,111,TD Garden,19156,/boxscores/202201020BOS.html
+Sun Jan 2 2022,Cleveland Cavaliers,Indiana Pacers,108,104,Rocket Mortgage Fieldhouse,17808,/boxscores/202201020CLE.html
+Sun Jan 2 2022,Sacramento Kings,Miami Heat,115,113,Golden 1 Center,13699,/boxscores/202201020SAC.html
+Sun Jan 2 2022,Charlotte Hornets,Phoenix Suns,99,133,Spectrum Center,19088,/boxscores/202201020CHO.html
+Sun Jan 2 2022,Oklahoma City Thunder,Dallas Mavericks,86,95,Paycom Center,14751,/boxscores/202201020OKC.html
+Sun Jan 2 2022,Los Angeles Lakers,Minnesota Timberwolves,108,103,Crypto.com Arena,18343,/boxscores/202201020LAL.html
+Mon Jan 3 2022,Philadelphia 76ers,Houston Rockets,133,113,Wells Fargo Center,20026,/boxscores/202201030PHI.html
+Mon Jan 3 2022,Washington Wizards,Charlotte Hornets,124,121,Capital One Arena,8902,/boxscores/202201030WAS.html
+Mon Jan 3 2022,Brooklyn Nets,Memphis Grizzlies,104,118,Barclays Center,17089,/boxscores/202201030BRK.html
+Mon Jan 3 2022,Chicago Bulls,Orlando Magic,102,98,United Center,20502,/boxscores/202201030CHI.html
+Mon Jan 3 2022,Milwaukee Bucks,Detroit Pistons,106,115,Fiserv Forum,17341,/boxscores/202201030MIL.html
+Mon Jan 3 2022,New Orleans Pelicans,Utah Jazz,104,115,Smoothie King Center,15057,/boxscores/202201030NOP.html
+Mon Jan 3 2022,Dallas Mavericks,Denver Nuggets,103,89,American Airlines Center,19767,/boxscores/202201030DAL.html
+Mon Jan 3 2022,Golden State Warriors,Miami Heat,115,108,Chase Center,18064,/boxscores/202201030GSW.html
+Mon Jan 3 2022,Portland Trail Blazers,Atlanta Hawks,136,131,Moda Center,15091,/boxscores/202201030POR.html
+Mon Jan 3 2022,Los Angeles Clippers,Minnesota Timberwolves,104,122,Crypto.com Arena,15959,/boxscores/202201030LAC.html
+Tue Jan 4 2022,Cleveland Cavaliers,Memphis Grizzlies,106,110,Rocket Mortgage Fieldhouse,18178,/boxscores/202201040CLE.html
+Tue Jan 4 2022,Toronto Raptors,San Antonio Spurs,129,104,Scotiabank Arena,0,/boxscores/202201040TOR.html
+Tue Jan 4 2022,New York Knicks,Indiana Pacers,104,94,Madison Square Garden (IV),18449,/boxscores/202201040NYK.html
+Tue Jan 4 2022,New Orleans Pelicans,Phoenix Suns,110,123,Smoothie King Center,15158,/boxscores/202201040NOP.html
+Tue Jan 4 2022,Los Angeles Lakers,Sacramento Kings,122,114,Crypto.com Arena,17919,/boxscores/202201040LAL.html
+Wed Jan 5 2022,Charlotte Hornets,Detroit Pistons,140,111,Spectrum Center,14427,/boxscores/202201050CHO.html
+Wed Jan 5 2022,Orlando Magic,Philadelphia 76ers,106,116,Amway Center,13116,/boxscores/202201050ORL.html
+Wed Jan 5 2022,Washington Wizards,Houston Rockets,111,114,Capital One Arena,13014,/boxscores/202201050WAS.html
+Wed Jan 5 2022,Boston Celtics,San Antonio Spurs,97,99,TD Garden,19156,/boxscores/202201050BOS.html
+Wed Jan 5 2022,Dallas Mavericks,Golden State Warriors,99,82,American Airlines Center,20441,/boxscores/202201050DAL.html
+Wed Jan 5 2022,Indiana Pacers,Brooklyn Nets,121,129,Gainbridge Fieldhouse,14176,/boxscores/202201050IND.html
+Wed Jan 5 2022,Milwaukee Bucks,Toronto Raptors,111,117,Fiserv Forum,17341,/boxscores/202201050MIL.html
+Wed Jan 5 2022,Minnesota Timberwolves,Oklahoma City Thunder,98,90,Target Center,14375,/boxscores/202201050MIN.html
+Wed Jan 5 2022,Denver Nuggets,Utah Jazz,109,115,Ball Arena,14056,/boxscores/202201050DEN.html
+Wed Jan 5 2022,Portland Trail Blazers,Miami Heat,109,115,Moda Center,15773,/boxscores/202201050POR.html
+Wed Jan 5 2022,Sacramento Kings,Atlanta Hawks,102,108,Golden 1 Center,13104,/boxscores/202201050SAC.html
+Thu Jan 6 2022,New York Knicks,Boston Celtics,108,105,Madison Square Garden (IV),17529,/boxscores/202201060NYK.html
+Thu Jan 6 2022,Memphis Grizzlies,Detroit Pistons,118,88,FedEx Forum,12983,/boxscores/202201060MEM.html
+Thu Jan 6 2022,New Orleans Pelicans,Golden State Warriors,101,96,Smoothie King Center,15986,/boxscores/202201060NOP.html
+Thu Jan 6 2022,Phoenix Suns,Los Angeles Clippers,106,89,Phoenix Suns Arena,17071,/boxscores/202201060PHO.html
+Fri Jan 7 2022,Philadelphia 76ers,San Antonio Spurs,119,100,Wells Fargo Center,20265,/boxscores/202201070PHI.html
+Fri Jan 7 2022,Brooklyn Nets,Milwaukee Bucks,109,121,Barclays Center,17732,/boxscores/202201070BRK.html
+Fri Jan 7 2022,Toronto Raptors,Utah Jazz,122,108,Scotiabank Arena,0,/boxscores/202201070TOR.html
+Fri Jan 7 2022,Chicago Bulls,Washington Wizards,130,122,United Center,21700,/boxscores/202201070CHI.html
+Fri Jan 7 2022,Houston Rockets,Dallas Mavericks,106,130,Toyota Center,15238,/boxscores/202201070HOU.html
+Fri Jan 7 2022,Oklahoma City Thunder,Minnesota Timberwolves,105,135,Paycom Center,14874,/boxscores/202201070OKC.html
+Fri Jan 7 2022,Denver Nuggets,Sacramento Kings,121,111,Ball Arena,15966,/boxscores/202201070DEN.html
+Fri Jan 7 2022,Los Angeles Lakers,Atlanta Hawks,134,118,Crypto.com Arena,18997,/boxscores/202201070LAL.html
+Fri Jan 7 2022,Portland Trail Blazers,Cleveland Cavaliers,101,114,Moda Center,16708,/boxscores/202201070POR.html
+Sat Jan 8 2022,Los Angeles Clippers,Memphis Grizzlies,108,123,Crypto.com Arena,17936,/boxscores/202201080LAC.html
+Sat Jan 8 2022,Charlotte Hornets,Milwaukee Bucks,114,106,Spectrum Center,19139,/boxscores/202201080CHO.html
+Sat Jan 8 2022,Detroit Pistons,Orlando Magic,97,92,Little Caesars Arena,18644,/boxscores/202201080DET.html
+Sat Jan 8 2022,Indiana Pacers,Utah Jazz,125,113,Gainbridge Fieldhouse,13160,/boxscores/202201080IND.html
+Sat Jan 8 2022,Boston Celtics,New York Knicks,99,75,TD Garden,19156,/boxscores/202201080BOS.html
+Sat Jan 8 2022,Phoenix Suns,Miami Heat,100,123,Phoenix Suns Arena,17071,/boxscores/202201080PHO.html
+Sun Jan 9 2022,Brooklyn Nets,San Antonio Spurs,121,119,Barclays Center,15606,/boxscores/202201090BRK.html
+Sun Jan 9 2022,Los Angeles Clippers,Atlanta Hawks,106,93,Crypto.com Arena,14836,/boxscores/202201090LAC.html
+Sun Jan 9 2022,Orlando Magic,Washington Wizards,100,102,Amway Center,13223,/boxscores/202201090ORL.html
+Sun Jan 9 2022,Toronto Raptors,New Orleans Pelicans,105,101,Scotiabank Arena,0,/boxscores/202201090TOR.html
+Sun Jan 9 2022,Houston Rockets,Minnesota Timberwolves,123,141,Toyota Center,15277,/boxscores/202201090HOU.html
+Sun Jan 9 2022,Oklahoma City Thunder,Denver Nuggets,95,99,Paycom Center,14772,/boxscores/202201090OKC.html
+Sun Jan 9 2022,Dallas Mavericks,Chicago Bulls,113,99,American Airlines Center,20041,/boxscores/202201090DAL.html
+Sun Jan 9 2022,Golden State Warriors,Cleveland Cavaliers,96,82,Chase Center,18064,/boxscores/202201090GSW.html
+Sun Jan 9 2022,Portland Trail Blazers,Sacramento Kings,103,88,Moda Center,16408,/boxscores/202201090POR.html
+Sun Jan 9 2022,Los Angeles Lakers,Memphis Grizzlies,119,127,Crypto.com Arena,18288,/boxscores/202201090LAL.html
+Mon Jan 10 2022,Charlotte Hornets,Milwaukee Bucks,103,99,Spectrum Center,14253,/boxscores/202201100CHO.html
+Mon Jan 10 2022,Detroit Pistons,Utah Jazz,126,116,Little Caesars Arena,17834,/boxscores/202201100DET.html
+Mon Jan 10 2022,Boston Celtics,Indiana Pacers,101,98,TD Garden,19156,/boxscores/202201100BOS.html
+Mon Jan 10 2022,New York Knicks,San Antonio Spurs,111,96,Madison Square Garden (IV),16569,/boxscores/202201100NYK.html
+Mon Jan 10 2022,Houston Rockets,Philadelphia 76ers,91,111,Toyota Center,13593,/boxscores/202201100HOU.html
+Mon Jan 10 2022,Portland Trail Blazers,Brooklyn Nets,114,108,Moda Center,16379,/boxscores/202201100POR.html
+Mon Jan 10 2022,Sacramento Kings,Cleveland Cavaliers,108,109,Golden 1 Center,12110,/boxscores/202201100SAC.html
+Tue Jan 11 2022,Washington Wizards,Oklahoma City Thunder,122,118,Capital One Arena,13985,/boxscores/202201110WAS.html
+Tue Jan 11 2022,Toronto Raptors,Phoenix Suns,95,99,Scotiabank Arena,0,/boxscores/202201110TOR.html
+Tue Jan 11 2022,Chicago Bulls,Detroit Pistons,133,87,United Center,19886,/boxscores/202201110CHI.html
+Tue Jan 11 2022,Memphis Grizzlies,Golden State Warriors,116,108,FedEx Forum,17794,/boxscores/202201110MEM.html
+Tue Jan 11 2022,New Orleans Pelicans,Minnesota Timberwolves,128,125,Smoothie King Center,15155,/boxscores/202201110NOP.html
+Tue Jan 11 2022,Los Angeles Clippers,Denver Nuggets,87,85,Crypto.com Arena,15077,/boxscores/202201110LAC.html
+Wed Jan 12 2022,Indiana Pacers,Boston Celtics,100,119,Gainbridge Fieldhouse,13560,/boxscores/202201120IND.html
+Wed Jan 12 2022,Philadelphia 76ers,Charlotte Hornets,98,109,Wells Fargo Center,20317,/boxscores/202201120PHI.html
+Wed Jan 12 2022,Washington Wizards,Orlando Magic,112,106,Capital One Arena,13138,/boxscores/202201120WAS.html
+Wed Jan 12 2022,Atlanta Hawks,Miami Heat,91,115,State Farm Arena,15355,/boxscores/202201120ATL.html
+Wed Jan 12 2022,New York Knicks,Dallas Mavericks,108,85,Madison Square Garden (IV),18215,/boxscores/202201120NYK.html
+Wed Jan 12 2022,San Antonio Spurs,Houston Rockets,124,128,AT&T Center,11314,/boxscores/202201120SAS.html
+Wed Jan 12 2022,Utah Jazz,Cleveland Cavaliers,91,111,Vivint Smart Home Arena,18306,/boxscores/202201120UTA.html
+Wed Jan 12 2022,Chicago Bulls,Brooklyn Nets,112,138,United Center,21698,/boxscores/202201120CHI.html
+Wed Jan 12 2022,Sacramento Kings,Los Angeles Lakers,125,116,Golden 1 Center,12199,/boxscores/202201120SAC.html
+Thu Jan 13 2022,Milwaukee Bucks,Golden State Warriors,118,99,Fiserv Forum,17848,/boxscores/202201130MIL.html
+Thu Jan 13 2022,Memphis Grizzlies,Minnesota Timberwolves,116,108,FedEx Forum,15881,/boxscores/202201130MEM.html
+Thu Jan 13 2022,New Orleans Pelicans,Los Angeles Clippers,113,89,Smoothie King Center,15406,/boxscores/202201130NOP.html
+Thu Jan 13 2022,Brooklyn Nets,Oklahoma City Thunder,109,130,Barclays Center,16964,/boxscores/202201130BRK.html
+Thu Jan 13 2022,Denver Nuggets,Portland Trail Blazers,140,108,Ball Arena,14972,/boxscores/202201130DEN.html
+Fri Jan 14 2022,Charlotte Hornets,Orlando Magic,109,116,Spectrum Center,16011,/boxscores/202201140CHO.html
+Fri Jan 14 2022,Detroit Pistons,Toronto Raptors,103,87,Little Caesars Arena,18011,/boxscores/202201140DET.html
+Fri Jan 14 2022,Indiana Pacers,Phoenix Suns,94,112,Gainbridge Fieldhouse,14019,/boxscores/202201140IND.html
+Fri Jan 14 2022,Philadelphia 76ers,Boston Celtics,111,99,Wells Fargo Center,20444,/boxscores/202201140PHI.html
+Fri Jan 14 2022,Chicago Bulls,Golden State Warriors,96,138,United Center,21174,/boxscores/202201140CHI.html
+Fri Jan 14 2022,Miami Heat,Atlanta Hawks,124,118,FTX Arena,19600,/boxscores/202201140MIA.html
+Fri Jan 14 2022,San Antonio Spurs,Cleveland Cavaliers,109,114,AT&T Center,12160,/boxscores/202201140SAS.html
+Fri Jan 14 2022,Memphis Grizzlies,Dallas Mavericks,85,112,FedEx Forum,16712,/boxscores/202201140MEM.html
+Fri Jan 14 2022,Sacramento Kings,Houston Rockets,126,114,Golden 1 Center,12857,/boxscores/202201140SAC.html
+Sat Jan 15 2022,Milwaukee Bucks,Toronto Raptors,96,103,Fiserv Forum,17341,/boxscores/202201150MIL.html
+Sat Jan 15 2022,Washington Wizards,Portland Trail Blazers,110,115,Capital One Arena,15124,/boxscores/202201150WAS.html
+Sat Jan 15 2022,Atlanta Hawks,New York Knicks,108,117,State Farm Arena,16414,/boxscores/202201150ATL.html
+Sat Jan 15 2022,Brooklyn Nets,New Orleans Pelicans,120,105,Barclays Center,17034,/boxscores/202201150BRK.html
+Sat Jan 15 2022,Miami Heat,Philadelphia 76ers,98,109,FTX Arena,19600,/boxscores/202201150MIA.html
+Sat Jan 15 2022,Oklahoma City Thunder,Cleveland Cavaliers,102,107,Paycom Center,15284,/boxscores/202201150OKC.html
+Sat Jan 15 2022,Boston Celtics,Chicago Bulls,114,112,TD Garden,19156,/boxscores/202201150BOS.html
+Sat Jan 15 2022,San Antonio Spurs,Los Angeles Clippers,101,94,AT&T Center,13223,/boxscores/202201150SAS.html
+Sat Jan 15 2022,Denver Nuggets,Los Angeles Lakers,133,96,Ball Arena,19520,/boxscores/202201150DEN.html
+Sat Jan 15 2022,Dallas Mavericks,Orlando Magic,108,92,American Airlines Center,19816,/boxscores/202201150DAL.html
+Sun Jan 16 2022,Detroit Pistons,Phoenix Suns,108,135,Little Caesars Arena,18178,/boxscores/202201160DET.html
+Sun Jan 16 2022,Sacramento Kings,Houston Rockets,112,118,Golden 1 Center,13601,/boxscores/202201160SAC.html
+Sun Jan 16 2022,Denver Nuggets,Utah Jazz,102,125,Ball Arena,15647,/boxscores/202201160DEN.html
+Sun Jan 16 2022,Minnesota Timberwolves,Golden State Warriors,119,99,Target Center,17136,/boxscores/202201160MIN.html
+Mon Jan 17 2022,Boston Celtics,New Orleans Pelicans,104,92,TD Garden,19156,/boxscores/202201170BOS.html
+Mon Jan 17 2022,New York Knicks,Charlotte Hornets,87,97,Madison Square Garden (IV),19812,/boxscores/202201170NYK.html
+Mon Jan 17 2022,Washington Wizards,Philadelphia 76ers,117,98,Capital One Arena,14581,/boxscores/202201170WAS.html
+Mon Jan 17 2022,Cleveland Cavaliers,Brooklyn Nets,114,107,Rocket Mortgage Fieldhouse,18105,/boxscores/202201170CLE.html
+Mon Jan 17 2022,Los Angeles Clippers,Indiana Pacers,139,133,Crypto.com Arena,15080,/boxscores/202201170LAC.html
+Mon Jan 17 2022,Memphis Grizzlies,Chicago Bulls,119,106,FedEx Forum,17794,/boxscores/202201170MEM.html
+Mon Jan 17 2022,Atlanta Hawks,Milwaukee Bucks,121,114,State Farm Arena,16903,/boxscores/202201170ATL.html
+Mon Jan 17 2022,Orlando Magic,Portland Trail Blazers,88,98,Amway Center,13648,/boxscores/202201170ORL.html
+Mon Jan 17 2022,Miami Heat,Toronto Raptors,104,99,FTX Arena,19600,/boxscores/202201170MIA.html
+Mon Jan 17 2022,Dallas Mavericks,Oklahoma City Thunder,104,102,American Airlines Center,19266,/boxscores/202201170DAL.html
+Mon Jan 17 2022,San Antonio Spurs,Phoenix Suns,107,121,AT&T Center,10422,/boxscores/202201170SAS.html
+Mon Jan 17 2022,Los Angeles Lakers,Utah Jazz,101,95,Crypto.com Arena,17238,/boxscores/202201170LAL.html
+Tue Jan 18 2022,New York Knicks,Minnesota Timberwolves,110,112,Madison Square Garden (IV),16071,/boxscores/202201180NYK.html
+Tue Jan 18 2022,Golden State Warriors,Detroit Pistons,102,86,Chase Center,18064,/boxscores/202201180GSW.html
+Wed Jan 19 2022,Philadelphia 76ers,Orlando Magic,123,110,Wells Fargo Center,20081,/boxscores/202201190PHI.html
+Wed Jan 19 2022,Washington Wizards,Brooklyn Nets,118,119,Capital One Arena,15380,/boxscores/202201190WAS.html
+Wed Jan 19 2022,Atlanta Hawks,Minnesota Timberwolves,134,122,State Farm Arena,15199,/boxscores/202201190ATL.html
+Wed Jan 19 2022,Boston Celtics,Charlotte Hornets,102,111,TD Garden,19156,/boxscores/202201190BOS.html
+Wed Jan 19 2022,Miami Heat,Portland Trail Blazers,104,92,FTX Arena,19600,/boxscores/202201190MIA.html
+Wed Jan 19 2022,Chicago Bulls,Cleveland Cavaliers,117,104,United Center,20824,/boxscores/202201190CHI.html
+Wed Jan 19 2022,Milwaukee Bucks,Memphis Grizzlies,126,114,Fiserv Forum,17341,/boxscores/202201190MIL.html
+Wed Jan 19 2022,Dallas Mavericks,Toronto Raptors,102,98,American Airlines Center,19218,/boxscores/202201190DAL.html
+Wed Jan 19 2022,San Antonio Spurs,Oklahoma City Thunder,118,96,AT&T Center,11848,/boxscores/202201190SAS.html
+Wed Jan 19 2022,Utah Jazz,Houston Rockets,111,116,Vivint Smart Home Arena,18306,/boxscores/202201190UTA.html
+Wed Jan 19 2022,Denver Nuggets,Los Angeles Clippers,130,128,Ball Arena,14547,/boxscores/202201190DEN.html
+Wed Jan 19 2022,Sacramento Kings,Detroit Pistons,131,133,Golden 1 Center,12907,/boxscores/202201190SAC.html
+Wed Jan 19 2022,Los Angeles Lakers,Indiana Pacers,104,111,Crypto.com Arena,17818,/boxscores/202201190LAL.html
+Thu Jan 20 2022,Dallas Mavericks,Phoenix Suns,101,109,American Airlines Center,18306,/boxscores/202201200DAL.html
+Thu Jan 20 2022,New York Knicks,New Orleans Pelicans,91,102,Madison Square Garden (IV),16168,/boxscores/202201200NYK.html
+Thu Jan 20 2022,Golden State Warriors,Indiana Pacers,117,121,Chase Center,18064,/boxscores/202201200GSW.html
+Fri Jan 21 2022,Charlotte Hornets,Oklahoma City Thunder,121,98,Spectrum Center,15835,/boxscores/202201210CHO.html
+Fri Jan 21 2022,Orlando Magic,Los Angeles Lakers,105,116,Amway Center,18846,/boxscores/202201210ORL.html
+Fri Jan 21 2022,Philadelphia 76ers,Los Angeles Clippers,101,102,Wells Fargo Center,20182,/boxscores/202201210PHI.html
+Fri Jan 21 2022,Atlanta Hawks,Miami Heat,110,108,State Farm Arena,16385,/boxscores/202201210ATL.html
+Fri Jan 21 2022,Boston Celtics,Portland Trail Blazers,105,109,TD Garden,19156,/boxscores/202201210BOS.html
+Fri Jan 21 2022,Milwaukee Bucks,Chicago Bulls,94,90,Fiserv Forum,18013,/boxscores/202201210MIL.html
+Fri Jan 21 2022,Washington Wizards,Toronto Raptors,105,109,Capital One Arena,14755,/boxscores/202201210WAS.html
+Fri Jan 21 2022,San Antonio Spurs,Brooklyn Nets,102,117,AT&T Center,15068,/boxscores/202201210SAS.html
+Fri Jan 21 2022,Denver Nuggets,Memphis Grizzlies,118,122,Ball Arena,17009,/boxscores/202201210DEN.html
+Fri Jan 21 2022,Utah Jazz,Detroit Pistons,111,101,Vivint Smart Home Arena,18306,/boxscores/202201210UTA.html
+Fri Jan 21 2022,Golden State Warriors,Houston Rockets,105,103,Chase Center,18064,/boxscores/202201210GSW.html
+Sat Jan 22 2022,Milwaukee Bucks,Sacramento Kings,133,127,Fiserv Forum,17341,/boxscores/202201220MIL.html
+Sat Jan 22 2022,Cleveland Cavaliers,Oklahoma City Thunder,94,87,Rocket Mortgage Fieldhouse,19432,/boxscores/202201220CLE.html
+Sat Jan 22 2022,Phoenix Suns,Indiana Pacers,113,103,Phoenix Suns Arena,17071,/boxscores/202201220PHO.html
+Sun Jan 23 2022,New York Knicks,Los Angeles Clippers,110,102,Madison Square Garden (IV),19812,/boxscores/202201230NYK.html
+Sun Jan 23 2022,Washington Wizards,Boston Celtics,87,116,Capital One Arena,16371,/boxscores/202201230WAS.html
+Sun Jan 23 2022,Miami Heat,Los Angeles Lakers,113,107,FTX Arena,19973,/boxscores/202201230MIA.html
+Sun Jan 23 2022,Orlando Magic,Chicago Bulls,114,95,Amway Center,18846,/boxscores/202201230ORL.html
+Sun Jan 23 2022,Toronto Raptors,Portland Trail Blazers,105,114,Scotiabank Arena,0,/boxscores/202201230TOR.html
+Sun Jan 23 2022,Charlotte Hornets,Atlanta Hawks,91,113,Spectrum Center,15822,/boxscores/202201230CHO.html
+Sun Jan 23 2022,San Antonio Spurs,Philadelphia 76ers,109,115,AT&T Center,16437,/boxscores/202201230SAS.html
+Sun Jan 23 2022,Dallas Mavericks,Memphis Grizzlies,104,91,American Airlines Center,19701,/boxscores/202201230DAL.html
+Sun Jan 23 2022,Denver Nuggets,Detroit Pistons,117,111,Ball Arena,14060,/boxscores/202201230DEN.html
+Sun Jan 23 2022,Minnesota Timberwolves,Brooklyn Nets,136,125,Target Center,16475,/boxscores/202201230MIN.html
+Sun Jan 23 2022,Golden State Warriors,Utah Jazz,94,92,Chase Center,18064,/boxscores/202201230GSW.html
+Mon Jan 24 2022,Cleveland Cavaliers,New York Knicks,95,93,Rocket Mortgage Fieldhouse,17321,/boxscores/202201240CLE.html
+Mon Jan 24 2022,New Orleans Pelicans,Indiana Pacers,117,113,Smoothie King Center,15581,/boxscores/202201240NOP.html
+Mon Jan 24 2022,Oklahoma City Thunder,Chicago Bulls,110,111,Paycom Center,14378,/boxscores/202201240OKC.html
+Mon Jan 24 2022,Phoenix Suns,Utah Jazz,115,109,Phoenix Suns Arena,17071,/boxscores/202201240PHO.html
+Tue Jan 25 2022,Detroit Pistons,Denver Nuggets,105,110,Little Caesars Arena,16023,/boxscores/202201250DET.html
+Tue Jan 25 2022,Philadelphia 76ers,New Orleans Pelicans,117,107,Wells Fargo Center,20121,/boxscores/202201250PHI.html
+Tue Jan 25 2022,Toronto Raptors,Charlotte Hornets,125,113,Scotiabank Arena,0,/boxscores/202201250TOR.html
+Tue Jan 25 2022,Washington Wizards,Los Angeles Clippers,115,116,Capital One Arena,13544,/boxscores/202201250WAS.html
+Tue Jan 25 2022,Boston Celtics,Sacramento Kings,128,75,TD Garden,19156,/boxscores/202201250BOS.html
+Tue Jan 25 2022,Brooklyn Nets,Los Angeles Lakers,96,106,Barclays Center,18126,/boxscores/202201250BRK.html
+Tue Jan 25 2022,Houston Rockets,San Antonio Spurs,104,134,Toyota Center,15007,/boxscores/202201250HOU.html
+Tue Jan 25 2022,Golden State Warriors,Dallas Mavericks,130,92,Chase Center,18064,/boxscores/202201250GSW.html
+Tue Jan 25 2022,Portland Trail Blazers,Minnesota Timberwolves,107,109,Moda Center,16422,/boxscores/202201250POR.html
+Wed Jan 26 2022,Cleveland Cavaliers,Milwaukee Bucks,115,99,Rocket Mortgage Fieldhouse,18904,/boxscores/202201260CLE.html
+Wed Jan 26 2022,Indiana Pacers,Charlotte Hornets,126,158,Gainbridge Fieldhouse,14116,/boxscores/202201260IND.html
+Wed Jan 26 2022,Orlando Magic,Los Angeles Clippers,102,111,Amway Center,12448,/boxscores/202201260ORL.html
+Wed Jan 26 2022,Atlanta Hawks,Sacramento Kings,121,104,State Farm Arena,15080,/boxscores/202201260ATL.html
+Wed Jan 26 2022,Miami Heat,New York Knicks,110,96,FTX Arena,19600,/boxscores/202201260MIA.html
+Wed Jan 26 2022,Brooklyn Nets,Denver Nuggets,118,124,Barclays Center,18011,/boxscores/202201260BRK.html
+Wed Jan 26 2022,Chicago Bulls,Toronto Raptors,111,105,United Center,20269,/boxscores/202201260CHI.html
+Wed Jan 26 2022,San Antonio Spurs,Memphis Grizzlies,110,118,AT&T Center,14662,/boxscores/202201260SAS.html
+Wed Jan 26 2022,Portland Trail Blazers,Dallas Mavericks,112,132,Moda Center,16334,/boxscores/202201260POR.html
+Wed Jan 26 2022,Utah Jazz,Phoenix Suns,97,105,Vivint Smart Home Arena,18306,/boxscores/202201260UTA.html
+Thu Jan 27 2022,Philadelphia 76ers,Los Angeles Lakers,105,87,Wells Fargo Center,20953,/boxscores/202201270PHI.html
+Thu Jan 27 2022,Golden State Warriors,Minnesota Timberwolves,124,115,Chase Center,18064,/boxscores/202201270GSW.html
+Fri Jan 28 2022,Orlando Magic,Detroit Pistons,119,103,Amway Center,13156,/boxscores/202201280ORL.html
+Fri Jan 28 2022,Atlanta Hawks,Boston Celtics,108,92,State Farm Arena,16932,/boxscores/202201280ATL.html
+Fri Jan 28 2022,Charlotte Hornets,Los Angeles Lakers,117,114,Spectrum Center,19469,/boxscores/202201280CHO.html
+Fri Jan 28 2022,Houston Rockets,Portland Trail Blazers,110,125,Toyota Center,16100,/boxscores/202201280HOU.html
+Fri Jan 28 2022,Memphis Grizzlies,Utah Jazz,119,109,FedEx Forum,16916,/boxscores/202201280MEM.html
+Fri Jan 28 2022,Miami Heat,Los Angeles Clippers,121,114,FTX Arena,19600,/boxscores/202201280MIA.html
+Fri Jan 28 2022,New Orleans Pelicans,Denver Nuggets,105,116,Smoothie King Center,15254,/boxscores/202201280NOP.html
+Fri Jan 28 2022,Oklahoma City Thunder,Indiana Pacers,110,113,Paycom Center,15106,/boxscores/202201280OKC.html
+Fri Jan 28 2022,San Antonio Spurs,Chicago Bulls,131,122,AT&T Center,18354,/boxscores/202201280SAS.html
+Fri Jan 28 2022,Phoenix Suns,Minnesota Timberwolves,134,124,Phoenix Suns Arena,17071,/boxscores/202201280PHO.html
+Fri Jan 28 2022,Milwaukee Bucks,New York Knicks,123,108,Fiserv Forum,17341,/boxscores/202201280MIL.html
+Sat Jan 29 2022,Dallas Mavericks,Indiana Pacers,132,105,American Airlines Center,19831,/boxscores/202201290DAL.html
+Sat Jan 29 2022,New Orleans Pelicans,Boston Celtics,97,107,Smoothie King Center,16168,/boxscores/202201290NOP.html
+Sat Jan 29 2022,Philadelphia 76ers,Sacramento Kings,103,101,Wells Fargo Center,20380,/boxscores/202201290PHI.html
+Sat Jan 29 2022,Memphis Grizzlies,Washington Wizards,115,95,FedEx Forum,17135,/boxscores/202201290MEM.html
+Sat Jan 29 2022,Miami Heat,Toronto Raptors,120,124,FTX Arena,19600,/boxscores/202201290MIA.html
+Sat Jan 29 2022,Golden State Warriors,Brooklyn Nets,110,106,Chase Center,18064,/boxscores/202201290GSW.html
+Sun Jan 30 2022,Atlanta Hawks,Los Angeles Lakers,129,121,State Farm Arena,17391,/boxscores/202201300ATL.html
+Sun Jan 30 2022,Charlotte Hornets,Los Angeles Clippers,90,115,Spectrum Center,18674,/boxscores/202201300CHO.html
+Sun Jan 30 2022,Chicago Bulls,Portland Trail Blazers,130,116,United Center,19521,/boxscores/202201300CHI.html
+Sun Jan 30 2022,Detroit Pistons,Cleveland Cavaliers,115,105,Little Caesars Arena,16811,/boxscores/202201300DET.html
+Sun Jan 30 2022,Milwaukee Bucks,Denver Nuggets,100,136,Fiserv Forum,17341,/boxscores/202201300MIL.html
+Sun Jan 30 2022,Orlando Magic,Dallas Mavericks,110,108,Amway Center,13376,/boxscores/202201300ORL.html
+Sun Jan 30 2022,Minnesota Timberwolves,Utah Jazz,126,106,Target Center,10407,/boxscores/202201300MIN.html
+Sun Jan 30 2022,Phoenix Suns,San Antonio Spurs,115,110,Phoenix Suns Arena,17071,/boxscores/202201300PHO.html
+Mon Jan 31 2022,Cleveland Cavaliers,New Orleans Pelicans,93,90,Rocket Mortgage Fieldhouse,17637,/boxscores/202201310CLE.html
+Mon Jan 31 2022,Indiana Pacers,Los Angeles Clippers,122,116,Gainbridge Fieldhouse,14629,/boxscores/202201310IND.html
+Mon Jan 31 2022,Philadelphia 76ers,Memphis Grizzlies,122,119,Wells Fargo Center,20424,/boxscores/202201310PHI.html
+Mon Jan 31 2022,Atlanta Hawks,Toronto Raptors,100,106,State Farm Arena,14168,/boxscores/202201310ATL.html
+Mon Jan 31 2022,Boston Celtics,Miami Heat,122,92,TD Garden,19156,/boxscores/202201310BOS.html
+Mon Jan 31 2022,New York Knicks,Sacramento Kings,116,96,Madison Square Garden (IV),15925,/boxscores/202201310NYK.html
+Mon Jan 31 2022,Houston Rockets,Golden State Warriors,108,122,Toyota Center,16146,/boxscores/202201310HOU.html
+Mon Jan 31 2022,Oklahoma City Thunder,Portland Trail Blazers,98,81,Paycom Center,13812,/boxscores/202201310OKC.html

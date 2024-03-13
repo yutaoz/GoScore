@@ -1,0 +1,205 @@
+Sat Nov 1 1997,Atlanta Hawks,Toronto Raptors,90,85,Georgia Dome,8539,/boxscores/199711010ATL.html
+Sat Nov 1 1997,Chicago Bulls,Philadelphia 76ers,94,74,United Center,24196,/boxscores/199711010CHI.html
+Sat Nov 1 1997,Indiana Pacers,Golden State Warriors,96,83,Market Square Arena,16729,/boxscores/199711010IND.html
+Sat Nov 1 1997,Los Angeles Clippers,Portland Trail Blazers,74,82,Los Angeles Memorial Sports Arena,12898,/boxscores/199711010LAC.html
+Sat Nov 1 1997,Milwaukee Bucks,New Jersey Nets,109,113,Bradley Center,18717,/boxscores/199711010MIL.html
+Sat Nov 1 1997,Minnesota Timberwolves,Charlotte Hornets,106,90,Target Center,19006,/boxscores/199711010MIN.html
+Sat Nov 1 1997,San Antonio Spurs,Cleveland Cavaliers,83,80,Alamodome,24793,/boxscores/199711010SAS.html
+Sat Nov 1 1997,Seattle SuperSonics,Dallas Mavericks,81,89,KeyArena at Seattle Center,17072,/boxscores/199711010SEA.html
+Sat Nov 1 1997,Utah Jazz,Denver Nuggets,102,84,Delta Center,19911,/boxscores/199711010UTA.html
+Sat Nov 1 1997,Vancouver Grizzlies,Sacramento Kings,97,96,General Motors Place,15460,/boxscores/199711010VAN.html
+Sat Nov 1 1997,Washington Wizards,Miami Heat,108,109,Capital Centre,18281,/boxscores/199711010WAS.html
+Sun Nov 2 1997,Boston Celtics,Orlando Magic,96,107,FleetCenter,17954,/boxscores/199711020BOS.html
+Sun Nov 2 1997,New York Knicks,Detroit Pistons,86,94,Madison Square Garden (IV),19763,/boxscores/199711020NYK.html
+Sun Nov 2 1997,Sacramento Kings,Houston Rockets,77,93,ARCO Arena (II),17317,/boxscores/199711020SAC.html
+Mon Nov 3 1997,Chicago Bulls,San Antonio Spurs,87,83,United Center,23868,/boxscores/199711030CHI.html
+Mon Nov 3 1997,Miami Heat,Charlotte Hornets,99,112,Miami Arena,14587,/boxscores/199711030MIA.html
+Mon Nov 3 1997,Utah Jazz,Washington Wizards,86,90,Delta Center,19911,/boxscores/199711030UTA.html
+Tue Nov 4 1997,Atlanta Hawks,Detroit Pistons,82,71,Georgia Dome,13961,/boxscores/199711040ATL.html
+Tue Nov 4 1997,Cleveland Cavaliers,Indiana Pacers,80,77,Gund Arena,20132,/boxscores/199711040CLE.html
+Tue Nov 4 1997,Dallas Mavericks,Vancouver Grizzlies,92,87,Reunion Arena,14285,/boxscores/199711040DAL.html
+Tue Nov 4 1997,Denver Nuggets,Washington Wizards,96,120,McNichols Sports Arena,8104,/boxscores/199711040DEN.html
+Tue Nov 4 1997,Milwaukee Bucks,Orlando Magic,110,76,Bradley Center,12764,/boxscores/199711040MIL.html
+Tue Nov 4 1997,New York Knicks,Boston Celtics,102,70,Madison Square Garden (IV),19763,/boxscores/199711040NYK.html
+Tue Nov 4 1997,Phoenix Suns,Utah Jazz,106,84,America West Arena,19023,/boxscores/199711040PHO.html
+Tue Nov 4 1997,Portland Trail Blazers,Minnesota Timberwolves,122,105,Rose Garden Arena,20158,/boxscores/199711040POR.html
+Tue Nov 4 1997,Sacramento Kings,Los Angeles Lakers,98,101,ARCO Arena (II),17317,/boxscores/199711040SAC.html
+Tue Nov 4 1997,Seattle SuperSonics,Houston Rockets,118,94,KeyArena at Seattle Center,17072,/boxscores/199711040SEA.html
+Tue Nov 4 1997,Toronto Raptors,Golden State Warriors,104,86,SkyDome,16624,/boxscores/199711040TOR.html
+Wed Nov 5 1997,Boston Celtics,Miami Heat,74,90,FleetCenter,16210,/boxscores/199711050BOS.html
+Wed Nov 5 1997,Charlotte Hornets,Dallas Mavericks,110,103,Charlotte Coliseum,24042,/boxscores/199711050CHH.html
+Wed Nov 5 1997,Chicago Bulls,Orlando Magic,94,81,United Center,23809,/boxscores/199711050CHI.html
+Wed Nov 5 1997,Detroit Pistons,Indiana Pacers,87,99,The Palace of Auburn Hills,18241,/boxscores/199711050DET.html
+Wed Nov 5 1997,Los Angeles Clippers,Houston Rockets,110,124,Los Angeles Memorial Sports Arena,5859,/boxscores/199711050LAC.html
+Wed Nov 5 1997,New Jersey Nets,Golden State Warriors,112,96,Continental Airlines Arena,12150,/boxscores/199711050NJN.html
+Wed Nov 5 1997,Philadelphia 76ers,Atlanta Hawks,88,93,CoreStates Center,13624,/boxscores/199711050PHI.html
+Wed Nov 5 1997,San Antonio Spurs,Vancouver Grizzlies,87,79,Alamodome,14523,/boxscores/199711050SAS.html
+Thu Nov 6 1997,Milwaukee Bucks,Philadelphia 76ers,100,93,Bradley Center,13851,/boxscores/199711060MIL.html
+Thu Nov 6 1997,Phoenix Suns,New York Knicks,75,105,America West Arena,19023,/boxscores/199711060PHO.html
+Thu Nov 6 1997,Toronto Raptors,Seattle SuperSonics,92,109,SkyDome,15459,/boxscores/199711060TOR.html
+Fri Nov 7 1997,Atlanta Hawks,Chicago Bulls,80,78,Georgia Dome,45790,/boxscores/199711070ATL.html
+Fri Nov 7 1997,Boston Celtics,Cleveland Cavaliers,92,96,FleetCenter,16967,/boxscores/199711070BOS.html
+Fri Nov 7 1997,Denver Nuggets,Utah Jazz,89,91,McNichols Sports Arena,10317,/boxscores/199711070DEN.html
+Fri Nov 7 1997,Detroit Pistons,Orlando Magic,84,89,The Palace of Auburn Hills,22076,/boxscores/199711070DET.html
+Fri Nov 7 1997,Houston Rockets,Portland Trail Blazers,85,86,The Summit,16285,/boxscores/199711070HOU.html
+Fri Nov 7 1997,Indiana Pacers,Seattle SuperSonics,93,99,Market Square Arena,15226,/boxscores/199711070IND.html
+Fri Nov 7 1997,Los Angeles Lakers,New York Knicks,99,94,Great Western Forum,17505,/boxscores/199711070LAL.html
+Fri Nov 7 1997,New Jersey Nets,Miami Heat,99,87,Continental Airlines Arena,18231,/boxscores/199711070NJN.html
+Fri Nov 7 1997,Sacramento Kings,Los Angeles Clippers,85,98,ARCO Arena (II),15858,/boxscores/199711070SAC.html
+Fri Nov 7 1997,Vancouver Grizzlies,Minnesota Timberwolves,97,108,General Motors Place,15302,/boxscores/199711070VAN.html
+Fri Nov 7 1997,Washington Wizards,Charlotte Hornets,92,107,Capital Centre,18756,/boxscores/199711070WAS.html
+Sat Nov 8 1997,Charlotte Hornets,Indiana Pacers,89,82,Charlotte Coliseum,24042,/boxscores/199711080CHH.html
+Sat Nov 8 1997,Chicago Bulls,New Jersey Nets,99,86,United Center,23898,/boxscores/199711080CHI.html
+Sat Nov 8 1997,Cleveland Cavaliers,Atlanta Hawks,97,99,Gund Arena,14356,/boxscores/199711080CLE.html
+Sat Nov 8 1997,Dallas Mavericks,Portland Trail Blazers,94,101,Reunion Arena,11162,/boxscores/199711080DAL.html
+Sat Nov 8 1997,Golden State Warriors,Minnesota Timberwolves,90,97,The Arena in Oakland,19283,/boxscores/199711080GSW.html
+Sat Nov 8 1997,Los Angeles Clippers,Phoenix Suns,105,123,Arrowhead Pond,12906,/boxscores/199711080LAC.html
+Sat Nov 8 1997,Miami Heat,Washington Wizards,114,106,Miami Arena,14859,/boxscores/199711080MIA.html
+Sat Nov 8 1997,Milwaukee Bucks,Boston Celtics,105,96,Bradley Center,17653,/boxscores/199711080MIL.html
+Sat Nov 8 1997,Orlando Magic,Toronto Raptors,96,87,Orlando Arena,17248,/boxscores/199711080ORL.html
+Sat Nov 8 1997,San Antonio Spurs,Utah Jazz,87,80,Alamodome,19100,/boxscores/199711080SAS.html
+Sun Nov 9 1997,Los Angeles Lakers,Golden State Warriors,132,97,Great Western Forum,14623,/boxscores/199711090LAL.html
+Sun Nov 9 1997,Philadelphia 76ers,Seattle SuperSonics,105,112,CoreStates Center,16457,/boxscores/199711090PHI.html
+Sun Nov 9 1997,Sacramento Kings,New York Knicks,86,78,ARCO Arena (II),15046,/boxscores/199711090SAC.html
+Sun Nov 9 1997,Vancouver Grizzlies,Detroit Pistons,104,96,General Motors Place,14925,/boxscores/199711090VAN.html
+Mon Nov 10 1997,Portland Trail Blazers,Detroit Pistons,86,82,Rose Garden Arena,20411,/boxscores/199711100POR.html
+Mon Nov 10 1997,Toronto Raptors,San Antonio Spurs,98,100,SkyDome,18174,/boxscores/199711100TOR.html
+Tue Nov 11 1997,Atlanta Hawks,Seattle SuperSonics,89,87,Georgia Dome,18122,/boxscores/199711110ATL.html
+Tue Nov 11 1997,Cleveland Cavaliers,Chicago Bulls,101,80,Gund Arena,20562,/boxscores/199711110CLE.html
+Tue Nov 11 1997,Dallas Mavericks,Los Angeles Lakers,96,118,Reunion Arena,13722,/boxscores/199711110DAL.html
+Tue Nov 11 1997,Miami Heat,Sacramento Kings,101,82,Miami Arena,14603,/boxscores/199711110MIA.html
+Tue Nov 11 1997,Minnesota Timberwolves,San Antonio Spurs,92,93,Target Center,14593,/boxscores/199711110MIN.html
+Tue Nov 11 1997,New York Knicks,Denver Nuggets,93,90,Madison Square Garden (IV),19763,/boxscores/199711110NYK.html
+Tue Nov 11 1997,Vancouver Grizzlies,Los Angeles Clippers,119,113,General Motors Place,15160,/boxscores/199711110VAN.html
+Wed Nov 12 1997,Boston Celtics,Denver Nuggets,96,86,FleetCenter,15760,/boxscores/199711120BOS.html
+Wed Nov 12 1997,Chicago Bulls,Washington Wizards,83,90,United Center,23749,/boxscores/199711120CHI.html
+Wed Nov 12 1997,Golden State Warriors,Detroit Pistons,71,102,The Arena in Oakland,10629,/boxscores/199711120GSW.html
+Wed Nov 12 1997,Houston Rockets,Philadelphia 76ers,100,114,The Summit,16285,/boxscores/199711120HOU.html
+Wed Nov 12 1997,Indiana Pacers,Atlanta Hawks,86,89,Market Square Arena,13400,/boxscores/199711120IND.html
+Wed Nov 12 1997,Orlando Magic,Sacramento Kings,89,115,Orlando Arena,16614,/boxscores/199711120ORL.html
+Wed Nov 12 1997,Phoenix Suns,Milwaukee Bucks,103,95,America West Arena,19023,/boxscores/199711120PHO.html
+Wed Nov 12 1997,Toronto Raptors,New York Knicks,70,93,SkyDome,18143,/boxscores/199711120TOR.html
+Wed Nov 12 1997,Utah Jazz,Vancouver Grizzlies,98,80,Delta Center,19851,/boxscores/199711120UTA.html
+Thu Nov 13 1997,Dallas Mavericks,Philadelphia 76ers,98,99,Reunion Arena,11084,/boxscores/199711130DAL.html
+Thu Nov 13 1997,Los Angeles Clippers,Milwaukee Bucks,94,102,Los Angeles Memorial Sports Arena,4300,/boxscores/199711130LAC.html
+Thu Nov 13 1997,Minnesota Timberwolves,Washington Wizards,88,91,Target Center,16491,/boxscores/199711130MIN.html
+Thu Nov 13 1997,New Jersey Nets,Cleveland Cavaliers,74,85,Continental Airlines Arena,14235,/boxscores/199711130NJN.html
+Thu Nov 13 1997,San Antonio Spurs,Los Angeles Lakers,100,109,Alamodome,20557,/boxscores/199711130SAS.html
+Thu Nov 13 1997,Seattle SuperSonics,Detroit Pistons,95,89,KeyArena at Seattle Center,17072,/boxscores/199711130SEA.html
+Fri Nov 14 1997,Atlanta Hawks,Sacramento Kings,104,103,Georgia Dome,21529,/boxscores/199711140ATL.html
+Fri Nov 14 1997,Boston Celtics,Toronto Raptors,103,99,FleetCenter,17224,/boxscores/199711140BOS.html
+Fri Nov 14 1997,Chicago Bulls,Charlotte Hornets,105,92,United Center,23894,/boxscores/199711140CHI.html
+Fri Nov 14 1997,Houston Rockets,Los Angeles Lakers,103,113,The Summit,16285,/boxscores/199711140HOU.html
+Fri Nov 14 1997,Indiana Pacers,Miami Heat,82,78,Market Square Arena,13794,/boxscores/199711140IND.html
+Fri Nov 14 1997,Orlando Magic,Denver Nuggets,103,85,Orlando Arena,16551,/boxscores/199711140ORL.html
+Fri Nov 14 1997,Portland Trail Blazers,Phoenix Suns,139,140,Rose Garden Arena,21057,/boxscores/199711140POR.html
+Fri Nov 14 1997,Utah Jazz,Seattle SuperSonics,110,104,Delta Center,19830,/boxscores/199711140UTA.html
+Sat Nov 15 1997,Charlotte Hornets,Los Angeles Clippers,130,96,Charlotte Coliseum,24042,/boxscores/199711150CHH.html
+Sat Nov 15 1997,Chicago Bulls,Cleveland Cavaliers,79,70,United Center,23906,/boxscores/199711150CHI.html
+Sat Nov 15 1997,Dallas Mavericks,Utah Jazz,77,85,Reunion Arena,14323,/boxscores/199711150DAL.html
+Sat Nov 15 1997,Detroit Pistons,New Jersey Nets,96,88,The Palace of Auburn Hills,19191,/boxscores/199711150DET.html
+Sat Nov 15 1997,Golden State Warriors,Portland Trail Blazers,87,99,The Arena in Oakland,10395,/boxscores/199711150GSW.html
+Sat Nov 15 1997,Miami Heat,Denver Nuggets,96,93,Miami Arena,14893,/boxscores/199711150MIA.html
+Sat Nov 15 1997,New York Knicks,Sacramento Kings,114,87,Madison Square Garden (IV),19763,/boxscores/199711150NYK.html
+Sat Nov 15 1997,Philadelphia 76ers,Boston Celtics,101,107,CoreStates Center,14127,/boxscores/199711150PHI.html
+Sat Nov 15 1997,San Antonio Spurs,Minnesota Timberwolves,94,105,Alamodome,17410,/boxscores/199711150SAS.html
+Sat Nov 15 1997,Toronto Raptors,Indiana Pacers,77,105,SkyDome,17188,/boxscores/199711150TOR.html
+Sat Nov 15 1997,Vancouver Grizzlies,Milwaukee Bucks,109,94,General Motors Place,17666,/boxscores/199711150VAN.html
+Sat Nov 15 1997,Washington Wizards,Orlando Magic,91,102,Capital Centre,18756,/boxscores/199711150WAS.html
+Sun Nov 16 1997,Atlanta Hawks,Los Angeles Clippers,89,83,Alexander Memorial Coliseum at McDonald's Center,8388,/boxscores/199711160ATL.html
+Sun Nov 16 1997,Cleveland Cavaliers,New Jersey Nets,72,77,Gund Arena,12860,/boxscores/199711160CLE.html
+Sun Nov 16 1997,Los Angeles Lakers,Vancouver Grizzlies,121,95,Great Western Forum,17139,/boxscores/199711160LAL.html
+Sun Nov 16 1997,Phoenix Suns,Houston Rockets,96,94,America West Arena,19023,/boxscores/199711160PHO.html
+Sun Nov 16 1997,Seattle SuperSonics,Milwaukee Bucks,119,99,KeyArena at Seattle Center,17072,/boxscores/199711160SEA.html
+Mon Nov 17 1997,Portland Trail Blazers,Dallas Mavericks,120,75,Rose Garden Arena,20033,/boxscores/199711170POR.html
+Tue Nov 18 1997,Atlanta Hawks,Washington Wizards,98,89,Georgia Dome,12809,/boxscores/199711180ATL.html
+Tue Nov 18 1997,Denver Nuggets,Vancouver Grizzlies,87,100,McNichols Sports Arena,9718,/boxscores/199711180DEN.html
+Tue Nov 18 1997,Houston Rockets,New York Knicks,95,84,The Summit,16285,/boxscores/199711180HOU.html
+Tue Nov 18 1997,Milwaukee Bucks,Detroit Pistons,87,79,Bradley Center,13065,/boxscores/199711180MIL.html
+Tue Nov 18 1997,Orlando Magic,Los Angeles Clippers,112,94,Orlando Arena,16435,/boxscores/199711180ORL.html
+Tue Nov 18 1997,Phoenix Suns,Minnesota Timberwolves,90,108,America West Arena,19023,/boxscores/199711180PHO.html
+Tue Nov 18 1997,Sacramento Kings,Dallas Mavericks,102,95,ARCO Arena (II),12665,/boxscores/199711180SAC.html
+Tue Nov 18 1997,Toronto Raptors,Boston Celtics,109,122,SkyDome,16343,/boxscores/199711180TOR.html
+Tue Nov 18 1997,Utah Jazz,Los Angeles Lakers,92,97,Delta Center,19911,/boxscores/199711180UTA.html
+Wed Nov 19 1997,Charlotte Hornets,Portland Trail Blazers,106,92,Charlotte Coliseum,24042,/boxscores/199711190CHH.html
+Wed Nov 19 1997,Cleveland Cavaliers,Orlando Magic,93,96,Gund Arena,13404,/boxscores/199711190CLE.html
+Wed Nov 19 1997,Los Angeles Lakers,Minnesota Timberwolves,118,93,Great Western Forum,17505,/boxscores/199711190LAL.html
+Wed Nov 19 1997,Miami Heat,Los Angeles Clippers,122,113,Miami Arena,14311,/boxscores/199711190MIA.html
+Wed Nov 19 1997,New Jersey Nets,Boston Celtics,108,100,Continental Airlines Arena,15449,/boxscores/199711190NJN.html
+Wed Nov 19 1997,Philadelphia 76ers,Washington Wizards,97,86,CoreStates Center,14170,/boxscores/199711190PHI.html
+Wed Nov 19 1997,San Antonio Spurs,Golden State Warriors,108,87,Alamodome,15326,/boxscores/199711190SAS.html
+Wed Nov 19 1997,Seattle SuperSonics,Vancouver Grizzlies,107,87,KeyArena at Seattle Center,17072,/boxscores/199711190SEA.html
+Thu Nov 20 1997,Atlanta Hawks,New York Knicks,79,100,Georgia Dome,21366,/boxscores/199711200ATL.html
+Thu Nov 20 1997,Dallas Mavericks,Golden State Warriors,97,101,Reunion Arena,14042,/boxscores/199711200DAL.html
+Thu Nov 20 1997,Detroit Pistons,Portland Trail Blazers,87,93,The Palace of Auburn Hills,16205,/boxscores/199711200DET.html
+Thu Nov 20 1997,Houston Rockets,Toronto Raptors,127,97,The Summit,16285,/boxscores/199711200HOU.html
+Thu Nov 20 1997,Milwaukee Bucks,Indiana Pacers,83,109,Bradley Center,14106,/boxscores/199711200MIL.html
+Thu Nov 20 1997,Phoenix Suns,Chicago Bulls,89,85,America West Arena,19023,/boxscores/199711200PHO.html
+Thu Nov 20 1997,Sacramento Kings,Utah Jazz,97,95,ARCO Arena (II),14648,/boxscores/199711200SAC.html
+Fri Nov 21 1997,Boston Celtics,New Jersey Nets,101,93,FleetCenter,18624,/boxscores/199711210BOS.html
+Fri Nov 21 1997,Charlotte Hornets,Miami Heat,119,102,Charlotte Coliseum,24042,/boxscores/199711210CHH.html
+Fri Nov 21 1997,Los Angeles Clippers,Chicago Bulls,102,111,Los Angeles Memorial Sports Arena,16199,/boxscores/199711210LAC.html
+Fri Nov 21 1997,Minnesota Timberwolves,Cleveland Cavaliers,80,103,Target Center,17002,/boxscores/199711210MIN.html
+Fri Nov 21 1997,Seattle SuperSonics,San Antonio Spurs,94,74,KeyArena at Seattle Center,17072,/boxscores/199711210SEA.html
+Fri Nov 21 1997,Vancouver Grizzlies,Denver Nuggets,99,96,General Motors Place,15988,/boxscores/199711210VAN.html
+Fri Nov 21 1997,Washington Wizards,New York Knicks,82,104,Capital Centre,18756,/boxscores/199711210WAS.html
+Sat Nov 22 1997,Cleveland Cavaliers,Washington Wizards,110,101,Gund Arena,16196,/boxscores/199711220CLE.html
+Sat Nov 22 1997,Dallas Mavericks,Milwaukee Bucks,62,83,Reunion Arena,11425,/boxscores/199711220DAL.html
+Sat Nov 22 1997,Denver Nuggets,Seattle SuperSonics,80,84,McNichols Sports Arena,12022,/boxscores/199711220DEN.html
+Sat Nov 22 1997,Detroit Pistons,Atlanta Hawks,87,85,The Palace of Auburn Hills,18481,/boxscores/199711220DET.html
+Sat Nov 22 1997,Houston Rockets,Golden State Warriors,90,84,The Summit,16285,/boxscores/199711220HOU.html
+Sat Nov 22 1997,Indiana Pacers,Charlotte Hornets,94,95,Market Square Arena,15802,/boxscores/199711220IND.html
+Sat Nov 22 1997,Miami Heat,Toronto Raptors,108,104,Miami Arena,14381,/boxscores/199711220MIA.html
+Sat Nov 22 1997,New Jersey Nets,Portland Trail Blazers,93,87,Continental Airlines Arena,18543,/boxscores/199711220NJN.html
+Sat Nov 22 1997,Philadelphia 76ers,Orlando Magic,94,108,CoreStates Center,14424,/boxscores/199711220PHI.html
+Sat Nov 22 1997,Utah Jazz,San Antonio Spurs,103,74,Delta Center,19911,/boxscores/199711220UTA.html
+Sun Nov 23 1997,Boston Celtics,Detroit Pistons,90,86,FleetCenter,17070,/boxscores/199711230BOS.html
+Sun Nov 23 1997,Los Angeles Lakers,Los Angeles Clippers,119,102,Great Western Forum,17505,/boxscores/199711230LAL.html
+Sun Nov 23 1997,New York Knicks,Vancouver Grizzlies,104,84,Madison Square Garden (IV),19763,/boxscores/199711230NYK.html
+Sun Nov 23 1997,Sacramento Kings,Chicago Bulls,88,103,ARCO Arena (II),17317,/boxscores/199711230SAC.html
+Mon Nov 24 1997,Orlando Magic,Washington Wizards,95,87,Orlando Arena,16548,/boxscores/199711240ORL.html
+Mon Nov 24 1997,Toronto Raptors,Portland Trail Blazers,90,91,SkyDome,15051,/boxscores/199711240TOR.html
+Mon Nov 24 1997,Utah Jazz,Minnesota Timberwolves,133,124,Delta Center,19911,/boxscores/199711240UTA.html
+Tue Nov 25 1997,Charlotte Hornets,Detroit Pistons,90,85,Charlotte Coliseum,22617,/boxscores/199711250CHH.html
+Tue Nov 25 1997,Dallas Mavericks,San Antonio Spurs,91,102,Reunion Arena,11557,/boxscores/199711250DAL.html
+Tue Nov 25 1997,Golden State Warriors,New Jersey Nets,87,101,The Arena in Oakland,9678,/boxscores/199711250GSW.html
+Tue Nov 25 1997,Miami Heat,Los Angeles Lakers,103,86,Miami Arena,15200,/boxscores/199711250MIA.html
+Tue Nov 25 1997,Sacramento Kings,Denver Nuggets,97,93,ARCO Arena (II),12950,/boxscores/199711250SAC.html
+Tue Nov 25 1997,Seattle SuperSonics,Chicago Bulls,91,90,KeyArena at Seattle Center,17072,/boxscores/199711250SEA.html
+Wed Nov 26 1997,Boston Celtics,Los Angeles Lakers,103,118,FleetCenter,18624,/boxscores/199711260BOS.html
+Wed Nov 26 1997,Los Angeles Clippers,Sacramento Kings,99,97,Los Angeles Memorial Sports Arena,8467,/boxscores/199711260LAC.html
+Wed Nov 26 1997,Milwaukee Bucks,Vancouver Grizzlies,101,82,Bradley Center,15126,/boxscores/199711260MIL.html
+Wed Nov 26 1997,Minnesota Timberwolves,Portland Trail Blazers,90,96,Target Center,17882,/boxscores/199711260MIN.html
+Wed Nov 26 1997,Orlando Magic,Miami Heat,60,84,Orlando Arena,17248,/boxscores/199711260ORL.html
+Wed Nov 26 1997,Philadelphia 76ers,Cleveland Cavaliers,89,95,CoreStates Center,12711,/boxscores/199711260PHI.html
+Wed Nov 26 1997,Phoenix Suns,New Jersey Nets,111,99,America West Arena,19023,/boxscores/199711260PHO.html
+Wed Nov 26 1997,San Antonio Spurs,Washington Wizards,94,98,Alamodome,14436,/boxscores/199711260SAS.html
+Wed Nov 26 1997,Toronto Raptors,Atlanta Hawks,104,109,SkyDome,15639,/boxscores/199711260TOR.html
+Thu Nov 27 1997,Indiana Pacers,Vancouver Grizzlies,106,85,Market Square Arena,14391,/boxscores/199711270IND.html
+Fri Nov 28 1997,Boston Celtics,Phoenix Suns,108,112,FleetCenter,18624,/boxscores/199711280BOS.html
+Fri Nov 28 1997,Charlotte Hornets,Cleveland Cavaliers,91,97,Charlotte Coliseum,24042,/boxscores/199711280CHH.html
+Fri Nov 28 1997,Dallas Mavericks,Toronto Raptors,93,91,Reunion Arena,13327,/boxscores/199711280DAL.html
+Fri Nov 28 1997,Denver Nuggets,Minnesota Timberwolves,95,84,McNichols Sports Arena,13628,/boxscores/199711280DEN.html
+Fri Nov 28 1997,Detroit Pistons,New York Knicks,86,78,The Palace of Auburn Hills,22076,/boxscores/199711280DET.html
+Fri Nov 28 1997,Indiana Pacers,Chicago Bulls,94,83,Market Square Arena,16736,/boxscores/199711280IND.html
+Fri Nov 28 1997,Los Angeles Clippers,New Jersey Nets,92,104,Arrowhead Pond,11030,/boxscores/199711280LAC.html
+Fri Nov 28 1997,Orlando Magic,Milwaukee Bucks,94,90,Orlando Arena,17070,/boxscores/199711280ORL.html
+Fri Nov 28 1997,Philadelphia 76ers,Los Angeles Lakers,105,95,CoreStates Center,20714,/boxscores/199711280PHI.html
+Fri Nov 28 1997,Portland Trail Blazers,Houston Rockets,89,98,Rose Garden Arena,21174,/boxscores/199711280POR.html
+Fri Nov 28 1997,Seattle SuperSonics,Sacramento Kings,113,96,KeyArena at Seattle Center,17072,/boxscores/199711280SEA.html
+Fri Nov 28 1997,Utah Jazz,Golden State Warriors,111,82,Delta Center,19911,/boxscores/199711280UTA.html
+Sat Nov 29 1997,Atlanta Hawks,Charlotte Hornets,98,80,Georgia Dome,21938,/boxscores/199711290ATL.html
+Sat Nov 29 1997,Cleveland Cavaliers,Boston Celtics,103,97,Gund Arena,19349,/boxscores/199711290CLE.html
+Sat Nov 29 1997,Golden State Warriors,Houston Rockets,100,107,The Arena in Oakland,12578,/boxscores/199711290GSW.html
+Sat Nov 29 1997,Los Angeles Clippers,Utah Jazz,91,94,Los Angeles Memorial Sports Arena,14956,/boxscores/199711290LAC.html
+Sat Nov 29 1997,Miami Heat,Milwaukee Bucks,87,93,Miami Arena,14897,/boxscores/199711290MIA.html
+Sat Nov 29 1997,Minnesota Timberwolves,Vancouver Grizzlies,106,87,Target Center,17494,/boxscores/199711290MIN.html
+Sat Nov 29 1997,New York Knicks,Phoenix Suns,102,80,Madison Square Garden (IV),19763,/boxscores/199711290NYK.html
+Sat Nov 29 1997,San Antonio Spurs,Dallas Mavericks,96,87,Alamodome,16270,/boxscores/199711290SAS.html
+Sat Nov 29 1997,Washington Wizards,Chicago Bulls,83,88,Capital Centre,18756,/boxscores/199711290WAS.html
+Sun Nov 30 1997,Atlanta Hawks,San Antonio Spurs,108,96,Georgia Dome,15294,/boxscores/199711300ATL.html
+Sun Nov 30 1997,Detroit Pistons,Vancouver Grizzlies,95,97,The Palace of Auburn Hills,16030,/boxscores/199711300DET.html
+Sun Nov 30 1997,Indiana Pacers,Philadelphia 76ers,101,89,Market Square Arena,13368,/boxscores/199711300IND.html
+Sun Nov 30 1997,Los Angeles Lakers,Toronto Raptors,105,99,Great Western Forum,14940,/boxscores/199711300LAL.html
+Sun Nov 30 1997,Sacramento Kings,New Jersey Nets,73,87,ARCO Arena (II),12897,/boxscores/199711300SAC.html
+Sun Nov 30 1997,Seattle SuperSonics,Orlando Magic,103,81,KeyArena at Seattle Center,17072,/boxscores/199711300SEA.html

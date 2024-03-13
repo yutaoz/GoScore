@@ -1,0 +1,41 @@
+Fri May 1 1992,Detroit Pistons,New York Knicks,86,82,The Palace of Auburn Hills,21454,/boxscores/199205010DET.html
+Sat May 2 1992,Cleveland Cavaliers,Boston Celtics,101,76,Coliseum at Richfield,17496,/boxscores/199205020CLE.html
+Sun May 3 1992,Los Angeles Lakers,Portland Trail Blazers,76,102,Thomas & Mack Center,15478,/boxscores/199205030LAL.html
+Sun May 3 1992,New York Knicks,Detroit Pistons,94,87,Madison Square Garden (IV),19135,/boxscores/199205030NYK.html
+Sun May 3 1992,Los Angeles Clippers,Utah Jazz,115,107,Anaheim Convention Center,7148,/boxscores/199205030LAC.html
+Mon May 4 1992,Cleveland Cavaliers,Boston Celtics,98,104,Coliseum at Richfield,20273,/boxscores/199205040CLE.html
+Mon May 4 1992,Utah Jazz,Los Angeles Clippers,98,89,Delta Center,19911,/boxscores/199205040UTA.html
+Tue May 5 1992,Chicago Bulls,New York Knicks,89,94,Chicago Stadium,18676,/boxscores/199205050CHI.html
+Tue May 5 1992,Portland Trail Blazers,Phoenix Suns,113,111,Memorial Coliseum,12888,/boxscores/199205050POR.html
+Wed May 6 1992,Utah Jazz,Seattle SuperSonics,108,100,Delta Center,19911,/boxscores/199205060UTA.html
+Thu May 7 1992,Portland Trail Blazers,Phoenix Suns,126,119,Memorial Coliseum,12888,/boxscores/199205070POR.html
+Thu May 7 1992,Chicago Bulls,New York Knicks,86,78,Chicago Stadium,18676,/boxscores/199205070CHI.html
+Fri May 8 1992,Boston Celtics,Cleveland Cavaliers,110,107,Boston Garden,14890,/boxscores/199205080BOS.html
+Fri May 8 1992,Utah Jazz,Seattle SuperSonics,103,97,Delta Center,19911,/boxscores/199205080UTA.html
+Sat May 9 1992,New York Knicks,Chicago Bulls,86,94,Madison Square Garden (IV),19763,/boxscores/199205090NYK.html
+Sat May 9 1992,Phoenix Suns,Portland Trail Blazers,124,117,Arizona Veterans Memorial Coliseum,14496,/boxscores/199205090PHO.html
+Sun May 10 1992,Boston Celtics,Cleveland Cavaliers,112,114,Boston Garden,14890,/boxscores/199205100BOS.html
+Sun May 10 1992,New York Knicks,Chicago Bulls,93,86,Madison Square Garden (IV),19763,/boxscores/199205100NYK.html
+Sun May 10 1992,Seattle SuperSonics,Utah Jazz,104,98,Seattle Center Coliseum,14104,/boxscores/199205100SEA.html
+Mon May 11 1992,Phoenix Suns,Portland Trail Blazers,151,153,Arizona Veterans Memorial Coliseum,14496,/boxscores/199205110PHO.html
+Tue May 12 1992,Chicago Bulls,New York Knicks,96,88,Chicago Stadium,18676,/boxscores/199205120CHI.html
+Tue May 12 1992,Seattle SuperSonics,Utah Jazz,83,89,Seattle Center Coliseum,14252,/boxscores/199205120SEA.html
+Wed May 13 1992,Cleveland Cavaliers,Boston Celtics,114,98,Coliseum at Richfield,20273,/boxscores/199205130CLE.html
+Thu May 14 1992,New York Knicks,Chicago Bulls,100,86,Madison Square Garden (IV),19763,/boxscores/199205140NYK.html
+Thu May 14 1992,Portland Trail Blazers,Phoenix Suns,118,106,Memorial Coliseum,12888,/boxscores/199205140POR.html
+Thu May 14 1992,Utah Jazz,Seattle SuperSonics,111,100,Delta Center,19911,/boxscores/199205140UTA.html
+Fri May 15 1992,Boston Celtics,Cleveland Cavaliers,122,91,Boston Garden,14890,/boxscores/199205150BOS.html
+Sat May 16 1992,Portland Trail Blazers,Utah Jazz,113,88,Memorial Coliseum,12888,/boxscores/199205160POR.html
+Sun May 17 1992,Chicago Bulls,New York Knicks,110,81,Chicago Stadium,18676,/boxscores/199205170CHI.html
+Sun May 17 1992,Cleveland Cavaliers,Boston Celtics,122,104,Coliseum at Richfield,20273,/boxscores/199205170CLE.html
+Tue May 19 1992,Portland Trail Blazers,Utah Jazz,119,102,Memorial Coliseum,12888,/boxscores/199205190POR.html
+Tue May 19 1992,Chicago Bulls,Cleveland Cavaliers,103,89,Chicago Stadium,18676,/boxscores/199205190CHI.html
+Thu May 21 1992,Chicago Bulls,Cleveland Cavaliers,81,107,Chicago Stadium,18676,/boxscores/199205210CHI.html
+Fri May 22 1992,Utah Jazz,Portland Trail Blazers,97,89,Delta Center,19911,/boxscores/199205220UTA.html
+Sat May 23 1992,Cleveland Cavaliers,Chicago Bulls,96,105,Coliseum at Richfield,20273,/boxscores/199205230CLE.html
+Sun May 24 1992,Utah Jazz,Portland Trail Blazers,121,112,Delta Center,19911,/boxscores/199205240UTA.html
+Mon May 25 1992,Cleveland Cavaliers,Chicago Bulls,99,85,Coliseum at Richfield,20273,/boxscores/199205250CLE.html
+Tue May 26 1992,Portland Trail Blazers,Utah Jazz,127,121,Memorial Coliseum,12888,/boxscores/199205260POR.html
+Wed May 27 1992,Chicago Bulls,Cleveland Cavaliers,112,89,Chicago Stadium,18676,/boxscores/199205270CHI.html
+Thu May 28 1992,Utah Jazz,Portland Trail Blazers,97,105,Delta Center,19911,/boxscores/199205280UTA.html
+Fri May 29 1992,Cleveland Cavaliers,Chicago Bulls,94,99,Coliseum at Richfield,20273,/boxscores/199205290CLE.html

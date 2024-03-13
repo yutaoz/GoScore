@@ -1,0 +1,50 @@
+Mon May 1 1995,Los Angeles Lakers,Seattle SuperSonics,105,101,Great Western Forum,17505,/boxscores/199505010LAL.html
+Mon May 1 1995,Cleveland Cavaliers,New York Knicks,81,83,Gund Arena,19352,/boxscores/199505010CLE.html
+Tue May 2 1995,Chicago Bulls,Charlotte Hornets,103,80,United Center,24114,/boxscores/199505020CHI.html
+Tue May 2 1995,Denver Nuggets,San Antonio Spurs,95,99,McNichols Sports Arena,17171,/boxscores/199505020DEN.html
+Tue May 2 1995,Portland Trail Blazers,Phoenix Suns,109,117,Memorial Coliseum,12888,/boxscores/199505020POR.html
+Tue May 2 1995,Atlanta Hawks,Indiana Pacers,89,105,Omni Coliseum,12106,/boxscores/199505020ATL.html
+Wed May 3 1995,Boston Celtics,Orlando Magic,77,82,Boston Garden,14890,/boxscores/199505030BOS.html
+Wed May 3 1995,Houston Rockets,Utah Jazz,82,95,The Summit,16611,/boxscores/199505030HOU.html
+Thu May 4 1995,Chicago Bulls,Charlotte Hornets,85,84,United Center,24221,/boxscores/199505040CHI.html
+Thu May 4 1995,Cleveland Cavaliers,New York Knicks,80,93,Gund Arena,18575,/boxscores/199505040CLE.html
+Thu May 4 1995,Los Angeles Lakers,Seattle SuperSonics,114,110,Great Western Forum,17505,/boxscores/199505040LAL.html
+Fri May 5 1995,Boston Celtics,Orlando Magic,92,95,Boston Garden,14890,/boxscores/199505050BOS.html
+Fri May 5 1995,Houston Rockets,Utah Jazz,123,106,The Summit,16611,/boxscores/199505050HOU.html
+Sat May 6 1995,San Antonio Spurs,Los Angeles Lakers,110,94,Alamodome,24002,/boxscores/199505060SAS.html
+Sun May 7 1995,New York Knicks,Indiana Pacers,105,107,Madison Square Garden (IV),19763,/boxscores/199505070NYK.html
+Sun May 7 1995,Utah Jazz,Houston Rockets,91,95,Delta Center,19911,/boxscores/199505070UTA.html
+Sun May 7 1995,Orlando Magic,Chicago Bulls,94,91,Orlando Arena,16010,/boxscores/199505070ORL.html
+Mon May 8 1995,San Antonio Spurs,Los Angeles Lakers,97,90,Alamodome,26127,/boxscores/199505080SAS.html
+Tue May 9 1995,New York Knicks,Indiana Pacers,96,77,Madison Square Garden (IV),19763,/boxscores/199505090NYK.html
+Tue May 9 1995,Phoenix Suns,Houston Rockets,130,108,America West Arena,19023,/boxscores/199505090PHO.html
+Wed May 10 1995,Orlando Magic,Chicago Bulls,94,104,Orlando Arena,16010,/boxscores/199505100ORL.html
+Thu May 11 1995,Indiana Pacers,New York Knicks,97,95,Market Square Arena,16675,/boxscores/199505110IND.html
+Thu May 11 1995,Phoenix Suns,Houston Rockets,118,94,America West Arena,19023,/boxscores/199505110PHO.html
+Fri May 12 1995,Chicago Bulls,Orlando Magic,101,110,United Center,24281,/boxscores/199505120CHI.html
+Fri May 12 1995,Los Angeles Lakers,San Antonio Spurs,92,85,Great Western Forum,17505,/boxscores/199505120LAL.html
+Sat May 13 1995,Houston Rockets,Phoenix Suns,118,85,The Summit,16611,/boxscores/199505130HOU.html
+Sat May 13 1995,Indiana Pacers,New York Knicks,98,84,Market Square Arena,16678,/boxscores/199505130IND.html
+Sun May 14 1995,Chicago Bulls,Orlando Magic,106,95,United Center,24358,/boxscores/199505140CHI.html
+Sun May 14 1995,Houston Rockets,Phoenix Suns,110,114,The Summit,16611,/boxscores/199505140HOU.html
+Sun May 14 1995,Los Angeles Lakers,San Antonio Spurs,71,80,Great Western Forum,17505,/boxscores/199505140LAL.html
+Tue May 16 1995,Orlando Magic,Chicago Bulls,103,95,Orlando Arena,16010,/boxscores/199505160ORL.html
+Tue May 16 1995,Phoenix Suns,Houston Rockets,97,103,America West Arena,19023,/boxscores/199505160PHO.html
+Tue May 16 1995,San Antonio Spurs,Los Angeles Lakers,96,98,Alamodome,35888,/boxscores/199505160SAS.html
+Wed May 17 1995,New York Knicks,Indiana Pacers,96,95,Madison Square Garden (IV),19763,/boxscores/199505170NYK.html
+Thu May 18 1995,Chicago Bulls,Orlando Magic,102,108,United Center,24322,/boxscores/199505180CHI.html
+Thu May 18 1995,Houston Rockets,Phoenix Suns,116,103,The Summit,16661,/boxscores/199505180HOU.html
+Thu May 18 1995,Los Angeles Lakers,San Antonio Spurs,88,100,Great Western Forum,17505,/boxscores/199505180LAL.html
+Fri May 19 1995,Indiana Pacers,New York Knicks,82,92,Market Square Arena,16679,/boxscores/199505190IND.html
+Sat May 20 1995,Phoenix Suns,Houston Rockets,114,115,America West Arena,19023,/boxscores/199505200PHO.html
+Sun May 21 1995,New York Knicks,Indiana Pacers,95,97,Madison Square Garden (IV),19763,/boxscores/199505210NYK.html
+Mon May 22 1995,San Antonio Spurs,Houston Rockets,93,94,Alamodome,33337,/boxscores/199505220SAS.html
+Tue May 23 1995,Orlando Magic,Indiana Pacers,105,101,Orlando Arena,16010,/boxscores/199505230ORL.html
+Wed May 24 1995,San Antonio Spurs,Houston Rockets,96,106,Alamodome,35888,/boxscores/199505240SAS.html
+Thu May 25 1995,Orlando Magic,Indiana Pacers,119,114,Orlando Arena,16010,/boxscores/199505250ORL.html
+Fri May 26 1995,Houston Rockets,San Antonio Spurs,102,107,The Summit,16611,/boxscores/199505260HOU.html
+Sat May 27 1995,Indiana Pacers,Orlando Magic,105,100,Market Square Arena,16477,/boxscores/199505270IND.html
+Sun May 28 1995,Houston Rockets,San Antonio Spurs,81,103,The Summit,16611,/boxscores/199505280HOU.html
+Mon May 29 1995,Indiana Pacers,Orlando Magic,94,93,Market Square Arena,16477,/boxscores/199505290IND.html
+Tue May 30 1995,San Antonio Spurs,Houston Rockets,90,111,Alamodome,35888,/boxscores/199505300SAS.html
+Wed May 31 1995,Orlando Magic,Indiana Pacers,108,106,Orlando Arena,16010,/boxscores/199505310ORL.html

@@ -1,0 +1,49 @@
+Wed Mar 1 1961,Cincinnati Royals,Detroit Pistons,137,122,Cincinnati Gardens,0,/boxscores/196103010CIN.html
+Wed Mar 1 1961,Los Angeles Lakers,New York Knicks,144,107,Boston Garden,0,/boxscores/196103010LAL.html
+Wed Mar 1 1961,Syracuse Nationals,Philadelphia Warriors,149,128,Onondaga War Memorial,0,/boxscores/196103010SYR.html
+Wed Mar 1 1961,Boston Celtics,St. Louis Hawks,97,110,Boston Garden,0,/boxscores/196103010BOS.html
+Thu Mar 2 1961,Los Angeles Lakers,Syracuse Nationals,114,110,Scranton Catholic Youth Center,0,/boxscores/196103020LAL.html
+Fri Mar 3 1961,Detroit Pistons,New York Knicks,129,112,Hershey Sports Arena,0,/boxscores/196103030DET.html
+Fri Mar 3 1961,Philadelphia Warriors,Syracuse Nationals,123,116,Hershey Sports Arena,0,/boxscores/196103030PHW.html
+Sat Mar 4 1961,Boston Celtics,New York Knicks,113,110,Boston Garden,0,/boxscores/196103040BOS.html
+Sat Mar 4 1961,Philadelphia Warriors,Syracuse Nationals,116,115,Philadelphia Arena,0,/boxscores/196103040PHW.html
+Sat Mar 4 1961,St. Louis Hawks,Detroit Pistons,104,102,Kiel Auditorium,0,/boxscores/196103040STL.html
+Sun Mar 5 1961,Syracuse Nationals,Los Angeles Lakers,114,125,Onondaga War Memorial,0,/boxscores/196103050SYR.html
+Sun Mar 5 1961,New York Knicks,Cincinnati Royals,118,124,Madison Square Garden (III),0,/boxscores/196103050NYK.html
+Sun Mar 5 1961,Detroit Pistons,St. Louis Hawks,122,127,Memorial Building - University of Detroit,0,/boxscores/196103050DET.html
+Sun Mar 5 1961,Boston Celtics,Philadelphia Warriors,146,129,Boston Garden,0,/boxscores/196103050BOS.html
+Tue Mar 7 1961,Boston Celtics,Cincinnati Royals,124,121,Rhode Island Auditorium,0,/boxscores/196103070BOS.html
+Tue Mar 7 1961,New York Knicks,Syracuse Nationals,114,113,Madison Square Garden (III),0,/boxscores/196103070NYK.html
+Tue Mar 7 1961,St. Louis Hawks,Los Angeles Lakers,137,136,Kiel Auditorium,0,/boxscores/196103070STL.html
+Wed Mar 8 1961,Boston Celtics,Syracuse Nationals,136,127,Boston Garden,0,/boxscores/196103080BOS.html
+Wed Mar 8 1961,Detroit Pistons,Los Angeles Lakers,120,103,Memorial Building - University of Detroit,0,/boxscores/196103080DET.html
+Wed Mar 8 1961,New York Knicks,St. Louis Hawks,94,117,Memorial Building - University of Detroit,0,/boxscores/196103080NYK.html
+Thu Mar 9 1961,Boston Celtics,Detroit Pistons,119,118,Onondaga War Memorial,0,/boxscores/196103090BOS.html
+Thu Mar 9 1961,Philadelphia Warriors,New York Knicks,135,126,Philadelphia Arena,0,/boxscores/196103090PHW.html
+Thu Mar 9 1961,Syracuse Nationals,St. Louis Hawks,129,119,Onondaga War Memorial,0,/boxscores/196103090SYR.html
+Fri Mar 10 1961,Detroit Pistons,Philadelphia Warriors,120,103,War Memorial Coliseum,0,/boxscores/196103100DET.html
+Sat Mar 11 1961,Boston Celtics,Syracuse Nationals,126,116,Boston Garden,0,/boxscores/196103110BOS.html
+Sat Mar 11 1961,St. Louis Hawks,Philadelphia Warriors,130,87,Kiel Auditorium,0,/boxscores/196103110STL.html
+Sat Mar 11 1961,Los Angeles Lakers,Cincinnati Royals,105,108,Los Angeles Memorial Sports Arena,0,/boxscores/196103110LAL.html
+Sun Mar 12 1961,Los Angeles Lakers,Cincinnati Royals,123,122,Los Angeles Memorial Sports Arena,0,/boxscores/196103120LAL.html
+Sun Mar 12 1961,New York Knicks,Detroit Pistons,106,120,Madison Square Garden (III),0,/boxscores/196103120NYK.html
+Sun Mar 12 1961,Syracuse Nationals,Boston Celtics,134,136,Onondaga War Memorial,0,/boxscores/196103120SYR.html
+Tue Mar 14 1961,Los Angeles Lakers,Detroit Pistons,120,102,Los Angeles Memorial Sports Arena,0,/boxscores/196103140LAL.html
+Tue Mar 14 1961,Philadelphia Warriors,Syracuse Nationals,107,115,Philadelphia Arena,0,/boxscores/196103140PHW.html
+Wed Mar 15 1961,Los Angeles Lakers,Detroit Pistons,127,118,Los Angeles Memorial Sports Arena,0,/boxscores/196103150LAL.html
+Thu Mar 16 1961,Syracuse Nationals,Philadelphia Warriors,115,114,Onondaga War Memorial,0,/boxscores/196103160SYR.html
+Fri Mar 17 1961,Detroit Pistons,Los Angeles Lakers,124,113,Memorial Building - University of Detroit,0,/boxscores/196103170DET.html
+Sat Mar 18 1961,Detroit Pistons,Los Angeles Lakers,123,114,Memorial Building - University of Detroit,0,/boxscores/196103180DET.html
+Sat Mar 18 1961,Philadelphia Warriors,Syracuse Nationals,103,106,The Palestra,0,/boxscores/196103180PHW.html
+Sun Mar 19 1961,Boston Celtics,Syracuse Nationals,128,115,Boston Garden,0,/boxscores/196103190BOS.html
+Sun Mar 19 1961,Los Angeles Lakers,Detroit Pistons,137,120,Los Angeles Shrine Auditorium,0,/boxscores/196103190LAL.html
+Tue Mar 21 1961,St. Louis Hawks,Los Angeles Lakers,118,122,Kiel Auditorium,0,/boxscores/196103210STL.html
+Tue Mar 21 1961,Syracuse Nationals,Boston Celtics,115,98,Onondaga War Memorial,0,/boxscores/196103210SYR.html
+Wed Mar 22 1961,St. Louis Hawks,Los Angeles Lakers,121,106,Kiel Auditorium,0,/boxscores/196103220STL.html
+Thu Mar 23 1961,Boston Celtics,Syracuse Nationals,133,110,Boston Garden,0,/boxscores/196103230BOS.html
+Fri Mar 24 1961,Los Angeles Lakers,St. Louis Hawks,118,112,Los Angeles State College,0,/boxscores/196103240LAL.html
+Sat Mar 25 1961,Los Angeles Lakers,St. Louis Hawks,117,118,Los Angeles State College,0,/boxscores/196103250LAL.html
+Sat Mar 25 1961,Syracuse Nationals,Boston Celtics,107,120,Onondaga War Memorial,0,/boxscores/196103250SYR.html
+Sun Mar 26 1961,Boston Celtics,Syracuse Nationals,123,101,Boston Garden,0,/boxscores/196103260BOS.html
+Mon Mar 27 1961,St. Louis Hawks,Los Angeles Lakers,112,121,Kiel Auditorium,0,/boxscores/196103270STL.html
+Wed Mar 29 1961,Los Angeles Lakers,St. Louis Hawks,113,114,Los Angeles Memorial Sports Arena,0,/boxscores/196103290LAL.html

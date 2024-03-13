@@ -1,0 +1,76 @@
+Tue Jan 1 1963,Cincinnati Royals,New York Knicks,112,106,Cincinnati Gardens,0,/boxscores/196301010CIN.html
+Wed Jan 2 1963,Detroit Pistons,Cincinnati Royals,138,118,Cobo Arena,0,/boxscores/196301020DET.html
+Wed Jan 2 1963,Syracuse Nationals,St. Louis Hawks,120,95,Onondaga War Memorial,0,/boxscores/196301020SYR.html
+Wed Jan 2 1963,San Francisco Warriors,Boston Celtics,120,135,Cow Palace,0,/boxscores/196301020SFW.html
+Thu Jan 3 1963,New York Knicks,Syracuse Nationals,123,115,Baltimore Civic Center,0,/boxscores/196301030NYK.html
+Fri Jan 4 1963,Cincinnati Royals,San Francisco Warriors,130,129,Cincinnati Gardens,0,/boxscores/196301040CIN.html
+Fri Jan 4 1963,Detroit Pistons,St. Louis Hawks,100,121,Madison Square Garden (III),0,/boxscores/196301040DET.html
+Fri Jan 4 1963,Los Angeles Lakers,Boston Celtics,125,123,Los Angeles Memorial Sports Arena,0,/boxscores/196301040LAL.html
+Fri Jan 4 1963,New York Knicks,Chicago Zephyrs,129,108,Madison Square Garden (III),0,/boxscores/196301040NYK.html
+Sat Jan 5 1963,Chicago Zephyrs,San Francisco Warriors,126,127,Chicago Coliseum,0,/boxscores/196301050CHZ.html
+Sat Jan 5 1963,Cincinnati Royals,Syracuse Nationals,117,136,Utica Memorial Auditorium,0,/boxscores/196301050CIN.html
+Sat Jan 5 1963,Detroit Pistons,St. Louis Hawks,92,90,Cobo Arena,0,/boxscores/196301050DET.html
+Sat Jan 5 1963,Los Angeles Lakers,Boston Celtics,106,104,Los Angeles Memorial Sports Arena,0,/boxscores/196301050LAL.html
+Sun Jan 6 1963,Cincinnati Royals,Los Angeles Lakers,119,120,Cincinnati Gardens,0,/boxscores/196301060CIN.html
+Sun Jan 6 1963,Syracuse Nationals,Chicago Zephyrs,114,102,Onondaga War Memorial,0,/boxscores/196301060SYR.html
+Sun Jan 6 1963,St. Louis Hawks,San Francisco Warriors,114,103,Kiel Auditorium,0,/boxscores/196301060STL.html
+Sun Jan 6 1963,New York Knicks,Detroit Pistons,102,103,Madison Square Garden (III),0,/boxscores/196301060NYK.html
+Tue Jan 8 1963,Cincinnati Royals,Syracuse Nationals,116,119,University of Dayton Fieldhouse,0,/boxscores/196301080CIN.html
+Tue Jan 8 1963,Detroit Pistons,New York Knicks,109,93,Sports Arena,0,/boxscores/196301080DET.html
+Tue Jan 8 1963,San Francisco Warriors,Boston Celtics,112,118,Cow Palace,0,/boxscores/196301080SFW.html
+Tue Jan 8 1963,St. Louis Hawks,Los Angeles Lakers,96,99,Kiel Auditorium,0,/boxscores/196301080STL.html
+Wed Jan 9 1963,Chicago Zephyrs,Boston Celtics,131,123,Chicago Coliseum,0,/boxscores/196301090CHZ.html
+Wed Jan 9 1963,Syracuse Nationals,Cincinnati Royals,112,116,Onondaga War Memorial,0,/boxscores/196301090SYR.html
+Wed Jan 9 1963,New York Knicks,St. Louis Hawks,95,110,Cobo Arena,0,/boxscores/196301090NYK.html
+Wed Jan 9 1963,Detroit Pistons,Los Angeles Lakers,115,123,Cobo Arena,0,/boxscores/196301090DET.html
+Thu Jan 10 1963,Cincinnati Royals,Boston Celtics,130,121,Cincinnati Gardens,0,/boxscores/196301100CIN.html
+Fri Jan 11 1963,Boston Celtics,Syracuse Nationals,134,117,Boston Garden,0,/boxscores/196301110BOS.html
+Fri Jan 11 1963,Detroit Pistons,Chicago Zephyrs,116,112,Cobo Arena,0,/boxscores/196301110DET.html
+Fri Jan 11 1963,San Francisco Warriors,Los Angeles Lakers,129,134,Cow Palace,0,/boxscores/196301110SFW.html
+Sat Jan 12 1963,Chicago Zephyrs,New York Knicks,130,97,Chicago Coliseum,0,/boxscores/196301120CHZ.html
+Sat Jan 12 1963,Detroit Pistons,Syracuse Nationals,146,115,Rochester Community War Memorial,0,/boxscores/196301120DET.html
+Sat Jan 12 1963,Los Angeles Lakers,San Francisco Warriors,119,114,Los Angeles Memorial Sports Arena,0,/boxscores/196301120LAL.html
+Sat Jan 12 1963,St. Louis Hawks,Cincinnati Royals,115,109,St. Louis Arena,0,/boxscores/196301120STL.html
+Sun Jan 13 1963,Boston Celtics,Chicago Zephyrs,143,99,Boston Garden,0,/boxscores/196301130BOS.html
+Sun Jan 13 1963,Cincinnati Royals,St. Louis Hawks,104,105,Cincinnati Gardens,0,/boxscores/196301130CIN.html
+Sun Jan 13 1963,Los Angeles Lakers,New York Knicks,108,102,Los Angeles Memorial Sports Arena,0,/boxscores/196301130LAL.html
+Sun Jan 13 1963,Syracuse Nationals,Detroit Pistons,148,114,Onondaga War Memorial,0,/boxscores/196301130SYR.html
+Mon Jan 14 1963,San Francisco Warriors,New York Knicks,142,134,Cow Palace,0,/boxscores/196301140SFW.html
+Thu Jan 17 1963,Boston Celtics,Chicago Zephyrs,110,93,Baltimore Civic Center,0,/boxscores/196301170BOS.html
+Thu Jan 17 1963,San Francisco Warriors,New York Knicks,100,113,Cow Palace,0,/boxscores/196301170SFW.html
+Fri Jan 18 1963,Boston Celtics,Cincinnati Royals,122,114,Boston Garden,0,/boxscores/196301180BOS.html
+Fri Jan 18 1963,Chicago Zephyrs,Los Angeles Lakers,108,116,Chicago Coliseum,0,/boxscores/196301180CHZ.html
+Sat Jan 19 1963,Cincinnati Royals,New York Knicks,114,108,Cincinnati Gardens,0,/boxscores/196301190CIN.html
+Sat Jan 19 1963,St. Louis Hawks,San Francisco Warriors,116,114,Kiel Auditorium,0,/boxscores/196301190STL.html
+Sat Jan 19 1963,Syracuse Nationals,Boston Celtics,149,148,Onondaga War Memorial,0,/boxscores/196301190SYR.html
+Sun Jan 20 1963,Boston Celtics,Los Angeles Lakers,133,121,Boston Garden,0,/boxscores/196301200BOS.html
+Sun Jan 20 1963,Chicago Zephyrs,Cincinnati Royals,113,93,Chicago Coliseum,0,/boxscores/196301200CHZ.html
+Sun Jan 20 1963,St. Louis Hawks,San Francisco Warriors,116,115,Kiel Auditorium,0,/boxscores/196301200STL.html
+Mon Jan 21 1963,Los Angeles Lakers,Detroit Pistons,124,94,Los Angeles Memorial Sports Arena,0,/boxscores/196301210LAL.html
+Tue Jan 22 1963,New York Knicks,Boston Celtics,100,124,Madison Square Garden (III),0,/boxscores/196301220NYK.html
+Tue Jan 22 1963,St. Louis Hawks,Syracuse Nationals,113,93,Madison Square Garden (III),0,/boxscores/196301220STL.html
+Tue Jan 22 1963,San Francisco Warriors,Detroit Pistons,107,115,Cow Palace,0,/boxscores/196301220SFW.html
+Wed Jan 23 1963,Chicago Zephyrs,Syracuse Nationals,104,94,Chicago Coliseum,0,/boxscores/196301230CHZ.html
+Wed Jan 23 1963,Cincinnati Royals,Boston Celtics,138,133,Cincinnati Gardens,0,/boxscores/196301230CIN.html
+Wed Jan 23 1963,Los Angeles Lakers,Detroit Pistons,123,119,Los Angeles Memorial Sports Arena,0,/boxscores/196301230LAL.html
+Thu Jan 24 1963,Boston Celtics,St. Louis Hawks,111,109,Rhode Island Auditorium,0,/boxscores/196301240BOS.html
+Thu Jan 24 1963,Detroit Pistons,San Francisco Warriors,114,138,Bakersfield College Gymnasium,0,/boxscores/196301240DET.html
+Fri Jan 25 1963,Boston Celtics,St. Louis Hawks,113,98,Boston Garden,0,/boxscores/196301250BOS.html
+Fri Jan 25 1963,New York Knicks,Cincinnati Royals,112,114,Madison Square Garden (III),0,/boxscores/196301250NYK.html
+Fri Jan 25 1963,Chicago Zephyrs,Detroit Pistons,111,113,Chicago Coliseum,0,/boxscores/196301250CHZ.html
+Fri Jan 25 1963,Los Angeles Lakers,Syracuse Nationals,122,114,Peterson Gym,0,/boxscores/196301250LAL.html
+Sat Jan 26 1963,Cincinnati Royals,Chicago Zephyrs,142,116,Cincinnati Gardens,0,/boxscores/196301260CIN.html
+Sat Jan 26 1963,San Francisco Warriors,Syracuse Nationals,110,116,University of San Francisco,0,/boxscores/196301260SFW.html
+Sun Jan 27 1963,Boston Celtics,New York Knicks,123,110,Boston Garden,0,/boxscores/196301270BOS.html
+Sun Jan 27 1963,Chicago Zephyrs,Cincinnati Royals,126,143,University of Dayton Fieldhouse,0,/boxscores/196301270CHZ.html
+Sun Jan 27 1963,San Francisco Warriors,Syracuse Nationals,110,119,University of San Francisco,0,/boxscores/196301270SFW.html
+Sun Jan 27 1963,St. Louis Hawks,Los Angeles Lakers,101,105,Kiel Auditorium,0,/boxscores/196301270STL.html
+Tue Jan 29 1963,Boston Celtics,Chicago Zephyrs,100,99,Madison Square Garden (III),0,/boxscores/196301290BOS.html
+Tue Jan 29 1963,St. Louis Hawks,Syracuse Nationals,123,105,Kiel Auditorium,0,/boxscores/196301290STL.html
+Tue Jan 29 1963,New York Knicks,San Francisco Warriors,103,123,Madison Square Garden (III),0,/boxscores/196301290NYK.html
+Wed Jan 30 1963,Boston Celtics,San Francisco Warriors,125,111,Boston Garden,0,/boxscores/196301300BOS.html
+Wed Jan 30 1963,Los Angeles Lakers,New York Knicks,116,115,Boston Garden,0,/boxscores/196301300LAL.html
+Thu Jan 31 1963,Boston Celtics,Cincinnati Royals,128,125,Cole Field House,0,/boxscores/196301310BOS.html
+Thu Jan 31 1963,Chicago Zephyrs,New York Knicks,116,101,Chicago Coliseum,0,/boxscores/196301310CHZ.html
+Thu Jan 31 1963,Detroit Pistons,Los Angeles Lakers,122,127,War Memorial Coliseum,0,/boxscores/196301310DET.html
+Thu Jan 31 1963,Syracuse Nationals,St. Louis Hawks,112,100,Onondaga War Memorial,0,/boxscores/196301310SYR.html

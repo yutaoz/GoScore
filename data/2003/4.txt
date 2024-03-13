@@ -1,0 +1,163 @@
+Tue Apr 1 2003,Indiana Pacers,Sacramento Kings,98,103,Conseco Fieldhouse,17088,/boxscores/200304010IND.html
+Tue Apr 1 2003,Toronto Raptors,Detroit Pistons,85,92,Air Canada Centre,18237,/boxscores/200304010TOR.html
+Tue Apr 1 2003,Chicago Bulls,Seattle SuperSonics,94,101,United Center,17879,/boxscores/200304010CHI.html
+Tue Apr 1 2003,Dallas Mavericks,New Orleans Hornets,95,86,American Airlines Center,19859,/boxscores/200304010DAL.html
+Tue Apr 1 2003,San Antonio Spurs,Orlando Magic,118,105,SBC Center,18797,/boxscores/200304010SAS.html
+Tue Apr 1 2003,Phoenix Suns,Denver Nuggets,95,65,America West Arena,17124,/boxscores/200304010PHO.html
+Tue Apr 1 2003,Portland Trail Blazers,Golden State Warriors,100,86,Rose Garden Arena,20117,/boxscores/200304010POR.html
+Tue Apr 1 2003,Los Angeles Clippers,Utah Jazz,89,94,STAPLES Center,17531,/boxscores/200304010LAC.html
+Wed Apr 2 2003,Boston Celtics,Miami Heat,90,62,FleetCenter,17156,/boxscores/200304020BOS.html
+Wed Apr 2 2003,Cleveland Cavaliers,Indiana Pacers,82,103,Gund Arena,9383,/boxscores/200304020CLE.html
+Wed Apr 2 2003,Philadelphia 76ers,Chicago Bulls,108,101,First Union Center,20210,/boxscores/200304020PHI.html
+Wed Apr 2 2003,Detroit Pistons,Toronto Raptors,78,89,The Palace of Auburn Hills,22076,/boxscores/200304020DET.html
+Wed Apr 2 2003,Memphis Grizzlies,San Antonio Spurs,87,105,Pyramid Arena,12116,/boxscores/200304020MEM.html
+Wed Apr 2 2003,Milwaukee Bucks,Houston Rockets,106,99,Bradley Center,17624,/boxscores/200304020MIL.html
+Wed Apr 2 2003,Minnesota Timberwolves,Seattle SuperSonics,91,86,Target Center,14117,/boxscores/200304020MIN.html
+Wed Apr 2 2003,Washington Wizards,Sacramento Kings,99,105,MCI Center,20173,/boxscores/200304020WAS.html
+Wed Apr 2 2003,New Orleans Hornets,New Jersey Nets,106,97,New Orleans Arena,14311,/boxscores/200304020NOH.html
+Wed Apr 2 2003,Denver Nuggets,New York Knicks,75,83,Pepsi Center,13527,/boxscores/200304020DEN.html
+Thu Apr 3 2003,Atlanta Hawks,Washington Wizards,91,89,Philips Arena,19850,/boxscores/200304030ATL.html
+Thu Apr 3 2003,Dallas Mavericks,Los Angeles Lakers,89,100,American Airlines Center,20129,/boxscores/200304030DAL.html
+Thu Apr 3 2003,Portland Trail Blazers,Utah Jazz,88,93,Rose Garden Arena,20062,/boxscores/200304030POR.html
+Fri Apr 4 2003,Philadelphia 76ers,Houston Rockets,79,88,First Union Center,20925,/boxscores/200304040PHI.html
+Fri Apr 4 2003,Toronto Raptors,San Antonio Spurs,98,124,Air Canada Centre,18376,/boxscores/200304040TOR.html
+Fri Apr 4 2003,New Jersey Nets,Miami Heat,99,83,Continental Airlines Arena,16152,/boxscores/200304040NJN.html
+Fri Apr 4 2003,Boston Celtics,Sacramento Kings,92,93,FleetCenter,18624,/boxscores/200304040BOS.html
+Fri Apr 4 2003,Detroit Pistons,Indiana Pacers,92,98,The Palace of Auburn Hills,22076,/boxscores/200304040DET.html
+Fri Apr 4 2003,Memphis Grizzlies,Los Angeles Lakers,101,102,Pyramid Arena,19351,/boxscores/200304040MEM.html
+Fri Apr 4 2003,Milwaukee Bucks,Cleveland Cavaliers,95,93,Bradley Center,15039,/boxscores/200304040MIL.html
+Fri Apr 4 2003,Utah Jazz,New York Knicks,92,94,Delta Center,19291,/boxscores/200304040UTA.html
+Fri Apr 4 2003,Golden State Warriors,Portland Trail Blazers,100,122,The Arena in Oakland,18803,/boxscores/200304040GSW.html
+Fri Apr 4 2003,Seattle SuperSonics,Los Angeles Clippers,101,93,KeyArena at Seattle Center,15273,/boxscores/200304040SEA.html
+Sat Apr 5 2003,Phoenix Suns,Minnesota Timberwolves,111,94,America West Arena,18413,/boxscores/200304050PHO.html
+Sat Apr 5 2003,Atlanta Hawks,Memphis Grizzlies,97,91,Philips Arena,12107,/boxscores/200304050ATL.html
+Sat Apr 5 2003,Cleveland Cavaliers,New Orleans Hornets,79,76,Gund Arena,11996,/boxscores/200304050CLE.html
+Sat Apr 5 2003,Chicago Bulls,Milwaukee Bucks,117,115,United Center,20037,/boxscores/200304050CHI.html
+Sat Apr 5 2003,Dallas Mavericks,Orlando Magic,108,90,American Airlines Center,19800,/boxscores/200304050DAL.html
+Sat Apr 5 2003,Los Angeles Clippers,New York Knicks,109,98,STAPLES Center,18596,/boxscores/200304050LAC.html
+Sun Apr 6 2003,Boston Celtics,Washington Wizards,98,99,FleetCenter,18624,/boxscores/200304060BOS.html
+Sun Apr 6 2003,Toronto Raptors,New Jersey Nets,87,96,Air Canada Centre,19319,/boxscores/200304060TOR.html
+Sun Apr 6 2003,Philadelphia 76ers,Sacramento Kings,81,97,First Union Center,20702,/boxscores/200304060PHI.html
+Sun Apr 6 2003,Indiana Pacers,Miami Heat,90,69,Conseco Fieldhouse,15014,/boxscores/200304060IND.html
+Sun Apr 6 2003,Detroit Pistons,San Antonio Spurs,83,89,The Palace of Auburn Hills,22076,/boxscores/200304060DET.html
+Sun Apr 6 2003,Golden State Warriors,Denver Nuggets,106,99,The Arena in Oakland,17021,/boxscores/200304060GSW.html
+Sun Apr 6 2003,Houston Rockets,Orlando Magic,114,93,Compaq Center,15335,/boxscores/200304060HOU.html
+Sun Apr 6 2003,Portland Trail Blazers,Minnesota Timberwolves,78,97,Rose Garden Arena,20169,/boxscores/200304060POR.html
+Sun Apr 6 2003,Seattle SuperSonics,Utah Jazz,82,80,KeyArena at Seattle Center,15588,/boxscores/200304060SEA.html
+Sun Apr 6 2003,Los Angeles Lakers,Phoenix Suns,115,113,STAPLES Center,18997,/boxscores/200304060LAL.html
+Tue Apr 8 2003,Cleveland Cavaliers,Washington Wizards,91,100,Gund Arena,20562,/boxscores/200304080CLE.html
+Tue Apr 8 2003,Philadelphia 76ers,Detroit Pistons,91,74,First Union Center,20520,/boxscores/200304080PHI.html
+Tue Apr 8 2003,Miami Heat,Toronto Raptors,89,83,AmericanAirlines Arena,14365,/boxscores/200304080MIA.html
+Tue Apr 8 2003,New York Knicks,Atlanta Hawks,99,95,Madison Square Garden (IV),18871,/boxscores/200304080NYK.html
+Tue Apr 8 2003,Memphis Grizzlies,Los Angeles Clippers,111,108,Pyramid Arena,11618,/boxscores/200304080MEM.html
+Tue Apr 8 2003,Chicago Bulls,Indiana Pacers,115,103,United Center,20198,/boxscores/200304080CHI.html
+Tue Apr 8 2003,Houston Rockets,Portland Trail Blazers,66,81,Compaq Center,10900,/boxscores/200304080HOU.html
+Tue Apr 8 2003,Denver Nuggets,Phoenix Suns,78,98,Pepsi Center,13873,/boxscores/200304080DEN.html
+Tue Apr 8 2003,Sacramento Kings,Seattle SuperSonics,107,85,ARCO Arena (II),17317,/boxscores/200304080SAC.html
+Tue Apr 8 2003,Golden State Warriors,Utah Jazz,128,102,The Arena in Oakland,16268,/boxscores/200304080GSW.html
+Tue Apr 8 2003,Los Angeles Lakers,Dallas Mavericks,108,99,STAPLES Center,18997,/boxscores/200304080LAL.html
+Wed Apr 9 2003,Orlando Magic,Toronto Raptors,88,82,TD Waterhouse Centre,14581,/boxscores/200304090ORL.html
+Wed Apr 9 2003,Washington Wizards,Boston Celtics,83,87,MCI Center,20173,/boxscores/200304090WAS.html
+Wed Apr 9 2003,Atlanta Hawks,New Jersey Nets,97,92,Philips Arena,17119,/boxscores/200304090ATL.html
+Wed Apr 9 2003,Detroit Pistons,Chicago Bulls,111,102,The Palace of Auburn Hills,18966,/boxscores/200304090DET.html
+Wed Apr 9 2003,Milwaukee Bucks,Los Angeles Clippers,112,92,Bradley Center,14071,/boxscores/200304090MIL.html
+Wed Apr 9 2003,New Orleans Hornets,Cleveland Cavaliers,100,81,New Orleans Arena,15551,/boxscores/200304090NOH.html
+Wed Apr 9 2003,San Antonio Spurs,Portland Trail Blazers,84,79,SBC Center,18797,/boxscores/200304090SAS.html
+Wed Apr 9 2003,Utah Jazz,Houston Rockets,94,73,Delta Center,19661,/boxscores/200304090UTA.html
+Wed Apr 9 2003,Phoenix Suns,Dallas Mavericks,112,89,America West Arena,17136,/boxscores/200304090PHO.html
+Wed Apr 9 2003,Seattle SuperSonics,Minnesota Timberwolves,100,92,KeyArena at Seattle Center,16039,/boxscores/200304090SEA.html
+Thu Apr 10 2003,Boston Celtics,Philadelphia 76ers,78,99,FleetCenter,18624,/boxscores/200304100BOS.html
+Thu Apr 10 2003,Los Angeles Lakers,Sacramento Kings,117,104,STAPLES Center,18997,/boxscores/200304100LAL.html
+Fri Apr 11 2003,Toronto Raptors,Milwaukee Bucks,103,105,Air Canada Centre,17762,/boxscores/200304110TOR.html
+Fri Apr 11 2003,Atlanta Hawks,Cleveland Cavaliers,109,89,Philips Arena,15056,/boxscores/200304110ATL.html
+Fri Apr 11 2003,Indiana Pacers,Orlando Magic,86,98,Conseco Fieldhouse,18345,/boxscores/200304110IND.html
+Fri Apr 11 2003,Memphis Grizzlies,Portland Trail Blazers,96,93,Pyramid Arena,17173,/boxscores/200304110MEM.html
+Fri Apr 11 2003,Miami Heat,Washington Wizards,87,91,AmericanAirlines Arena,20152,/boxscores/200304110MIA.html
+Fri Apr 11 2003,Minnesota Timberwolves,Los Angeles Clippers,106,90,Target Center,16107,/boxscores/200304110MIN.html
+Fri Apr 11 2003,New York Knicks,Philadelphia 76ers,108,103,Madison Square Garden (IV),19763,/boxscores/200304110NYK.html
+Fri Apr 11 2003,Chicago Bulls,New Jersey Nets,95,86,United Center,22087,/boxscores/200304110CHI.html
+Fri Apr 11 2003,New Orleans Hornets,Detroit Pistons,93,89,New Orleans Arena,17394,/boxscores/200304110NOH.html
+Fri Apr 11 2003,San Antonio Spurs,Seattle SuperSonics,94,86,SBC Center,19217,/boxscores/200304110SAS.html
+Fri Apr 11 2003,Utah Jazz,Dallas Mavericks,95,92,Delta Center,19896,/boxscores/200304110UTA.html
+Fri Apr 11 2003,Phoenix Suns,Golden State Warriors,117,101,America West Arena,17792,/boxscores/200304110PHO.html
+Fri Apr 11 2003,Sacramento Kings,Denver Nuggets,105,103,ARCO Arena (II),17317,/boxscores/200304110SAC.html
+Sat Apr 12 2003,Orlando Magic,Boston Celtics,89,86,TD Waterhouse Centre,17283,/boxscores/200304120ORL.html
+Sat Apr 12 2003,Washington Wizards,Atlanta Hawks,100,101,MCI Center,20173,/boxscores/200304120WAS.html
+Sat Apr 12 2003,Cleveland Cavaliers,New York Knicks,104,99,Gund Arena,12684,/boxscores/200304120CLE.html
+Sat Apr 12 2003,New Jersey Nets,Toronto Raptors,94,86,Continental Airlines Arena,15306,/boxscores/200304120NJN.html
+Sat Apr 12 2003,Dallas Mavericks,Golden State Warriors,117,108,American Airlines Center,19980,/boxscores/200304120DAL.html
+Sat Apr 12 2003,Houston Rockets,Seattle SuperSonics,101,86,Compaq Center,14800,/boxscores/200304120HOU.html
+Sat Apr 12 2003,Denver Nuggets,Los Angeles Clippers,79,101,Pepsi Center,18319,/boxscores/200304120DEN.html
+Sun Apr 13 2003,Milwaukee Bucks,Indiana Pacers,107,98,Bradley Center,17064,/boxscores/200304130MIL.html
+Sun Apr 13 2003,Minnesota Timberwolves,Chicago Bulls,119,95,Target Center,18171,/boxscores/200304130MIN.html
+Sun Apr 13 2003,Portland Trail Blazers,Los Angeles Lakers,101,99,Rose Garden Arena,20580,/boxscores/200304130POR.html
+Sun Apr 13 2003,Memphis Grizzlies,Detroit Pistons,107,110,Pyramid Arena,15704,/boxscores/200304130MEM.html
+Sun Apr 13 2003,Miami Heat,Boston Celtics,86,94,AmericanAirlines Arena,16500,/boxscores/200304130MIA.html
+Sun Apr 13 2003,Philadelphia 76ers,New Orleans Hornets,89,94,First Union Center,20576,/boxscores/200304130PHI.html
+Sun Apr 13 2003,Phoenix Suns,San Antonio Spurs,92,85,America West Arena,19023,/boxscores/200304130PHO.html
+Mon Apr 14 2003,Washington Wizards,New York Knicks,79,93,MCI Center,20173,/boxscores/200304140WAS.html
+Mon Apr 14 2003,Atlanta Hawks,Orlando Magic,100,84,Philips Arena,17018,/boxscores/200304140ATL.html
+Mon Apr 14 2003,Detroit Pistons,Cleveland Cavaliers,89,88,The Palace of Auburn Hills,18712,/boxscores/200304140DET.html
+Mon Apr 14 2003,New Jersey Nets,New Orleans Hornets,74,87,Continental Airlines Arena,12723,/boxscores/200304140NJN.html
+Mon Apr 14 2003,Dallas Mavericks,Seattle SuperSonics,109,106,American Airlines Center,19880,/boxscores/200304140DAL.html
+Mon Apr 14 2003,Utah Jazz,San Antonio Spurs,83,91,Delta Center,19821,/boxscores/200304140UTA.html
+Mon Apr 14 2003,Golden State Warriors,Los Angeles Clippers,113,122,The Arena in Oakland,16638,/boxscores/200304140GSW.html
+Tue Apr 15 2003,Toronto Raptors,Miami Heat,99,103,Air Canada Centre,17666,/boxscores/200304150TOR.html
+Tue Apr 15 2003,New York Knicks,Indiana Pacers,93,109,Madison Square Garden (IV),19763,/boxscores/200304150NYK.html
+Tue Apr 15 2003,Chicago Bulls,Philadelphia 76ers,115,106,United Center,22408,/boxscores/200304150CHI.html
+Tue Apr 15 2003,Houston Rockets,Memphis Grizzlies,97,86,Compaq Center,14704,/boxscores/200304150HOU.html
+Tue Apr 15 2003,Portland Trail Blazers,Phoenix Suns,120,102,Rose Garden Arena,20580,/boxscores/200304150POR.html
+Tue Apr 15 2003,Los Angeles Lakers,Denver Nuggets,126,104,STAPLES Center,18997,/boxscores/200304150LAL.html
+Wed Apr 16 2003,Boston Celtics,Detroit Pistons,99,92,FleetCenter,17069,/boxscores/200304160BOS.html
+Wed Apr 16 2003,Cleveland Cavaliers,Toronto Raptors,96,86,Gund Arena,20251,/boxscores/200304160CLE.html
+Wed Apr 16 2003,Philadelphia 76ers,Washington Wizards,107,87,First Union Center,21257,/boxscores/200304160PHI.html
+Wed Apr 16 2003,Indiana Pacers,New Jersey Nets,90,83,Conseco Fieldhouse,17248,/boxscores/200304160IND.html
+Wed Apr 16 2003,Memphis Grizzlies,Minnesota Timberwolves,87,95,Pyramid Arena,15478,/boxscores/200304160MEM.html
+Wed Apr 16 2003,Milwaukee Bucks,Orlando Magic,93,87,Bradley Center,15714,/boxscores/200304160MIL.html
+Wed Apr 16 2003,New Orleans Hornets,Atlanta Hawks,92,77,New Orleans Arena,16815,/boxscores/200304160NOH.html
+Wed Apr 16 2003,San Antonio Spurs,Dallas Mavericks,72,93,SBC Center,19217,/boxscores/200304160SAS.html
+Wed Apr 16 2003,Denver Nuggets,Houston Rockets,84,89,Pepsi Center,18516,/boxscores/200304160DEN.html
+Wed Apr 16 2003,Sacramento Kings,Utah Jazz,95,84,ARCO Arena (II),17317,/boxscores/200304160SAC.html
+Wed Apr 16 2003,Seattle SuperSonics,Phoenix Suns,84,70,KeyArena at Seattle Center,17072,/boxscores/200304160SEA.html
+Wed Apr 16 2003,Golden State Warriors,Los Angeles Lakers,111,117,The Arena in Oakland,20234,/boxscores/200304160GSW.html
+Wed Apr 16 2003,Los Angeles Clippers,Portland Trail Blazers,107,93,STAPLES Center,19060,/boxscores/200304160LAC.html
+Sat Apr 19 2003,New Jersey Nets,Milwaukee Bucks,109,96,Continental Airlines Arena,16102,/boxscores/200304190NJN.html
+Sat Apr 19 2003,Indiana Pacers,Boston Celtics,100,103,Conseco Fieldhouse,16380,/boxscores/200304190IND.html
+Sat Apr 19 2003,San Antonio Spurs,Phoenix Suns,95,96,SBC Center,19217,/boxscores/200304190SAS.html
+Sat Apr 19 2003,Dallas Mavericks,Portland Trail Blazers,96,86,American Airlines Center,20336,/boxscores/200304190DAL.html
+Sat Apr 19 2003,Sacramento Kings,Utah Jazz,96,90,ARCO Arena (II),17317,/boxscores/200304190SAC.html
+Sun Apr 20 2003,Detroit Pistons,Orlando Magic,94,99,The Palace of Auburn Hills,21261,/boxscores/200304200DET.html
+Sun Apr 20 2003,Minnesota Timberwolves,Los Angeles Lakers,98,117,Target Center,17097,/boxscores/200304200MIN.html
+Sun Apr 20 2003,Philadelphia 76ers,New Orleans Hornets,98,90,First Union Center,19711,/boxscores/200304200PHI.html
+Mon Apr 21 2003,San Antonio Spurs,Phoenix Suns,84,76,SBC Center,19217,/boxscores/200304210SAS.html
+Mon Apr 21 2003,Indiana Pacers,Boston Celtics,89,77,Conseco Fieldhouse,15881,/boxscores/200304210IND.html
+Mon Apr 21 2003,Sacramento Kings,Utah Jazz,108,95,ARCO Arena (II),17317,/boxscores/200304210SAC.html
+Tue Apr 22 2003,New Jersey Nets,Milwaukee Bucks,85,88,Continental Airlines Arena,17633,/boxscores/200304220NJN.html
+Tue Apr 22 2003,Minnesota Timberwolves,Los Angeles Lakers,119,91,Target Center,17132,/boxscores/200304220MIN.html
+Wed Apr 23 2003,Philadelphia 76ers,New Orleans Hornets,90,85,First Union Center,20229,/boxscores/200304230PHI.html
+Wed Apr 23 2003,Detroit Pistons,Orlando Magic,89,77,The Palace of Auburn Hills,22076,/boxscores/200304230DET.html
+Wed Apr 23 2003,Dallas Mavericks,Portland Trail Blazers,103,99,American Airlines Center,20356,/boxscores/200304230DAL.html
+Thu Apr 24 2003,Boston Celtics,Indiana Pacers,101,83,FleetCenter,18624,/boxscores/200304240BOS.html
+Thu Apr 24 2003,Milwaukee Bucks,New Jersey Nets,101,103,Bradley Center,17539,/boxscores/200304240MIL.html
+Thu Apr 24 2003,Los Angeles Lakers,Minnesota Timberwolves,110,114,STAPLES Center,18997,/boxscores/200304240LAL.html
+Fri Apr 25 2003,Orlando Magic,Detroit Pistons,89,80,TD Waterhouse Centre,17283,/boxscores/200304250ORL.html
+Fri Apr 25 2003,Phoenix Suns,San Antonio Spurs,86,99,America West Arena,19023,/boxscores/200304250PHO.html
+Fri Apr 25 2003,Portland Trail Blazers,Dallas Mavericks,103,115,Rose Garden Arena,19980,/boxscores/200304250POR.html
+Sat Apr 26 2003,Milwaukee Bucks,New Jersey Nets,119,114,Bradley Center,18391,/boxscores/200304260MIL.html
+Sat Apr 26 2003,New Orleans Hornets,Philadelphia 76ers,99,85,New Orleans Arena,17320,/boxscores/200304260NOH.html
+Sat Apr 26 2003,Utah Jazz,Sacramento Kings,107,104,Delta Center,19911,/boxscores/200304260UTA.html
+Sun Apr 27 2003,Boston Celtics,Indiana Pacers,102,92,FleetCenter,18624,/boxscores/200304270BOS.html
+Sun Apr 27 2003,Los Angeles Lakers,Minnesota Timberwolves,102,97,STAPLES Center,18997,/boxscores/200304270LAL.html
+Sun Apr 27 2003,Orlando Magic,Detroit Pistons,100,92,TD Waterhouse Centre,17283,/boxscores/200304270ORL.html
+Sun Apr 27 2003,Portland Trail Blazers,Dallas Mavericks,98,79,Rose Garden Arena,19980,/boxscores/200304270POR.html
+Sun Apr 27 2003,Phoenix Suns,San Antonio Spurs,86,84,America West Arena,18756,/boxscores/200304270PHO.html
+Mon Apr 28 2003,New Orleans Hornets,Philadelphia 76ers,87,96,New Orleans Arena,16243,/boxscores/200304280NOH.html
+Mon Apr 28 2003,Utah Jazz,Sacramento Kings,82,99,Delta Center,19911,/boxscores/200304280UTA.html
+Tue Apr 29 2003,New Jersey Nets,Milwaukee Bucks,89,82,Continental Airlines Arena,16601,/boxscores/200304290NJN.html
+Tue Apr 29 2003,San Antonio Spurs,Phoenix Suns,94,82,SBC Center,19217,/boxscores/200304290SAS.html
+Tue Apr 29 2003,Indiana Pacers,Boston Celtics,93,88,Conseco Fieldhouse,15326,/boxscores/200304290IND.html
+Tue Apr 29 2003,Minnesota Timberwolves,Los Angeles Lakers,90,120,Target Center,20098,/boxscores/200304290MIN.html
+Wed Apr 30 2003,Philadelphia 76ers,New Orleans Hornets,91,93,First Union Center,19403,/boxscores/200304300PHI.html
+Wed Apr 30 2003,Detroit Pistons,Orlando Magic,98,67,The Palace of Auburn Hills,22076,/boxscores/200304300DET.html
+Wed Apr 30 2003,Dallas Mavericks,Portland Trail Blazers,99,103,American Airlines Center,20438,/boxscores/200304300DAL.html
+Wed Apr 30 2003,Sacramento Kings,Utah Jazz,111,91,ARCO Arena (II),17317,/boxscores/200304300SAC.html

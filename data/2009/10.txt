@@ -1,0 +1,25 @@
+Tue Oct 28 2008,Boston Celtics,Cleveland Cavaliers,90,85,TD Banknorth Garden,18624,/boxscores/200810280BOS.html
+Tue Oct 28 2008,Chicago Bulls,Milwaukee Bucks,108,95,United Center,21762,/boxscores/200810280CHI.html
+Tue Oct 28 2008,Los Angeles Lakers,Portland Trail Blazers,96,76,STAPLES Center,18997,/boxscores/200810280LAL.html
+Wed Oct 29 2008,Philadelphia 76ers,Toronto Raptors,84,95,Wachovia Center,15750,/boxscores/200810290PHI.html
+Wed Oct 29 2008,Washington Wizards,New Jersey Nets,85,95,Verizon Center,20173,/boxscores/200810290WAS.html
+Wed Oct 29 2008,Orlando Magic,Atlanta Hawks,85,99,Amway Arena,17461,/boxscores/200810290ORL.html
+Wed Oct 29 2008,New York Knicks,Miami Heat,120,115,Madison Square Garden (IV),19763,/boxscores/200810290NYK.html
+Wed Oct 29 2008,San Antonio Spurs,Phoenix Suns,98,103,AT&T Center,18797,/boxscores/200810290SAS.html
+Wed Oct 29 2008,Oklahoma City Thunder,Milwaukee Bucks,87,98,Ford Center,19136,/boxscores/200810290OKC.html
+Wed Oct 29 2008,Minnesota Timberwolves,Sacramento Kings,98,96,Target Center,17820,/boxscores/200810290MIN.html
+Wed Oct 29 2008,Detroit Pistons,Indiana Pacers,100,94,The Palace of Auburn Hills,22076,/boxscores/200810290DET.html
+Wed Oct 29 2008,Houston Rockets,Memphis Grizzlies,82,71,Toyota Center,18196,/boxscores/200810290HOU.html
+Wed Oct 29 2008,Utah Jazz,Denver Nuggets,98,94,EnergySolutions Arena,19911,/boxscores/200810290UTA.html
+Wed Oct 29 2008,Los Angeles Clippers,Los Angeles Lakers,79,117,STAPLES Center,19060,/boxscores/200810290LAC.html
+Wed Oct 29 2008,Golden State Warriors,New Orleans Hornets,103,108,Oracle Arena,19128,/boxscores/200810290GSW.html
+Thu Oct 30 2008,Cleveland Cavaliers,Charlotte Bobcats,96,79,Quicken Loans Arena,20562,/boxscores/200810300CLE.html
+Thu Oct 30 2008,Dallas Mavericks,Houston Rockets,102,112,American Airlines Center,20066,/boxscores/200810300DAL.html
+Thu Oct 30 2008,Phoenix Suns,New Orleans Hornets,95,108,US Airways Center,18422,/boxscores/200810300PHO.html
+Fri Oct 31 2008,Philadelphia 76ers,New York Knicks,116,87,Wachovia Center,11717,/boxscores/200810310PHI.html
+Fri Oct 31 2008,Toronto Raptors,Golden State Warriors,112,108,Air Canada Centre,19800,/boxscores/200810310TOR.html
+Fri Oct 31 2008,Miami Heat,Sacramento Kings,103,77,AmericanAirlines Arena,19600,/boxscores/200810310MIA.html
+Fri Oct 31 2008,Boston Celtics,Chicago Bulls,96,80,TD Banknorth Garden,18624,/boxscores/200810310BOS.html
+Fri Oct 31 2008,Memphis Grizzlies,Orlando Magic,86,84,FedEx Forum,16139,/boxscores/200810310MEM.html
+Fri Oct 31 2008,Los Angeles Clippers,Denver Nuggets,103,113,STAPLES Center,11418,/boxscores/200810310LAC.html
+Fri Oct 31 2008,Portland Trail Blazers,San Antonio Spurs,100,99,Rose Garden Arena,20516,/boxscores/200810310POR.html

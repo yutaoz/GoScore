@@ -1,0 +1,61 @@
+Thu Oct 17 1974,Phoenix Suns,Seattle SuperSonics,114,97,Arizona Veterans Memorial Coliseum,0,/boxscores/197410170PHO.html
+Thu Oct 17 1974,New York Knicks,New Orleans Jazz,89,74,Madison Square Garden (IV),15883,/boxscores/197410170NYK.html
+Fri Oct 18 1974,Boston Celtics,Buffalo Braves,119,126,Boston Garden,0,/boxscores/197410180BOS.html
+Fri Oct 18 1974,Chicago Bulls,Atlanta Hawks,120,115,Chicago Stadium,0,/boxscores/197410180CHI.html
+Fri Oct 18 1974,Los Angeles Lakers,Golden State Warriors,105,90,The Forum,0,/boxscores/197410180LAL.html
+Fri Oct 18 1974,Milwaukee Bucks,Houston Rockets,101,106,MECCA Arena,0,/boxscores/197410180MIL.html
+Fri Oct 18 1974,Philadelphia 76ers,New Orleans Jazz,112,99,The Spectrum,0,/boxscores/197410180PHI.html
+Fri Oct 18 1974,Portland Trail Blazers,Cleveland Cavaliers,131,129,Memorial Coliseum,0,/boxscores/197410180POR.html
+Fri Oct 18 1974,Seattle SuperSonics,Detroit Pistons,95,100,Seattle Center Coliseum,0,/boxscores/197410180SEA.html
+Sat Oct 19 1974,Washington Bullets,New Orleans Jazz,110,92,Capital Centre,0,/boxscores/197410190WSB.html
+Sat Oct 19 1974,Portland Trail Blazers,Detroit Pistons,99,122,Memorial Coliseum,0,/boxscores/197410190POR.html
+Sat Oct 19 1974,Phoenix Suns,Kansas City-Omaha Kings,91,94,Arizona Veterans Memorial Coliseum,0,/boxscores/197410190PHO.html
+Sat Oct 19 1974,New York Knicks,Philadelphia 76ers,86,99,Madison Square Garden (IV),0,/boxscores/197410190NYK.html
+Sat Oct 19 1974,Chicago Bulls,Milwaukee Bucks,87,70,Chicago Stadium,0,/boxscores/197410190CHI.html
+Sat Oct 19 1974,Buffalo Braves,Boston Celtics,95,113,Buffalo Memorial Auditorium,0,/boxscores/197410190BUF.html
+Sat Oct 19 1974,Atlanta Hawks,Houston Rockets,118,112,Omni Coliseum,0,/boxscores/197410190ATL.html
+Sat Oct 19 1974,Golden State Warriors,Cleveland Cavaliers,113,110,Oakland-Alameda County Coliseum Arena,0,/boxscores/197410190GSW.html
+Sun Oct 20 1974,Los Angeles Lakers,Kansas City-Omaha Kings,95,105,The Forum,0,/boxscores/197410200LAL.html
+Sun Oct 20 1974,Seattle SuperSonics,Cleveland Cavaliers,100,93,Seattle Center Coliseum,0,/boxscores/197410200SEA.html
+Tue Oct 22 1974,Kansas City-Omaha Kings,Washington Bullets,121,123,Kemper Arena,0,/boxscores/197410220KCO.html
+Tue Oct 22 1974,New York Knicks,Houston Rockets,110,100,Madison Square Garden (IV),0,/boxscores/197410220NYK.html
+Tue Oct 22 1974,Milwaukee Bucks,Chicago Bulls,92,90,MECCA Arena,0,/boxscores/197410220MIL.html
+Tue Oct 22 1974,Golden State Warriors,Portland Trail Blazers,106,107,Oakland-Alameda County Coliseum Arena,0,/boxscores/197410220GSW.html
+Tue Oct 22 1974,Buffalo Braves,New Orleans Jazz,134,118,Buffalo Memorial Auditorium,0,/boxscores/197410220BUF.html
+Tue Oct 22 1974,Atlanta Hawks,Philadelphia 76ers,125,92,Omni Coliseum,0,/boxscores/197410220ATL.html
+Wed Oct 23 1974,Boston Celtics,Cleveland Cavaliers,107,108,Boston Garden,0,/boxscores/197410230BOS.html
+Wed Oct 23 1974,Kansas City-Omaha Kings,Chicago Bulls,99,98,Omaha Civic Auditorium,0,/boxscores/197410230KCO.html
+Wed Oct 23 1974,Phoenix Suns,Detroit Pistons,100,90,Arizona Veterans Memorial Coliseum,0,/boxscores/197410230PHO.html
+Wed Oct 23 1974,Seattle SuperSonics,Portland Trail Blazers,107,97,Seattle Center Coliseum,0,/boxscores/197410230SEA.html
+Wed Oct 23 1974,Washington Bullets,Houston Rockets,99,95,Capital Centre,0,/boxscores/197410230WSB.html
+Thu Oct 24 1974,Atlanta Hawks,Cleveland Cavaliers,97,116,Omni Coliseum,0,/boxscores/197410240ATL.html
+Thu Oct 24 1974,New Orleans Jazz,Philadelphia 76ers,89,102,Municipal Auditorium,0,/boxscores/197410240NOJ.html
+Thu Oct 24 1974,Buffalo Braves,New York Knicks,111,91,Maple Leaf Gardens,0,/boxscores/197410240BUF.html
+Fri Oct 25 1974,Boston Celtics,Atlanta Hawks,116,109,Boston Garden,0,/boxscores/197410250BOS.html
+Fri Oct 25 1974,Chicago Bulls,Kansas City-Omaha Kings,91,112,Chicago Stadium,0,/boxscores/197410250CHI.html
+Fri Oct 25 1974,Houston Rockets,Philadelphia 76ers,110,86,Hofheinz Pavilion,0,/boxscores/197410250HOU.html
+Fri Oct 25 1974,Los Angeles Lakers,Detroit Pistons,107,110,The Forum,0,/boxscores/197410250LAL.html
+Fri Oct 25 1974,Milwaukee Bucks,Washington Bullets,96,111,MECCA Arena,0,/boxscores/197410250MIL.html
+Fri Oct 25 1974,Portland Trail Blazers,Golden State Warriors,97,99,Memorial Coliseum,0,/boxscores/197410250POR.html
+Fri Oct 25 1974,Seattle SuperSonics,Phoenix Suns,106,97,Seattle Center Coliseum,0,/boxscores/197410250SEA.html
+Sat Oct 26 1974,Buffalo Braves,Chicago Bulls,105,104,Buffalo Memorial Auditorium,0,/boxscores/197410260BUF.html
+Sat Oct 26 1974,Golden State Warriors,Detroit Pistons,105,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197410260GSW.html
+Sat Oct 26 1974,New Orleans Jazz,Cleveland Cavaliers,88,90,Municipal Auditorium,0,/boxscores/197410260NOJ.html
+Sat Oct 26 1974,New York Knicks,Boston Celtics,97,86,Madison Square Garden (IV),0,/boxscores/197410260NYK.html
+Sat Oct 26 1974,Washington Bullets,Milwaukee Bucks,101,95,Capital Centre,0,/boxscores/197410260WSB.html
+Sun Oct 27 1974,Portland Trail Blazers,Seattle SuperSonics,120,94,Memorial Coliseum,0,/boxscores/197410270POR.html
+Sun Oct 27 1974,Los Angeles Lakers,Phoenix Suns,123,116,The Forum,0,/boxscores/197410270LAL.html
+Tue Oct 29 1974,Chicago Bulls,Washington Bullets,80,96,Chicago Stadium,0,/boxscores/197410290CHI.html
+Tue Oct 29 1974,Cleveland Cavaliers,Boston Celtics,92,107,Coliseum at Richfield,0,/boxscores/197410290CLE.html
+Tue Oct 29 1974,Golden State Warriors,Buffalo Braves,130,101,Oakland-Alameda County Coliseum Arena,0,/boxscores/197410290GSW.html
+Tue Oct 29 1974,Portland Trail Blazers,Los Angeles Lakers,102,105,Memorial Coliseum,0,/boxscores/197410290POR.html
+Wed Oct 30 1974,Boston Celtics,Chicago Bulls,104,105,Boston Garden,0,/boxscores/197410300BOS.html
+Wed Oct 30 1974,Detroit Pistons,Atlanta Hawks,96,104,Cobo Arena,0,/boxscores/197410300DET.html
+Wed Oct 30 1974,Kansas City-Omaha Kings,Milwaukee Bucks,99,97,Kemper Arena,0,/boxscores/197410300KCO.html
+Wed Oct 30 1974,New Orleans Jazz,Houston Rockets,100,113,Municipal Auditorium,0,/boxscores/197410300NOJ.html
+Wed Oct 30 1974,Philadelphia 76ers,Phoenix Suns,99,104,The Spectrum,0,/boxscores/197410300PHI.html
+Wed Oct 30 1974,Seattle SuperSonics,Los Angeles Lakers,117,97,Seattle Center Coliseum,0,/boxscores/197410300SEA.html
+Wed Oct 30 1974,Washington Bullets,New York Knicks,94,86,Capital Centre,0,/boxscores/197410300WSB.html
+Thu Oct 31 1974,Cleveland Cavaliers,Detroit Pistons,118,101,Coliseum at Richfield,0,/boxscores/197410310CLE.html
+Thu Oct 31 1974,Houston Rockets,Washington Bullets,95,92,Hofheinz Pavilion,0,/boxscores/197410310HOU.html
+Thu Oct 31 1974,New York Knicks,Atlanta Hawks,93,90,Madison Square Garden (IV),0,/boxscores/197410310NYK.html

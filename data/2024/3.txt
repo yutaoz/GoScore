@@ -1,0 +1,230 @@
+Fri Mar 1 2024,Detroit Pistons,Cleveland Cavaliers,100,110,Little Caesars Arena,19299,/boxscores/202403010DET.html
+Fri Mar 1 2024,Philadelphia 76ers,Charlotte Hornets,121,114,Wells Fargo Center,19788,/boxscores/202403010PHI.html
+Fri Mar 1 2024,Boston Celtics,Dallas Mavericks,138,110,TD Garden,19156,/boxscores/202403010BOS.html
+Fri Mar 1 2024,Toronto Raptors,Golden State Warriors,105,120,Scotiabank Arena,19800,/boxscores/202403010TOR.html
+Fri Mar 1 2024,Memphis Grizzlies,Portland Trail Blazers,92,122,FedEx Forum,15493,/boxscores/202403010MEM.html
+Fri Mar 1 2024,Minnesota Timberwolves,Sacramento Kings,120,124,Target Center,18024,/boxscores/202403010MIN.html
+Fri Mar 1 2024,New Orleans Pelicans,Indiana Pacers,129,102,Smoothie King Center,17898,/boxscores/202403010NOP.html
+Fri Mar 1 2024,Chicago Bulls,Milwaukee Bucks,97,113,United Center,21249,/boxscores/202403010CHI.html
+Fri Mar 1 2024,Los Angeles Clippers,Washington Wizards,140,115,Crypto.com Arena,19370,/boxscores/202403010LAC.html
+Sat Mar 2 2024,Brooklyn Nets,Atlanta Hawks,114,102,Barclays Center,18075,/boxscores/202403020BRK.html
+Sat Mar 2 2024,Miami Heat,Utah Jazz,126,120,Kaseya Center,19858,/boxscores/202403020MIA.html
+Sat Mar 2 2024,Memphis Grizzlies,Portland Trail Blazers,100,107,FedEx Forum,16381,/boxscores/202403020MEM.html
+Sat Mar 2 2024,Los Angeles Lakers,Denver Nuggets,114,124,Crypto.com Arena,18997,/boxscores/202403020LAL.html
+Sat Mar 2 2024,Phoenix Suns,Houston Rockets,109,118,Footprint Center,17071,/boxscores/202403020PHO.html
+Sun Mar 3 2024,Dallas Mavericks,Philadelphia 76ers,116,120,American Airlines Center,20277,/boxscores/202403030DAL.html
+Sun Mar 3 2024,Boston Celtics,Golden State Warriors,140,88,TD Garden,19156,/boxscores/202403030BOS.html
+Sun Mar 3 2024,Minnesota Timberwolves,Los Angeles Clippers,88,89,Target Center,18024,/boxscores/202403030MIN.html
+Sun Mar 3 2024,Orlando Magic,Detroit Pistons,113,91,Amway Center,19459,/boxscores/202403030ORL.html
+Sun Mar 3 2024,Toronto Raptors,Charlotte Hornets,111,106,Scotiabank Arena,19512,/boxscores/202403030TOR.html
+Sun Mar 3 2024,Cleveland Cavaliers,New York Knicks,98,107,Rocket Mortgage Fieldhouse,19432,/boxscores/202403030CLE.html
+Sun Mar 3 2024,San Antonio Spurs,Indiana Pacers,117,105,Frost Bank Center,18027,/boxscores/202403030SAS.html
+Sun Mar 3 2024,Phoenix Suns,Oklahoma City Thunder,110,118,Footprint Center,17071,/boxscores/202403030PHO.html
+Mon Mar 4 2024,Brooklyn Nets,Memphis Grizzlies,102,106,Barclays Center,15847,/boxscores/202403040BRK.html
+Mon Mar 4 2024,Milwaukee Bucks,Los Angeles Clippers,113,106,Fiserv Forum,17875,/boxscores/202403040MIL.html
+Mon Mar 4 2024,Minnesota Timberwolves,Portland Trail Blazers,119,114,Target Center,18024,/boxscores/202403040MIN.html
+Mon Mar 4 2024,Utah Jazz,Washington Wizards,127,115,Delta Center,18206,/boxscores/202403040UTA.html
+Mon Mar 4 2024,Sacramento Kings,Chicago Bulls,109,113,Golden 1 Center,17832,/boxscores/202403040SAC.html
+Mon Mar 4 2024,Los Angeles Lakers,Oklahoma City Thunder,116,104,Crypto.com Arena,18997,/boxscores/202403040LAL.html
+Tue Mar 5 2024,Charlotte Hornets,Orlando Magic,89,101,Spectrum Center,15928,/boxscores/202403050CHO.html
+Tue Mar 5 2024,Brooklyn Nets,Philadelphia 76ers,112,107,Barclays Center,17086,/boxscores/202403050BRK.html
+Tue Mar 5 2024,Cleveland Cavaliers,Boston Celtics,105,104,Rocket Mortgage Fieldhouse,19432,/boxscores/202403050CLE.html
+Tue Mar 5 2024,Miami Heat,Detroit Pistons,118,110,Kaseya Center,19724,/boxscores/202403050MIA.html
+Tue Mar 5 2024,New York Knicks,Atlanta Hawks,100,116,Madison Square Garden (IV),19812,/boxscores/202403050NYK.html
+Tue Mar 5 2024,Toronto Raptors,New Orleans Pelicans,98,139,Scotiabank Arena,18864,/boxscores/202403050TOR.html
+Tue Mar 5 2024,Houston Rockets,San Antonio Spurs,114,101,Toyota Center,16734,/boxscores/202403050HOU.html
+Tue Mar 5 2024,Dallas Mavericks,Indiana Pacers,120,137,American Airlines Center,20200,/boxscores/202403050DAL.html
+Tue Mar 5 2024,Denver Nuggets,Phoenix Suns,107,117,Ball Arena,19589,/boxscores/202403050DEN.html
+Wed Mar 6 2024,Washington Wizards,Orlando Magic,109,119,Capital One Arena,16018,/boxscores/202403060WAS.html
+Wed Mar 6 2024,Atlanta Hawks,Cleveland Cavaliers,112,101,State Farm Arena,15841,/boxscores/202403060ATL.html
+Wed Mar 6 2024,Houston Rockets,Los Angeles Clippers,116,122,Toyota Center,17033,/boxscores/202403060HOU.html
+Wed Mar 6 2024,Philadelphia 76ers,Memphis Grizzlies,109,115,Wells Fargo Center,19757,/boxscores/202403060PHI.html
+Wed Mar 6 2024,Utah Jazz,Chicago Bulls,117,119,Delta Center,18206,/boxscores/202403060UTA.html
+Wed Mar 6 2024,Golden State Warriors,Milwaukee Bucks,125,90,Chase Center,18064,/boxscores/202403060GSW.html
+Wed Mar 6 2024,Portland Trail Blazers,Oklahoma City Thunder,120,128,Moda Center,17589,/boxscores/202403060POR.html
+Wed Mar 6 2024,Los Angeles Lakers,Sacramento Kings,120,130,Crypto.com Arena,18498,/boxscores/202403060LAL.html
+Thu Mar 7 2024,Detroit Pistons,Brooklyn Nets,118,112,Little Caesars Arena,19011,/boxscores/202403070DET.html
+Thu Mar 7 2024,Indiana Pacers,Minnesota Timberwolves,111,113,Gainbridge Fieldhouse,16580,/boxscores/202403070IND.html
+Thu Mar 7 2024,Dallas Mavericks,Miami Heat,114,108,American Airlines Center,20221,/boxscores/202403070DAL.html
+Thu Mar 7 2024,Phoenix Suns,Toronto Raptors,120,113,Footprint Center,17071,/boxscores/202403070PHO.html
+Thu Mar 7 2024,Denver Nuggets,Boston Celtics,115,109,Ball Arena,19855,/boxscores/202403070DEN.html
+Thu Mar 7 2024,Golden State Warriors,Chicago Bulls,122,125,Chase Center,18064,/boxscores/202403070GSW.html
+Thu Mar 7 2024,Sacramento Kings,San Antonio Spurs,131,129,Golden 1 Center,17968,/boxscores/202403070SAC.html
+Fri Mar 8 2024,Philadelphia 76ers,New Orleans Pelicans,95,103,Wells Fargo Center,19777,/boxscores/202403080PHI.html
+Fri Mar 8 2024,Washington Wizards,Charlotte Hornets,112,100,Capital One Arena,18778,/boxscores/202403080WAS.html
+Fri Mar 8 2024,Cleveland Cavaliers,Minnesota Timberwolves,113,104,Rocket Mortgage Fieldhouse,19432,/boxscores/202403080CLE.html
+Fri Mar 8 2024,New York Knicks,Orlando Magic,98,74,Madison Square Garden (IV),19812,/boxscores/202403080NYK.html
+Fri Mar 8 2024,Memphis Grizzlies,Atlanta Hawks,92,99,FedEx Forum,16667,/boxscores/202403080MEM.html
+Fri Mar 8 2024,Oklahoma City Thunder,Miami Heat,107,100,Paycom Center,18203,/boxscores/202403080OKC.html
+Fri Mar 8 2024,Los Angeles Lakers,Milwaukee Bucks,123,122,Crypto.com Arena,18997,/boxscores/202403080LAL.html
+Fri Mar 8 2024,Portland Trail Blazers,Houston Rockets,107,123,Moda Center,18139,/boxscores/202403080POR.html
+Sat Mar 9 2024,Los Angeles Clippers,Chicago Bulls,112,102,Crypto.com Arena,19370,/boxscores/202403090LAC.html
+Sat Mar 9 2024,Charlotte Hornets,Brooklyn Nets,110,99,Spectrum Center,19090,/boxscores/202403090CHO.html
+Sat Mar 9 2024,Detroit Pistons,Dallas Mavericks,124,142,Little Caesars Arena,20062,/boxscores/202403090DET.html
+Sat Mar 9 2024,Golden State Warriors,San Antonio Spurs,113,126,Chase Center,18064,/boxscores/202403090GSW.html
+Sat Mar 9 2024,Phoenix Suns,Boston Celtics,107,117,Footprint Center,17071,/boxscores/202403090PHO.html
+Sat Mar 9 2024,Denver Nuggets,Utah Jazz,142,121,Ball Arena,19632,/boxscores/202403090DEN.html
+Sat Mar 9 2024,Portland Trail Blazers,Toronto Raptors,128,118,Moda Center,18117,/boxscores/202403090POR.html
+Sun Mar 10 2024,Los Angeles Clippers,Milwaukee Bucks,117,124,Crypto.com Arena,19370,/boxscores/202403100LAC.html
+Sun Mar 10 2024,Atlanta Hawks,New Orleans Pelicans,103,116,State Farm Arena,17695,/boxscores/202403100ATL.html
+Sun Mar 10 2024,Miami Heat,Washington Wizards,108,110,Kaseya Center,19730,/boxscores/202403100MIA.html
+Sun Mar 10 2024,Orlando Magic,Indiana Pacers,97,111,Amway Center,19481,/boxscores/202403100ORL.html
+Sun Mar 10 2024,Sacramento Kings,Houston Rockets,104,112,Golden 1 Center,18022,/boxscores/202403100SAC.html
+Sun Mar 10 2024,Cleveland Cavaliers,Brooklyn Nets,101,120,Rocket Mortgage Fieldhouse,19432,/boxscores/202403100CLE.html
+Sun Mar 10 2024,New York Knicks,Philadelphia 76ers,73,79,Madison Square Garden (IV),19812,/boxscores/202403100NYK.html
+Sun Mar 10 2024,Oklahoma City Thunder,Memphis Grizzlies,124,93,Paycom Center,18203,/boxscores/202403100OKC.html
+Sun Mar 10 2024,Los Angeles Lakers,Minnesota Timberwolves,120,109,Crypto.com Arena,18997,/boxscores/202403100LAL.html
+Mon Mar 11 2024,Detroit Pistons,Charlotte Hornets,114,97,Little Caesars Arena,18003,/boxscores/202403110DET.html
+Mon Mar 11 2024,Cleveland Cavaliers,Phoenix Suns,111,117,Rocket Mortgage Fieldhouse,19432,/boxscores/202403110CLE.html
+Mon Mar 11 2024,Chicago Bulls,Dallas Mavericks,92,127,United Center,21363,/boxscores/202403110CHI.html
+Mon Mar 11 2024,San Antonio Spurs,Golden State Warriors,102,112,Frost Bank Center,18354,/boxscores/202403110SAS.html
+Mon Mar 11 2024,Denver Nuggets,Toronto Raptors,125,119,Ball Arena,19652,/boxscores/202403110DEN.html
+Mon Mar 11 2024,Portland Trail Blazers,Boston Celtics,99,121,Moda Center,18480,/boxscores/202403110POR.html
+Tue Mar 12 2024,New York Knicks,Philadelphia 76ers,106,79,Madison Square Garden (IV),19812,/boxscores/202403120NYK.html
+Tue Mar 12 2024,Memphis Grizzlies,Washington Wizards,109,97,FedEx Forum,15291,/boxscores/202403120MEM.html
+Tue Mar 12 2024,Oklahoma City Thunder,Indiana Pacers,111,121,Paycom Center,17118,/boxscores/202403120OKC.html
+Tue Mar 12 2024,San Antonio Spurs,Houston Rockets,101,103,Frost Bank Center,18751,/boxscores/202403120SAS.html
+Tue Mar 12 2024,Utah Jazz,Boston Celtics,107,123,Delta Center,18206,/boxscores/202403120UTA.html
+Tue Mar 12 2024,Los Angeles Clippers,Minnesota Timberwolves,100,118,Crypto.com Arena,19370,/boxscores/202403120LAC.html
+Tue Mar 12 2024,Sacramento Kings,Milwaukee Bucks,129,94,Golden 1 Center,17832,/boxscores/202403120SAC.html
+Wed Mar 13 2024,Detroit Pistons,Toronto Raptors,0,0,Little Caesars Arena,0,core_text"
+Wed Mar 13 2024,Orlando Magic,Brooklyn Nets,0,0,Amway Center,0,core_text"
+Wed Mar 13 2024,Indiana Pacers,Chicago Bulls,0,0,Gainbridge Fieldhouse,0,core_text"
+Wed Mar 13 2024,Miami Heat,Denver Nuggets,0,0,Kaseya Center,0,core_text"
+Wed Mar 13 2024,Memphis Grizzlies,Charlotte Hornets,0,0,FedEx Forum,0,core_text"
+Wed Mar 13 2024,New Orleans Pelicans,Cleveland Cavaliers,0,0,Smoothie King Center,0,core_text"
+Wed Mar 13 2024,Dallas Mavericks,Golden State Warriors,0,0,American Airlines Center,0,core_text"
+Wed Mar 13 2024,Portland Trail Blazers,Atlanta Hawks,0,0,Moda Center,0,core_text"
+Wed Mar 13 2024,Sacramento Kings,Los Angeles Lakers,0,0,Golden 1 Center,0,core_text"
+Thu Mar 14 2024,Boston Celtics,Phoenix Suns,0,0,TD Garden,0,core_text"
+Thu Mar 14 2024,Chicago Bulls,Los Angeles Clippers,0,0,United Center,0,core_text"
+Thu Mar 14 2024,Houston Rockets,Washington Wizards,0,0,Toyota Center,0,core_text"
+Thu Mar 14 2024,Milwaukee Bucks,Philadelphia 76ers,0,0,Fiserv Forum,0,core_text"
+Thu Mar 14 2024,Oklahoma City Thunder,Dallas Mavericks,0,0,Paycom Center,0,core_text"
+Thu Mar 14 2024,Portland Trail Blazers,New York Knicks,0,0,Moda Center,0,core_text"
+Fri Mar 15 2024,Charlotte Hornets,Phoenix Suns,0,0,Spectrum Center,0,core_text"
+Fri Mar 15 2024,Detroit Pistons,Miami Heat,0,0,Little Caesars Arena,0,core_text"
+Fri Mar 15 2024,Toronto Raptors,Orlando Magic,0,0,Scotiabank Arena,0,core_text"
+Fri Mar 15 2024,New Orleans Pelicans,Los Angeles Clippers,0,0,Smoothie King Center,0,core_text"
+Fri Mar 15 2024,San Antonio Spurs,Denver Nuggets,0,0,Frost Bank Center,0,core_text"
+Fri Mar 15 2024,Utah Jazz,Atlanta Hawks,0,0,Delta Center,0,core_text"
+Sat Mar 16 2024,Houston Rockets,Cleveland Cavaliers,0,0,Toyota Center,0,core_text"
+Sat Mar 16 2024,Indiana Pacers,Brooklyn Nets,0,0,Gainbridge Fieldhouse,0,core_text"
+Sat Mar 16 2024,New Orleans Pelicans,Portland Trail Blazers,0,0,Smoothie King Center,0,core_text"
+Sat Mar 16 2024,Philadelphia 76ers,Charlotte Hornets,0,0,Wells Fargo Center,0,core_text"
+Sat Mar 16 2024,Chicago Bulls,Washington Wizards,0,0,United Center,0,core_text"
+Sat Mar 16 2024,Memphis Grizzlies,Oklahoma City Thunder,0,0,FedEx Forum,0,core_text"
+Sat Mar 16 2024,Los Angeles Lakers,Golden State Warriors,0,0,Crypto.com Arena,0,core_text"
+Sat Mar 16 2024,Utah Jazz,Minnesota Timberwolves,0,0,Delta Center,0,core_text"
+Sat Mar 16 2024,Sacramento Kings,New York Knicks,0,0,Golden 1 Center,0,core_text"
+Sun Mar 17 2024,Milwaukee Bucks,Phoenix Suns,0,0,Fiserv Forum,0,core_text"
+Sun Mar 17 2024,Detroit Pistons,Miami Heat,0,0,Little Caesars Arena,0,core_text"
+Sun Mar 17 2024,Dallas Mavericks,Denver Nuggets,0,0,American Airlines Center,0,core_text"
+Sun Mar 17 2024,Orlando Magic,Toronto Raptors,0,0,Amway Center,0,core_text"
+Sun Mar 17 2024,Washington Wizards,Boston Celtics,0,0,Capital One Arena,0,core_text"
+Sun Mar 17 2024,San Antonio Spurs,Brooklyn Nets,0,0,,0,core_text"
+Sun Mar 17 2024,Los Angeles Clippers,Atlanta Hawks,0,0,Crypto.com Arena,0,core_text"
+Mon Mar 18 2024,Indiana Pacers,Cleveland Cavaliers,0,0,Gainbridge Fieldhouse,0,core_text"
+Mon Mar 18 2024,Boston Celtics,Detroit Pistons,0,0,TD Garden,0,core_text"
+Mon Mar 18 2024,Philadelphia 76ers,Miami Heat,0,0,Wells Fargo Center,0,core_text"
+Mon Mar 18 2024,Chicago Bulls,Portland Trail Blazers,0,0,United Center,0,core_text"
+Mon Mar 18 2024,Utah Jazz,Minnesota Timberwolves,0,0,Delta Center,0,core_text"
+Mon Mar 18 2024,Golden State Warriors,New York Knicks,0,0,Chase Center,0,core_text"
+Mon Mar 18 2024,Sacramento Kings,Memphis Grizzlies,0,0,Golden 1 Center,0,core_text"
+Mon Mar 18 2024,Los Angeles Lakers,Atlanta Hawks,0,0,Crypto.com Arena,0,core_text"
+Tue Mar 19 2024,Orlando Magic,Charlotte Hornets,0,0,Amway Center,0,core_text"
+Tue Mar 19 2024,Washington Wizards,Houston Rockets,0,0,Capital One Arena,0,core_text"
+Tue Mar 19 2024,Brooklyn Nets,New Orleans Pelicans,0,0,Barclays Center,0,core_text"
+Tue Mar 19 2024,San Antonio Spurs,Dallas Mavericks,0,0,Frost Bank Center,0,core_text"
+Tue Mar 19 2024,Minnesota Timberwolves,Denver Nuggets,0,0,Target Center,0,core_text"
+Wed Mar 20 2024,Cleveland Cavaliers,Miami Heat,0,0,Rocket Mortgage Fieldhouse,0,core_text"
+Wed Mar 20 2024,Detroit Pistons,Indiana Pacers,0,0,Little Caesars Arena,0,core_text"
+Wed Mar 20 2024,Boston Celtics,Milwaukee Bucks,0,0,TD Garden,0,core_text"
+Wed Mar 20 2024,Toronto Raptors,Sacramento Kings,0,0,Scotiabank Arena,0,core_text"
+Wed Mar 20 2024,Oklahoma City Thunder,Utah Jazz,0,0,Paycom Center,0,core_text"
+Wed Mar 20 2024,Golden State Warriors,Memphis Grizzlies,0,0,Chase Center,0,core_text"
+Wed Mar 20 2024,Phoenix Suns,Philadelphia 76ers,0,0,Footprint Center,0,core_text"
+Wed Mar 20 2024,Portland Trail Blazers,Los Angeles Clippers,0,0,Moda Center,0,core_text"
+Thu Mar 21 2024,Orlando Magic,New Orleans Pelicans,0,0,Amway Center,0,core_text"
+Thu Mar 21 2024,Washington Wizards,Sacramento Kings,0,0,Capital One Arena,0,core_text"
+Thu Mar 21 2024,Houston Rockets,Chicago Bulls,0,0,Toyota Center,0,core_text"
+Thu Mar 21 2024,Milwaukee Bucks,Brooklyn Nets,0,0,Fiserv Forum,0,core_text"
+Thu Mar 21 2024,Dallas Mavericks,Utah Jazz,0,0,American Airlines Center,0,core_text"
+Thu Mar 21 2024,Denver Nuggets,New York Knicks,0,0,Ball Arena,0,core_text"
+Thu Mar 21 2024,Phoenix Suns,Atlanta Hawks,0,0,Footprint Center,0,core_text"
+Fri Mar 22 2024,Detroit Pistons,Boston Celtics,0,0,Little Caesars Arena,0,core_text"
+Fri Mar 22 2024,Toronto Raptors,Oklahoma City Thunder,0,0,Scotiabank Arena,0,core_text"
+Fri Mar 22 2024,Miami Heat,New Orleans Pelicans,0,0,Kaseya Center,0,core_text"
+Fri Mar 22 2024,Minnesota Timberwolves,Cleveland Cavaliers,0,0,Target Center,0,core_text"
+Fri Mar 22 2024,San Antonio Spurs,Memphis Grizzlies,0,0,Frost Bank Center,0,core_text"
+Fri Mar 22 2024,Golden State Warriors,Indiana Pacers,0,0,Chase Center,0,core_text"
+Fri Mar 22 2024,Portland Trail Blazers,Los Angeles Clippers,0,0,Moda Center,0,core_text"
+Fri Mar 22 2024,Los Angeles Lakers,Philadelphia 76ers,0,0,Crypto.com Arena,0,core_text"
+Sat Mar 23 2024,New York Knicks,Brooklyn Nets,0,0,Madison Square Garden (IV),0,core_text"
+Sat Mar 23 2024,Orlando Magic,Sacramento Kings,0,0,Amway Center,0,core_text"
+Sat Mar 23 2024,Atlanta Hawks,Charlotte Hornets,0,0,State Farm Arena,0,core_text"
+Sat Mar 23 2024,Chicago Bulls,Boston Celtics,0,0,United Center,0,core_text"
+Sat Mar 23 2024,Houston Rockets,Utah Jazz,0,0,Toyota Center,0,core_text"
+Sat Mar 23 2024,San Antonio Spurs,Phoenix Suns,0,0,Frost Bank Center,0,core_text"
+Sat Mar 23 2024,Washington Wizards,Toronto Raptors,0,0,Capital One Arena,0,core_text"
+Sat Mar 23 2024,Portland Trail Blazers,Denver Nuggets,0,0,Moda Center,0,core_text"
+Sun Mar 24 2024,Detroit Pistons,New Orleans Pelicans,0,0,Little Caesars Arena,0,core_text"
+Sun Mar 24 2024,Los Angeles Clippers,Philadelphia 76ers,0,0,Crypto.com Arena,0,core_text"
+Sun Mar 24 2024,Miami Heat,Cleveland Cavaliers,0,0,Kaseya Center,0,core_text"
+Sun Mar 24 2024,Milwaukee Bucks,Oklahoma City Thunder,0,0,Fiserv Forum,0,core_text"
+Sun Mar 24 2024,Minnesota Timberwolves,Golden State Warriors,0,0,Target Center,0,core_text"
+Sun Mar 24 2024,Los Angeles Lakers,Indiana Pacers,0,0,Crypto.com Arena,0,core_text"
+Mon Mar 25 2024,Cleveland Cavaliers,Charlotte Hornets,0,0,Rocket Mortgage Fieldhouse,0,core_text"
+Mon Mar 25 2024,Atlanta Hawks,Boston Celtics,0,0,State Farm Arena,0,core_text"
+Mon Mar 25 2024,New York Knicks,Detroit Pistons,0,0,Madison Square Garden (IV),0,core_text"
+Mon Mar 25 2024,Toronto Raptors,Brooklyn Nets,0,0,Scotiabank Arena,0,core_text"
+Mon Mar 25 2024,Chicago Bulls,Washington Wizards,0,0,United Center,0,core_text"
+Mon Mar 25 2024,Houston Rockets,Portland Trail Blazers,0,0,Toyota Center,0,core_text"
+Mon Mar 25 2024,San Antonio Spurs,Phoenix Suns,0,0,Frost Bank Center,0,core_text"
+Mon Mar 25 2024,Denver Nuggets,Memphis Grizzlies,0,0,Ball Arena,0,core_text"
+Mon Mar 25 2024,Utah Jazz,Dallas Mavericks,0,0,Delta Center,0,core_text"
+Mon Mar 25 2024,Sacramento Kings,Philadelphia 76ers,0,0,Golden 1 Center,0,core_text"
+Mon Mar 25 2024,Los Angeles Clippers,Indiana Pacers,0,0,Crypto.com Arena,0,core_text"
+Tue Mar 26 2024,Miami Heat,Golden State Warriors,0,0,Kaseya Center,0,core_text"
+Tue Mar 26 2024,Milwaukee Bucks,Los Angeles Lakers,0,0,Fiserv Forum,0,core_text"
+Tue Mar 26 2024,New Orleans Pelicans,Oklahoma City Thunder,0,0,Smoothie King Center,0,core_text"
+Tue Mar 26 2024,Sacramento Kings,Dallas Mavericks,0,0,Golden 1 Center,0,core_text"
+Wed Mar 27 2024,Charlotte Hornets,Cleveland Cavaliers,0,0,Spectrum Center,0,core_text"
+Wed Mar 27 2024,Orlando Magic,Golden State Warriors,0,0,Amway Center,0,core_text"
+Wed Mar 27 2024,Washington Wizards,Brooklyn Nets,0,0,Capital One Arena,0,core_text"
+Wed Mar 27 2024,Atlanta Hawks,Portland Trail Blazers,0,0,State Farm Arena,0,core_text"
+Wed Mar 27 2024,Philadelphia 76ers,Los Angeles Clippers,0,0,Wells Fargo Center,0,core_text"
+Wed Mar 27 2024,Toronto Raptors,New York Knicks,0,0,Scotiabank Arena,0,core_text"
+Wed Mar 27 2024,Chicago Bulls,Indiana Pacers,0,0,United Center,0,core_text"
+Wed Mar 27 2024,Memphis Grizzlies,Los Angeles Lakers,0,0,FedEx Forum,0,core_text"
+Wed Mar 27 2024,Minnesota Timberwolves,Detroit Pistons,0,0,Target Center,0,core_text"
+Wed Mar 27 2024,Oklahoma City Thunder,Houston Rockets,0,0,Paycom Center,0,core_text"
+Wed Mar 27 2024,Utah Jazz,San Antonio Spurs,0,0,Delta Center,0,core_text"
+Wed Mar 27 2024,Denver Nuggets,Phoenix Suns,0,0,Ball Arena,0,core_text"
+Thu Mar 28 2024,Atlanta Hawks,Boston Celtics,0,0,State Farm Arena,0,core_text"
+Thu Mar 28 2024,New Orleans Pelicans,Milwaukee Bucks,0,0,Smoothie King Center,0,core_text"
+Fri Mar 29 2024,Charlotte Hornets,Golden State Warriors,0,0,Spectrum Center,0,core_text"
+Fri Mar 29 2024,Indiana Pacers,Los Angeles Lakers,0,0,Gainbridge Fieldhouse,0,core_text"
+Fri Mar 29 2024,Orlando Magic,Los Angeles Clippers,0,0,Amway Center,0,core_text"
+Fri Mar 29 2024,Washington Wizards,Detroit Pistons,0,0,Capital One Arena,0,core_text"
+Fri Mar 29 2024,Brooklyn Nets,Chicago Bulls,0,0,Barclays Center,0,core_text"
+Fri Mar 29 2024,Cleveland Cavaliers,Philadelphia 76ers,0,0,Rocket Mortgage Fieldhouse,0,core_text"
+Fri Mar 29 2024,Miami Heat,Portland Trail Blazers,0,0,Kaseya Center,0,core_text"
+Fri Mar 29 2024,Oklahoma City Thunder,Phoenix Suns,0,0,Paycom Center,0,core_text"
+Fri Mar 29 2024,San Antonio Spurs,New York Knicks,0,0,Frost Bank Center,0,core_text"
+Fri Mar 29 2024,Denver Nuggets,Minnesota Timberwolves,0,0,Ball Arena,0,core_text"
+Fri Mar 29 2024,Utah Jazz,Houston Rockets,0,0,Delta Center,0,core_text"
+Fri Mar 29 2024,Sacramento Kings,Dallas Mavericks,0,0,Golden 1 Center,0,core_text"
+Sat Mar 30 2024,New Orleans Pelicans,Boston Celtics,0,0,Smoothie King Center,0,core_text"
+Sat Mar 30 2024,Orlando Magic,Memphis Grizzlies,0,0,Amway Center,0,core_text"
+Sat Mar 30 2024,Atlanta Hawks,Milwaukee Bucks,0,0,State Farm Arena,0,core_text"
+Sun Mar 31 2024,Denver Nuggets,Cleveland Cavaliers,0,0,Ball Arena,0,core_text"
+Sun Mar 31 2024,Brooklyn Nets,Los Angeles Lakers,0,0,Barclays Center,0,core_text"
+Sun Mar 31 2024,Charlotte Hornets,Los Angeles Clippers,0,0,Spectrum Center,0,core_text"
+Sun Mar 31 2024,Toronto Raptors,Philadelphia 76ers,0,0,Scotiabank Arena,0,core_text"
+Sun Mar 31 2024,Washington Wizards,Miami Heat,0,0,Capital One Arena,0,core_text"
+Sun Mar 31 2024,Houston Rockets,Dallas Mavericks,0,0,Toyota Center,0,core_text"
+Sun Mar 31 2024,Minnesota Timberwolves,Chicago Bulls,0,0,Target Center,0,core_text"
+Sun Mar 31 2024,New York Knicks,Oklahoma City Thunder,0,0,Madison Square Garden (IV),0,core_text"
+Sun Mar 31 2024,San Antonio Spurs,Golden State Warriors,0,0,Frost Bank Center,0,core_text"
+Sun Mar 31 2024,Sacramento Kings,Utah Jazz,0,0,Golden 1 Center,0,core_text"

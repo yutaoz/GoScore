@@ -1,0 +1,188 @@
+Thu Feb 1 1996,Charlotte Hornets,Houston Rockets,111,116,Charlotte Coliseum,24042,/boxscores/199602010CHH.html
+Thu Feb 1 1996,Dallas Mavericks,Seattle SuperSonics,103,100,Reunion Arena,15295,/boxscores/199602010DAL.html
+Thu Feb 1 1996,Detroit Pistons,Indiana Pacers,87,70,The Palace of Auburn Hills,16740,/boxscores/199602010DET.html
+Thu Feb 1 1996,Miami Heat,Philadelphia 76ers,124,104,Miami Arena,14278,/boxscores/199602010MIA.html
+Thu Feb 1 1996,Milwaukee Bucks,Denver Nuggets,108,102,Bradley Center,13389,/boxscores/199602010MIL.html
+Thu Feb 1 1996,New York Knicks,Orlando Magic,110,102,Madison Square Garden (IV),19763,/boxscores/199602010NYK.html
+Thu Feb 1 1996,Sacramento Kings,Chicago Bulls,85,105,ARCO Arena (II),17317,/boxscores/199602010SAC.html
+Fri Feb 2 1996,Cleveland Cavaliers,Phoenix Suns,107,85,Gund Arena,20562,/boxscores/199602020CLE.html
+Fri Feb 2 1996,Golden State Warriors,Toronto Raptors,114,111,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602020GSW.html
+Fri Feb 2 1996,Indiana Pacers,Boston Celtics,116,108,Market Square Arena,16579,/boxscores/199602020IND.html
+Fri Feb 2 1996,Los Angeles Lakers,Chicago Bulls,84,99,Great Western Forum,17505,/boxscores/199602020LAL.html
+Fri Feb 2 1996,Orlando Magic,Atlanta Hawks,108,95,Orlando Arena,17248,/boxscores/199602020ORL.html
+Fri Feb 2 1996,San Antonio Spurs,Minnesota Timberwolves,101,90,Alamodome,14236,/boxscores/199602020SAS.html
+Fri Feb 2 1996,Utah Jazz,Los Angeles Clippers,122,113,Delta Center,19911,/boxscores/199602020UTA.html
+Fri Feb 2 1996,Vancouver Grizzlies,New Jersey Nets,84,93,General Motors Place,16141,/boxscores/199602020VAN.html
+Fri Feb 2 1996,Washington Bullets,Portland Trail Blazers,113,97,USAir Arena,18756,/boxscores/199602020WSB.html
+Sat Feb 3 1996,Dallas Mavericks,Minnesota Timberwolves,96,105,Reunion Arena,16415,/boxscores/199602030DAL.html
+Sat Feb 3 1996,Detroit Pistons,Sacramento Kings,85,94,The Palace of Auburn Hills,17350,/boxscores/199602030DET.html
+Sat Feb 3 1996,Houston Rockets,Seattle SuperSonics,103,104,The Summit,16285,/boxscores/199602030HOU.html
+Sat Feb 3 1996,Los Angeles Clippers,Toronto Raptors,113,119,Los Angeles Memorial Sports Arena,5848,/boxscores/199602030LAC.html
+Sat Feb 3 1996,Miami Heat,Boston Celtics,99,100,Miami Arena,14755,/boxscores/199602030MIA.html
+Sat Feb 3 1996,Milwaukee Bucks,Cleveland Cavaliers,88,111,Bradley Center,17979,/boxscores/199602030MIL.html
+Sat Feb 3 1996,Philadelphia 76ers,Portland Trail Blazers,85,96,CoreStates Spectrum,12299,/boxscores/199602030PHI.html
+Sun Feb 4 1996,Atlanta Hawks,Charlotte Hornets,106,104,Omni Coliseum,12480,/boxscores/199602040ATL.html
+Sun Feb 4 1996,Denver Nuggets,Chicago Bulls,105,99,McNichols Sports Arena,17171,/boxscores/199602040DEN.html
+Sun Feb 4 1996,Golden State Warriors,New Jersey Nets,96,92,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602040GSW.html
+Sun Feb 4 1996,Indiana Pacers,New York Knicks,90,83,Market Square Arena,16692,/boxscores/199602040IND.html
+Sun Feb 4 1996,Los Angeles Lakers,Utah Jazz,110,103,Great Western Forum,17505,/boxscores/199602040LAL.html
+Sun Feb 4 1996,Orlando Magic,San Antonio Spurs,122,109,Orlando Arena,17248,/boxscores/199602040ORL.html
+Sun Feb 4 1996,Washington Bullets,Phoenix Suns,115,123,USAir Arena,18756,/boxscores/199602040WSB.html
+Mon Feb 5 1996,Los Angeles Clippers,Golden State Warriors,124,128,Los Angeles Memorial Sports Arena,6057,/boxscores/199602050LAC.html
+Mon Feb 5 1996,Miami Heat,Sacramento Kings,103,92,Miami Arena,14284,/boxscores/199602050MIA.html
+Mon Feb 5 1996,Minnesota Timberwolves,Dallas Mavericks,104,92,Target Center,13244,/boxscores/199602050MIN.html
+Mon Feb 5 1996,New York Knicks,Detroit Pistons,97,91,Madison Square Garden (IV),19763,/boxscores/199602050NYK.html
+Mon Feb 5 1996,Toronto Raptors,Portland Trail Blazers,87,90,SkyDome,20832,/boxscores/199602050TOR.html
+Mon Feb 5 1996,Vancouver Grizzlies,Utah Jazz,83,92,General Motors Place,15827,/boxscores/199602050VAN.html
+Tue Feb 6 1996,Charlotte Hornets,San Antonio Spurs,102,109,Charlotte Coliseum,24042,/boxscores/199602060CHH.html
+Tue Feb 6 1996,Cleveland Cavaliers,Boston Celtics,91,73,Gund Arena,15778,/boxscores/199602060CLE.html
+Tue Feb 6 1996,Denver Nuggets,Los Angeles Lakers,78,99,McNichols Sports Arena,17171,/boxscores/199602060DEN.html
+Tue Feb 6 1996,Milwaukee Bucks,Dallas Mavericks,114,111,Bradley Center,13854,/boxscores/199602060MIL.html
+Tue Feb 6 1996,Orlando Magic,Sacramento Kings,112,102,Orlando Arena,17248,/boxscores/199602060ORL.html
+Tue Feb 6 1996,Phoenix Suns,Chicago Bulls,106,96,America West Arena,19023,/boxscores/199602060PHO.html
+Tue Feb 6 1996,Seattle SuperSonics,Houston Rockets,99,94,KeyArena at Seattle Center,17072,/boxscores/199602060SEA.html
+Wed Feb 7 1996,Boston Celtics,San Antonio Spurs,89,99,FleetCenter,18624,/boxscores/199602070BOS.html
+Wed Feb 7 1996,Detroit Pistons,Orlando Magic,97,83,The Palace of Auburn Hills,21454,/boxscores/199602070DET.html
+Wed Feb 7 1996,Golden State Warriors,Chicago Bulls,95,99,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602070GSW.html
+Wed Feb 7 1996,Los Angeles Clippers,Houston Rockets,102,110,Los Angeles Memorial Sports Arena,6440,/boxscores/199602070LAC.html
+Wed Feb 7 1996,Los Angeles Lakers,New Jersey Nets,106,96,Great Western Forum,16481,/boxscores/199602070LAL.html
+Wed Feb 7 1996,Miami Heat,Atlanta Hawks,101,89,Miami Arena,14314,/boxscores/199602070MIA.html
+Wed Feb 7 1996,Minnesota Timberwolves,Portland Trail Blazers,93,103,Target Center,11690,/boxscores/199602070MIN.html
+Wed Feb 7 1996,New York Knicks,Washington Bullets,87,82,Madison Square Garden (IV),19763,/boxscores/199602070NYK.html
+Wed Feb 7 1996,Philadelphia 76ers,Indiana Pacers,102,101,CoreStates Spectrum,14340,/boxscores/199602070PHI.html
+Wed Feb 7 1996,Toronto Raptors,Milwaukee Bucks,88,93,SkyDome,21335,/boxscores/199602070TOR.html
+Wed Feb 7 1996,Utah Jazz,Vancouver Grizzlies,102,79,Delta Center,19911,/boxscores/199602070UTA.html
+Thu Feb 8 1996,Atlanta Hawks,Washington Bullets,98,92,Omni Coliseum,9466,/boxscores/199602080ATL.html
+Thu Feb 8 1996,Charlotte Hornets,Sacramento Kings,115,105,Charlotte Coliseum,24042,/boxscores/199602080CHH.html
+Thu Feb 8 1996,Dallas Mavericks,Utah Jazz,136,133,Reunion Arena,15151,/boxscores/199602080DAL.html
+Thu Feb 8 1996,Denver Nuggets,Los Angeles Clippers,115,95,McNichols Sports Arena,15997,/boxscores/199602080DEN.html
+Thu Feb 8 1996,Phoenix Suns,New Jersey Nets,107,102,America West Arena,19023,/boxscores/199602080PHO.html
+Tue Feb 13 1996,Chicago Bulls,Washington Bullets,111,98,United Center,23494,/boxscores/199602130CHI.html
+Tue Feb 13 1996,Cleveland Cavaliers,Charlotte Hornets,110,100,Gund Arena,17771,/boxscores/199602130CLE.html
+Tue Feb 13 1996,Houston Rockets,Dallas Mavericks,121,106,The Summit,16285,/boxscores/199602130HOU.html
+Tue Feb 13 1996,Indiana Pacers,New Jersey Nets,92,101,Market Square Arena,16131,/boxscores/199602130IND.html
+Tue Feb 13 1996,Los Angeles Clippers,Boston Celtics,94,108,Los Angeles Memorial Sports Arena,6641,/boxscores/199602130LAC.html
+Tue Feb 13 1996,Miami Heat,Toronto Raptors,87,98,Miami Arena,14286,/boxscores/199602130MIA.html
+Tue Feb 13 1996,Milwaukee Bucks,Philadelphia 76ers,101,104,Bradley Center,13274,/boxscores/199602130MIL.html
+Tue Feb 13 1996,Orlando Magic,Denver Nuggets,121,93,Orlando Arena,17248,/boxscores/199602130ORL.html
+Tue Feb 13 1996,Phoenix Suns,Seattle SuperSonics,98,102,America West Arena,19023,/boxscores/199602130PHO.html
+Tue Feb 13 1996,Portland Trail Blazers,Golden State Warriors,98,99,Rose Garden Arena,20186,/boxscores/199602130POR.html
+Tue Feb 13 1996,Sacramento Kings,Minnesota Timberwolves,90,94,ARCO Arena (II),17317,/boxscores/199602130SAC.html
+Tue Feb 13 1996,San Antonio Spurs,Utah Jazz,111,114,Alamodome,15150,/boxscores/199602130SAS.html
+Wed Feb 14 1996,Charlotte Hornets,New York Knicks,120,100,Charlotte Coliseum,24042,/boxscores/199602140CHH.html
+Wed Feb 14 1996,Golden State Warriors,Boston Celtics,106,103,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602140GSW.html
+Wed Feb 14 1996,Los Angeles Lakers,Atlanta Hawks,87,86,Great Western Forum,16792,/boxscores/199602140LAL.html
+Wed Feb 14 1996,New Jersey Nets,Indiana Pacers,88,87,Brendan Byrne Arena,15541,/boxscores/199602140NJN.html
+Wed Feb 14 1996,Philadelphia 76ers,Detroit Pistons,83,102,CoreStates Spectrum,10288,/boxscores/199602140PHI.html
+Wed Feb 14 1996,Seattle SuperSonics,Minnesota Timberwolves,130,93,KeyArena at Seattle Center,16260,/boxscores/199602140SEA.html
+Wed Feb 14 1996,Vancouver Grizzlies,Sacramento Kings,93,86,General Motors Place,15391,/boxscores/199602140VAN.html
+Thu Feb 15 1996,Detroit Pistons,Chicago Bulls,109,112,The Palace of Auburn Hills,21454,/boxscores/199602150DET.html
+Thu Feb 15 1996,Houston Rockets,San Antonio Spurs,112,108,The Summit,16285,/boxscores/199602150HOU.html
+Thu Feb 15 1996,Miami Heat,Denver Nuggets,97,91,Miami Arena,14290,/boxscores/199602150MIA.html
+Thu Feb 15 1996,Milwaukee Bucks,Washington Bullets,109,98,Bradley Center,16211,/boxscores/199602150MIL.html
+Thu Feb 15 1996,Portland Trail Blazers,Phoenix Suns,84,96,Rose Garden Arena,21118,/boxscores/199602150POR.html
+Thu Feb 15 1996,Toronto Raptors,Cleveland Cavaliers,76,95,Copps Coliseum,17242,/boxscores/199602150TOR.html
+Thu Feb 15 1996,Utah Jazz,Dallas Mavericks,106,103,Delta Center,19911,/boxscores/199602150UTA.html
+Fri Feb 16 1996,Charlotte Hornets,Denver Nuggets,107,100,Charlotte Coliseum,24042,/boxscores/199602160CHH.html
+Fri Feb 16 1996,Los Angeles Lakers,Dallas Mavericks,119,114,Great Western Forum,17505,/boxscores/199602160LAL.html
+Fri Feb 16 1996,Minnesota Timberwolves,Chicago Bulls,100,103,Target Center,20214,/boxscores/199602160MIN.html
+Fri Feb 16 1996,New York Knicks,Philadelphia 76ers,116,84,Madison Square Garden (IV),19763,/boxscores/199602160NYK.html
+Fri Feb 16 1996,Orlando Magic,Milwaukee Bucks,121,91,Orlando Arena,17248,/boxscores/199602160ORL.html
+Fri Feb 16 1996,Sacramento Kings,Boston Celtics,102,130,ARCO Arena (II),17317,/boxscores/199602160SAC.html
+Fri Feb 16 1996,San Antonio Spurs,Golden State Warriors,113,95,Alamodome,16673,/boxscores/199602160SAS.html
+Fri Feb 16 1996,Seattle SuperSonics,Phoenix Suns,117,99,KeyArena at Seattle Center,17072,/boxscores/199602160SEA.html
+Fri Feb 16 1996,Vancouver Grizzlies,Atlanta Hawks,100,110,General Motors Place,15664,/boxscores/199602160VAN.html
+Fri Feb 16 1996,Washington Bullets,Indiana Pacers,94,95,Baltimore Arena,13250,/boxscores/199602160WSB.html
+Sat Feb 17 1996,Cleveland Cavaliers,Philadelphia 76ers,97,82,Gund Arena,20367,/boxscores/199602170CLE.html
+Sat Feb 17 1996,Detroit Pistons,Toronto Raptors,108,95,The Palace of Auburn Hills,21454,/boxscores/199602170DET.html
+Sat Feb 17 1996,Los Angeles Clippers,Portland Trail Blazers,100,96,Arrowhead Pond,14312,/boxscores/199602170LAC.html
+Sat Feb 17 1996,Miami Heat,Orlando Magic,93,95,Miami Arena,15200,/boxscores/199602170MIA.html
+Sat Feb 17 1996,New Jersey Nets,New York Knicks,82,77,Brendan Byrne Arena,20049,/boxscores/199602170NJN.html
+Sun Feb 18 1996,Charlotte Hornets,Milwaukee Bucks,122,99,Charlotte Coliseum,24042,/boxscores/199602180CHH.html
+Sun Feb 18 1996,Denver Nuggets,Boston Celtics,117,93,McNichols Sports Arena,17171,/boxscores/199602180DEN.html
+Sun Feb 18 1996,Indiana Pacers,Chicago Bulls,102,110,Market Square Arena,16770,/boxscores/199602180IND.html
+Sun Feb 18 1996,Minnesota Timberwolves,Washington Bullets,96,108,Target Center,15394,/boxscores/199602180MIN.html
+Sun Feb 18 1996,Portland Trail Blazers,Atlanta Hawks,90,93,Rose Garden Arena,20250,/boxscores/199602180POR.html
+Sun Feb 18 1996,San Antonio Spurs,Houston Rockets,93,79,Alamodome,34215,/boxscores/199602180SAS.html
+Sun Feb 18 1996,Vancouver Grizzlies,Seattle SuperSonics,109,118,General Motors Place,19193,/boxscores/199602180VAN.html
+Mon Feb 19 1996,Cleveland Cavaliers,Miami Heat,73,70,Gund Arena,18119,/boxscores/199602190CLE.html
+Mon Feb 19 1996,Dallas Mavericks,Golden State Warriors,100,112,Reunion Arena,15493,/boxscores/199602190DAL.html
+Mon Feb 19 1996,Detroit Pistons,Minnesota Timberwolves,113,83,The Palace of Auburn Hills,15970,/boxscores/199602190DET.html
+Mon Feb 19 1996,Houston Rockets,Sacramento Kings,118,111,The Summit,16285,/boxscores/199602190HOU.html
+Mon Feb 19 1996,Phoenix Suns,Vancouver Grizzlies,98,94,America West Arena,19023,/boxscores/199602190PHO.html
+Mon Feb 19 1996,Seattle SuperSonics,Atlanta Hawks,102,94,KeyArena at Seattle Center,17072,/boxscores/199602190SEA.html
+Mon Feb 19 1996,Washington Bullets,New Jersey Nets,81,99,USAir Arena,16520,/boxscores/199602190WSB.html
+Tue Feb 20 1996,Chicago Bulls,Cleveland Cavaliers,102,76,United Center,23604,/boxscores/199602200CHI.html
+Tue Feb 20 1996,Los Angeles Lakers,Los Angeles Clippers,121,104,Great Western Forum,17037,/boxscores/199602200LAL.html
+Tue Feb 20 1996,New York Knicks,Milwaukee Bucks,87,92,Madison Square Garden (IV),19763,/boxscores/199602200NYK.html
+Tue Feb 20 1996,Orlando Magic,Philadelphia 76ers,123,104,Orlando Arena,17248,/boxscores/199602200ORL.html
+Tue Feb 20 1996,Portland Trail Blazers,San Antonio Spurs,105,108,Rose Garden Arena,20640,/boxscores/199602200POR.html
+Tue Feb 20 1996,Utah Jazz,Boston Celtics,112,98,Delta Center,19911,/boxscores/199602200UTA.html
+Wed Feb 21 1996,Charlotte Hornets,Washington Bullets,96,92,Charlotte Coliseum,24042,/boxscores/199602210CHH.html
+Wed Feb 21 1996,Dallas Mavericks,Sacramento Kings,93,91,Reunion Arena,14980,/boxscores/199602210DAL.html
+Wed Feb 21 1996,Detroit Pistons,New York Knicks,110,113,The Palace of Auburn Hills,20265,/boxscores/199602210DET.html
+Wed Feb 21 1996,Golden State Warriors,San Antonio Spurs,95,92,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602210GSW.html
+Wed Feb 21 1996,Indiana Pacers,Orlando Magic,97,99,Market Square Arena,16719,/boxscores/199602210IND.html
+Wed Feb 21 1996,Los Angeles Clippers,Los Angeles Lakers,108,112,Los Angeles Memorial Sports Arena,16021,/boxscores/199602210LAC.html
+Wed Feb 21 1996,Milwaukee Bucks,New Jersey Nets,92,94,Bradley Center,14122,/boxscores/199602210MIL.html
+Wed Feb 21 1996,Minnesota Timberwolves,Houston Rockets,120,101,Target Center,14224,/boxscores/199602210MIN.html
+Wed Feb 21 1996,Philadelphia 76ers,Miami Heat,57,66,CoreStates Spectrum,11121,/boxscores/199602210PHI.html
+Wed Feb 21 1996,Phoenix Suns,Boston Celtics,120,107,America West Arena,19023,/boxscores/199602210PHO.html
+Thu Feb 22 1996,Atlanta Hawks,Chicago Bulls,91,96,Omni Coliseum,16378,/boxscores/199602220ATL.html
+Thu Feb 22 1996,Cleveland Cavaliers,Houston Rockets,80,86,Gund Arena,19456,/boxscores/199602220CLE.html
+Thu Feb 22 1996,Portland Trail Blazers,Denver Nuggets,107,78,Rose Garden Arena,19884,/boxscores/199602220POR.html
+Thu Feb 22 1996,Seattle SuperSonics,Golden State Warriors,106,90,KeyArena at Seattle Center,17072,/boxscores/199602220SEA.html
+Thu Feb 22 1996,Utah Jazz,Toronto Raptors,102,86,Delta Center,19911,/boxscores/199602220UTA.html
+Fri Feb 23 1996,Dallas Mavericks,Los Angeles Lakers,88,114,Reunion Arena,17502,/boxscores/199602230DAL.html
+Fri Feb 23 1996,Indiana Pacers,Philadelphia 76ers,102,95,Market Square Arena,16642,/boxscores/199602230IND.html
+Fri Feb 23 1996,Miami Heat,Chicago Bulls,113,104,Miami Arena,15200,/boxscores/199602230MIA.html
+Fri Feb 23 1996,Milwaukee Bucks,Orlando Magic,102,115,Bradley Center,18633,/boxscores/199602230MIL.html
+Fri Feb 23 1996,Minnesota Timberwolves,Detroit Pistons,94,93,Target Center,14154,/boxscores/199602230MIN.html
+Fri Feb 23 1996,New York Knicks,Atlanta Hawks,97,108,Madison Square Garden (IV),19763,/boxscores/199602230NYK.html
+Fri Feb 23 1996,Phoenix Suns,Toronto Raptors,110,105,America West Arena,19023,/boxscores/199602230PHO.html
+Fri Feb 23 1996,Sacramento Kings,San Antonio Spurs,105,112,ARCO Arena (II),17317,/boxscores/199602230SAC.html
+Fri Feb 23 1996,Washington Bullets,Charlotte Hornets,94,100,USAir Arena,18756,/boxscores/199602230WSB.html
+Sat Feb 24 1996,Charlotte Hornets,Indiana Pacers,90,104,Charlotte Coliseum,24042,/boxscores/199602240CHH.html
+Sat Feb 24 1996,Cleveland Cavaliers,New Jersey Nets,103,74,Gund Arena,18623,/boxscores/199602240CLE.html
+Sat Feb 24 1996,Denver Nuggets,Utah Jazz,99,90,McNichols Sports Arena,17171,/boxscores/199602240DEN.html
+Sat Feb 24 1996,Golden State Warriors,Los Angeles Clippers,86,80,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199602240GSW.html
+Sat Feb 24 1996,Houston Rockets,Los Angeles Lakers,96,94,The Summit,16285,/boxscores/199602240HOU.html
+Sat Feb 24 1996,Seattle SuperSonics,Sacramento Kings,104,91,KeyArena at Seattle Center,17072,/boxscores/199602240SEA.html
+Sun Feb 25 1996,Chicago Bulls,Orlando Magic,111,91,United Center,24102,/boxscores/199602250CHI.html
+Sun Feb 25 1996,Dallas Mavericks,Toronto Raptors,105,98,Reunion Arena,16618,/boxscores/199602250DAL.html
+Sun Feb 25 1996,Los Angeles Clippers,Seattle SuperSonics,101,106,Los Angeles Memorial Sports Arena,8807,/boxscores/199602250LAC.html
+Sun Feb 25 1996,Miami Heat,Philadelphia 76ers,108,101,Miami Arena,15014,/boxscores/199602250MIA.html
+Sun Feb 25 1996,Minnesota Timberwolves,Atlanta Hawks,76,92,Target Center,14673,/boxscores/199602250MIN.html
+Sun Feb 25 1996,New Jersey Nets,Boston Celtics,111,105,Brendan Byrne Arena,18052,/boxscores/199602250NJN.html
+Sun Feb 25 1996,Phoenix Suns,New York Knicks,113,105,America West Arena,19023,/boxscores/199602250PHO.html
+Sun Feb 25 1996,Portland Trail Blazers,Detroit Pistons,81,93,Rose Garden Arena,20680,/boxscores/199602250POR.html
+Sun Feb 25 1996,Vancouver Grizzlies,San Antonio Spurs,84,95,General Motors Place,16598,/boxscores/199602250VAN.html
+Sun Feb 25 1996,Washington Bullets,Milwaukee Bucks,111,103,USAir Arena,18756,/boxscores/199602250WSB.html
+Mon Feb 26 1996,Boston Celtics,Indiana Pacers,119,122,FleetCenter,17703,/boxscores/199602260BOS.html
+Mon Feb 26 1996,Los Angeles Lakers,New York Knicks,114,96,Great Western Forum,17505,/boxscores/199602260LAL.html
+Mon Feb 26 1996,Sacramento Kings,Detroit Pistons,78,93,ARCO Arena (II),17317,/boxscores/199602260SAC.html
+Mon Feb 26 1996,Utah Jazz,Phoenix Suns,110,87,Delta Center,19911,/boxscores/199602260UTA.html
+Tue Feb 27 1996,Chicago Bulls,Minnesota Timberwolves,120,99,United Center,23716,/boxscores/199602270CHI.html
+Tue Feb 27 1996,Cleveland Cavaliers,Golden State Warriors,92,80,Gund Arena,15546,/boxscores/199602270CLE.html
+Tue Feb 27 1996,Dallas Mavericks,Philadelphia 76ers,115,121,Reunion Arena,14811,/boxscores/199602270DAL.html
+Tue Feb 27 1996,Denver Nuggets,Washington Bullets,96,92,McNichols Sports Arena,15288,/boxscores/199602270DEN.html
+Tue Feb 27 1996,Houston Rockets,Toronto Raptors,105,100,The Summit,16285,/boxscores/199602270HOU.html
+Tue Feb 27 1996,Indiana Pacers,Portland Trail Blazers,101,87,Market Square Arena,15602,/boxscores/199602270IND.html
+Tue Feb 27 1996,Los Angeles Clippers,San Antonio Spurs,95,90,Arrowhead Pond,14555,/boxscores/199602270LAC.html
+Tue Feb 27 1996,Milwaukee Bucks,Charlotte Hornets,84,88,Bradley Center,13298,/boxscores/199602270MIL.html
+Tue Feb 27 1996,New Jersey Nets,Miami Heat,90,93,Brendan Byrne Arena,15241,/boxscores/199602270NJN.html
+Wed Feb 28 1996,Atlanta Hawks,Portland Trail Blazers,90,88,Omni Coliseum,12350,/boxscores/199602280ATL.html
+Wed Feb 28 1996,Boston Celtics,Charlotte Hornets,121,116,FleetCenter,18005,/boxscores/199602280BOS.html
+Wed Feb 28 1996,Minnesota Timberwolves,Phoenix Suns,93,117,Target Center,13108,/boxscores/199602280MIN.html
+Wed Feb 28 1996,Orlando Magic,Miami Heat,116,112,Orlando Arena,17248,/boxscores/199602280ORL.html
+Wed Feb 28 1996,Sacramento Kings,New York Knicks,90,85,ARCO Arena (II),17317,/boxscores/199602280SAC.html
+Wed Feb 28 1996,Seattle SuperSonics,Detroit Pistons,94,80,KeyArena at Seattle Center,17072,/boxscores/199602280SEA.html
+Wed Feb 28 1996,Utah Jazz,Washington Bullets,115,93,Delta Center,19911,/boxscores/199602280UTA.html
+Wed Feb 28 1996,Vancouver Grizzlies,Los Angeles Lakers,80,99,General Motors Place,19193,/boxscores/199602280VAN.html
+Thu Feb 29 1996,Denver Nuggets,Dallas Mavericks,120,137,McNichols Sports Arena,16462,/boxscores/199602290DEN.html
+Thu Feb 29 1996,Houston Rockets,Philadelphia 76ers,109,95,The Summit,16285,/boxscores/199602290HOU.html
+Thu Feb 29 1996,Indiana Pacers,Golden State Warriors,94,85,Market Square Arena,16321,/boxscores/199602290IND.html
+Thu Feb 29 1996,Los Angeles Clippers,Sacramento Kings,122,110,Los Angeles Memorial Sports Arena,8680,/boxscores/199602290LAC.html
+Thu Feb 29 1996,Milwaukee Bucks,Cleveland Cavaliers,86,95,Bradley Center,14111,/boxscores/199602290MIL.html
+Thu Feb 29 1996,New Jersey Nets,Orlando Magic,98,114,Brendan Byrne Arena,20049,/boxscores/199602290NJN.html
+Thu Feb 29 1996,San Antonio Spurs,Toronto Raptors,120,95,Alamodome,18083,/boxscores/199602290SAS.html

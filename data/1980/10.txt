@@ -1,0 +1,109 @@
+Fri Oct 12 1979,Atlanta Hawks,New York Knicks,121,104,Omni Coliseum,0,/boxscores/197910120ATL.html
+Fri Oct 12 1979,Boston Celtics,Houston Rockets,114,106,Boston Garden,15320,/boxscores/197910120BOS.html
+Fri Oct 12 1979,Detroit Pistons,Indiana Pacers,114,105,Pontiac Silverdome,0,/boxscores/197910120DET.html
+Fri Oct 12 1979,Kansas City Kings,Milwaukee Bucks,105,103,Municipal Auditorium,0,/boxscores/197910120KCK.html
+Fri Oct 12 1979,New Jersey Nets,Cleveland Cavaliers,102,95,Rutgers Athletic Center,0,/boxscores/197910120NJN.html
+Fri Oct 12 1979,Phoenix Suns,Golden State Warriors,97,89,Arizona Veterans Memorial Coliseum,0,/boxscores/197910120PHO.html
+Fri Oct 12 1979,Portland Trail Blazers,Utah Jazz,101,85,Memorial Coliseum,0,/boxscores/197910120POR.html
+Fri Oct 12 1979,San Diego Clippers,Los Angeles Lakers,102,103,San Diego Sports Arena,8503,/boxscores/197910120SDC.html
+Fri Oct 12 1979,Washington Bullets,Philadelphia 76ers,92,93,Capital Centre,0,/boxscores/197910120WSB.html
+Sat Oct 13 1979,Cleveland Cavaliers,Boston Celtics,117,139,Coliseum at Richfield,15443,/boxscores/197910130CLE.html
+Sat Oct 13 1979,Denver Nuggets,Milwaukee Bucks,96,125,McNichols Sports Arena,0,/boxscores/197910130DEN.html
+Sat Oct 13 1979,Golden State Warriors,Chicago Bulls,96,102,Oakland-Alameda County Coliseum Arena,0,/boxscores/197910130GSW.html
+Sat Oct 13 1979,Indiana Pacers,Atlanta Hawks,115,101,Market Square Arena,0,/boxscores/197910130IND.html
+Sat Oct 13 1979,New York Knicks,Washington Bullets,125,118,Madison Square Garden (IV),0,/boxscores/197910130NYK.html
+Sat Oct 13 1979,Philadelphia 76ers,Houston Rockets,113,105,The Spectrum,0,/boxscores/197910130PHI.html
+Sat Oct 13 1979,San Antonio Spurs,Detroit Pistons,110,112,HemisFair Arena,0,/boxscores/197910130SAS.html
+Sun Oct 14 1979,Phoenix Suns,Chicago Bulls,112,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197910140PHO.html
+Sun Oct 14 1979,Portland Trail Blazers,Denver Nuggets,109,93,Memorial Coliseum,0,/boxscores/197910140POR.html
+Sun Oct 14 1979,San Diego Clippers,Seattle SuperSonics,98,93,San Diego Sports Arena,0,/boxscores/197910140SDC.html
+Mon Oct 15 1979,Utah Jazz,Milwaukee Bucks,107,131,Salt Palace,7721,/boxscores/197910150UTA.html
+Tue Oct 16 1979,Atlanta Hawks,San Antonio Spurs,116,118,Omni Coliseum,0,/boxscores/197910160ATL.html
+Tue Oct 16 1979,Cleveland Cavaliers,Detroit Pistons,137,117,Coliseum at Richfield,0,/boxscores/197910160CLE.html
+Tue Oct 16 1979,Denver Nuggets,Golden State Warriors,106,108,McNichols Sports Arena,0,/boxscores/197910160DEN.html
+Tue Oct 16 1979,Indiana Pacers,New Jersey Nets,113,100,Market Square Arena,0,/boxscores/197910160IND.html
+Tue Oct 16 1979,Los Angeles Lakers,Chicago Bulls,105,96,The Forum,0,/boxscores/197910160LAL.html
+Tue Oct 16 1979,New York Knicks,Houston Rockets,126,121,Madison Square Garden (IV),0,/boxscores/197910160NYK.html
+Tue Oct 16 1979,Phoenix Suns,Seattle SuperSonics,102,86,Arizona Veterans Memorial Coliseum,0,/boxscores/197910160PHO.html
+Tue Oct 16 1979,Portland Trail Blazers,San Diego Clippers,88,81,Memorial Coliseum,0,/boxscores/197910160POR.html
+Wed Oct 17 1979,Boston Celtics,Cleveland Cavaliers,127,108,Boston Garden,0,/boxscores/197910170BOS.html
+Wed Oct 17 1979,Houston Rockets,Indiana Pacers,116,112,The Summit,0,/boxscores/197910170HOU.html
+Wed Oct 17 1979,Kansas City Kings,Golden State Warriors,94,107,Municipal Auditorium,0,/boxscores/197910170KCK.html
+Wed Oct 17 1979,Milwaukee Bucks,Denver Nuggets,125,97,MECCA Arena,0,/boxscores/197910170MIL.html
+Wed Oct 17 1979,New Jersey Nets,Philadelphia 76ers,88,113,Rutgers Athletic Center,0,/boxscores/197910170NJN.html
+Wed Oct 17 1979,Seattle SuperSonics,Los Angeles Lakers,112,110,Seattle Kingdome,0,/boxscores/197910170SEA.html
+Wed Oct 17 1979,Washington Bullets,Atlanta Hawks,100,97,Capital Centre,0,/boxscores/197910170WSB.html
+Thu Oct 18 1979,Atlanta Hawks,Indiana Pacers,115,85,Omni Coliseum,5259,/boxscores/197910180ATL.html
+Thu Oct 18 1979,Cleveland Cavaliers,San Antonio Spurs,141,134,Coliseum at Richfield,0,/boxscores/197910180CLE.html
+Thu Oct 18 1979,Detroit Pistons,New York Knicks,129,115,Pontiac Silverdome,0,/boxscores/197910180DET.html
+Thu Oct 18 1979,San Diego Clippers,Chicago Bulls,111,107,San Diego Sports Arena,0,/boxscores/197910180SDC.html
+Thu Oct 18 1979,Utah Jazz,Portland Trail Blazers,92,107,Salt Palace,0,/boxscores/197910180UTA.html
+Fri Oct 19 1979,Boston Celtics,Washington Bullets,130,93,Boston Garden,0,/boxscores/197910190BOS.html
+Fri Oct 19 1979,Denver Nuggets,Kansas City Kings,84,107,McNichols Sports Arena,0,/boxscores/197910190DEN.html
+Fri Oct 19 1979,Los Angeles Lakers,Portland Trail Blazers,82,99,The Forum,0,/boxscores/197910190LAL.html
+Fri Oct 19 1979,Milwaukee Bucks,Phoenix Suns,95,94,MECCA Arena,10938,/boxscores/197910190MIL.html
+Fri Oct 19 1979,New Jersey Nets,New York Knicks,106,111,Rutgers Athletic Center,0,/boxscores/197910190NJN.html
+Fri Oct 19 1979,Philadelphia 76ers,Detroit Pistons,112,104,The Spectrum,0,/boxscores/197910190PHI.html
+Fri Oct 19 1979,Seattle SuperSonics,San Diego Clippers,106,98,Seattle Kingdome,0,/boxscores/197910190SEA.html
+Sat Oct 20 1979,Chicago Bulls,Phoenix Suns,116,104,Chicago Stadium,0,/boxscores/197910200CHI.html
+Sat Oct 20 1979,Golden State Warriors,Utah Jazz,101,96,Oakland-Alameda County Coliseum Arena,0,/boxscores/197910200GSW.html
+Sat Oct 20 1979,Houston Rockets,Atlanta Hawks,107,102,The Summit,0,/boxscores/197910200HOU.html
+Sat Oct 20 1979,Indiana Pacers,Boston Celtics,131,128,Market Square Arena,0,/boxscores/197910200IND.html
+Sat Oct 20 1979,New York Knicks,Philadelphia 76ers,111,136,Madison Square Garden (IV),0,/boxscores/197910200NYK.html
+Sat Oct 20 1979,San Antonio Spurs,Cleveland Cavaliers,129,127,HemisFair Arena,0,/boxscores/197910200SAS.html
+Sat Oct 20 1979,Washington Bullets,Detroit Pistons,117,106,Capital Centre,0,/boxscores/197910200WSB.html
+Sun Oct 21 1979,Kansas City Kings,Phoenix Suns,122,85,Municipal Auditorium,0,/boxscores/197910210KCK.html
+Sun Oct 21 1979,Los Angeles Lakers,Seattle SuperSonics,106,97,The Forum,0,/boxscores/197910210LAL.html
+Sun Oct 21 1979,Milwaukee Bucks,Chicago Bulls,113,111,MECCA Arena,0,/boxscores/197910210MIL.html
+Sun Oct 21 1979,Portland Trail Blazers,Golden State Warriors,91,74,Memorial Coliseum,0,/boxscores/197910210POR.html
+Mon Oct 22 1979,Utah Jazz,San Diego Clippers,110,109,Salt Palace,0,/boxscores/197910220UTA.html
+Tue Oct 23 1979,Chicago Bulls,New Jersey Nets,108,103,Chicago Stadium,0,/boxscores/197910230CHI.html
+Tue Oct 23 1979,Cleveland Cavaliers,Atlanta Hawks,111,121,Coliseum at Richfield,0,/boxscores/197910230CLE.html
+Tue Oct 23 1979,Los Angeles Lakers,Utah Jazz,102,87,The Forum,0,/boxscores/197910230LAL.html
+Tue Oct 23 1979,New York Knicks,Indiana Pacers,136,112,Madison Square Garden (IV),0,/boxscores/197910230NYK.html
+Tue Oct 23 1979,Phoenix Suns,Milwaukee Bucks,108,114,Arizona Veterans Memorial Coliseum,10538,/boxscores/197910230PHO.html
+Tue Oct 23 1979,Portland Trail Blazers,Kansas City Kings,90,88,Memorial Coliseum,0,/boxscores/197910230POR.html
+Tue Oct 23 1979,San Antonio Spurs,Boston Celtics,129,120,HemisFair Arena,0,/boxscores/197910230SAS.html
+Tue Oct 23 1979,San Diego Clippers,Denver Nuggets,132,127,San Diego Sports Arena,0,/boxscores/197910230SDC.html
+Wed Oct 24 1979,Atlanta Hawks,Cleveland Cavaliers,128,118,Omni Coliseum,0,/boxscores/197910240ATL.html
+Wed Oct 24 1979,Denver Nuggets,Portland Trail Blazers,87,88,McNichols Sports Arena,0,/boxscores/197910240DEN.html
+Wed Oct 24 1979,Detroit Pistons,Washington Bullets,104,103,Pontiac Silverdome,0,/boxscores/197910240DET.html
+Wed Oct 24 1979,Golden State Warriors,Phoenix Suns,108,110,Oakland-Alameda County Coliseum Arena,6296,/boxscores/197910240GSW.html
+Wed Oct 24 1979,Houston Rockets,Boston Celtics,99,100,The Summit,11635,/boxscores/197910240HOU.html
+Wed Oct 24 1979,Philadelphia 76ers,Indiana Pacers,132,110,The Spectrum,0,/boxscores/197910240PHI.html
+Wed Oct 24 1979,Seattle SuperSonics,Kansas City Kings,105,92,Seattle Kingdome,0,/boxscores/197910240SEA.html
+Thu Oct 25 1979,San Diego Clippers,Milwaukee Bucks,115,118,San Diego Sports Arena,0,/boxscores/197910250SDC.html
+Thu Oct 25 1979,Utah Jazz,Chicago Bulls,113,105,Salt Palace,0,/boxscores/197910250UTA.html
+Fri Oct 26 1979,Detroit Pistons,San Antonio Spurs,113,129,Pontiac Silverdome,0,/boxscores/197910260DET.html
+Fri Oct 26 1979,Indiana Pacers,Washington Bullets,118,108,Market Square Arena,0,/boxscores/197910260IND.html
+Fri Oct 26 1979,Los Angeles Lakers,Kansas City Kings,116,104,The Forum,0,/boxscores/197910260LAL.html
+Fri Oct 26 1979,New Jersey Nets,Atlanta Hawks,90,94,Rutgers Athletic Center,0,/boxscores/197910260NJN.html
+Fri Oct 26 1979,Philadelphia 76ers,New York Knicks,127,116,The Spectrum,0,/boxscores/197910260PHI.html
+Fri Oct 26 1979,Portland Trail Blazers,Chicago Bulls,95,93,Memorial Coliseum,0,/boxscores/197910260POR.html
+Fri Oct 26 1979,Seattle SuperSonics,Phoenix Suns,86,92,Seattle Kingdome,0,/boxscores/197910260SEA.html
+Sat Oct 27 1979,Atlanta Hawks,Boston Celtics,95,100,Omni Coliseum,0,/boxscores/197910270ATL.html
+Sat Oct 27 1979,Cleveland Cavaliers,Philadelphia 76ers,106,112,Coliseum at Richfield,0,/boxscores/197910270CLE.html
+Sat Oct 27 1979,Denver Nuggets,Utah Jazz,116,96,McNichols Sports Arena,0,/boxscores/197910270DEN.html
+Sat Oct 27 1979,Golden State Warriors,Kansas City Kings,101,95,Oakland-Alameda County Coliseum Arena,0,/boxscores/197910270GSW.html
+Sat Oct 27 1979,Milwaukee Bucks,Detroit Pistons,132,118,MECCA Arena,0,/boxscores/197910270MIL.html
+Sat Oct 27 1979,New York Knicks,New Jersey Nets,94,92,Madison Square Garden (IV),0,/boxscores/197910270NYK.html
+Sat Oct 27 1979,San Antonio Spurs,Indiana Pacers,128,121,HemisFair Arena,0,/boxscores/197910270SAS.html
+Sat Oct 27 1979,San Diego Clippers,Seattle SuperSonics,110,105,San Diego Sports Arena,0,/boxscores/197910270SDC.html
+Sun Oct 28 1979,Los Angeles Lakers,Golden State Warriors,97,90,The Forum,0,/boxscores/197910280LAL.html
+Sun Oct 28 1979,New Jersey Nets,Houston Rockets,120,115,Rutgers Athletic Center,0,/boxscores/197910280NJN.html
+Sun Oct 28 1979,Portland Trail Blazers,Phoenix Suns,88,89,Memorial Coliseum,0,/boxscores/197910280POR.html
+Sun Oct 28 1979,San Diego Clippers,Kansas City Kings,101,106,San Diego Sports Arena,0,/boxscores/197910280SDC.html
+Sun Oct 28 1979,Seattle SuperSonics,Chicago Bulls,108,97,Seattle Kingdome,0,/boxscores/197910280SEA.html
+Tue Oct 30 1979,Chicago Bulls,Los Angeles Lakers,105,111,Chicago Stadium,0,/boxscores/197910300CHI.html
+Tue Oct 30 1979,Cleveland Cavaliers,Houston Rockets,124,112,Coliseum at Richfield,0,/boxscores/197910300CLE.html
+Tue Oct 30 1979,Denver Nuggets,New York Knicks,121,112,McNichols Sports Arena,0,/boxscores/197910300DEN.html
+Tue Oct 30 1979,Phoenix Suns,San Antonio Spurs,142,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197910300PHO.html
+Wed Oct 31 1979,Atlanta Hawks,Philadelphia 76ers,102,97,Omni Coliseum,0,/boxscores/197910310ATL.html
+Wed Oct 31 1979,Golden State Warriors,Portland Trail Blazers,111,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197910310GSW.html
+Wed Oct 31 1979,Indiana Pacers,Houston Rockets,133,129,Market Square Arena,0,/boxscores/197910310IND.html
+Wed Oct 31 1979,Kansas City Kings,Utah Jazz,125,108,Municipal Auditorium,0,/boxscores/197910310KCK.html
+Wed Oct 31 1979,Milwaukee Bucks,Los Angeles Lakers,110,106,MECCA Arena,0,/boxscores/197910310MIL.html
+Wed Oct 31 1979,New Jersey Nets,Boston Celtics,79,116,Rutgers Athletic Center,7012,/boxscores/197910310NJN.html
+Wed Oct 31 1979,San Diego Clippers,San Antonio Spurs,123,130,San Diego Sports Arena,0,/boxscores/197910310SDC.html
+Wed Oct 31 1979,Seattle SuperSonics,Denver Nuggets,97,89,Seattle Kingdome,0,/boxscores/197910310SEA.html
+Wed Oct 31 1979,Washington Bullets,Cleveland Cavaliers,114,105,Capital Centre,0,/boxscores/197910310WSB.html

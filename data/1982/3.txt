@@ -1,0 +1,181 @@
+Tue Mar 2 1982,Chicago Bulls,Philadelphia 76ers,112,109,Chicago Stadium,15878,/boxscores/198203020CHI.html
+Tue Mar 2 1982,Dallas Mavericks,Boston Celtics,97,101,Reunion Arena,17134,/boxscores/198203020DAL.html
+Tue Mar 2 1982,Denver Nuggets,Indiana Pacers,124,132,McNichols Sports Arena,10147,/boxscores/198203020DEN.html
+Tue Mar 2 1982,Golden State Warriors,Cleveland Cavaliers,117,108,Oakland-Alameda County Coliseum Arena,8236,/boxscores/198203020GSW.html
+Tue Mar 2 1982,Houston Rockets,San Antonio Spurs,117,119,The Summit,15676,/boxscores/198203020HOU.html
+Tue Mar 2 1982,Milwaukee Bucks,Detroit Pistons,101,91,MECCA Arena,11052,/boxscores/198203020MIL.html
+Tue Mar 2 1982,New York Knicks,San Diego Clippers,108,101,Madison Square Garden (IV),7074,/boxscores/198203020NYK.html
+Tue Mar 2 1982,Portland Trail Blazers,Phoenix Suns,119,108,Memorial Coliseum,12666,/boxscores/198203020POR.html
+Tue Mar 2 1982,Utah Jazz,Kansas City Kings,117,125,Salt Palace,7256,/boxscores/198203020UTA.html
+Tue Mar 2 1982,Washington Bullets,New Jersey Nets,124,130,Capital Centre,10342,/boxscores/198203020WSB.html
+Wed Mar 3 1982,Atlanta Hawks,Milwaukee Bucks,87,96,Omni Coliseum,6640,/boxscores/198203030ATL.html
+Wed Mar 3 1982,Kansas City Kings,Indiana Pacers,120,82,Kemper Arena,6266,/boxscores/198203030KCK.html
+Wed Mar 3 1982,New Jersey Nets,Los Angeles Lakers,111,103,Brendan Byrne Arena,15623,/boxscores/198203030NJN.html
+Wed Mar 3 1982,Philadelphia 76ers,San Diego Clippers,125,107,The Spectrum,10222,/boxscores/198203030PHI.html
+Wed Mar 3 1982,Phoenix Suns,Utah Jazz,115,102,Arizona Veterans Memorial Coliseum,10080,/boxscores/198203030PHO.html
+Wed Mar 3 1982,Seattle SuperSonics,Cleveland Cavaliers,136,107,Seattle Kingdome,14221,/boxscores/198203030SEA.html
+Thu Mar 4 1982,Detroit Pistons,Chicago Bulls,122,97,Pontiac Silverdome,3439,/boxscores/198203040DET.html
+Thu Mar 4 1982,Golden State Warriors,Dallas Mavericks,104,98,Oakland-Alameda County Coliseum Arena,8645,/boxscores/198203040GSW.html
+Thu Mar 4 1982,New York Knicks,Los Angeles Lakers,129,119,Madison Square Garden (IV),14937,/boxscores/198203040NYK.html
+Thu Mar 4 1982,San Antonio Spurs,Boston Celtics,101,110,HemisFair Arena,14858,/boxscores/198203040SAS.html
+Thu Mar 4 1982,Utah Jazz,Houston Rockets,124,128,Salt Palace,4942,/boxscores/198203040UTA.html
+Fri Mar 5 1982,Chicago Bulls,New Jersey Nets,90,107,Chicago Stadium,10572,/boxscores/198203050CHI.html
+Fri Mar 5 1982,Denver Nuggets,Washington Bullets,127,126,McNichols Sports Arena,9986,/boxscores/198203050DEN.html
+Fri Mar 5 1982,Houston Rockets,Boston Celtics,98,100,The Summit,15676,/boxscores/198203050HOU.html
+Fri Mar 5 1982,Philadelphia 76ers,Atlanta Hawks,89,80,The Spectrum,12453,/boxscores/198203050PHI.html
+Fri Mar 5 1982,Phoenix Suns,Kansas City Kings,110,98,Arizona Veterans Memorial Coliseum,11912,/boxscores/198203050PHO.html
+Fri Mar 5 1982,Portland Trail Blazers,Cleveland Cavaliers,110,111,Memorial Coliseum,12666,/boxscores/198203050POR.html
+Fri Mar 5 1982,San Diego Clippers,Golden State Warriors,116,117,San Diego Sports Arena,5228,/boxscores/198203050SDC.html
+Fri Mar 5 1982,Seattle SuperSonics,Dallas Mavericks,98,97,Seattle Kingdome,20230,/boxscores/198203050SEA.html
+Sat Mar 6 1982,Atlanta Hawks,New Jersey Nets,112,92,Omni Coliseum,5659,/boxscores/198203060ATL.html
+Sat Mar 6 1982,New York Knicks,Detroit Pistons,111,115,Madison Square Garden (IV),14577,/boxscores/198203060NYK.html
+Sat Mar 6 1982,San Antonio Spurs,Milwaukee Bucks,171,166,HemisFair Arena,11764,/boxscores/198203060SAS.html
+Sat Mar 6 1982,Utah Jazz,Washington Bullets,113,127,Salt Palace,7104,/boxscores/198203060UTA.html
+Sun Mar 7 1982,Boston Celtics,New York Knicks,107,106,Boston Garden,15320,/boxscores/198203070BOS.html
+Sun Mar 7 1982,Dallas Mavericks,Indiana Pacers,106,108,Reunion Arena,8225,/boxscores/198203070DAL.html
+Sun Mar 7 1982,Denver Nuggets,Cleveland Cavaliers,147,127,McNichols Sports Arena,9889,/boxscores/198203070DEN.html
+Sun Mar 7 1982,Golden State Warriors,Portland Trail Blazers,102,106,Oakland-Alameda County Coliseum Arena,10616,/boxscores/198203070GSW.html
+Sun Mar 7 1982,Kansas City Kings,Chicago Bulls,124,122,Kemper Arena,6109,/boxscores/198203070KCK.html
+Sun Mar 7 1982,Philadelphia 76ers,Los Angeles Lakers,119,113,The Spectrum,18364,/boxscores/198203070PHI.html
+Sun Mar 7 1982,Phoenix Suns,Houston Rockets,92,94,Arizona Veterans Memorial Coliseum,11727,/boxscores/198203070PHO.html
+Sun Mar 7 1982,Seattle SuperSonics,San Diego Clippers,144,106,Seattle Kingdome,17372,/boxscores/198203070SEA.html
+Mon Mar 8 1982,Atlanta Hawks,Milwaukee Bucks,98,95,Omni Coliseum,5372,/boxscores/198203080ATL.html
+Mon Mar 8 1982,Detroit Pistons,Boston Celtics,101,111,Pontiac Silverdome,11179,/boxscores/198203080DET.html
+Mon Mar 8 1982,San Antonio Spurs,Dallas Mavericks,113,121,HemisFair Arena,8284,/boxscores/198203080SAS.html
+Tue Mar 9 1982,Atlanta Hawks,Denver Nuggets,120,106,Omni Coliseum,5840,/boxscores/198203090ATL.html
+Tue Mar 9 1982,Chicago Bulls,Seattle SuperSonics,109,104,Chicago Stadium,7380,/boxscores/198203090CHI.html
+Tue Mar 9 1982,Houston Rockets,Milwaukee Bucks,103,91,The Summit,15575,/boxscores/198203090HOU.html
+Tue Mar 9 1982,Indiana Pacers,Golden State Warriors,85,92,Market Square Arena,6895,/boxscores/198203090IND.html
+Tue Mar 9 1982,Los Angeles Lakers,Kansas City Kings,105,99,The Forum,11614,/boxscores/198203090LAL.html
+Tue Mar 9 1982,New York Knicks,Utah Jazz,126,112,Madison Square Garden (IV),7828,/boxscores/198203090NYK.html
+Tue Mar 9 1982,San Diego Clippers,San Antonio Spurs,138,127,San Diego Sports Arena,5016,/boxscores/198203090SDC.html
+Tue Mar 9 1982,Washington Bullets,Phoenix Suns,95,103,Capital Centre,7331,/boxscores/198203090WSB.html
+Wed Mar 10 1982,Boston Celtics,Indiana Pacers,121,100,Boston Garden,15320,/boxscores/198203100BOS.html
+Wed Mar 10 1982,Dallas Mavericks,Portland Trail Blazers,104,102,Reunion Arena,8285,/boxscores/198203100DAL.html
+Wed Mar 10 1982,Detroit Pistons,Denver Nuggets,113,124,Pontiac Silverdome,4162,/boxscores/198203100DET.html
+Wed Mar 10 1982,Milwaukee Bucks,Chicago Bulls,98,101,MECCA Arena,10819,/boxscores/198203100MIL.html
+Wed Mar 10 1982,New Jersey Nets,Phoenix Suns,113,105,Brendan Byrne Arena,13393,/boxscores/198203100NJN.html
+Wed Mar 10 1982,Philadelphia 76ers,Golden State Warriors,134,114,The Spectrum,15187,/boxscores/198203100PHI.html
+Thu Mar 11 1982,Atlanta Hawks,Utah Jazz,107,91,Omni Coliseum,5780,/boxscores/198203110ATL.html
+Thu Mar 11 1982,Cleveland Cavaliers,Phoenix Suns,95,101,Coliseum at Richfield,4577,/boxscores/198203110CLE.html
+Thu Mar 11 1982,San Diego Clippers,Kansas City Kings,107,113,San Diego Sports Arena,3545,/boxscores/198203110SDC.html
+Fri Mar 12 1982,Detroit Pistons,Golden State Warriors,121,117,Pontiac Silverdome,13204,/boxscores/198203120DET.html
+Fri Mar 12 1982,Houston Rockets,Denver Nuggets,115,130,The Summit,12518,/boxscores/198203120HOU.html
+Fri Mar 12 1982,Los Angeles Lakers,Chicago Bulls,105,111,The Forum,17505,/boxscores/198203120LAL.html
+Fri Mar 12 1982,Milwaukee Bucks,Seattle SuperSonics,110,112,MECCA Arena,11052,/boxscores/198203120MIL.html
+Fri Mar 12 1982,New Jersey Nets,Boston Celtics,109,113,Brendan Byrne Arena,19367,/boxscores/198203120NJN.html
+Fri Mar 12 1982,San Antonio Spurs,Portland Trail Blazers,108,112,HemisFair Arena,10696,/boxscores/198203120SAS.html
+Fri Mar 12 1982,Washington Bullets,Indiana Pacers,110,105,Capital Centre,7211,/boxscores/198203120WSB.html
+Sat Mar 13 1982,Atlanta Hawks,Indiana Pacers,110,90,Omni Coliseum,7046,/boxscores/198203130ATL.html
+Sat Mar 13 1982,Cleveland Cavaliers,Utah Jazz,121,115,Coliseum at Richfield,5264,/boxscores/198203130CLE.html
+Sat Mar 13 1982,Houston Rockets,Portland Trail Blazers,112,107,The Summit,11642,/boxscores/198203130HOU.html
+Sat Mar 13 1982,New York Knicks,Washington Bullets,99,109,Madison Square Garden (IV),9721,/boxscores/198203130NYK.html
+Sat Mar 13 1982,San Diego Clippers,Dallas Mavericks,118,126,San Diego Sports Arena,3938,/boxscores/198203130SDC.html
+Sun Mar 14 1982,Boston Celtics,Phoenix Suns,105,92,Boston Garden,15320,/boxscores/198203140BOS.html
+Sun Mar 14 1982,Cleveland Cavaliers,Detroit Pistons,103,109,Coliseum at Richfield,6120,/boxscores/198203140CLE.html
+Sun Mar 14 1982,Denver Nuggets,Golden State Warriors,127,101,McNichols Sports Arena,12206,/boxscores/198203140DEN.html
+Sun Mar 14 1982,Kansas City Kings,Philadelphia 76ers,114,128,Kemper Arena,10510,/boxscores/198203140KCK.html
+Sun Mar 14 1982,Los Angeles Lakers,Dallas Mavericks,138,116,The Forum,13809,/boxscores/198203140LAL.html
+Sun Mar 14 1982,Milwaukee Bucks,Utah Jazz,129,100,MECCA Arena,11052,/boxscores/198203140MIL.html
+Sun Mar 14 1982,New Jersey Nets,Seattle SuperSonics,97,98,Brendan Byrne Arena,15432,/boxscores/198203140NJN.html
+Sun Mar 14 1982,San Antonio Spurs,Chicago Bulls,119,117,HemisFair Arena,9237,/boxscores/198203140SAS.html
+Sun Mar 14 1982,Washington Bullets,Atlanta Hawks,92,85,Capital Centre,6207,/boxscores/198203140WSB.html
+Tue Mar 16 1982,Denver Nuggets,Utah Jazz,154,138,McNichols Sports Arena,8895,/boxscores/198203160DEN.html
+Tue Mar 16 1982,Detroit Pistons,San Diego Clippers,114,110,Pontiac Silverdome,4185,/boxscores/198203160DET.html
+Tue Mar 16 1982,Houston Rockets,Phoenix Suns,109,114,The Summit,12113,/boxscores/198203160HOU.html
+Tue Mar 16 1982,Indiana Pacers,Seattle SuperSonics,109,96,Market Square Arena,6382,/boxscores/198203160IND.html
+Tue Mar 16 1982,Milwaukee Bucks,Philadelphia 76ers,106,91,MECCA Arena,11052,/boxscores/198203160MIL.html
+Tue Mar 16 1982,New York Knicks,San Antonio Spurs,91,114,Madison Square Garden (IV),10545,/boxscores/198203160NYK.html
+Tue Mar 16 1982,Portland Trail Blazers,Los Angeles Lakers,108,120,Memorial Coliseum,12666,/boxscores/198203160POR.html
+Tue Mar 16 1982,Washington Bullets,Boston Celtics,97,98,Capital Centre,19035,/boxscores/198203160WSB.html
+Wed Mar 17 1982,Boston Celtics,Atlanta Hawks,113,109,Boston Garden,15320,/boxscores/198203170BOS.html
+Wed Mar 17 1982,Cleveland Cavaliers,San Diego Clippers,113,107,Coliseum at Richfield,4126,/boxscores/198203170CLE.html
+Wed Mar 17 1982,Dallas Mavericks,Chicago Bulls,92,102,Reunion Arena,8292,/boxscores/198203170DAL.html
+Wed Mar 17 1982,Golden State Warriors,Kansas City Kings,116,117,Oakland-Alameda County Coliseum Arena,7552,/boxscores/198203170GSW.html
+Wed Mar 17 1982,New Jersey Nets,San Antonio Spurs,93,90,Brendan Byrne Arena,13526,/boxscores/198203170NJN.html
+Wed Mar 17 1982,Philadelphia 76ers,Washington Bullets,102,93,The Spectrum,8163,/boxscores/198203170PHI.html
+Wed Mar 17 1982,Phoenix Suns,Denver Nuggets,133,135,Arizona Veterans Memorial Coliseum,11349,/boxscores/198203170PHO.html
+Wed Mar 17 1982,Utah Jazz,Los Angeles Lakers,112,120,Salt Palace,12076,/boxscores/198203170UTA.html
+Thu Mar 18 1982,Atlanta Hawks,Houston Rockets,95,94,Omni Coliseum,5495,/boxscores/198203180ATL.html
+Thu Mar 18 1982,Detroit Pistons,Seattle SuperSonics,119,115,Pontiac Silverdome,10315,/boxscores/198203180DET.html
+Thu Mar 18 1982,Portland Trail Blazers,Golden State Warriors,109,95,Memorial Coliseum,12666,/boxscores/198203180POR.html
+Fri Mar 19 1982,Boston Celtics,San Antonio Spurs,134,110,Boston Garden,15320,/boxscores/198203190BOS.html
+Fri Mar 19 1982,Dallas Mavericks,Los Angeles Lakers,106,112,Reunion Arena,17134,/boxscores/198203190DAL.html
+Fri Mar 19 1982,Denver Nuggets,Chicago Bulls,130,120,McNichols Sports Arena,10979,/boxscores/198203190DEN.html
+Fri Mar 19 1982,Houston Rockets,Detroit Pistons,102,111,The Summit,12562,/boxscores/198203190HOU.html
+Fri Mar 19 1982,Kansas City Kings,Seattle SuperSonics,103,109,Kemper Arena,5758,/boxscores/198203190KCK.html
+Fri Mar 19 1982,Milwaukee Bucks,Cleveland Cavaliers,119,97,MECCA Arena,11052,/boxscores/198203190MIL.html
+Fri Mar 19 1982,Philadelphia 76ers,Indiana Pacers,112,95,The Spectrum,12522,/boxscores/198203190PHI.html
+Fri Mar 19 1982,Utah Jazz,Portland Trail Blazers,129,131,Salt Palace,5625,/boxscores/198203190UTA.html
+Fri Mar 19 1982,Washington Bullets,San Diego Clippers,108,98,Capital Centre,8421,/boxscores/198203190WSB.html
+Sat Mar 20 1982,Cleveland Cavaliers,San Antonio Spurs,102,115,Coliseum at Richfield,8125,/boxscores/198203200CLE.html
+Sat Mar 20 1982,Indiana Pacers,New Jersey Nets,104,101,Market Square Arena,6380,/boxscores/198203200IND.html
+Sat Mar 20 1982,New York Knicks,Atlanta Hawks,98,104,Madison Square Garden (IV),10016,/boxscores/198203200NYK.html
+Sun Mar 21 1982,Atlanta Hawks,Detroit Pistons,119,111,Omni Coliseum,10106,/boxscores/198203210ATL.html
+Sun Mar 21 1982,Cleveland Cavaliers,Chicago Bulls,93,98,Coliseum at Richfield,4172,/boxscores/198203210CLE.html
+Sun Mar 21 1982,Golden State Warriors,Utah Jazz,113,102,Oakland-Alameda County Coliseum Arena,7969,/boxscores/198203210GSW.html
+Sun Mar 21 1982,Kansas City Kings,San Diego Clippers,118,97,Kemper Arena,5687,/boxscores/198203210KCK.html
+Sun Mar 21 1982,Los Angeles Lakers,Houston Rockets,107,102,The Forum,17505,/boxscores/198203210LAL.html
+Sun Mar 21 1982,Milwaukee Bucks,New Jersey Nets,102,86,MECCA Arena,11052,/boxscores/198203210MIL.html
+Sun Mar 21 1982,Philadelphia 76ers,Boston Celtics,111,123,The Spectrum,18364,/boxscores/198203210PHI.html
+Sun Mar 21 1982,Phoenix Suns,Seattle SuperSonics,105,115,Arizona Veterans Memorial Coliseum,13076,/boxscores/198203210PHO.html
+Sun Mar 21 1982,Portland Trail Blazers,Dallas Mavericks,109,101,Memorial Coliseum,12666,/boxscores/198203210POR.html
+Sun Mar 21 1982,Washington Bullets,New York Knicks,110,109,Capital Centre,6434,/boxscores/198203210WSB.html
+Tue Mar 23 1982,Atlanta Hawks,Washington Bullets,107,87,Omni Coliseum,9759,/boxscores/198203230ATL.html
+Tue Mar 23 1982,Chicago Bulls,Boston Celtics,103,110,Chicago Stadium,16712,/boxscores/198203230CHI.html
+Tue Mar 23 1982,Golden State Warriors,Phoenix Suns,95,91,Oakland-Alameda County Coliseum Arena,11044,/boxscores/198203230GSW.html
+Tue Mar 23 1982,Los Angeles Lakers,Dallas Mavericks,116,118,The Forum,13516,/boxscores/198203230LAL.html
+Tue Mar 23 1982,New York Knicks,Cleveland Cavaliers,120,97,Madison Square Garden (IV),7304,/boxscores/198203230NYK.html
+Tue Mar 23 1982,Portland Trail Blazers,Milwaukee Bucks,104,109,Memorial Coliseum,12666,/boxscores/198203230POR.html
+Tue Mar 23 1982,San Antonio Spurs,San Diego Clippers,106,98,HemisFair Arena,8980,/boxscores/198203230SAS.html
+Tue Mar 23 1982,Utah Jazz,Houston Rockets,115,117,Salt Palace,5372,/boxscores/198203230UTA.html
+Wed Mar 24 1982,Boston Celtics,Cleveland Cavaliers,136,115,Boston Garden,5320,/boxscores/198203240BOS.html
+Wed Mar 24 1982,Denver Nuggets,San Antonio Spurs,129,115,McNichols Sports Arena,14425,/boxscores/198203240DEN.html
+Wed Mar 24 1982,Indiana Pacers,Washington Bullets,106,114,Market Square Arena,5107,/boxscores/198203240IND.html
+Wed Mar 24 1982,Kansas City Kings,Atlanta Hawks,110,106,Kemper Arena,5212,/boxscores/198203240KCK.html
+Wed Mar 24 1982,Philadelphia 76ers,New Jersey Nets,106,111,The Spectrum,10317,/boxscores/198203240PHI.html
+Wed Mar 24 1982,Phoenix Suns,Dallas Mavericks,104,96,Arizona Veterans Memorial Coliseum,11046,/boxscores/198203240PHO.html
+Wed Mar 24 1982,Seattle SuperSonics,Milwaukee Bucks,99,97,Seattle Kingdome,23062,/boxscores/198203240SEA.html
+Thu Mar 25 1982,Detroit Pistons,Philadelphia 76ers,100,98,Pontiac Silverdome,21114,/boxscores/198203250DET.html
+Thu Mar 25 1982,Portland Trail Blazers,Houston Rockets,95,108,Memorial Coliseum,12666,/boxscores/198203250POR.html
+Thu Mar 25 1982,San Diego Clippers,Denver Nuggets,117,129,San Diego Sports Arena,3755,/boxscores/198203250SDC.html
+Thu Mar 25 1982,Utah Jazz,Golden State Warriors,105,107,Salt Palace,5263,/boxscores/198203250UTA.html
+Fri Mar 26 1982,Boston Celtics,Detroit Pistons,125,104,Boston Garden,15320,/boxscores/198203260BOS.html
+Fri Mar 26 1982,Chicago Bulls,New York Knicks,131,107,Chicago Stadium,6302,/boxscores/198203260CHI.html
+Fri Mar 26 1982,Cleveland Cavaliers,Philadelphia 76ers,111,115,Coliseum at Richfield,12126,/boxscores/198203260CLE.html
+Fri Mar 26 1982,Dallas Mavericks,Kansas City Kings,96,87,Reunion Arena,7876,/boxscores/198203260DAL.html
+Fri Mar 26 1982,Golden State Warriors,Portland Trail Blazers,102,89,Oakland-Alameda County Coliseum Arena,11831,/boxscores/198203260GSW.html
+Fri Mar 26 1982,Indiana Pacers,Atlanta Hawks,87,100,Market Square Arena,6584,/boxscores/198203260IND.html
+Fri Mar 26 1982,Phoenix Suns,Milwaukee Bucks,113,112,Arizona Veterans Memorial Coliseum,13730,/boxscores/198203260PHO.html
+Fri Mar 26 1982,San Antonio Spurs,Los Angeles Lakers,110,105,HemisFair Arena,14850,/boxscores/198203260SAS.html
+Fri Mar 26 1982,Seattle SuperSonics,Houston Rockets,97,99,Seattle Kingdome,22788,/boxscores/198203260SEA.html
+Fri Mar 26 1982,Washington Bullets,New Jersey Nets,104,88,Capital Centre,14486,/boxscores/198203260WSB.html
+Sat Mar 27 1982,Dallas Mavericks,Atlanta Hawks,85,96,Reunion Arena,9267,/boxscores/198203270DAL.html
+Sat Mar 27 1982,Denver Nuggets,Phoenix Suns,140,134,McNichols Sports Arena,15222,/boxscores/198203270DEN.html
+Sat Mar 27 1982,New Jersey Nets,Detroit Pistons,121,123,Brendan Byrne Arena,14230,/boxscores/198203270NJN.html
+Sat Mar 27 1982,San Diego Clippers,Milwaukee Bucks,99,128,San Diego Sports Arena,4825,/boxscores/198203270SDC.html
+Sat Mar 27 1982,Utah Jazz,San Antonio Spurs,110,114,Salt Palace,7272,/boxscores/198203270UTA.html
+Sun Mar 28 1982,Boston Celtics,Philadelphia 76ers,98,116,Boston Garden,15320,/boxscores/198203280BOS.html
+Sun Mar 28 1982,Cleveland Cavaliers,Washington Bullets,101,104,Coliseum at Richfield,4427,/boxscores/198203280CLE.html
+Sun Mar 28 1982,Golden State Warriors,Houston Rockets,92,94,Oakland-Alameda County Coliseum Arena,13068,/boxscores/198203280GSW.html
+Sun Mar 28 1982,Indiana Pacers,Chicago Bulls,102,101,Market Square Arena,6450,/boxscores/198203280IND.html
+Sun Mar 28 1982,Kansas City Kings,Los Angeles Lakers,111,116,Kemper Arena,9521,/boxscores/198203280KCK.html
+Sun Mar 28 1982,New Jersey Nets,New York Knicks,113,106,Brendan Byrne Arena,16056,/boxscores/198203280NJN.html
+Sun Mar 28 1982,Seattle SuperSonics,Portland Trail Blazers,109,101,Seattle Kingdome,23277,/boxscores/198203280SEA.html
+Mon Mar 29 1982,Utah Jazz,Phoenix Suns,102,113,Salt Palace,7981,/boxscores/198203290UTA.html
+Tue Mar 30 1982,Chicago Bulls,Atlanta Hawks,92,107,Chicago Stadium,6079,/boxscores/198203300CHI.html
+Tue Mar 30 1982,Denver Nuggets,Seattle SuperSonics,145,142,McNichols Sports Arena,15419,/boxscores/198203300DEN.html
+Tue Mar 30 1982,Houston Rockets,Dallas Mavericks,99,95,The Summit,10864,/boxscores/198203300HOU.html
+Tue Mar 30 1982,Los Angeles Lakers,San Diego Clippers,143,120,The Forum,12109,/boxscores/198203300LAL.html
+Tue Mar 30 1982,Milwaukee Bucks,Philadelphia 76ers,116,114,MECCA Arena,11052,/boxscores/198203300MIL.html
+Tue Mar 30 1982,New York Knicks,Indiana Pacers,108,104,Madison Square Garden (IV),7209,/boxscores/198203300NYK.html
+Tue Mar 30 1982,Portland Trail Blazers,Kansas City Kings,109,99,Memorial Coliseum,12666,/boxscores/198203300POR.html
+Tue Mar 30 1982,San Antonio Spurs,Golden State Warriors,107,113,HemisFair Arena,11298,/boxscores/198203300SAS.html
+Tue Mar 30 1982,Washington Bullets,Detroit Pistons,127,98,Capital Centre,8671,/boxscores/198203300WSB.html
+Wed Mar 31 1982,Boston Celtics,Washington Bullets,119,109,Boston Garden,15320,/boxscores/198203310BOS.html
+Wed Mar 31 1982,Dallas Mavericks,Denver Nuggets,119,120,Reunion Arena,7832,/boxscores/198203310DAL.html
+Wed Mar 31 1982,Indiana Pacers,Detroit Pistons,108,106,Market Square Arena,8934,/boxscores/198203310IND.html
+Wed Mar 31 1982,New Jersey Nets,Cleveland Cavaliers,103,87,Brendan Byrne Arena,13231,/boxscores/198203310NJN.html
+Wed Mar 31 1982,Philadelphia 76ers,Chicago Bulls,99,98,The Spectrum,10887,/boxscores/198203310PHI.html
+Wed Mar 31 1982,Phoenix Suns,San Diego Clippers,127,106,Arizona Veterans Memorial Coliseum,11561,/boxscores/198203310PHO.html
+Wed Mar 31 1982,Seattle SuperSonics,Kansas City Kings,109,116,Seattle Kingdome,16087,/boxscores/198203310SEA.html

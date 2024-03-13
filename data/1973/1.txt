@@ -1,0 +1,128 @@
+Mon Jan 1 1973,Milwaukee Bucks,Baltimore Bullets,87,88,Milwaukee Arena,0,/boxscores/197301010MIL.html
+Mon Jan 1 1973,Seattle SuperSonics,Los Angeles Lakers,103,108,Seattle Center Coliseum,0,/boxscores/197301010SEA.html
+Tue Jan 2 1973,Buffalo Braves,Philadelphia 76ers,114,110,Buffalo Memorial Auditorium,0,/boxscores/197301020BUF.html
+Tue Jan 2 1973,Chicago Bulls,Atlanta Hawks,100,90,Chicago Stadium,0,/boxscores/197301020CHI.html
+Tue Jan 2 1973,Cleveland Cavaliers,Phoenix Suns,111,88,Cleveland Arena,0,/boxscores/197301020CLE.html
+Tue Jan 2 1973,Golden State Warriors,Los Angeles Lakers,112,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301020GSW.html
+Tue Jan 2 1973,Houston Rockets,Boston Celtics,110,130,Hofheinz Pavilion,0,/boxscores/197301020HOU.html
+Tue Jan 2 1973,New York Knicks,Milwaukee Bucks,102,92,Madison Square Garden (IV),0,/boxscores/197301020NYK.html
+Tue Jan 2 1973,Portland Trail Blazers,Kansas City-Omaha Kings,104,87,Memorial Coliseum,0,/boxscores/197301020POR.html
+Wed Jan 3 1973,Baltimore Bullets,Cleveland Cavaliers,89,80,Baltimore Civic Center,0,/boxscores/197301030BAL.html
+Wed Jan 3 1973,Detroit Pistons,Phoenix Suns,119,105,Cobo Arena,0,/boxscores/197301030DET.html
+Wed Jan 3 1973,Houston Rockets,Boston Celtics,123,112,Hofheinz Pavilion,0,/boxscores/197301030HOU.html
+Wed Jan 3 1973,Milwaukee Bucks,Atlanta Hawks,105,97,Milwaukee Arena,0,/boxscores/197301030MIL.html
+Wed Jan 3 1973,Seattle SuperSonics,Kansas City-Omaha Kings,107,100,Seattle Center Coliseum,0,/boxscores/197301030SEA.html
+Thu Jan 4 1973,Chicago Bulls,Houston Rockets,111,97,Chicago Stadium,0,/boxscores/197301040CHI.html
+Thu Jan 4 1973,Golden State Warriors,Portland Trail Blazers,108,83,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301040GSW.html
+Fri Jan 5 1973,Atlanta Hawks,Boston Celtics,108,126,Omni Coliseum,0,/boxscores/197301050ATL.html
+Fri Jan 5 1973,Buffalo Braves,New York Knicks,106,129,Buffalo Memorial Auditorium,0,/boxscores/197301050BUF.html
+Fri Jan 5 1973,Chicago Bulls,Phoenix Suns,115,126,Chicago Stadium,0,/boxscores/197301050CHI.html
+Fri Jan 5 1973,Kansas City-Omaha Kings,Detroit Pistons,103,100,Municipal Auditorium,0,/boxscores/197301050KCO.html
+Fri Jan 5 1973,Portland Trail Blazers,Philadelphia 76ers,135,102,Memorial Coliseum,0,/boxscores/197301050POR.html
+Fri Jan 5 1973,Seattle SuperSonics,Golden State Warriors,96,128,Seattle Center Coliseum,0,/boxscores/197301050SEA.html
+Sat Jan 6 1973,Cleveland Cavaliers,Los Angeles Lakers,108,93,Cleveland Arena,0,/boxscores/197301060CLE.html
+Sat Jan 6 1973,Detroit Pistons,Atlanta Hawks,111,116,Cobo Arena,0,/boxscores/197301060DET.html
+Sat Jan 6 1973,Golden State Warriors,Philadelphia 76ers,111,79,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301060GSW.html
+Sat Jan 6 1973,Kansas City-Omaha Kings,Phoenix Suns,112,118,Omaha Civic Auditorium,0,/boxscores/197301060KCO.html
+Sat Jan 6 1973,Milwaukee Bucks,Buffalo Braves,110,96,Milwaukee Arena,0,/boxscores/197301060MIL.html
+Sat Jan 6 1973,New York Knicks,Houston Rockets,116,106,Madison Square Garden (IV),0,/boxscores/197301060NYK.html
+Sun Jan 7 1973,Baltimore Bullets,Boston Celtics,98,116,Cole Field House,0,/boxscores/197301070BAL.html
+Sun Jan 7 1973,Chicago Bulls,Buffalo Braves,119,96,Chicago Stadium,0,/boxscores/197301070CHI.html
+Sun Jan 7 1973,Cleveland Cavaliers,Houston Rockets,102,97,Cleveland Arena,0,/boxscores/197301070CLE.html
+Sun Jan 7 1973,Milwaukee Bucks,Los Angeles Lakers,99,92,Milwaukee Arena,0,/boxscores/197301070MIL.html
+Sun Jan 7 1973,Portland Trail Blazers,Detroit Pistons,96,101,Memorial Coliseum,0,/boxscores/197301070POR.html
+Sun Jan 7 1973,Seattle SuperSonics,Philadelphia 76ers,82,85,Seattle Center Coliseum,0,/boxscores/197301070SEA.html
+Tue Jan 9 1973,Atlanta Hawks,Houston Rockets,120,114,Omni Coliseum,0,/boxscores/197301090ATL.html
+Tue Jan 9 1973,Buffalo Braves,Cleveland Cavaliers,106,102,Buffalo Memorial Auditorium,0,/boxscores/197301090BUF.html
+Tue Jan 9 1973,Chicago Bulls,Philadelphia 76ers,126,110,Chicago Stadium,0,/boxscores/197301090CHI.html
+Tue Jan 9 1973,Golden State Warriors,Detroit Pistons,105,98,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301090GSW.html
+Tue Jan 9 1973,Kansas City-Omaha Kings,New York Knicks,115,116,Municipal Auditorium,0,/boxscores/197301090KCO.html
+Tue Jan 9 1973,Portland Trail Blazers,Baltimore Bullets,93,105,Memorial Coliseum,0,/boxscores/197301090POR.html
+Wed Jan 10 1973,Boston Celtics,Houston Rockets,128,107,Boston Garden,0,/boxscores/197301100BOS.html
+Wed Jan 10 1973,Kansas City-Omaha Kings,Chicago Bulls,102,100,Omaha Civic Auditorium,0,/boxscores/197301100KCO.html
+Wed Jan 10 1973,Philadelphia 76ers,Los Angeles Lakers,96,120,The Spectrum,0,/boxscores/197301100PHI.html
+Wed Jan 10 1973,Phoenix Suns,Detroit Pistons,123,121,Arizona Veterans Memorial Coliseum,0,/boxscores/197301100PHO.html
+Wed Jan 10 1973,Seattle SuperSonics,Baltimore Bullets,86,98,Seattle Center Coliseum,0,/boxscores/197301100SEA.html
+Thu Jan 11 1973,Atlanta Hawks,New York Knicks,107,122,Omni Coliseum,0,/boxscores/197301110ATL.html
+Thu Jan 11 1973,Kansas City-Omaha Kings,Golden State Warriors,109,108,Municipal Auditorium,0,/boxscores/197301110KCO.html
+Fri Jan 12 1973,Boston Celtics,Atlanta Hawks,133,109,Boston Garden,0,/boxscores/197301120BOS.html
+Fri Jan 12 1973,Buffalo Braves,Portland Trail Blazers,120,100,Buffalo Memorial Auditorium,0,/boxscores/197301120BUF.html
+Fri Jan 12 1973,Chicago Bulls,Los Angeles Lakers,97,109,Chicago Stadium,0,/boxscores/197301120CHI.html
+Fri Jan 12 1973,Cleveland Cavaliers,Philadelphia 76ers,113,109,Pittsburgh Civic Arena,0,/boxscores/197301120CLE.html
+Fri Jan 12 1973,Houston Rockets,New York Knicks,103,104,Hofheinz Pavilion,0,/boxscores/197301120HOU.html
+Fri Jan 12 1973,Milwaukee Bucks,Kansas City-Omaha Kings,117,98,Milwaukee Arena,0,/boxscores/197301120MIL.html
+Fri Jan 12 1973,Phoenix Suns,Golden State Warriors,107,108,Arizona Veterans Memorial Coliseum,0,/boxscores/197301120PHO.html
+Fri Jan 12 1973,Seattle SuperSonics,Detroit Pistons,113,104,Seattle Center Coliseum,0,/boxscores/197301120SEA.html
+Sat Jan 13 1973,Golden State Warriors,Phoenix Suns,110,116,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301130GSW.html
+Sat Jan 13 1973,Houston Rockets,Cleveland Cavaliers,115,123,Hofheinz Pavilion,0,/boxscores/197301130HOU.html
+Sat Jan 13 1973,Philadelphia 76ers,Boston Celtics,95,111,The Spectrum,0,/boxscores/197301130PHI.html
+Sun Jan 14 1973,Atlanta Hawks,Los Angeles Lakers,100,102,Omni Coliseum,0,/boxscores/197301140ATL.html
+Sun Jan 14 1973,Milwaukee Bucks,Chicago Bulls,100,95,Milwaukee Arena,0,/boxscores/197301140MIL.html
+Sun Jan 14 1973,Phoenix Suns,Baltimore Bullets,94,95,Arizona Veterans Memorial Coliseum,0,/boxscores/197301140PHO.html
+Sun Jan 14 1973,Seattle SuperSonics,New York Knicks,84,86,Seattle Center Coliseum,0,/boxscores/197301140SEA.html
+Mon Jan 15 1973,Detroit Pistons,Portland Trail Blazers,112,101,Cobo Arena,0,/boxscores/197301150DET.html
+Mon Jan 15 1973,Kansas City-Omaha Kings,Philadelphia 76ers,135,108,Municipal Auditorium,0,/boxscores/197301150KCO.html
+Tue Jan 16 1973,Atlanta Hawks,Detroit Pistons,130,129,Omni Coliseum,0,/boxscores/197301160ATL.html
+Tue Jan 16 1973,Buffalo Braves,Boston Celtics,102,106,Buffalo Memorial Auditorium,0,/boxscores/197301160BUF.html
+Tue Jan 16 1973,Chicago Bulls,Portland Trail Blazers,100,89,Chicago Stadium,0,/boxscores/197301160CHI.html
+Tue Jan 16 1973,Golden State Warriors,Cleveland Cavaliers,98,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301160GSW.html
+Tue Jan 16 1973,Kansas City-Omaha Kings,Seattle SuperSonics,122,125,Municipal Auditorium,0,/boxscores/197301160KCO.html
+Tue Jan 16 1973,Los Angeles Lakers,Baltimore Bullets,104,112,The Forum,0,/boxscores/197301160LAL.html
+Tue Jan 16 1973,Milwaukee Bucks,Philadelphia 76ers,108,92,Milwaukee Arena,0,/boxscores/197301160MIL.html
+Tue Jan 16 1973,Phoenix Suns,New York Knicks,101,102,Arizona Veterans Memorial Coliseum,0,/boxscores/197301160PHO.html
+Wed Jan 17 1973,Boston Celtics,Portland Trail Blazers,117,99,Boston Garden,0,/boxscores/197301170BOS.html
+Wed Jan 17 1973,Detroit Pistons,Seattle SuperSonics,104,106,Cobo Arena,0,/boxscores/197301170DET.html
+Wed Jan 17 1973,Golden State Warriors,Houston Rockets,123,117,HemisFair Arena,0,/boxscores/197301170GSW.html
+Wed Jan 17 1973,Philadelphia 76ers,Atlanta Hawks,105,122,The Spectrum,0,/boxscores/197301170PHI.html
+Thu Jan 18 1973,Atlanta Hawks,Buffalo Braves,125,127,Omni Coliseum,0,/boxscores/197301180ATL.html
+Thu Jan 18 1973,Phoenix Suns,Kansas City-Omaha Kings,96,119,Arizona Veterans Memorial Coliseum,0,/boxscores/197301180PHO.html
+Fri Jan 19 1973,Baltimore Bullets,Philadelphia 76ers,110,94,Hersheypark Arena,0,/boxscores/197301190BAL.html
+Fri Jan 19 1973,Boston Celtics,Seattle SuperSonics,124,104,Boston Garden,0,/boxscores/197301190BOS.html
+Fri Jan 19 1973,Buffalo Braves,Detroit Pistons,108,98,Buffalo Memorial Auditorium,0,/boxscores/197301190BUF.html
+Fri Jan 19 1973,Chicago Bulls,Golden State Warriors,80,115,Chicago Stadium,0,/boxscores/197301190CHI.html
+Fri Jan 19 1973,Houston Rockets,Cleveland Cavaliers,104,108,Hofheinz Pavilion,0,/boxscores/197301190HOU.html
+Fri Jan 19 1973,Los Angeles Lakers,New York Knicks,95,88,The Forum,0,/boxscores/197301190LAL.html
+Fri Jan 19 1973,Milwaukee Bucks,Portland Trail Blazers,108,105,Milwaukee Arena,0,/boxscores/197301190MIL.html
+Sat Jan 20 1973,Atlanta Hawks,Cleveland Cavaliers,96,84,Omni Coliseum,0,/boxscores/197301200ATL.html
+Sat Jan 20 1973,Baltimore Bullets,Seattle SuperSonics,126,106,Cole Field House,0,/boxscores/197301200BAL.html
+Sat Jan 20 1973,Detroit Pistons,Chicago Bulls,112,92,Cobo Arena,0,/boxscores/197301200DET.html
+Sat Jan 20 1973,Houston Rockets,Portland Trail Blazers,115,130,Hofheinz Pavilion,0,/boxscores/197301200HOU.html
+Sat Jan 20 1973,Phoenix Suns,Los Angeles Lakers,104,124,Arizona Veterans Memorial Coliseum,0,/boxscores/197301200PHO.html
+Sun Jan 21 1973,Baltimore Bullets,Philadelphia 76ers,108,97,Baltimore Civic Center,0,/boxscores/197301210BAL.html
+Sun Jan 21 1973,Boston Celtics,Buffalo Braves,104,97,Boston Garden,0,/boxscores/197301210BOS.html
+Sun Jan 21 1973,Houston Rockets,New York Knicks,107,103,Hofheinz Pavilion,0,/boxscores/197301210HOU.html
+Sun Jan 21 1973,Los Angeles Lakers,Kansas City-Omaha Kings,123,102,The Forum,0,/boxscores/197301210LAL.html
+Sun Jan 21 1973,Milwaukee Bucks,Golden State Warriors,124,108,Milwaukee Arena,0,/boxscores/197301210MIL.html
+Thu Jan 25 1973,Golden State Warriors,Kansas City-Omaha Kings,129,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301250GSW.html
+Thu Jan 25 1973,Houston Rockets,Milwaukee Bucks,129,125,Dane County Veteran Memorial Coliseum,0,/boxscores/197301250HOU.html
+Thu Jan 25 1973,New York Knicks,Buffalo Braves,99,92,Madison Square Garden (IV),0,/boxscores/197301250NYK.html
+Thu Jan 25 1973,Phoenix Suns,Seattle SuperSonics,112,109,Arizona Veterans Memorial Coliseum,0,/boxscores/197301250PHO.html
+Fri Jan 26 1973,Boston Celtics,Houston Rockets,139,126,Boston Garden,0,/boxscores/197301260BOS.html
+Fri Jan 26 1973,Buffalo Braves,Atlanta Hawks,82,118,Buffalo Memorial Auditorium,0,/boxscores/197301260BUF.html
+Fri Jan 26 1973,Chicago Bulls,Baltimore Bullets,110,100,Chicago Stadium,0,/boxscores/197301260CHI.html
+Fri Jan 26 1973,Cleveland Cavaliers,Philadelphia 76ers,105,100,Cleveland Arena,0,/boxscores/197301260CLE.html
+Fri Jan 26 1973,Detroit Pistons,Milwaukee Bucks,105,117,Cobo Arena,0,/boxscores/197301260DET.html
+Fri Jan 26 1973,Los Angeles Lakers,Golden State Warriors,100,84,The Forum,0,/boxscores/197301260LAL.html
+Fri Jan 26 1973,Portland Trail Blazers,Phoenix Suns,116,120,Memorial Coliseum,0,/boxscores/197301260POR.html
+Sat Jan 27 1973,Atlanta Hawks,Kansas City-Omaha Kings,129,126,Omni Coliseum,0,/boxscores/197301270ATL.html
+Sat Jan 27 1973,Baltimore Bullets,Buffalo Braves,115,87,Baltimore Civic Center,0,/boxscores/197301270BAL.html
+Sat Jan 27 1973,Golden State Warriors,Los Angeles Lakers,107,122,Oakland-Alameda County Coliseum Arena,0,/boxscores/197301270GSW.html
+Sat Jan 27 1973,New York Knicks,Boston Celtics,111,108,Madison Square Garden (IV),0,/boxscores/197301270NYK.html
+Sat Jan 27 1973,Phoenix Suns,Portland Trail Blazers,109,117,Arizona Veterans Memorial Coliseum,0,/boxscores/197301270PHO.html
+Sun Jan 28 1973,Boston Celtics,New York Knicks,93,96,Boston Garden,0,/boxscores/197301280BOS.html
+Sun Jan 28 1973,Chicago Bulls,Detroit Pistons,110,105,Chicago Stadium,0,/boxscores/197301280CHI.html
+Sun Jan 28 1973,Cleveland Cavaliers,Baltimore Bullets,93,102,Cleveland Arena,0,/boxscores/197301280CLE.html
+Sun Jan 28 1973,Houston Rockets,Atlanta Hawks,116,108,Hofheinz Pavilion,0,/boxscores/197301280HOU.html
+Sun Jan 28 1973,Los Angeles Lakers,Seattle SuperSonics,130,94,The Forum,0,/boxscores/197301280LAL.html
+Sun Jan 28 1973,Philadelphia 76ers,Buffalo Braves,96,101,The Spectrum,0,/boxscores/197301280PHI.html
+Mon Jan 29 1973,New York Knicks,Golden State Warriors,97,84,Madison Square Garden (IV),0,/boxscores/197301290NYK.html
+Tue Jan 30 1973,Atlanta Hawks,Detroit Pistons,123,126,Omni Coliseum,0,/boxscores/197301300ATL.html
+Tue Jan 30 1973,Baltimore Bullets,Golden State Warriors,104,86,Baltimore Civic Center,0,/boxscores/197301300BAL.html
+Tue Jan 30 1973,Buffalo Braves,Philadelphia 76ers,105,104,Buffalo Memorial Auditorium,0,/boxscores/197301300BUF.html
+Tue Jan 30 1973,Cleveland Cavaliers,Milwaukee Bucks,112,98,Cleveland Arena,0,/boxscores/197301300CLE.html
+Tue Jan 30 1973,Los Angeles Lakers,Chicago Bulls,95,92,The Forum,0,/boxscores/197301300LAL.html
+Tue Jan 30 1973,Portland Trail Blazers,Houston Rockets,120,123,Memorial Coliseum,0,/boxscores/197301300POR.html
+Wed Jan 31 1973,Boston Celtics,Cleveland Cavaliers,94,89,Boston Garden,0,/boxscores/197301310BOS.html
+Wed Jan 31 1973,Detroit Pistons,New York Knicks,94,91,Cobo Arena,0,/boxscores/197301310DET.html
+Wed Jan 31 1973,Philadelphia 76ers,Golden State Warriors,115,131,The Spectrum,0,/boxscores/197301310PHI.html
+Wed Jan 31 1973,Seattle SuperSonics,Houston Rockets,118,109,Seattle Center Coliseum,0,/boxscores/197301310SEA.html

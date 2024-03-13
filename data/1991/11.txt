@@ -1,0 +1,190 @@
+Fri Nov 2 1990,Atlanta Hawks,Orlando Magic,115,111,Omni Coliseum,13593,/boxscores/199011020ATL.html
+Fri Nov 2 1990,Boston Celtics,Cleveland Cavaliers,125,101,Boston Garden,14890,/boxscores/199011020BOS.html
+Fri Nov 2 1990,Charlotte Hornets,New York Knicks,130,134,Charlotte Coliseum,24101,/boxscores/199011020CHH.html
+Fri Nov 2 1990,Chicago Bulls,Philadelphia 76ers,116,124,Chicago Stadium,18676,/boxscores/199011020CHI.html
+Fri Nov 2 1990,Denver Nuggets,Golden State Warriors,158,162,McNichols Sports Arena,9838,/boxscores/199011020DEN.html
+Fri Nov 2 1990,Detroit Pistons,Milwaukee Bucks,115,104,The Palace of Auburn Hills,21454,/boxscores/199011020DET.html
+Fri Nov 2 1990,Indiana Pacers,New Jersey Nets,100,81,Market Square Arena,13004,/boxscores/199011020IND.html
+Fri Nov 2 1990,Los Angeles Clippers,Sacramento Kings,90,80,Los Angeles Memorial Sports Arena,12845,/boxscores/199011020LAC.html
+Fri Nov 2 1990,Miami Heat,Washington Bullets,119,95,Miami Arena,15008,/boxscores/199011020MIA.html
+Fri Nov 2 1990,Minnesota Timberwolves,Dallas Mavericks,98,85,Target Center,19006,/boxscores/199011020MIN.html
+Fri Nov 2 1990,Portland Trail Blazers,Houston Rockets,90,89,Memorial Coliseum,12884,/boxscores/199011020POR.html
+Fri Nov 2 1990,Utah Jazz,Phoenix Suns,96,119,Tokyo Metropolitan Gymnasium,10111,/boxscores/199011020UTA.html
+Sat Nov 3 1990,Atlanta Hawks,Indiana Pacers,121,120,Omni Coliseum,10330,/boxscores/199011030ATL.html
+Sat Nov 3 1990,Dallas Mavericks,Denver Nuggets,140,110,Reunion Arena,17007,/boxscores/199011030DAL.html
+Sat Nov 3 1990,Detroit Pistons,Cleveland Cavaliers,106,97,The Palace of Auburn Hills,21454,/boxscores/199011030DET.html
+Sat Nov 3 1990,Milwaukee Bucks,Minnesota Timberwolves,111,93,Bradley Center,15102,/boxscores/199011030MIL.html
+Sat Nov 3 1990,New York Knicks,Boston Celtics,103,106,Madison Square Garden (IV),19081,/boxscores/199011030NYK.html
+Sat Nov 3 1990,Orlando Magic,Charlotte Hornets,97,104,Orlando Arena,15077,/boxscores/199011030ORL.html
+Sat Nov 3 1990,Philadelphia 76ers,New Jersey Nets,112,110,The Spectrum,15678,/boxscores/199011030PHI.html
+Sat Nov 3 1990,Phoenix Suns,Utah Jazz,101,102,Tokyo Metropolitan Gymnasium,10111,/boxscores/199011030PHO.html
+Sat Nov 3 1990,Sacramento Kings,Portland Trail Blazers,93,95,ARCO Arena (II),17014,/boxscores/199011030SAC.html
+Sat Nov 3 1990,San Antonio Spurs,Los Angeles Lakers,110,99,HemisFair Arena,15908,/boxscores/199011030SAS.html
+Sat Nov 3 1990,Seattle SuperSonics,Houston Rockets,118,106,Seattle Center Coliseum,13922,/boxscores/199011030SEA.html
+Sat Nov 3 1990,Washington Bullets,Chicago Bulls,103,102,Capital Centre,18756,/boxscores/199011030WSB.html
+Sun Nov 4 1990,Los Angeles Clippers,Golden State Warriors,109,107,Los Angeles Memorial Sports Arena,11173,/boxscores/199011040LAC.html
+Tue Nov 6 1990,Charlotte Hornets,New Jersey Nets,113,105,Charlotte Coliseum,23901,/boxscores/199011060CHH.html
+Tue Nov 6 1990,Chicago Bulls,Boston Celtics,108,110,Chicago Stadium,18676,/boxscores/199011060CHI.html
+Tue Nov 6 1990,Golden State Warriors,Los Angeles Clippers,130,109,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011060GSW.html
+Tue Nov 6 1990,Houston Rockets,Denver Nuggets,145,135,The Summit,14002,/boxscores/199011060HOU.html
+Tue Nov 6 1990,Indiana Pacers,Minnesota Timberwolves,98,96,Market Square Arena,8437,/boxscores/199011060IND.html
+Tue Nov 6 1990,Los Angeles Lakers,Portland Trail Blazers,123,125,Great Western Forum,16361,/boxscores/199011060LAL.html
+Tue Nov 6 1990,Miami Heat,Milwaukee Bucks,94,106,Miami Arena,15008,/boxscores/199011060MIA.html
+Tue Nov 6 1990,New York Knicks,Dallas Mavericks,91,96,Madison Square Garden (IV),14056,/boxscores/199011060NYK.html
+Tue Nov 6 1990,Orlando Magic,Cleveland Cavaliers,95,102,Orlando Arena,15077,/boxscores/199011060ORL.html
+Tue Nov 6 1990,Sacramento Kings,Atlanta Hawks,85,102,ARCO Arena (II),17014,/boxscores/199011060SAC.html
+Tue Nov 6 1990,Seattle SuperSonics,Detroit Pistons,100,92,Seattle Center Coliseum,13078,/boxscores/199011060SEA.html
+Wed Nov 7 1990,Cleveland Cavaliers,Charlotte Hornets,100,89,Coliseum at Richfield,16154,/boxscores/199011070CLE.html
+Wed Nov 7 1990,Los Angeles Clippers,Detroit Pistons,83,110,Los Angeles Memorial Sports Arena,14652,/boxscores/199011070LAC.html
+Wed Nov 7 1990,Minnesota Timberwolves,Chicago Bulls,91,96,Target Center,19006,/boxscores/199011070MIN.html
+Wed Nov 7 1990,Philadelphia 76ers,Dallas Mavericks,101,104,The Spectrum,10525,/boxscores/199011070PHI.html
+Wed Nov 7 1990,Phoenix Suns,Golden State Warriors,126,119,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011070PHO.html
+Wed Nov 7 1990,San Antonio Spurs,Denver Nuggets,161,153,HemisFair Arena,15908,/boxscores/199011070SAS.html
+Thu Nov 8 1990,Houston Rockets,Orlando Magic,103,99,The Summit,12358,/boxscores/199011080HOU.html
+Thu Nov 8 1990,Milwaukee Bucks,Philadelphia 76ers,141,111,Bradley Center,12476,/boxscores/199011080MIL.html
+Thu Nov 8 1990,New Jersey Nets,Miami Heat,114,103,Brendan Byrne Arena,12138,/boxscores/199011080NJN.html
+Thu Nov 8 1990,New York Knicks,Washington Bullets,114,103,Madison Square Garden (IV),11877,/boxscores/199011080NYK.html
+Thu Nov 8 1990,Utah Jazz,San Antonio Spurs,103,94,Salt Palace,12616,/boxscores/199011080UTA.html
+Fri Nov 9 1990,Boston Celtics,Chicago Bulls,100,120,Boston Garden,14890,/boxscores/199011090BOS.html
+Fri Nov 9 1990,Dallas Mavericks,Orlando Magic,111,99,Reunion Arena,16760,/boxscores/199011090DAL.html
+Fri Nov 9 1990,Denver Nuggets,Seattle SuperSonics,129,135,McNichols Sports Arena,10571,/boxscores/199011090DEN.html
+Fri Nov 9 1990,Golden State Warriors,Atlanta Hawks,143,128,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011090GSW.html
+Fri Nov 9 1990,Indiana Pacers,Cleveland Cavaliers,122,107,Market Square Arena,10825,/boxscores/199011090IND.html
+Fri Nov 9 1990,Los Angeles Lakers,Sacramento Kings,100,86,Great Western Forum,15618,/boxscores/199011090LAL.html
+Fri Nov 9 1990,Minnesota Timberwolves,Charlotte Hornets,106,77,Target Center,19006,/boxscores/199011090MIN.html
+Fri Nov 9 1990,Portland Trail Blazers,Detroit Pistons,113,101,Memorial Coliseum,12884,/boxscores/199011090POR.html
+Fri Nov 9 1990,Washington Bullets,Milwaukee Bucks,100,108,Capital Centre,8829,/boxscores/199011090WSB.html
+Sat Nov 10 1990,Chicago Bulls,Charlotte Hornets,105,86,Chicago Stadium,18676,/boxscores/199011100CHI.html
+Sat Nov 10 1990,Cleveland Cavaliers,Philadelphia 76ers,104,88,Coliseum at Richfield,17662,/boxscores/199011100CLE.html
+Sat Nov 10 1990,Los Angeles Clippers,Atlanta Hawks,94,112,Los Angeles Memorial Sports Arena,13228,/boxscores/199011100LAC.html
+Sat Nov 10 1990,Miami Heat,Indiana Pacers,120,105,Miami Arena,15008,/boxscores/199011100MIA.html
+Sat Nov 10 1990,New Jersey Nets,Boston Celtics,91,105,Brendan Byrne Arena,16101,/boxscores/199011100NJN.html
+Sat Nov 10 1990,Phoenix Suns,Denver Nuggets,173,143,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011100PHO.html
+Sat Nov 10 1990,Sacramento Kings,New York Knicks,88,93,ARCO Arena (II),17014,/boxscores/199011100SAC.html
+Sat Nov 10 1990,San Antonio Spurs,Houston Rockets,111,110,HemisFair Arena,15908,/boxscores/199011100SAS.html
+Sat Nov 10 1990,Seattle SuperSonics,Golden State Warriors,100,117,Tacoma Dome,13130,/boxscores/199011100SEA.html
+Sun Nov 11 1990,Houston Rockets,Utah Jazz,110,90,The Summit,13041,/boxscores/199011110HOU.html
+Sun Nov 11 1990,Los Angeles Lakers,New York Knicks,103,109,Great Western Forum,17342,/boxscores/199011110LAL.html
+Sun Nov 11 1990,Minnesota Timberwolves,Orlando Magic,108,81,Target Center,19006,/boxscores/199011110MIN.html
+Sun Nov 11 1990,Portland Trail Blazers,Los Angeles Clippers,138,107,Memorial Coliseum,12884,/boxscores/199011110POR.html
+Mon Nov 12 1990,New Jersey Nets,Washington Bullets,92,97,Brendan Byrne Arena,6103,/boxscores/199011120NJN.html
+Tue Nov 13 1990,Atlanta Hawks,Cleveland Cavaliers,104,121,Omni Coliseum,10645,/boxscores/199011130ATL.html
+Tue Nov 13 1990,Charlotte Hornets,Washington Bullets,120,105,Charlotte Coliseum,23901,/boxscores/199011130CHH.html
+Tue Nov 13 1990,Detroit Pistons,Miami Heat,118,93,The Palace of Auburn Hills,21454,/boxscores/199011130DET.html
+Tue Nov 13 1990,Golden State Warriors,San Antonio Spurs,128,124,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011130GSW.html
+Tue Nov 13 1990,Houston Rockets,Minnesota Timberwolves,90,88,The Summit,13234,/boxscores/199011130HOU.html
+Tue Nov 13 1990,Indiana Pacers,Philadelphia 76ers,100,108,Market Square Arena,10257,/boxscores/199011130IND.html
+Tue Nov 13 1990,Los Angeles Lakers,Phoenix Suns,111,112,Great Western Forum,16512,/boxscores/199011130LAL.html
+Tue Nov 13 1990,Milwaukee Bucks,Boston Celtics,119,91,Bradley Center,15321,/boxscores/199011130MIL.html
+Tue Nov 13 1990,Orlando Magic,Dallas Mavericks,109,103,Orlando Arena,14588,/boxscores/199011130ORL.html
+Tue Nov 13 1990,Portland Trail Blazers,Denver Nuggets,155,129,Memorial Coliseum,12884,/boxscores/199011130POR.html
+Tue Nov 13 1990,Seattle SuperSonics,New York Knicks,110,116,Seattle Center Coliseum,12352,/boxscores/199011130SEA.html
+Tue Nov 13 1990,Utah Jazz,Chicago Bulls,82,84,Salt Palace,12616,/boxscores/199011130UTA.html
+Wed Nov 14 1990,Boston Celtics,Charlotte Hornets,135,126,Boston Garden,14890,/boxscores/199011140BOS.html
+Wed Nov 14 1990,Cleveland Cavaliers,Indiana Pacers,113,95,Coliseum at Richfield,11799,/boxscores/199011140CLE.html
+Wed Nov 14 1990,Los Angeles Clippers,Phoenix Suns,108,102,Los Angeles Memorial Sports Arena,11812,/boxscores/199011140LAC.html
+Wed Nov 14 1990,Miami Heat,Dallas Mavericks,105,93,Miami Arena,15008,/boxscores/199011140MIA.html
+Wed Nov 14 1990,New Jersey Nets,Milwaukee Bucks,112,95,Brendan Byrne Arena,6424,/boxscores/199011140NJN.html
+Wed Nov 14 1990,Philadelphia 76ers,Atlanta Hawks,112,104,The Spectrum,13613,/boxscores/199011140PHI.html
+Thu Nov 15 1990,Denver Nuggets,Minnesota Timberwolves,121,108,McNichols Sports Arena,6663,/boxscores/199011150DEN.html
+Thu Nov 15 1990,Golden State Warriors,Chicago Bulls,103,93,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011150GSW.html
+Thu Nov 15 1990,Houston Rockets,Los Angeles Lakers,103,108,The Summit,16511,/boxscores/199011150HOU.html
+Thu Nov 15 1990,Orlando Magic,Utah Jazz,102,99,Orlando Arena,15077,/boxscores/199011150ORL.html
+Thu Nov 15 1990,Portland Trail Blazers,New York Knicks,141,125,Memorial Coliseum,12884,/boxscores/199011150POR.html
+Thu Nov 15 1990,Sacramento Kings,San Antonio Spurs,93,122,ARCO Arena (II),17014,/boxscores/199011150SAC.html
+Fri Nov 16 1990,Atlanta Hawks,Charlotte Hornets,109,119,Omni Coliseum,11042,/boxscores/199011160ATL.html
+Fri Nov 16 1990,Boston Celtics,Utah Jazz,114,89,Boston Garden,14890,/boxscores/199011160BOS.html
+Fri Nov 16 1990,Cleveland Cavaliers,Milwaukee Bucks,99,94,Coliseum at Richfield,14430,/boxscores/199011160CLE.html
+Fri Nov 16 1990,Dallas Mavericks,Los Angeles Lakers,99,86,Reunion Arena,17007,/boxscores/199011160DAL.html
+Fri Nov 16 1990,Indiana Pacers,Miami Heat,106,80,Market Square Arena,10010,/boxscores/199011160IND.html
+Fri Nov 16 1990,New Jersey Nets,Detroit Pistons,96,105,Brendan Byrne Arena,14424,/boxscores/199011160NJN.html
+Fri Nov 16 1990,Philadelphia 76ers,Washington Bullets,115,102,The Spectrum,14890,/boxscores/199011160PHI.html
+Fri Nov 16 1990,Phoenix Suns,Los Angeles Clippers,121,110,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011160PHO.html
+Sat Nov 17 1990,Charlotte Hornets,Cleveland Cavaliers,112,100,Charlotte Coliseum,23901,/boxscores/199011170CHH.html
+Sat Nov 17 1990,Denver Nuggets,Portland Trail Blazers,112,143,McNichols Sports Arena,12356,/boxscores/199011170DEN.html
+Sat Nov 17 1990,Detroit Pistons,Atlanta Hawks,91,83,The Palace of Auburn Hills,21454,/boxscores/199011170DET.html
+Sat Nov 17 1990,Golden State Warriors,Sacramento Kings,112,111,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011170GSW.html
+Sat Nov 17 1990,Houston Rockets,Miami Heat,117,100,The Summit,14563,/boxscores/199011170HOU.html
+Sat Nov 17 1990,Milwaukee Bucks,New Jersey Nets,111,99,Bradley Center,14276,/boxscores/199011170MIL.html
+Sat Nov 17 1990,New York Knicks,Philadelphia 76ers,106,79,Madison Square Garden (IV),19081,/boxscores/199011170NYK.html
+Sat Nov 17 1990,Orlando Magic,Indiana Pacers,96,89,Orlando Arena,15077,/boxscores/199011170ORL.html
+Sat Nov 17 1990,San Antonio Spurs,Phoenix Suns,128,114,HemisFair Arena,15908,/boxscores/199011170SAS.html
+Sat Nov 17 1990,Seattle SuperSonics,Chicago Bulls,95,116,Seattle Center Coliseum,14692,/boxscores/199011170SEA.html
+Sat Nov 17 1990,Washington Bullets,Boston Celtics,90,102,Capital Centre,18756,/boxscores/199011170WSB.html
+Sun Nov 18 1990,Los Angeles Clippers,Seattle SuperSonics,78,65,Los Angeles Memorial Sports Arena,10980,/boxscores/199011180LAC.html
+Sun Nov 18 1990,Los Angeles Lakers,Golden State Warriors,115,93,Great Western Forum,15644,/boxscores/199011180LAL.html
+Sun Nov 18 1990,Minnesota Timberwolves,Utah Jazz,94,103,Target Center,19006,/boxscores/199011180MIN.html
+Sun Nov 18 1990,Portland Trail Blazers,Chicago Bulls,125,112,Memorial Coliseum,12884,/boxscores/199011180POR.html
+Mon Nov 19 1990,Denver Nuggets,Los Angeles Lakers,105,122,McNichols Sports Arena,11549,/boxscores/199011190DEN.html
+Mon Nov 19 1990,Milwaukee Bucks,Utah Jazz,114,104,Bradley Center,13568,/boxscores/199011190MIL.html
+Mon Nov 19 1990,Philadelphia 76ers,Charlotte Hornets,109,101,The Spectrum,9728,/boxscores/199011190PHI.html
+Tue Nov 20 1990,Charlotte Hornets,Atlanta Hawks,128,121,Charlotte Coliseum,23901,/boxscores/199011200CHH.html
+Tue Nov 20 1990,Dallas Mavericks,Minnesota Timberwolves,91,92,Reunion Arena,15975,/boxscores/199011200DAL.html
+Tue Nov 20 1990,Golden State Warriors,Orlando Magic,123,120,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011200GSW.html
+Tue Nov 20 1990,Miami Heat,Detroit Pistons,90,106,Miami Arena,15009,/boxscores/199011200MIA.html
+Tue Nov 20 1990,New York Knicks,Houston Rockets,88,115,Madison Square Garden (IV),15957,/boxscores/199011200NYK.html
+Tue Nov 20 1990,Seattle SuperSonics,New Jersey Nets,105,88,Seattle Center Coliseum,10466,/boxscores/199011200SEA.html
+Tue Nov 20 1990,Washington Bullets,Sacramento Kings,82,87,Capital Centre,6105,/boxscores/199011200WSB.html
+Wed Nov 21 1990,Boston Celtics,Houston Rockets,108,95,Boston Garden,14890,/boxscores/199011210BOS.html
+Wed Nov 21 1990,Cleveland Cavaliers,Miami Heat,123,109,Coliseum at Richfield,13884,/boxscores/199011210CLE.html
+Wed Nov 21 1990,Indiana Pacers,Detroit Pistons,100,108,Market Square Arena,12330,/boxscores/199011210IND.html
+Wed Nov 21 1990,Los Angeles Clippers,New Jersey Nets,99,90,Los Angeles Memorial Sports Arena,10335,/boxscores/199011210LAC.html
+Wed Nov 21 1990,Los Angeles Lakers,Denver Nuggets,141,121,Great Western Forum,15941,/boxscores/199011210LAL.html
+Wed Nov 21 1990,Milwaukee Bucks,Atlanta Hawks,105,93,Bradley Center,15279,/boxscores/199011210MIL.html
+Wed Nov 21 1990,Philadelphia 76ers,Sacramento Kings,101,99,The Spectrum,15627,/boxscores/199011210PHI.html
+Wed Nov 21 1990,Phoenix Suns,Chicago Bulls,109,107,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011210PHO.html
+Wed Nov 21 1990,San Antonio Spurs,Minnesota Timberwolves,114,100,HemisFair Arena,15908,/boxscores/199011210SAS.html
+Wed Nov 21 1990,Utah Jazz,Orlando Magic,106,91,Salt Palace,12616,/boxscores/199011210UTA.html
+Fri Nov 23 1990,Boston Celtics,Sacramento Kings,115,105,Boston Garden,14890,/boxscores/199011230BOS.html
+Fri Nov 23 1990,Charlotte Hornets,Miami Heat,100,116,Charlotte Coliseum,23901,/boxscores/199011230CHH.html
+Fri Nov 23 1990,Dallas Mavericks,San Antonio Spurs,104,107,Reunion Arena,17007,/boxscores/199011230DAL.html
+Fri Nov 23 1990,Detroit Pistons,Washington Bullets,97,88,The Palace of Auburn Hills,21454,/boxscores/199011230DET.html
+Fri Nov 23 1990,Indiana Pacers,Houston Rockets,112,111,Market Square Arena,11323,/boxscores/199011230IND.html
+Fri Nov 23 1990,Los Angeles Clippers,Chicago Bulls,97,105,Los Angeles Memorial Sports Arena,15357,/boxscores/199011230LAC.html
+Fri Nov 23 1990,Philadelphia 76ers,Cleveland Cavaliers,111,105,The Spectrum,16642,/boxscores/199011230PHI.html
+Fri Nov 23 1990,Phoenix Suns,New Jersey Nets,114,116,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011230PHO.html
+Fri Nov 23 1990,Portland Trail Blazers,Golden State Warriors,143,119,Memorial Coliseum,12884,/boxscores/199011230POR.html
+Fri Nov 23 1990,Utah Jazz,Seattle SuperSonics,97,96,Salt Palace,12616,/boxscores/199011230UTA.html
+Sat Nov 24 1990,Atlanta Hawks,Philadelphia 76ers,121,124,Omni Coliseum,15594,/boxscores/199011240ATL.html
+Sat Nov 24 1990,Cleveland Cavaliers,Boston Celtics,102,113,Coliseum at Richfield,19748,/boxscores/199011240CLE.html
+Sat Nov 24 1990,Dallas Mavericks,Utah Jazz,74,85,Reunion Arena,17007,/boxscores/199011240DAL.html
+Sat Nov 24 1990,Denver Nuggets,Chicago Bulls,145,151,McNichols Sports Arena,17022,/boxscores/199011240DEN.html
+Sat Nov 24 1990,Golden State Warriors,New Jersey Nets,113,117,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199011240GSW.html
+Sat Nov 24 1990,Los Angeles Lakers,Orlando Magic,115,89,Great Western Forum,16254,/boxscores/199011240LAL.html
+Sat Nov 24 1990,Miami Heat,Charlotte Hornets,112,125,Miami Arena,15008,/boxscores/199011240MIA.html
+Sat Nov 24 1990,New York Knicks,Milwaukee Bucks,97,107,Madison Square Garden (IV),17101,/boxscores/199011240NYK.html
+Sat Nov 24 1990,Washington Bullets,Indiana Pacers,107,105,Capital Centre,7983,/boxscores/199011240WSB.html
+Sun Nov 25 1990,Detroit Pistons,Sacramento Kings,105,92,The Palace of Auburn Hills,21454,/boxscores/199011250DET.html
+Sun Nov 25 1990,Los Angeles Clippers,Orlando Magic,119,91,Los Angeles Memorial Sports Arena,10691,/boxscores/199011250LAC.html
+Sun Nov 25 1990,Minnesota Timberwolves,Houston Rockets,91,107,Target Center,19118,/boxscores/199011250MIN.html
+Sun Nov 25 1990,Portland Trail Blazers,San Antonio Spurs,117,103,Memorial Coliseum,12884,/boxscores/199011250POR.html
+Mon Nov 26 1990,Boston Celtics,Miami Heat,118,101,Hartford Civic Center,15239,/boxscores/199011260BOS.html
+Tue Nov 27 1990,Atlanta Hawks,Detroit Pistons,97,120,Omni Coliseum,13718,/boxscores/199011270ATL.html
+Tue Nov 27 1990,Denver Nuggets,Orlando Magic,124,113,McNichols Sports Arena,6184,/boxscores/199011270DEN.html
+Tue Nov 27 1990,Houston Rockets,Los Angeles Clippers,107,102,The Summit,13099,/boxscores/199011270HOU.html
+Tue Nov 27 1990,Milwaukee Bucks,Indiana Pacers,112,98,Bradley Center,13492,/boxscores/199011270MIL.html
+Tue Nov 27 1990,New Jersey Nets,Philadelphia 76ers,98,92,Brendan Byrne Arena,11121,/boxscores/199011270NJN.html
+Tue Nov 27 1990,New York Knicks,Cleveland Cavaliers,102,107,Madison Square Garden (IV),13645,/boxscores/199011270NYK.html
+Tue Nov 27 1990,Portland Trail Blazers,Phoenix Suns,109,123,Memorial Coliseum,12884,/boxscores/199011270POR.html
+Tue Nov 27 1990,Sacramento Kings,Minnesota Timberwolves,80,89,ARCO Arena (II),17014,/boxscores/199011270SAC.html
+Tue Nov 27 1990,Seattle SuperSonics,San Antonio Spurs,111,124,Seattle Center Coliseum,13293,/boxscores/199011270SEA.html
+Tue Nov 27 1990,Washington Bullets,Golden State Warriors,115,113,Capital Centre,6966,/boxscores/199011270WSB.html
+Wed Nov 28 1990,Charlotte Hornets,Milwaukee Bucks,118,111,Charlotte Coliseum,23901,/boxscores/199011280CHH.html
+Wed Nov 28 1990,Chicago Bulls,Washington Bullets,118,94,Chicago Stadium,18165,/boxscores/199011280CHI.html
+Wed Nov 28 1990,Cleveland Cavaliers,Golden State Warriors,108,110,Coliseum at Richfield,12158,/boxscores/199011280CLE.html
+Wed Nov 28 1990,Dallas Mavericks,Los Angeles Clippers,107,88,Reunion Arena,15790,/boxscores/199011280DAL.html
+Wed Nov 28 1990,Detroit Pistons,New York Knicks,90,83,The Palace of Auburn Hills,21454,/boxscores/199011280DET.html
+Wed Nov 28 1990,Los Angeles Lakers,San Antonio Spurs,97,80,Great Western Forum,17210,/boxscores/199011280LAL.html
+Wed Nov 28 1990,Miami Heat,New Jersey Nets,97,79,Miami Arena,15008,/boxscores/199011280MIA.html
+Wed Nov 28 1990,Philadelphia 76ers,Indiana Pacers,116,106,The Spectrum,9441,/boxscores/199011280PHI.html
+Wed Nov 28 1990,Utah Jazz,Houston Rockets,103,92,Salt Palace,12616,/boxscores/199011280UTA.html
+Thu Nov 29 1990,Denver Nuggets,Sacramento Kings,136,128,McNichols Sports Arena,6379,/boxscores/199011290DEN.html
+Thu Nov 29 1990,Phoenix Suns,Seattle SuperSonics,128,110,Arizona Veterans Memorial Coliseum,14487,/boxscores/199011290PHO.html
+Thu Nov 29 1990,Portland Trail Blazers,Minnesota Timberwolves,107,92,Memorial Coliseum,12884,/boxscores/199011290POR.html
+Fri Nov 30 1990,Atlanta Hawks,Cleveland Cavaliers,93,101,Omni Coliseum,11996,/boxscores/199011300ATL.html
+Fri Nov 30 1990,Boston Celtics,Washington Bullets,123,95,Boston Garden,14890,/boxscores/199011300BOS.html
+Fri Nov 30 1990,Chicago Bulls,Indiana Pacers,124,95,Chicago Stadium,18346,/boxscores/199011300CHI.html
+Fri Nov 30 1990,Detroit Pistons,Philadelphia 76ers,96,94,The Palace of Auburn Hills,21454,/boxscores/199011300DET.html
+Fri Nov 30 1990,Milwaukee Bucks,New York Knicks,103,97,Bradley Center,15294,/boxscores/199011300MIL.html
+Fri Nov 30 1990,Orlando Magic,Golden State Warriors,113,119,Orlando Arena,15077,/boxscores/199011300ORL.html
+Fri Nov 30 1990,Utah Jazz,Minnesota Timberwolves,96,79,Salt Palace,12616,/boxscores/199011300UTA.html

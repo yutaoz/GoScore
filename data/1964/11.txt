@@ -1,0 +1,63 @@
+Fri Nov 1 1963,Philadelphia 76ers,Boston Celtics,102,119,Convention Hall,0,/boxscores/196311010PHI.html
+Fri Nov 1 1963,Los Angeles Lakers,Cincinnati Royals,122,112,Los Angeles Memorial Sports Arena,0,/boxscores/196311010LAL.html
+Sat Nov 2 1963,Boston Celtics,Detroit Pistons,117,109,Boston Garden,0,/boxscores/196311020BOS.html
+Sat Nov 2 1963,New York Knicks,Baltimore Bullets,123,105,Madison Square Garden (III),0,/boxscores/196311020NYK.html
+Sat Nov 2 1963,San Francisco Warriors,Los Angeles Lakers,118,99,University of San Francisco,0,/boxscores/196311020SFW.html
+Sat Nov 2 1963,St. Louis Hawks,Philadelphia 76ers,128,99,Kiel Auditorium,0,/boxscores/196311020STL.html
+Sun Nov 3 1963,Cincinnati Royals,Philadelphia 76ers,95,93,University of Dayton Fieldhouse,0,/boxscores/196311030CIN.html
+Wed Nov 6 1963,Boston Celtics,Cincinnati Royals,139,121,Boston Garden,0,/boxscores/196311060BOS.html
+Wed Nov 6 1963,Los Angeles Lakers,New York Knicks,111,109,Los Angeles Memorial Sports Arena,0,/boxscores/196311060LAL.html
+Wed Nov 6 1963,Detroit Pistons,Philadelphia 76ers,119,101,Cobo Arena,0,/boxscores/196311060DET.html
+Wed Nov 6 1963,Baltimore Bullets,St. Louis Hawks,110,112,Baltimore Civic Center,0,/boxscores/196311060BAL.html
+Thu Nov 7 1963,San Francisco Warriors,New York Knicks,110,88,Cow Palace,0,/boxscores/196311070SFW.html
+Fri Nov 8 1963,Cincinnati Royals,Boston Celtics,116,115,Cincinnati Gardens,0,/boxscores/196311080CIN.html
+Fri Nov 8 1963,Los Angeles Lakers,San Francisco Warriors,93,90,Los Angeles Memorial Sports Arena,0,/boxscores/196311080LAL.html
+Fri Nov 8 1963,Philadelphia 76ers,St. Louis Hawks,108,106,Convention Hall,0,/boxscores/196311080PHI.html
+Sat Nov 9 1963,Cincinnati Royals,Detroit Pistons,118,109,Cincinnati Gardens,0,/boxscores/196311090CIN.html
+Sat Nov 9 1963,St. Louis Hawks,Boston Celtics,91,113,Kiel Auditorium,0,/boxscores/196311090STL.html
+Sat Nov 9 1963,San Francisco Warriors,New York Knicks,84,89,Oakland Civic Auditorium,0,/boxscores/196311090SFW.html
+Sat Nov 9 1963,Baltimore Bullets,Philadelphia 76ers,116,100,Baltimore Civic Center,0,/boxscores/196311090BAL.html
+Sun Nov 10 1963,Los Angeles Lakers,New York Knicks,104,79,Los Angeles Memorial Sports Arena,0,/boxscores/196311100LAL.html
+Mon Nov 11 1963,Boston Celtics,St. Louis Hawks,116,110,Boston Garden,0,/boxscores/196311110BOS.html
+Mon Nov 11 1963,Detroit Pistons,Los Angeles Lakers,116,109,Minneapolis Auditorium,0,/boxscores/196311110DET.html
+Tue Nov 12 1963,Philadelphia 76ers,San Francisco Warriors,106,102,Convention Hall,0,/boxscores/196311120PHI.html
+Wed Nov 13 1963,Boston Celtics,Los Angeles Lakers,114,110,Madison Square Garden (III),0,/boxscores/196311130BOS.html
+Wed Nov 13 1963,Cincinnati Royals,San Francisco Warriors,92,98,Cincinnati Gardens,0,/boxscores/196311130CIN.html
+Wed Nov 13 1963,New York Knicks,St. Louis Hawks,106,102,Madison Square Garden (III),0,/boxscores/196311130NYK.html
+Thu Nov 14 1963,Baltimore Bullets,Los Angeles Lakers,115,123,Baltimore Civic Center,0,/boxscores/196311140BAL.html
+Thu Nov 14 1963,St. Louis Hawks,San Francisco Warriors,117,105,Kiel Auditorium,0,/boxscores/196311140STL.html
+Fri Nov 15 1963,Boston Celtics,New York Knicks,133,116,Boston Garden,0,/boxscores/196311150BOS.html
+Fri Nov 15 1963,Philadelphia 76ers,Los Angeles Lakers,99,97,Convention Hall,0,/boxscores/196311150PHI.html
+Fri Nov 15 1963,San Francisco Warriors,Detroit Pistons,98,101,Cow Palace,0,/boxscores/196311150SFW.html
+Sat Nov 16 1963,Los Angeles Lakers,Detroit Pistons,115,95,Los Angeles Memorial Sports Arena,0,/boxscores/196311160LAL.html
+Sat Nov 16 1963,St. Louis Hawks,Baltimore Bullets,115,112,Kiel Auditorium,0,/boxscores/196311160STL.html
+Sat Nov 16 1963,New York Knicks,Cincinnati Royals,122,114,Madison Square Garden (III),0,/boxscores/196311160NYK.html
+Sun Nov 17 1963,Cincinnati Royals,Baltimore Bullets,110,109,Cincinnati Gardens,0,/boxscores/196311170CIN.html
+Sun Nov 17 1963,Los Angeles Lakers,St. Louis Hawks,112,117,Los Angeles Memorial Sports Arena,0,/boxscores/196311170LAL.html
+Sun Nov 17 1963,San Francisco Warriors,Detroit Pistons,120,96,Cow Palace,0,/boxscores/196311170SFW.html
+Tue Nov 19 1963,Cincinnati Royals,Detroit Pistons,127,102,Madison Square Garden (III),0,/boxscores/196311190CIN.html
+Tue Nov 19 1963,New York Knicks,Boston Celtics,98,126,Madison Square Garden (III),0,/boxscores/196311190NYK.html
+Tue Nov 19 1963,San Francisco Warriors,St. Louis Hawks,129,96,Cow Palace,0,/boxscores/196311190SFW.html
+Wed Nov 20 1963,Detroit Pistons,Cincinnati Royals,124,118,Cobo Arena,0,/boxscores/196311200DET.html
+Wed Nov 20 1963,Philadelphia 76ers,New York Knicks,118,101,Convention Hall,0,/boxscores/196311200PHI.html
+Thu Nov 21 1963,Los Angeles Lakers,St. Louis Hawks,111,99,Los Angeles Memorial Sports Arena,0,/boxscores/196311210LAL.html
+Sat Nov 23 1963,New York Knicks,Detroit Pistons,108,99,Madison Square Garden (III),0,/boxscores/196311230NYK.html
+Sat Nov 23 1963,St. Louis Hawks,Cincinnati Royals,133,121,Kiel Auditorium,0,/boxscores/196311230STL.html
+Sun Nov 24 1963,Cincinnati Royals,St. Louis Hawks,122,113,Cincinnati Gardens,0,/boxscores/196311240CIN.html
+Tue Nov 26 1963,Philadelphia 76ers,Baltimore Bullets,115,113,Convention Hall,0,/boxscores/196311260PHI.html
+Tue Nov 26 1963,New York Knicks,Los Angeles Lakers,112,119,Madison Square Garden (III),0,/boxscores/196311260NYK.html
+Tue Nov 26 1963,Cincinnati Royals,San Francisco Warriors,123,112,Madison Square Garden (III),0,/boxscores/196311260CIN.html
+Wed Nov 27 1963,Baltimore Bullets,Cincinnati Royals,119,122,Baltimore Civic Center,0,/boxscores/196311270BAL.html
+Wed Nov 27 1963,Boston Celtics,Los Angeles Lakers,114,78,Boston Garden,0,/boxscores/196311270BOS.html
+Wed Nov 27 1963,Detroit Pistons,St. Louis Hawks,105,113,Cobo Arena,0,/boxscores/196311270DET.html
+Wed Nov 27 1963,New York Knicks,San Francisco Warriors,89,118,Boston Garden,0,/boxscores/196311270NYK.html
+Thu Nov 28 1963,Philadelphia 76ers,Cincinnati Royals,110,125,Convention Hall,0,/boxscores/196311280PHI.html
+Thu Nov 28 1963,St. Louis Hawks,Detroit Pistons,118,101,Kiel Auditorium,0,/boxscores/196311280STL.html
+Fri Nov 29 1963,Baltimore Bullets,San Francisco Warriors,100,99,Baltimore Civic Center,0,/boxscores/196311290BAL.html
+Fri Nov 29 1963,Boston Celtics,Philadelphia 76ers,112,78,Rhode Island Auditorium,0,/boxscores/196311290BOS.html
+Fri Nov 29 1963,Cincinnati Royals,New York Knicks,135,110,Cincinnati Gardens,0,/boxscores/196311290CIN.html
+Fri Nov 29 1963,Detroit Pistons,Los Angeles Lakers,111,127,Cobo Arena,0,/boxscores/196311290DET.html
+Sat Nov 30 1963,Baltimore Bullets,Detroit Pistons,120,101,Madison Square Garden (III),0,/boxscores/196311300BAL.html
+Sat Nov 30 1963,Boston Celtics,San Francisco Warriors,109,96,Boston Garden,0,/boxscores/196311300BOS.html
+Sat Nov 30 1963,New York Knicks,Philadelphia 76ers,125,132,Madison Square Garden (III),0,/boxscores/196311300NYK.html
+Sat Nov 30 1963,St. Louis Hawks,Los Angeles Lakers,96,97,St. Louis Arena,0,/boxscores/196311300STL.html

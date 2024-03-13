@@ -1,0 +1,56 @@
+Thu Oct 21 1976,Indiana Pacers,Boston Celtics,122,129,Market Square Arena,0,/boxscores/197610210IND.html
+Thu Oct 21 1976,Milwaukee Bucks,Buffalo Braves,112,133,MECCA Arena,0,/boxscores/197610210MIL.html
+Thu Oct 21 1976,New York Knicks,Los Angeles Lakers,102,97,Madison Square Garden (IV),0,/boxscores/197610210NYK.html
+Thu Oct 21 1976,Atlanta Hawks,Houston Rockets,104,120,Omni Coliseum,0,/boxscores/197610210ATL.html
+Fri Oct 22 1976,Cleveland Cavaliers,Chicago Bulls,106,95,Coliseum at Richfield,0,/boxscores/197610220CLE.html
+Fri Oct 22 1976,Golden State Warriors,New York Nets,103,104,Oakland-Alameda County Coliseum Arena,0,/boxscores/197610220GSW.html
+Fri Oct 22 1976,Indiana Pacers,Denver Nuggets,110,123,Market Square Arena,0,/boxscores/197610220IND.html
+Fri Oct 22 1976,Kansas City Kings,Detroit Pistons,96,99,Kemper Arena,0,/boxscores/197610220KCK.html
+Fri Oct 22 1976,New Orleans Jazz,Phoenix Suns,111,98,Louisiana Superdome,0,/boxscores/197610220NOJ.html
+Fri Oct 22 1976,Philadelphia 76ers,San Antonio Spurs,118,121,The Spectrum,0,/boxscores/197610220PHI.html
+Fri Oct 22 1976,Washington Bullets,Los Angeles Lakers,84,103,Capital Centre,0,/boxscores/197610220WSB.html
+Sat Oct 23 1976,Chicago Bulls,Indiana Pacers,102,97,Chicago Stadium,0,/boxscores/197610230CHI.html
+Sat Oct 23 1976,Portland Trail Blazers,New York Nets,114,104,Memorial Coliseum,0,/boxscores/197610230POR.html
+Sat Oct 23 1976,New York Knicks,San Antonio Spurs,117,98,Madison Square Garden (IV),0,/boxscores/197610230NYK.html
+Sat Oct 23 1976,Milwaukee Bucks,Boston Celtics,107,111,MECCA Arena,0,/boxscores/197610230MIL.html
+Sat Oct 23 1976,Houston Rockets,Phoenix Suns,129,126,The Summit,0,/boxscores/197610230HOU.html
+Sat Oct 23 1976,Detroit Pistons,Washington Bullets,97,98,Cobo Arena,0,/boxscores/197610230DET.html
+Sat Oct 23 1976,Denver Nuggets,Kansas City Kings,120,99,McNichols Sports Arena,0,/boxscores/197610230DEN.html
+Sat Oct 23 1976,Buffalo Braves,Philadelphia 76ers,108,105,Buffalo Memorial Auditorium,0,/boxscores/197610230BUF.html
+Sun Oct 24 1976,Atlanta Hawks,Milwaukee Bucks,115,91,Omni Coliseum,0,/boxscores/197610240ATL.html
+Sun Oct 24 1976,Cleveland Cavaliers,Los Angeles Lakers,100,95,Coliseum at Richfield,0,/boxscores/197610240CLE.html
+Sun Oct 24 1976,Seattle SuperSonics,New York Nets,104,93,Seattle Center Coliseum,0,/boxscores/197610240SEA.html
+Tue Oct 26 1976,Portland Trail Blazers,Golden State Warriors,110,96,Memorial Coliseum,0,/boxscores/197610260POR.html
+Tue Oct 26 1976,New York Knicks,Buffalo Braves,118,104,Madison Square Garden (IV),0,/boxscores/197610260NYK.html
+Tue Oct 26 1976,New Orleans Jazz,Philadelphia 76ers,101,111,Louisiana Superdome,0,/boxscores/197610260NOJ.html
+Tue Oct 26 1976,Indiana Pacers,Seattle SuperSonics,120,90,Market Square Arena,0,/boxscores/197610260IND.html
+Tue Oct 26 1976,Chicago Bulls,Milwaukee Bucks,90,88,Chicago Stadium,0,/boxscores/197610260CHI.html
+Tue Oct 26 1976,Atlanta Hawks,San Antonio Spurs,122,114,Omni Coliseum,0,/boxscores/197610260ATL.html
+Tue Oct 26 1976,Kansas City Kings,Los Angeles Lakers,117,115,Kemper Arena,0,/boxscores/197610260KCK.html
+Wed Oct 27 1976,Detroit Pistons,Seattle SuperSonics,106,92,Cobo Arena,0,/boxscores/197610270DET.html
+Wed Oct 27 1976,Houston Rockets,Philadelphia 76ers,94,116,The Summit,0,/boxscores/197610270HOU.html
+Wed Oct 27 1976,New York Nets,Washington Bullets,96,93,Nassau Veterans Memorial Coliseum,0,/boxscores/197610270NYN.html
+Wed Oct 27 1976,San Antonio Spurs,Phoenix Suns,115,106,HemisFair Arena,0,/boxscores/197610270SAS.html
+Thu Oct 28 1976,Boston Celtics,Buffalo Braves,112,105,Hartford Civic Center,0,/boxscores/197610280BOS.html
+Thu Oct 28 1976,Cleveland Cavaliers,New York Knicks,114,90,Coliseum at Richfield,0,/boxscores/197610280CLE.html
+Thu Oct 28 1976,Denver Nuggets,Milwaukee Bucks,119,100,McNichols Sports Arena,0,/boxscores/197610280DEN.html
+Thu Oct 28 1976,Golden State Warriors,Portland Trail Blazers,112,92,Oakland-Alameda County Coliseum Arena,0,/boxscores/197610280GSW.html
+Fri Oct 29 1976,New Orleans Jazz,Washington Bullets,111,93,Louisiana Superdome,0,/boxscores/197610290NOJ.html
+Fri Oct 29 1976,Seattle SuperSonics,Detroit Pistons,106,103,Seattle Center Coliseum,0,/boxscores/197610290SEA.html
+Fri Oct 29 1976,New York Nets,Indiana Pacers,89,90,Nassau Veterans Memorial Coliseum,0,/boxscores/197610290NYN.html
+Fri Oct 29 1976,Los Angeles Lakers,Atlanta Hawks,118,101,The Forum,0,/boxscores/197610290LAL.html
+Fri Oct 29 1976,Kansas City Kings,San Antonio Spurs,130,102,Kemper Arena,0,/boxscores/197610290KCK.html
+Fri Oct 29 1976,Chicago Bulls,Phoenix Suns,82,95,Chicago Stadium,0,/boxscores/197610290CHI.html
+Sat Oct 30 1976,Buffalo Braves,Cleveland Cavaliers,105,109,Buffalo Memorial Auditorium,0,/boxscores/197610300BUF.html
+Sat Oct 30 1976,Denver Nuggets,Phoenix Suns,113,107,McNichols Sports Arena,0,/boxscores/197610300DEN.html
+Sat Oct 30 1976,Golden State Warriors,Atlanta Hawks,114,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/197610300GSW.html
+Sat Oct 30 1976,Houston Rockets,Washington Bullets,105,92,The Summit,0,/boxscores/197610300HOU.html
+Sat Oct 30 1976,Indiana Pacers,Kansas City Kings,112,102,Market Square Arena,0,/boxscores/197610300IND.html
+Sat Oct 30 1976,Milwaukee Bucks,Chicago Bulls,102,74,MECCA Arena,0,/boxscores/197610300MIL.html
+Sat Oct 30 1976,New York Knicks,New Orleans Jazz,112,115,Madison Square Garden (IV),0,/boxscores/197610300NYK.html
+Sat Oct 30 1976,Philadelphia 76ers,New York Nets,104,80,The Spectrum,0,/boxscores/197610300PHI.html
+Sat Oct 30 1976,Portland Trail Blazers,Detroit Pistons,131,97,Memorial Coliseum,0,/boxscores/197610300POR.html
+Sat Oct 30 1976,San Antonio Spurs,Boston Celtics,117,126,HemisFair Arena,0,/boxscores/197610300SAS.html
+Sun Oct 31 1976,Cleveland Cavaliers,New Orleans Jazz,106,92,Coliseum at Richfield,0,/boxscores/197610310CLE.html
+Sun Oct 31 1976,Los Angeles Lakers,Detroit Pistons,121,101,The Forum,0,/boxscores/197610310LAL.html
+Sun Oct 31 1976,Seattle SuperSonics,Atlanta Hawks,126,112,Seattle Center Coliseum,0,/boxscores/197610310SEA.html

@@ -1,0 +1,166 @@
+Sun Apr 1 1990,Boston Celtics,Orlando Magic,133,125,Boston Garden,14890,/boxscores/199004010BOS.html
+Sun Apr 1 1990,Chicago Bulls,Miami Heat,111,103,Chicago Stadium,18263,/boxscores/199004010CHI.html
+Sun Apr 1 1990,Cleveland Cavaliers,Indiana Pacers,121,91,Coliseum at Richfield,17166,/boxscores/199004010CLE.html
+Sun Apr 1 1990,Dallas Mavericks,Milwaukee Bucks,86,72,Reunion Arena,17007,/boxscores/199004010DAL.html
+Sun Apr 1 1990,Golden State Warriors,Atlanta Hawks,116,142,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004010GSW.html
+Sun Apr 1 1990,Los Angeles Clippers,Seattle SuperSonics,104,103,Los Angeles Memorial Sports Arena,11815,/boxscores/199004010LAC.html
+Sun Apr 1 1990,Los Angeles Lakers,Utah Jazz,119,103,Great Western Forum,17505,/boxscores/199004010LAL.html
+Sun Apr 1 1990,New Jersey Nets,Washington Bullets,97,105,Brendan Byrne Arena,10199,/boxscores/199004010NJN.html
+Sun Apr 1 1990,Philadelphia 76ers,Phoenix Suns,141,112,The Spectrum,15751,/boxscores/199004010PHI.html
+Tue Apr 3 1990,Chicago Bulls,Indiana Pacers,109,102,Chicago Stadium,17763,/boxscores/199004030CHI.html
+Tue Apr 3 1990,Detroit Pistons,Boston Celtics,93,82,The Palace of Auburn Hills,21454,/boxscores/199004030DET.html
+Tue Apr 3 1990,New York Knicks,Cleveland Cavaliers,106,97,Madison Square Garden (IV),17048,/boxscores/199004030NYK.html
+Tue Apr 3 1990,Orlando Magic,Golden State Warriors,126,127,Orlando Arena,15077,/boxscores/199004030ORL.html
+Tue Apr 3 1990,Philadelphia 76ers,Houston Rockets,133,112,The Spectrum,14363,/boxscores/199004030PHI.html
+Tue Apr 3 1990,Phoenix Suns,Dallas Mavericks,117,111,Arizona Veterans Memorial Coliseum,14487,/boxscores/199004030PHO.html
+Tue Apr 3 1990,Sacramento Kings,Los Angeles Clippers,105,114,ARCO Arena (II),17014,/boxscores/199004030SAC.html
+Tue Apr 3 1990,San Antonio Spurs,Minnesota Timberwolves,90,92,HemisFair Arena,12568,/boxscores/199004030SAS.html
+Tue Apr 3 1990,Seattle SuperSonics,Portland Trail Blazers,136,134,Seattle Center Coliseum,11414,/boxscores/199004030SEA.html
+Tue Apr 3 1990,Utah Jazz,Charlotte Hornets,127,104,Salt Palace,12616,/boxscores/199004030UTA.html
+Wed Apr 4 1990,Boston Celtics,New Jersey Nets,125,106,Boston Garden,14890,/boxscores/199004040BOS.html
+Wed Apr 4 1990,Cleveland Cavaliers,Atlanta Hawks,101,95,Coliseum at Richfield,18074,/boxscores/199004040CLE.html
+Wed Apr 4 1990,Dallas Mavericks,San Antonio Spurs,104,98,Reunion Arena,17007,/boxscores/199004040DAL.html
+Wed Apr 4 1990,Denver Nuggets,Charlotte Hornets,112,116,McNichols Sports Arena,10867,/boxscores/199004040DEN.html
+Wed Apr 4 1990,Miami Heat,Golden State Warriors,114,128,Miami Arena,15008,/boxscores/199004040MIA.html
+Wed Apr 4 1990,Milwaukee Bucks,Indiana Pacers,121,116,Bradley Center,15019,/boxscores/199004040MIL.html
+Wed Apr 4 1990,Washington Bullets,New York Knicks,107,118,Capital Centre,13129,/boxscores/199004040WSB.html
+Thu Apr 5 1990,Atlanta Hawks,Detroit Pistons,99,104,Omni Coliseum,16195,/boxscores/199004050ATL.html
+Thu Apr 5 1990,Chicago Bulls,Orlando Magic,111,104,Chicago Stadium,17843,/boxscores/199004050CHI.html
+Thu Apr 5 1990,Los Angeles Lakers,Sacramento Kings,110,103,Great Western Forum,17505,/boxscores/199004050LAL.html
+Thu Apr 5 1990,Seattle SuperSonics,Utah Jazz,101,91,Seattle Center Coliseum,12573,/boxscores/199004050SEA.html
+Fri Apr 6 1990,Charlotte Hornets,Minnesota Timberwolves,108,93,Charlotte Coliseum,23901,/boxscores/199004060CHH.html
+Fri Apr 6 1990,Cleveland Cavaliers,Boston Celtics,104,109,Coliseum at Richfield,20273,/boxscores/199004060CLE.html
+Fri Apr 6 1990,Denver Nuggets,Seattle SuperSonics,119,103,McNichols Sports Arena,16212,/boxscores/199004060DEN.html
+Fri Apr 6 1990,Detroit Pistons,Milwaukee Bucks,84,92,The Palace of Auburn Hills,21545,/boxscores/199004060DET.html
+Fri Apr 6 1990,New Jersey Nets,Golden State Warriors,117,123,Brendan Byrne Arena,14233,/boxscores/199004060NJN.html
+Fri Apr 6 1990,New York Knicks,Philadelphia 76ers,114,104,Madison Square Garden (IV),18212,/boxscores/199004060NYK.html
+Fri Apr 6 1990,Orlando Magic,Indiana Pacers,115,123,Orlando Arena,15077,/boxscores/199004060ORL.html
+Fri Apr 6 1990,Phoenix Suns,Los Angeles Lakers,99,103,Arizona Veterans Memorial Coliseum,14487,/boxscores/199004060PHO.html
+Fri Apr 6 1990,Portland Trail Blazers,Los Angeles Clippers,106,99,Memorial Coliseum,12884,/boxscores/199004060POR.html
+Fri Apr 6 1990,Washington Bullets,Houston Rockets,121,110,Capital Centre,11051,/boxscores/199004060WSB.html
+Sat Apr 7 1990,Atlanta Hawks,Philadelphia 76ers,108,112,Omni Coliseum,16019,/boxscores/199004070ATL.html
+Sat Apr 7 1990,Dallas Mavericks,Chicago Bulls,108,109,Reunion Arena,17007,/boxscores/199004070DAL.html
+Sat Apr 7 1990,Los Angeles Clippers,Phoenix Suns,108,115,Los Angeles Memorial Sports Arena,12888,/boxscores/199004070LAC.html
+Sat Apr 7 1990,Miami Heat,Boston Celtics,105,115,Miami Arena,15008,/boxscores/199004070MIA.html
+Sat Apr 7 1990,Milwaukee Bucks,Washington Bullets,110,100,Bradley Center,18482,/boxscores/199004070MIL.html
+Sat Apr 7 1990,Sacramento Kings,San Antonio Spurs,93,111,ARCO Arena (II),17014,/boxscores/199004070SAC.html
+Sun Apr 8 1990,Charlotte Hornets,Golden State Warriors,110,109,Charlotte Coliseum,23901,/boxscores/199004080CHH.html
+Sun Apr 8 1990,Cleveland Cavaliers,Detroit Pistons,100,97,Coliseum at Richfield,20273,/boxscores/199004080CLE.html
+Sun Apr 8 1990,Denver Nuggets,Los Angeles Lakers,109,116,McNichols Sports Arena,17022,/boxscores/199004080DEN.html
+Sun Apr 8 1990,Indiana Pacers,New York Knicks,99,97,Market Square Arena,13070,/boxscores/199004080IND.html
+Sun Apr 8 1990,New Jersey Nets,Miami Heat,102,101,Brendan Byrne Arena,7821,/boxscores/199004080NJN.html
+Sun Apr 8 1990,Orlando Magic,Houston Rockets,123,146,Orlando Arena,15077,/boxscores/199004080ORL.html
+Sun Apr 8 1990,Portland Trail Blazers,San Antonio Spurs,112,105,Memorial Coliseum,12884,/boxscores/199004080POR.html
+Mon Apr 9 1990,Los Angeles Lakers,Dallas Mavericks,113,106,Great Western Forum,17505,/boxscores/199004090LAL.html
+Mon Apr 9 1990,Phoenix Suns,Utah Jazz,119,115,Arizona Veterans Memorial Coliseum,14487,/boxscores/199004090PHO.html
+Mon Apr 9 1990,Seattle SuperSonics,Sacramento Kings,105,106,Seattle Center Coliseum,11678,/boxscores/199004090SEA.html
+Tue Apr 10 1990,Charlotte Hornets,Houston Rockets,112,115,Charlotte Coliseum,23901,/boxscores/199004100CHH.html
+Tue Apr 10 1990,Golden State Warriors,San Antonio Spurs,122,132,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004100GSW.html
+Tue Apr 10 1990,Indiana Pacers,Washington Bullets,107,105,Market Square Arena,16100,/boxscores/199004100IND.html
+Tue Apr 10 1990,Los Angeles Clippers,Dallas Mavericks,98,90,Los Angeles Memorial Sports Arena,13391,/boxscores/199004100LAC.html
+Tue Apr 10 1990,Minnesota Timberwolves,Portland Trail Blazers,94,106,Hubert H. Humphrey Metrodome,29303,/boxscores/199004100MIN.html
+Tue Apr 10 1990,New Jersey Nets,Boston Celtics,96,112,Brendan Byrne Arena,17515,/boxscores/199004100NJN.html
+Tue Apr 10 1990,New York Knicks,Detroit Pistons,98,108,Madison Square Garden (IV),18032,/boxscores/199004100NYK.html
+Tue Apr 10 1990,Orlando Magic,Milwaukee Bucks,127,130,Orlando Arena,15077,/boxscores/199004100ORL.html
+Tue Apr 10 1990,Philadelphia 76ers,Atlanta Hawks,111,123,The Spectrum,16046,/boxscores/199004100PHI.html
+Tue Apr 10 1990,Sacramento Kings,Denver Nuggets,113,121,ARCO Arena (II),17014,/boxscores/199004100SAC.html
+Tue Apr 10 1990,Utah Jazz,Seattle SuperSonics,114,102,Salt Palace,12616,/boxscores/199004100UTA.html
+Wed Apr 11 1990,Atlanta Hawks,Milwaukee Bucks,106,94,Omni Coliseum,13348,/boxscores/199004110ATL.html
+Wed Apr 11 1990,Chicago Bulls,Cleveland Cavaliers,107,86,Chicago Stadium,18139,/boxscores/199004110CHI.html
+Wed Apr 11 1990,Detroit Pistons,New Jersey Nets,98,93,The Palace of Auburn Hills,21454,/boxscores/199004110DET.html
+Thu Apr 12 1990,Boston Celtics,Miami Heat,139,118,Boston Garden,14890,/boxscores/199004120BOS.html
+Thu Apr 12 1990,Golden State Warriors,Dallas Mavericks,133,140,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004120GSW.html
+Thu Apr 12 1990,Houston Rockets,Charlotte Hornets,117,110,The Summit,16198,/boxscores/199004120HOU.html
+Thu Apr 12 1990,New York Knicks,Indiana Pacers,108,100,Madison Square Garden (IV),18118,/boxscores/199004120NYK.html
+Thu Apr 12 1990,Philadelphia 76ers,Minnesota Timberwolves,110,77,The Spectrum,15835,/boxscores/199004120PHI.html
+Thu Apr 12 1990,Sacramento Kings,Phoenix Suns,114,116,ARCO Arena (II),17014,/boxscores/199004120SAC.html
+Thu Apr 12 1990,San Antonio Spurs,Los Angeles Clippers,105,98,HemisFair Arena,15910,/boxscores/199004120SAS.html
+Thu Apr 12 1990,Seattle SuperSonics,Denver Nuggets,113,103,Seattle Center Coliseum,10617,/boxscores/199004120SEA.html
+Thu Apr 12 1990,Utah Jazz,Los Angeles Lakers,107,104,Salt Palace,12616,/boxscores/199004120UTA.html
+Thu Apr 12 1990,Washington Bullets,Cleveland Cavaliers,100,102,Capital Centre,8129,/boxscores/199004120WSB.html
+Fri Apr 13 1990,Chicago Bulls,Milwaukee Bucks,116,106,Chicago Stadium,18676,/boxscores/199004130CHI.html
+Fri Apr 13 1990,Detroit Pistons,Atlanta Hawks,111,115,The Palace of Auburn Hills,21454,/boxscores/199004130DET.html
+Fri Apr 13 1990,Los Angeles Lakers,Golden State Warriors,131,119,Great Western Forum,17505,/boxscores/199004130LAL.html
+Fri Apr 13 1990,Minnesota Timberwolves,Orlando Magic,117,102,Hubert H. Humphrey Metrodome,45458,/boxscores/199004130MIN.html
+Fri Apr 13 1990,Portland Trail Blazers,Dallas Mavericks,124,92,Memorial Coliseum,12884,/boxscores/199004130POR.html
+Sat Apr 14 1990,Charlotte Hornets,Philadelphia 76ers,102,109,Charlotte Coliseum,23901,/boxscores/199004140CHH.html
+Sat Apr 14 1990,Cleveland Cavaliers,Miami Heat,93,85,Coliseum at Richfield,19132,/boxscores/199004140CLE.html
+Sat Apr 14 1990,Detroit Pistons,Orlando Magic,111,107,The Palace of Auburn Hills,21454,/boxscores/199004140DET.html
+Sat Apr 14 1990,Milwaukee Bucks,Atlanta Hawks,109,93,Bradley Center,18633,/boxscores/199004140MIL.html
+Sat Apr 14 1990,New Jersey Nets,Indiana Pacers,113,124,Brendan Byrne Arena,9236,/boxscores/199004140NJN.html
+Sat Apr 14 1990,Portland Trail Blazers,Denver Nuggets,127,136,Memorial Coliseum,12884,/boxscores/199004140POR.html
+Sat Apr 14 1990,San Antonio Spurs,Sacramento Kings,105,94,HemisFair Arena,15910,/boxscores/199004140SAS.html
+Sat Apr 14 1990,Seattle SuperSonics,Phoenix Suns,96,89,Seattle Center Coliseum,12903,/boxscores/199004140SEA.html
+Sat Apr 14 1990,Utah Jazz,Houston Rockets,99,103,Salt Palace,12616,/boxscores/199004140UTA.html
+Sat Apr 14 1990,Washington Bullets,Chicago Bulls,113,103,Capital Centre,18756,/boxscores/199004140WSB.html
+Sun Apr 15 1990,Boston Celtics,New York Knicks,101,94,Boston Garden,14890,/boxscores/199004150BOS.html
+Sun Apr 15 1990,Los Angeles Lakers,Houston Rockets,113,102,Great Western Forum,17505,/boxscores/199004150LAL.html
+Sun Apr 15 1990,Minnesota Timberwolves,Utah Jazz,90,103,Hubert H. Humphrey Metrodome,40415,/boxscores/199004150MIN.html
+Mon Apr 16 1990,Charlotte Hornets,San Antonio Spurs,101,110,Charlotte Coliseum,23901,/boxscores/199004160CHH.html
+Mon Apr 16 1990,Golden State Warriors,Phoenix Suns,129,141,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004160GSW.html
+Mon Apr 16 1990,Indiana Pacers,Chicago Bulls,111,102,Market Square Arena,16912,/boxscores/199004160IND.html
+Mon Apr 16 1990,Los Angeles Clippers,Portland Trail Blazers,85,93,Los Angeles Memorial Sports Arena,13947,/boxscores/199004160LAC.html
+Mon Apr 16 1990,New York Knicks,Miami Heat,119,102,Madison Square Garden (IV),17590,/boxscores/199004160NYK.html
+Tue Apr 17 1990,Atlanta Hawks,New Jersey Nets,118,95,Omni Coliseum,11008,/boxscores/199004170ATL.html
+Tue Apr 17 1990,Chicago Bulls,Boston Celtics,111,105,Chicago Stadium,18676,/boxscores/199004170CHI.html
+Tue Apr 17 1990,Dallas Mavericks,Utah Jazz,97,96,Reunion Arena,17007,/boxscores/199004170DAL.html
+Tue Apr 17 1990,Houston Rockets,Sacramento Kings,112,97,The Summit,15301,/boxscores/199004170HOU.html
+Tue Apr 17 1990,Milwaukee Bucks,Cleveland Cavaliers,88,96,Bradley Center,14374,/boxscores/199004170MIL.html
+Tue Apr 17 1990,Minnesota Timberwolves,Denver Nuggets,89,99,Hubert H. Humphrey Metrodome,49551,/boxscores/199004170MIN.html
+Tue Apr 17 1990,Orlando Magic,Washington Bullets,127,129,Orlando Arena,15077,/boxscores/199004170ORL.html
+Tue Apr 17 1990,Seattle SuperSonics,Los Angeles Lakers,101,102,Seattle Center Coliseum,14489,/boxscores/199004170SEA.html
+Wed Apr 18 1990,Boston Celtics,Orlando Magic,133,112,Boston Garden,14890,/boxscores/199004180BOS.html
+Wed Apr 18 1990,Golden State Warriors,Los Angeles Clippers,133,120,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004180GSW.html
+Wed Apr 18 1990,Miami Heat,Charlotte Hornets,91,98,Miami Arena,15008,/boxscores/199004180MIA.html
+Wed Apr 18 1990,New Jersey Nets,Cleveland Cavaliers,93,100,Brendan Byrne Arena,11985,/boxscores/199004180NJN.html
+Wed Apr 18 1990,Philadelphia 76ers,Indiana Pacers,124,113,The Spectrum,14828,/boxscores/199004180PHI.html
+Wed Apr 18 1990,Phoenix Suns,Portland Trail Blazers,120,128,Arizona Veterans Memorial Coliseum,14487,/boxscores/199004180PHO.html
+Wed Apr 18 1990,San Antonio Spurs,Utah Jazz,102,93,HemisFair Arena,15910,/boxscores/199004180SAS.html
+Thu Apr 19 1990,Charlotte Hornets,Dallas Mavericks,102,111,Charlotte Coliseum,23901,/boxscores/199004190CHH.html
+Thu Apr 19 1990,Chicago Bulls,Washington Bullets,120,117,Chicago Stadium,18402,/boxscores/199004190CHI.html
+Thu Apr 19 1990,Detroit Pistons,Philadelphia 76ers,97,107,The Palace of Auburn Hills,21454,/boxscores/199004190DET.html
+Thu Apr 19 1990,Houston Rockets,Denver Nuggets,127,130,The Summit,16001,/boxscores/199004190HOU.html
+Thu Apr 19 1990,Los Angeles Lakers,Minnesota Timberwolves,113,89,Great Western Forum,17505,/boxscores/199004190LAL.html
+Thu Apr 19 1990,Milwaukee Bucks,New York Knicks,96,95,Bradley Center,14487,/boxscores/199004190MIL.html
+Thu Apr 19 1990,Sacramento Kings,Seattle SuperSonics,118,130,ARCO Arena (II),17014,/boxscores/199004190SAC.html
+Fri Apr 20 1990,Boston Celtics,Chicago Bulls,120,116,Boston Garden,14890,/boxscores/199004200BOS.html
+Fri Apr 20 1990,Dallas Mavericks,Houston Rockets,121,120,Reunion Arena,17007,/boxscores/199004200DAL.html
+Fri Apr 20 1990,Denver Nuggets,San Antonio Spurs,108,112,McNichols Sports Arena,17022,/boxscores/199004200DEN.html
+Fri Apr 20 1990,Indiana Pacers,Detroit Pistons,115,121,Market Square Arena,16912,/boxscores/199004200IND.html
+Fri Apr 20 1990,Miami Heat,Washington Bullets,117,112,Miami Arena,15008,/boxscores/199004200MIA.html
+Fri Apr 20 1990,New York Knicks,Atlanta Hawks,112,126,Madison Square Garden (IV),18212,/boxscores/199004200NYK.html
+Fri Apr 20 1990,Orlando Magic,Cleveland Cavaliers,104,118,Orlando Arena,15077,/boxscores/199004200ORL.html
+Fri Apr 20 1990,Phoenix Suns,Golden State Warriors,123,106,Arizona Veterans Memorial Coliseum,14487,/boxscores/199004200PHO.html
+Fri Apr 20 1990,Seattle SuperSonics,Los Angeles Clippers,121,99,Seattle Center Coliseum,12090,/boxscores/199004200SEA.html
+Fri Apr 20 1990,Utah Jazz,Minnesota Timberwolves,97,89,Salt Palace,12616,/boxscores/199004200UTA.html
+Sat Apr 21 1990,Atlanta Hawks,Miami Heat,130,109,Omni Coliseum,13114,/boxscores/199004210ATL.html
+Sat Apr 21 1990,Los Angeles Clippers,Los Angeles Lakers,115,125,Los Angeles Memorial Sports Arena,15350,/boxscores/199004210LAC.html
+Sat Apr 21 1990,Milwaukee Bucks,New Jersey Nets,96,95,Bradley Center,16121,/boxscores/199004210MIL.html
+Sat Apr 21 1990,Sacramento Kings,Portland Trail Blazers,110,118,ARCO Arena (II),17014,/boxscores/199004210SAC.html
+Sun Apr 22 1990,Cleveland Cavaliers,New York Knicks,115,99,Coliseum at Richfield,19149,/boxscores/199004220CLE.html
+Sun Apr 22 1990,Dallas Mavericks,Charlotte Hornets,118,107,Reunion Arena,17007,/boxscores/199004220DAL.html
+Sun Apr 22 1990,Denver Nuggets,Minnesota Timberwolves,115,108,McNichols Sports Arena,14303,/boxscores/199004220DEN.html
+Sun Apr 22 1990,Detroit Pistons,Chicago Bulls,111,106,The Palace of Auburn Hills,21454,/boxscores/199004220DET.html
+Sun Apr 22 1990,Golden State Warriors,Seattle SuperSonics,124,122,Oakland-Alameda County Coliseum Arena,15025,/boxscores/199004220GSW.html
+Sun Apr 22 1990,Houston Rockets,Utah Jazz,100,88,The Summit,16611,/boxscores/199004220HOU.html
+Sun Apr 22 1990,New Jersey Nets,Orlando Magic,102,110,Brendan Byrne Arena,12248,/boxscores/199004220NJN.html
+Sun Apr 22 1990,Philadelphia 76ers,Boston Celtics,98,118,The Spectrum,18168,/boxscores/199004220PHI.html
+Sun Apr 22 1990,Portland Trail Blazers,Los Angeles Lakers,130,88,Memorial Coliseum,12884,/boxscores/199004220POR.html
+Sun Apr 22 1990,San Antonio Spurs,Phoenix Suns,108,93,HemisFair Arena,15910,/boxscores/199004220SAS.html
+Sun Apr 22 1990,Washington Bullets,Indiana Pacers,117,127,Capital Centre,8066,/boxscores/199004220WSB.html
+Thu Apr 26 1990,Boston Celtics,New York Knicks,116,105,Boston Garden,14890,/boxscores/199004260BOS.html
+Thu Apr 26 1990,Detroit Pistons,Indiana Pacers,104,92,The Palace of Auburn Hills,21454,/boxscores/199004260DET.html
+Thu Apr 26 1990,Philadelphia 76ers,Cleveland Cavaliers,111,106,The Spectrum,15319,/boxscores/199004260PHI.html
+Thu Apr 26 1990,Portland Trail Blazers,Dallas Mavericks,109,102,Memorial Coliseum,12884,/boxscores/199004260POR.html
+Thu Apr 26 1990,San Antonio Spurs,Denver Nuggets,119,103,HemisFair Arena,15910,/boxscores/199004260SAS.html
+Fri Apr 27 1990,Chicago Bulls,Milwaukee Bucks,111,97,Chicago Stadium,18676,/boxscores/199004270CHI.html
+Fri Apr 27 1990,Los Angeles Lakers,Houston Rockets,101,89,Great Western Forum,17505,/boxscores/199004270LAL.html
+Fri Apr 27 1990,Utah Jazz,Phoenix Suns,113,96,Salt Palace,12616,/boxscores/199004270UTA.html
+Sat Apr 28 1990,Boston Celtics,New York Knicks,157,128,Boston Garden,14890,/boxscores/199004280BOS.html
+Sat Apr 28 1990,Detroit Pistons,Indiana Pacers,100,87,The Palace of Auburn Hills,21454,/boxscores/199004280DET.html
+Sat Apr 28 1990,Portland Trail Blazers,Dallas Mavericks,114,107,Memorial Coliseum,12884,/boxscores/199004280POR.html
+Sat Apr 28 1990,San Antonio Spurs,Denver Nuggets,129,120,HemisFair Arena,15910,/boxscores/199004280SAS.html
+Sun Apr 29 1990,Chicago Bulls,Milwaukee Bucks,109,102,Chicago Stadium,18676,/boxscores/199004290CHI.html
+Sun Apr 29 1990,Los Angeles Lakers,Houston Rockets,104,100,Great Western Forum,17505,/boxscores/199004290LAL.html
+Sun Apr 29 1990,Philadelphia 76ers,Cleveland Cavaliers,107,101,The Spectrum,18168,/boxscores/199004290PHI.html
+Sun Apr 29 1990,Utah Jazz,Phoenix Suns,87,105,Salt Palace,12616,/boxscores/199004290UTA.html

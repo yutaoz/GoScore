@@ -1,0 +1,172 @@
+Sat Mar 1 1980,New York Knicks,New Jersey Nets,115,108,Madison Square Garden (IV),0,/boxscores/198003010NYK.html
+Sun Mar 2 1980,Atlanta Hawks,Denver Nuggets,100,93,Omni Coliseum,0,/boxscores/198003020ATL.html
+Sun Mar 2 1980,Boston Celtics,Detroit Pistons,118,115,Boston Garden,0,/boxscores/198003020BOS.html
+Sun Mar 2 1980,Houston Rockets,Kansas City Kings,91,94,The Summit,0,/boxscores/198003020HOU.html
+Sun Mar 2 1980,New Jersey Nets,New York Knicks,113,96,Rutgers Athletic Center,0,/boxscores/198003020NJN.html
+Sun Mar 2 1980,Philadelphia 76ers,Golden State Warriors,144,99,The Spectrum,0,/boxscores/198003020PHI.html
+Sun Mar 2 1980,Phoenix Suns,Los Angeles Lakers,123,115,Arizona Veterans Memorial Coliseum,0,/boxscores/198003020PHO.html
+Sun Mar 2 1980,Portland Trail Blazers,Chicago Bulls,110,107,Memorial Coliseum,0,/boxscores/198003020POR.html
+Sun Mar 2 1980,San Antonio Spurs,Cleveland Cavaliers,119,123,HemisFair Arena,0,/boxscores/198003020SAS.html
+Sun Mar 2 1980,San Diego Clippers,Milwaukee Bucks,98,101,San Diego Sports Arena,0,/boxscores/198003020SDC.html
+Sun Mar 2 1980,Seattle SuperSonics,Utah Jazz,103,91,Seattle Kingdome,0,/boxscores/198003020SEA.html
+Sun Mar 2 1980,Washington Bullets,Indiana Pacers,118,104,Capital Centre,0,/boxscores/198003020WSB.html
+Tue Mar 4 1980,Atlanta Hawks,Houston Rockets,83,93,Omni Coliseum,0,/boxscores/198003040ATL.html
+Tue Mar 4 1980,Milwaukee Bucks,Los Angeles Lakers,124,127,MECCA Arena,0,/boxscores/198003040MIL.html
+Tue Mar 4 1980,New Jersey Nets,Indiana Pacers,114,109,Rutgers Athletic Center,0,/boxscores/198003040NJN.html
+Tue Mar 4 1980,Portland Trail Blazers,Seattle SuperSonics,97,98,Memorial Coliseum,0,/boxscores/198003040POR.html
+Tue Mar 4 1980,San Antonio Spurs,Boston Celtics,108,137,HemisFair Arena,0,/boxscores/198003040SAS.html
+Tue Mar 4 1980,San Diego Clippers,Cleveland Cavaliers,116,105,San Diego Sports Arena,0,/boxscores/198003040SDC.html
+Tue Mar 4 1980,Utah Jazz,Golden State Warriors,105,111,Salt Palace,0,/boxscores/198003040UTA.html
+Tue Mar 4 1980,Washington Bullets,Detroit Pistons,135,107,Capital Centre,0,/boxscores/198003040WSB.html
+Wed Mar 5 1980,Denver Nuggets,Milwaukee Bucks,112,109,McNichols Sports Arena,0,/boxscores/198003050DEN.html
+Wed Mar 5 1980,Detroit Pistons,New York Knicks,120,113,Pontiac Silverdome,0,/boxscores/198003050DET.html
+Wed Mar 5 1980,Golden State Warriors,Chicago Bulls,105,106,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003050GSW.html
+Wed Mar 5 1980,Houston Rockets,Boston Celtics,99,103,The Summit,15676,/boxscores/198003050HOU.html
+Wed Mar 5 1980,Kansas City Kings,Los Angeles Lakers,101,117,Kemper Arena,0,/boxscores/198003050KCK.html
+Wed Mar 5 1980,Philadelphia 76ers,Indiana Pacers,120,113,The Spectrum,0,/boxscores/198003050PHI.html
+Wed Mar 5 1980,Phoenix Suns,Seattle SuperSonics,127,111,Arizona Veterans Memorial Coliseum,0,/boxscores/198003050PHO.html
+Thu Mar 6 1980,Utah Jazz,Portland Trail Blazers,117,110,Salt Palace,0,/boxscores/198003060UTA.html
+Thu Mar 6 1980,Washington Bullets,New Jersey Nets,96,122,Capital Centre,0,/boxscores/198003060WSB.html
+Fri Mar 7 1980,Boston Celtics,Philadelphia 76ers,111,92,Boston Garden,0,/boxscores/198003070BOS.html
+Fri Mar 7 1980,Detroit Pistons,Washington Bullets,105,106,Pontiac Silverdome,0,/boxscores/198003070DET.html
+Fri Mar 7 1980,Indiana Pacers,Atlanta Hawks,94,99,Market Square Arena,0,/boxscores/198003070IND.html
+Fri Mar 7 1980,Kansas City Kings,Cleveland Cavaliers,104,111,Kemper Arena,0,/boxscores/198003070KCK.html
+Fri Mar 7 1980,Los Angeles Lakers,Chicago Bulls,101,99,The Forum,0,/boxscores/198003070LAL.html
+Fri Mar 7 1980,New Jersey Nets,Houston Rockets,110,111,Rutgers Athletic Center,0,/boxscores/198003070NJN.html
+Fri Mar 7 1980,Phoenix Suns,Utah Jazz,110,94,Arizona Veterans Memorial Coliseum,0,/boxscores/198003070PHO.html
+Fri Mar 7 1980,Portland Trail Blazers,Denver Nuggets,113,104,Memorial Coliseum,0,/boxscores/198003070POR.html
+Fri Mar 7 1980,San Antonio Spurs,New York Knicks,112,118,HemisFair Arena,0,/boxscores/198003070SAS.html
+Sat Mar 8 1980,Denver Nuggets,Seattle SuperSonics,97,104,McNichols Sports Arena,0,/boxscores/198003080DEN.html
+Sat Mar 8 1980,Golden State Warriors,Milwaukee Bucks,80,105,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003080GSW.html
+Sat Mar 8 1980,Houston Rockets,Atlanta Hawks,79,97,The Summit,0,/boxscores/198003080HOU.html
+Sat Mar 8 1980,New York Knicks,Detroit Pistons,110,104,Madison Square Garden (IV),0,/boxscores/198003080NYK.html
+Sat Mar 8 1980,Utah Jazz,San Diego Clippers,98,113,Salt Palace,0,/boxscores/198003080UTA.html
+Sun Mar 9 1980,Atlanta Hawks,New York Knicks,98,92,Omni Coliseum,0,/boxscores/198003090ATL.html
+Sun Mar 9 1980,Boston Celtics,Washington Bullets,128,133,Boston Garden,0,/boxscores/198003090BOS.html
+Sun Mar 9 1980,Indiana Pacers,Cleveland Cavaliers,107,113,Market Square Arena,0,/boxscores/198003090IND.html
+Sun Mar 9 1980,Kansas City Kings,Seattle SuperSonics,113,93,Kemper Arena,0,/boxscores/198003090KCK.html
+Sun Mar 9 1980,New Jersey Nets,Detroit Pistons,140,100,Rutgers Athletic Center,0,/boxscores/198003090NJN.html
+Sun Mar 9 1980,Phoenix Suns,Chicago Bulls,113,103,Arizona Veterans Memorial Coliseum,0,/boxscores/198003090PHO.html
+Sun Mar 9 1980,Portland Trail Blazers,Los Angeles Lakers,142,121,Memorial Coliseum,0,/boxscores/198003090POR.html
+Sun Mar 9 1980,San Antonio Spurs,Philadelphia 76ers,118,134,HemisFair Arena,0,/boxscores/198003090SAS.html
+Sun Mar 9 1980,San Diego Clippers,Golden State Warriors,107,125,San Diego Sports Arena,0,/boxscores/198003090SDC.html
+Tue Mar 11 1980,Atlanta Hawks,Philadelphia 76ers,97,102,Omni Coliseum,0,/boxscores/198003110ATL.html
+Tue Mar 11 1980,Chicago Bulls,Kansas City Kings,100,98,Chicago Stadium,0,/boxscores/198003110CHI.html
+Tue Mar 11 1980,Cleveland Cavaliers,New Jersey Nets,122,119,Coliseum at Richfield,0,/boxscores/198003110CLE.html
+Tue Mar 11 1980,Denver Nuggets,Golden State Warriors,96,87,McNichols Sports Arena,0,/boxscores/198003110DEN.html
+Tue Mar 11 1980,Indiana Pacers,Boston Celtics,114,108,Market Square Arena,0,/boxscores/198003110IND.html
+Tue Mar 11 1980,New York Knicks,Houston Rockets,129,109,Madison Square Garden (IV),0,/boxscores/198003110NYK.html
+Tue Mar 11 1980,San Diego Clippers,Los Angeles Lakers,106,123,San Diego Sports Arena,0,/boxscores/198003110SDC.html
+Tue Mar 11 1980,Washington Bullets,San Antonio Spurs,104,111,Capital Centre,0,/boxscores/198003110WSB.html
+Wed Mar 12 1980,Boston Celtics,Houston Rockets,121,105,Boston Garden,0,/boxscores/198003120BOS.html
+Wed Mar 12 1980,Detroit Pistons,New Jersey Nets,119,137,Pontiac Silverdome,0,/boxscores/198003120DET.html
+Wed Mar 12 1980,Golden State Warriors,Phoenix Suns,113,122,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003120GSW.html
+Wed Mar 12 1980,Los Angeles Lakers,Portland Trail Blazers,102,94,The Forum,0,/boxscores/198003120LAL.html
+Wed Mar 12 1980,Milwaukee Bucks,Seattle SuperSonics,112,103,MECCA Arena,0,/boxscores/198003120MIL.html
+Wed Mar 12 1980,Philadelphia 76ers,Washington Bullets,105,98,The Spectrum,0,/boxscores/198003120PHI.html
+Thu Mar 13 1980,New York Knicks,Indiana Pacers,100,107,Madison Square Garden (IV),0,/boxscores/198003130NYK.html
+Thu Mar 13 1980,San Diego Clippers,Denver Nuggets,116,102,San Diego Sports Arena,0,/boxscores/198003130SDC.html
+Fri Mar 14 1980,Atlanta Hawks,Boston Celtics,88,87,Omni Coliseum,0,/boxscores/198003140ATL.html
+Fri Mar 14 1980,Chicago Bulls,Seattle SuperSonics,101,122,Chicago Stadium,0,/boxscores/198003140CHI.html
+Fri Mar 14 1980,Detroit Pistons,San Antonio Spurs,102,113,Pontiac Silverdome,0,/boxscores/198003140DET.html
+Fri Mar 14 1980,Indiana Pacers,Philadelphia 76ers,104,94,Market Square Arena,0,/boxscores/198003140IND.html
+Fri Mar 14 1980,Los Angeles Lakers,Denver Nuggets,132,126,The Forum,0,/boxscores/198003140LAL.html
+Fri Mar 14 1980,Milwaukee Bucks,Portland Trail Blazers,120,110,MECCA Arena,0,/boxscores/198003140MIL.html
+Fri Mar 14 1980,Washington Bullets,Houston Rockets,92,85,Capital Centre,0,/boxscores/198003140WSB.html
+Sat Mar 15 1980,Chicago Bulls,Portland Trail Blazers,110,108,Chicago Stadium,0,/boxscores/198003150CHI.html
+Sat Mar 15 1980,Cleveland Cavaliers,San Antonio Spurs,100,98,Coliseum at Richfield,0,/boxscores/198003150CLE.html
+Sat Mar 15 1980,New York Knicks,Boston Celtics,120,123,Madison Square Garden (IV),0,/boxscores/198003150NYK.html
+Sat Mar 15 1980,San Diego Clippers,Phoenix Suns,120,109,San Diego Sports Arena,0,/boxscores/198003150SDC.html
+Sun Mar 16 1980,Atlanta Hawks,Indiana Pacers,95,90,Omni Coliseum,0,/boxscores/198003160ATL.html
+Sun Mar 16 1980,Cleveland Cavaliers,Philadelphia 76ers,123,109,Coliseum at Richfield,0,/boxscores/198003160CLE.html
+Sun Mar 16 1980,Denver Nuggets,San Diego Clippers,127,107,McNichols Sports Arena,0,/boxscores/198003160DEN.html
+Sun Mar 16 1980,Detroit Pistons,Houston Rockets,99,102,Pontiac Silverdome,0,/boxscores/198003160DET.html
+Sun Mar 16 1980,Golden State Warriors,Utah Jazz,115,103,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003160GSW.html
+Sun Mar 16 1980,Los Angeles Lakers,Phoenix Suns,128,106,The Forum,0,/boxscores/198003160LAL.html
+Sun Mar 16 1980,Milwaukee Bucks,Kansas City Kings,128,121,MECCA Arena,0,/boxscores/198003160MIL.html
+Sun Mar 16 1980,New Jersey Nets,San Antonio Spurs,107,120,Rutgers Athletic Center,0,/boxscores/198003160NJN.html
+Sun Mar 16 1980,Washington Bullets,New York Knicks,124,133,Capital Centre,0,/boxscores/198003160WSB.html
+Mon Mar 17 1980,New Jersey Nets,Boston Celtics,92,117,Rutgers Athletic Center,0,/boxscores/198003170NJN.html
+Mon Mar 17 1980,Philadelphia 76ers,Detroit Pistons,123,109,The Spectrum,0,/boxscores/198003170PHI.html
+Tue Mar 18 1980,Boston Celtics,Indiana Pacers,114,102,Hartford Civic Center,15622,/boxscores/198003180BOS.html
+Tue Mar 18 1980,Denver Nuggets,Utah Jazz,96,94,McNichols Sports Arena,0,/boxscores/198003180DEN.html
+Tue Mar 18 1980,Detroit Pistons,Cleveland Cavaliers,107,108,Pontiac Silverdome,0,/boxscores/198003180DET.html
+Tue Mar 18 1980,Kansas City Kings,Phoenix Suns,109,112,Kemper Arena,0,/boxscores/198003180KCK.html
+Tue Mar 18 1980,Los Angeles Lakers,Golden State Warriors,113,100,The Forum,0,/boxscores/198003180LAL.html
+Tue Mar 18 1980,New York Knicks,Atlanta Hawks,111,110,Madison Square Garden (IV),0,/boxscores/198003180NYK.html
+Tue Mar 18 1980,Portland Trail Blazers,Milwaukee Bucks,123,122,Memorial Coliseum,0,/boxscores/198003180POR.html
+Tue Mar 18 1980,San Antonio Spurs,Washington Bullets,100,94,HemisFair Arena,0,/boxscores/198003180SAS.html
+Tue Mar 18 1980,San Diego Clippers,Chicago Bulls,101,115,San Diego Sports Arena,0,/boxscores/198003180SDC.html
+Wed Mar 19 1980,Atlanta Hawks,Washington Bullets,109,93,Omni Coliseum,0,/boxscores/198003190ATL.html
+Wed Mar 19 1980,Golden State Warriors,Portland Trail Blazers,113,115,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003190GSW.html
+Wed Mar 19 1980,Houston Rockets,New York Knicks,139,113,The Summit,0,/boxscores/198003190HOU.html
+Wed Mar 19 1980,Indiana Pacers,New Jersey Nets,125,112,Market Square Arena,0,/boxscores/198003190IND.html
+Wed Mar 19 1980,Philadelphia 76ers,San Antonio Spurs,99,105,The Spectrum,0,/boxscores/198003190PHI.html
+Wed Mar 19 1980,Phoenix Suns,Los Angeles Lakers,112,108,Arizona Veterans Memorial Coliseum,0,/boxscores/198003190PHO.html
+Wed Mar 19 1980,Seattle SuperSonics,Milwaukee Bucks,106,108,Seattle Kingdome,0,/boxscores/198003190SEA.html
+Wed Mar 19 1980,Utah Jazz,Chicago Bulls,103,100,Salt Palace,0,/boxscores/198003190UTA.html
+Thu Mar 20 1980,Cleveland Cavaliers,Houston Rockets,109,96,Coliseum at Richfield,0,/boxscores/198003200CLE.html
+Thu Mar 20 1980,Detroit Pistons,Boston Celtics,106,124,Pontiac Silverdome,11138,/boxscores/198003200DET.html
+Thu Mar 20 1980,Kansas City Kings,Denver Nuggets,121,105,Kemper Arena,0,/boxscores/198003200KCK.html
+Thu Mar 20 1980,Washington Bullets,Philadelphia 76ers,119,113,Capital Centre,0,/boxscores/198003200WSB.html
+Fri Mar 21 1980,Atlanta Hawks,Detroit Pistons,108,95,Omni Coliseum,0,/boxscores/198003210ATL.html
+Fri Mar 21 1980,Chicago Bulls,Denver Nuggets,128,134,Chicago Stadium,0,/boxscores/198003210CHI.html
+Fri Mar 21 1980,Milwaukee Bucks,Golden State Warriors,121,93,MECCA Arena,0,/boxscores/198003210MIL.html
+Fri Mar 21 1980,Philadelphia 76ers,New Jersey Nets,108,99,The Spectrum,0,/boxscores/198003210PHI.html
+Fri Mar 21 1980,Portland Trail Blazers,Phoenix Suns,100,111,Memorial Coliseum,0,/boxscores/198003210POR.html
+Fri Mar 21 1980,San Antonio Spurs,Indiana Pacers,116,109,HemisFair Arena,0,/boxscores/198003210SAS.html
+Fri Mar 21 1980,Seattle SuperSonics,San Diego Clippers,107,104,Seattle Kingdome,0,/boxscores/198003210SEA.html
+Fri Mar 21 1980,Utah Jazz,Kansas City Kings,98,102,Salt Palace,0,/boxscores/198003210UTA.html
+Sat Mar 22 1980,Cleveland Cavaliers,Boston Celtics,109,105,Coliseum at Richfield,0,/boxscores/198003220CLE.html
+Sat Mar 22 1980,Houston Rockets,Indiana Pacers,125,110,The Summit,0,/boxscores/198003220HOU.html
+Sat Mar 22 1980,New York Knicks,Washington Bullets,113,122,Madison Square Garden (IV),0,/boxscores/198003220NYK.html
+Sat Mar 22 1980,Seattle SuperSonics,Los Angeles Lakers,92,97,Seattle Kingdome,0,/boxscores/198003220SEA.html
+Sun Mar 23 1980,Atlanta Hawks,San Antonio Spurs,103,95,Omni Coliseum,0,/boxscores/198003230ATL.html
+Sun Mar 23 1980,Boston Celtics,New Jersey Nets,96,101,Boston Garden,15320,/boxscores/198003230BOS.html
+Sun Mar 23 1980,Chicago Bulls,Golden State Warriors,129,115,Chicago Stadium,0,/boxscores/198003230CHI.html
+Sun Mar 23 1980,Los Angeles Lakers,Utah Jazz,101,96,The Forum,0,/boxscores/198003230LAL.html
+Sun Mar 23 1980,Philadelphia 76ers,New York Knicks,112,108,The Spectrum,0,/boxscores/198003230PHI.html
+Sun Mar 23 1980,Phoenix Suns,Denver Nuggets,118,102,Arizona Veterans Memorial Coliseum,0,/boxscores/198003230PHO.html
+Sun Mar 23 1980,Portland Trail Blazers,San Diego Clippers,98,91,Memorial Coliseum,0,/boxscores/198003230POR.html
+Sun Mar 23 1980,Seattle SuperSonics,Kansas City Kings,112,90,Seattle Kingdome,0,/boxscores/198003230SEA.html
+Sun Mar 23 1980,Washington Bullets,Detroit Pistons,119,114,Capital Centre,0,/boxscores/198003230WSB.html
+Tue Mar 25 1980,Chicago Bulls,Milwaukee Bucks,111,122,Chicago Stadium,0,/boxscores/198003250CHI.html
+Tue Mar 25 1980,Cleveland Cavaliers,New York Knicks,115,128,Coliseum at Richfield,0,/boxscores/198003250CLE.html
+Tue Mar 25 1980,Portland Trail Blazers,Kansas City Kings,106,102,Memorial Coliseum,0,/boxscores/198003250POR.html
+Tue Mar 25 1980,San Antonio Spurs,Houston Rockets,126,107,HemisFair Arena,0,/boxscores/198003250SAS.html
+Tue Mar 25 1980,Seattle SuperSonics,Phoenix Suns,104,95,Seattle Kingdome,0,/boxscores/198003250SEA.html
+Tue Mar 25 1980,Utah Jazz,Denver Nuggets,109,91,Salt Palace,0,/boxscores/198003250UTA.html
+Tue Mar 25 1980,Washington Bullets,Boston Celtics,95,96,Capital Centre,0,/boxscores/198003250WSB.html
+Wed Mar 26 1980,Boston Celtics,New York Knicks,129,121,Boston Garden,15320,/boxscores/198003260BOS.html
+Wed Mar 26 1980,Denver Nuggets,Chicago Bulls,115,122,McNichols Sports Arena,0,/boxscores/198003260DEN.html
+Wed Mar 26 1980,Detroit Pistons,Indiana Pacers,114,124,Pontiac Silverdome,0,/boxscores/198003260DET.html
+Wed Mar 26 1980,Golden State Warriors,Kansas City Kings,106,100,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003260GSW.html
+Wed Mar 26 1980,Houston Rockets,San Antonio Spurs,113,101,The Summit,0,/boxscores/198003260HOU.html
+Wed Mar 26 1980,Philadelphia 76ers,Atlanta Hawks,84,81,The Spectrum,0,/boxscores/198003260PHI.html
+Wed Mar 26 1980,Phoenix Suns,Seattle SuperSonics,109,99,Arizona Veterans Memorial Coliseum,0,/boxscores/198003260PHO.html
+Thu Mar 27 1980,Atlanta Hawks,New Jersey Nets,117,100,Omni Coliseum,0,/boxscores/198003270ATL.html
+Thu Mar 27 1980,Cleveland Cavaliers,Washington Bullets,118,111,Coliseum at Richfield,0,/boxscores/198003270CLE.html
+Thu Mar 27 1980,Milwaukee Bucks,Denver Nuggets,143,95,MECCA Arena,0,/boxscores/198003270MIL.html
+Thu Mar 27 1980,New York Knicks,Philadelphia 76ers,101,103,Madison Square Garden (IV),0,/boxscores/198003270NYK.html
+Thu Mar 27 1980,San Diego Clippers,Portland Trail Blazers,93,96,San Diego Sports Arena,0,/boxscores/198003270SDC.html
+Thu Mar 27 1980,Utah Jazz,Los Angeles Lakers,95,97,Salt Palace,0,/boxscores/198003270UTA.html
+Fri Mar 28 1980,Boston Celtics,Cleveland Cavaliers,130,122,Boston Garden,15320,/boxscores/198003280BOS.html
+Fri Mar 28 1980,Houston Rockets,Detroit Pistons,128,112,The Summit,0,/boxscores/198003280HOU.html
+Fri Mar 28 1980,Indiana Pacers,San Antonio Spurs,127,122,Market Square Arena,0,/boxscores/198003280IND.html
+Fri Mar 28 1980,Kansas City Kings,Milwaukee Bucks,116,114,Checkerdome,0,/boxscores/198003280KCK.html
+Fri Mar 28 1980,Los Angeles Lakers,San Diego Clippers,126,88,The Forum,0,/boxscores/198003280LAL.html
+Fri Mar 28 1980,New Jersey Nets,Philadelphia 76ers,99,92,Rutgers Athletic Center,0,/boxscores/198003280NJN.html
+Fri Mar 28 1980,Phoenix Suns,Portland Trail Blazers,114,100,Arizona Veterans Memorial Coliseum,0,/boxscores/198003280PHO.html
+Fri Mar 28 1980,Seattle SuperSonics,Golden State Warriors,108,82,Seattle Kingdome,0,/boxscores/198003280SEA.html
+Fri Mar 28 1980,Washington Bullets,Atlanta Hawks,100,80,Capital Centre,0,/boxscores/198003280WSB.html
+Sat Mar 29 1980,Chicago Bulls,Utah Jazz,111,106,Chicago Stadium,0,/boxscores/198003290CHI.html
+Sun Mar 30 1980,Cleveland Cavaliers,Atlanta Hawks,111,102,Coliseum at Richfield,0,/boxscores/198003300CLE.html
+Sun Mar 30 1980,Golden State Warriors,Los Angeles Lakers,93,95,Oakland-Alameda County Coliseum Arena,0,/boxscores/198003300GSW.html
+Sun Mar 30 1980,Indiana Pacers,Houston Rockets,106,121,Market Square Arena,0,/boxscores/198003300IND.html
+Sun Mar 30 1980,Kansas City Kings,Chicago Bulls,114,110,Kemper Arena,0,/boxscores/198003300KCK.html
+Sun Mar 30 1980,Milwaukee Bucks,Utah Jazz,107,91,MECCA Arena,0,/boxscores/198003300MIL.html
+Sun Mar 30 1980,New Jersey Nets,Washington Bullets,87,93,Rutgers Athletic Center,0,/boxscores/198003300NJN.html
+Sun Mar 30 1980,Philadelphia 76ers,Boston Celtics,116,110,The Spectrum,0,/boxscores/198003300PHI.html
+Sun Mar 30 1980,Phoenix Suns,San Diego Clippers,122,104,Arizona Veterans Memorial Coliseum,0,/boxscores/198003300PHO.html
+Sun Mar 30 1980,San Antonio Spurs,Detroit Pistons,144,124,HemisFair Arena,0,/boxscores/198003300SAS.html
+Sun Mar 30 1980,Seattle SuperSonics,Portland Trail Blazers,135,104,Seattle Kingdome,0,/boxscores/198003300SEA.html

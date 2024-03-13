@@ -1,0 +1,123 @@
+Sat Aug 1 2020,Denver Nuggets,Miami Heat,105,125,HP Field House,0,/boxscores/202008010DEN.html
+Sat Aug 1 2020,Oklahoma City Thunder,Utah Jazz,110,94,The Arena,0,/boxscores/202008010OKC.html
+Sat Aug 1 2020,Los Angeles Clippers,New Orleans Pelicans,126,103,HP Field House,0,/boxscores/202008010LAC.html
+Sat Aug 1 2020,Indiana Pacers,Philadelphia 76ers,127,121,Visa Athletic Center,0,/boxscores/202008010IND.html
+Sat Aug 1 2020,Toronto Raptors,Los Angeles Lakers,107,92,The Arena,0,/boxscores/202008010TOR.html
+Sun Aug 2 2020,Brooklyn Nets,Washington Wizards,118,110,HP Field House,0,/boxscores/202008020BRK.html
+Sun Aug 2 2020,Boston Celtics,Portland Trail Blazers,128,124,The Arena,0,/boxscores/202008020BOS.html
+Sun Aug 2 2020,Memphis Grizzlies,San Antonio Spurs,106,108,Visa Athletic Center,0,/boxscores/202008020MEM.html
+Sun Aug 2 2020,Orlando Magic,Sacramento Kings,132,116,HP Field House,0,/boxscores/202008020ORL.html
+Sun Aug 2 2020,Houston Rockets,Milwaukee Bucks,120,116,The Arena,0,/boxscores/202008020HOU.html
+Sun Aug 2 2020,Phoenix Suns,Dallas Mavericks,117,115,Visa Athletic Center,0,/boxscores/202008020PHO.html
+Mon Aug 3 2020,Miami Heat,Toronto Raptors,103,107,HP Field House,0,/boxscores/202008030MIA.html
+Mon Aug 3 2020,Oklahoma City Thunder,Denver Nuggets,113,121,The Arena,0,/boxscores/202008030OKC.html
+Mon Aug 3 2020,Washington Wizards,Indiana Pacers,100,111,Visa Athletic Center,0,/boxscores/202008030WAS.html
+Mon Aug 3 2020,New Orleans Pelicans,Memphis Grizzlies,109,99,HP Field House,0,/boxscores/202008030NOP.html
+Mon Aug 3 2020,Philadelphia 76ers,San Antonio Spurs,132,130,Visa Athletic Center,0,/boxscores/202008030PHI.html
+Mon Aug 3 2020,Utah Jazz,Los Angeles Lakers,108,116,The Arena,0,/boxscores/202008030UTA.html
+Tue Aug 4 2020,Milwaukee Bucks,Brooklyn Nets,116,119,Visa Athletic Center,0,/boxscores/202008040MIL.html
+Tue Aug 4 2020,Sacramento Kings,Dallas Mavericks,110,114,HP Field House,0,/boxscores/202008040SAC.html
+Tue Aug 4 2020,Los Angeles Clippers,Phoenix Suns,115,117,The Arena,0,/boxscores/202008040LAC.html
+Tue Aug 4 2020,Indiana Pacers,Orlando Magic,120,109,Visa Athletic Center,0,/boxscores/202008040IND.html
+Tue Aug 4 2020,Miami Heat,Boston Celtics,112,106,HP Field House,0,/boxscores/202008040MIA.html
+Tue Aug 4 2020,Portland Trail Blazers,Houston Rockets,110,102,The Arena,0,/boxscores/202008040POR.html
+Wed Aug 5 2020,Utah Jazz,Memphis Grizzlies,124,115,HP Field House,0,/boxscores/202008050UTA.html
+Wed Aug 5 2020,San Antonio Spurs,Denver Nuggets,126,132,Visa Athletic Center,0,/boxscores/202008050SAS.html
+Wed Aug 5 2020,Washington Wizards,Philadelphia 76ers,98,107,The Arena,0,/boxscores/202008050WAS.html
+Wed Aug 5 2020,Los Angeles Lakers,Oklahoma City Thunder,86,105,HP Field House,0,/boxscores/202008050LAL.html
+Wed Aug 5 2020,Orlando Magic,Toronto Raptors,99,109,Visa Athletic Center,0,/boxscores/202008050ORL.html
+Wed Aug 5 2020,Boston Celtics,Brooklyn Nets,149,115,The Arena,0,/boxscores/202008050BOS.html
+Thu Aug 6 2020,Sacramento Kings,New Orleans Pelicans,140,125,HP Field House,0,/boxscores/202008060SAC.html
+Thu Aug 6 2020,Milwaukee Bucks,Miami Heat,130,116,The Arena,0,/boxscores/202008060MIL.html
+Thu Aug 6 2020,Phoenix Suns,Indiana Pacers,114,99,Visa Athletic Center,0,/boxscores/202008060PHO.html
+Thu Aug 6 2020,Dallas Mavericks,Los Angeles Clippers,111,126,HP Field House,0,/boxscores/202008060DAL.html
+Thu Aug 6 2020,Denver Nuggets,Portland Trail Blazers,115,125,Visa Athletic Center,0,/boxscores/202008060DEN.html
+Thu Aug 6 2020,Houston Rockets,Los Angeles Lakers,113,97,The Arena,0,/boxscores/202008060HOU.html
+Fri Aug 7 2020,San Antonio Spurs,Utah Jazz,119,111,HP Field House,0,/boxscores/202008070SAS.html
+Fri Aug 7 2020,Memphis Grizzlies,Oklahoma City Thunder,121,92,Visa Athletic Center,0,/boxscores/202008070MEM.html
+Fri Aug 7 2020,Brooklyn Nets,Sacramento Kings,119,106,The Arena,0,/boxscores/202008070BRK.html
+Fri Aug 7 2020,Philadelphia 76ers,Orlando Magic,108,101,HP Field House,0,/boxscores/202008070PHI.html
+Fri Aug 7 2020,New Orleans Pelicans,Washington Wizards,118,107,Visa Athletic Center,0,/boxscores/202008070NOP.html
+Fri Aug 7 2020,Toronto Raptors,Boston Celtics,100,122,The Arena,0,/boxscores/202008070TOR.html
+Sat Aug 8 2020,Portland Trail Blazers,Los Angeles Clippers,117,122,HP Field House,0,/boxscores/202008080POR.html
+Sat Aug 8 2020,Denver Nuggets,Utah Jazz,134,132,The Arena,0,/boxscores/202008080DEN.html
+Sat Aug 8 2020,Indiana Pacers,Los Angeles Lakers,116,111,HP Field House,0,/boxscores/202008080IND.html
+Sat Aug 8 2020,Miami Heat,Phoenix Suns,112,119,Visa Athletic Center,0,/boxscores/202008080MIA.html
+Sat Aug 8 2020,Dallas Mavericks,Milwaukee Bucks,136,132,The Arena,0,/boxscores/202008080DAL.html
+Sun Aug 9 2020,Oklahoma City Thunder,Washington Wizards,121,103,The Arena,0,/boxscores/202008090OKC.html
+Sun Aug 9 2020,Toronto Raptors,Memphis Grizzlies,108,99,Visa Athletic Center,0,/boxscores/202008090TOR.html
+Sun Aug 9 2020,New Orleans Pelicans,San Antonio Spurs,113,122,HP Field House,0,/boxscores/202008090NOP.html
+Sun Aug 9 2020,Boston Celtics,Orlando Magic,122,119,The Arena,0,/boxscores/202008090BOS.html
+Sun Aug 9 2020,Portland Trail Blazers,Philadelphia 76ers,124,121,Visa Athletic Center,0,/boxscores/202008090POR.html
+Sun Aug 9 2020,Sacramento Kings,Houston Rockets,112,129,HP Field House,0,/boxscores/202008090SAC.html
+Sun Aug 9 2020,Los Angeles Clippers,Brooklyn Nets,120,129,The Arena,0,/boxscores/202008090LAC.html
+Mon Aug 10 2020,Phoenix Suns,Oklahoma City Thunder,128,101,HP Field House,0,/boxscores/202008100PHO.html
+Mon Aug 10 2020,Utah Jazz,Dallas Mavericks,114,122,The Arena,0,/boxscores/202008100UTA.html
+Mon Aug 10 2020,Milwaukee Bucks,Toronto Raptors,106,114,HP Field House,0,/boxscores/202008100MIL.html
+Mon Aug 10 2020,Miami Heat,Indiana Pacers,114,92,Visa Athletic Center,0,/boxscores/202008100MIA.html
+Mon Aug 10 2020,Los Angeles Lakers,Denver Nuggets,124,121,The Arena,0,/boxscores/202008100LAL.html
+Tue Aug 11 2020,Orlando Magic,Brooklyn Nets,96,108,The Arena,0,/boxscores/202008110ORL.html
+Tue Aug 11 2020,San Antonio Spurs,Houston Rockets,123,105,HP Field House,0,/boxscores/202008110SAS.html
+Tue Aug 11 2020,Philadelphia 76ers,Phoenix Suns,117,130,Visa Athletic Center,0,/boxscores/202008110PHI.html
+Tue Aug 11 2020,Memphis Grizzlies,Boston Celtics,107,122,The Arena,0,/boxscores/202008110MEM.html
+Tue Aug 11 2020,Dallas Mavericks,Portland Trail Blazers,131,134,HP Field House,0,/boxscores/202008110DAL.html
+Tue Aug 11 2020,Sacramento Kings,New Orleans Pelicans,112,106,The Arena,0,/boxscores/202008110SAC.html
+Tue Aug 11 2020,Washington Wizards,Milwaukee Bucks,113,126,Visa Athletic Center,0,/boxscores/202008110WAS.html
+Wed Aug 12 2020,Houston Rockets,Indiana Pacers,104,108,The Arena,0,/boxscores/202008120HOU.html
+Wed Aug 12 2020,Philadelphia 76ers,Toronto Raptors,121,125,HP Field House,0,/boxscores/202008120PHI.html
+Wed Aug 12 2020,Oklahoma City Thunder,Miami Heat,116,115,Visa Athletic Center,0,/boxscores/202008120OKC.html
+Wed Aug 12 2020,Denver Nuggets,Los Angeles Clippers,111,124,The Arena,0,/boxscores/202008120DEN.html
+Thu Aug 13 2020,Boston Celtics,Washington Wizards,90,96,The Arena,0,/boxscores/202008130BOS.html
+Thu Aug 13 2020,Los Angeles Lakers,Sacramento Kings,122,136,HP Field House,0,/boxscores/202008130LAL.html
+Thu Aug 13 2020,Memphis Grizzlies,Milwaukee Bucks,119,106,Visa Athletic Center,0,/boxscores/202008130MEM.html
+Thu Aug 13 2020,Phoenix Suns,Dallas Mavericks,128,102,The Arena,0,/boxscores/202008130PHO.html
+Thu Aug 13 2020,Utah Jazz,San Antonio Spurs,118,112,HP Field House,0,/boxscores/202008130UTA.html
+Thu Aug 13 2020,Brooklyn Nets,Portland Trail Blazers,133,134,The Arena,0,/boxscores/202008130BRK.html
+Thu Aug 13 2020,Orlando Magic,New Orleans Pelicans,133,127,Visa Athletic Center,0,/boxscores/202008130ORL.html
+Fri Aug 14 2020,Toronto Raptors,Denver Nuggets,117,109,HP Field House,0,/boxscores/202008140TOR.html
+Fri Aug 14 2020,Indiana Pacers,Miami Heat,109,92,The Arena,0,/boxscores/202008140IND.html
+Fri Aug 14 2020,Los Angeles Clippers,Oklahoma City Thunder,107,103,HP Field House,0,/boxscores/202008140LAC.html
+Fri Aug 14 2020,Houston Rockets,Philadelphia 76ers,96,134,The Arena,0,/boxscores/202008140HOU.html
+Sat Aug 15 2020,Portland Trail Blazers,Memphis Grizzlies,126,122,HP Field House,0,/boxscores/202008150POR.html
+Mon Aug 17 2020,Denver Nuggets,Utah Jazz,135,125,HP Field House,0,/boxscores/202008170DEN.html
+Mon Aug 17 2020,Toronto Raptors,Brooklyn Nets,134,110,The Arena,0,/boxscores/202008170TOR.html
+Mon Aug 17 2020,Boston Celtics,Philadelphia 76ers,109,101,HP Field House,0,/boxscores/202008170BOS.html
+Mon Aug 17 2020,Los Angeles Clippers,Dallas Mavericks,118,110,The Arena,0,/boxscores/202008170LAC.html
+Tue Aug 18 2020,Milwaukee Bucks,Orlando Magic,110,122,HP Field House,0,/boxscores/202008180MIL.html
+Tue Aug 18 2020,Indiana Pacers,Miami Heat,101,113,The Arena,0,/boxscores/202008180IND.html
+Tue Aug 18 2020,Houston Rockets,Oklahoma City Thunder,123,108,HP Field House,0,/boxscores/202008180HOU.html
+Tue Aug 18 2020,Los Angeles Lakers,Portland Trail Blazers,93,100,The Arena,0,/boxscores/202008180LAL.html
+Wed Aug 19 2020,Toronto Raptors,Brooklyn Nets,104,99,HP Field House,0,/boxscores/202008190TOR.html
+Wed Aug 19 2020,Denver Nuggets,Utah Jazz,105,124,The Arena,0,/boxscores/202008190DEN.html
+Wed Aug 19 2020,Boston Celtics,Philadelphia 76ers,128,101,HP Field House,0,/boxscores/202008190BOS.html
+Wed Aug 19 2020,Los Angeles Clippers,Dallas Mavericks,114,127,The Arena,0,/boxscores/202008190LAC.html
+Thu Aug 20 2020,Indiana Pacers,Miami Heat,100,109,HP Field House,0,/boxscores/202008200IND.html
+Thu Aug 20 2020,Houston Rockets,Oklahoma City Thunder,111,98,The Arena,0,/boxscores/202008200HOU.html
+Thu Aug 20 2020,Milwaukee Bucks,Orlando Magic,111,96,HP Field House,0,/boxscores/202008200MIL.html
+Thu Aug 20 2020,Los Angeles Lakers,Portland Trail Blazers,111,88,The Arena,0,/boxscores/202008200LAL.html
+Fri Aug 21 2020,Brooklyn Nets,Toronto Raptors,92,117,HP Field House,0,/boxscores/202008210BRK.html
+Fri Aug 21 2020,Utah Jazz,Denver Nuggets,124,87,The Arena,0,/boxscores/202008210UTA.html
+Fri Aug 21 2020,Philadelphia 76ers,Boston Celtics,94,102,HP Field House,0,/boxscores/202008210PHI.html
+Fri Aug 21 2020,Dallas Mavericks,Los Angeles Clippers,122,130,The Arena,0,/boxscores/202008210DAL.html
+Sat Aug 22 2020,Orlando Magic,Milwaukee Bucks,107,121,HP Field House,0,/boxscores/202008220ORL.html
+Sat Aug 22 2020,Miami Heat,Indiana Pacers,124,115,The Arena,0,/boxscores/202008220MIA.html
+Sat Aug 22 2020,Oklahoma City Thunder,Houston Rockets,119,107,HP Field House,0,/boxscores/202008220OKC.html
+Sat Aug 22 2020,Portland Trail Blazers,Los Angeles Lakers,108,116,The Arena,0,/boxscores/202008220POR.html
+Sun Aug 23 2020,Philadelphia 76ers,Boston Celtics,106,110,HP Field House,0,/boxscores/202008230PHI.html
+Sun Aug 23 2020,Dallas Mavericks,Los Angeles Clippers,135,133,The Arena,0,/boxscores/202008230DAL.html
+Sun Aug 23 2020,Brooklyn Nets,Toronto Raptors,122,150,HP Field House,0,/boxscores/202008230BRK.html
+Sun Aug 23 2020,Utah Jazz,Denver Nuggets,129,127,The Arena,0,/boxscores/202008230UTA.html
+Mon Aug 24 2020,Orlando Magic,Milwaukee Bucks,106,121,HP Field House,0,/boxscores/202008240ORL.html
+Mon Aug 24 2020,Oklahoma City Thunder,Houston Rockets,117,114,The Arena,0,/boxscores/202008240OKC.html
+Mon Aug 24 2020,Miami Heat,Indiana Pacers,99,87,HP Field House,0,/boxscores/202008240MIA.html
+Mon Aug 24 2020,Portland Trail Blazers,Los Angeles Lakers,115,135,The Arena,0,/boxscores/202008240POR.html
+Tue Aug 25 2020,Denver Nuggets,Utah Jazz,117,107,HP Field House,0,/boxscores/202008250DEN.html
+Tue Aug 25 2020,Los Angeles Clippers,Dallas Mavericks,154,111,The Arena,0,/boxscores/202008250LAC.html
+Sat Aug 29 2020,Milwaukee Bucks,Orlando Magic,118,104,The Arena,0,/boxscores/202008290MIL.html
+Sat Aug 29 2020,Houston Rockets,Oklahoma City Thunder,114,80,HP Field House,0,/boxscores/202008290HOU.html
+Sat Aug 29 2020,Los Angeles Lakers,Portland Trail Blazers,131,122,The Arena,0,/boxscores/202008290LAL.html
+Sun Aug 30 2020,Toronto Raptors,Boston Celtics,94,112,HP Field House,0,/boxscores/202008300TOR.html
+Sun Aug 30 2020,Dallas Mavericks,Los Angeles Clippers,97,111,The Arena,0,/boxscores/202008300DAL.html
+Sun Aug 30 2020,Utah Jazz,Denver Nuggets,107,119,The Arena,0,/boxscores/202008300UTA.html
+Mon Aug 31 2020,Milwaukee Bucks,Miami Heat,104,115,HP Field House,0,/boxscores/202008310MIL.html
+Mon Aug 31 2020,Oklahoma City Thunder,Houston Rockets,104,100,The Arena,0,/boxscores/202008310OKC.html

@@ -1,0 +1,74 @@
+Wed Mar 1 1967,Boston Celtics,San Francisco Warriors,137,125,Boston Garden,0,/boxscores/196703010BOS.html
+Wed Mar 1 1967,Baltimore Bullets,St. Louis Hawks,122,112,Baltimore Civic Center,0,/boxscores/196703010BAL.html
+Wed Mar 1 1967,Detroit Pistons,New York Knicks,118,101,Cobo Arena,0,/boxscores/196703010DET.html
+Wed Mar 1 1967,Chicago Bulls,Philadelphia 76ers,129,122,Roberts Stadium,0,/boxscores/196703010CHI.html
+Wed Mar 1 1967,Cincinnati Royals,Los Angeles Lakers,122,116,Cincinnati Gardens,0,/boxscores/196703010CIN.html
+Thu Mar 2 1967,Boston Celtics,Chicago Bulls,114,108,Convention Hall,0,/boxscores/196703020BOS.html
+Thu Mar 2 1967,Philadelphia 76ers,San Francisco Warriors,136,128,Convention Hall,0,/boxscores/196703020PHI.html
+Fri Mar 3 1967,Boston Celtics,Cincinnati Royals,111,104,Boston Garden,0,/boxscores/196703030BOS.html
+Fri Mar 3 1967,Detroit Pistons,Philadelphia 76ers,103,129,Boston Garden,0,/boxscores/196703030DET.html
+Fri Mar 3 1967,Los Angeles Lakers,New York Knicks,138,132,Los Angeles Memorial Sports Arena,0,/boxscores/196703030LAL.html
+Sat Mar 4 1967,Cincinnati Royals,Baltimore Bullets,109,102,Cincinnati Gardens,0,/boxscores/196703040CIN.html
+Sat Mar 4 1967,New York Knicks,San Francisco Warriors,102,111,Selland Arena,0,/boxscores/196703040NYK.html
+Sat Mar 4 1967,St. Louis Hawks,Chicago Bulls,122,125,Kiel Auditorium,0,/boxscores/196703040STL.html
+Sun Mar 5 1967,Boston Celtics,Los Angeles Lakers,130,105,Boston Garden,0,/boxscores/196703050BOS.html
+Sun Mar 5 1967,Chicago Bulls,Cincinnati Royals,113,106,International Amphitheatre,0,/boxscores/196703050CHI.html
+Sun Mar 5 1967,Philadelphia 76ers,Detroit Pistons,131,106,Convention Hall,0,/boxscores/196703050PHI.html
+Sun Mar 5 1967,San Francisco Warriors,New York Knicks,103,115,Selland Arena,0,/boxscores/196703050SFW.html
+Sun Mar 5 1967,St. Louis Hawks,Baltimore Bullets,132,103,Kiel Auditorium,0,/boxscores/196703050STL.html
+Mon Mar 6 1967,Los Angeles Lakers,Philadelphia 76ers,117,119,Pittsburgh Civic Arena,0,/boxscores/196703060LAL.html
+Mon Mar 6 1967,Boston Celtics,Detroit Pistons,127,103,Rhode Island Auditorium,0,/boxscores/196703060BOS.html
+Mon Mar 6 1967,Cincinnati Royals,St. Louis Hawks,129,122,Mid-South Coliseum,0,/boxscores/196703060CIN.html
+Tue Mar 7 1967,Chicago Bulls,Boston Celtics,117,114,International Amphitheatre,0,/boxscores/196703070CHI.html
+Tue Mar 7 1967,New York Knicks,Los Angeles Lakers,119,131,Madison Square Garden (III),0,/boxscores/196703070NYK.html
+Wed Mar 8 1967,Boston Celtics,Philadelphia 76ers,113,115,Boston Garden,0,/boxscores/196703080BOS.html
+Wed Mar 8 1967,Detroit Pistons,Baltimore Bullets,120,113,Cobo Arena,0,/boxscores/196703080DET.html
+Wed Mar 8 1967,Los Angeles Lakers,St. Louis Hawks,104,106,Los Angeles Memorial Sports Arena,0,/boxscores/196703080LAL.html
+Fri Mar 10 1967,San Francisco Warriors,St. Louis Hawks,105,111,San Francisco Civic Auditorium,0,/boxscores/196703100SFW.html
+Fri Mar 10 1967,Los Angeles Lakers,Detroit Pistons,118,103,Los Angeles Memorial Sports Arena,0,/boxscores/196703100LAL.html
+Fri Mar 10 1967,Chicago Bulls,Baltimore Bullets,132,115,International Amphitheatre,0,/boxscores/196703100CHI.html
+Sat Mar 11 1967,Cincinnati Royals,Chicago Bulls,147,119,Cincinnati Gardens,0,/boxscores/196703110CIN.html
+Sat Mar 11 1967,Philadelphia 76ers,Boston Celtics,114,116,Convention Hall,0,/boxscores/196703110PHI.html
+Sat Mar 11 1967,San Francisco Warriors,Los Angeles Lakers,120,125,San Francisco Civic Auditorium,0,/boxscores/196703110SFW.html
+Sun Mar 12 1967,Boston Celtics,Baltimore Bullets,123,118,Boston Garden,0,/boxscores/196703120BOS.html
+Sun Mar 12 1967,Los Angeles Lakers,Detroit Pistons,104,120,Los Angeles Memorial Sports Arena,0,/boxscores/196703120LAL.html
+Sun Mar 12 1967,New York Knicks,Philadelphia 76ers,120,131,Madison Square Garden (III),0,/boxscores/196703120NYK.html
+Sun Mar 12 1967,St. Louis Hawks,Cincinnati Royals,120,119,Kiel Auditorium,0,/boxscores/196703120STL.html
+Mon Mar 13 1967,San Francisco Warriors,Detroit Pistons,135,109,San Francisco Civic Auditorium,0,/boxscores/196703130SFW.html
+Mon Mar 13 1967,Chicago Bulls,Cincinnati Royals,117,133,International Amphitheatre,0,/boxscores/196703130CHI.html
+Mon Mar 13 1967,Boston Celtics,St. Louis Hawks,122,123,Mid-South Coliseum,0,/boxscores/196703130BOS.html
+Tue Mar 14 1967,Chicago Bulls,St. Louis Hawks,98,111,International Amphitheatre,0,/boxscores/196703140CHI.html
+Tue Mar 14 1967,San Francisco Warriors,Philadelphia 76ers,110,139,San Francisco Civic Auditorium,0,/boxscores/196703140SFW.html
+Wed Mar 15 1967,Baltimore Bullets,New York Knicks,121,114,Baltimore Civic Center,0,/boxscores/196703150BAL.html
+Wed Mar 15 1967,Cincinnati Royals,Boston Celtics,112,108,Cincinnati Gardens,0,/boxscores/196703150CIN.html
+Wed Mar 15 1967,Detroit Pistons,Chicago Bulls,91,98,Cobo Arena,0,/boxscores/196703150DET.html
+Wed Mar 15 1967,Los Angeles Lakers,Philadelphia 76ers,123,138,Los Angeles Memorial Sports Arena,0,/boxscores/196703150LAL.html
+Thu Mar 16 1967,Cincinnati Royals,St. Louis Hawks,114,111,Cleveland Arena,0,/boxscores/196703160CIN.html
+Thu Mar 16 1967,Detroit Pistons,Boston Celtics,109,132,Cobo Arena,0,/boxscores/196703160DET.html
+Thu Mar 16 1967,San Francisco Warriors,Philadelphia 76ers,145,131,San Francisco Civic Auditorium,0,/boxscores/196703160SFW.html
+Fri Mar 17 1967,Baltimore Bullets,Los Angeles Lakers,133,135,Baltimore Civic Center,0,/boxscores/196703170BAL.html
+Fri Mar 17 1967,Chicago Bulls,San Francisco Warriors,120,117,International Amphitheatre,0,/boxscores/196703170CHI.html
+Sat Mar 18 1967,Cincinnati Royals,San Francisco Warriors,127,112,Cincinnati Gardens,0,/boxscores/196703180CIN.html
+Sat Mar 18 1967,New York Knicks,Boston Celtics,123,140,Madison Square Garden (III),0,/boxscores/196703180NYK.html
+Sat Mar 18 1967,Philadelphia 76ers,Baltimore Bullets,135,119,Convention Hall,0,/boxscores/196703180PHI.html
+Sat Mar 18 1967,St. Louis Hawks,Detroit Pistons,102,99,Kiel Auditorium,0,/boxscores/196703180STL.html
+Sun Mar 19 1967,Detroit Pistons,San Francisco Warriors,127,135,Cobo Arena,0,/boxscores/196703190DET.html
+Sun Mar 19 1967,Chicago Bulls,Los Angeles Lakers,122,109,International Amphitheatre,0,/boxscores/196703190CHI.html
+Sun Mar 19 1967,Baltimore Bullets,Philadelphia 76ers,129,132,Baltimore Civic Center,0,/boxscores/196703190BAL.html
+Sun Mar 19 1967,Boston Celtics,New York Knicks,124,113,Boston Garden,0,/boxscores/196703190BOS.html
+Tue Mar 21 1967,Boston Celtics,New York Knicks,140,110,Boston Garden,0,/boxscores/196703210BOS.html
+Tue Mar 21 1967,Philadelphia 76ers,Cincinnati Royals,116,120,Convention Hall,0,/boxscores/196703210PHI.html
+Tue Mar 21 1967,San Francisco Warriors,Los Angeles Lakers,124,108,Oakland-Alameda County Coliseum Arena,0,/boxscores/196703210SFW.html
+Tue Mar 21 1967,St. Louis Hawks,Chicago Bulls,114,100,Kiel Auditorium,0,/boxscores/196703210STL.html
+Wed Mar 22 1967,Cincinnati Royals,Philadelphia 76ers,102,123,Cincinnati Gardens,0,/boxscores/196703220CIN.html
+Thu Mar 23 1967,Chicago Bulls,St. Louis Hawks,107,113,Chicago Coliseum,0,/boxscores/196703230CHI.html
+Thu Mar 23 1967,Los Angeles Lakers,San Francisco Warriors,102,113,Los Angeles Memorial Sports Arena,0,/boxscores/196703230LAL.html
+Fri Mar 24 1967,Philadelphia 76ers,Cincinnati Royals,121,106,Convention Hall,0,/boxscores/196703240PHI.html
+Sat Mar 25 1967,Cincinnati Royals,Philadelphia 76ers,94,112,Cincinnati Gardens,0,/boxscores/196703250CIN.html
+Sat Mar 25 1967,New York Knicks,Boston Celtics,108,115,Madison Square Garden (III),0,/boxscores/196703250NYK.html
+Sat Mar 25 1967,St. Louis Hawks,Chicago Bulls,119,106,Kiel Auditorium,0,/boxscores/196703250STL.html
+Sun Mar 26 1967,Boston Celtics,New York Knicks,112,123,Boston Garden,0,/boxscores/196703260BOS.html
+Sun Mar 26 1967,San Francisco Warriors,Los Angeles Lakers,122,115,Cow Palace,0,/boxscores/196703260SFW.html
+Tue Mar 28 1967,New York Knicks,Boston Celtics,109,118,Madison Square Garden (III),0,/boxscores/196703280NYK.html
+Thu Mar 30 1967,San Francisco Warriors,St. Louis Hawks,117,115,Cow Palace,0,/boxscores/196703300SFW.html
+Fri Mar 31 1967,Philadelphia 76ers,Boston Celtics,127,113,The Palestra,0,/boxscores/196703310PHI.html

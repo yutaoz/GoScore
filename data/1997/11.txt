@@ -1,0 +1,216 @@
+Fri Nov 1 1996,Boston Celtics,Chicago Bulls,98,107,FleetCenter,18624,/boxscores/199611010BOS.html
+Fri Nov 1 1996,Denver Nuggets,Dallas Mavericks,91,92,McNichols Sports Arena,16104,/boxscores/199611010DEN.html
+Fri Nov 1 1996,Detroit Pistons,Indiana Pacers,95,89,The Palace of Auburn Hills,21454,/boxscores/199611010DET.html
+Fri Nov 1 1996,Golden State Warriors,Los Angeles Clippers,85,97,San Jose Arena,15593,/boxscores/199611010GSW.html
+Fri Nov 1 1996,Houston Rockets,Sacramento Kings,96,85,The Summit,16285,/boxscores/199611010HOU.html
+Fri Nov 1 1996,Los Angeles Lakers,Phoenix Suns,96,82,Great Western Forum,17505,/boxscores/199611010LAL.html
+Fri Nov 1 1996,Miami Heat,Atlanta Hawks,94,81,Miami Arena,15113,/boxscores/199611010MIA.html
+Fri Nov 1 1996,Minnesota Timberwolves,San Antonio Spurs,82,78,Target Center,18109,/boxscores/199611010MIN.html
+Fri Nov 1 1996,New Jersey Nets,Cleveland Cavaliers,77,90,Continental Airlines Arena,18316,/boxscores/199611010NJN.html
+Fri Nov 1 1996,Orlando Magic,Washington Bullets,92,96,Orlando Arena,17248,/boxscores/199611010ORL.html
+Fri Nov 1 1996,Philadelphia 76ers,Milwaukee Bucks,103,111,CoreStates Center,20444,/boxscores/199611010PHI.html
+Fri Nov 1 1996,Toronto Raptors,New York Knicks,99,107,SkyDome,28457,/boxscores/199611010TOR.html
+Fri Nov 1 1996,Utah Jazz,Seattle SuperSonics,99,91,Delta Center,19911,/boxscores/199611010UTA.html
+Fri Nov 1 1996,Vancouver Grizzlies,Portland Trail Blazers,85,114,General Motors Place,19193,/boxscores/199611010VAN.html
+Sat Nov 2 1996,Atlanta Hawks,Detroit Pistons,78,90,Omni Coliseum,16378,/boxscores/199611020ATL.html
+Sat Nov 2 1996,Charlotte Hornets,Toronto Raptors,109,98,Charlotte Coliseum,24042,/boxscores/199611020CHH.html
+Sat Nov 2 1996,Chicago Bulls,Philadelphia 76ers,115,86,United Center,24040,/boxscores/199611020CHI.html
+Sat Nov 2 1996,Dallas Mavericks,Sacramento Kings,94,107,Reunion Arena,18042,/boxscores/199611020DAL.html
+Sat Nov 2 1996,Indiana Pacers,Miami Heat,95,97,Market Square Arena,15948,/boxscores/199611020IND.html
+Sat Nov 2 1996,Los Angeles Clippers,Utah Jazz,90,95,Los Angeles Memorial Sports Arena,13041,/boxscores/199611020LAC.html
+Sat Nov 2 1996,Milwaukee Bucks,Boston Celtics,124,102,Bradley Center,17275,/boxscores/199611020MIL.html
+Sat Nov 2 1996,Phoenix Suns,Houston Rockets,95,110,America West Arena,19023,/boxscores/199611020PHO.html
+Sat Nov 2 1996,Seattle SuperSonics,Portland Trail Blazers,104,93,KeyArena at Seattle Center,17072,/boxscores/199611020SEA.html
+Sat Nov 2 1996,Washington Bullets,Cleveland Cavaliers,96,98,US Airways Arena,18756,/boxscores/199611020WSB.html
+Sun Nov 3 1996,Los Angeles Lakers,Minnesota Timberwolves,91,85,Great Western Forum,15407,/boxscores/199611030LAL.html
+Sun Nov 3 1996,New York Knicks,Charlotte Hornets,113,86,Madison Square Garden (IV),19763,/boxscores/199611030NYK.html
+Sun Nov 3 1996,San Antonio Spurs,Denver Nuggets,79,88,Alamodome,20791,/boxscores/199611030SAS.html
+Sun Nov 3 1996,Vancouver Grizzlies,Golden State Warriors,95,105,General Motors Place,15781,/boxscores/199611030VAN.html
+Mon Nov 4 1996,Portland Trail Blazers,Atlanta Hawks,76,94,Rose Garden Arena,21567,/boxscores/199611040POR.html
+Mon Nov 4 1996,Utah Jazz,Houston Rockets,72,75,Delta Center,19911,/boxscores/199611040UTA.html
+Tue Nov 5 1996,Chicago Bulls,Vancouver Grizzlies,96,73,United Center,23726,/boxscores/199611050CHI.html
+Tue Nov 5 1996,Cleveland Cavaliers,San Antonio Spurs,68,74,Gund Arena,15587,/boxscores/199611050CLE.html
+Tue Nov 5 1996,Denver Nuggets,Los Angeles Clippers,78,82,McNichols Sports Arena,10190,/boxscores/199611050DEN.html
+Tue Nov 5 1996,Golden State Warriors,Portland Trail Blazers,93,111,San Jose Arena,13458,/boxscores/199611050GSW.html
+Tue Nov 5 1996,New York Knicks,Los Angeles Lakers,92,98,Madison Square Garden (IV),19763,/boxscores/199611050NYK.html
+Tue Nov 5 1996,Philadelphia 76ers,Detroit Pistons,81,83,CoreStates Center,12713,/boxscores/199611050PHI.html
+Tue Nov 5 1996,Phoenix Suns,Minnesota Timberwolves,95,98,America West Arena,19023,/boxscores/199611050PHO.html
+Tue Nov 5 1996,Sacramento Kings,Houston Rockets,80,102,ARCO Arena (II),17317,/boxscores/199611050SAC.html
+Tue Nov 5 1996,Seattle SuperSonics,Atlanta Hawks,95,117,KeyArena at Seattle Center,17072,/boxscores/199611050SEA.html
+Tue Nov 5 1996,Toronto Raptors,Dallas Mavericks,100,96,SkyDome,17065,/boxscores/199611050TOR.html
+Wed Nov 6 1996,Boston Celtics,Indiana Pacers,94,84,FleetCenter,14467,/boxscores/199611060BOS.html
+Wed Nov 6 1996,Charlotte Hornets,Los Angeles Lakers,88,78,Charlotte Coliseum,24042,/boxscores/199611060CHH.html
+Wed Nov 6 1996,Detroit Pistons,Dallas Mavericks,103,84,The Palace of Auburn Hills,14473,/boxscores/199611060DET.html
+Wed Nov 6 1996,Miami Heat,Chicago Bulls,100,106,Miami Arena,15200,/boxscores/199611060MIA.html
+Wed Nov 6 1996,Milwaukee Bucks,Vancouver Grizzlies,105,89,Bradley Center,13689,/boxscores/199611060MIL.html
+Wed Nov 6 1996,Washington Bullets,San Antonio Spurs,96,86,US Airways Arena,17110,/boxscores/199611060WSB.html
+Thu Nov 7 1996,Denver Nuggets,Houston Rockets,108,110,McNichols Sports Arena,12137,/boxscores/199611070DEN.html
+Thu Nov 7 1996,Golden State Warriors,New York Knicks,100,105,San Jose Arena,16639,/boxscores/199611070GSW.html
+Thu Nov 7 1996,New Jersey Nets,Orlando Magic,95,108,Tokyo Dome,38639,/boxscores/199611070NJN.html
+Thu Nov 7 1996,Phoenix Suns,Seattle SuperSonics,98,103,America West Arena,19023,/boxscores/199611070PHO.html
+Thu Nov 7 1996,Portland Trail Blazers,Minnesota Timberwolves,95,94,Rose Garden Arena,20439,/boxscores/199611070POR.html
+Thu Nov 7 1996,Sacramento Kings,Atlanta Hawks,87,91,ARCO Arena (II),17317,/boxscores/199611070SAC.html
+Fri Nov 8 1996,Boston Celtics,Philadelphia 76ers,105,115,FleetCenter,14733,/boxscores/199611080BOS.html
+Fri Nov 8 1996,Cleveland Cavaliers,Vancouver Grizzlies,88,72,Gund Arena,13691,/boxscores/199611080CLE.html
+Fri Nov 8 1996,Denver Nuggets,Golden State Warriors,94,91,McNichols Sports Arena,10302,/boxscores/199611080DEN.html
+Fri Nov 8 1996,Detroit Pistons,Chicago Bulls,80,98,The Palace of Auburn Hills,21454,/boxscores/199611080DET.html
+Fri Nov 8 1996,Los Angeles Clippers,New York Knicks,81,88,Los Angeles Memorial Sports Arena,13242,/boxscores/199611080LAC.html
+Fri Nov 8 1996,Miami Heat,Milwaukee Bucks,101,89,Miami Arena,15200,/boxscores/199611080MIA.html
+Fri Nov 8 1996,Orlando Magic,New Jersey Nets,86,82,Tokyo Dome,38639,/boxscores/199611080ORL.html
+Fri Nov 8 1996,San Antonio Spurs,Seattle SuperSonics,75,87,Alamodome,15027,/boxscores/199611080SAS.html
+Fri Nov 8 1996,Toronto Raptors,Los Angeles Lakers,93,92,SkyDome,27357,/boxscores/199611080TOR.html
+Fri Nov 8 1996,Washington Bullets,Charlotte Hornets,87,102,US Airways Arena,18756,/boxscores/199611080WSB.html
+Sat Nov 9 1996,Charlotte Hornets,Milwaukee Bucks,98,100,Charlotte Coliseum,24042,/boxscores/199611090CHH.html
+Sat Nov 9 1996,Chicago Bulls,Boston Celtics,104,92,United Center,23813,/boxscores/199611090CHI.html
+Sat Nov 9 1996,Dallas Mavericks,Miami Heat,84,91,Reunion Arena,15021,/boxscores/199611090DAL.html
+Sat Nov 9 1996,Houston Rockets,Utah Jazz,91,85,The Summit,16285,/boxscores/199611090HOU.html
+Sat Nov 9 1996,Indiana Pacers,Washington Bullets,103,100,Market Square Arena,15591,/boxscores/199611090IND.html
+Sat Nov 9 1996,Philadelphia 76ers,Phoenix Suns,112,95,CoreStates Center,17006,/boxscores/199611090PHI.html
+Sat Nov 9 1996,Sacramento Kings,Portland Trail Blazers,103,102,ARCO Arena (II),17317,/boxscores/199611090SAC.html
+Sun Nov 10 1996,Cleveland Cavaliers,Denver Nuggets,101,86,Gund Arena,13921,/boxscores/199611100CLE.html
+Sun Nov 10 1996,Los Angeles Clippers,Minnesota Timberwolves,81,70,Los Angeles Memorial Sports Arena,6314,/boxscores/199611100LAC.html
+Sun Nov 10 1996,Los Angeles Lakers,Atlanta Hawks,92,85,Great Western Forum,16097,/boxscores/199611100LAL.html
+Sun Nov 10 1996,Portland Trail Blazers,San Antonio Spurs,94,81,Rose Garden Arena,20112,/boxscores/199611100POR.html
+Sun Nov 10 1996,Vancouver Grizzlies,New York Knicks,82,101,General Motors Place,17356,/boxscores/199611100VAN.html
+Mon Nov 11 1996,Chicago Bulls,Phoenix Suns,97,79,United Center,23807,/boxscores/199611110CHI.html
+Mon Nov 11 1996,Sacramento Kings,Seattle SuperSonics,94,110,ARCO Arena (II),17317,/boxscores/199611110SAC.html
+Mon Nov 11 1996,Toronto Raptors,Denver Nuggets,93,104,SkyDome,17132,/boxscores/199611110TOR.html
+Tue Nov 12 1996,Atlanta Hawks,Cleveland Cavaliers,87,83,Omni Coliseum,7385,/boxscores/199611120ATL.html
+Tue Nov 12 1996,Dallas Mavericks,Indiana Pacers,103,82,Reunion Arena,14153,/boxscores/199611120DAL.html
+Tue Nov 12 1996,Houston Rockets,Los Angeles Lakers,115,126,The Summit,16285,/boxscores/199611120HOU.html
+Tue Nov 12 1996,Miami Heat,Charlotte Hornets,105,97,Miami Arena,14393,/boxscores/199611120MIA.html
+Tue Nov 12 1996,Milwaukee Bucks,Phoenix Suns,99,89,Bradley Center,13565,/boxscores/199611120MIL.html
+Tue Nov 12 1996,Minnesota Timberwolves,Portland Trail Blazers,100,97,Target Center,14107,/boxscores/199611120MIN.html
+Tue Nov 12 1996,New York Knicks,Philadelphia 76ers,97,101,Madison Square Garden (IV),19763,/boxscores/199611120NYK.html
+Tue Nov 12 1996,Seattle SuperSonics,Golden State Warriors,121,102,KeyArena at Seattle Center,17072,/boxscores/199611120SEA.html
+Tue Nov 12 1996,Vancouver Grizzlies,Los Angeles Clippers,92,99,General Motors Place,14259,/boxscores/199611120VAN.html
+Tue Nov 12 1996,Washington Bullets,Detroit Pistons,79,92,US Airways Arena,15111,/boxscores/199611120WSB.html
+Wed Nov 13 1996,Boston Celtics,Atlanta Hawks,103,85,FleetCenter,13184,/boxscores/199611130BOS.html
+Wed Nov 13 1996,Chicago Bulls,Miami Heat,103,71,United Center,23889,/boxscores/199611130CHI.html
+Wed Nov 13 1996,Cleveland Cavaliers,Portland Trail Blazers,81,70,Gund Arena,13757,/boxscores/199611130CLE.html
+Wed Nov 13 1996,Detroit Pistons,Denver Nuggets,95,94,The Palace of Auburn Hills,13717,/boxscores/199611130DET.html
+Wed Nov 13 1996,New Jersey Nets,Washington Bullets,91,106,Continental Airlines Arena,10884,/boxscores/199611130NJN.html
+Wed Nov 13 1996,San Antonio Spurs,Los Angeles Lakers,95,83,Alamodome,26002,/boxscores/199611130SAS.html
+Wed Nov 13 1996,Toronto Raptors,Philadelphia 76ers,110,98,SkyDome,17385,/boxscores/199611130TOR.html
+Wed Nov 13 1996,Utah Jazz,Sacramento Kings,105,74,Delta Center,19283,/boxscores/199611130UTA.html
+Thu Nov 14 1996,Golden State Warriors,Milwaukee Bucks,95,86,San Jose Arena,14414,/boxscores/199611140GSW.html
+Thu Nov 14 1996,Houston Rockets,Indiana Pacers,90,88,The Summit,16285,/boxscores/199611140HOU.html
+Thu Nov 14 1996,Los Angeles Clippers,Seattle SuperSonics,78,94,Los Angeles Memorial Sports Arena,6238,/boxscores/199611140LAC.html
+Thu Nov 14 1996,Minnesota Timberwolves,Dallas Mavericks,100,90,Target Center,14079,/boxscores/199611140MIN.html
+Thu Nov 14 1996,New York Knicks,Toronto Raptors,99,96,Madison Square Garden (IV),19763,/boxscores/199611140NYK.html
+Thu Nov 14 1996,Orlando Magic,Charlotte Hornets,96,89,Orlando Arena,17248,/boxscores/199611140ORL.html
+Thu Nov 14 1996,Vancouver Grizzlies,Phoenix Suns,92,89,General Motors Place,15158,/boxscores/199611140VAN.html
+Fri Nov 15 1996,Atlanta Hawks,Miami Heat,85,77,Omni Coliseum,16378,/boxscores/199611150ATL.html
+Fri Nov 15 1996,Boston Celtics,Denver Nuggets,80,82,FleetCenter,14133,/boxscores/199611150BOS.html
+Fri Nov 15 1996,Charlotte Hornets,Chicago Bulls,87,110,Charlotte Coliseum,24042,/boxscores/199611150CHH.html
+Fri Nov 15 1996,Detroit Pistons,Washington Bullets,95,84,The Palace of Auburn Hills,21454,/boxscores/199611150DET.html
+Fri Nov 15 1996,Los Angeles Lakers,Los Angeles Clippers,107,100,Great Western Forum,16207,/boxscores/199611150LAL.html
+Fri Nov 15 1996,New Jersey Nets,Portland Trail Blazers,85,93,Continental Airlines Arena,12016,/boxscores/199611150NJN.html
+Fri Nov 15 1996,Philadelphia 76ers,Cleveland Cavaliers,89,105,CoreStates Center,12901,/boxscores/199611150PHI.html
+Fri Nov 15 1996,Sacramento Kings,Milwaukee Bucks,103,99,ARCO Arena (II),17317,/boxscores/199611150SAC.html
+Fri Nov 15 1996,San Antonio Spurs,Indiana Pacers,78,93,Alamodome,14395,/boxscores/199611150SAS.html
+Fri Nov 15 1996,Utah Jazz,Vancouver Grizzlies,104,96,Delta Center,19046,/boxscores/199611150UTA.html
+Sat Nov 16 1996,Chicago Bulls,Atlanta Hawks,97,69,United Center,23939,/boxscores/199611160CHI.html
+Sat Nov 16 1996,Cleveland Cavaliers,Detroit Pistons,98,102,Gund Arena,17808,/boxscores/199611160CLE.html
+Sat Nov 16 1996,Dallas Mavericks,Utah Jazz,87,88,Reunion Arena,15947,/boxscores/199611160DAL.html
+Sat Nov 16 1996,Houston Rockets,Golden State Warriors,115,103,The Summit,16285,/boxscores/199611160HOU.html
+Sat Nov 16 1996,Miami Heat,Philadelphia 76ers,89,91,Miami Arena,15200,/boxscores/199611160MIA.html
+Sat Nov 16 1996,New Jersey Nets,Denver Nuggets,106,99,Continental Airlines Arena,13309,/boxscores/199611160NJN.html
+Sat Nov 16 1996,New York Knicks,Minnesota Timberwolves,82,79,Madison Square Garden (IV),19763,/boxscores/199611160NYK.html
+Sat Nov 16 1996,Orlando Magic,Toronto Raptors,92,87,Orlando Arena,17248,/boxscores/199611160ORL.html
+Sat Nov 16 1996,Seattle SuperSonics,Sacramento Kings,108,96,KeyArena at Seattle Center,17072,/boxscores/199611160SEA.html
+Sat Nov 16 1996,Washington Bullets,Boston Celtics,106,92,US Airways Arena,18756,/boxscores/199611160WSB.html
+Sun Nov 17 1996,Indiana Pacers,Portland Trail Blazers,83,88,Market Square Arena,13555,/boxscores/199611170IND.html
+Sun Nov 17 1996,Los Angeles Clippers,Milwaukee Bucks,102,94,Los Angeles Memorial Sports Arena,7311,/boxscores/199611170LAC.html
+Sun Nov 17 1996,Phoenix Suns,Los Angeles Lakers,88,102,America West Arena,19023,/boxscores/199611170PHO.html
+Sun Nov 17 1996,San Antonio Spurs,Golden State Warriors,92,102,Alamodome,13334,/boxscores/199611170SAS.html
+Sun Nov 17 1996,Seattle SuperSonics,Vancouver Grizzlies,91,81,KeyArena at Seattle Center,17072,/boxscores/199611170SEA.html
+Mon Nov 18 1996,Vancouver Grizzlies,Sacramento Kings,83,84,General Motors Place,14672,/boxscores/199611180VAN.html
+Tue Nov 19 1996,Cleveland Cavaliers,Atlanta Hawks,73,63,Gund Arena,14182,/boxscores/199611190CLE.html
+Tue Nov 19 1996,Denver Nuggets,Miami Heat,86,104,McNichols Sports Arena,12119,/boxscores/199611190DEN.html
+Tue Nov 19 1996,Golden State Warriors,Los Angeles Lakers,109,112,San Jose Arena,18742,/boxscores/199611190GSW.html
+Tue Nov 19 1996,Houston Rockets,Minnesota Timberwolves,122,93,The Summit,16285,/boxscores/199611190HOU.html
+Tue Nov 19 1996,Milwaukee Bucks,Dallas Mavericks,100,97,Bradley Center,13225,/boxscores/199611190MIL.html
+Tue Nov 19 1996,Orlando Magic,New York Knicks,88,92,Orlando Arena,17248,/boxscores/199611190ORL.html
+Tue Nov 19 1996,Portland Trail Blazers,Sacramento Kings,92,90,Rose Garden Arena,20245,/boxscores/199611190POR.html
+Tue Nov 19 1996,Toronto Raptors,Seattle SuperSonics,98,106,SkyDome,18803,/boxscores/199611190TOR.html
+Wed Nov 20 1996,Boston Celtics,Detroit Pistons,83,108,FleetCenter,14291,/boxscores/199611200BOS.html
+Wed Nov 20 1996,Charlotte Hornets,New York Knicks,93,86,Charlotte Coliseum,24042,/boxscores/199611200CHH.html
+Wed Nov 20 1996,Los Angeles Lakers,Utah Jazz,97,113,Great Western Forum,16122,/boxscores/199611200LAL.html
+Wed Nov 20 1996,Philadelphia 76ers,Indiana Pacers,92,103,CoreStates Center,11831,/boxscores/199611200PHI.html
+Wed Nov 20 1996,Phoenix Suns,Chicago Bulls,99,113,America West Arena,19023,/boxscores/199611200PHO.html
+Wed Nov 20 1996,San Antonio Spurs,Los Angeles Clippers,81,93,Alamodome,13386,/boxscores/199611200SAS.html
+Wed Nov 20 1996,Vancouver Grizzlies,Miami Heat,75,94,General Motors Place,15054,/boxscores/199611200VAN.html
+Wed Nov 20 1996,Washington Bullets,Seattle SuperSonics,110,115,US Airways Arena,18756,/boxscores/199611200WSB.html
+Thu Nov 21 1996,Dallas Mavericks,Los Angeles Clippers,105,94,Reunion Arena,13510,/boxscores/199611210DAL.html
+Thu Nov 21 1996,Denver Nuggets,Chicago Bulls,92,110,McNichols Sports Arena,17171,/boxscores/199611210DEN.html
+Thu Nov 21 1996,Detroit Pistons,New Jersey Nets,96,88,The Palace of Auburn Hills,14753,/boxscores/199611210DET.html
+Thu Nov 21 1996,Houston Rockets,Phoenix Suns,115,105,The Summit,16285,/boxscores/199611210HOU.html
+Thu Nov 21 1996,Indiana Pacers,Charlotte Hornets,87,90,Market Square Arena,13853,/boxscores/199611210IND.html
+Thu Nov 21 1996,Milwaukee Bucks,Atlanta Hawks,65,73,Bradley Center,14698,/boxscores/199611210MIL.html
+Thu Nov 21 1996,Orlando Magic,Minnesota Timberwolves,90,86,Orlando Arena,16837,/boxscores/199611210ORL.html
+Thu Nov 21 1996,Toronto Raptors,Cleveland Cavaliers,81,89,SkyDome,16835,/boxscores/199611210TOR.html
+Thu Nov 21 1996,Utah Jazz,Golden State Warriors,109,104,Delta Center,18889,/boxscores/199611210UTA.html
+Fri Nov 22 1996,Boston Celtics,Seattle SuperSonics,91,118,FleetCenter,17220,/boxscores/199611220BOS.html
+Fri Nov 22 1996,Los Angeles Lakers,San Antonio Spurs,96,86,Great Western Forum,17505,/boxscores/199611220LAL.html
+Fri Nov 22 1996,Sacramento Kings,Miami Heat,108,111,ARCO Arena (II),17317,/boxscores/199611220SAC.html
+Fri Nov 22 1996,Washington Bullets,Philadelphia 76ers,88,76,US Airways Arena,18756,/boxscores/199611220WSB.html
+Sat Nov 23 1996,Charlotte Hornets,Detroit Pistons,93,85,Charlotte Coliseum,24042,/boxscores/199611230CHH.html
+Sat Nov 23 1996,Golden State Warriors,Houston Rockets,115,120,San Jose Arena,16896,/boxscores/199611230GSW.html
+Sat Nov 23 1996,Indiana Pacers,Orlando Magic,73,76,Market Square Arena,16158,/boxscores/199611230IND.html
+Sat Nov 23 1996,Milwaukee Bucks,Washington Bullets,90,95,Bradley Center,16508,/boxscores/199611230MIL.html
+Sat Nov 23 1996,Minnesota Timberwolves,Los Angeles Clippers,98,96,Target Center,16877,/boxscores/199611230MIN.html
+Sat Nov 23 1996,New Jersey Nets,Dallas Mavericks,114,91,Continental Airlines Arena,15701,/boxscores/199611230NJN.html
+Sat Nov 23 1996,Philadelphia 76ers,New York Knicks,109,92,CoreStates Center,19209,/boxscores/199611230PHI.html
+Sat Nov 23 1996,Portland Trail Blazers,Denver Nuggets,105,65,Rose Garden Arena,20116,/boxscores/199611230POR.html
+Sat Nov 23 1996,Toronto Raptors,Atlanta Hawks,88,91,SkyDome,16838,/boxscores/199611230TOR.html
+Sat Nov 23 1996,Utah Jazz,Chicago Bulls,105,100,Delta Center,19911,/boxscores/199611230UTA.html
+Sun Nov 24 1996,Boston Celtics,Dallas Mavericks,105,91,FleetCenter,15244,/boxscores/199611240BOS.html
+Sun Nov 24 1996,Cleveland Cavaliers,Sacramento Kings,103,74,Gund Arena,13786,/boxscores/199611240CLE.html
+Sun Nov 24 1996,Los Angeles Lakers,Houston Rockets,85,90,Great Western Forum,17505,/boxscores/199611240LAL.html
+Sun Nov 24 1996,New York Knicks,Seattle SuperSonics,92,102,Madison Square Garden (IV),19763,/boxscores/199611240NYK.html
+Sun Nov 24 1996,Phoenix Suns,Miami Heat,84,87,America West Arena,19023,/boxscores/199611240PHO.html
+Sun Nov 24 1996,Vancouver Grizzlies,San Antonio Spurs,96,91,General Motors Place,15874,/boxscores/199611240VAN.html
+Mon Nov 25 1996,Los Angeles Clippers,Chicago Bulls,84,88,Los Angeles Memorial Sports Arena,16144,/boxscores/199611250LAC.html
+Mon Nov 25 1996,Orlando Magic,Milwaukee Bucks,88,100,Orlando Arena,16808,/boxscores/199611250ORL.html
+Mon Nov 25 1996,Utah Jazz,New Jersey Nets,108,92,Delta Center,19132,/boxscores/199611250UTA.html
+Mon Nov 25 1996,Washington Bullets,Minnesota Timberwolves,105,98,US Airways Arena,12224,/boxscores/199611250WSB.html
+Tue Nov 26 1996,Atlanta Hawks,Vancouver Grizzlies,101,80,Omni Coliseum,6957,/boxscores/199611260ATL.html
+Tue Nov 26 1996,Charlotte Hornets,Seattle SuperSonics,97,89,Charlotte Coliseum,24042,/boxscores/199611260CHH.html
+Tue Nov 26 1996,Dallas Mavericks,San Antonio Spurs,105,101,Reunion Arena,14567,/boxscores/199611260DAL.html
+Tue Nov 26 1996,Denver Nuggets,Phoenix Suns,117,108,McNichols Sports Arena,9226,/boxscores/199611260DEN.html
+Tue Nov 26 1996,Golden State Warriors,Miami Heat,88,107,San Jose Arena,15026,/boxscores/199611260GSW.html
+Tue Nov 26 1996,Houston Rockets,Portland Trail Blazers,102,101,The Summit,16285,/boxscores/199611260HOU.html
+Tue Nov 26 1996,Philadelphia 76ers,Los Angeles Lakers,88,100,CoreStates Center,20652,/boxscores/199611260PHI.html
+Tue Nov 26 1996,Toronto Raptors,Sacramento Kings,87,98,SkyDome,15037,/boxscores/199611260TOR.html
+Wed Nov 27 1996,Boston Celtics,Los Angeles Lakers,110,94,FleetCenter,18624,/boxscores/199611270BOS.html
+Wed Nov 27 1996,Detroit Pistons,Vancouver Grizzlies,87,78,The Palace of Auburn Hills,15195,/boxscores/199611270DET.html
+Wed Nov 27 1996,Los Angeles Clippers,Miami Heat,82,98,Los Angeles Memorial Sports Arena,7006,/boxscores/199611270LAC.html
+Wed Nov 27 1996,Milwaukee Bucks,Cleveland Cavaliers,92,75,Bradley Center,14189,/boxscores/199611270MIL.html
+Wed Nov 27 1996,Minnesota Timberwolves,Seattle SuperSonics,98,106,Target Center,16173,/boxscores/199611270MIN.html
+Wed Nov 27 1996,Orlando Magic,Atlanta Hawks,79,75,Orlando Arena,17248,/boxscores/199611270ORL.html
+Wed Nov 27 1996,Phoenix Suns,New Jersey Nets,99,77,America West Arena,19023,/boxscores/199611270PHO.html
+Wed Nov 27 1996,San Antonio Spurs,Portland Trail Blazers,109,120,Alamodome,13797,/boxscores/199611270SAS.html
+Wed Nov 27 1996,Toronto Raptors,Charlotte Hornets,92,88,SkyDome,15710,/boxscores/199611270TOR.html
+Wed Nov 27 1996,Utah Jazz,Denver Nuggets,107,103,Delta Center,19324,/boxscores/199611270UTA.html
+Thu Nov 28 1996,Golden State Warriors,New Jersey Nets,124,118,San Jose Arena,15209,/boxscores/199611280GSW.html
+Thu Nov 28 1996,Indiana Pacers,Sacramento Kings,101,83,Market Square Arena,14732,/boxscores/199611280IND.html
+Fri Nov 29 1996,Atlanta Hawks,Washington Bullets,110,81,Omni Coliseum,12457,/boxscores/199611290ATL.html
+Fri Nov 29 1996,Boston Celtics,Houston Rockets,94,120,FleetCenter,18624,/boxscores/199611290BOS.html
+Fri Nov 29 1996,Dallas Mavericks,Chicago Bulls,97,116,Reunion Arena,18042,/boxscores/199611290DAL.html
+Fri Nov 29 1996,Denver Nuggets,Minnesota Timberwolves,103,108,McNichols Sports Arena,12129,/boxscores/199611290DEN.html
+Fri Nov 29 1996,Detroit Pistons,Los Angeles Lakers,76,84,The Palace of Auburn Hills,21454,/boxscores/199611290DET.html
+Fri Nov 29 1996,Indiana Pacers,Vancouver Grizzlies,104,94,Market Square Arena,15488,/boxscores/199611290IND.html
+Fri Nov 29 1996,Philadelphia 76ers,Orlando Magic,100,91,CoreStates Center,15489,/boxscores/199611290PHI.html
+Fri Nov 29 1996,Portland Trail Blazers,Golden State Warriors,119,93,Rose Garden Arena,21068,/boxscores/199611290POR.html
+Fri Nov 29 1996,Seattle SuperSonics,Phoenix Suns,105,92,KeyArena at Seattle Center,17072,/boxscores/199611290SEA.html
+Fri Nov 29 1996,Utah Jazz,Los Angeles Clippers,111,94,Delta Center,19381,/boxscores/199611290UTA.html
+Sat Nov 30 1996,Cleveland Cavaliers,Orlando Magic,82,86,Gund Arena,19351,/boxscores/199611300CLE.html
+Sat Nov 30 1996,Los Angeles Clippers,New Jersey Nets,95,106,Arrowhead Pond,11519,/boxscores/199611300LAC.html
+Sat Nov 30 1996,Miami Heat,Boston Celtics,78,77,Miami Arena,15112,/boxscores/199611300MIA.html
+Sat Nov 30 1996,Milwaukee Bucks,Charlotte Hornets,87,94,Bradley Center,16327,/boxscores/199611300MIL.html
+Sat Nov 30 1996,Minnesota Timberwolves,Toronto Raptors,79,70,Target Center,18679,/boxscores/199611300MIN.html
+Sat Nov 30 1996,New York Knicks,Sacramento Kings,115,101,Madison Square Garden (IV),19763,/boxscores/199611300NYK.html
+Sat Nov 30 1996,Philadelphia 76ers,Vancouver Grizzlies,96,90,CoreStates Center,13038,/boxscores/199611300PHI.html
+Sat Nov 30 1996,San Antonio Spurs,Chicago Bulls,88,97,Alamodome,37058,/boxscores/199611300SAS.html
+Sat Nov 30 1996,Washington Bullets,Houston Rockets,99,103,US Airways Arena,18756,/boxscores/199611300WSB.html
